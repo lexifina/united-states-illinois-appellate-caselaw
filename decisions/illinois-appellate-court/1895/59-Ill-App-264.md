@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1895-05-28"
-citations: ["59 Ill. App. 264", "59 Ill. App. 268"]
+citations: ["59 Ill. App. 264"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Thomas B. Shaw v. Azilda Shaw."]
 source_url: "https://static.case.law/ill-app/59/cases/0264-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5152191
-cites_cases: ["142 Ill. 19", "47 Ill. 290"]
 ---
 
 # Shaw v. Shaw
