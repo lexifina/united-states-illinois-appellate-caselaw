@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,723"
+decided: "1967-11-27"
+citations: ["89 Ill. App. 2d 180"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Napoleon P. Barney, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/89/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2544298
+cites_cases: ["13 Ill2d 520", "150 NE2d 168", "16 ALR3d 726", "176 F2d 45", "206 NE2d 463", "208 NE2d 378", "214 NE2d 546", "224 NE2d 817", "225 NE2d 679", "226 NE2d 67", "358 US 828", "37 Ill2d 103", "383 US 910", "57 Ill App2d 74", "60 Ill App2d 79", "67 Ill App2d 492", "80 Ill App2d 445", "83 Ill App2d 18"]
+---
+
+# People v. Barney
+
+## Majority (MR. JUSTICE ADESKO)
+
+MR. JUSTICE ADESKO
+delivered the opinion of the court.
+Defendant, Napoleon P. Barney, was charged with unlawful possession of narcotics. He was found guilty in a bench trial and sentenced to five to eight years in the Illinois State Penitentiary. He prosecutes this appeal contending (1) the evidence does not establish that defendant knowingly possessed narcotics; (2) that possession was not proven beyond a reasonable doubt; (3) that use for impeachment purposes of defendant’s prior conviction for unlawful sale of narcotics should not have been allowed because that conviction was pending on appeal; and (4) that the aggravated penalties provision was improperly invoked.
+A police officer assigned to the Vice Control Division, Narcotics Unit, observed defendant standing on a corner in the company of two men and a woman. As the officer, who was known to the defendant, approached the group, the defendant saw him and turned to walk away. When the officer was about eight feet away from defendant, he saw him throw away a gum package. The package was retrieved and inside were four tinfoil packages which field tested positive and were later proven to contain heroin. After picking up the package, the officer approached defendant and exhibited the narcotics to him. Defendant told the officer, “This is for my own use, but I am not selling any narcotics.” He was placed under arrest.
+The defense version of what happened makes one wonder if the defendant and the officer are talking about the same occurrence. Defendant testified that he was standing in front of his apartment building with five or six other persons. As the officer approached them, the group dispersed. The officer walked past defendant to the curb, stooped over, arose with a package in his hand and accused defendant of possession of narcotics. This officer was the same person who testified against defendant in a prior trial where defendant was found guilty of sale of narcotics. He now wanted defendant to inform on other suspected violators of the narcotics laws. When the defendant refused, he was placed under arrest.
+We deal first with defendant’s first two arguments, reasonable doubt of his guilt and that the evidence does not show he knowingly possessed narcotics. This court will not substitute its judgment on the matter of credibility of witnesses and the weight to be given their testimony. The trial judge saw and heard the testimony and unless his judgment rests on doubtful, improbable or unsatisfactory evidence, or clearly insufficient evidence, we will not substitute our judgment even though the evidence below is conflicting and irreconcilable. People v. Smith, 57 Ill App2d 74, 206 NE2d 463 (1965), cert den, 383 US 910 (1965). The trial judge chose to believe the police officer’s testimony with respect to possession of the narcotics. The officer observed defendant discard the package containing the heroin and related the admission of such possession.
+It is argued that a person would not have thrown away a package if he knew it contained narcotics. However, the defendant recognized the police officer coming toward, him and undoubtedly did not wish to be caught with narcotics on his person. We cannot say that the trial judge erred in finding the defendant guilty as charged.
+Defendant’s next argument is that introduction of his prior conviction for impeachment purposes was erroneous, since that conviction was pending on appeal. If the defendant chooses to take the stand, he opens the door to the introduction of prior convictions for the purpose of affecting his credibility. People v. Webb, 80 Ill App2d 445, 225 NE2d 679 (1967); Ill Rev Stats 1965, c 38, § 155-1. In the Webb case, a division of our district was presented with this precise issue of introduction for impeachment purposes of a prior conviction pending on appeal. The court stated:
+“The defendant also argues that a prior conviction on which appeals are pending cannot be used for the purpose of impeachment of a witness, and cites in support of that contention People v. Shook, 67 Ill App2d 492, 214 NE2d 546, which case is not applicable since the prior conviction had been held void. In dictum in that case the court referred to Campbell v. United States, 176 F2d 45, in which the court took the view that it was illogical and unfair to permit a defendant to be questioned about a previous conviction from which an appeal was pending. The court did not rely on that case in reaching its decision. It is worthy of note that the great majority of jurisdictions have not accepted the Campbell case and the courts of three Federal circuits have rejected the rule therein laid down.” (P 450.)
+Relying on the case of People ex rel. Keenan v. Mc-Guane, 13 Ill2d 520, 150 NE2d 168 (1958), cert den 358 US 828 (1958), the court concluded that “in a criminal case, when the defendant testifies, it is proper to introduce the record of his prior conviction, even though an appeal is pending in the case.” This position was concurred in by the Fourth District of this court in People v. Spears, 83 Ill App2d 18, 226 NE2d 67 (1967). See also 16 ALR3d 726.
+The final argument raised by defendant is that his prior conviction having been reversed, People v. Barney, 60 Ill App2d 79, 208 NE2d 378 (1965), he was improperly sentenced as a subsequent offender. It was for this “conviction” that the trial judge imposed an aggravated penalty.
+We feel that the defendant is entitled to resentencing. The aggravated penalties are applicable to persons who are convicted of previous offenses. It would be patently unfair to apply this provision to anything other than a proper conviction. This court has already ruled that defendant’s prior conviction was improper.
+The sentence imposed by the Criminal Division of the Circuit Court of Cook County is vacated and the cause remanded for resentencing. People v. Kurtz, 37 Ill2d 103, 224 NE2d 817 (1967).
+Conviction affirmed and cause remanded for resentencing.
+MURPHY, P. J. and BURMAN, J., concur.
