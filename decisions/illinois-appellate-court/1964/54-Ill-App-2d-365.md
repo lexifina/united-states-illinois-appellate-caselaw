@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 49,694"
+decided: "1964-11-10"
+citations: ["54 Ill. App. 2d 365"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURKE, P. J. and BRYANT, J., concur."]
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Leonard Walker, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/54/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5281784
+cites_cases: ["155 Pa Super 347", "192 NE2d 920", "28 Ill2d 505", "38 A2d 425"]
+---
+
+# People v. Walker
+
+## Majority (ME. JUSTICE FEIEND)
+
+ME. JUSTICE FEIEND
+delivered the opinion of the court.
+Defendant Leonard "Walker was charged and convicted, after a bench trial, of the crime of theft of an automobile of the value of more than $150. (Ill Rev Stats 1963, c 38, § 16-1.) He was sentenced to serve not less than two nor more than five years in the penitentiary. He appeals, and in support of his prayer for reversal of the judgment he contends that the State failed to prove him guilty beyond a reasonable doubt because his identification by two witnesses was unreliable and unworthy of belief, and the State failed to prove that he had recent, exclusive, and unexplained possession of the stolen automobile.
+It appears that about the middle of November 1963 Bud Windrow, owner of an apartment building and two garages, rented one of the garages to a stranger for a rental of $15 monthly. Upon the payment of $10 and the promise of the balance of $5 the next day, Windrow gave his new tenant a key to the garage. However, Windrow did not see the man the next day, and in fact did not see him again until he identified defendant at the police lineup as the man who had rented the garage. A day after the garage was rented, a man and a person unknown inquired of one of Windrow’s tenants, Mrs. Eloise Carr, as to Windrow’s whereabouts, in order to pay the balance of the rent on the garage. After giving them directions, Mrs. Carr never spoke to or saw them again until she accompanied Windrow to police headquarters and identified defendant as one of the two men. On November 27, 1963, a week or so after renting the garage, Windrow, looking through a window into the garage he had rented, noticed that the car inside looked low and had its hood up. He used his key to enter the garage and found a 1963 Chevrolet, license No. 870 355, stripped of its tires, motor, radiator, and transmission. He stayed with the car and had Mrs. Carr call the police.
+At about the same time as the garage was rented, a 1963 Chevrolet, license No. 870 355, was stolen from Samuel Tucci while parked overnight in front of his apartment. On November 14, 1963 Tucci identified his car at the Chicago Police Auto Pound; it had been completely stripped.
+Subsequent to the discovery of the stripped automobile in the garage, Windrow went to the Fillmore Police Station and viewed a book of “mug” shots, from which he picked defendant as the man who had rented his garage. He then went to Eleventh and State and again identified a picture of defendant. On December 11, 1963 both Windrow and Mrs. Carr, after viewing a lineup, singled out defendant as the one who had rented the garage. They both reidentified defendant at the trial.
+With respect to the identification of defendant by Windrow and Mrs. Carr, the testimony of the witnesses clearly indicated defendant was the man who had rented the garage in which the stolen car was found. The testimony of the witnesses was positive. Unreliability, going to the weight of the evidence, would stem from such facts as elapsed time between the crime and the identification, contradictory opinions among the identifying witnesses, sufficient opportunity on the part of the witnesses to observe the one acting, proof of good reputation on the part of the accused, the existence of a reliable alibi. People v. Boney, 28 Ill2d 505, 192 NE2d 920 (1963). But defendant makes no such contentions, nor would the facts support them.
+Defendant’s second contention is that the State failed to prove that he had recent, exclusive, and unexplained possession of the stolen automobile. Specifically, lie asserts that, even if he were the garage lessee, since Windrow also had a key to the garage, the State has not shown that defendant had exclusive possession of the automobile and exclusive access to the garage. However, the only other person who had access to the garage was the owner Windrow, and he testified that he did not enter the garage, after renting it to defendant, until he observed that the car looked unusually low. The State showed to the satisfaction of the trial judge that Windrow had not entered the garage until he became suspicious. Defendant cites no Illinois cases, and we can find none, to support his position, but the State’s position is supported by a Pennsylvania decision with circumstances quite similar to the one in the case at bar. (Commonwealth v. Kauffman, 155 Pa Super 347, 38 A2d 425 (1944).) It is a well-reasoned decision and should be followed. The court there determined that constructive possession of stolen goods, as distinguished from actual possession, is sufficient to give rise to an inference of guilt which may be sufficient to sustain a conviction in the absence of other facts and circumstances which leave a reasonable doubt as to defendant’s guilt. The court added a corollary that the presumption may arise when the State shows that the others who had independent access to the building where the stolen goods were kept did not enter the building after the accused attained possession of the premises. In the case at bar Windrow had not been in the garage at the time the stolen car must have been placed there and stripped. There was sufficient evidence from which the trial judge could draw the reasonable inference that defendant exercised dominion over the garage to the exclusion of all others during the period in question, that he or some unknown person acting with him drove the stolen car into the garage, and that in the light of all the evidence he was guilty of theft.
+Accordingly, the judgment is affirmed.
+Judgment affirmed.
+BURKE, P. J. and BRYANT, J., concur.
