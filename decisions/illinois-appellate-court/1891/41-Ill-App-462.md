@@ -1,0 +1,21 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-09-11"
+citations: ["41 Ill. App. 462"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gross-Loge Des Deutschen Ordens Der Harugari Des Staates Illinois v. Barbara Laercher."]
+source_url: "https://static.case.law/ill-app/41/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5033231
+---
+
+# Gross-Loge Des Deutschen Ordens Der Harugari Des Staates Illinois v. Laercher
+
+## Majority (Sample, J.)
+
+Sample, J.
+The appellee brought this suit to recover the sum of $700 as the widow of one John Geuethe, whom, she alleges, was at the time of his death a member in good standing of the appellant’s order, a kind of mutual benefit society, which she alleges in her declaration had for its purpose the insuring of each member on the assessment plan and provided by its constitution and by-laws that upon the death of any member in good standing prior to the death of such member’s wife, it would pay to the surviving widow, if she was living with her husband at the time of his death, the sum of $700; that said Geuethe died March 1, 1888, at which time he was living with appellee; that he became associated with appellant’s order, through Thusnelda Lodge, No. 338. Issue was joined on the declaration, trial had before a jury, which brought in a verdict for the appellee, and on motion for a new trial the verdict was sustained and judgment entered on the verdict, from which this appeal was presented and the usual errors assigned. It appears from the evidence that §1.50 dues had to be paid by each member by each quarterly meeting, and if not paid by the last meeting of the fourth month, then such member’s name should be erased from the list of membership; provided, if such member paid the assessments due at the time of his exclusion, before the expiration of the next following three months, he should be restored, if at the time of such payment he was in good health. The quarterly payment of §1.50 was due from the deceased, January 1,1888. It not being paid, he became thereafter three months in arrears. The last meeting of the fourth month fell on the 22d day of January, 1888, at which time said dues not having been paid, the deceased, as appears by the records of said lodge, was formally expelled, as provided by its by-laws.
+After that time, by letters dated at Black Hawk, Colorado, January 25, 1888, he inclosed §3 to secretary Heid to pay his dues, but the money not being received in time and he then being sick as stated in his letter, the money was returned to him by letter, the receipt of which he acknowledged by a letter dated at the same place as the former one, February 26, 1888, in which he writes: “You had no right to keep those §3 twenty days, but I think you will by and by treat everybody alike to oust most of the brethren from the lodge so the prominent ones may gnaw. However, I do not feel sorry, for I don’t care to stay a member in a lodge who in every meeting make new laws.” It is clear that the deceased did not pay his dues as required by the regulations of the order. It is claimed, however, that he was not three months in arrears, because secretary Heid had twenty cents of a balance of his money on hand on the first day of January. This amount was held and the payments made by Heid, as he testifies, out of some money that had been sent to him, merely as a friendly act to Geuethe, so that the twenty cents was not held by him for the lodge as having been paid on dues; that was merely a personal account between them. Besides, there is no provision in the regulations that the quarterly payments can be made in installments. It follows, therefore, that the deceased was properly expelled on the 22d day of January, 1888, and was not reinstated by the payment of the $3 on the 25th day of January, 1888, as in the same letter he reported himself in ill-health, in which case, according to the by-laws, the lodge was prohibited from restoring him to membership. In view of this conclusion it is not necessary to notice the other errors assigned. Judgment is reversed.
+Judgment reversed.
