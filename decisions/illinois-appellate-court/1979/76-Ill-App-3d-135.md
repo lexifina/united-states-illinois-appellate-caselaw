@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-154"
+decided: "1979-09-07"
+citations: ["76 Ill. App. 3d 135"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELIZABETH LANNING et al., Plaintiffs-Appellants, v. DEBORAH WIATR et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/76/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3280150
+cites_cases: ["2 Ill. App. 3d 1018", "50 Ill. App. 3d 603", "54 Ill. App. 2d 306"]
+---
+
+# Lanning v. Wiatr
+
+## Majority (Mr. JUSTICE SEIDENFELD)
+
+Mr. JUSTICE SEIDENFELD
+delivered the opinion of the court:
+This action was brought to recover damages for injuries received when the automobile in which plaintiffs were passengers was struck by defendants’ vehicle. Judgment was entered on a general verdict for defendants, and plaintiffs bring this appeal.
+Plaintiffs, Elizabeth Lanning and Edna Cary, together with Lloyd Lanning, and defendants, Deborah and Donald Wiatr, were involved in a two-car accident on August 20, 1975, at the intersection of Highway 137 and St. Mary’s Road in Libertyville, Illinois. Lloyd Lanning drove the car, which approached the intersection traveling west on Highway 137, in which Elizabeth Lanning and Edna Cary were passengers. Defendants approached the intersection traveling east on Highway 137. The intersection is controlled by a traffic signal which allows westbound traffic to make a left turn onto St. Mary’s Road before eastbound traffic is allowed to proceed straight ahead. The accident occurred when the car in which plaintiffs were riding made a left-hand turn in front of defendants’ approaching vehicle.
+Plaintiffs filed suit against Donald Wiatr as driver of the car and against Deborah Wiatr as owner, alleging, among other things, that defendants failed to obey the traffic signal. At the close of the trial, plaintiffs, Elizabeth Lanning and Edna Cary, were granted a directed verdict on the issue of contributory negligence. At the conference on instructions, defendants tendered the following special interrogatory:
+“Was the plaintiff, Lloyd Lanning, guilty of contributory negligence which proximately caused the injuries complained of?”
+The jury answered the interrogatory in the affirmative and returned a general verdict in favor of defendants and against all three plaintiffs. The trial court entered judgment on the general verdict, plaintiffs’ post-trial motion was denied and this appeal followed.
+Plaintiffs first contend that the general verdict against Elizabeth Lanning and Edna Cary is inconsistent with the special interrogatory finding Lloyd Lanning guilty of contributory negligence. Plaintiffs reason that a special finding of contributory negligence necessarily implies that defendants were primarily negligent since one is by definition a prerequisite to the other. An inconsistency between a special and general verdict under section 65 of the Civil Practice Act (Ill. Rev. Stat. 1977, ch. 110, par. 65), however, exists only when the special findings are clearly and absolutely irreconcilable with the general verdict. (Cohen v. Sager (1971), 2 Ill. App. 3d 1018,1019.) Unless the special findings cover all the issues submitted to the jury and exclude every reasonable hypothesis consistent with the general verdict, the special verdict is not irreconcilable. Cohen, 2 Ill. App. 3d 1018, 1019.
+The special interrogatory submitted to the jury in this case determined only that one of the three plaintiffs (Lloyd Lanning) was guilty of contributory negligence. We find unpersuasive plaintiffs’ claim that this finding necessarily implies that defendants were primarily negligent. Contributory negligence was defined in the instructions as “negligence on the part of the plaintiff that proximately contributed to cause the alleged injury.” (Illinois Pattern Jury Instructions, Civil, No. II. 01 (2d ed. 1971).) Since the instruction itself did not make contributory negligence contingent upon an initial finding of negligence, the jury was free to find that the negligence of Lloyd Lanning was the sole cause of the accident. And because there was no special finding that defendants were negligent or that their negligence proximately caused the injury, these issues remain as possible controlling factors in the jury’s decision. We hold therefore that the trial court properly entered judgment on the general verdict. Cohen, 2 Ill. App. 3d 1018, 1019.
+Plaintiffs next argue that the trial court committed reversible error in refusing to allow portions of a deposition to be used in rehabilitating a witness defendants had impeached using the same deposition. Counsel for defendants attempted to discredit Edna Cary’s testimony that she did not observe the traffic signal prior to the collision by using portions of a discovery deposition in which she admitted seeing the signal at least once. Defendants objected when counsel for plaintiffs attempted to rehabilitate Cary on redirect by introducing portions of the same deposition. The trial court reviewed those portions of the deposition plaintiffs desired to introduce and then sustained the objection, confining rehabilitation to those matters upon which the witness had been impeached. Plaintiffs made no offer of proof as to the substance of the material it sought to use. Further, the deposition is not a part of the record in this court.
+As a general rule, a party whose witness has been impeached or contradicted at trial by prior inconsistent statements or admissions in a discovery deposition may use that deposition to qualify or explain what has been testified to. (Ill. Rev. Stat. 1977, ch. 110A, par. 212(c); Redding v. Schroeder (1964), 54 Ill. App. 2d 306.) The rule is confined, however, to using those portions of the deposition “which ought in fairness to be considered in connection with the part read or used” by the opposing party. (Ill. Rev. Stat. 1977, ch. 110A, par. 212(c).) The trial court in this case apparently sustained defendants’ objection on the ground that plaintiffs sought to use material unrelated to the matters upon which the witness had been impeached. While we are inclined to believe that Rule 212(c) should be interpreted liberally (Redding v. Schroeder (1964), 54 Ill. App. 2d 306, 313), we are unable to determine whether the trial court’s decision here was prejudicial without an offer of proof of the excluded material (Simon v. Plotkin (1977), 50 Ill. App. 3d 603, 607), inasmuch as the omitted portions of the deposition are not in the record and are therefore not before us for review.
+The judgment of the circuit court of Lake County is affirmed.
+Affirmed.
+LINDBERG and NASH, JJ., concur.
+Lloyd Lanning is joined in the notice of appeal but has not pursued the appeal.
