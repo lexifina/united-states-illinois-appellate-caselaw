@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-04-19"
+citations: ["54 Ill. App. 202"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel E. Gross v. Michael C. Sloan for use E. W. Blatchford et al."]
+source_url: "https://static.case.law/ill-app/54/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5101680
+cites_cases: ["2 Johns. (N. Y.) 210", "2 Wheat. 221", "2 Wis. 256", "24 Miss. 588", "29 Mo. 218", "5 Tex. 211", "9 Wis. 246"]
+---
+
+# Gross v. Sloan
+
+## Majority (Mr. Presiding Justice Shepard)
+
+Mr. Presiding Justice Shepard
+delivered the opinion of the Court.
+In the month of September, 1887, the appellant was summoned as garnishee in the suit of Blatchford v. the appellee, Sloan. The summons was returnable to the October term, 1887, of the Superior Court.
+Interrogatories to the garnishee were filed in apt time and a conditional judgment was rendered against the appellant, garnishee, on October 7, 1887, which ivas one of the days of the said October term, for the amount of the original judgment theretofore recovered in said suit.
+Thereupon a scire facias was issued, returnable to the following iNovember term, and was duly served.
+The garnishee afterward and in apt time, appeared and filed his answer to said interrogatories, wherein he denied each and every of the interrogatories, and denied fully and completely any indebtedness whatever, and all contractual relations between himself and the said Sloan out of -which any indebtedness might arise, and to his answer the plaintiff in the garnishee suit filed a general replication.
+. Thereafter nothing whatever was done in the cause until at the December term, 1893, six years after the said answer and replication thereto had been filed.
+At the last mentioned term the cause was taken up and heard, in the absence of the garnishee, a verdict obtained, and a judgment rendered thereon against him for the sum of $279.58 and costs.
+A motion to set aside the verdict and vacate the judgment made at the same term, was denied, and the garnishee brings the cause here by appeal.
+The verdict of the jury was given in the cause on December 6, 1893. It did not find the issues for the plaintiff, or contain any general words from which such a finding could be inferred. It simply reads: “We, the jury, find that there is now due and owing from the garnishee, Samuel E. Gross, to the plaintiff, Michael O. Sloan,” etc.
+There was no such issue presented for trial by the jury.
+The issues presented by the replication to the answer to the interrogatories, related to a condition of things existing at a time six years before the verdict was rendered, and not to a set of circumstances and conditions existing at the time of the trial, as to which the garnishee had not been interrogated and had not answered.
+Where interrogatories to a garnishee are framed, under the statute, with reference to debts, ,etc., due and owing at the time of the service of the writ, or at any time thereafter, or which shall thereafter become due, and the answer expressly denies all indebtedness then due or which may become due in the future, the issue presented by a general replication to such answer can not be extended so as to include indebtedness out of contractual relations that may arise between ■ the garnishee and the principal defendant after the date with reference to which the issue was made, and a verdict that finds there is an amount due on a day long subsequent to the date as to which the issues were joined, is not responsive.
+A verdict must respond to the issue, or it will be bad, and no judgment can be rendered on it. Moody v. Keener, 7 Porter (Ala.) 218; Patterson v. United States, 2 Wheat. 221; Garland v. Davis, 4 How. (U. S.) 131; Kilbourn v. Waterous, Kirby, (Conn.) 424; Groves v. Bailey, 24 Miss. 588; Parker v. Moore, 29 Mo. 218; Brockway v. Kinney, 2 Johns. (N. Y.) 210; Vines v. Brownrigg, 2 Dev. (N. C.) Law, 537; Brown v. Hillegas, 2 Hill (S. C.) 447; Hardy v. DeLeon, 5 Tex. 211; Ronge v. Dawson, 2 Wis. 256.
+In Patterson v. United States, supra, it is said :
+“ The rule of law is precise upon this point. A verdict is bad, if it varies from the issue in a substantial matter, or if it find only a part of that which is in issue. The reason of the rule is obvious; it results from the nature and the end of the pleading. Whether the jury find a general or a special verdict, it is their duty to decide the very point in issue; and although the court in which the cause is tried may give form to a general finding, so as to make it harmonize with the issue, yet if it appears to that court, or to the Appellate Court, that the finding is different from the issue, or is confined to a part only of the matter in issue, no judgment can be rendered upon the verdict. It is true that if the jury find the issue, and something more, the latter part of the finding will be rejected as surplusage, but this rule does not apply to a case where the facts found in the verdict are substantially variant from those which are in issue.”
+It is not necessary that the verdict should conclude formally or punctually to the words of the issue, but the point in issue must be ascertained out of the finding, is the way the Supreme Court of Alabama, in Moody v. Keener, supra, paraphrases the old rule laid down by Hobart.
+That it is the duty of the jury to find the very point in issue, to respond to the precise question of fact submitted to their trial by the pleadings, and that their verdict, finding a matter which was not in issue, can have no legal effect or validity, is perfectly well settled, is the statement of the rule made in Hardy v. DeLeon, supra.
+The case of Groves v. Bailey, supra, was an attachment suit begun on the ground that the defendants “ had concealed their effects ” so that the plaintiffs’ claim could not- be made by ordinary process of law.
+The defendants pleaded that “ they had not concealed their effects so that the plaintiffs’ claim could not be made by law.” And the plaintiffs replied that “ at the time of suing out the attachment, the defendants had concealed their effects so that the plaintiffs’ claim could not be made by ordinary process of law.”
+The jury found: “ That the defendants were not concealing their effects at the túne of suing out said attachment, so that the claim of the said plaintiffs would be defeated, and that there was not good cause to sue out the attachment.”
+On review by the Supreme Court, of the judgment entered on the verdict, it was held that the verdict was not in accordance with the issues; that the fact found by the verdict that the defendants were not concealing their effects at the time of suing out the writ, was immaterial upon the issue, which referred to a concealment that had taken place before the attachment writ was sued out, and not to one then going on.
+So, also, in Ronge v. Dawson, 9 Wis. 246, it is said : “ It may be stated as a general, almost a universal rule, that juries must, by their verdicts, respond specifically to all the issues made by the pleadings; and that if they omit any one, their verdict will be set aside, or if judgment be rendered thereon, it will be erroneous.”
+As already said, the verdict in this cause contained no words of a general finding, out of which the court could “ work the verdict into form and make it serve,” so as to harmonize with the issue, as would be allowable under the statute of jeofails, or under that rule of favor -which, without the statute, has always been extended to verdicts.
+The rule is laid down by Sir Henry Hobart in his reports, as follows :
+“ Lay this for a ground, that if the jury find anything that is merely out of the issue, that such a verdict, for so much, is utterly void and of no force, though it conclude in general for or against the plaintiff or the defendant, whereof the reason is plain, which is, that the jurors are tryers of matter of fact put in issue between the parties, and their oath, which contains their commission, is that they shall truly try the issue between party and party. And so -x- -x- * that whatsoever they do try besides the issue is per non juratos, as a cause judged by the court that had no jurisdiction of the cause coram non judice, and utterly void, for a verdict must not be to the action that might have been pleaded, but to the issue which is pleaded and in their charge. And if that other point had been pleaded, it might have had another answer and evidence.” (Page 53.)
+“ But howsoever the verdict seem to stray, and conclude not formally or punctually unto the issue so as you can not find the words of the issue in the verdict, yet if a verdict may be concluded out of it to the point in issue, the court shall work it into form, and make it serve.” (Page 54.)
+“ But the verdict must not wholly depart from the word of the issue.” (Page 55.)
+As said in Patterson v. United States, supra, the fact found in the verdict, here, is substantially variant from the one in issue.
+And, as was held in Groves v. Bailey, supra, the fact of an indebtedness found by the verdict then, at the time of the verdict, to exist, was immaterial, though true, upon the issue presented by the replication to the answer to the interrogatories as to what was due or to become due, out of relations existing between the garnishee and the principal defendant, at a time six years before.
+The point made by the appellee that the bill of exceptions does not purport to set forth the evidence heard by the jury, or all that transpired upon the hearing of the motion to set aside the verdict and vacate the judgment by the court below, is answered by the fact that our decision rests wholly upon what appears on the face of the common law part of the record, viz., the affidavit, process, interrogatories, answer, replication, verdict and judgment.
+The verdict not being responsive to the issue, the judgment thereon was erroneous, and will be reversed and the cause remanded.
