@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "61716"
+decided: "1976-12-15"
+citations: ["44 Ill. App. 3d 949"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GERALD RODISH, Plaintiff-Appellant, v. STANDARD MUTUAL INSURANCE COMPANY, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/44/cases/0949-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2812390
+cites_cases: ["114 Ill. App. 2d 91", "254 N.E.2d 650"]
+---
+
+# Rodish v. Standard Mutual Insurance
+
+## Majority (Mr. JUSTICE DIERINGER)
+
+Mr. JUSTICE DIERINGER
+delivered the opinion of the court:
+Plaintiff, Gerald Rodish, filed a complaint for declaratory judgment to determine his rights under a policy of insurance issued to him by the defendant, Standard Mutual Insurance Company. The trial court granted defendant’s motion for summary judgment from which this appeal is taken.
+On January 13, 1973, Gerald Rodish was employed by the Chicago Police Department as a police officer. On that date, he was assigned to patrol an area of the city in a one-man squad car. This squad car was a 1972 Dodge automobile, owned by the City of Chicago and operated, maintained and used by the Chicago Police Department. This particular squad car was furnished for the regular use of the plaintiff. At about 2 a.m., at 1056 East 95th Street, Chicago, the plaintiff stopped a 1969 Chrysler automobile, owned and operated by James Ford, for a traffic violation. Mr. Ford pulled his auto over to the curb and stopped. The plaintiff parked his squad car approximately 10 to 15 feet behind Mr. Ford’s stationary vehicle. The plaintiff then shut off the ignition of the squad caí', removed the key from the ignition and placed the key in his pocket. He then exited the squad car, walked up to the left side door of Mr. Ford’s auto and asked Mr. Ford to exhibit some form of identification. Mr. Ford got out of his auto and produced a valid driver’s license, which was examined by the plaintiff. Mr. Ford became argumentative and walked behind his auto, where the plaintiff ordered him to place his hands upon the auto and submit to a pat-down.
+While Mr. Rodish and Mr. Ford were standing a short distance in front of the squad car, James Porter, Jr., drove his 1968 Chevrolet automobile into the rear end of the squad car, thrusting the squad car into the plaintiff. The plaintiff was injured as a result of this collision. James Porter, Jr., was the owner of the 1968 Chevrolet he was driving. Neither Mr. Porter nor his auto were covered by any policy of automobile liability insurance at the time of this collision.
+The plaintiff had purchased a family combination automobile policy for his private automobile from the defendant, under which he was the named insured. That policy contained an uninsured motorist provision and the policy was in full force and effect at the time of this collision. On May 11, 1973, the plaintiff notified the defendant in writing that James Porter, Jr., had no policy of automobile liability insurance and the plaintiff intended to make a claim for his injuries under the uninsured motorist provision of his own family automobile insurance policy. On October 23, 1973, the defendant denied the uninsured motorist claim of the plaintiff.
+On December 6, 1973, the plaintiff filed his complaint for declaratory judgment in the Circuit Court of Cook County, Law Division. In his complaint, the plaintiff asked the court to determine and adjudicate his right to pursue an uninsured motorist claim under the policy issued by the defendant. He also asked the court to define his rights as an insured under the uninsured motorist provision of his policy and order his claim to be set for immediate arbitration with the defendant pursuant to the provisions of the uninsured motorist provisions of the policy of insurance. In response, the defendant filed an answer to the complaint and set forth four affirmative defenses. Subsequently, the plaintiff filed his answer to the affirmative defenses and the case was set for trial. The defendant filed a written motion for summary judgment to which the plaintiff filed a written response. A hearing was conducted on the defendant’s motion for summary judgment. Upon agreement of the parties, the hearing was limited to arguments on defendant’s first affirmative defense and plaintiff’s response thereto. The circuit court judge granted defendant’s motion for summary judgment and dismissed plaintiff’s complaint for declaratory judgment. From this order plaintiff appeals.
+The question presented for review is whether the insured, under the insurance policy provisions of this case, was afforded uninsured motorist coverage for injuries sustained while standing outside his employer’s vehicle which was regularly furnished to him, and where such injuries were caused by the collision of an uninsured motorist.
+In order to understand the issue it is necessary to set out some portions of the policy in question.
+Part IV of the policy provides, inter alia, the Standard Mutual Insurance Company agrees:
+“Coverage J — Uninsured Motorists (Damages For Bodily Injury): To pay all sums which the insured or his legal representative shall be legally entitled to recover as damages from the owner or operator of an uninsured automobile because of bodily injury 0 0 0 sustained by the injured, caused by accident and arising out of the ownership, maintenance or use of such uninsured automobile 0 *
+In making a claim for his injuries, Mr. Rodish relied on this Uninsured Motorist Part of the policy.
+The Insurance Company’s first affirmative defense, upon which the defendant’s motion for summary judgment was granted, stated the plaintiffs injury arose out of factual circumstances specifically excluded from the policy of insurance.
+On appeal, Standard failed to file a brief or appear for oral argument. From the transcript of the hearing on Standard’s motion for summary judgment it appears Standard’s first affirmative defense was based on Exclusion (a) of Part IV of the policy of insurance.
+Exclusion (a) of Part IV of the policy provides, in pertinent part:
+“Exclusions: This policy does not apply under Part IV: (a) to bodily injury to an insured while occupying an automobile (other than the insured automobile) owned by the named insured or a relative, or through being struck by such an automobile ” ”
+Exclusion (a) specifically applies to an insured while he is occupying an automobile owned by the named insured or a relative. At the hearing on the defendant’s motion for summary judgment, attorneys for the plaintiff and the defendant entered into a stipulation that the plaintiff was not occupying the squad car at the time of the accident. Since exclusion (a) applies only when the insured occupies an auto owned by him or a member of his family, and since the insured was not occupying any auto at the time of the accident, exclusion (a) is inapplicable.
+At the hearing on defendant’s motion for summary judgment defendant specifically relied on the Second District opinion of Fletcher v. State Security Insurance Co. (1969), 114 Ill. App. 2d 91, 254 N.E.2d 650. But the rationale in Fletcher does not apply to the case at bar. Exclusion (a) of the policy examined in both cases limits the applicability of the exclusion to when the claimant is occupying an auto. The plaintiff in Fletcher was occupying an auto whereas the plaintiff in the instant case was not.
+Generally, the named insured under an insurance contract is covered under the uninsured motorist provision when his injury is caused by an uninsured motorist unless the exclusions and conditions of the policy abridge this provision. If no exclusion applies, the named insured is covered.
+We have found exclusion (a) of the policy is inapplicable. Since Standard has not suggested any other exclusion applies, we hold the trial court’s granting of defendant’s motion for summary judgment, based on the defendant’s affirmative defense that plaintiff’s injury arose out of factual circumstances specifically excluded from the policy of insurance, was contrary to the manifest weight of the evidence.
+On appeal where this court finds the judgment of the trial court is contrary to the manifest weight of the evidence, it is the duty of the court to reverse and remand the cause (Ill. Rev. Stat. 1973, ch. 110A, par. 366).
+For the foregoing reasons, the judgment of the Circuit Court of Cook County is hereby reversed and the cause remanded for further proceedings consistent with this opinion.
+Reversed and remanded.
+JOHNSON, P. J., and STAMOS, J., concur.
