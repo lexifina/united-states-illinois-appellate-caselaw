@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1881-04-06"
+citations: ["8 Ill. App. 115"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daniel McIntyre v. John A. Robinson."]
+source_url: "https://static.case.law/ill-app/8/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4842294
+cites_cases: ["11 Wend. 382", "13 Ill. 140", "15 Ind. 226", "16 Ind. 202", "17 Ill. 249", "2 Hill, 608", "20 Me. 462", "21 Wend. 594", "23 Pick. 283", "27 Ill. 414", "3 Gilm. 423", "3 Hill, 504", "3 Ind. 289", "3 Johns. 100", "3 Scam. 338", "32 Ill. 271", "32 Ill. 325", "36 Ill. 472", "38 Ill. 96", "4 Denio, 189", "41 Ill. 234", "48 Ill. 164", "5 Pick. 380", "6 Mass. 58", "63 Ill. 259", "66 Ill. 185", "68 Ill. 256", "7 Ind. 529", "7 Iowa, 130", "78 Ill. 500", "79 Ill. 318", "79 Ill. 322", "8 Conn. 469", "87 Ill. 454", "87 Ill. 464", "89 Ill. 482", "89 Ill. 516", "92 Ill. 218", "92 Ill. 237"]
+---
+
+# McIntyre v. Robinson
+
+## Majority (Pillsbury, J.)
+
+Pillsbury, J.
+This action is brought to recover upon a promissory note dated April 22d, 1880, for $500, and due one day after date, signed by the appellee and made payable to the appellant.
+To the declaration the appellee filed five pleas, the first and second alleging a want of consideration for the note, the third a total failure of consideration, the fourth partial failure of consideration, and the fifth a general plea of fraud in obtaining the execution of the note. There is no evidence in the record tending to sustain the averments of the third, fourth and fifth pleas, therefore, it is not necessary to further notice them.
+The first and second pleas allege in substance that the only consideration of the note was a certain release executed and delivered by the plaintiff, at the request of the defendant, to the Commissioners of Highways of the Town of Washington in said county, releasing to said Commissioners for the use of the public for a highway of a certain strip of land forty feet wide over the land of the plaintiff, which strip was at the time traveled and used as a public highway, and the plea then avers that at the time of the releasing there was a public highway by prescription over said strip of land.
+The evidence shows that Eobinson owned a large farm about three miles from the main Savanna and Hanover road, as it is called by the witnesses, and from his farm to said highway the outlet was by the way of the road mentioned in the pleas.
+A few days before the date of the note, one Eddy had proposed to buy the farm of Eobinson, and some personal property for the sum of $14,000, which proposition had been accepted by the appellee, but before the purchase was consummated by the execution of the deeds, Eddy learned that the legal existence of the road leading from the farm to the highway, was disputed by those over whose lands the road was traveled, the appellant being one who denied that_there was any lawful highway across his lands. Eddy thereupon refused to complete the purchase, unless Eobinson would obtain from the owners of the lands releases to the public of that part of this land then used by the public as a road.
+Eobinson then called upon the appellant and desired to obtain such release, finally offering him $300, which appellant refused to accept, demanding at first $1,000, but subsequently reduced the amount to $500, which was accepted by the appellee. The next day appellant executed a release of the right-of-way satisfactory to the appellee, and the note in suit was given in consideration of such release. Hnder the instructions given to the jury a verdict was found for the defendant below and the plaintiff appealed.
+It was contended on the trial below that if there was in fact a legal highway over the land included in the release, then the note was without consideration, and this view was adopted by the circuit court in the instructions given to the jury on the behalf of the defendant.
+This view can hardly be sustained in the law. It does not appear that the plaintiff used any artifice, or made any false representations, to induce the defendant to give the note, and the record is barren of any evidence of fraud, mistake or illegality in the transaction between these parties. The defendant bargained for a release of the right of way for the public over the lands of the plaintiff. The release was executed at his request, and no complaint is made that it does not convey what it purports to. The claim is that the right conveyed was of no value to the plaintiff for the reason that there was already a legal highway there by prescription. This, however, is not sufficient to defeat the action.
+Although the right conveyed may not be of any value to the plaintiff, yet if it be of benefit to the defendant, however slight, if the promise or contract be deliberately entered into, without fraud, the inadequacy of consideration cannot be inquired by courts of law. Oakley v. Boorman, 21 Wend. 594; Perley v. Balch, 23 Pick. 283.
+That the conveyance in this case was of benefit to the defendant cannot for a moment be doubted under the proofs contained in this record.
+The defendant had made a sale of his farm, presumably advantageous to himself, upon the express condition that he should obtain releases from the owners of the land of the right of way and thereby place the legality of the road beyond question.
+In order to perfect such sale it was necessary for him to procure the release in question from the plaintiff. This was done upon his promise to pay the sum of $500 evidenced by the note. He received the release and consummated the sale of his farm. This was a sufficient consideration under all the authorities to support the promise to pay the note. The evidence contained in the record does not satisfy ns that a highway by prescription w'as established by a preponderance of the testimony over plaintiff’s laud; on the contrary, it does appear that the land owners had, at least, reasonable grounds for disputing its existence. The proof shows that it was in dispute and before the time the release was executed, some parts of the same road had been in litigation between the road officers of the town and the land owners.
+It is also evident that the defendant was acquainted with all the circumstances surrounding this disputed road, and the grounds upon which the opposition to it was based, and we can but believe that for his own interest he understanding^ executed the note in suit, thereby forever putting at rest any doubts about the legality of said road over plaintiff’s land.
+If such was the fact, then it is immaterial upon which side the right would ultimately appear to be, for the compromise of the claim honestly entertained would be a sufficient consideration for the promise to pay the money named in the note. Honeyman v. Jarvis, 79 Ill. 322. McKinley v. Watkins, 13 Ill. 140.
+The third and fourth instructions asked by the plaintiff being in harmony with the views above expressed, should have been given to the jury, and those given for the defendant in conflict therewith should have been refused.
+For these errors we must reverse the judgment and remand the cause.
+Judgment reversed.
