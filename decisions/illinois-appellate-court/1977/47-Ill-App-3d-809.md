@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-278"
+decided: "1977-04-14"
+citations: ["47 Ill. App. 3d 809"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ERIC FLOWERS, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/47/cases/0809-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3369530
+cites_cases: ["157 N.E. 247", "17 Ill. App. 3d 377", "173 N.E.2d 469", "21 Ill. 2d 451", "226 N.E.2d 492", "23 Ill. App. 3d 279", "255 N.E.2d 442", "303 N.E.2d 398", "308 N.E.2d 334", "319 N.E.2d 69", "326 Ill. 327", "41 L. Ed. 2d 225", "417 U.S. 920", "44 Ill. 2d 256", "55 Ill. 2d 443", "82 Ill. App. 2d 119", "94 S. Ct. 2627"]
+---
+
+# People v. Flowers
+
+## Majority (Mr. JUSTICE ROMITI)
+
+Mr. JUSTICE ROMITI
+delivered the opinion of the court:
+Following a jury trial the defendant, Eric Flowers, was convicted of the offense of unlawful use of weapons in that he knowingly carried a loaded firearm within the corporate limits of Chicago. (Ill. Rev. Stat. 1975, ch. 38, par. 24—1(a)(10).) The defendant was sentenced to two years’ misdemeanor probation.
+On appeal defendant contends that the court erred in denying his motion for a substitution of judges under section 114—5(a) of the Code of Criminal Procedure of 1963. Ill. Rev. Stat. 1975, ch. 38, par. 114—5(a).
+For the reasons hereinafter discussed we reverse defendant’s conviction and remand for a new trial.
+Several continuances in this matter were granted by Judge David Shields and Judge Matthew Moran. Subsequently the matter was placed on the misdemeanor jury trial call in Room 1410 of the Civic Center, occupied at the time by Judge John Moran. Judge Moran granted three continuances on defendant’s motion on July 23, 1975, August 25, and August 29. On October 7, 1975, this case was again called in Room 1410. Judge Sulski was substituting that day for Judge John Moran. Over the objections of defendant, who answered ready and demanded trial, the State was granted a continuance to November 25, 1975. On November 25 Judge Zafiratos was sitting in Room 1410. Both sides answered ready for trial but the case was referred to the Chief Judge for reassignment. The case was then reassigned instanter by the Chief Judge to Judge Sulski’s courtroom for proceedings that day. When the case was called before Judge Sulski, defendant presented a written motion for substitution of judges, pursuant to section 114—5(a), naming Judge Sulski and the one other judge. Judge Sulski denied the motion on the basis that more than the statutory 10-day period had elapsed since the matter was first put on his trial call. Over defendant’s objection the case proceeded to trial before judge Sulski.
+I.
+Defendant contends that, he fulfilled the requirements of section 114—5(a) and was entitled to the substitution of judge as a matter of right. That section provides:
+“(a) Within 10 days after a cause involving only one defendant has been placed on the trial call of a judge the defendant may move the court in writing for a substitution of judge or any 2 judges on the ground that such judge or judges are so prejudiced against him that he cannot receive a fair trial. Upon the filing of such a motion the court shall proceed no further in the cause but shall transfer it to another court or judge not named in the motion.” Ill. Rev. Stat. 1975, ch. 38, par. 114—5(a).
+It is clear that to secure this mandatory substitution a defendant must make his motion within the 10-day period. (People v. Peter (1973), 55 Ill. 2d 443, 303 N.E.2d 398, cert. denied, 417 U.S. 920, 41 L. Ed. 2d 225, 94 S. Ct. 2627.) The motion also must be made before the trial judge has ruled on any substantive issues in the case. (People v. Bean (1974), 17 Ill. App. 3d 377, 308 N.E.2d 334; People v. Norcutt (1970), 44 Ill. 2d 256, 255 N.E.2d 442.) It is undisputed that the motion at issue was made before Judge Sulski ruled on any substantive issues. The only dispute is whether the motion was made within 10 days of the matter being placed on Judge Sulski’s trial call, within the meaning of the statute.
+The State argues that on October 9, 1975, Judge Sulski was the trial judge, even though he was substituting for another judge. Defendant demanded trial on that day and did not move for a substitution until 47 days later when Judge Sulski again was designated the trial judge. Since the 47-day period exceeds the statutory time period, the State argues that defendant did not have the right to an automatic substitution.
+But this analysis ignores the realities of defendant’s situation as well as the purpose of the statute. This provision is to be given a liberal interpretation so as to permit rather than prevent a substitution. (People v. Harston (1974), 23 Ill. App. 3d 279, 319 N.E.2d 69; People v. Lagardo (1967), 82 Ill. App. 2d 119, 226 N.E.2d 492; People v. Kostos (1961), 21 Ill. 2d 451, 173 N.E.2d 469.) This liberal interpretation is required to protect the guarantee of a fair and impartial trial that is implicit in our legal system. (People v. Scott (1927), 326 Ill. 327, 341, 157 N.E. 247, 254.) In furtherance of this guarantee, section 114—5(a) gives a defendant 10 days from the time a judge is assigned to preside at his trial in which to move for an automatic substitution of judge if he believes that judge is prejudiced against him.
+At best, the defendant here had only two days in which it could be construed that Judge Sulski was assigned to preside at his trial. It is true that on October 9, 1975, when defendant appeared in Room 1410, Judge Sulski was on the bench. Even though Judge Sulski was only substituting that one day for Judge Moran, the case could have proceeded to trial before Judge Sulski that day. Indeed, the defendant demanded trial and objected to the State’s motion for a continuance. However the State was granted a continuance and the crucial fact is that when the continuance was granted the defendant no longer had any cause to believe that Judge Sulski would be the trial judge when the case again came up for trial, and thus had no further opportunity or reason to move (within the 10-day statutory period) for a substitution from Judge Sulski. The defendant could not have known then that his case would not remain in Room 1410, nor could he have known that the case would be reassigned, let alone that it would be placed on Judge Sulski’s call in another courtroom. Only when that in fact occurred on November 25, 1975, did defendant again know that Judge Sulski was assigned to preside at his trial. At that point the defendant immediately moved for a substitution of judge. As this was only the second day on which the case was assigned to Judge Sulski for trial, the motion was timely made and should have been granted.
+The judgment of the trial court is reversed and the case is remanded for a new trial.
+Reversed and remanded.
+JOHNSON and LINN, JJ., concur.
