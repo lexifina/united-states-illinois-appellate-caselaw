@@ -1,0 +1,44 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 15,795"
+decided: "1911-10-03"
+citations: ["163 Ill. App. 98"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Olaf Nelson, Plaintiff in Error, v. Chicago City Railway Company, Defendant in Error."]
+source_url: "https://static.case.law/ill-app/163/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2739540
+cites_cases: ["119 Ill. 255", "221 Ill. 242", "39 Ill. App. 60", "90 Ill. App. 397"]
+---
+
+# Nelson v. Chicago City Railway Co.
+
+## Majority (Mr. Justice Smith)
+
+Mr. Justice Smith
+delivered the opinion of the court.
+By this proceeding in error, it is sought to reverse a judgment of the Circuit Court in an action to recover damages .for personal injuries brought by plaintiff in error against defendant in error. The plaintiff in the action claimed that while exercising due care, the defendant by its servants so negligently drove and operated its motor car that plaintiff was run upon and injured while attempting to pass a public crossing of defendant’s tracks on Wentworth avenue in Chicago.
+The trial of the case resulted in a verdict and judgment for defendant. The evidence tended to prove the cause of action as alleged but was conflicting. The questions presented in this proceeding in error arise upon the rulings of the court in giving and refusing to give instructions to the jury.
+It is urged that the trial court erred in refusing to give instruction No. 9 requested by the plaintiff. That instruction reads as follows:
+“The court further instructs you as law that it is lawful for individuals to walk and pass and repass upon public streets and highways, and in doing so to cross and recross street car tracks, exercising ordinary care in doing so, and that it is the duty of the servants of the street car companies, operating cars upon public streets, to he on the lookout and take reasonable measure to avoid injuries to persons on the street.”
+The record shows that no instruction was given to the jury defining the rights of the public and the defendant’s duty to prevent accidents at public street crossings. This instruction was on this subject. It stated the law correctly; and where the evidence was conflicting, as it was in the case under review, it was not only proper but necessary that the jury should be instructed upon the rights of the plaintiff in passing upon and over the tracks of the defendant in the public streets, and the duty of the defendant and its servants to take reasonable measures to avoid injuring persons so rightfully using the street. It was error to refuse the instruction.
+Instruction No. 25, given by the court at the request of the defendant in error, is as follows:
+“The court instructs you that if you believe from the evidence under the instructions of the court that the plaintiff at the time and place in question omitted to do anything for his own safety, which an ordinarily careful, prudent and cautious person under like circumstances would have done, and that such omission proximately contributed to cause the accident and injury in question, then your verdict should be, ‘We, the jury, find the defendant not guilty.’ ”
+This instruction is erroneous in that it denies to the plaintiff the right to recover if he “omitted to do anything for his own safety which an ordinarily careful, prudent and cautious person under like circumstances would have done,” and that such omission proximately contributed to cause the accident. The plaintiff was bound to exercise due care for his own safety, but he was not required to do what the instruction stated in order to be entitled to recover. The instruction is erroneous and misleading. Elwood v. Chicago City Ry. Co., 90 Ill. App. 397, 400.
+Instruction No. 26, requested by the defendant, is as follows:
+“The court instructs the jury that it is the law in this case, that if the evidence preponderates in favor of the- defendant,
+Or, if the evidence fails to preponderate in favor of the plaintiff as against the defendant;
+Or, if the evidence is evenly balanced as between the contention of the plaintiff and the defendant;
+Then, in either case, the plaintiff cannot recover against the defendant, and yonr verdict should he: ‘We, the jury, find the defendant not guilty.’ ”
+This instruction was condemned in Chicago West Division Ry. Co. v. Lambert, 119 Ill. 255, 258, because it did not restrict the evidence referred to, to the issues essential to the maintenance of the action. The jury might apply the instruction to evidence on points in dispute which were not essential and thus be misled by it. The instruction approved in Harvey v. C. & A. Ry. Co., 221 Ill. 242, confined the evidence referred to therein to points material to the plaintiff’s case.
+The court gave the following instruction at the request of the defendant:
+“28. You are instructed that the servants of the defendant in charge of the car in question were not required to exercise the highest degree of care to avoid injuring the plaintiff upon the occasion in question, but were only required to exercise ordinary care, and if you believe from the evidence in this case under the instructions of the court that the motorman of the car in question in the exercise of reasonable and ordinary care did all he could to avoid the accident in question as soon as it was apparent or ascertainable to him in the exercise of reasonable and ordinary care, that the plaintiff was crossing the track or getting upon or near the track in a position of danger, then the plaintiff cannot recover in this case, and your verdict should be: ‘We, the jury, find the defendant not guilty. ’ ”
+This instruction does not state the law of the case, and is so framed as to mislead the jury. The defendant was not free from negligence if the motorman in the exercise of reasonable and ordinary care did all he could to avoid the accident as soon as it was apparent or ascertainable to him, in the exercise of reasonable and ordinary care, that the plaintiff was crossing the track or getting upon or near the track in a position of danger, regardless of the rate of speed at which he was running the car as he approached the place of the accident. If he was running the car at • such a speed that he could not control it, or was negligent in any other manner, causing the injury, as he approached the place of the accident and before it was apparent to him that the plaintiff was in a position of danger, the defendant would be guilty of negligence, notwithstanding the motorman did all he could to avoid the accident as soon as it was apparent to him that the plaintiff was getting upon or near the track in a position of danger. The question of liability for negligence in this case did not turn wholly upon the care exercised by the particular motorman after he saw the danger, if he had negligently created a situation which he could not control in time to avoid the accident, and such negligence contributed to the accident.
+Our attention is called to the fact that the court gave twenty-nine instructions requested by defendant, and to their form and to the repetition of the direction to the jury in various ways to find the defendant not guilty; and it is urged that the instructions as given amount to a well prepared argument for the defendant.
+In various forms the point that it was the duty of the jury to treat the defendant the same as if it was an individual and not a corporation, is repeated in the first, second and third instructions given at the instance of the defendant. This is argumentative, improper and unnecessary. In each instruction requested by the defendant, numbered respectively 21, 22, 23, 26, 28 and 29, the direction is given the jury to find the defendant not guilty, and in three of these instructions the form of the verdict is given. This is only another way of emphasizing the words “not guilty” and is as effective, if not more so, as printing the words in large type—a practice condemned in Elwood v. Chicago City Ry., 90 Ill. App. 397, 400.
+Considering the great number of instructions, the character and number of the repetitions of the same idea in them, we think they were well calculated to impress the jury with the thought that the court was against the plaintiff on the question of fact and that they might readily be misled to believe .that in the opinion of the court they should find for the defendant. No legitimate reason appears for the repetition of the direction to find the defendant “not guilty” so frequently.
+We think the criticism of the instructions'' in Wilmerton v. Sample, 39 Ill. App. 60, is applicable to the instructions now before us.
+For the errors indicated the judgment is reversed and the cause is remanded for a new trial.
+Reversed and remanded.
