@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-01-24"
+citations: ["39 Ill. App. 506"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. E. Carberry v. The People of the State of Illinois."]
+source_url: "https://static.case.law/ill-app/39/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5020970
+---
+
+# Carberry v. People
+
+## Majority (Wall, J.)
+
+Wall, J.
+The plaintiff in error was prosecuted for a violation of Sec. 12 of the act to regulate the practice of pharmacy, the charge being that the defendant “was gnilty of putting up and preparing a prescription,” and that he “did not then and there have a license as required by law.” The prosecution originated before a justice of the peace, where the defendant was fined $50, from which judgment he appealed to the Circuit Court, where the case was submitted to the court, a jury being waived, upon an agreed state of facts. The court found him guilty and imposed a fine of $50. By writ of error the record is brought here. It appears that the plaintiff in error was engaged in the business of a dispensing pharmacist, and was by the act entitled to registration upon payment of the fee to be fixed by the board of pharmacy under Sec.. 9. By successive payments of such fee he renewed his registration from year to year until 1888, when he omitted it, and in August of that year he was fined $50 for failing to renew. He paid "said fine, and at the same time paid the renewal fee for the year ending June 30, 1889. This renewal fee should have been paid on the 30 th of June, 1888. On the 31st of December, 1888, he paid the renewal fee for the year then ensuing, the board having changed the time of renewing from June to December. Ho certificate of renewal was sent him until August, 1889, seven months or more after the payment of the renewal fee; and the certificate then furnished was in terms for the residue of the year ending December 31, 1889. The present prosecution was for compounding and selling a prescription in May, 1889, which was during the time for which he had paid his renewal fee in December, 1888.
+We are of the opinion that the defendant was guilty of no offense, and that the fine was improperly imposed. He was entitled to registration upon payment of the renewal fee. Sec. 10 provides that every registered pharmacist who desires to continue the practice of his profession shall annually, during the time he may continue in such practice, on such date as the board may fix, pay a registration fee for which he shall receive a renewal of registration. Notwithstanding his neglect to pay at the proper date in June, 1888, he did not forfeit his -right to renewal by a subsequent payment, good for the remainder of the year; and by the payment in December he was entitled to registration for the year ending December, 1889. The mere fact that the board was dilatory in issuing the certificate could in no wise prejudice him. He had done all that was required of him, and was not bound to close his store until the certificate should reach him. The act is in derogation of common right and must be strictly construed so far as it places restraint upon a useful and lawful calling. There are thousands of pharmacies in the State where prescriptions are constantly presented, and it would be intolerable if all of these or any of them should be compelled to suspend business because the board had failed to send its certificates of renewal. In the very nature of things it would be impossible for' all of these renewals to be furnished at the time of paying the fee, all payments being due the same day. The fair and reasonable construction must be that where one who is entitled to registration pays the fee, and has thereby done all in his power, he is protected, and may safely proceed in his business until the expiration of the year. The certificate in such case is merely evidence of his complying with the law, but it is not the only evidence. Strictly speaking there is no such offense as that set out in the complaint, viz., compounding and selling without license. The offense is carrying on the business without being registered; and where one has paid the fee, and thereby perfected the right to registration, he can not be held liable in a criminal prosecution because of the non-action of the board of pharmacy.
+The judgment will be reversed and the plaintiff in error will be discharged.
+Judgment reversed.
