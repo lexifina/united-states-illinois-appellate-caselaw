@@ -1,0 +1,44 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,294"
+decided: "1967-02-06"
+citations: ["80 Ill. App. 2d 59"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Henry West, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/80/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2562792
+cites_cases: ["177 NE2d 211", "201 NE2d 194", "22 Ill2d, 534", "223 NE2d 437", "51 Ill App2d 391", "78 Ill App2d 299"]
+---
+
+# People v. West
+
+## Majority (MR. JUSTICE ADESKO)
+
+MR. JUSTICE ADESKO
+delivered the opinion of the court.
+Defendant appeals from a judgment entered upon a verdict of guilty of the crimes of attempted robbery and of burglary in violation of chapter 38, sections 8-4 and 19-1 of the Blinois Revised Statutes, 1963, respectively. He was sentenced to serve from 2 to 5 years for the crime of attempted robbery and 10 to 25 years for burglary.
+The defendant was arraigned on July 23, 1964, on each charge. The Public Defender was appointed on the same day to represent him. Bond was reduced from $10,000 to $5,000 and an order was entered on the State to furnish counsel for defendant with a list of witnesses and statements within ten days. The case was continued to September 21, 1964. On August 27, 1964, a motion for additional reduction of bond was denied. A motion to suppress confession filed on September 21, 1964, was continued by order of court to October 7, 1964. On September 21, 1964, defendant’s counsel requested a conference with the court. The court then advised the defendant that if a conference were held the facts of the case would be discussed, but unless he consented to the conference, the court had no right to hear the facts prior to the actual trial. The trial judge also advised defendant that if a conference were held and the case proceeded to trial, it would be tried before him. The defendant indicated he understood the judge’s comments. The judge then asked defendant: “Do you still want such a conference to take place?”, and the defendant said yes.
+On October 7, 1964, defendant appeared in court, represented by the Public Defender. A hearing on the motion to suppress was had and denied. The defendant, speaking for himself, asked for a further reduction of bond so he could employ counsel of his own choosing. The court refused to reduce the bond, the bond having already been reduced from $10,000 to $5,000. The defendant requested the dismissal of the Public Defender and asked to be represented by a Bar Association attorney. This request was denied. The defendant then asked for a change of venue. The court denied it and set the case for trial on October 13,1964.
+As soon as the case was called on October 13th, counsel for the defendant informed the court that the defendant had filed petitions for substitution of judges but indicated that they had been sent through the mail to the Clerk of the Court. Two of these petitions requested a substitution of judges and the third was a motion for appointment of a Bar Association lawyer. The court denied all of these motions. Selection of the jury commenced and was completed the next day.
+During the selection of the jury, counsel for the defendant made a motion out of the presence of the jury for ten challenges under each indictment. The court denied this motion on the ground that since the indictments were consolidated, each side was entitled only to ten challenges. Selection of the jury was completed and the jury was sworn.
+Out of the presence of the jury the court stated for the record that he had received in the morning mail two written unverified petitions signed by the defendant for substitution of judges. The court allowed the petitions to be filed, and noted that he had previously denied the request for substitution of judges.
+Defendant is seeking a new trial because he claims his motion for substitution of judges was improperly denied; that he was not given adequate assistance of counsel and his motion for other counsel was improperly denied; and that he was denied the proper number of challenges under the statute.
+The law concerning a substitution of judge in criminal cases is dealt with in Ill Rev Stats (1963) c 38, § 114-5.
+Subsection (a) of that section provides for a motion for substitution of judge or any two judges. Such motion must be filed within ten days after the case has been placed on a judge’s trial call. Although the “petitions” filed in the case at bar named two other judges who defendant states are prejudiced against him, the petition came too late to qualify under section 114-5 (a).
+Thus if defendant’s “petitions” are proper they must qualify under section 114-5 (c) which provides as follows:
+“In addition to the provisions of subsections (a) and (b) of this Section any defendant may move at any time for substitution of judge for cause, supported by affidavit. Upon the filing of such motion the court shall conduct a hearing and determine the merits of the motion.”
+The defendant did not comply with the provisions of the statute. The petitions submitted by the defendant were not supported by affidavit and the trial court was justified in denying them.
+This case is distinguishable from People v. Etheridge, 78 Ill App2d 299, 223 NE2d 437 (1966). In Etheridge, defendant filed a verified motion for substitution of judge. This court ruled that although the statute states that a motion for substitution of judge is to be supported by affidavit, the verification on the motion was sufficient to bring the motion within the statute. In the instant case the “petitions” were neither verified nor supported by affidavit.
+The defendant further contends that he was not given adequate assistance of counsel. We do not agree with that contention. A careful examination of the record shows that defendant’s counsel represented him properly and presented his defense adequately according to law.
+Defendant’s request for a Bar Association attorney was properly denied. The trial court found that this motion was made for the purpose of delaying the trial. His request came too late. As this court stated in People v. Jones, 51 Ill App2d 391, 201 NE2d 194, in discussing the right of an indigent defendant to substitute a Bar Association attorney for a Public Defender:
+“We hold that an indigent defendant may not accept the appointment of a public defender and then, on the day of the trial demand that his defense be undertaken by another appointed attorney or public agency. People v. Cox, 22 Ill2d, 534, 177 NE2d 211. The indigent defendant has a right to be represented by counsel, but he does not have a right to experiment with various supplied counsel to the detriment of the orderly process of the law.” (Citations omitted.)
+Defendant also argues that since there were two separate indictments he was entitled to the statutory number of challenges on each indictment. The record discloses that on defendant’s motion and “by express consent and agreement between the State’s Attorney, counsel for the people and the said defendant and his counsel” both indictments were consolidated for trial. The statute provides that “each defendant shall be allowed twenty peremptory challenges in capital cases, ten in all cases in which the punishment may be imprisonment in the penitentiary and five in all other cases.” This section appears under the general heading of “Trial by Court and Jury.” Ill Rev Stats (1963) c38, § 115-4 (e).
+Defendant argued that the use of the word “cases” is synonymous with the word “indictment” and to rule otherwise would cause defendants to oppose consolidation of indictments for trial. We disagree with the defendant’s contention. We believe that the legislative intent in using the word “cases” was to describe the various types of offenses which would subject the defendant to capital punishment or imprisonment in the penitentiary or other punishment. If the legislature had intended to allow the number of challenges to correspond to the number of indictments being tried, it would have used the word “indictments” or “offenses.”
+The State as well as a defendant is limited in the number of peremptory challenges when two or more indictments are consolidated for trial. Thus we do not agree that the statutory limit on the number of challenges will lead defendants to oppose consolidation of indictments for trial.
+The trial court’s denial of the additional challenges was proper especially where the record fails to show that any objectionable juror was forced upon the defendant after he exhausted his peremptory challenges.
+For the foregoing reasons the judgment of the Criminal Division of the Circuit Court of Cook County is affirmed.
+Judgment affirmed.
+MURPHY, P. J. and BURMAN, J., concur.
