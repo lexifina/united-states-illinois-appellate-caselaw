@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Term No. 55-M-1"
+decided: "1955-10-03"
+citations: ["7 Ill. App. 2d 296"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. G. Burden et al., Plaintiffs-Appellants, v. Herman C. Hoover et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-2d/7/cases/0296-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5144710
+cites_cases: ["106 Ill. App. 654", "111 U. S. 746", "186 Ill. 314", "298 Ill. 304", "302 Ill. 228", "326 Ill. App. 654", "355 Ill. 412", "377 Ill. 187", "92 Ill. App. 604"]
+---
+
+# Burden v. Hoover
+
+## Majority (MB. JUSTICE CULBERTSON)
+
+MB. JUSTICE CULBERTSON
+delivered the opinion of the court.
+The complaint in the case before us was filed by plaintiffs, who are a group of chiropractors practicing their profession in Madison County, Illinois. Defendants are also chiropractors carrying on their business in Madison County. Each of the five plaintiffs stated his cause of action in a separate count in which it is asserted that defendants do not hold a license to practice their profession from the State Department of Registration and Education, and that plaintiffs do hold such license to practice. Each plaintiff asserts that his practice and clientele is limited, lessened or reduced because of the competition afforded by defendants, and in such complaint plaintiffs do not charge that defendants lack either education or skill in the practice of the profession or that the practice of chiropractic without a license is a nuisance, either public or private; or improper conduct or misrepresentation on part of defendants. An injunction is prayed to restrain defendants from practicing the profession of chiropractic without a license. Essentially, it is an action filed individually, by licensed chiropractors to enjoin unlicensed chiropractors from practicing their profession.
+A motion to dismiss the complaint was made by defendants on the grounds that plaintiffs have an adequate remedy at law, that a Court of Equity has no jurisdiction, and that plaintiffs have not sought to use or exhaust their legal remedy, and that the plaintiffs admit in the complaint that they have a remedy at law but that such remedy has been found to be unsuccessful. On a hearing on the motion the Trial Court found the complaint was defective and accordingly dismissed the complaint for want of equity.
+On appeal in this Court plaintiffs assert that on many occasions they have attempted to secure criminal prosecution of the defendants for practicing chiropractic without a license but that such efforts were unsuccessful and that, therefore, said plaintiffs have no adequate remedy at law.
+While the State may properly require licenses to be obtained for many professions, the license does not create or confer any vested right, monopoly, exclusive privilege, property right, or freedom from competition (Butchers’ Union Slaughterhouse & Live Stock Landing Co. v. Crescent City Live-Stock Landing & Slaughter House Co., 111 U. S. 746; Lasdon v. Hallihan, 377 Ill. 187, 195). The license is only a means of regulating privileges and occupations, and while it is regarded as a valuable right not to be taken away without due process of law, in a strict sense it is not property or a property right, nor does it create a vested right (City of Carbondale v. Wade, 106 Ill. App. 654, 659; Martens v. People ex rel. Searle, 186 Ill. 314, 318).
+Similarly, it has been established in this State that Courts of Chancery have no jurisdiction to interfere at the suit of a private person merely for prevention of crimes or of statutory offenses, and that the scope of equity jurisdiction is to enforce or protect civil rights and property interests (People v. Huls, 355 Ill. 412; Christie Street Commission Co. v. Board of Trade, 92 Ill. App. 604). It has likewise been established that the practice of chiropractic is recognized as a useful, lawful and necessary profession (People v. Universal Chiropractors’ Ass’n, 302 Ill. 228; People v. Love, 298 Ill. 304, 309). The practice of the chiropractic profession is not a public nuisance per se, nor is it declared a nuisance by statute.
+Injury to property rights, being the basis of jurisdiction in the case before us, the fact that a misdemeanor or crime may be involved would not deprive the Court of jurisdiction to protect the property right, but where the property right is only incidentally involved and the real purpose of the complaint (as is true in the case before us) is to restrain the commission of a crime, the Court of Equity does not havé jurisdiction.
+Plaintiffs on appeal in this Court refer to the case of Smith v. Illinois Adjustment Finance Co., 326 Ill. App. 654, in support of the action of plaintiffs. That case involved an action by an attorney to restrain the practice of law by a finance company and its officers who had not been admitted to practice law by the Supreme Court of this State. The Appellate Court held that the injunction prayed in that case should issue, and distinguished the case of People v. Universal Chiropractors’ Ass’n, supra, upon the ground that the practice of chiropractic was and is a lawful, helpful, and useful profession, and distinguishable from the practice of law in that under no circumstances could the defendant corporation lawfully practice law. Lawyers occupy a unique position in that they are not licensed by the legislature — the right to practice law being conferred by the Supreme Court of the State in the course of its administration of justice, upon such terms as the Court alone deems proper and under circumstances which make a lawyer an arm and branch of the Court itself. The attorneys and the Courts therefore occupy a special position with respect to the practice of law and the enforcement of illegal or improper practices not violative of specific statutory enactments.
+In absence of a private injury to the individuals involved, any public nuisance resulting therefrom may be enjoined, prosecuted, or abated only by public officials (People v. Love, supra; Lasdon v. Hallihan, supra; People v. Huls, supra).
+We must, therefore, conclude that the order of the Circuit Court of Madison County dismissing the complaint of plaintiffs was proper and should be affirmed.
+Affirmed.
+BARDENS, P. J. and SCHEINEMAN, J., concur.
