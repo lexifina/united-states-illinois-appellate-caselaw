@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1881-04-07"
+citations: ["8 Ill. App. 284"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Fulford v. Adolph Block et al."]
+source_url: "https://static.case.law/ill-app/8/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4840463
+cites_cases: ["1 Scam. 499", "2 Scam. 319", "24 Ill. 295", "26 Ill. 246", "36 Ill. 264", "49 Ill. 416", "54 Ill. 370", "55 Ill. 391", "58 Ill. 300", "59 Ill. 176", "71 Ill. 20", "72 Ill. 513", "75 Ill. 367", "91 Ill. 477"]
+---
+
+# Fulford v. Block
+
+## Majority (Baker, J.)
+
+Baker, J.
+Block, being desirous of borrowing $100 from Fulford, proposed giving Welge as security on a note for the amount, and represented that Welge was working for him and was worth as much money as he was. Thereupon Block called Welge from his work and told him to sign his name, which he did, and went back to his work. The evidence is conflicting as to whether the note was either read over or explained to Welge, and also as to whether he left before the money was paid.
+In the suit on the note Block made default, and Welge plead that the execution of the note was obtained by the fraud of Fulford and others acting in collusion with him, etc. According to the testimony of Welge he could not, at the time the note was signed, read or write English, and could not speak it very well; he supposed he was signing a petition for a road, as he had frequently signed petitions of that kind at the request of Block; he neither asked, nor was told, what it was he was called upon to sign; and he thought he had to sign anything Block told him to, because he was working for him. It further appears Fulford did not know Welge before that, and knew nothing about him, except what he was told by Block as to his pecuniary circumstances; and that there was no talk about a road or a petition of any sort. It does not appear Fulford knew anything about Welge having theretofore signed any petitions or other papers; or that there was anything said or done by Fulford to mislead Welge as to the character of the paper he was signing. The court instructed the jury, among other things, if they believed from the evidence “that from the action or representation made by Block and Fulford that Welge was induced to sign the same, believing it to be a petition or remonstrance, or a paper other than a promissory note, or a paper making him liable for the payment of any sum of money, and that Welge would not have signed it if he had known it to be a promissory note, then you should find for defendant;” and also instructed the jury, “That fraud may be committed by acts as well as words, and by withholding the truth as well as by speaking a falsehood.”
+There was no evidence tending to prove fraud or circumvention on the part of Fulford, or that he had any knowledge of such conduct on the part of Block, even if it be conceded Block was guilty of fraudulent practices. As Fulford had not parted with his money, and afterwards paid to Block the full face of the note, it is difficult to see any motive he could have had to induce him to wrongful conduct in order to secure Welge’s signature. There was nothing in the surrounding circumstances that made it his bounden duty to explain matters, or to indicate an explanation was necessary. It was decided in Anderson v. Warne, 71 Ill. 20, that when there is no fraud on the part of the payee, his rights cannot be affected by any fraud practiced between the makers of the note ; and that the statute only renders the note void when the payee commits, participates in, or has knowledge of the fraud before he receives the instrument. Even if the construction of the statute was otherwise, and if fraud .or circumvention in obtaining the execution of a note would render it void although the payee did not participate in the fraud, yet it would be required of the maker of the instrument that there should be no negligence on his part. When one of two persons must suffer loss, he who by his negligent conduct has made it possible for the loss to occur, must bear it.
+As Welge signed the instrument without reading it, or asking to have it read, and without any inquiry or information as to its contents, it was his own folly, and negligence, and he should suffer the consequences. If he really supposed he was bound to sign any paper Block told him to sign, simply because he was working for him, then the loss occasioned by his own gross ignorance should fall on himself and not on an innocent person who, on the faith of the signature parted with his money. For the reasons suggested herein, the instructions of the court were erroneous, and the verdict of the jury was as-ainst the law and the evidence, and it was error to refuse the motion for a new trial.
+Entering final judgment upon default against one 'defendant, while pleas of a co-defendant are undisposed of, is erroneous. The judgment is reversed and the cause remanded.
+Reversed and remanded.
