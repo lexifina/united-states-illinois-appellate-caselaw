@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-265, 78-266 cons."
+decided: "1979-07-19"
+citations: ["74 Ill. App. 3d 130"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v. DANNY R. PALMER, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/74/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3267801
+cites_cases: ["112 Ariz. 416", "183 Neb. 1", "340 N.E.2d 529", "356 N.E.2d 1165", "384 N.E.2d 348", "384 N.E.2d 575", "43 Ill. App. 3d 250", "434 U.S. 838", "54 L. Ed. 2d 101", "62 Ill. 2d 200", "67 Ill. App. 3d 109", "74 Ill. 2d 478", "98 S. Ct. 131"]
+---
+
+# People v. Palmer
+
+## Majority (Mr. PRESIDING JUSTICE STOUDER)
+
+Mr. PRESIDING JUSTICE STOUDER
+delivered the opinion of the court:
+Pursuant to a petition to revoke his probation, the defendant, Danny Palmer, was taken into custody. He filed a motion in the circuit court of Rock Island County to suppress his confession. After a hearing, the court granted such motion and the State has appealed.
+On this appeal the State argues, first, the trial court erred in holding the confession should be suppressed because secured in violation of defendant’s Miranda rights and, second, the court erred in suppressing the confession because it was voluntary even though the procedure did not comply with that required by Miranda. We reverse.
+From the evidence presented at the defendant’s hearing on his motion to suppress his confession, we conclude the facts are substantially undisputed.
+On March 28, 1978, defendant was arrested for burglary and interrogated at the station house. According to the testimony of Lieutenant Nelson, defendant was given a copy of a printed form listing his constitutional rights and providing space for a written acknowledgement and waiver of those rights. According to Nelson, while reading the rights from the form word-for-word to the defendant, at some point the defendant stopped him, stating he knew his constitutional rights, and signed the rights sheet. Shortly after signing the waiver form defendant was questioned by another police officer and thereafter signed a statement admitting the burglary.
+Nelson did not testify about which of the rights he advised the defendant and was unable to say whether the defendant did or did not read the “rights” card which he had been handed and later signed.
+The trial court ruled the admonishments and waiver were insufficient under the Miranda rule and the confession should be suppressed as evidence of defendant’s guilt. The court also ruled the confession was voluntary and could be used for purposes of cross-examination if the defendant elected to testify.
+In asserting that the admonitions and waiver were in accord with the Miranda rules, the State suggests, first, that where the defendant prevents the completion of the oral admonishments he should be bound by his written waiver, second, that the defendant had the opportunity to read the card which he signed and therefore should be charged with knowledge of its contents and, third, the defendant’s waiver should be considered a knowing waiver because he had been convicted in prior criminal proceedings.
+According to the State, the facts in this case are analogous to those in People v. Wenstrom (1976), 43 Ill. App. 3d 250, 356 N.E.2d 1165, cert. denied (1977), 434 U.S. 838, 54 L. Ed. 2d 101, 98 S. Ct. 131. However, we are inclined to believe the Wenstrom case is not authority for approving of the procedure in this case. In Wenstrom the defendants were four deputies, each of whom was familiar with his constitutional rights, because three of the deputies had the cards in their pockets and the fourth had memorized the admonishments. The court considered these circumstances unique and concluded that the deputies were so familiar with their constitutional rights that reading the same to them would be of no significance.
+In the instant case we see no similarity between the defendant’s circumstances and those of the deputies, even though the defendant had been involved in prior criminal cases. Nor do we believe that the defendant’s interruption of the process by saying he knew his rights furnishes an appropriate substitute for a complete admonition, either oral or written, to show that defendant’s waiver had the legal significance required.
+In State v. Ross (1968), 183 Neb. 1, 157 N.W.2d 860, where the defendant also interrupted the giving of admonishments because he knew of his rights, the court concluded that he had not been advised of his rights and his purported waiver was ineffective. In the Ross case the defendant did not sign the written waiver card or statement, but the fact that such a card was signed in the instant case should make no difference since there is an absence of any evidence the defendant read the card.
+In our opinion we believe the trial court ruled properly in holding that the admonitions and waiver did not comply with the Miranda requirements.
+However, we disagree with the trial court in its further holding that because the Miranda rules were not complied with the confession could not be used as evidence of guilt in a probation revocation proceeding.
+Courts have recognized that defendants in probation revocation proceedings are entitled to due process, but the requirements of such due process have been held to be less stringent than those required in a criminal proceeding. (People v. Dowery (1975), 62 Ill. 2d 200, 340 N.E.2d 529.) The rationale for approving or permitting different degrees of due process is difficult to understand and apply. In either case the defendant may receive a substantial prison term. The explanation for the lesser requirements of due process in a probation revocation proceeding seems to be based on the traditional notion that probation was a matter of grace and as such also could be withdrawn at pleasure or at least with little regard for any concept of due process.
+In the recent case of People v. Peterson (1978), 74 Ill. 2d 478, 384 N.E.2d 348, the court holds that even though a defendant in a probation revocation proceeding may not be entitled to the same due process accorded a defendant in a criminal case, the fifth amendment rights are applicable at least to the extent that a coerced confession is inadmissible. In Peterson the court held that an order suppressing a defendant’s confession in a criminal proceeding because involuntary could not be collaterally attacked in a probation revocation proceeding. According to the court in Peterson, it would appear, inferentially at least, that it is only involuntary confessions which are excluded in probation-revocation proceedings and not those merely taken in technical violation of the Miranda requirements. While this is not the specific holding in Peterson, the language offers strong support for such conclusion and is the view adopted by the court in People v. Diesing (1978), 67 Ill. App. 3d 109, 384 N.E.2d 575. We believe that in a probation revocation proceeding, a statement or confession which was found to be voluntary even though not in compliance with the Miranda requirements is admissible as evidence of defendant’s violation of his probation. But see State v. Smith (1975), 112 Ariz. 416, 542 P.2d 1115.
+Since the trial court did find that the defendant’s confession was voluntary and, indeed, the defendant has not disputed such finding on this appeal, the court erred in suppressing the confession.
+For the foregoing reasons the judgment of the circuit court of Rock Island County is reversed and this cause is remanded to said court for further proceedings.
+Reversed and remanded.
+ALLOY and SCOTT, JJ., concur.
