@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 25,544"
+decided: "1920-03-08"
+citations: ["217 Ill. App. 31"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas G. Donovan et al., Appellees, v. Thomas A. Murphy, Appellant."]
+source_url: "https://static.case.law/ill-app/217/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2989414
+cites_cases: ["131 Ill. 468", "139 Ill. App. 262", "140 Ill. 123", "186 Ill. App. 7", "189 Ill. App. 79", "191 Ill. App. 67", "88 Ill. App. 136"]
+---
+
+# Donovan v. Murphy
+
+## Majority (Mr. Justice Dever)
+
+Mr. Justice Dever
+delivered the opinion of the court.
+This is an appeal from a judgment of the municipal court in favor of the plaintiff in a forcible detainer suit "brought by him to obtain possession of an apartment in a building known as No. 7131 Eberhart avenue, Chicago.
+The owner of the building leased the apartment to defendant for a period commencing May 3, 1918, and ending April 30, 1919. _ After the termination of this period the defendant continued to occupy the premises under terms similar to those provided for in the lease, which among other things required the payment of rent in monthly instalments on the 1st day of each and every month during the term.
+For the defendant it is insisted, first, that no notice of election to terminate the tenancy was served on defendant before filing suit; second, that plaintiffs waived the right to forfeit the lease for nonpayment of rent on the 1st day of the month, as provided in the lease, by reason of having accepted rent for previous months after the 1st day of the month.
+The evidence introduced on the trial shows that from the time that the lease was executed and the defendant went into possession of the premises it had been his custom to pay the rent due therefor on or about the 10th day of each month. The rent for the month of July, 1919, was paid by check on the 10th of that month. The action was begun by the plaintiffs on August 9, 1919, without giving notice to the defendant of any intention on the part of the plaintiffs to forfeit the lease, for the reason, as alleged, that the defendant had failed to pay rent for the month of August, 1919, on the 1st day of that month in accordance with the provisions of the lease.
+We are to determine then whether on the day the suit was brought the plaintiffs had a legal right to terminate the lease, and whether defendant was, as a matter of law, in default of the payment of rent due the plaintiffs. As stated, the evidence shows that notwithstanding the provisions of the lease the rent due thereunder was in fact paid on-or about the 10th day of each month.
+There are several cases decided by the courts of review of this State which hold that the provisions of a lease with respect to times provided therein for the payment of rent may be waived and will be presumed to be waived where the parties to such lease have by an express or implied agreement chosen to disregard such provisions.
+There is no evidence in the record before us which tends to show that the plaintiffs at any time prior to the bringing of the suit had declared any purpose to insist upon a strict compliance with the terms of the lease with respect to times provided therein for payment of rent. The lease does provide specifically that the lessor might declare a forfeiture of the lease for the failure on the part of the lessee to pay rent when due.
+It is provided in the lease that the defendant waived his right to notice of an election on the part of the lessor to declare the term ended upon default of any of the provisions made therein, and it is insisted that the clause distinguishes the present case from the cases of Treat v. Smith, 139 Ill. App. 262; Vider v. Ferguson, 88 Ill. App. 136; and Jakes v. North American Union, 186 Ill. App. 7. The present case is to be distinguished in that here it is asserted that the parties to the lease had, by a course of dealings subsequent to the execution of the lease, modified the terms with reference to the times when the rent was to become due, and this seems to us to be the controlling fact in the case. The decisions in the cases, in principle similar to the one before us, in substance, rest upon an application of the doctrine of estoppel. In the present case the landlord saw fit to accept rent for the premises on the 10th day of each month and not upon the 1st day of the month, as provided for in the lease. The tenant was led to believe, by a course of dealings with the landlord, that payment on the 10th of the month would be a compliance with the conditions of the lease.
+In the case of Espen v. Hinchliffe, 131 Ill. 468, it was held that under the lease the tenant had waived his right of notice to declare the term ended upon default of any of the provisions of the lease, and that the mere fact of nonpayment of rent by the lessee constituted a forcible detainer of the premises.
+If, as a matter of fact, it can be said that the defendant was in default in payment of rent at the time the suit was brought, the Espen case, supra, would be an authority in favor of the plaintiff. In that ease rent was due under the terms of the lease at the time the suit was brought and a formal notice was served upon the tenant that unless the rent due was paid within a specified time the. lease would be terminated. In the present case no formal notice was given to the tenant, nor do we think on the evidence it can be said he was in default in the payment of rent.
+In the case of Gradle v. Warner, 140 Ill. 123, the Supreme Court said:
+“It is true that the lease provided that if the rent .should be unpaid on the day of payment, or if default should be made in any of the covenants of the lease, it should or might be lawful for the party of the first part to declare said term ended. But the lessor had the right to waive this provision of the lease, and unless some act to manifest an intention on her part to declare a forfeiture was done, it will be presumed that she waived the right.”
+In the case of Jacobs v. Jurgensen, 191 Ill. App. 67, it was held that where a lease provided that the landlord might declare a forfeiture of the lease because of failure on the part of the lessee to pay rent when due, such landlord had the right to waive the forfeiture and the waiver would be presumed until the landlord did some act manifesting an intention to declare a forfeiture.
+Construing the lease as modified by the admitted conduct of the parties, the plaintiffs had no legal right, as a matter of law, to bring the action on August 9, 1919. Under the circumstances, notwithstanding the provisions of the lease with respect to notice, it was the duty of the plaintiffs to notify the defendant of the intention to insist upon a strict compliance with the terms of the lease as written, and the plaintiffs were not justified by a mere secret mental operation in declaring forfeited the rights of the defendant under the lease. Hamer v. Butterly, 189 Ill. App. 79.
+The courts are quite ready to take hold of any reasonable circumstances which show an intent to waive a forfeiture. Jakes v. North American Union, 186 Ill. App. 7. The rule which is to be applied in the present case is founded upon reason and justice. Where a lessee has been led by the conduct of the lessor to believe that a strict compliance with the terms of the lease will not be insisted upon, it would be manifestly unfair to permit a forfeiture of the lessee’s right under the lease because of the lessee’s failure to strictly comply with such terms.
+The judgment of the municipal court must be reversed and as the error complained of is one of law, the cause will be remanded to that court.
+Reversed and remanded.
+Mr. Presiding Justice McSurely and Mr. Justice Holdom concur.
