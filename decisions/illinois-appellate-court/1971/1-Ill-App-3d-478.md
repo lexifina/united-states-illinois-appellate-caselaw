@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "54851"
+decided: "1971-08-31"
+citations: ["1 Ill. App. 3d 478"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Appellant, v. Clarence Peavy, Appellee."]
+source_url: "https://static.case.law/ill-app-3d/1/cases/0478-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5313687
+cites_cases: ["122 Ill.App.2d 452", "228 N.E.2d 457", "255 N.E.2d 413", "259 N.E.2d 319", "380 U.S. 102"]
+---
+
+# People v. Peavy
+
+## Majority (Mr. PRESIDING JUSTICE LEIGHTON)
+
+Mr. PRESIDING JUSTICE LEIGHTON
+delivered the opinion of the court:
+The State, pursuant to Supreme Court Rule 604(a), appeals from an order that quashed a search warrant and suppressed evidence. The sole issue is whether the complaint set forth facts which disclosed probable cause for issuance of the search warrant. The essential facts are undisputed.
+On December 7, 1968, Detective Charles Mitchell of the Vice Control Division, Gambling Unit, filed a complaint under oath requesting a warrant to search defendant’s person and his apartment in Chicago “[a]nd seize pari-mutuel lottery records of bets * * * which have been used in commission of, or which constitute evidence of the offense of pari-mutuel lottery * * Mitchell alleged that he had probable cause to believe the lottery records were located on Clarence Peavy or in his apartment because he had a conversation “[w]ith a reliable informant who has given me information on three occasions in the past which resulted in three arrests and three convictions relating to parimutuel lottery gambling * * *. This man told me that he placed bets in numbers at a shoe shine stand at 5507 South Prairie Avenue, Chicago, Illinois. This man further stated that Clarence Peavy, a known numbers operator who has been arrested by me and by members of the Gambling Unit in the past for pari-mutuel lottery gambling, collected these bets from these premises and took them to an office used for the purpose of tabulating and recording numbers gambling # #
+Mitchell alleged that begining at 11:00 A.M. on October 17, 1968, he placed the premises at 5507 South Prairie Avenue under surveillance. At 11:05 A.M., he saw defendant enter the shoe shine stand and then depart a short time later. Mitchell said he followed defendant who “[mjade several other stops on the south side of the City of Chicago. At each location he would enter 0 * stay a short time and depart to the next one. At 12:45 P.M. on October 17, 1968, Peavy parked his auto in front of his home, alighted and went into the premises, apartment 115A, 115 East 68th Street * 0 It was further alleged by Mitchell that from October 17, 1968 until December 6,1968, Peavy was kept under a surveillance which included his home, his auto and his contacts with “[o]ther known numbers men [who] came to and entered Peavy’s home. They stayed within the premises for an hour, came out and departed.” Mitchell concluded his complaint, alleging that:
+“On the 6th day of December, 1968,1 followed Clarence Peavy along his numbers route and to his home, where he parked in an alley next to the entrance to the rear of his apartment and started to sort through a quantity of pari-mutuel bet records, while being observed by me as 1 slowly walked past the parked auto. He then alighted from the car and entered his apartment # # *.
+Based on the above information, investigation and evidence, I believe that apartment 115-A, at 115 E. 68th Street, Chicago, Illinois, is being used as an office for pari-mutuel lottery gambling and that pari-mutuel lottery records of bets and/or other related material will be found there-in, or on the person of Clarence Peavy.”
+The warrant issued. On December 9, 1968 defendant’s person and his apartment were searched and gambling records were seized. Defendant was indicted and charged with the offense of gambling, in violation of Ill. Rev. Stat. 1967, ch. 38, par. 28—1(a7). Prior to trial he moved to quash the search warrant and suppress the evidence. At the hearing, a copy of Detective Mitchell’s complaint was admitted in evidence and examined by the trial judge. Defendant’s counsel argued that the complaint did not disclose probable cause for issuance of the search warrant because it did not allege that defendant took anything into his house. After hearing argument, the trial judge ruled, “[h]e made no effort to place the man under arrest * * *. The affidavit doesn’t say he brought these into the apartment * * * Motion to suppress the evidence and quash the search warrant is sustained.”
+The guiding principle in determining probable cause is common sense. (People v. Johnson, 84 IIl.App.2d 143, 228 N.E.2d 457.) Affidavits for search warrants are to be interpreted in a realistic manner. They should not be tested by elaborately technical requirements. (United States v. Ventresca (1965), 380 U.S. 102, 85 S.Ct. 741, 13 L.Ed.2d 684.) An affidavit establishes probable cause when it states facts (within affiant’s knowledge or of which he has reasonably trustworthy information) which would justify a man of reasonable caution to believe that a crime has been or was being committed and that evidence thereof is on the person or premises to be searched. People v. Francisco, 44 IIl.2d 373, 255 N.E.2d 413.
+In this case, the affidavit stated that the informant placed bets which were collected by defendant; that in the past, defendant was arrested for gambling by affiant and other officers; that, under surveillance, defendant was seen traveling, ostensibly, a numbers route; that known numbers men were seen entering and leaving defendant’s apartment; and finally, that affiant observed defendant sorting through parti-mutuel bet records. From these facts, it was reasonable to conclude that defendant had committed the crime of gambling and that evidence of it would be found on his person or premises, even if he did not take the bet records with him into his apartment when he alighted from his car while being observed by affiant. Therefore, it was error for the trial judge to quash the search warrant and suppress the evidence. People v. Smolucha, 122 Ill.App.2d 452, 259 N.E.2d 319.
+Accordingly, the judgment is reversed and the cause remanded for proceedings consistent with this opinion.
+Reversed and remanded with directions.
+SCHWARTZ and STAMOS, JJ., concur.
