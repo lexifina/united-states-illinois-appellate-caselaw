@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "57304"
+decided: "1972-11-29"
+citations: ["8 Ill. App. 3d 836"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Metro-Goldwyn-Mayer, Inc., Plaintiff-Appellee, v. ABC-Great States, Inc., Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/8/cases/0836-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2761825
+cites_cases: ["102 Ill.App.2d 197", "105 Ill.App.2d 448", "226 N.E.2d 483", "243 N.E.2d 586", "245 N.E.2d 523", "304 F.Supp. 23", "337 Ill.App. 83", "405 Ill. 374", "82 Ill.App.2d 409", "84 N.E.2d 874", "90 N.E.2d 742"]
+---
+
+# Metro-Goldwyn-Mayer, Inc. v. ABC-Great States, Inc.
+
+## Majority (Mr. JUSTICE ADESKO)
+
+Mr. JUSTICE ADESKO
+delivered the opinion of the court:
+Metro-Goldwyn-Mayer, Inc., (hereinafter MGM) brought an action against ABC-Great States, Inc., (hereinafter ABC), to recover additional film rental due on motion pictures, licensed to and shown by ABC, by reason of the deduction of the City of Chicago Amusement Tax by ABC in computing its gross receipts. After a bench trial, the trial corn! entered a judgment for MGM in the amount of $10,521.62. On appeal the defendant contends (1) that the trial court erred in holding that it failed to establish its defense of accord and satisfaction and (2) that the trial court erred in holding that it failed to establish its defense of custom and usage. The facts are as follows:
+In 1947, the City of Chicago enacted an amusement tax of 3% on the operators of theatres based upon the gross receipts from admissions in excess of ninety cents per single admission. MGM’s license agreement with ABC provided that the fees were to be computed upon the theatre’s gross receipts. In the agreement gross receipts was defined as all monies received by the exhibitor from or in behalf of the patron, exclusively only of admission taxes imposed by law upon the patron. Since the inception of the ordinance until May 28, 1968, ABC deducted, without objection by MGM, the amount of amusement tax from its gross receipts. On May 28, 1988, MGM sent ABC a letter stating that ABC would not be permitted to deduct the amusement tax in reporting its gross box office receipts and in computing the film rental due. Plaintiff and defendant agreed to continue to do business and defendant agreed to continue to pay plaintiff the undisputed amount of the film rental while their lawyers handled the question relating to deductions from gross receipts.
+Defendant contends that it established the affirmative defense of accord and satisfaction. A meeting of the minds with intent to compromise is essential to an accord and satisfaction. (Koretz v. All American Life & Casualty Co., 102 Ill.App.2d 197, 201, 243 N.E.2d 586.) An agreement to accept partial payment in full satisfaction of a claim is sufficient consideration to sustain an accord and satisfaction between the parties. (A. & H. Lithoprint v. Bernard Dunn Advertising, 82 Ill.App.2d 409, 412-413, 226 N.E.2d 483.) In the instant case there was no agreement by the plaintiff to accept defendants payments in full satisfaction of its claim. The parties had agreed to let their attorneys settle the dispute over the rental payments while they continued to do business. The attorneys never reached an agreement to settle the rental dispute and this action was instituted. Since there was no agreement to compromise we find that the defendant failed to establish the affirmative defense of accord and satisfaction.
+Defendant also contends that it established the affirmative defense of custom and usage. A trade custom or usage to be binding must be so well known, uniform, long-established and generally acquiesced in as to induce the belief that the parties contracted with reference to it, nothing appearing in their contract to the contrary. (Traff v. Fabro, 337 Ill.App. 83, 84 N.E.2d 874.) For twenty years defendant deducted, without objection from the plaintiff, the amusement tax from the gross receipts before determining the film rental due. On May 28, 1968, plaintiff sent a letter to defendant notifying it that the amusement tax deduction will not be allowed. This action involves the film rental due on the amusement tax deducted since May 28, 1968. The film rental contract between the parties expressly provided that the gross receipts, upon which the film rental payment was to be computed, included all monies received by defendant from or in behalf of the patron (exclusive only of admission taxes imposed by law on the patron). The amusement tax is not an admission tax and is not imposed upon patrons, but instead is an occupation tax upon the operators. Stiska v. City of Chicago, 405 Ill. 374, 90 N.E.2d 742.
+The contract for each film contained terms which did not allow deductions of the amusement tax from the gross receipts before determining the film rental due. Plaintiffs letter of May 28, 1968, notified defendant that it could not deduct the amusement tax. Defendant continued to enter those contracts after receipt of written notice that it could not deduct fire amusement tax.
+“It is true that where there is doubt as to the meaning of a contract, the courts will look to the acts of the parties for, aid in construction. However, when a contract is clear and unambiguous, the conduct of the parties cannot be used to prove that it means something different than it says. 17 Am.Jur.2d, Contracts, § 274, page 688.” (Luciani v. Certified Grocers of Illinois, 105 Ill.App.2d 448, 458, 245 N.E.2d 523; Twentieth Century-Fox Film Corp. v. Woods Amuse. Corp. (N.D.Ill.), 304 F.Supp. 23, 28-29.) The interpretation placed upon the contract by the parties cannot be used to overthrow the plain terms of the contract. Defendant has failed to establish the affirmative defense of custom and usage.
+For these reasons, the judgment of the Circuit Court of Cook County is affirmed.
+Judgment affirmed.
+DIERINGER, P. J., and BURMAN, J., concur.
