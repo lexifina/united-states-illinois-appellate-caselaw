@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1884-04-15"
+citations: ["14 Ill. App. 593"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Thomlinson et al. v. Emanuel Earnshaw et al."]
+source_url: "https://static.case.law/ill-app/14/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4876558
+cites_cases: ["102 Ill. 540", "104 Ill. 586", "13 Ill. 544", "14 Ill. 154", "2 Gilm. 375", "22 Ill. 283", "24 Ill. 197", "3 Scam. 347", "36 Ill. 60", "42 Ill. 225", "51 Ill. 170", "81 Ill. 150", "82 Ill. 134", "90 Ill. 599", "91 Ill. 104"]
+---
+
+# Thomlinson v. Earnshaw
+
+## Majority (Bailey, J.)
+
+Bailey, J.
+This was an action of assumpsit, brought by Emanuel Earnshaw and others against John Thomlinson and others, on an account for stone furnished by the plaintiffs from their quarry, in pursuance of an oral contract with the defendants, to be used by the defendants in erecting a court house at Washington, Indiana. The declaration contained only the common counts, to which the defendants pleaded non assumpsit, and also a plea of set-off, claiming damages of the plaintiffs in consequence of the inferior quality of the stone furnished under the contract. The evidence shows that the stone was delivered from time to time, from April 27, 1877, to November 9th of the same year, as needed in the erection of the building, and amounted in all, according to the contract price, to $7,974.75, and that the defendants paid the plaintiffs various sums on account, amounting to $7,216.39, leaving a balance unpaid of $768.36. The jury at the trial found against the defendants on their plea of set-off, and rendered a verdict for the plaintiffs for the balance of the account with interest, amounting to $1,009.27. \
+As to the defense of set-off, the evidence was conflicting, and we can not say that the jury were not warranted in finding for the plaintiffs on that issue. We think, however, that the evidence did not warrant the allowance of interest on the plaintiff’s account, and that, to that extent, the verdict and judgment are erroneous.
+Under our statute, interest is recoverable “on money due on the settlement of account, from the day of liquidating, accounts between the parties and ascertaining the balance.” It is clear that the present case is not brought within this provision of the statute. The account consists of a considerable number of items of both debits and credits, running through several months, and there is no evidence that it was ever liquidated between the parties. It seems that statements or memoranda of the amount of stone delivered to the defendants were furnished them by the plaintiffs at intervals, while the contract was being performed, and so far as appears, such statements were retained by the defendants without objection; hut this has no tendency to show a liquidation of the entire account and an ascertainment of the balance. The fact that the defendants made no objection to the several statements is perhaps evidence of an implied admission of their correctness'; hut this only furnishes proof of the items composing the debit side of the account. In none of those memorandums were any payments credited, nor can they in any sense be regarded as supplying the place of a general statement of the account, showing and ascertaining the balance due.
+The only error in the record being as to the interest, the amount of which is easily separable from the residue of the judgment, there seems to be no necessity for reversing the judgment in toto so as to subject the parties to the trouble and expense of a new trial. In cases of this character, ample authority is given by the eighty-first section of the Practice Act, to enter the proper judgment in this court, or to remand the cause to the court below, with directions to that court to enter judgment for the proper amount. The plaintiffs, moreover, offer to remit the amount of the interest in case we hold that interest is not recoverable, and content themselves with a judgment for the principal only. We think they' are entitled to a judgment for that amount, and in case they voluntarily remit the interest, they should not be compelled to retry the case. A proper practice, in cases of this kind, is clearlyindicated in the West Chicago Alcohol Works v. Sheer, 104 Ill. 586. In conformity with the practice .there laid down, the judgment of the Superior Court will be reversed, at the costs of the plaintiffs below, with directions to that court, upon a remittitur being made by the plain'tiffs, of $280.91, to enter judgment in their favor on the verdict for the residue, viz.: $768.36 and costs. In case of a failure tt> make such remittitur within thirty days after the re-instatement of this cause in the court below, that court is directed to award the-defendants a new trial.
+Judgment reversed.
