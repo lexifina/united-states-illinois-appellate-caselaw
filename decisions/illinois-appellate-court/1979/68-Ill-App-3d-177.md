@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-192"
+decided: "1979-01-24"
+citations: ["68 Ill. App. 3d 177"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. CHARLES GENE STAMM, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/68/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3308379
+cites_cases: ["358 N.E.2d 909", "370 N.E.2d 1063", "378 N.E.2d 248", "378 N.E.2d 598", "44 Ill. App. 3d 730", "61 Ill. App. 3d 612", "61 Ill. App. 3d 676", "69 Ill. 2d 200"]
+---
+
+# People v. Stamm
+
+## Majority (Mr. JUSTICE HICKMAN)
+
+Mr. JUSTICE HICKMAN
+delivered the opinion of the court:
+The defendant was convicted and sentenced after a bench trial on the offense of indecent liberties with a child. The defendant contends that the charge was defective, that he was prejudiced by admission of certain evidence not pertaining to the charge contained in the information, that the evidence was insufficient to prove guilt beyond a reasonable doubt and that the trial court abused its discretion in imposing a sentence. The State urges that the trial court erred in imposing a single sentence.
+The information charges the defendant with committing indecent liberties with a child on June 9, 1976, by performing an act of lewd fondling upon two victims both under the age of 16 with the intent to satisfy himself in violation of section 11 — 4(a) (3) of the Criminal Code of 1961. The pertinent part of the statute states:
+“(a) Any person of the age of 17 years and upwards who performs or submits to any of the following acts with a child under the age of 16 commits indecent liberties with a child:
+0 0»
+(3) Any lewd fondling or touching of either the child or the person done or submitted to with the intent to arouse or to satisfy the sexual desires of either the child or the person or both.” Ill. Rev. Stat. 1975, ch. 38, par. 11 — 4(a)(3).
+The evidence shows that two 12-year-old boys, the victims, and the defendant went to a strip pit where they swam in the nude. The testimony of the boys related that the defendant played with their penises and put their penises in his mouth. A Sparta police officer testified as to the defendant’s birth date which demonstrated the defendant to be 22 at the time of the occurrence. The officer further testified that the defendant admitted swimming with the boys but denied any contact with them. The defense counsel attempted to impeach the testimony of the victims by bringing out contradictions between their trial testimony and the statements given to the police and testimony at the preliminary hearing. To counter this the State brought out that there were two incidents occurring at different swimming places within a short span of time involving defendant and the same two victims. The trial court, when announcing its finding of guilty as alleged in the information, made note of the alleged discrepancies and contradictions in the two boys’ testimony but specifically found that their testimony was credible and that the defendant had been proved guilty beyond a reasonable doubt.
+During the argument on the motion for new trial the court made clear that the offense upon which the defendant was convicted occurred on June 9 involving the strip pit incident. At the hearing on the post-trial motions the court reaffirmed his opinion as to the credibility and reliability of the two victims and imposed a sentence of 4 to 6 years.
+The defendant’s contention that this information was faulty because it attempted to charge offenses arising out of two separate occurrences must fail. The information charges but one incident, that occurring on Juné 9, 1976. As readily apparent from the court’s statement, that was the finding of the court and the one upon which judgment and sentence was imposed. The allegation of the offense as it pertained to the two victims in one count in the opinion of this court is proper. The validity of the information is upheld. This is so for the reason that while the information charged an offense as to each of the victims only one sentence was imposed on the information charging the offenses. Also, the defendant was proved guilty beyond a reasonable doubt as to the charge that pertains to each victim. It would have been better practice to have brought the charge in two separate counts.
+However, the complaint goes to misjoinder, which is a formal defect for which the charge should not be dismissed. The information did charge an offense under the Code of Criminal Procedure of 1963 (Ill. Rev. Stat. 1975, ch. 38, par. 111 — 3). A motion in arrest of judgment could not prevail. It cannot be seriously questioned that the defendant’s counsel was well informed of the charge and that the information was more than adequate for him to prepare any defense or defenses pertaining to the charge. Further, there can be no question that the conviction is a bar to any subsequent prosecution involving this incident.
+This brings us to the contention that it was error to admit testimony concerning incidents other than that upon which the finding and judgment were entered, that is, the occurrences at the strip pit on June 9, 1976. The record is abundantly clear and adequately shows that the other incidents complained of were brought out only after defense counsel had opened the entire matter during his cross-examination of the victims. The admission of the evidence complained of was therefore a result of testimony elicited on cross examination by counsel for the defense. Its admission on redirect was proper in order to make an attempt to clarify any contradictions in their testimony. Since this was a trial by the court without a jury we must presume that the trial judge did not give this testimony any improper weight or consideration.
+The defendant’s contention that he was not proved guilty beyond a reasonable doubt must be rejected. It’s axiomatic that great weight must be given to the trial court’s determination concerning credibility of witnesses. It’s true that with the charge of indecent liberties with a child the evidence to sustain a conviction must create an abiding conviction of the guilt of defendant. People v. Morgan (1976), 44 Ill. App. 3d 730, 358 N.E.2d 909, affirmed (1977), 69 Ill. 2d 200, 370 N.E.2d 1063.
+The testimony of the two boys was not contradicted. The attempt to show contradictions in their testimony was not accepted by the trier of fact. In fact, the totality of the circumstances prior to and after the occurrence substantiate the charge. We cannot say the trial court’s finding was erroneous and are of the opinion it must be sustained. Defendant was proven guilty beyond a reasonable doubt.
+Defendant urges that the trial court committed error in sentencing him to imprisonment. It’s sufficient to state that the trial judge specifically stated that imprisonment was necessary to protect the public and that probation would deprecate the seriousness of the offense. We cannot say that there was no evidence to support these conclusions or that it was an abuse of discretion to impose sentence of imprisonment under the circumstances. Therefore, we should not disturb the trial court’s conclusions in this regard.
+We are of the view that the recent decisions of this court in People v. Woods (1978), 61 Ill. App. 3d 676, 378 N.E.2d 598, and People v. Dean (1978), 61 Ill. App. 3d 612, 378 N.E.2d 248, are riot applicable.
+We find no merit in the request of the State for remandment for resentencing.
+The judgment and sentence of the trial court are affirmed.
+KARNS and JONES, JJ., concur.
