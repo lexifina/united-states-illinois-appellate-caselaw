@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 4,594"
+decided: "1906-07-17"
+citations: ["128 Ill. App. 26"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jennie M. Scott v. Mary A. Goode et al."]
+source_url: "https://static.case.law/ill-app/128/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2520015
+---
+
+# Scott v. Goode
+
+## Majority (Mr. Justice Willis)
+
+Mr. Justice Willis
+delivered the opinion of the court.
+This is an appeal from the Circuit Court of Bock Island county, Illinois, brought to reverse a decree sustaining a demurrer. to a proceeding in chancery to foreclose a mortgage. The facts underlying the action, as stated, first, in a bill filed in the names of the then trustees of schools for a township in Bock Island county," Illinois, for the use of the appellant herein, against Mary A. G-oode et al., and in an amended bill subsequently by leave of court filed in the name of Jennie M. Scott, the appellant, for her own use against the same defendants, in substance are, that on November 3, 1884, one Benjamin Dill, being indebted to the then trustees of schools of Andalusia, township, Bock Island county, Illinois, in the sum of two hundred dollars, made, executed and delivered to the trustees his promissory note and mortgage deed for that amount, with interest payable half-yearly, due in five years after date. The mortgage conveying certain lands with appurtenances in Bock Island county to secure said note, was duly recorded. All the interest accruing on the note up to the 3rd day of-November, 1897, was paid by Benjamin Dill or by his grantees of the mortgaged' premises, to the trustees of schools or to some one for them. On August 25/1903, the board of school trustees, by Messrs. Searle and Marshall, their agents and attorneys, indorsed upon the note the words and figures following:
+“Rock Island, Ill., Aug. 25, 1903.
+This is to certify that the payee herein hereby acknowledges the receipt of $200.00 in full payment and satisfaction of the above note.
+By Board of Trustees, aforesaid,
+Searle and Marshall, its agents and attys.”
+The appellant paid to Searle and Marshall for the board of school trustees a good and valuable consideration for the note with the indorsement written thereon and obtained its possession, and on October 19, 1903, the mortgage and note were transferred by the board of school trustees, by a separate instrument of assignment, to Jennie M. Scott, appellant, and the assignment was recorded. The title to the premises conveyed by the mortgage passed from Benjamin Dill through several grantors and grantees, and vested in Daniel Goode, he assuming the mortgage thereon by a warranty deed dated December 4, 1899. On the 7th day of January, 1902, Daniel Goode died intestate, leaving Mary A. Goode, his widow, and Ethel Goode, Lester Goode and Baym'ond Goode, his heirs. On January 25, Albert E. Simmons was appointed administrator of the estate of Daniel Goode, deceased. After the death of Daniel Goode default was made in the payment of taxes on the mortgaged premises, and a redemption was had by appellant. Afterwards default was made in the payment of the principal and interest due on the note.
+We cannot adopt the appellees’ construction of the statute empowering trustees of schools to conduct the business necessary for the proper maintenance of schools. We hold that the statute authorizes them to take notes, bonds and other negotiable securities, and when a promissory note is once in their ownership it retains all its negotiable qualities, is as much a promissory note as ever, and is governed by the laws of negotiable instruments, and the school trustees, in their corporate capacity, have the power to sell and transfer the same, investing the purchaser with the legal title thereto; and if, as appellees urge, the possession of such power by the trustees of schools is a menace, and its exercise might lead to great abuse, and cause the destruction of the trust and the annihilation of the school system, it is for the legislature to apply the correction.
+The trustees of schools cannot transfer title of its negotiable instruments by its agents or attorneys at law, but can do so by its corporate action only, and the indorsement written on the note by Searle and Marshall, agents and attorneys for the board of school trustees, did not transfer the legal title thereof from the board of trustees and vest it in Jennie M. Scott, the appellant, and the language of the indorsement would not, if reformed, as urged. If she had purchased the note from the board of trustees without an assignment, she would be entitled to use the names of the trustees in a proceeding to foreclose the mortgage in order to" collect the debt evidenced by the note. It follows that she cannot sustain the amended bill, because she has not the legal title to the note, and she did not make the trustees parties either complainant or defendant in the amended bill. The original bill in the name of the trustees for her use was a proper one, under which the equities of all the parties thereto could have been determined and adjusted. If, as the demurrer admits, the money paid by appellant to Messrs. Searle and Marshall, agents and attorneys of the school trustees, was not intended to be in satisfaction or payment of the note, but for the purchase price and its transfer to appellant, and the form of the indorsement was a mutual mistake of the parties, then the debt has not been paid, and the trustees of schools have a right to maintain a bill to foreclose the mortgage, and the defendants are not concerned for whose use the suit is prosecuted. The decree will be reversed and the cause remanded, with directions to overrule the demurrer to the original bill.
+Reversed and remanded with directions.
