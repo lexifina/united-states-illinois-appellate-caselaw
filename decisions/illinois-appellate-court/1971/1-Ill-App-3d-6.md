@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "70-86 & 70-87"
+decided: "1971-08-10"
+citations: ["1 Ill. App. 3d 6"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellant, vs. Gary Blair et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/1/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5313726
+cites_cases: ["200 N.E. 594", "213 N.E.2d 52", "216 N.E. 510", "228 N.E.2d 585", "243 N.E.2d 245", "362 Ill. 502", "395 U.S. 595", "41 Ill.2d 434", "66 Ill.App.2d 251", "69 Ill.App.2d 50", "84 Ill.App.2d 215", "89 Sup. Ct. 2100"]
+---
+
+# People v. Blair
+
+## Majority (Mr. JUSTICE JONES)
+
+Mr. JUSTICE JONES
+delivered the opinion of the court:
+An Information was filed charging the defendants, Gary Blair and Jimmy W. Duncil, with the offenses of burglary and possession of burglary tools, theft and criminal damage to property.
+On waiver of indictment and plea of guilty on March 6, 1969, and following a hearing on aggravation and mitigation, each was sentenced to not less than two years nor more than four years for burglary; for possession of burglary tools — one year six months minimum nor more than two years; for theft of property under $150 one year; for criminal destruction of property — six months, the sentences to be served concurrently.
+On December 8, 1969, Gary Blair and Jimmy W. Duncil, through their attorneys, filed a motion to vacate judgment “under Section 72 of the Civil Practice Act.” On February 10, 1970, both defendants were heard in connection with their motion.
+The evidence adduced showed in substance that the carwash involved in the alleged burglary consisted of wash bays or stalls open at each end, a roof, concrete side walls and floor, and that it was equipped with washing apparatus and a coin box. The defendants claimed that they drove into the carwash intending to wash the car which defendant Blair was driving and when they had largely completed washing the car, the water ran out. They then took a tire tool and broke open the money box and removed $1.75, threw the box across the street and departed. There were no doors, gates, chains or fences prohibiting access to the carwash itself. The defendants’ motion raised the question whether the structure within which the acts in question were committed was a building within the terms of the statute governing burglary. Defendants also argue that since the carwash was open to the public they had the right to be where they were and did not enter the structure with the intention of committing a burglary.
+On April 3, 1970, the trial judge vacated the judgment of conviction as to burglary and possession of burglary tools and dismissed Counts I and II of the Information, and upon a finding that the defendants had served their sentences with respect to Counts III and IV, theft under $150 and criminal destruction of property, ordered their immediate discharge from custody.
+The People prosecute this appeal from the order vacating the judgment and dismissing Counts I and II of the Information.
+The only substantial question before us is whether the admitted conduct constitutes a burglary. The statute (Ill. Rev. Stat. 1969, ch. 38, par. 19—1(a)), provides: “A person commits burglary when without authority he knowingly enters or without authority remains within a building, * * * with intent to commit therein a felony or theft"
+In essence, the question is whether a carwash structure open to the public for entry and exit of automobiles is a building within the purview of the burglary statute. We have concluded that the carwash described and pictured in the record here does constitute such a building. It is a structure or edifice, it was designed for the shelter and protection of property consisting of carwash machinery, equipment and supplies and the coin box, and it is permanent.
+In People v. Goins, 66 Ill.App.2d 251, 213 N.E.2d 52, the Second District Appellate Court decided that a telephone booth was a building within the meaning of this section of the Criminal Code. The booth was attached to a concrete slab, had three walls, a door and a roof, with a telephone and coin receptacle. We think the result reached in that case was correct and presents a similar situation to the carwash involved here.
+It is no defense to the crime of burglary that the entryway was open and the entry made without overcoming an impediment, forcibly or otherwise. While the common law crime of burglary required a breaking and entering, section 1 — 3 of the present Criminal Code (Ill. Rev. Stat. 1969, ch. 38, par. 1—3), entitled “Applicability of Common Law," says in part: “No conduct constitutes an offense unless it is described as an offense in this Code or in another statute of this State.” Professor Charles H. Bowman, writing committee comments for the Joint Committee to revise the Illinois Criminal Code, Smith-Hurd Annot. Stats., observes: “The purpose of this section is to complete the process of replacing the common law definition of offenses with statutory definitions — a process which has continued for many years.” And our Supreme Court pointed out in People v. Betson, 362 Ill. 502, 200 N.E. 594 that “All felonies in this state are defined by, and required to be prosecuted under, our Criminal Code.” Thus the present statute defining burglary, cited above, requires only an entry with the intent to commit a felony or theft; neither brealdng nor force must be shown. Also, there is no substantial question in Illinois but that there can be a burglary of a public place, and it is a question of fact whether or not the entry was initially made with the requisite intent to commit a felony or a theft. (People v. Weaver, 41 Ill.2d 434, 243 N.E.2d 245; certiorari denied 395 U.S. 595, 89 Sup. Ct. 2100 (Laundromat); People v. Schneller, 69 Ill.App.2d 50, 216 N.E. 510 (Chicago Historical Society while open to the public); People v. Wilson, 84 Ill.App.2d 215, 228 N.E.2d 585 (Supermarket while open to the public).) Here, defendants’ contention that the intent to commit burglary was formed on the premises after the entiy is without substance in that the defendants entered their voluntary plea of guilty to the charge that they “without authority, knowingly entered into a building * * * with the intent to commit the crime of theft therein.”
+Accordingly, the order of the trial court vacating the judgment of conviction as to burglary and possession of burglary tools and dismissing Counts I and II of the Information filed on April 3, 1970, is hereby reversed and the cause is remanded to the trial court with instructions to proceed in conformity with this opinion.
+Reversed and remanded.
+EBERSPACHER, P. J., and MORAN, J., concur.
