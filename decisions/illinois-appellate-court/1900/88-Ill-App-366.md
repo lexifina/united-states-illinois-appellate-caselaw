@@ -1,0 +1,48 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-04-09"
+citations: ["88 Ill. App. 366"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry J. Edwards v. Henry Dettenmaier."]
+source_url: "https://static.case.law/ill-app/88/cases/0366-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5277485
+cites_cases: ["145 Ill. 47", "175 Ill. 61", "54 Ill. 343", "83 Ill. App. 643"]
+---
+
+# Edwards v. Dettenmaier
+
+## Majority (Mr. Justice Adams)
+
+Mr. Justice Adams
+delivered the opinion of the court.
+This is a suit by appellee against appellant and four others as directors of the Thompson & Edwards Fertilizer Company. Only two of the directors, appellant and Henry W. Hoyt, were served. The suit was dismissed as to Hoyt and judgment was recovered against appellant Edwards for the sum of $941.66, from which this appeal was taken. The suit was on five promissory notes alleged to have been given for tankage purchased by the directors of the corporation, or by their authority, in violation of section 18 of chapter 32 of the statutes, which section is as follows:
+“ If any person or perrons being or pretending to be an officer or agent or board of directors of any stock corporation, or pretended stock corporation, shall assume to exercise corporate powers or use the name of any such corporation, or pretended corporation, without complying with the provisions of this act before all stock named in the articles of incorporation shall be subscribed in good faith, then they shall be jointly and severally liable for all debts and liabilities made by them and contracted in the name of such corporation or pretended corporation.”
+The violation of the section charged is that the defendants purchased from the plaintiff the tankage for which the notes were given, before filing in the office of the recorder of deeds of Cook county the certificate of the complete organization of the company. The location of the principal office of the Thompson & Edwards Fertilizer Company is, by the terms of its articles of incorporation, in Cook county. It is not controverted that about January 14 or 15, 1897, the company purchased from appellee the tankage for which the notes were given, and that, at the time of such purchase, and also at the time of giving the notes for the purchase money, the certificate of complete organization had not been filed in the recorder’s office. The contested question of fact on the trial was whether the appellant participated in the creation of the debt or liability for which the notes were given, and on this question the conflict of evidence was such that if the case were submitted to the jury under proper instructions, the court would not be warranted in disturbing a verdict for either party on the ground of the verdict being- contrary to the evidence. Appellee testified that, about January 14 or 15, 1897, he saw appellant Edwards and Frank E. Barnard, the secretary and treasurer of the company, and talked the matter over with them, and that Edwards and Barnard said to him that they would buy his tankage and would pay him for it $3.75 per ton during the month of January, 1897, and $3.50 per ton thereafter. Appellee also testified that he had been selling tankage to the company for more than five years prior to January, 1897. Appellee also put in evidence the following letter written to him by appellant:
+“ Established 1864.
+W. H. Thompson, Prest. F. E. Barnard, Sec’y & Treas. H. J. Edwards, Vice Prest. L. E. Pennington, Supt.
+D. W. Kinsley, Jr., Asst. Secy.
+Union Stock Yards.
+Thompson & Edwards Co.
+Chicago, January 8, 1896.
+Tallow and Grease.
+Telephone, Yards 757.
+Mr. Henry Dettenmaier, City :
+Dear Sir : As per our agreement with you, we have been expecting to see you every day since last Saturday. We told you we would haul your tankage until you were relieved and we have done so. How we can not continue to take your tankage at the present price as we are losing too much money on it; the market is so dull, with no demand at present for manufactured fertilizer, and just now we can not sell it at any price so we are obliged to pile it up and carry it along. We can use the tankage at $3 per ton at your works and haul it. If this offer is accepted we will commence hauling at once and keep the place clean daily. We drove to your place this morning and have tried our best to see you since Saturday. Let us know at once what you decide upon.
+Yours respectfully,
+Thompson & Edwards Fertilizer Co.,
+H. J. Edwards, President.”
+Henry Dettenmaier, appellee’s son, testified that appellant and Barnard came to appellant’s place of business while appellant was absent therefrom, about the middle of January, 1897; that witness then had a talk with Edwards, and that Edwards and Barnard said to witness that they wanted to see his father about the tankage, to make a contract with him.
+Frank E. Barnard testified that the material for which the notes were given was purchased by A. L. Hestlerode, the general manager of the company, and that no one had anything to do with the giving of notes except himself and Mr. Hestlerode. The notes were signed “ Thompson & Edwards Fertilizer Co. F. E. Barnard, Sec’y & Treas. Countersigned, A. L. Hestlerode, Gen’l Manager.”
+Appellant testified that he was a director of the company from the 1st to the 10th day of January, 1896, when he resigned, and that he was again chosen as a director January 11,1897, and so remained during the year 1897, and that he removed from this State in August, 1897. He testified positively that he had nothing whatever to do with the purchase of the material for which the notes were given, and that he had no conversation with appellee as to the purchase of any goods from him during the years 1896 and 1897, or as to entering into any contract or agreement with him for the purchase of any goods, and did not, at any time during those years, direct either the secretary and treasurer or general manager of the company to do so, and had no personal knowledge that appellee was furnishing tankage to the company in 1896 and 1897.
+No instructions were given to the jury.
+The appellant asked, among other instructions, the following instruction:
+“ The jury are instructed that if they believe from the evidence that the defendant, Henry J, Edwards, did not take part in creating the indebtedness for which the notes sued, on were given, and if they further believe from the evidence that the said defendant, Henry J. Edwards, did not take part in giving the noces sued on, then the jury must find the issues for the said defendant, Henry J. Edwards.”
+In Edwards v. Cleveland Dryer Co., 83 Ill. App. 643, we held that in order to charge a director with making a debt or liability of the corporation, some affirmative voluntary act on his part with reference to the creation of the debt or liability, or at least some active participation in the particular transaction out of which the indebtedness arose, is necessary, citing Lewis v. Montgomery, 145 Ill. 47. The instruction in question is to the effect that if appellant did not take part in the creation of the indebtedness for which the notes were given, he is not liable. Not taking part means not taking any part, not approving or directing the creation of the indebtedness, not having anything whatever to do with it. Now, if it be true that appellant took no part in the creation of the indebtedness, either personally and directly, or by direction or approval, how can it be said that he made the debt or liability % The language of the statute is, “ They shall be jointly and severally liable for all debts and liabilities made by them,” etc. We are of opinion that the instruction should have been given, and inasmuch as it appears from remarks of the learned trial judge during the trial, that he entertains substantially the same view of the liability of directors under the statute as expressed in Edwards v. Cleveland Dryer Co., supra, we are at a loss to understand why the instruction, or some instruction the same in substance, was not given.
+The instruction, being based on evidence in the cause, should have been given. Wooters v. King, 54 Ill. 343; B. & O., etc., Ry. Co. v. Faith, 175 Ill. 61.
+In the last case the court say:
+“ If there is evidence which fairly tends to support a proposition of fact, the party in whose favor 'the fact would operate is entitled to an instruction as to the principle of law to which the fact relates.”
+If appellant did not in any way participate in the creation of the indebtedness for which the notes were given, the giving of the notes by other officers or agents of the company would not make him liable. Edwards v. Cleveland Dryer Co., supra; Lewis v. Montgomery, supra.
+Appellant’s counsel objects that the letter from appellant to appellee of date January 8, 1896, was erroneously admitted in evidence, for the reason that it was written more than" a year prior to the transaction in question. We think there was no error in admitting the letter in evidence. The evidence is such that if a verdict had been rendered in favor of appellant, we could not say that it was so manifestly against the evidence that it should be set aside, and therefore we can not ignore the error in refusing appellant’s instruction above quoted.' No question of the liability of the appellant as partner with his co-defendants is presented, as appellee’s counsel, in his argument, admits! For the error in refusing appellant’s fifth instruction, the judgment will be reversed and the cause remanded.
