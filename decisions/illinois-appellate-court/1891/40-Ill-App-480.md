@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-05-05"
+citations: ["40 Ill. App. 480"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Rogers v. Mary E. Rogers."]
+source_url: "https://static.case.law/ill-app/40/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5023153
+---
+
+# Rogers v. Rogers
+
+## Majority (Moran, P. J.)
+
+Moran, P. J.
+Mary E. Rogers was the owner in fee of lot 5, block 5, in Cleavevville addition in Hyde Park township. While so the owner, her husband, Thomas Rogers, became indebted to one William Harty in the sum of $240. On August 29, 1878, said Mary E. Rogers signed a note with her said husband, Thomas Rogers, payable to Harty, for the amount of her said husband’s indebtedness, and to secure its payment executed a trust deed to one Isaac H. Price, conveying said real estate.
+The property was subject to a prior incumbrance, on which said Mary E. Rogers paid interest, and she supposed that her husband paid the debt to Harty. In September, 1879, said Thomas Rogers went- to Canada and applied to his brother, John Rogers, the appellant, for a loan of money, telling him that the mortgage or trust deed on the property held by Harty was about to be foreclosed, and that he needed money for that debt and for taxes and other indebtedness. John Rogers lent to Thomas $1,450, the understanding being that Thomas would buy in the property at the trustee’s sale in John’s name, and that John would hold the property as security until the money loaned his brother was repaid, together with interest thereon, and this is substantially John Rogers’ version of the transaction as stated in his answer. On September 17, 1879, a sale of the land was made by Price, trustee, after due advertisement, and a trustee’s deed was executed by said Price to said John Rogers for the consideration of $358. The property -was bid off by Thomas in John’s name, and the money paid by Thomas to the trustee went to pay Thomas’ debt to Harty and some taxes and the costs of the sale.
+It is the theory of appellee, and it is strenuously maintained by her counsel, that the evidence shows that Thomas Rogers paid the note to Harty before the sale under the trust deed was made, and that therefore the trustee was without power to make the sale, and the said sale and deed thereunder were void. We do not agree with counsel that the evidence, when all considered, shows that the note was paid before the sale, but think that the just conclusion to be drawn from the facts in proof is, that the money to satisfy the note was paid to the trustee at the sale; but, though much discussion has been expended by the counsel for both parties on the issue of whether the note was paid before or after the sale, in view of the other facts clearly shown in the record, that question is not a material one. In either case the result in this suit will be the same.
+The evidence shows that appellee knew nothing of this sale, and, we think, also shows that it was the intention of Thomas Rogers to conceal from his wife the facts, and through this sale to get the title to the property into himself.
+Mary Rogers continued to pay the interest on the prior incumbrance that was on the property till July, 1883, in ignorance, as we have seen, of the sale and deed to John Rogers of September 17, 1879. In 1883 John Rogers, through Thomas, negotiated a loan on the land of $2,000, and with the proceeds paid off the former incumbrance, and in February, 1886, he sold forty feet of the land for $2,320, and this bill was filed by Mary E. Rogers to set aside his title to the balance of the land.
+Mow John Rogers was bound to know when he authorized his brother to buy in the land for him at the sale under the Price trust deed, that the record title to the land was in Mary E. Rogers, and he is charged with the knowledge that his said agent had, that the debt for which the land was being sold was Thomas Rogers’ debt. Buying the land as he did, to hold for Thomas, he could only hold it as against Mary Rogers for the amount that was paid for it at the trustee’s sale. For any greater sum of money than was sufficient to satisfy Harty’s note and the expenses of sale, which he furnished to Thomas, he must look to Thomas. He would simply hold the legal title as mortgagee as against Mary for the amount for which the property was by her pledged. The question is a very different one from what it would be if John Rogers became purchaser at the sale, as the highest bidder, and to hold the property for himself.
+Has he then received from the sale of the. property, which he sold, sufficient to pay him the amount of the Harty loan and interest? We have examined the evidence as to the items which should be allowed to him, and we find that the nroceeds of the sale of the forty feet which he received, exceeds by a few dollars the amount of the Price sale, and all other claims for taxes and interest which he can legitimately claim against the property.
+Therefore the decree of the court below, requiring the defendant to quit-claim the property to Mary E. Rogers, is correct and must be affirmed. Decree affirmed.
