@@ -1,0 +1,21 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 11,762"
+decided: "1963-10-14"
+citations: ["43 Ill. App. 2d 299"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry Carr, Plaintiff-Appellee, v. Robert B. Carr, as Special Administrator, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/43/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5245014
+---
+
+# Carr v. Carr
+
+## Majority (JUDGE SPIYEY.)
+
+Opinion by
+JUDGE SPIYEY.
+Not to be published in full.
