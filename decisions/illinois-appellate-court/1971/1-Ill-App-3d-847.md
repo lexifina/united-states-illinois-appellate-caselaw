@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "70-187"
+decided: "1971-10-14"
+citations: ["1 Ill. App. 3d 847"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Appellee, v. Ernest “Ned” Higgins, Appellant."]
+source_url: "https://static.case.law/ill-app-3d/1/cases/0847-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5314311
+cites_cases: ["225 N.E.2d 147", "226 N.E.2d 591", "240 N.E.2d 645", "37 Ill.2d 329", "381 Ill. 156", "40 Ill.2d 522", "44 N.E.2d 870", "81 Ill.App.2d 283"]
+---
+
+# People v. Higgins
+
+## Majority (Mr. JUSTICE JONES)
+
+Mr. JUSTICE JONES
+delivered the opinion of the court:
+Defendant appeals his conviction after a jury trial of the crime of attempted robbery.
+The complaining witness testified that he had worked as a carpenter at a tavern in Carbondale until sometime between 8:30 and 9:00 P.M. on the day of the alleged incident. Afterward he sat down and had a couple of drinks at a table where others were seated but none of their names were remembered. When he left the tavern he went out the back door to his truck but before he reached it someone grabbed him from behind and demanded money. His attacker then pinned him to the ground and turned his pockets out. At this point a merchant policeman, known to the witness, arrived and he called for help. He further testified that his attacker, identified as defendant, told the merchant policeman that they were arguing over a bottle of whiskey. The complaining witness was five feet six inches tall and weighed 135 pounds. The merchant policeman testified that he saw defendant and complaining witness behind tire tavern and heard the complaining witness yell for help. When he stopped his car and turned the lights on he saw defendant with a streamer of photographs in his hand but when he came around the parked truck his hands were empty. The pictures were later found on a trash pile. He further testified that when he first saw the complaining witness he was getting up from the ground. Three of his pockets were turned out and his face was bruised and bleeding. No bottles or broken glass were found but there was a lot of change on the ground. The defendant testified in his own behalf stating that the complaining witness came up to a table where defendant and some friends were sitting and bought a round of drinks and then offered to buy another but only put up half the price and he, the defendant, put up the other half. The complaining witness asked defendant if he could procure any clean cut young girls. When defendant said he could not the defendant put a jointly purchased bottle of liquor in his pocket and began to walk out of the tavern. The defendant followed. When they got out back the merchant policeman drove up. Defendant denied making bodily contact with complaining witness and did not know what happened to the bottle nor how complaining witness’ face got skinned. He denied any intention of robbery or ever making a demand for money. Defendant’s height was six feet three inches tall and his weight was 190 pounds. Defendant’s story was corroborated by two witnesses, a companion who was sitting at the table with him and the bartender.
+On appeal defendant contends his oral motion for change of venue from Jackson County was improperly denied and that his guilt was not proven beyond a reasonable doubt.
+The oral motion for change of venue from the county was founded on three factors:
+(1) Defendant had recently been convicted in Jackson County of another offense;
+(2) He had been repeatedly arrested for offenses he did not commit in Jackson County; and
+(3) The time he had spent in jail denied him the opportunity to secure the attendance of his witnesses.
+Ill. Rev. Stat., ch. 38, par. 114—6, provides as follows regarding change of venue:
+“(a) A defendant may move the court for a change of place of trial on the ground that there exists in the county in which the charge is pending such prejudice against him on the part of the inhabitants that he cannot receive a fair trial in such county.
+(b) The motion shall be in writing and supported by affidavit which shall state facts showing the nature of the prejudice alleged. The State may file counter affidavits. The court shall conduct a hearing and determine the merits of the motion.
+(c) If the court determines that there exists in the county where the prosecution is pending such prejudice against the defendant that he cannot receive a fair trial it shall transfer the cause to any other court of competent jurisdiction in any county where a fair trial may be had.”
+The grounds for defendant’s motion, however, were not those set forth in article 114—6, namely, that the inhabitants of the county where his trial was set were so prejudiced against him that he could not receive a fair trial. Rather, defendant based his motion on his recent conviction in Jackson County for another offense, his arrest for various other offenses in Jackson County which, according to him, he did not commit, and his allegation that the time he had spent in jail denied him the opportunity to secure the attendance of defense witnesses. Defendant’s motion for change of venue was not made until the day of his trial and immediately prior to the commencement thereof, notwithstanding the fact that the charge against him had been pending for approximately six months.
+Defendant did not contend at the trial, nor does he now contend on appeal, that an inference of prejudice on the part of inhabitants of the county could reasonably be drawn from the assigned basis of his request for change of venue. Since defendant did not allege prejudice of the inhabitants of Jackson County as the basis of his motion for change of venue, there was no issue for the trial court to explore and it was not an abuse of discretion for the court to refuse to conduct a formal hearing. People v. Watts, 81 Ill.App.2d 283, 225 N.E.2d 147.
+Change of venue, long recognized in our system of law, is a basic tool of the courts in insuring and protecting the right of an accused to a fair trial untainted by the passions of the community in which the crime occurred. A defendant may not, however, frivolously demand removal of his trial to another county at his whim, assigning as grounds any reasons which to him seem proper. The requirement is that prejudice of the local citizenry must be alleged and demonstrated. As stated in People v. Williams, 40 Ill.2d 522, 240 N.E.2d 645:
+“The rule is that an accused is entitled to a change of venue when it appears there are reasonable grounds to believe that the prejudice aUeged actually exists and that by reason of the prejudice there is a reasonable apprehension that the accused cannot receive a fair and impartial trial. (People v. Meyers, 381 Ill. 156, 44 N.E.2d 870; People v. Berry, 37 Ill.2d 329, 226 N.E.2d 591.)”
+In this case defendant did not allege or endeavor to show that the citizens of Jackson County were prejudiced against him. It is also to be noted that there is nothing in the record to indicate that the voir dire examination of the jurors disclosed any prejudices against the defendant or any matters whatsoever that would tend to support the defendant’s allegations of local prejudice. Accordingly, we find that the trial court did not abuse its discretion in denying defendant’s oral motion for change of venue.
+We are likewise persuaded that defendant’s contention that the evidence is insufficient to support his conviction of the crime charged beyond a reasonable doubt is not well taken. We need not detail the evidence adduced at the trial but will observe that it was the function of the jury to hear and observe the witnesses and consider the probability or improbability of their testimony. Their verdict of guilty indicates that they chose to believe the witnesses for the State rather than those on behalf of defendant. We believe the record furnishes ample support for their verdict, not only in the testimony of the witnesses, but in the physical circumstances they described as well.
+For the foregoing reasons the judgment and sentence of the trial court will be affirmed.
+Judgment affirmed.
+EBERSPACHER and MORAN, JJ., concur.
