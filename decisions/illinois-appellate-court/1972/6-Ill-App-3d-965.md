@@ -1,0 +1,48 @@
+---
+court: "Illinois Appellate Court"
+docket: "11572"
+decided: "1972-08-02"
+citations: ["6 Ill. App. 3d 965"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Farmers Oil and Supply Company et al., Plaintiffs-Appellants, v. Illinois Central Railroad Company et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/6/cases/0965-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2470346
+cites_cases: ["123 Ill.App.2d 320", "125 N.E.2d 57", "167 N.E.2d 820", "213 N.E.2d 44", "215 N.E.2d 137", "236 N.E.2d 405", "26 Ill.App.2d 262", "260 N.E.2d 123", "407 F.2d 1165", "5 Ill.2d 85", "66 Ill.App.2d 108", "68 Ill.App.2d 167", "93 Ill.App.2d 114"]
+---
+
+# Farmers Oil & Supply Co. v. Illinois Central Railroad
+
+## Majority (Mr. JUSTICE CRAVEN)
+
+Mr. JUSTICE CRAVEN
+delivered the opinion of the court:
+Appeal is taken from judgment of the trial court in declaratory judgment action denying relief after holding the complaint sufficient to state a cause of action in declaratory judgment.
+The action arises out of an auto accident occurring January 24, 1970, between a gasoline tank truck driven by Robert Newby and a railroad train operated by defendant, Illinois Central Railroad Company, near Loda, McLean County, Illinois.
+Illinois Central Railroad Company had filed a suit in the Circuit Court of McLean County for property damages in the amount of $240,000 against plaintiffs, alleging negligence of Newby while acting as an agent and employee of Farmers Oil and Supply Company and Shell Oil Company causing property damage to its train.
+Alice Zagorski, administratrix of the estate of James A. Zagorski, deceased, had filed a suit in the Circuit Court of St. Clair County against plaintiffs and Illinois Central for damages in the amount of $750,000 for the death of her intestate, alleging negligence of Newby while acting as an agent and employee of Farmers Oil and Supply Company and Shell Oil Company as the proximate cause of death of her intestate.
+Barbara J. Brown, administratrix of the estate of Newell C. Brown, had filed a suit in the Circuit Court of Cook County against plaintiffs Farmers Oil and Supply Company and Shell Oil Company and defendant, Illinois Central Railroad Company, for damages in the amount of $2,000,000 for the wrongful death of her intestate, alleging negligence of Newby, while acting as an agent and employee of Farmers Oil and Supply Company and Shell Oil Company, as the proximate cause of death of her intestate.
+The estate of Robert Newby had a claim made against it by Maggie Brandon, alleging personal injuries sustained by her as a result of such collision.
+Farmers Oil and Supply Company had received a claim from Central Illinois Public Service Company for damages to its electrical facilities at Loda, arising out of the collision.
+Plaintiffs filed their complaint in declaratory judgment in the Circuit Court of McLean County, alleging they were defendants in the three pending suits and were faced with the possibility of two additional suits; that all of such suits involved the issue of whether Robert Newby was agent and employee of Farmers Oil and Supply Company and Shell Oil Company at the time of the collision; that copies of the contract between Newby and Fanners Oil and Supply Company and Farmers Oil and Supply Company and Shell Oil Company were attached as exhibits to the complaint; that they would be subjected to great expense, time and inconvenience in defending all the claims brought against them in various counties of the State.
+The complaint prayed that the court construe the contracts and declare that at the time of the collision plaintiffs were not the agent, servants or employees of each other, and that plaintiffs were not liable for the acts or omissions of each other on the occasion of the collision.
+Illinois Central Railroad Company and Alice Zagorski, administratrix, filed motions to dismiss the complaint. The trial court entered a docket order granting the motions to dismiss, holding the complaint stated a cause of action, but declining declaratory judgment relief. The court thus specifically recognized the distinction between refusal to entertain the action and the refusal to grant declaratory judgment, even though the facts and pleadings would permit of declaratory judgment under the statute. The plaintiffs appeal from the order and judgment of the trial court dismissing the cause with prejudice to plaintiffs. Thus, essentially, we review the exercise of discretion in denying declaratory judgment relief. See La Salle Casualty Co. v. Lobono, 93 Ill.App.2d 114, 236 N.E.2d 405.
+After appeal appellants filed a motion in this Court to supplement the record on appeal by adding to the record copies of two additional lawsuits filed against appellants, arising out of the collision. One of these lawsuits was filed after the filing of the complaint in this case in the trial court, and the other was filed after this case was appealed. Objections were filed to the motion to supplement the record on appeal. The motion and objections were taken with the appeal on oral argument.
+The additional Htigation which the motion to supplement the record would establish is sought to be injected in this record with more specificity. Reference was made to additional probable proceedings in the original pleadings. The fact of this additional litigation was in essential terms before the trial court. While the provisions of Supreme Court Rules 362 and 366 (Ill. Rev. Stat., ch. 110A) would permit of amendment in this court under proper circumstances, to do so would not change the nature of the proceedings nor add anything to the record of which the trial court was not cognizant. The motion to supplement the record accordingly is denied.
+On the merits of this appeal, no contention is made that the trial court abused its discretion in denying the prayers for declaratory judgment. This is the test on appeal of denials of declaratory judgment. (Salk v. Department of Registration & Education (1st Dist. 1970), 123 Ill.App.2d 320, 260 N.E.2d 123; Wolf v. Solem (2nd Dist. 1960), 26 Ill.App.2d 262, 167 N.E.2d 820.) Declaratory judgment will not He to construe a contractual relationship merely to prevent a multiplicity of suits, nor to determine an issue common to numerous suits where the parties are not identical or the causes of action are dissimilar. Prior decisions have wisely so held. See Trojan Fireworks Co. v. Acme Specialties Corp. (1st Dist. 1965), 66 Ill.App.2d 108, 213 N.E.2d 44; Interlake Iron Corp. v. Dravo Corp. (2nd Dist. 1966), 68 Ill.App.2d 167, 215 N.E.2d 137; Cunningham Bros., Inc. v. Bail (7th Circ.Ct.App. 1969), 407 F.2d 1165.
+As was held in the Cunningham case, supra, declaratory judgment should not be granted simply to avoid multiplicity, costs and time where the result wiH compel potential personal injury plaintiffs to litigate their claims at a time and in a forum chosen by the alleged tort-feasor. The question in each case is whether, considering all circumstances, under the facts alleged, there is a substantial controversy between parties having adverse legal interests, of sufficient immediacy and reality to warrant issuance of declaratory judgment.
+In the first instance, this is a matter within the discretion of the trial court. We cannot say the trial judge abused his discretion in denying declaratory judgment relief in this case.
+To grant relief under the facts in this case would reverse the traditional roles of the parties and jeopardize those procedures which have heretofore been accorded injured parties seeking judicial relief. Justice would not be served by granting the declaratory judgment relief prayed in this case, under the attendant facts and circumstances.
+Further, if declaratory judgment relief should be granted in this case under the aUegations now found in the record, unnecessary problems and complications of possible estoppel by judgment might well arise. See Blonder-Tongue Laboratories, Inc. v. University of Illinois Foundation, U.S. S.Ct., 39 U.S.L. Week, p. 4506.
+The judgment of the circuit court of McLean County is affirmed.
+Judgment affirmed.
+SMITH, J., concurs.
+
+## Concurring in part and dissenting in part (Mr. PRESIDING JUSTICE TRAPP)
+
+Mr. PRESIDING JUSTICE TRAPP
+specially concurring in part and dissenting in part:
+I concur in the disposition reached for the reason that our Courts have consistently held that they will not entertain an action for declaratory judgment which has the effect of ousting the court which, in fact, had jurisdiction of the subject matter and parties. (Fairbanks, Morse & Co. v. Freeport, 5 Ill.2d 85, 125 N.E.2d 57; Trojan Fireworks Co. v. Acme Specialties Corp., 66 Ill.App.2d 108, 213 N.E.2d 44; Wolf v. Solem, 26 Ill.App.2d 262, 167 N.E.2d 820.) Within such context it is not necessary to consider the exercise of discretion by the trial court.
+I dissent from the language of the opinion which suggests that Supreme Court Rules 362 and 366 would permit the amendment of the record as sought here. Rule 362(b) provides that the application for amendment must show that the matters “[S] ought to be raised by the amendment are supported by the facts in the record on appeal.” Rule 366(a) (3) authorizes the reviewing Court to order or permit the record to be amended “[B]y correcting errors or by adding matters that should have been included.” Such Rules, in their plain language, seem explicit in limiting matters of amendment to those which were presented in the trial court but omitted from the record in that court.
