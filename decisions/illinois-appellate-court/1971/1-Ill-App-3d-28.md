@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "11315"
+decided: "1971-08-03"
+citations: ["1 Ill. App. 3d 28"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, vs. Thomas Charles Holmes et al., Defendants.—(Thomas Charles Holmes, Defendant-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/1/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5314335
+cites_cases: ["121 Ill.App.2d 249", "121 Ill.App.2d 347", "125 Ill.App.2d 48", "178 N.E.2d 310", "23 Ill.2d 263", "230 N.E.2d 194", "232 N.E.2d 738", "236 N.E.2d 19", "243 N.E.2d 200", "243 N.E.2d 225", "257 N.E.2d 497", "257 N.E.2d 570", "259 N.E.2d 846", "267 N.E.2d 757", "37 Ill.2d 617", "38 Ill.2d 446", "41 Ill.2d 329", "41 Ill.2d 364", "94 Ill.App.2d 74"]
+---
+
+# People v. Holmes
+
+## Majority (Mr. JUSTICE TRAPP)
+
+Mr. JUSTICE TRAPP
+delivered the opinion of the court:
+In September, 1968, defendant pleaded guilty to robbery and upon his petition was admitted to probation for a term of three years. In April, 1970, he was charged with a violation of probation in that he committed a theft of property of value less than $150.00. Probation was revoked following a hearing upon the evidence, and defendant was sentenced to a term of five years to 20 years. His appeal urges that this court set aside the finding of violation and remand for a new hearing, or in the alternative, reduce the sentence imposed under the authority provided in Rule 615(b) (4).
+Defendant urges that the trial court erred, (1) in that the judge elicited incriminating statements from the defendant in the absence of counsel, (2) that the trial judge who granted probation should not hear the evidence presented upon the issue of violation of probation, and (3) that the sentence imposed is excessive.
+A bench warrant was issued upon the report of the violation of probation. At defendant’s appearance, the court asked whether defendant had or would obtain an attorney and subsequent inquiries were directed to whether defendant qualified for appointment of counsel as an indigent. Defendant stated that he was not working. It is urged that the court’s question at a time when defendant was without counsel elicited the incriminating statement that he was not employed — a condition of probation. It is, at most, argued that the judge “could” have been prejudiced at the time of hearing the aUeged violation or that he could have subconsciously considered such fact. The record is clear that the court was simply carrying out its duties in the matter of the appointment of counsel as required.
+Defendant cites People v. Jackson, 23 Ill.2d 263; 178 N.E.2d 310, in support of his position. In that case at a preliminary hearing defendant was called by the State’s Attorney and in his testimony admitted to killing. Thereafter, such statement was introduced at the trial as an admission of grnlt.
+A hearing upon tire revocation of probation is bounded by the violations charged and defendant’s want of employment was not an issue or relevant upon the subsequent hearing some two weeks later. People v. Hicks, 125 Ill.App.2d 48; 259 N.E.2d 846; People v. Stepnewski, 121 Ill.App.2d 249; 257 N.E.2d 570. This record shows that testimony elicited from defendant by his attorney and other testimony offered in defendant’s behalf at the hearing disclosed at least one other violation of the terms of probation. The record contains no suggestion that in revoking probation the court considered either such matter of defendant’s evidence of a violation not charged or the statement concerning his employment in determining the issue of revocation.
+It is argued that the judge who grants probation should not hear evidence of aUeged violations and determine revocation. It is the theory that such a judge is so disappointed at the failure of his judgment that he cannot achieve a fair hearing. We are asked to originate a rule which would require that proceedings in revocation be heard by a judge other than the one who granted probation.
+Nothing suggests such a statutory intent. Ch. 38, §117-1, et seq., Ill. Rev. Stat. 1967. The statutory language itself suggests the contrary, but it is not now necessary to determine such question. No showing of bias or prejudice in fact is made by the record, and such wiH not be inferred because the court’s finding is adverse to the defendant.
+The defendant seeks to support this theory by analogy to the opinions in People v. Wilson, 37 Ill.2d 617; 230 N.E.2d 194 and People v. Washington, 38 Ill.2d 446; 232 N.E.2d 738. Each was a post-conviction proceeding wherein the issues raised concerned the actions of the trial judge in matters not of record and to which he would either be a witness or have knowledge dehors the record. In People v. Newell, 41 Ill.2d 329; 243 N.E.2d 200, it was contended that the trial judge who accepted the plea of guilty should rescue himself in the hearing upon a post-conviction proceeding concerning the validity of the plea. The Supreme Court points out that no circumstance in the record shows that the judge was either a potential witness or was biased. Such is the state of the record here. The bias asserted is essentially theoretical and hypothetical and the record shows no ruling of the court or other conduct supporting the assertion of bias or prejudice.
+It is argued that the sentence imposed following revocation is excessive. It is argued that defendant was once found qualified for probation and that nothing in the record warrants the severity of the sentence, but rather that his educational background, work record and youth shows that he is capable of a successful return to society and requires a reduction of sentence. The facts argued are shown only in the probation report presented some eighteen months prior to the revocation.
+We do not accept as a standard for reducing sentence either the fact or the absence of a prior order for probation.
+In this case the defendant expressly waived the offer of evidence in mitigation following the order of revocation. There must be more in the record than a claim that the sentence is excessive. (People v. Alexander, 121 Ill.App.2d 347; 257 N.E.2d 497.) The burden is upon the defendant to present substantial evidence to authorize a reduction of sentence upon review. People v. Nelson, 41 Ill.2d 364; 243 N.E.2d 225; People v. Wright,—Ill.App.2d—; 267 N.E.2d 757; and People v. Ledferd, 94 Ill.App.2d 74; 236 N.E.2d 19.
+The record does show that defendant violated the terms of the probation here revoked as well as probation allowed in other matters. Upon these occasions he has served short terms in jail. Such facts are some measure of the capability of his “successful return to society.” With some reason, the trial court noted that probation was not a successful method of rehabilitation.
+This record does not support the argument that the judge exhibited anger and cut short defendant’s statement following the revocation of probation. Rather, it shows that the defendant made an extended reargument upon the evidence after the ruling had been made.
+The minimum sentence imposed is well within the statutory terms and together with the maximum provides for appropriate supervision if defendant should be granted parole. The judgment is affirmed.
+Judgment affirmed.
+SMITH, P. J. and CRAVEN, J., concur.
