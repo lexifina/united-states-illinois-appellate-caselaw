@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-07-12"
+citations: ["96 Ill. App. 337"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago & N. W. Ry. Co. v. Calumet Stock Farm."]
+source_url: "https://static.case.law/ill-app/96/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 871224
+cites_cases: ["133 Ill. 96", "152 Ill. 484", "160 Ill. 648"]
+---
+
+# Chicago & N. W. Ry. Co. v. Calumet Stock Farm
+
+## Majority (Mr. Justice Waterman)
+
+Mr. Justice Waterman
+delivered the opinion of the court.
+At the instance of the defendant the court instructed the jury that the plaintiff, to recover, must show by a preponderance of the evidence that the alleged accident occurred upon the premises of the defendant, or was the result of gross carelessness upon the part of the agents or servants of the defendant, and that if the plaintiff should fail to make such proof then the jury should find for the defendant.
+The court also at the instance of the defendant instructed the jury that if the accident in question happened after the switching of the car containing plaintiff’s horses onto the Pan Handle track, and while the car was being put into the train of cars then on the Pan Handle line, which took the horses from Chicago to Fort Wayne, and resulted from the carelessness of the servants or agents of that line, then the plaintiff could not recover and they should find for the defendant.
+While it does appear that the plaintiff’s agent in ship-" ping the horses signed a printed and written contract, by the terms of which the liability of the defendant was limited to §100 for each of the animals, it does not appear that the attention of any agent' of the defendant was called to the provisions of such contract, or that the plaintiff understood that the liability of the defendant was so limited.
+The evidence tended to show that the accident was occasioned by the making of what is known as .a “flying switch ” or the “ kicking ” of a freight car against that in which the plaintiff’s horses were, and that such accident occurred before the car containing the horses had been turned over by the defendant to the Pan Handle road. The jury -were from such evidence warranted in finding that the accident was occasioned by the gross carelessness of the defendant; not that there was any intention to injure the plaintiff’s horse, but that such methods of shifting a freight car and such carelessness as allowed it to come into the violent contact it did with the car containing the plaintiff’s horses was gross carelessness. That the car containing the plaintiff’s horses was struck with great violence, so much, indeed, as to throw the plaintiff’s horses off their feet and cause them to be cut and bruised in many places, was testified to by witnesses for plaintiff, and defendant.
+It is well settled in this State that a railroad company can not, by any agreement, restrict its liability for gross negligence. Chicago & Northwestern Railway Company v. Chapman, 133 Ill. 96; Wabash R. R. Co. v. Brown, 152 Ill. 484, and Chicago & Northern Railway Co. v. Simon, 160 Ill. 648.
+The testimony as to the value of the horses before and after the accident, as well as the extent of the injuries to them, was, as is almost always the case when the value and condition of horses is under consideration, extremely variant, as is pointed out by appellant’s counsel. According to the testimony of the manager for appellee the damage sustained by it amounts to over §50,000, while it is endeavoring to sustain a judgment giving it only §1,500.
+There is probably no matter concerning which the opinions of experts vary more widely and in which it is so difficult to ascertain the exact facts as with reference to the value of trotting and other high priced horses.
+The action, of the court in admitting some of the testimony offered by appellee as to value we are inclined to think ought not to have been allowed to go in over the objection of appellant. Prone as experts are to espouse the cause of the party by whom they are called, and in .many instances paid for the time and attention they give to an examination of the matter under consideration, the rule under which they alone are allowed to give opinions as to facts ought not to be enlarged. The opinions given by experts should always be based upon facts within their actual knowledge and which they are prepared to state. Having stated such facts, and thus, if at all, shown themselves to be especially qualified to give an opinion, the opinion should be based entirely upon the facts presented to them or which they state. Any man might truthfully say that he knew a certain horse and had an opinion as to its value, but such mere knowledge and mere opinion would not be sufficient to allow him to give the latter in evidence. Moreover, the opinion as to the value of a trotting horse should not be merely what the witness thinks it is worth, but what he thinks because of what he knows concerning the horse and what his acquaintance with the value of such horse is, and such opinion should always be the salable and purchasable value of such horse. While in making up the opinion as to such value, any qualities which it has, either as an earner of money or for purposes of sale, may be taken into consideration and stated.
+Setting aside, however, all of the expert testimony as to the value which we think should not have been received, the remaining evidence fairly warranted the jury in finding that the plaintiff had, by the accident, sustained damages amounting to $1,500.
+The case may be, as counsel for appellant urged, a speculative one, that is, one, as counsel say, which has been taken up by some lawyer who defrays the expenses and trusts to the judgment for his remuneration; while such facts, if shown, might have influence with a jury, we do not see how it, under the record in this case, can affect the right of the plaintiff to retain the judgment it has obtained.
+We find, neither in the instructions given nor refused, or in any other portion of the record, any error warranting the reversal of the'judgment of the Circuit Court, and it is affirmed.
