@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-10-15"
+citations: ["24 Ill. App. 326"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Miller v. Ohio & Mississippi Railway Company."]
+source_url: "https://static.case.law/ill-app/24/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5780881
+cites_cases: ["101 Ill. 93", "106 Ill 563", "106 Ill. 216", "108 Ill. 576", "11 How. 362", "110 Ill. 340", "111 Ill. 202", "114 Ill. 57", "115 Ill. 490", "116 Ill. 226", "119 Ill. 200", "21 Ill. 23", "47 Ill. 108", "6 Ill. App. 411", "72 Ill. 256", "74 Ill. 341", "76 Ill. 395", "77 Ill. 391", "92 Ill. 231", "93 Ill. 302"]
+---
+
+# Miller v. Ohio & Mississippi Railway Co.
+
+## Majority (Pillsbury, J.)
+
+Pillsbury, J.
+The testimony introduced, together with all inferences of fact that the jury might legitimately draw therefrom, was sufficient in our opinion to sustain a finding that the plaintiff was injured through the negligence of the engineer in charge of the locomotive attached to the train, in suddenly starting it without warning, and that at the time the plaintiff was not guilty of contributory negligence. If these facts alone would entitle the plaintiff to recover, then the court erred in directing a finding for the defendant. The evidence of the plaintiff, however, clearly established the fact that he was engaged with the construction train as a laborer upon it, and it is insisted that he was a fellow-servant with all the other employes of the defendant engaged in the loading or unloading the cars or in operating the train including the engineer and conductor.
+The action of the court below was based upon this feature of the case, and if, from the evidence adduced, it so clearly appeared that the injury to the plaintiff was caused by the negligence of a fellow-servant that a finding based thereon, with all proper inferences of fact to be properly drawn therefrom that they were not fellow-servants, could not and would not be susta’ned by the courts, then, under the authority of Simmons v. Chicago & Tomah R. R. Co., 110 Ill. 340, Abend v. H. & T. R. R. Co., 111 Ill. 202, and City of East St. Louis v. O’Flynn, 119 Ill. 200, the court did but its simple duty in ruling as it did upon the motion to instruct the jury to find for defendant. We have most carefully examined the evidence contained in this record to ascertain if there was any fact or circumstance that would take this case out of the rule announced in the Cox case, 21 Ill. 23, the Keefe case, 47 Ill. 108, the Britz case, 72 Ill. 256, and the Durkin case, 76 Ill. 395, but are unable to distinguish this case from those cited in the principles there held applicable. In the cases referred to it was distinctly held that a laborer upon a construction train was a fellow-servant with the engineer and conductor, and that he could not recover for an injury received through their negligent acts where their competency was not in issue. These cases were referred to and the doctrine announced in them re-affirmed by the late case of Abend v. T. H. & T. R. R. Co., supra, and applied to the case of a blacksmith in the employ of the defendant, who was required to go out upon the line as one of a crew of a wrecking train, and while upon the road was killed by the negligence of the engineer, who was also acting as conductor of the train. In this last ease the trial court excluded the evidence from the jury, and this action was approved by the Supreme Court. If that case is to be treated as a binding authority upon the lower courts, and as such we are bound to consider it, it would seem to be a srifficient warrant for the action of the Circuit Court in the case at bar in directing a finding for the defendant. It is undisputed that the plaintiff below was, on the day he was injured, one of the laborers engaged upon the construction train, a work as much within the line of his duties as any other which he was called upon to perform. It is true he said he had nothing to do with the running of the train, and had no authority over the engineer or conductor, but these facts alike appeared in the cases cited, and were held not to have a controlling influence upon the question involved. Without further discussion we are constrained to hold that the action of the court was justified in view of the cases above cited, and we therefore affirm, the judgment.
+Judgment affirmed.
