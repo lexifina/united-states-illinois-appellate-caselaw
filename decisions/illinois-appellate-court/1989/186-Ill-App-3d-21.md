@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "1—88—0699"
+decided: "1989-06-30"
+citations: ["186 Ill. App. 3d 21"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RUTHIE WILLIAMS, Adm’r of the Estate of Andrew Ware, Petitioner-Appellant, v. MARGUERITE GATLING, Respondent-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/186/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2655846
+cites_cases: ["12 Ill. App. 3d 995", "25 Ill. App. 3d 12", "299 N.E.2d 392", "322 N.E.2d 555"]
+---
+
+# Williams v. Gatling
+
+## Majority (JUSTICE LORENZ)
+
+JUSTICE LORENZ
+delivered the opinion of the court:
+Ruthie Williams, the administrator of the estate of Andrew Ware, appeals from a judgment awarding proceeds from the deceased’s life insurance policy and employee stock ownership plan to Marguerite Gatling, the deceased’s former wife. The issue presented is whether a waiver of claim to property not specifically disposed of by a divorce decree precludes payment to the former wife, as named beneficiary, of proceeds of a life insurance policy and employee stock ownership plan of the former husband.
+We conclude it does not and affirm the judgment of the circuit court.
+Andrew Ware and Marguerite Gatling were married on August 10, 1974. Ware named Gatling as beneficiary of his Metropolitan Life insurance policy and General Motors Corporation Employees Stock Ownership Plan (ESOP) account. On September 27, 1982, Ware and Gatling were divorced. The property settlement portion of the divorce decree did not contain specific provision of the insurance policy or ESOP account. After Ware’s death on November 20, 1986, the proceeds of the policy and ESOP account were paid to Gatling as named beneficiary.
+Subsequently, Ruthie Williams, as administrator of Ware’s estate, successfully sought to recover the proceeds. However, on February 3, 1988, the circuit court vacated its prior order and returned the proceeds to Gatling.
+This appeal followed.
+Opinion
+As the administrator acknowledges on appeal, the appellate court in Cox v. Employers Life Insurance Co. (1975), 25 Ill. App. 3d 12, 322 N.E.2d 555, and O’Toole v. Central Laborers’ Pension & Welfare Funds (1973), 12 Ill. App. 3d 995, 299 N.E.2d 392, has determined that, unless specifically provided for in divorce decrees, a former wife, as named beneficiary, is not precluded her interest in her former husband’s insurance policy proceeds upon his death. The administrator also concedes the decree before us is silent as to Ware’s policy and ESOP account proceeds and that, if we follow the above authority, Gatling is entitled to the amounts as named beneficiary. However, the administrator contends Gatling waived claim to that interest under paragraph 2(k) of the decree. The administrator argues that that paragraph evidences an intention to extend Gatling’s waiver of claim to property not specifically disposed of in the decree to the proceeds of the policy and ESOP account.
+Paragraph 2(k) of the judgment provides in pertinent part:
+“[E]ach of the parties does hereby forever relinquish, release, waive and forever quitclaim and grant to the other *** all rights of maintenance, dower, inheritance, descent, distribution, community interest and all other right, title, claim, interest and estate as Husband and Wife, widow or widower, or otherwise, by reason of the marital relations existing between said parties hereto *** or which he or she otherwise has or might have or be entitled to claim in, to or against the property and assets of the other, real personal or mixed, or his or her estate whether now owned or hereafter in any manner acquired by the other party, or whether in possession or in expectancy, and whether vested or contingent.”
+The administrator also argues we should decline to follow Cox and O’Toole and should rule, instead, that divorce automatically revokes the designation of beneficiary similar to the operation of section 4— 7(b) of the Probate Act of 1975 (Ill. Rev. Stat. 1985, ch. 110½, par. 4 — 7(b)) regarding a legacy to the testator’s former spouse in a will executed prior to divorce.
+Contrary to the administrator’s arguments, we find O’Toole and Cox squarely applicable and dispositive of the instant case.
+In O’Toole, the administrator of the estate of William Russell sought to compel payment of life insurance proceeds and death benefits to Russell’s estate instead of to his former wife, Patricia, the named beneficiary. The deceased had died two months after entry of a divorce decree. The administrator contended that, due to the divorce decree and property settlement, Patricia was not entitled to the proceeds despite the fact that the deceased did not designate a different beneficiary. The appellate court described the property settlement as “dispos[ing] of a few specific items of property including an interest in real estate, an automobile, household goods and furniture, with no mention of insurance policies or proceeds.” (O’Toole, 12 Ill. App. 3d at 997, 299 N.E.2d at 393.) The court observed that a general clause also stated, “ ‘each party is further barred as to any and all claims or interests whatsoever in and to the property of the other now owned and hereafter acquired.’ ’’ O’Toole, 12 Ill. App. 3d at 997, 299 N.E.2d at 393.
+The appellate court rejected the administrator’s argument that the life insurance proceeds constituted property included in the general waiver clause. Rather, the court concluded, Patricia’s interest was a mere expectancy as her former husband retained the right to change the beneficiary at any time. The court further observed:
+“Illinois follows the majority rule that a decree of divorce in no way affects the rights of the divorced wife as a beneficiary in a husband’s life insurance policy. (See, 22 I.L.P., Insurance, sec. 93 and 44 Am. Jur. 2d Insurance, sec. 1740.) Only if a property settlement agreement should specifically include a termination of the beneficiary’s interest, will the right to the proceeds of a policy on the life of the husband be affected, unless the policy itself or a statute provides otherwise. (Couch on Insurance 2d ed., sec. 27:111.)” (O’Toole, 12 Ill. App. 3d at 997, 299 N.E.2d at 394.)
+Thus, the court held Patricia was entitled to the proceeds as the decree did not address the life insurance policies nor did the policies provide for termination of her interest upon divorce. The court reasoned that, had the deceased insured desired to substitute another person or his estate as beneficiary following divorce, he could have done so, or attempted to do so, and that no such indication existed. O’Toole, 12 Ill. App. 3d at 997-98, 299 N.E.2d at 394.
+In Cox, the deceased insured died in an accident one day after entry of the divorce decree. On appeal, the court relied extensively on the rationale of O’Toole and held the surviving former wife, the named beneficiary, was entitled to the proceeds of the deceased’s life insurance policies. (Cox, 25 Ill. App. 3d at 18-19, 322 N.E.2d at 559-60.) Although the court did not set out the exact language of the property settlement involved there, the court stated that the language was, “for all practical purposes, identical” to that in O’Toole. Cox, 25 Ill. App. 3d at 19, 322 N.E.2d at 560.
+Similarly, in the instant case, the decree, despite the broadly worded waiver of claim to property contained in paragraph 2(k), makes no mention of Ware’s insurance policy or ESOP account and, therefore, cannot defeat Gatling’s interest. In fact, we believe circumstances here present an even more compelling factual situation for affirming award of the proceeds to Gatling as named beneficiary than were before the court in either O’Toole or Cox. We note that Ware died over four years after his divorce from Gatling. During that period, Ware retained the sole power, and had ample opportunity, to designate a different beneficiary than his former wife. He did not do so nor attempt such effort.
+Further, we are not persuaded by any argument that we should extend provisions of the Probate Act to govern over what is, essentially, a contract to pay Ware’s designee. Such an argument is properly directed, instead, to the legislature, not this court.
+We therefore affirm the judgment of the circuit court.
+Affirmed.
+MURRAY, P.J., and PINCHAM, J., concur.
