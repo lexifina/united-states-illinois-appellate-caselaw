@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-05-27"
+citations: ["23 Ill. App. 168"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andrew Dillman v. John W. Nadelhoffer."]
+source_url: "https://static.case.law/ill-app/23/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 863606
+cites_cases: ["100 Ill. 276", "105 Ill. 662", "109 Ill. 15", "11 Ill. 511", "114 Ill. 412", "116 Ill. 330", "119 Ill. 320", "16 Ill. App. 621", "16 Ill. App. 625", "18 Ill. 390", "22 Ill. 100", "3 Scam. 144", "41 Ill. 25", "73 Ill. 476", "73 Ill. 485", "80 Ill. 307", "85 Ill. 138", "87 Ill. 185", "91 Ill. 571", "94 Ill. 525"]
+---
+
+# Dillman v. Nadelhoffer
+
+## Majority (Welch, J.)
+
+Welch, J.
+The question presented for our consideration in this case, arises upon a motion filed by the appellant to quash an execution issued on the 20th day of May, 1886. The motion was made on the 2d day of June, during the term at which the judgment was rendered, and was predicated upon the claim that the judgment on which the execution issued had not been entered of record at the time the execution w-as issued; that the judgment was not entered of record until May 22d. This motion was supported by the affidavits of Ball and Fraley, who each state that the judgment was not entered of record until the 22d day of May. The record shows that the judgment on which the execution issued, was entered of record on the 19th day of May, 1886. It is insisted by counsel for appellant that he has the right to show, by parol, the time the judgment was entered of record. Scott, C. J., in Roche v. Beldam, 119 Ill. 320, says: ''When the record is once made up, it is conclusive upon all parties until"altered or set aside by á court of competent jurisdiction, and so the adjudged cases all hold. If the record, as it remains in the Circuit Court, does not state the facts as they actually occurred, defendant should have made application to have the court correct the record, so as to make it speak the truth. Had that been done and the record corrected, so as to show the facts as they are alleged to be, the question discussed would have been presented for decision. As the record now comes before the court, it will be regarded as imparting verity, and no parol evidence will be heard to contradict it.” The same rule is announced in Herrington et al. v. McCollum, 73 Ill. 476; Lawver v. Langhans, 85 Ill. 138; Hughes v. People, 116 Ill. 330. No application was made in this case to the court to correct the record, although the motion to quash was made during the term of court at which the judgment was entered. Had that been done, as said in Roche v. Beldam, supra, and the record corrected, so as to show the facts as they are alleged to be, the question discussed would have been presented for decision. The record in this case, as it comes before us, shows the entry of the judgment of the 19th of May, 1886. It will be regarded as imparting verity, and no parol evidence will be heard to contradict it. The authorities cited' by counsel for appellant, of Ling v. King, 91 Ill. 571, and Cummins v. Holmes, 109 Ill. 15, were judgments in vacation in which no judgment had been entered. This appears from the record in each of said cases. They are not parallel cases to this. In this case there is a judgment duly entered of record on the 19th of May, 1886. In order to show the judgment was entered on a day different from that named in the record, appellant must contradict the record, which we hold he can not do. We are also referred to the case of Baker v. Barber, 16 Ill. App. 625. We are not inclined to adopt the views announced in that case. The authorities referred to, 91 Ill. and 109 Ill., supra, do not support the views announced in that case. We adopt the language of Scott, C. J., in Roche v. Beldam, supra: “No rule of law is better settled, both by the decisions of this and other courts, than that a record like this one imparts verity, and can not be contradicted by parol.” It follows, therefore, the objections to the validity of the execution, sought to be established by parol in opposition to the record itself, can not be considered, and the execution must be treated as valid.
+The judgment of the Circuit Court overruling the motion to quash the execution is affirmed.
+Judgment affirmed.
