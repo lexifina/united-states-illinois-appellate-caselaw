@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-12-13"
+citations: ["56 Ill. App. 425"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tola Rall v. Ed. Donnelly, Levi Perce, John R. Lamb, Robert Davidson, Anthony McAllister, Jasper N. Johnson, August Westphal and John L. Phillips."]
+source_url: "https://static.case.law/ill-app/56/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5781713
+cites_cases: ["11 Iowa, 302", "13 Wis. 193", "13 Wis. 195", "144 Ill. 588", "2 Wend. (N. Y.) 516", "21 Wend. 319", "21 Wend.' (N. Y.) 219", "22 Ga. 330", "25 Ill. App. 525", "3 How. 287", "4 Brad. 364", "4 Ill. App. 364", "40 Ill. 334", "47 Ill. App. 357", "48 Ill. 385", "57 Ill. 291", "6 Black. 256", "62 Ill. 472", "94 Ill. 488"]
+---
+
+# Rall v. Donnelly
+
+## Majority (Mr. Justice Lacet)
+
+Mr. Justice Lacet
+delivered the opinion oe the Court.
+The plaintiff in error sued the defendant in error in an action on the case for libel for publishing the following words, to wit: That is to say, “ She is nothing more than a common prostitute.”
+The declaration contained two counts, one without and one with innuendo. Besides the general issue, defendants in error pleaded by their second special plea that the plaintiff’s husband had begun suit in the Circuit Court against her for divorce, averring in the plea that the plaintiff in error had made application to the court in the divorce suit for temporary alimony and solicitor’s fees, which her husband was resisting; that defendants in error were informed by her husband that he was directed by his counsel to procure such an affidavit as is set out in the plea, and that the facts set out therein were pertinent and material to the issue between the plaintiff and her husband on the question of temporary alimony; that believing the said matters were pertinent and material to such issue, they made and subscribed the affidavit in question, before a justice of the peace, containing, among other things, the following statements, to wit: “Affiant would further state upon information and belief that she is nothing more than a common prostitute.”
+The plea further averred that the said affidavit was sworn to in good faith, without malice, for the sole purpose of filing the same in said court, and to be used in the judicial proceeding therein mentioned, bearing on the question of temporary alimony, with a full and sincere belief that the matters set forth in the affidavit were true and pertinent to the issue to be determined by said court in said application for temporary allowance; that for said purpose it was delivered to plaintiff’s husband and was filed by his counsel in the Circuit Court and presented to such court in resistance to plaintiff’s application for alimony and attorney’s fees in the course of hearing.
+The plaintiff in error demurred generally to this plea.
+The court, upon hearing, overruled the demurrer, and plaintiff in error abiding her demurrer, the court gave judgment in bar against her on the plea and for costs.
+We are of the opinion that the court below committed no error in overruling the demurrer to the second plea. The plea sets up facts which show that the affidavit containing the supposed libelous matter was uttered and published on a lawful occasion. A witness is protected against suit for defamation of character as to his testimony given on a trial of an issue before a court, and we see no good reason why a person making an affidavit to be used before a court in opposition to a motion like the one made in the divorce suit mentioned in the plea should not also be protected. Affidavits of this kind are permitted to be used on such hearings according to the practice in our courts in such cases. The suitor may legally file and use them as evidence on the hearing of such motions if he does so in good faith and with an honest purpose in furtherance of his defense. Such suitor would certainly be privileged in the use of the affidavit, and it would follow that the maker of the affidavit would likewise be protected. He could not be regarded as a mere intermeddler intruding his statements where they were not justified, as is contended by counsel for plaintiff in error. The law and practice of our courts sanctions the use of such affidavits, and it would be an unreasonable rule of law that would not protect the maker of the affidavit, where it was made in good faith, in a matter pertinent to the issue and without malice. We are of the opinion that the plea shows the affidavit to be one- which the law sanctions, at least as <primafacie privileged. The truth of the plea was admitted by the demurrer. Plaintiff in error should have taken issue on the material averments of the plea. If the averments of the plea were true, there would be no cause of action, the charge of malice, the gist of the action, being entirely rebutted by the averments in the plea. To maintain an action on appellant’s part, under the allegations of the plea, she must show express malice and want of probable cause. Clark v. Sumner, 13 Wis. 193; Ham v. Blanchard, 5 John. R. 508; Hayward v. Thompson, 21 Wend. 319; Rector v. Smith, 11 Iowa 302; White v. Nichols, 3 How. 287; Whitney v. Allen, 62 Ill. 472; Straus v. Meyer, 48 Ill. 385; Spaids v. Barrett, 57 Ill. 291; Young v. Richardson, 4 Ill. App. 364.
+Seeing no error in the record, judgment is affirmed.
