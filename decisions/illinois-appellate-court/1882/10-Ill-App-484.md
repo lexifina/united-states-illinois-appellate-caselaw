@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1882-02-24"
+citations: ["10 Ill. App. 484"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Glanz v. Charles Gloeckler."]
+source_url: "https://static.case.law/ill-app/10/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 852680
+cites_cases: ["11 Allen, 224", "111 Mass. 542", "12 Wis. 223", "23 Wis. 108", "24 Gratt. 497", "26 N. Y. 9", "36 Conn. 132", "38 Conn. 300", "42 Conn. 60", "49 Ill. 121", "50 Mo. 44", "51 Ind. 24", "68 Ill. 25", "96 Ill. 309", "98 Mass. 381", "99 Mass. 157"]
+---
+
+# Glanz v. Gloeckler
+
+## Majority (McAllister, J.)
+
+McAllister, J.
+It is true that the,, policy of insurance in question was issued upon appellant’s application, was upon his life, and all the premiums, amounting in the aggregate to some twenty-five hundred dollars, have been paid by him. Nevertheless, the appellant, Louis Glanz, is in no respect a party to the contract, as reduced to form in writing, by his procuration. The only parties were the United States Life Insurance Company and Emily Glanz, the appellant’s daughter. While, therefore, we feel that the order of the court below requiring appellant, who has always had said policy in his custody, to "turn it over to appellee as the administrator of the estate of said Emily, deceased, may not be supported by any principles of natural justice, and its enforcement will operate, under the circumstances, as a great hardship upon appellant, yet we find ourselves so embarrassed by the nature of the contract, in determining that appellant has the lawful right to withhold said policy from, and retain it as against the administrator of the estate of said Emily, deceased, and our minds being so inclined against it, that we have concluded to afiirm said order, and suggest that the case be taken to the Supreme Court, where the question may be authoritatively settled.
+It seems to be clear, upon both principle and authority, that appellant, not being a party to the contract, has no right to control it, as against the beneficiary named in it. N. Am. Life Ins. Co. v. Wilson, 111 Mass. 542.
+An elementary writer, whose work is frequently cited by the courts with approbation, lays down the general rule thus: “ We apprehend the general rule to be, that a policy, and the money to become due under it, belong, the moment it is issued, to the person or persons named in it as the beneficiary or beneficiaries, and that there is no power in the person procuring the insurance, by any act of his, by deed or by will, to transfer to any other person the interest of the person named. An irrevocable trust is created.” Bliss on Life Ins. 2nd Ed. p. 517.
+For same doctrine in analogous cases, see notes to Ellison v. Ellison, 1 Lead. Cases in Eq. 4 Am. Ed. p. 421, et seq.
+If the transaction in question constituted an irrevocable trust, and a trust perfectly created, then, by the settled doctrine in equity, it is wholly immaterial whether appellant had ever delivered the policy to his daughter or not. Fortescue v. Barnett, 3 Myl. & K. 36; Otis v. Beckwith, 49 Ill. 121, and cases there cited. Nor is it material whether the daughter occupied the position of volunteer or not. Badgely v. Votrain, 68 Ill. 25.
+Suppose Louis Glanz, the insured, had died without having ever delivered the policy to the assured, his daughter; won'd that make any difference as to her having a vested interest in the policy and the money thereby payable? Appellant held the policy merely for the assured. It is a part of the agreed case, that he never charged her or her estate, for any money he paid as premium. He therefore had no lien upon it. He held it, therefore, as trustee, and in no other character. If, at any time, there was danger that he would fail to pay the premium, and thus let the policy lapse, we perceive no reason why the cestui que trust could not apply to a court of equity to have it handed over to her, if that were necessary to the preservation of her interest in it. And if that be necessary now, the same relief may be had by her administrator. This conclusion follows, if the transaction constituted a completed trust; in which case the aid of a court of equity may be invoked by a volunteer to carry the trust in effect.
+In the case of Lemon v. Phœnix M. L. Ins. Co. 38 Conn. 300, it seems to have been assumed that a delivery of the policy by the insured to the beneficiary was essential to the vesting any rights in the latter, though the question was not decided. Such a doctrine would seem to be contrary to that which prevails in analogous cases, which may easily be called to mind; such as assignments tor the benefit of creditors, or where by the provisions of a deed, a portion of the purchase-money was to be paid to the grandson of the vendor. Gault v. Trumbo, 17 B. Monroe, 682.
+The opposing theory which suggests itself to our minds is, that inasmuch as a policy of insurance, in one sense at least, is executory, the alleged trust must likewise be executory, and therefore it is not a case of a trust perfectly created; and as the beneficiary was a volunteer, equity can not aid her personal representative, who can be in no better position than she would have been. We are not altogether certain that this is not the true view. The question, however, is one of so much difficulty, and any effort on our part to solve it would be of so little consequence, that we deem it for the best interests of the parties that we affirm the order below, that the matter may go directly to the Supreme Court.
+Affirmed.
