@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-09-11"
+citations: ["40 Ill. App. 74"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Seiler, Impleaded, etc., v. Jacob Schaefer."]
+source_url: "https://static.case.law/ill-app/40/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5022853
+cites_cases: ["32 Ill. 66", "45 Ill. 493", "66 Ill. 285", "89 Ill. 207", "90 Ill. 70"]
+---
+
+# Seiler v. Schaefer
+
+## Majority (Phillips, P. J.)
+
+Phillips, P. J.
+Katherine Herl was indebted on a certain promissory note secured by mortgage which note was assigned to defendant in error. The maker of that note died, leaving certain children as her heirs at law, among others the plaintiff in error, then a minor. At the time of her death she was the owner of the mortgaged premises, comprising two lots, and at the request of certain heirs of Katherine Herl, the defendant in error made certain repairs and improvements on a house situated on the mortgaged premises and rendered his bill for the same, which amounted to $161.30. He also paid taxes on the premises for the year 1885. The defendant in error filed his bill to foreclose his mortgage and asked to be allowed for taxes paid, and for repairs and improvements on the premises. The allegation in the bill as to repairs is as follows: “Your complainant further represents that since the death of said Katherine Herl, in March and April, 1886 your complainant, at the request of said Philip Seiler, Catherine Gross, Barbara Seiler and Mary Seiler, furnished the material and made repairs on one dwelling house situated on the premises above described to the amount of $161.30, which amount still remains due and unpaid to your complainant, and for which your complainant is entitled to a Hen upon said premises.” There is no provision of the mortgage which provides for keeping up repairs or making improvements or for the payment of taxes. Two lots are described-in the mortgage and on which of the two the' dwelling house is situated, is not averred. A default was entered as to certain defendants and a guardian ad litem was appointed for the plaintiff in error, then a minor, and the cause was referred to the master, who reported the proof taken, which consisted- of the note, mortgage, and testimony of the defendant in error; that testimony related to the payment of taxes and making repairs. A decree was entered for complainant for the amount of the note and amount paid for' taxes and repairs. The plaintiff in error sues out a writ of error and assigns as error the entering decree on alleged incompetent evidence and entering a decree for repairs. The mortgage not providing fpr repairs to be made by the mortgagee, the right to a lien, if any exists for those repair’s, must rest on the statute. The relief granted can not be greater than the allegations of the bill. The allegations, proof and decree must correspond. Burger v. Potter, 32 Ill. 66; Hall v. Towne, 45 Ill. 493. The averments of the bill are of no facts on which a lien could be predicated under the statute. On the facts alleged a default and decree pro confesso would not authorize a decree finding a lien to exist under the statute for repairs.
+Two lots are described in the mortgage, but whether connected or included in one inelosnre for use, is not averred; nor is it averred on which the building on which the repairs was made is situated. The statute giving a mechanic’s lien being in derogation of the common law, must be strictly construed, and no person can have a lien under it without complying with the provisions of the statute. Belanger v. Hersey, 90 Ill. 70. The plaintiff in error being a minor at ilie time of the decree, the evidence must sustain the decree. The evidence of the defendant in error shows the performanc.e of the work in repairing the house, the contract price, and when the work was done; hut this is not sufficient. A hen existing for work and materials in a building on one lot gives no lien on an adjacent lot, even if in the same inclosure, unless by proper averments both lots are to he considered as one. Woodburn et al. v. Gifford, 66 Ill. 285. It is insisted the defendant in error was not a competent witness. While be would not be competent as a witness with reference to that part of the bill which related to the mortgage, as to which plaintiff in error was defending as an heir, yet, where an heir inherits land and contracts with reference to that land, as to such contract he would be competent. Pigg et al. v. Carroll et al., 89 Ill. 207.
+The decree is reversed as to plaintiff in error and the canse is remanded.
+Reversed and remanded.
