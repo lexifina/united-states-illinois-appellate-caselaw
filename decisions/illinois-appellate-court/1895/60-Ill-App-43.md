@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1895-06-03"
+citations: ["60 Ill. App. 43"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Ballinger et al. v. J. R. Rezner, Use of C. Martens."]
+source_url: "https://static.case.law/ill-app/60/cases/0043-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5158058
+cites_cases: ["139 Ill. 377", "17 Brad. 510", "19 Ill. 534", "19 Ill. 535", "19 Ill. 594", "21 Ill. App. 513", "22 Ill. 558", "24 Ill. 632", "26 Pac. Rep. 681", "29 Pac. Rep. 525", "3 Gilm. 455", "30 Ill. 158", "37 Ill. 164", "38 Ill. App. 374", "41 Ill. 365", "49 Ill. 146", "59 Ill. 115", "6 Brad. 510", "71 Ill. 326", "81 Ill. 407", "88 Ill. 82", "90 Ill. 296"]
+---
+
+# Ballinger v. Rezner ex rel. Martens
+
+## Majority (Mr. Presiding Justice Wall)
+
+Mr. Presiding Justice Wall
+delivered the opinion of the Court.
+This was an action on a replevin bond. The cause was tried by the court, a jury being waived, and the judgment was for the plaintiff.
+The controversy was in effect between two mortgagees of personal property. The first mortgagee failed to take possession within a reasonable time after his mortgage matured and the second mortgagee seized the property as soon as his mortgage ivas due, whereupon the first mortgagee brought replevin, and having obtained possession thereby, dismissed his suit without trial. When sued upon the bond he pleaded that the merits had not been tried and that he was entitled to the property. The question is whether the failure of the first mortgagee to take possession in apt time enabled the second mortgagee to gain precedence by seizing the property promptly upon the maturity of his demand.
+In Constant v. Matteson, 22 Ill. 558, the court say: “ Where there are several mortgages to different persons on the same property and they are all over due, and the debtor is holding possession contrary to the terms of the mortgages, any one of the mortgagees may take possession of the property by virtue of his mortgage, and by so doing he acquires a preference over the other mortgages similarly situated without reference to the date of his mortgage.
+Such creditors are in the situation of several purchasers of a chattel without receiving the possession where the purchaser who first acquires possession is preferred.”
+In Atkins v. Byrnes, 71 Ill. 326, the same rule is laid down. To the same effect, see Jones on Chat. Mort., Sec. 373. If as between two mortgagees who have failed to take possession in proper time the precedence will be given to the one who first gets possession, it would seem that if the second mortgagee takes possession as soon as his debt is due he should be preferred to the first mortgagee who has permitted the debtor to retain the property for an unreasonable time after his debt matured.
+We are referred, however, to Van Pelt v. Knight, 19 Ill. 535, and Cunningham v. Nelson Mfg. Co., 17 Brad. 510, where it was held that the first mortgagee gaining possession, though after an unreasonable delay, will hold as against the subsequent mortgagee, and we are also referred to Arnold v. Stack, 81 Ill. 407, where it was held that a purchaser from the mortgagor before the debt is due has no better position than the mortgagor and caif’not be heard to say that the mortgagee has lost his right by failing to take possession at maturity.
+It is argued that a person taking a second mortgage before condition broken under the first is in the same position as a purchaser before condition broken, and that in such base the possession of the mortgagor is consistent with the terms of the mortgage,.and that the continuance of such possession after condition broken is not fraudulent, or in law injurious to the second mortgagee. A man who buys property which is mortgaged, before the debt is due, may be presumed to buy subject to the mortgage debt, and for that much less than the value, and to intend to pay the debt as a-part of the price; but a creditor who merely takes a lien can not be presumed to so intend.
+He may find it to his interest to remove the first incumbrance in order to protect himself, but if the first mortgagee fails to take possession within a reasonable time, he may do •so and obtain a priority. It becomes a contest between conflicting liens, and the mortgagees are in the situation of several purchasers where the purchaser who first obtains possession is preferred. When the contestants are both in fault for not having taken possession, the one first obtaining • it will be preferred according to the doctrine announced in Constant v. Matteson and Atkins v. Byrnes, supra,, but according to the view urged by appellant, and to some extent sustained by expressions to be found in the oases cited, a mortgagee who is not in fault and who acts promptly when his debt matures, is not as well situated as he would be if he had waited until he, too, was in fault by reason of improper delay. In other words, as between two persons holding mortgages of different dates and both in fault for having failed to take possession within a reasonable time, he who first gets possession will be protected; but if one holding the first mortgage fails to take possession and is in fault therefor, the second mortgagee, who is not in fault, can gain nothing by taking possession when his debt m atures. Without pursuing the line of discussion suggested, we are inclined to hold that the second, mortgagee will, in such case, obtain precedence, and the ruling of the trial court being consistent with this view, the judgment will be affirmed.
