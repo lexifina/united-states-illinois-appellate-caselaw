@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-04-09"
+citations: ["44 Ill. App. 240"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wisconsin Granite Company v. Charles E. Ray et al."]
+source_url: "https://static.case.law/ill-app/44/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5063690
+cites_cases: ["111 Ill. 260", "35 Ill. 553", "77 Ill. 555", "8 Ill. 602"]
+---
+
+# Wisconsin Granite Co. v. Ray
+
+## Majority (Waterman, P. J.)
+
+Waterman, P. J.
+The Wisconsin Granite Company having, January 10, 1890, obtained a judgment for §2,131 against Charles E. Ray and Michael P. Gerrity, on February 10, 1890, an execution issued thereon was delivered to the sheriff of Cook county. Before either demand upon or return of said execution had been made, the Granite Company filed its bill to subject certain property alleged to have been fraudulently conveyed, to the lien of such execution.
+Upon the hearing of the bill it appeared that in June. 1887, Gerrity made a contract with the Granite Company, which contract was the foundation of the judgment obtained by it against him; that in May, 1889, he conveyed to his wife five pieces of real property; that upon the day prior to his marriage, in December, 1SS5, Gerrity conveyed to his then intended wife, now Stella Gerrity, the homestead which they have since occupied, although the deed of the same was not recorded until December 15, 1888. The circumstances attending the conveyances of May 6, 1889, seem to have been that Gerrity was not feeling very well, that he had just been rejected on an application for life insurance as being subject to heart disease, that being desirous of caring for his wife and children if anything happened, he made a deed of this property to his wife for the nominal consideration of $ 1,000, which was paid to him by her out of money she had saved from allowances made to her by him for housekeeping expenses. The property was all incumbered, and it is questionable if it was then worth, more than §1,000 above the incumbrances. Gerrity at the time he made this conveyance and when the bill was filed, was the owner of certain lots known as the Grand Crossing-property; these were incumbered to the amount of $555, and were, according to his testimony and the evidence of one other witness, worth about $4,000. Witnesses for' the complainant estimated their value at from $840 to $1,150. The court found for the defendants, and the bill was dismissed.
+While it is the case that courts will look sharply at transactions between husband and wife, yet it does not follow that all business dealing between persons closely related will be held fraudulent because one of the parties was at the time, largely indebted and afterward becomes insolvent; notwithstanding such indebtedness and subsequent insolvency, the question remains whether the transaction was fair and honest as regards not only the parties to it but creditors who might be indirectly affected by it. An insolvent person, even, is permitted to do business and to make trades, buy and sell property; the only distinction between conveyances by him to strangers and to persons nearly related is that courts look with suspicion upon conveyances of the class last named. As to these, however, he who assails them as fraudulent must, make out his case; the burden is upon him to show the fraudulent character of the transaction.
+In the present case the court below, the witnesses having testified in open court, had a much better opportunity for arriving at a correct conclusion as to the facts than has this court; and we find in this record no sufficient warrant for setting aside the conclusions of the chancellor in this regard. A voluntary conveyance by way of settlement upon a wife or child is not necessarily fraudulent and void as to creditors. If the debtor retains a sufficient amount of property so that his creditors are neither hindered, delayed nor defrauded by reason of the conveyance, thén it is not fraudulent or void. Moritz v. Hoffman et al., 35 Ill. 553; Mathews v. Jordan, 8 Ill. 602; Patrick v. Patrick,, 77 Ill. 555; Bittinger v. Kasten, 111 Ill. 260-265. In the present case the evidence is that the husband received from the wife $1,000 for the conveyance of five pieces of incumbered property. That this was not then an adequate consideration for the equity Gerrity had in this property, has not been established.
+And while it would seem that in the case of a voluntary conveyance—as a settlement upon wife or child—the burden of showing that such conveyance did not operate to hinder, delay or defraud creditors must rest upon the party to whom such conveyance is made, yet we are unable to say that this record fails to show that Gerrity, in making such conveyance, did not retain sufficient property wherewith to satisfy complainant’s claim. The best test of the sufficiency of the property retained would be a trial; such trial complainant could have made, but did nok Eigleberger v. Kibler, 1 Hill, So. Car. Equity, 114.
+The decree of the Superior court will therefore be affirmed.
+Decree affirmed.
