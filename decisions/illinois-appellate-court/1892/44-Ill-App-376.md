@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-05-12"
+citations: ["44 Ill. App. 376"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. A. Elkins et al. v. J. S. Wolfe."]
+source_url: "https://static.case.law/ill-app/44/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5066962
+cites_cases: ["1 Ill. App. 113", "10 Ill. App. 106", "106 Ill. 36", "11 Ill. 622", "117 Ill. 251", "128 Ill. 148", "17 Ill. App. 377", "22 Ill. 475", "24 Ill. 598", "24 Ill. 610", "35 Ill. 346", "35 N. H. 390", "44 Ill. 262", "5 Ill. App. 17", "6 Ill. App. 350", "6 Pet. 691", "61 Ill. 23", "66 Ill. 416", "70 Ill. 480", "78 Ill. 627", "84 Ill. 403", "86 Ill. 159", "86 Ill. 185", "9 Ill. App. 431", "97 Ill. 147"]
+---
+
+# Elkins v. Wolfe
+
+## Majority (Shepabd, J.)
+
+Shepabd, J.
+Judgment by confession was entered against appellants, upon a promissory note and Avarrant of attorney, of Avliich the folloAving is a copy :
+“ 338.90. June 19th, 1891.
+“ August first, after date, Ave promise to pay J. S. Wolfe, or order, the sum of three hundred and thirty-eight and 90-100 dollars with interest at 8 per cent per annum from date, value received, and Ave hereby appoint any attorney of any court of record in any State or Territory of the United States to appear for us in any such court, at any time, and waive the issue and. service of process and confess a judgment against us for the amount of the above note and interest then due, and costs, including ten dollars attorney’s fee, and to file a cognovit for that amount, and an agreement releasing all errors and waiving all appeal in said cause and all advantage to which we may be entitled by virtue of any and all exemption laws of this State, and of any State or territory where judgment may be entered by virtue hereof. Witness hand and seal the day and year above written. In presence of H. A. Elkins, L. S.
+Lucy A. Elkins. L. S.”
+The declaration or narr. and cognovit, were filed July 27, 1891, and on the same day judgment by confession was entered for $351.40. It is contended by appellants that the suit was premature; that the declaration shows no cause of action could exist prior to August 4,1891, the day on which the note matured. The argument is based on that clause in the warrant of attorney, which reads as follows: “ And confess a judgment against us for the amount of the above note and interest then due.”
+And it is said that because the note did not mature by its terms until August 4th, it was not on July 27th, “ then due.”
+The word “ due,” considered by itself, has many definitions. Bouvier defines it, in its first and broadest sense, as that which is “ just and proper; ” and, in another and less general sense, as, “ what ought to be paid; what may be demanded.” Webster gives its definitions, so far as applicable to the matter under consideration, in the following order: “ Owed, as a debt; that ought to be paid, or done to or for another; payable; owing and demandable; proper; suitable.” The warrant of attorney authorized a confession of judgment “ at any time,” which, under the well settled decisions of this State, authorized it to be done at any time after the delivery of the note. Thomas v. Mueller, 106 Ill. 36; Adam v. Arnold, 86 Ill. 185; Sherman v. Baddely, 11 Ill. 622.
+It is the duty of courts to so interpret the meaning of words employed in contracts as to effectuate the intention of the parties, when such intention is not clear without the aid of interpretation. Bishop on Contracts.
+It seems to us to be perfectly plain from the whole instrument that the intention of the parties to the note in question, was to empower the entering of judgment upon it at any time after it was given, in accordance with the usual course and custom of business where judgment notes are resorted to; and it therefore devolves upon us to save this instrument from the effect of a defeat of its objects, which Avould follow from such an interpretation and application of the words “ then due,” as appellants contend for, if it can be done consistently with maintaining the integrity of the parties’ intentions.
+In accordance Avitli the proposition just stated, apply to the instrument the definitions of the word “ due,” already quoted, and the clause AArould read: For the amount, etc., “then” just amd proper; or, that “then” ovglitto be paid; or, “then”payable; or, “then” proper; or, “then” owing tin (l demamdcible.
+The substitution of only this last definition out of all the others tends to sustain the interpretation of the appellants. A debt may be due in the sense that it is- OAving, although not at that time demandable. But leaArn the instrument just as it is, Avithout substituting any definitory AA'ords, and it seems to be apparent that the Avords “ then due,” as employed, do not operate to limit the poAArer to confess judgment “at any time,” but that they relate exclusively and most clearly to the time AAdien the poAver shall be exercised, and not to the condition of maturity of the note. Such is both their grammatical sense and reasonable meaning. ¡Nothing but a most restricted and narroAV interpretation of the word “ due ” aauII lead to any other conclusion.
+The other contention is that the court below erred in not vacating the judgment and giving appellants an opportunity to plead to the declaration. Affidavits were filed in support of and against the motion to vacate the judgment, from AAdiich it appears that an usurious consideration entered into the note, and upon which the court reduced the judgment from $351.40 to $300, in the exercise of its equitable jurisdiction over judgments entered by confession. Heeney v. Alcock, 9 Ill. App. 431. But it is complained that a much more considerable reduction should have been made, and that' upon the authority of Pitts v. Magie, 24 Ill. 610, the question should have been submitted to a jury. See also, 9 Ill. App. 431, supra.
+It is unnecessary for us to decide whether the affidavits which appear in the bill of exceptions make out such a case of meritorious defense as would have required the appellants to be let in to plead, for the reason that the certificate of the trial judge to the bill of exceptions does not purport to say that nothing else was presented by way of evidence to the court. Where the certificate of the judge omits to state that the bill of exceptions contains all the evidence, it will be presumed that there was other evidence sufficient to sustain the finding. Brown v. Miner, 128 Ill. 148; Ottawa Gas Light & Coke Co. v. Graham, 35 Ill. 346.
+Our reports abound in authorities in support of this proposition, and we are bound, therefore, to presume that there ivas evidence before the court sufficient to support the judgment. The case will be affirmed.
+Judgment affirmed.
