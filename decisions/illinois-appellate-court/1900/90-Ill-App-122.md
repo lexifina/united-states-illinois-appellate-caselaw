@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-07-10"
+citations: ["90 Ill. App. 122"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pioneer Fireproof Construction Co. v. James Howell."]
+source_url: "https://static.case.law/ill-app/90/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1673381
+cites_cases: ["172 Ill. 177", "58 Ill. App. 250", "59 Ill. App. 17", "65 Ill. App. 304", "70 Ill. App. 676", "72 Ill. App. 402"]
+---
+
+# Pioneer Fireproof Construction Co. v. Howell
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the court.
+The appellee was a tile setter, and worked for the appellant in the construction of a ten-story fire-proof building. While so at work, a red-hot iron rivet which was being tossed by one riveter to another on the floor or story above that on which appellee was at work, was missed by the catcher and fell upon appellee’s head, inflicting the injury on account of which this suit was brought. The trial resulted™ averdict and judgment for §1,000 in appellee’s favor.
+It was admitted, at the trial, that the work upon the superstructure in this class of buildings is usually performed in the following order: The iron or steel frame is first set up, and then the riveters, center men and tile setters, follow with their work, in the order named.
+And such was, apparently, the order of work pursued in this case, with, perhaps, the exception of the center men.
+The work of center men is spoken of as “ centering.” This consisted, so far as the present inquiry is concerned, in placing boards or planks between the parallel horizontal iron beams that supported and formed a part of the floors. These beams were shaped like an inverted letter “ T,” and the tiles to be placed between them, ultimately found their support upon them. At first, however, and while being made ready for their permanent position, the tiles would be supported on the plank centers. The “ centers ” were ordinarily laid as rapidly as the riveting, which preceded them, would permit, and, as fast as they were laid, the setting of tile would follow on the floor or floors underneath them.
+The centers, therefore, served the double purpose of, first, protecting the tile setters from injury by the dropping of rivets, or other things, upon them from the floors above, and of supporting the tiles while being laid. The inference, if not the direct proof, is that the laying of tiles upon one floor was always preceded by the riveting and the supposed placing of centers on the floor or story above that on which the tile setters worked.
+The theory of the appellee, as appears by his declaration, and as supported by the evidence in his behalf, is that the appellant was bound to use reasonable care to furnish him with a reasonably safe place to work in, and that there was neglect therein by causing him to pursue his work on the second floor of the building without reasonable protection, by “ centering ” between the beams of the floor above.
+The evidence tends to show that there was a tile foreman and that appellee was hired by him, and presumably, appellee was working in the place where he was injured, under the directions of such foreman.
+According to appellant’s brief, it is “ clear that when they (appellee and another) started to work in the morning there were no riveters over them,” and that “ after they had been working for a time, the riveters * * * came along and commenced to rivet over where Howell (appellee) and his partner, Keys, were at work.”
+The injury happened within half an hour after the riveters began so to work. That the jury were justified in finding that the place where appellee was at work was not reasonably protected against the falling of rivets, appears, we think, .from the testimony of the riveter who failed to catch the tossed rivet, wherein he says that he watched the rivet as it fell and saw it hit appellee. Had there been much obstruction by way of protection to arrest a falling rivet, he could have hardly followed its course.
+If we were permitted to single out the testimony of one of appellee’s witnesses and exclude that of numerous others we might hold that appellee was not entitled to a recovery; for the rule that a master is bound to use reasonable care to furnish a reasonably safe place for his servant to work, is qualified by another rule, quite as well settled, that if the master fails in such respect, and the servant, being fully advised of the dangers, continues to voluntarily "work in the unsafe place, he himself takes the chance of the obvious danger. Graver Tank Works v. McGee, 58 Ill. App. 250. The testimony of that witness, if considered alone, would probably establish that appellee knew of the dangers of the place and voluntarily assumed the risk; but considering all the testimony together, we are unable to say that the jury might not reasonably find that appellee had not such knowledge, and did not assume the risk of continuing to work.
+The law is well settled—indeed it is no more than the common law duty—that an employer must exercise reasonable care in furnishing reasonably safe protection to his employes while at work. Armour v. Czischki, 59 Ill. App. 17.
+The Supreme Court, in Whitney v. O’Rourke, 172 Ill. 177, states it in this way :
+“ He (the master) must also use all reasonable care to furnish to his employe a reasonably safe place in which to work, and use proper diligence to keep such place in a reasonably safe condition.”
+This rule of duty assumed by an employer, renders him liable for injuries occurring in cases where he has been guilty of a breach of it.
+“ A failure to perform an assumed duty, by which an injury results to one in the exercise of due care, creates a liability at common law.” Consolidated Coal Co. v. Scheiber, 65 Ill. App. 304.
+The rule that exempts employers from liability where the injury is due to the ordinary hazards incident to the employment, that are assumed by the employe, applies only to cases where there is no breach of duty by the employer. Ibid.
+The work that appellee was engaged in doing was not dangerous in itself. Appellee was an experienced tile setter and might well be held to have assumed all the ordinary hazards of the work which he was doing. But we can not go further and say that as a matter of law he assumed the risk of being injured by the falling of material, which the evidence shows it was customary, in building such structures, to make reasonable provision against.
+It was a question of fact for the jury whether, under the circumstances shown in evidence, appellee knew the danger and took upon himself the risk of being injured. McCormick Co. v. Sendzikowski, 72 Ill. App. 402; C. & N. W. Ry. Co. v. Kane, 70 Ill. App. 676.
+We observe no objection urged against the one instruction given at the request of appellee.
+Appellee makes no complaint because of the refusal of any of its offered instructions, but says that certain instructions given by the court in behalf of its co-defendant, the George A. Fuller Company, “ were improperly given,” and follows up that statement by laying down ten propositions of law, all but one of which are indisputable, without attempting to apply any one of them to the instructions complained of. The excellent example thus set by appellant deserves emulation by us.
+A motion by the George A. Fuller Company to dismiss the appeal as to it, because of a failure by appellant to file abstracts or briefs as to it, was reserved to the hearing. The said Fuller Company was a co-defendant with appellant in the court below, and the jury returned a verdict, as to it, of not guilty, and a judgment for costs in its favor and against appellee was rendered. The reference made by the appellant to the instructions given at the request of the Fuller Company, which we have previously mentioned, has caused us to look at those instructions to see wherein, if at all, the verdict as to the Fuller Company was affected by them.
+The first one of them was, probably, erroneous in assuming that the falling of rivets was an ordinary and usual attendant upon work of the. character that the Fuller Company was prosecuting. But we can not see, and no attempt has been made to show to us, wherein the appellant was injured by the instruction, and appellee assigns no cross-errors. We discover no error in respect of the others.
+The judgment is right in all respects, and will be affirmed. It is therefore not necessary to act specifically upon said motion. Affirmed.
