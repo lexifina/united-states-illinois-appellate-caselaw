@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "73-113"
+decided: "1974-07-18"
+citations: ["20 Ill. App. 3d 258"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dennis Conover, Plaintiff-Appellant, v. Cecil Smith et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/20/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5344440
+cites_cases: ["100 Ill.App.2d 410", "123 Ill.App.2d 129", "126 Ill.App.2d 289", "16 Ill.App.2d 91", "18 Ill.2d 238", "2 Ill.App.2d 257", "258 Ill. 24", "28 Ill.App.2d 469", "38 Ill.App.2d 229", "398 Ill. 377", "51 Ill.App.2d 340", "7 Ill.App.3d 266", "80 Ill.App.2d 218", "98 Ill.App. 610"]
+---
+
+# Conover v. Smith
+
+## Majority (Mr. JUSTICE DIXON)
+
+Mr. JUSTICE DIXON
+delivered the opinion of the court:
+Plaintiff Conover in 1970 sued defendant Smith, driver of a car in which Conover was a passenger, and defendant Rosa, whose car was involved in a collision with Smith’s car, for negligence and willful and wanton misconduct in causing him personal injuries. The case came to trial in December 1972 and after 3 days of trial a mistrial was declared on December 21, 1972 because plaintiff testified that defendant’s “man” who took his statement identified himself as an insurance adjuster.
+A new judge was assigned to the case and he scheduled a pre-trial conference for February 13, 1973. Though given notice, plaintiff’s counsel failed to appear on February 13, 1973. At that time one of the defendants made an oral motion that the cause be dismissed as a sanction for failure to appear. The judge obliged and dismissed the case with prejudice. This is essentially what this appeal is all about. (A mountain of motions to dismiss appeal for various non-jurisdictional defects have been presented to this court. Defendants have again questioned the jurisdiction of this court for appellant’s violation of various rules and have asked that this appeal be dismissed. We find nothing further compelling to reverse our prior orders in this regard. John Deere Co. v. Metzler, 51 Ill.App.2d 340, 366.)
+A motion to re-instate was filed February 16, 1973, and set for hearing on February 28, 1973. On February 27, attorney for appellant gave notice that he would ask for a continuance on the grounds that he was on trial in the Circuit Court of Peoria County. On February 28 the court denied the motion to continue, denied the motion to re-instate and again dismissed the suit. On March 30, appellant moved to vacate the order of February 28 and requested re-instatement of the case. An affidavit attached shows that counsel was in fact engaged in trial on February 28; one of defense attorneys in the instant case opposed him in the Peoria case. The trial court denied the March 30 motion on the ground that it had no jurisdiction — that more than 30 days had elapsed since the order of February 13. Plaintiff then moved this court for leave to appeal and on May 22, 1973, after a plethora of objections, we entered an order granting leave to appeal. A cause of delay since that time was the refusal of the original trial judge to certify the transcript of proceedings on the ground that no appeal could be had from his order declaring a mistrial.
+The pre-trial conference is a technique to promote the disposition of litigation by cooperation and agreement. The purpose of sanctions of Supreme Court Rule 219(c) is to coerce this cooperation rather than to dispose of litigation as a form of punishment. The record in the instant case fails to show any act on the part of the plaintiff to warrant so drastic a punishment. Jancauskas v. Tow Motor Corp., 126 Ill.App.2d 289.
+The dismissal of a party’s cause of action is drastic punishment and should not be invoked except in those cases where the actions of the party show a deliberate and contumacious disregard of the court’s authority. (Booth v. Sutton, 100 Ill.App.2d 410, 415-416.) We think the dismissal of plaintiff’s action in this case visited a harsh punishment on plaintiff for the acts and omissions of his counsel. In justice and with fundamental fairness, we think plaintiff should be given an opportunity to proceed on the merits of his action. Federenko v. Builders Plumbing Supplies, Inc., 123 Ill.App.2d 129, 137.
+Appellant has also appealed from an order denying a continuance and thus requiring him to go to trial on December 19,1972. Immediately after the denial of the continuance he proceeded to trial without objection. Going to trial without objection after a denial of a motion for continuance is a waiver of the error, if overruling of the motion at the time it was made was an error. Kennedy v. Neeves, 258 Ill. 24; Boone v. A’Hern, 98 Ill.App. 610, 616.
+While an order declaring a mistrial is not a final and appealable order (Smock v. Williamson, 80 Ill.App.2d 218, 219), on an appeal from a final judgment, the entire record is brought up for review and correction of any erroneous action of the court below which is properly preserved, where necessary to do justice between the parties and provided a separate appeal did not lie from such prior order or decision. (2 I.L.P. Appeal and Error, Sec. 651; 5 C.J.S. Appeal and Error, sec. 1491.) The complete record in the case has been filed with this appeal and we know of no reason why this court cannot review the entire record. It often becomes necessary, when a record is brought to a court for review, to review the entire record to do justice between the parties in the cause. (Stenwall v. Bergstrom, 398 Ill. 377, 382; Biagi v. O'Connor, 18 Ill.2d 238, 241.) Since this case must be tried again and the question is likely to arise again we believe that the issue of the mistrial should be reviewed by this court.
+The attorney representing defendant Smith, in cross-examination of plaintiff referred to a statement taken by “a man and a lady” who interviewed plaintiff at his house regarding the accident. The cross-examination referred to various questions and answers given and was an attempt to impeach the plaintiff. On re-direct examination in order to show the interest of the “man” the following occurred:
+“Q. * * * a couple of people came to your house. Did you invite them there?
+A. No Sir. I didn’t.
+Q. And was the man a professional adjuster or investigator?
+A. I don’t know, Sir.
+Q. Did he tell you?
+A. He said he represented an insurance company.”
+Thereupon, after arguments, a mistrial was declared.
+As was stated in Pinkerton v. Oak Park National Bank, 16 Ill.App.2d 91, 99-100, "There has, however, existed and has continued to develop an exception to the general rule about the admissibility of evidence relating to insurance where the evidence was introduced for the purpose of showing the credibility of a witness or the origin of a statement used for impeachment purposes.”
+Here, the defendant Smith sought to take advantage of an alleged impeaching statement prepared and obtained by an agent of the insurer. The identity of the person preparing the statement, the nature of his employment, and by whom employed became material for the purpose of showing his interest, if any, in the litigation. So, in this case, on redirect examination, where upon cross-examination an attempt had been made to impeach the plaintiff by statements taken by an employee of an insurance company, we see no prejudice in plaintiff’s counsel pressing the plaintiff for a statement as to what the man taking the statement had told him as to who he was representing, as that would properly go to the validity and weight of the statement used for impeaching purposes. The plaintiff’s right upon re-direct to have the witness identify the man who obtained the statement is well established. Pinkerton, supra; Seyferlich v. Maxwell, 28 Ill.App.2d 469; Sphatt v. Pulley, 38 Ill.App.2d 229; Burnett v. Caho, 7 Ill.App.3d 266, 273; Insurance Non-disclosure; the “Hush, Hush” game, Robert G. Notman, 53 I.B.J. 896, 899, 901; Tir v. Shearn, 2 Ill.App.2d 257.
+Under the facts here presented we are of the opinion that the trial court abused its discretion.
+Reversed and remanded with directions to reinstate the cause for further proceedings.
+SCOTT, P. J., and STOUDER, J., concur.
+It is fair to state that the matter was inadverently not scheduled in the attorney’s office schedule. He suffered from illness and went home at noon on that day. There appears no deliberate flaunting of the court’s order.
