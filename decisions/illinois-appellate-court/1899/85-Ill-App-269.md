@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-10-27"
+citations: ["85 Ill. App. 269"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Bjork v. Illinois Central R. R. Co."]
+source_url: "https://static.case.law/ill-app/85/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5266458
+cites_cases: ["103 Ill. 520", "166 Ill. 623", "168 Ill. 514", "75 App. 208", "75 Ill. App. 208", "81 Ill. 454"]
+---
+
+# Bjork v. Illinois Central R. R.
+
+## Majority (Mr. Presiding Justice Freeman)
+
+Mr. Presiding Justice Freeman
+delivered the opinion of the court.
+This is a suit to recover for personal injuries. The plaintiff, in company with a young woman, was going west upon Seventy-fifth street, across the' tracks of the defendant in error at'about the midnight hour. These tracks are used also by trains of the Michigan Central Bailroad Company. The plaintiff states that as he and his companion approached the crossing they found the gates open, and that when they had crossed several intervening tracks, they saw a Michigan Central train coming slowly from the north. As the engine of this train passed them, it is claimed, it produced a cloud of smoke, in the midst of which, while stepping back away from the passing train, they were struck by an Illinois Central train coming from the south, upon a track which they had previously crossed: The latter train had just left the station at which it had been stopping, less than five hundred feet away. It is said that one arm of the gate across the sidewalk was partly broken off that day, but if, as is claimed, the gate was open, this would be unimportant. Ho flagman was present at the time.
+The view of the plaintiff was unobstructed, and the headlight of the Illinois Central train was in full view, when plaintiff and his companion started to cross the tracks, which at that point were eight in number. The smoke, which it is claimed enveloped them, had not obscured their view until the moment before the accident. At that time the Illinois Central train, by which they were struck, was already approaching with whatever noise is incident to the starting up of such a train from a station. There was an electric arc light suspended over Seventy-fifth street above the crossing.
+Defendant’s theory of the accident is, that the parties supposed they could cross ahead of the Illinois Central train, and did so, but finding themselves between it and the last car or cars of the Michigan Central train, they recoiled sufficiently to back into the train by which they were injured. It appears from the evidence that they were not struck by either of the engines, and that the injuries suffered were inflicted by one or more of the cars composing the train.
+The injured parties testify that they did not see any headlight, nor hear any whistle or bell, before they were hit. The young woman states that she saw lights, both north and south, but “ did not study them out.”
+While there is some conflict of testimony with reference to the gate being up or down, and it is denied that the Michigan Central engine emitted smoke, as claimed, there is none as to the most material facts. The headlight of the Illinois Central train was properly burning, and it is in evidence that the bell was ringing and whistle sounding, although the plaintiff and his companion state that they did not hear them.
+After the evidence upon both sides had been introduced, the court, upon motion of appellee’s counsel, instructed the jury to find the defendant not guilty, which was done.
+In view of the conceded facts, it is, we think, immaterial whether the arm of the gate extended over the sidewalk upon which the appellant and his companion approached the tracks, was up or down. As we said in Theobald v. C., M. & St. P. Ry. Co., 75 Ill. App. 208, when a passer-by sees a train itself passing, or about to pass, in front of him, he has all the warning gates can give.
+The testimony fails to shoAv negligence, upon the part of the appellee, causing the injury. It does, however, show imprudence, at least, upon the part of appellant.
+It is true that it is not always the duty of one approaching a railway track, as a matter of law, to look and listen. C. & N. W. Ry. v. Hansen, 166 Ill. 623. In this case, however, the view was unobstructed, even by smoke, until after, according to appellant’s testimony, he had placed himself in a position of danger. Appellant testifies that his sight and hearing were good, and his companion, that she “ saw lights in both directions, little and big,” upon the tracks, but did not look close enough to tell whether they were headlights or not, and “ did not t study them out.” Both parties were familiar with the crossing, over which they had frequently passed. The train by Avhich they were injured was not hidden from view by that which was passing in front of them, but was upon the same side upon which they were approaching. Under these circumstances we think .the conduct of appellant must be regarded as “ so clearly and palpably negligent that all reasonable minds would so pronounce it, Avithout hesitation or dissent.” And where the court must say that but one reasonable inference can be drawn from the facts, as to the negligence of the appellant, the court may, and should, direct a verdict accordingly, as Avas done. C. & N. W. Ry. Co. v. Hansen, 166 Ill. 623, and cases cited on page 629.
+The instruction to find the defendant not guilty was given at the close of all the evidence. This must be justified, if at all, upon the ground that the evidence, both fqr plantiff and defendant, with all the inferences Avhich the jury might justifiably dmv therefrom, is not sufficient to support a verdict for the plaintiff, if one should be returned. Foster v. Wadsworth-Howland Co., 168 Ill. 514.
+The argument of appellant’s counsel does not seriously contend that the evidence tends to show negligence of appellee causing the injury, nor even that appellant’s injury was not caused by his oavu negligence; but that the question of negligence should have been submitted to the jury. Had this been done, and any other verdict returned, “ the court could not legally have permitted it to stand.” (Foster v. Wadsworth, above cited.) It was not error to instruct the jury to find for the defendant.
+The judgment of the Superior Court is affirmed.
