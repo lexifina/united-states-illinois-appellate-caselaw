@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 37,730"
+decided: "1923-02-16"
+citations: ["228 Ill. App. 93"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lillian M. Williamson, Appellee, v. William Soper, Appellant."]
+source_url: "https://static.case.law/ill-app/228/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3069890
+cites_cases: ["47 Ill. 227", "72 Ill. 193"]
+---
+
+# Williamson v. Soper
+
+## Majority (Mr. Presiding Justice Thomson)
+
+Mr. Presiding Justice Thomson
+delivered the opinion of the court.
+This was a forcible entry and detainer proceeding brought by the plaintiff, Mrs. Williamson, in the municipal court of Chicago, in which she recovered judgment for possession, to reverse which the defendant has perfected this appeal.
+It appears from the evidence that Mrs. Williamson, as the owner of the premises in question, gave a mortgage covering the property, and during the life of this mortgage she defaulted in her payments that were due on it. The mortgagee, who was one Wolf, attempted to communicate with her but was unable to do so, and he thereupon took possession of the property, and while in possession he gave a lease to a Miss Farrell, who later became the wife of the defendant Soper. By reason of the default of Mrs. Williamson, foreclosure proceedings were instituted and a decree of foreclosure entered, and the property was purchased at the master’s sale by one Thielen, on January 28, 1920. The latter went into possession of the property immediately after the sale. The lease of the defendant’s wife from, the mortgagee Wolf expired April 30, 1921. The mortgagor did not redeem within the twelve months’ period following the date of sale. Under date of March 9, 1921, Thielen, who held the master’s certificate, executed a new lease to the defendant Soper for a term beginning May 1, 1921, and ending April 30, 1923, which is the lease involved in the case at bar. Twenty days later, namely, on March 29, 1921, Mrs. Williamson filed a petition in the foreclosure proceedings in the circuit court of Cook county, asking that the decree of foreclosure be vacated and that she be given leave to answer the bill and an opportunity to satisfy a proper decree after an accounting had been had fixing the amount due from her, under the mortgage, less such credits as she might be entitled to by reason of rents collected by the mortgagee or others who had been in possession. This petition filed by Mrs. Williamson was based on the allegation that the service in the foreclosure proceedings had been by publication and that she had never been served personally and that she therefore had the right to file her petition within three years of the date of the decree entered, under the provisions of section 19 of the Chancery Act [Cahill’s Ill. St. ch. 22, ¶ 19].
+Following the filing of the petition by Mrs. Williamson, the foreclosure decree was set aside and her answer was filed. An agreement was reached by the parties to the foreclosure proceedings, as to the amount due from Mrs. Williamson to the mortgagee, and that was paid upon the entering of a new decree which was satisfied in full. Shortly after the entering of the new decree, Mrs. Williamson, having thereby reinvested herself with the title to the property, in fee, instituted these proceedings to regain possession of the property which was being held by the defendant under his lease from Thielen.
+The original decree entered in the foreclosure proceedings, being based on service, by publication as against Mrs. Williamson, could not be considered final or conclusive until after the expiration of three years. Such rights as were acquired under that decree by Thielen, in purchasing the property at the master’s sale, or by the defendant Soper, in taking a lease from Thielen, were necessarily subject to any action the court might take in the original foreclosure proceedings at any time within the three-year period, on petition filed under section 19.
+The decree originally entered in the foreclosure proceedings, not being final or conclusive until after the expiration of the three years, such rights as were acquired under it before that period of three years expired are not entitled to protection.. Any parties who acquired an interest during that period were not entitled to be made parties to any petition filed within the three years seeking the revision of the decree, nor to notice of the filing of such petition. Southern Bank of St. Louis v. Humphreys, 47 Ill. 227; Martin v. Gilmore, 72 Ill. 193.
+In the case at bar, Mrs. Williamson filed her petition under section 19 and, as a result, the original foreclosure decree was vacated and the master’s sale to Thielen was nullified. This resulted in the defendant Soper losing all right he had under his lease, and from the time the final decree was entered on Mrs. Williamson’s petition, she became entitled to possession of the property. The defendant Soper must be presumed to know the law and when he took his lease he must be held to have done so with knowledge of the fact that it was subject to be nullified and rendered of no effect, if the decree on which it was based was set aside at any time .within the three-year period. It might be added that it appears from the evidence in this case that before the defendant entered into this lease he had one or two conversations with Mrs. Williamson and her son and he asked her if she would give him a lease and she said she would not and he then intimated that he intended to sign the lease Thielen was offering him, and Mrs. Williamson told him not tó do it for she proposed to redeem the property, which would make a lease with Thielen of no value. It would therefore seem that in addition to the knowledge which the law presumes the defendant had, he had actual knowledge of the situation before he entered into this lease.
+We find no error in the record and, therefore, the judgment of the municipal court is affirmed.
+Judgment affirmed.
+Taylor and O’Connor, JJ., concur.
