@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-05-24"
+citations: ["70 Ill. App. 245"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Northwestern Iron & Metal Co. v. The National Bank of Illinois."]
+source_url: "https://static.case.law/ill-app/70/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5252780
+cites_cases: ["42 Ill. 238", "56 N. W. Rep. 123", "84 N. C. 30"]
+---
+
+# Northwestern Iron & Metal Co. v. National Bank
+
+## Majority (Mr. Justice Waterman)
+
+Mr. Justice Waterman
+delivered the opinion of the Court.
+Where a payee, to whom a check is delivered by the drawer, receives it in the place where the bank on which it is drawn is located, he may preserve recourse against the drawer by presenting it for payment at any time before the close of banking hours on the next day, and if in the meantime the bank fails, the loss will be the drawer’s; and in this respect there is no distinction between the certified and an uncertified cheek. Bickford v. First Nat. Bank, 42 Ill. 238; Daniel on negotiable Instruments, 4th Ed., Vol. 2, Sec. 1590; Tiedeman on Commercial Paper, Sec. 443; Thompson on Bills of Exchange, p. 119; Story’s Bills of Exchange, 4th Ed., Sec. 471; Parsons on Notes and Bills, Vol. 1, p. 466,477.
+This is not disputed by appellant. What it contends is, that to this rule there is an exception, namely : That if the holder of the check has good ground for knowing that the bank upon which it is drawn is in a precarious condition, and likely to fail, he is bound to present the check at once.
+The importance of the contention of appellant is manifest, for it in effect is, that the holder of a check can not rely upon the rule that he has during the banking hours of the next day after its reception within which to present the check for payment, but that it is a question of fact to be submitted to a jury, whether, on account of some knowledge or notice that came to him, he was not bound to present the check for payment at once, and by a failure so to do, has lost his recourse against the drawer.
+The question is not here presented for the first time. In Schofield v. Hananer, 9 Heisk. (Tenn.), 171, the trial court had instructed the jury substantially in accordance with the contention of appellant in the present case. On account of such instruction the judgment of the lower court was reversed, the Supreme Court saying that the drawer of a check issues it with the implied understanding that it need not be presented for payment except within the business hours of the next day after its issuance,.and the holder takes it with the same understanding. That during this time, therefore, no laohes can be imputed to the holder unless he received it with a different contract.
+In Story on Bills of Exchange, 4th Ed., Sec. 471, the rule in respect to inland bills of exchange (checks) drawn in a town or city on a drawee in the same town or city, and payable to a third person, or his order on demand, is stated to be that in no case is it indispensable that the payee or other holder lay aside all other business to make a demand of payment on the day on which he receives the bill, any more than it is for the holder to give notice of the dishonor of a bill on the day of its dishonor, to the other parties liable. Our attention has been called to no case in which there has been a holding in accordance with the contention of appellant. There is, in Bank v. Alexander, 84 N. C. 30, in the opinion of the court, a remark as if the court were of the opinion that if the holder of a check has reasonable ground for thinking the bank upon which it is drawn unsafe, he should present the check for payment at once, but there was no such holding, nor even a declaration of opinion that such is the law.
+The remark in Morse on Banks and Banking, Vol. 2, 421, has for its support merely the remark made in Bank v. Alexander, 84 N. C. 30.
+The case of Finch v. Karste, 56 N. W. Rep. 123, cited by appellant is that of the obligation of a party to whom the draft was forwarded for collection, in which the party, occupying a fiduciary relation to the plaintiff, proceeded to secure its own claim against the drawee before presenting for payment the draft it held for collection.
+There was no evidence tending to show that appellee has received payment of this check from Schaffner & Company; on the contrary, it appears that Schaffner & Company, at the time of their failure, were indebted to appellee in the sum of about $100,000 more than the entire value of all appellee has received, and of all the security it holds; nor does it appear that appellant has suffered any loss from the failure of appellee to give notice at once of the non-payment of the check, while notice was given in time to enable appellee to file its claim against the insolvent firm of Schaffner & Company.
+Appellant, for its own purposes, instead of presenting its check to Schaffner & Company for payment, had them certify it, and then gave it to appellee in payment of its, appellant’s, obligation. When appellant did this, it knew that appellee had all of the business hours of the next day within whieh to present such check to Schaffner & Company for payment. It did not leave the check with appellee in trust to collect and hold the proceeds thereof for its, appellant’s, use, but left the same in payment of its obligations, knowing that if Schaffner & Company failed before the close of business on the next day, and before said check had been presented for payment, there would have been no payment of its, appellant’s, obligation, and that it would be bound to respond to appellee for the amount of the check.
+We express no opinion upon the question whether appellee had reasonable ground to apprehend the failure of Schaffner & Company, as we think it important that a decision should be made upon the contention of appellant that the holder of a check must present it for payment at once, or run the risk of having to submit to a jury the question of whether he had not such notice of the financial insecurity of" the drawee as charged him with the duty of hastening with all speed to secure payment.
+The judgment of the Superior Court is affirmed.
