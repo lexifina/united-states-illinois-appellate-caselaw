@@ -1,0 +1,70 @@
+---
+court: "Illinois Appellate Court"
+docket: "58104"
+decided: "1974-02-22"
+citations: ["18 Ill. App. 3d 133"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Elmore Jordan, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/18/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610690
+cites_cases: ["1 Ill.App.3d 197", "100 Ill.App.2d 473", "130 Ill.App.2d 192", "136 N.E.2d 817", "241 N.E.2d 579", "264 N.E.2d 589", "272 N.E.2d 296", "275 N.E.2d 356", "288 N.E.2d 478", "289 N.E.2d 269", "303 N.E.2d 377", "49 Ill.2d 416", "52 Ill.2d 432", "55 Ill.2d 337", "7 Ill.App.3d 1012", "9 Ill.2d 92"]
+---
+
+# People v. Jordan
+
+## Majority (Mr. PRESIDING JUSTICE SULLIVAN)
+
+Mr. PRESIDING JUSTICE SULLIVAN
+delivered the opinion of the court:
+After a jury trial, defendant was found guilty of rape and armed robbery and sentenced to a term of 20 to 60 years for rape and 10 to 30 years for armed robbery, tire sentences to run concurrently.
+On appeal defendant contends that he was denied a fair trial by the introduction into evidence of testimony that defendant committed unrelated rapes and other misconduct, that he was deprived of due process when tire prosecution filed a false answer to defendant’s discovery motion, that he was denied a fair sentencing hearing, and that his sentence was excessive.
+At trial, Leona Franklin, the complaining witness, testified that at approximately 2:15 P.M., on February 3, 1971, she was at home, when she saw a man, later identified as defendant, with a scarf covering his face, standing in the doorway of her living room, holding a knife to her daughter’s throat. After threatening to kill the child, he grabbed Mrs. Franklin by the neck and then held the knife to her neck. He then forced her into the kitchen. He took twelve or thirteen dollars from her. He tied the hands of each and, after blindfolding, her, he forced her into the bedroom where he raped her. During intercourse, the blindfold slipped off, allowing her to see defendant, who had removed the scarf covering his face. Defendant said, "You saw my face, turn over, I’m going to tie you back up again.” A two minute struggle ensued, during which she observed defendant’s face from a distance of eight to ten inches. The bedroom drapes were open, and light was coming into the room through the window which was at the head of the bed. She escaped to the kitchen where she again observed defendant, this time from approximately ten feet while he was getting dressed. She called the police and gave them a description.
+On February 19, 1971, she recognized defendant as she walked by him on the street. When she asked a passerby to call the police, defendant ran away. He had a scar on the left side of his face. On June 4, 1971, she noticed a squad car parked in front of her house and observed defendant sitting in the back seat. She said, “That is him”; whereupon, defendant jumped out and ran. Later that day she went to the police station and identified defendant in a lineup. Subsequently, she saw defendant twice at her back yard fence, and on each occasion he made faces at her, rolled his eyes and started laughing.
+Charles Brown, a police officer, testified that on June 4, 1971, he and his partner were working on a “rape crime pattern” and pursuant to a description they arrested defendant. While transporting the defendant to the police station, he decided to stop at the home of “one of the victims” to notify her to come to the station to view a lineup.
+Defendant testified that he was never in the complaining witness’ house and that he could not recall his whereabouts on February 3, 1971. On cross-examination, he denied telling the police that he worked at Switchcraft on February 3, 1971.
+Officer Brown, recalled in rebuttal, testified he was present while defendant was being questioned and he heard him say that he was at work at Switchcraft on February 3, 1971. He prepared a police report but did not include any reference to defendant’s statement that he was at work at the time of the alleged offense.
+A stipulation was entered that if Dr. Weinberg were called to testify, he would testify that an examination of the complaining witness on February 3, 1971, disclosed large amounts of spermatozoa.
+Prior to trial, both the prosecution and the defense filed motions for discovery. Defendant’s motion requested the production of any written or oral statements made by him. The prosecution answered that defendant had made no statements.
+OPINION
+I.
+Defendant’s first contention on appeal is that prejudicial evidence was admitted at trial which implied that he was connected with other crimes.
+He argues that Officer Brown’s testimony that he was working on a rape crime pattern, and that after the arrest he stopped at the home of one of the victims, was evidence admitted under the guise of showing an arrest which implied that defendant allegedly committed a number of rapes. It is his contention that such testimony was sufficiently prejudicial to constitute reversible error. Defendant further points out that the subject of the rape crime pattern was first brought out during the motions to suppress the identification and to quash the arrest so that the State knew Officer Brown would reply that “we were working on a rape crime pattern” when asked, “At that time did you have any specific assignment that you were working on?”
+The State contends that this testimony, taken as a whole, had a high probative value tending to show the arrest of defendant pursuant to an accurate description furnished by the complaining witness and that the crime pattern statement in no way implicates defendant in any offense other than that for which he was on trial.
+The general rule is that evidence of the commission of other crimes by an accused is inadmissible unless it is relevant to establish identity, intent, knowledge, motive, a common scheme or design or a fact material to the issue on trial. (People v. Scott, 100 Ill.App.2d 473, 478, 241 N.E.2d 579.) Although the State argues that Officer Browns testimony as to the “rape crime pattern” was important to show that the arrest of defendant was made pursuant to the complaining witness’ description, we are of the opinion that the statements made by Officer Brown do not fall within any of the recognized exceptions to the rule excluding evidence of other crimes.
+Although defendant argues this testimony may have induced the jurors to believe that defendant had been involved in other crimes, the ultimate question we must decide is whether this testimony so prejudiced the rights of defendant that he did not receive a fair trial.
+Here defendant claims he was never in the complaining witness’ apartment, making it necessary for the State to prove all the elements of the crime beyond a reasonable doubt. It appears clear that defendant was viewed by the complaining witness (1) for two minutes during the occurrence, under good lighting conditions; (2) as she walked by him on the street; (3) in front of her apartment while he was sitting in the squad car; and (4) at the lineup. In addition, she gave an accurate and detailed description which aided the police in arresting the defendant. When the competent evidence shows beyond all reasonable doubt that a defendant is guilty, an error in the admission of the evidence of other offenses does not call for reversal, when as here the jury could not have reasonably found the defendant not guilty. People v. Allen, 1 Ill.App.3d 197, 272 N.E.2d 296.
+Defendant further argues that the trial court erred in admitting testimony that he made faces, rolled his eyes, and laughed at the complaining witness subsequent to his arrest. He contends that this evidence had little, if any, probative value and thus was highly prejudicial to his case. Although it may have been error to admit this testimony, we believe its admission was harmless error in view of the overwhelming evidence of guilt. People v. Scott, 52 Ill.2d 432, 288 N.E.2d 478.
+II.
+Defendant next contends he was deprived of due process and of his right against self-incrimination when the State filed false answer to his discovery motion which requested, among other things, any written or recorded statements and the substance of any oral statements made by the accused. The State answered that no statements were made by the accused. Prior thereto, in response to the State’s motion for discovery, defendant had answered that he would assert an alibi defense.
+At trial, the defendant stated that he was never in the complaining witness’ apartment and that he could not recall where he was on February 3, 1971, the date of the alleged raped. On cross-examination, he stated that he was not employed on that date and that he did not tell the police that he worked at Switchcraft on February 3, 1971.
+Officer Brown testified, in rebuttal, that he was present during the questioning of the defendant and the record discloses that the following colloquy took place:
+“PROSECUTOR: Was the defendant asked as to his whereabouts on February 3rd of 1971?
+WITNESS: Yes, he was.
+PROSECUTOR: Did he give a reply?
+WITNESS: Yes.
+PROSECUTOR: Would you indicate to the ladies and gentlemen of the jury what he stated?
+WITNESS: He stated that at that time—He says, ‘Oh, I was at work.’
+PROSECUTOR: Did he indicate where he worked?
+WITNESS: Yes. He stated ‘Switchcraft.’
+PROSECUTOR: Did he state whether he worked there on February 3rd or not?
+WITNESS: He stated that at the time he allegedly was accused of doing something, he was at work. He says, ‘I was at work at that time.’
+PROSECUTOR: What hours did the defendant work? What hours did the defendant say he worked?
+MR. WHITNEY (Defense Counsel): Objection, Judge. I think there was no question that he asked him what hours he worked.
+THE COURT: The objection is sustained. Unless you can further bring it out in further conversation, stick with this point now.
+PROSECUTOR: Did the defendant say anything about the hours he worked or what hours he worked?
+WITNESS: No, he didn’t give us his hours.”
+On cross-examination, Officer Brown admitted that he had prepared a police report, but that he did not include defendant’s statement that he had been at work at the time of the alleged rape.
+Defendant urges that the State’s conduct was highly prejudicial and constituted a violation of due process.
+The State contends that it was not shown that the statement was intentionally withheld and that defendant waived this issue by not objecting at trial and by not raising tire issue in his motion for a new trial. In People v. Killebrew, 55 Ill.2d 337, 341, 303 N.E.2d 377, the court stated:
+“‘Objections to evidence may be waived by failure to interpose proper objections in apt time, even though based upon constitutional grounds.
+A ground of objection not presented in the trial court will ordinarily not be considered on review. People v. Canaday, 49 Ill.2d 416, 275 N.E.2d 356.
+In the case at bar, defendant objected only to a question asked of Officer Brown which concerned defendant’s hours of work, and as ground therefor defendant’s attorney stated, “I think there was no question that he asked him what hours he worked.” No objections were made to any other questions asked of Brown, including those concerning defendant’s statement that he was working at Switchcraft, nor was any motion made to strike the testimony given. Objections to evidence may be waived by failure to interpose proper objections in apt time even though based upon constitutional grounds. (People v. Trefonas, 9 Ill.2d 92, 136 N.E.2d 817.) The rationale for this rule is found in the need for resolution of evidentiary questions at the time of trial. It is significant here that defendant does not raise a reasonable doubt argument, and that the statement was used in rebuttal. Neither does defendant contend the State (1) knew it would be his testimony that he did not know where he was on the day of the offense; or (2) that he had made the statement to Brown. Under these circumstances, we believe that the statement was not plain error which affected defendant’s substantial rights. People v. Killebrew, supra.
+III.
+Defendant finally maintains he was denied a fair sentencing hearing, and that his 20-to-60-year sentence for rape is excessive. We believe that testimony of a preliminary offer by tire State of a lesser sentence was properly refused by the trial court and, from our further examination of the record, we are of the opinion that a proper hearing in aggravation and mitigation was conducted. It does not appear that the trial judge was aware of any plea bargaining offer by the State, so that any disparity between the alleged offer and the sentence imposed could not, as contended by defendant, be an indication of punishment for taking a jury trial. People v. Blakely, 7 Ill.App.3d 1012, 289 N.E.2d 269, cited by defendant, stands for the principle that, under the circumstances there, the imposition of three consecutive rather than concurrent sentences was an abuse of discretion. Here concurrent sentences were imposed.
+The imposition of a sentence is peculiarly within the discretion of the trial court, and unless clearly abused a reviewing court will not interfere therewith. (People v. Williams, 130 Ill.App.2d 192, 199, 264 N.E.2d 589.) In the instant case, defendant raped and robbed the complaining witness in her apartment. In addition, he held a knife to the throat of the young daughter and threatened to kill her, and then grabbed the complaining witness and held a knife to her neck before committing the crimes. Considering the violent nature of these offenses, we are unable to say that the trial court clearly abused its discretion in sentencing the defendant to a term of 20 to 60 years for rape.
+For the reasons stated, the judgment of the trial court is affirmed.
+Affirmed.
+DRUCKER and LORENZ, JJ., concur.
