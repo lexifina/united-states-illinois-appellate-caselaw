@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 11,262"
+decided: "1959-06-24"
+citations: ["22 Ill. App. 2d 126"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SPIVEY, P. J. and DOVE, J., concur."]
+parties: ["Leo Jankoviak, Plaintiff-Appellee, v. John F. Butcher, Chicago City Bank and Trust Company, a Banking Corporation, as Trustee, Talman Federal Savings and Loan Association, and Janet E. Butcher, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/22/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5201654
+cites_cases: ["102 A. L. R. 356", "165 Ill. App. 35", "176 N. E. 154", "186 Ill. App. 330", "190 Ill. App. 234", "196 S. W. 284", "227 Ill. App. 383", "246 Ill. App. 86", "251 Ill. 135", "251 Ill. 402", "95 Ind. App. 506"]
+---
+
+# Jankoviak v. Butcher
+
+## Majority (JUSTICE MoNEAL)
+
+JUSTICE MoNEAL
+delivered the opinion of the court.
+This is an appeal from a decree foreclosing a mechanic’s lien.
+About August 9, 1954, plaintiff, Leo Jankoviak arranged to erect a number of prefabricated homes for the defendant, John F. Butcher. Seven homes were to be erected upon seven different lots. Legal title to the lots was in the defendant Chicago City Bank and Trust Company as trustee for John F. Butcher and his wife, Janet E. Butcher. The defendant Taiman Federal Savings and Loan Association made construction loans for the erection of the homes. Seven separate written contracts for the erection of the homes were entered into by the plaintiff, Leo Jankoviak, and defendant John F. Butcher, and each contract contained the following provisions:
+“2. The owner agrees to pay for the aforesaid labor and material in the following manner: 60% of the contract price when the home is delivered and erected on the concrete slab and the entire balance upon final inspection and the approval thereof by Taiman Federal Savings and Loan Association of Chicago.
+“3. The contractor does hereby waive his rights under the Mechanics’ Lien Act to a mechanic’s lien for labor and material to be furnished hereunder and agrees that no lien claim may be filed or maintained by him.”
+After plaintiff had erected several homes, various disputes arose between the parties and as a result defendant Butcher refused to make any further payments to the plaintiff. The plaintiff ceased work and filed this suit to foreclose a mechanic’s lien. Defendants contended that the plaintiff had expressly waived his right to enforce a mechanic’s lien by virtue of the provision in the written contracts. This contention was rejected and after several hearings before the master in chancery, the Circuit Court entered a decree foreclosing the mechanic’s lien. This appeal followed.
+Although a number of questions are raised, the decisive question appears to be whether the plaintiff waived his right to enforce a mechanic’s lien by virtue of the above provisions in the contracts.
+The statute on mechanics’ liens expressly contemplates that a contractor may waive the right to enforce a mechanic’s lien. Section 21, Chapter 82, Ill. Rev. Stat., 1957, provides:
+“If the legal effect of any contract between the owner and contractor is that no lien or claim may be filed or maintained by anyone, such provision shall be binding . . .”
+A number of decisions have been called to our attention which hold that if a contractor waives his right to a mechanic’s lien, such waiver is effective despite the subsequent breach of the contract by the owner. Dux v. Rumsey, 190 Ill. App. 234, involved a contract entered into between a sub-contractor and the original contractor, and in Section 8 of that contract the subcontractor expressly waived all right to any liens for labor or material. The original contractor became bankrupt and the sub-contractor sought to enforce a mechanic’s lien. The sub-contractor contended that the waiver was effective only on condition that the sub-contractor was paid in full. The Circuit Court sustained a demurrer to the petition to enforce the lien and dismissed the petition for want of equity. On appeal this Court affirmed the decree and said on page 236:
+“When parties insert into a carefully prepared contract between them provisions like section 8 of this subcontract, a reasonable interpretation of the contract requires the courts to presume that some purpose was intended to be accomplished by such provision. If the construction contended for by the subcontractor here is sustained, it makes the subcontract mean that the subcontractor waives his lien in case he is paid in full. The law gives him no lien if he is paid in full. Therefore the proposed construction deprives section 8 of said contract of all meaning and leaves the contract as it would be if that section had never been written into it. We are of the opinion that the intention of the parties in inserting the eighth section was to absolutely waive any lien in behalf of the subcontractor.”
+Other cases holding that a written lien waiver is effective despite the fact that the owner breaches the contract are: H. G. Wolff Co. v. Gwynne, 246 Ill. App. 86, 91; Herman H. Hettler Lumber Co. v. Hodge, 227 Ill. App. 383, 386; Dupuis v. Snook, 186 Ill. App. 330, 332; and Elgin J. & E. Ry. Co. v. Northwestern Nat’l Bank of Chicago, 165 Ill. App. 35, 43. See also Kelly v. Johnson, 251 Ill. 135, 138, and Cameron-Schroth-Cameron Co. v. Geseke, 251 Ill. 402, 404. The foregoing cases appear to be based upon sound reasoning, i. e. a mechanic’s lien can be obtained only if there is a breach of contract and if, as plaintiff contends in this case, a breach of contract nullifies a written waiver of lien, then there would he no way to effectively waive the right to a mechanic’s lien. In effect plaintiff contends that a contractor cannot waive his right to a lien. We are unable to agree with this contention.
+The rule in Illinois is the rule which is followed generally. 57 C. J. S. 795-6, Mechanics’ Liens Sec. 224; 36 Am. Jur. 147, Mechanics’ Liens Sec. 230, 231; 102 A. L. R. 356. A number of decisions from other jurisdictions are in harmony with the rule in Illinois. In Hammond Hotel & Improvement Co. v. Williams, 95 Ind. App. 506, 176 N. E. 154, the contractor expressly waived all right to a lien. Subsequently the contractor brought suit to foreclose his lien and the lower court ruled that the contractor was not bound by his waiver because the owner had breached the contract. The Appellate Court reversed the lower court, holding that a lien once waived could not be revived without the express consent of both parties. The Court said, page 159 of the Reporter:
+“The law gives a lien when there is a failure to pay, and if the contractor waives his lien, then it must follow that it is waived in the event there is a failure on the part of the owner to make the payment.”
+In Collinsville Mfg. Co. v. Street (Tex.), 196 S. W. 284, the subcontractor expressly waived all liens but subsequently the subcontractor brought a suit to foreclose its lien against the owner after the original contractor became bankrupt. The subcontractor contended, as is contended in the instant case, that it had a right to rescind the contract and recover on a quantum meruit, but this contention was rejected. The Court of Appeals held that no lien arose at the time the work was done and the material was furnished because the lien had been waived, and that once a lien is waived it cannot be revived.
+In view of the foregoing authorities it is our conclusion that the Circuit Court erred in entering a decree foreclosing the mechanic’s lien. This conclusion makes it unnecessary to pass upon the other points raised. The decree of the Circuit Court of Will County is reversed.
+Decree reversed.
+SPIVEY, P. J. and DOVE, J., concur.
