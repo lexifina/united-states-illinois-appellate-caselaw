@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "81-217"
+decided: "1981-12-07"
+citations: ["102 Ill. App. 3d 93"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AUTO-OWNERS INSURANCE COMPANY, Plaintiff-Appellant, v. FRANK CORRIE et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/102/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3079213
+cites_cases: ["100 Ill. App. 3d 33", "389 N.E.2d 668", "421 N.E.2d 562", "424 N.E.2d 1316", "48 A.L.R.3d 1096", "71 Ill. App. 3d 217", "96 Ill. App. 3d 207"]
+---
+
+# Auto-Owners Insurance v. Corrie
+
+## Majority (JUSTICE STOUDER)
+
+JUSTICE STOUDER
+delivered the opinion of the court:
+This declaratory judgment action was brought by plaintiff, Auto-Owners Insurance Company, in order to determine the obligation of the defendant, Pekin Insurance Company, to provide coverage and assume the defense of its insureds, defendants Frank and Ann Corrie, under a homeowners insurance policy. The circuit court of La Salle County found that Auto-Owners was obligated to provide coverage and a defense for the Corries and that Pekin was not so obligated.
+On January 23, 1978, defendant, Rosemary Gregory, fell on an allegedly snow- and ice-covered public sidewalk adjacent to the east side of the Handy Wash Self Service Laundry in Ottawa, Illinois. At the time, Mrs. Gregory was a business invitee upon the premises. Subsequent to the accident Mrs. Gregory filed a law suit to recover damages for the personal injuries she had allegedly suffered.
+The laundromat building houses not only a laundromat but an apartment located on its west side. At the time of the accident, defendants, Frank and Ann Corrie, resided at this apartment rent-free in return for acting as managers and operators of the laundromat. The Corries were employed in this capacity by Dennis Connors, the owner of both the laundromat and the apartment.
+The trial court concluded in its specific findings of fact that the removal of ice and snow from the sidewalk where the underlying tort had allegedly occurred was accomplished by the hiring of neighborhood boys or a neighbor with a small tractor who were paid by the owner Dennis Connors. In those instances where others were not hired, the Corries removed the snow and they too were paid for their services by the owner. In addition, the court found that the primary reason for the removal of snow and ice from the sidewalk was to facilitate entry into the laundromat. The use of a portion of the walk for access to the Corries’ private residence was incidental to its primary use as an entryway to the laundromat.
+Count I of Mrs. Gregory’s complaint alleged that she fell on an unnatural accumulation of snow and ice due to several negligent acts or omissions of Frank and Ann Corrie in their capacity as managers and operators of the laundromat. In count 2, Mrs. Gregory sought damages from the owner of the laundromat, Mr. Connors, on a respondeat superior theory. She alleged that Mr. Connors was liable because of the negligent acts or omissions of his agents, employees or servants, Frank and Ann Corrie.
+Dennis Connors was insured under a business liability policy with plaintiff, Auto-Owners Insurance Company, covering the Handy Wash Laundromat. Frank and Ann Corrie were insured with defendant, Pekin Insurance Company, under a homeowners insurance policy providing coverage for their apartment.
+Auto-Owners assumed the defense of all defendants in the personal injury case. Pekin has consistently denied coverage. Auto-Owners began this declaratory judgment action seeking to require Pekin to provide coverage and assume the defense of the Corries.
+On April 10,1981, the trial court ruled that the plaintiff, Auto-Owners Insurance Company, was obligated to defend Frank and Ann Corrie and to pay any judgment rendered against them in the underlying personal injury suit. The court further found that Pekin Insurance Company owed no duty to the Corries either to defend or indemnify them for any judgment rendered against them.
+The following issues have been presented for review: (1) Whether the trial court’s findings of fact are against the manifest weight of the evidence; and (2) whether the snow and ice removal activities of the Corries fall within the “business pursuits” exclusion of their homeowners insurance policy.
+Any conflict in the testimony at trial was resolved by the circuit court in its detailed findings of fact. After reviewing the record, we see no justification in reweighing the evidence and concluding otherwise. The trial court’s findings of fact are not without support, and, therefore, they are not against the manifest weight of the evidence. Ideal Plumbing Co. v. Shevlin-Manning, Inc. (1981), 96 Ill. App. 3d 207, 421 N.E.2d 562.
+Pekin’s denial of coverage is premised upon an exclusion in its homeowner’s policy which states that the policy will not apply to bodily injury or property damage arising out of business pursuits except for those activities which are ordinarily incident to nonbusiness pursuits.
+This type of exclusion was the subject of litigation in State Farm Fire & Casualty Co. v. Stinnett (1979), 71 Ill. App. 3d 217, 389 N.E.2d 668. In that case, the court found a farmer’s activity of mowing roadside weeds to be a business pursuit and not ordinarily incident to a nonbusiness pursuit. Therefore, the injuries resulting from that activity were excluded from coverage under his homeowners insurance policy. Mowing roadside weeds to prevent them from spreading into the fields was a firmly established business activity in the area, and the fact that this activity resulted in an aesthetic benefit to the farm did not transform it into an activity ordinarily related to a nonbusiness pursuit.
+As to what activity constitutes a business pursuit, it appears as if a majority of the courts have taken a restrictive view, stating that a business pursuit denotes a regular or continuous activity for the purpose of earning a livelihood. A minority of the courts have taken a broader view, indicating that a business pursuit includes every activity which is profit motivated. Annot., 48 A.L.R.3d 1096 (1973).
+The activity at issue in this case was a business pursuit in that the Corries’ laundromat management duties were continuous and for the purpose of providing at least a portion of their livelihood. As a part of their responsibilities they sometimes saw that accumulations of snow and ice were removed from the sidewalk fronting the entryways of the laundromat. Simply because this activity facilitated entry into their apartment does not mean it was an activity ordinarily related to a nonbusiness pursuit. In order for that to be the case, the primary reasoning behind the activity would have to be completely personal and not related in any way to earning a living. However, the fact is that the Corries’ were paid whenever they removed snow or ice from the sidewalks surrounding the laundromat and they never would have been involved in this activity had they not been managers and operators of the laundromat.
+One subsidiary issue need be only briefly discussed. When an action is filed against an insured and coverage is a possibility, however, not necessarily a certainty, the insurance company has two alternatives. It can either defend under a reservation of rights or seek a determination of its rights by filing a declaratory judgment action. Ayres v. Bituminous Insurance Co. (1981), 100 Ill. App. 3d 33, 424 N.E.2d 1316.
+A declaratory judgment action was filed in this case and therefore any requirement Pekin may have had to defend was satisfied. It is of no legal significance that Auto-Owners instituted this declaratory judgment action. The significance lies in the existence of the action itself and not in who initiated it. Ayres v. Bituminous Insurance Co. (1981), 100 Ill. App. 3d 33, 424 N.E.2d 1316.
+For the foregoing reasons the judgment of the circuit court of La Salle County is affirmed.
+Affirmed.
+ALLOY and BARRY, JJ., concur.
