@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-374"
+decided: "1977-09-21"
+citations: ["53 Ill. App. 3d 72"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KENNETH HANES, Plaintiff-Appellant, v. ORR & ASSOCIATES et al., Defendants.—(LaGRANGE STEEL ERECTORS, INC., a/k/a LaGRANGE CRANE RENTAL et al., Defendant-Third-Party Plaintiff-Counterdefendant-Appellee; CARL W. LINDER CO., Defendant-Third-Party Plaintiff-Counterplaintiff-Appellant; H. H. ROBERTSON CO. et al., Third-Party Defendants.)"]
+source_url: "https://static.case.law/ill-app-3d/53/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3394713
+cites_cases: ["226 N.E.2d 6", "37 Ill. 2d 180"]
+---
+
+# Hanes v. Orr & Associates
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court:
+This is an appeal from an award of summary judgment in favor of defendant-counterdefendant, LaGrange Steel Erectors, Inc. a/k/a La Grange Crane Rental, and against defendant-counterplaintiff, Carl W. Linder Company. The same summary judgment ran in favor of La Grange and two of its officers, Thomas and John Mooncotch, and against the plaintiff, Kenneth Hanes. Both the plaintiff and Linder appeal from the award of summary judgment.
+On July 12,1972, Linder, together with other contractors, was engaged in erecting a postal facility in Forest Park, Illinois. Waldeck Corporation was a subcontractor engaged in steel erection and was plaintiff’s employer. Waldeck rented a crane and an operator from La Grange in the course of construction. The crane was operated by Wilfred Hish, an employee of La Grange. During the operation of the crane, plaintiff was injured. Hish was made party defendant on July 5, 1974, and on May 4, 1976, several months after entry of summary judgment in favor of Linder, an appearance on his behalf was filed by counsel not previously of record in the case.
+On December 18, 1975, the trial court granted summary judgment in favor of LaGrange on the basis that it had surrendered full control over Hish, the loaned employee. Plaintiff and Linder maintain that there was a genuine issue of material fact as to whether LaGrange had resigned full control of the employee. They also make the threshold contention that the trial court abused its discretion in refusing to stay the summary judgment proceeding until plaintiff’s counsel could take the discovery deposition of Hish. Since we believe the threshold question to be dispositive of this appeal, we shall confine ourselves to a discussion of that issue.
+On July 11, 1975, LaGrange filed its motion for summary judgment. The motion was accompanied by a short affidavit from Hish and one from Thomas Mooncotch. On October 2, 1975, Linder filed material in opposition to the motion for summary judgment. On October 3, 1975, plaintiff, without a counteraffidavit, filed a response to LaGrange’s motion for summary judgment. On October 10, 1975, the matter came up for a hearing and Linder’s counsel requested an extension to file plaintiff’s deposition in additional support of objections to summary judgment. The motion for summary judgment was continued until November 14, 1975.
+On October 14, 1975, LaGrange’s counsel received plaintiff’s notice to take the discovery deposition of Hish. LaGrange’s counsel on October 22, 1975, wrote plaintiff’s counsel informing the latter that he would not produce Hish for deposition because he did not wish to incur any further expenses. Plaintiff’s counsel immediately requested the trial court, pursuant to Supreme Court Rule 219(c)(i), to stay the proceedings relative to the pending motion for summary judgment until the deposition of Hish was taken. The motion recited that the crane operator’s deposition was essential to the determination of the issues in the summary judgment proceeding, and it attached the letter from LaGrange’s counsel refusing to produce Hish. The trial court heard arguments on plaintiff’s request to take Hish’s deposition and continued that motion to December 18, 1975, the same date set for the hearing on LaGrange’s motion for summary judgment. On December 18, 1975, the trial court denied the plaintiff’s motion to stay the summary judgment proceedings, and granted LaGrange’s motion for summary judgment against the plaintiff and Linder. As part of the same order, the trial court ruled that plaintiff was entitled to take Hish’s deposition.
+A trial court is vested with broad discretion in ruling on discovery matters, and the exercise of such discretion will not be interfered with on appeal unless there has been a manifest abuse of such discretion. (People ex rel. General Motors Corp v. Bua (1967), 37 Ill. 2d 180, 226 N.E.2d 6.) We believe that in the present case the trial court abused its discretion in proceeding to a determination of the summary judgment without permitting the plaintiff to take the deposition of Hish. The issue of whether Hish, admittedly an employee of LaGrange, became a loaned servant was central to the resolution of the summary judgment. The taking of his deposition in October or November 1975 would not have delayed the disposition of the case and it would have served the ends of justice. The sanction of delay sought by plaintiff under Rule 219 was the least drastic of those permitted, and it was most appropriate that the court should have granted it under the facts and circumstances of this case. Particularly, where the court held that the plaintiff was entitled to take Hish’s deposition but refused to stay the hearings and allowed summary judgment, a manifest abuse of discretion is displayed.
+For the reasons stated, the summary judgment entered by the circuit court of Cook County in favor of LaGrange and against the plaintiff and Linder is reversed. After the defendant Hish’s discovery deposition is submitted, the court is directed to conduct further hearings thereafter on LaGrange’s motion for summary judgment.
+Judgment reversed and cause remanded.
+JIGANTI and McGILLICUDDY, JJ., concur.
