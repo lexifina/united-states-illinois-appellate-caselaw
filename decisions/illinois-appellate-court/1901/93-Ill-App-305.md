@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-19"
+citations: ["93 Ill. App. 305"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John J. Knickerbocker et al., Trustees, etc., v. Emma Benes."]
+source_url: "https://static.case.law/ill-app/93/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5286713
+cites_cases: ["172 Ill. 535", "177 Ill. 68", "86 Ill. App. 846"]
+---
+
+# Knickerbocker v. Benes
+
+## Majority (Me. Justice Hoeton Shepard and Freeman, JJ.:)
+
+Me. Justice Hoeton
+delivered the opinion of the court.
+The appellee was an employe of the receiver appointed in this cause. She was injured while at work in the laundry of the hotel then being managed by the receiver. She at first commenced a suit at common law against the receiver to recover damages for such injury. Afterward and on the 27th day of March, 1895, she filed an intervening petition in this case attaching thereto a copy of the declaration in her common law suit and praying in the alternative, in substance, that no distribution or disposition of the effects in the hands of the receiver be made, until her claim was adjudicated and paid, or that in this case her claim be adjudicated and ordered paid.
+To said intervening petition the receiver filed his answer denying liability, and among other things, that the assets at one time in the hands of the receiver had passed from his control to the appellants.
+November 17, 1898, a supplemental intervening petition was filed by appellee by leave of the court, wherein the appellants were made respondents together with the receiver, and praying that the question as to the claim of appellee be referred to a master in chancery to ascertain and report the amount thereof and that the appellants be ordered to pay the same.
+To said supplemental petition the receiver filed his answer, in substance denying the right of appellee to the relief prayed in her supplemental intervening petition. The appellants also filed their separate answer to said supplemental intervening petition, denying the right of the appellee to the relief thereby prayed, and also filed their plea setting up the statute of limitations. That plea was by order of the court overruled, but without prejudice to the right of the pleader to raise the same questions on final hearing!
+The issues thus presented were referred to a master in chancery to take proofs and report the same with his conclusions. The master subsequently reported, fixing the amount of the damages due to appellee at the sum of $4.500, and recommending that the same be ordered paid. That report was confirmed by order of the court and a decree entered that the appellants as proprietors pay to appellee or to her solicitor said sum of $4,500, and declared the same to be a lien upon the property in the hands of said appellants as such trustees. To reverse that decree this appeal is prosecuted by the trustees aforesaid.
+The facts in this case, except as here stated, will be found in Knickerbocker et al. v. The McKinley Coal Co. et al., 172 Ill. 535, and Knickerbocker et al. v. Crosby, 86 Ill. App. 846. It is unnecessary to here repeat the facts as there presented.
+Most of the questions presented to this court by counsel in the case at bar have been considered and passed upon in the cases referred to, and we shall not attempt to review them at length.
+It is contended by counsel for appellants that the right of action, as to them, was barred by the statute of limitations at the time of the filing by appellee of her supplemental intervening petition. That contention can not be sustained. The decree is that appellants as trustees should pay the amount found due to appellee. It was held by the Supreme Court in the case in 172 Ill., above referred to, that the sale of the hotel property upon which the decree in question in favor, of appellee was made a lien, and at which sale the appellants became the purchasers, operated only as a payment by the appellants of the pre-existing lien upon said property. By the opinions in the cases mentioned, it is in effect determined that the property which came to the hands of the appellants as trustees, formed a part of the estate, out of which the expenses of the administration by the receiver should be satisfied and paid.
+Damages to persons occasioned by the negligence of the receiver’s servants are a part of the operating expenses in the management of said hotel. Bartlett v. Cicero Light Co., 177 Ill. 68. The claim of appellee, therefore, is to be treated as a part of the operating expenses of the receiver in the management .of said hotel. The proceeding under said intervening petition and the supplement thereto are in the nature of proceeding in rem against the property within the jurisdiction and control of the court in this cause, and the appellants are made parties, not as an independent and original proceeding, but rather as the representatives or holders of the property, out of which the appellee claims the right to have her decree satisfied. As against such a proceeding against the appellants the statute of limitations does not apply. The appellants are not new parties in the sense that that term is used in the statute of limitations. In equity the claim of appellee was in effect a lien upon said property, and the appellants having come into possession thereof, are certainly proper, if not necessary parties, but they are not entitled to plead the statute of limitations. The appellee commenced her original proceeding within the statutory limit. The property and funds had not been exhausted and paid out prior to the fling of the intervening petition by appellee without reserving a lien thereon for receivership expenses as contended by appellants.
+Counsel for appellants conclude their brief by urging that the injury to appellee was the result of her own carelessness and negligence, for which neither the receiver nor the appellants is or are liable. This contention is not supported by any reference to the testimony and is only briefly noted. We have read in full the abstract of testimony and are satisfied with the conclusions of the master and the decree of the court upon this question.
+The decree of the Superior Court is affirmed.
+Shepard and Freeman, JJ.:
+Since the foregoing opinion was filed, and in the absence of the writer thereof, our attention has been called to some statements therein relating to the record, which are said to be incorrect, but these do not affect the conclusion, and do not cause us to change our views as to the correctness of the result.
