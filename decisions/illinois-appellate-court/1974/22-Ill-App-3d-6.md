@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+docket: "73-275"
+decided: "1974-09-09"
+citations: ["22 Ill. App. 3d 6"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stanley D. Flowers, Plaintiff-Appellant, v. The Village of Indian Creek, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/22/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2946835
+cites_cases: ["10 Ill.App.3d 317", "125 Ill.App.2d 86", "156 N.E.2d 274", "20 Ill.App.2d 383", "259 N.E.2d 813", "293 N.E.2d 712"]
+---
+
+# Flowers v. Village of Indian Creek
+
+## Majority (Mr. JUSTICE HUNT)
+
+Mr. JUSTICE HUNT
+delivered the opinion of the court:
+This is an appeal from an order of the Circuit Court of Lake County granting a motion to dismiss Count II of a complaint, which count requested a declaratory judgment, and from an order denying a motion for a new trial or to vacate and reconsider said ruling.
+Plaintiff-appellant, Stanley D. Flowers, owned a tract of real estate in the Village of Indian Creek, a community of about 500 population, the defendant-appellee in this proceeding. Flowers sought to use the property for a residence and as a kennel and pet grooming business. It had been previously used as a tin-smithing business. It was now zoned residential.
+In September, 1971, Flowers filed a petition addressed to the Zoning Board of Appeals requesting alternate relief that the ordinance be construed to allow the proposed use, or for a variance amendment to the ordinance, or that a special permit be granted, or that the property be rezoned, and for a permit. According to the complaint he was granted a hearing by the three-man Board of Appeals on October 25, 1971, which recommended to the Village Board of Trustees that the request for rezoning be denied, but that a special use permit be granted. The same day the Board of Trustees denied all requested relief.
+Flowers filed a two-count complaint on November 24, 1971. Count I was under the Administrative Review Act and Count II for a declaratory judgment. The count for administrative review was conventional in form and charged the “said decision is erroneous, illegal and void, since it is contrary to and unsupported by the evidence introduced at the hearing.” No challenge was made concerning the constitutionality of the ordinance per se, or as applied to this property. Count II was for a declaratory judgment asking for a construction of the ordinance as void or unconstitutional as to this property, and in its entirety, or in the alternative a finding that the proposed use was within the ordinance, or for an order directing a rezoning of the property.
+Answers were filed by the Village as to each count, denying the Board of Trustees acted contrary to the evidence, and denying the charges of invalidity or unconstitutionality of the ordinance.
+On June 6, 1972, the parties appeared in court by their respective counsel. Each was prepared to present proof "under Count II and permit the court, without a jury, to take the Count I under advisement with the case and decide all of the issues in the complaint on the record made before the Zoning Board of Appeals and the evidence received in court for a declaratory judgment. After the opening statements the court directed the trial be split. It refused to hear any testimony on the declaratory judgment and took the administrative-review count under advisement, denying plaintiff’s oral motion to dismiss Count I and to proceed on Count II for declaratory judgment. On August 21,1972, the court entered an order denying the relief prayed for in Count I. The order states in part as follows:
+“The decision of the Board of Trustees of Indian Creek denying plaintiff all the relief sought in his petition before the Planning Commission is supported by the evidence * * *.” (Emphasis added.)
+The complaint for administrative review (Count I) was denied and judgment entered for the Village of Indian Creek.
+Thereafter defendant filed a motion to dismiss Count II which was set for hearing January 11, 1973, with briefs to be submitted. On January 3, 1973, on motion of plaintiff, an extension of time was granted for briefs and rule was entered on defendant to produce a copy of the zoning ordinance. On March 20, 1973, the court granted defendant’s motion and Count II of the complaint was dismissed without a hearing. Plaintiff filed a motion to vacate this order which was denied. It is from this order the plaintiff appeals.
+The motion to dismiss Count II, filed without first withdrawing the answer, charged that all of the issues had been, or could have been presented to the court under the administrative-review count, and the decision of the court under that count rendered moot the issues in Count II, and also that the administrative-review proceedings excluded any other form of relief available to the plaintiff.
+On appeal plaintiff claims that the administrative-review count was a nullity because of the language of the ordinance, and therefore the order in Count I could not predispose the issues formed in Count II; that the two forms of relief are not mutually exclusive and are compatible; and that the issues in Count I, and the relief prayed for, are not the same as Count II and there can be no estoppel nor question of res judicata.
+The excerpts of the zoning ordinance in the record include only sections 6.4 — 6.7, and 7 and 8. Section 6.4 defines the duties of the zoning officer. Section 6.5 entitled “Procedures: Conditional Use Permits, Variations and Amendments” in reality authorizes only conditional use permits (6.5 A) and amendments (6.5B). In each instance the action of the Zoning Board is advisory only to the Village Board of Trustees. The Zoning Board makes no “final decisions” under this ordinance. Any modifications as to use, and any amendments must be made by the legislative body, the Village Board.
+Section 6.7, JUDICIAL REVIEW, adopts the Administrative Review Act (Ill. Rev. Stat. 1973, ch. 110, pars. 264 — 279) for: “All final administrative decisions of the Board of Appeals, etc.” It is not indicated whether the Zoning Board referred to in section 6.5 is the same body as the Board of Appeals in section 6.7 or the Planning Commission referred to elsewhere in this record. It is only important that all final decisions are made by the legislative body, the Village Board of Trustees, and the administrative decisions are advisory only.
+Where the final action is taken by the legislative body it is not an administrative decision within the purview of the Administrative Review Act. The filing of a count under the Administrative Review Act procedures here was a nullity and the order purporting to affirm the actions of the Village Board of Indian Creek was void and without jurisdiction. Traders Development Corp. v. Zoning Board (1959), 20 Ill.App.2d 383, 156 N.E.2d 274.
+In Artz v. Commercial National Bank (1970), 125 Ill.App.2d 86, 259 N.E.2d 813, petitioner requested a special use permit which required an act by the Peoria City Council after a hearing and recommendation by the City Planning and Zoning Commission. An appeal was taken from the action of the City Council under the Administrative Review Act. It was dismissed on motion by the trial judge, which was affirmed. The appellate court stated:
+“The Administrative Review Act was created and designed to provide a means and a procedure for judicial review of administrative decisions of administrative agencies. The Act does not provide for judicial review of legislative acts of legislative bodies. While legislative acts can be reached in an appropriate case, e.g., through proceedings for declaratory judgment, such remedy and declaration was not sought in this case. Thus, it is neither for the trial court nor this court to pass on the merits of the allegations of the Plaintiffs-Appellants that might have been raised in a different proceeding.” 125 Ill.App.2d at 87-88.
+See also Fitzpatrick v. City of Springfield (1973), 10 Ill.App.3d 317, 293 N.E.2d 712.
+Here the question of the constitutionality of the ordinance was properly before the trial court in Count II of the complaint. Count I should have been dismissed on the courts own motion, or on the oral motion of plaintiff, which was made when the matter came on for hearing. Evidence should have been taken under Count II for declaratory judgment and a decision rendered accordingly.
+The rufing of the trial court dismissing Count II of the complaint is vacated and set aside and the cause is remanded to the Circuit Court of Lake County for further proceedings not inconsistent with this opinion.
+Reversed and remanded.
+SEIDENFELD and RECHENMACHER, JJ., concur.
+6.5-A-2 “The Zoning Board may recommend approval or disapproval of the petition * *
+6.5- A-3 “* * * the Village Board shall either approve or disapprove the application.”
+6.5- B-2 “The Zoning Board shall consider and make recommendations on all proposed amendments.”
+6.5- B-3 “The Zoning Board shall make a report to the Village Board. No amendment shall be passed except by a majority vote of all members of the Village Board.”
