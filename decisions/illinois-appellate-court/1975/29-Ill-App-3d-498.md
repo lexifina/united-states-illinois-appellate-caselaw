@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "12685"
+decided: "1975-06-26"
+citations: ["29 Ill. App. 3d 498"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Michael F. Zlatnik, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/29/cases/0498-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2498511
+cites_cases: ["21 Ill.App.3d 289", "313 N.E.2d 522"]
+---
+
+# People v. Zlatnik
+
+## Majority (Mr. JUSTICE GREEN)
+
+Mr. JUSTICE GREEN
+delivered the opinion of the court:
+Defendant Michael F. Zlatnik was charged, by way of citation and complaint, in the Circuit Court of McLean County with the offense of speeding on June 20, 1972, in violation of section 11 — 601(b) of the Illinois Vehicle Code (Ill. Rev. Stat. 1971, ch. OSVa, par. 11 — 601(b)). After a plea of not guilty and a prior jury trial which ended in a mistrial, he was found guilty by a jury and fined $100 and costs. He appeals. We affirm.
+The citation and complaint was on an Illinois State Police form and stated in part that defendant committed “THE FOLLOWING OFFENSE: [x] Speeding [over the limit] 114.1 m.p.h. in a 70 m.p.h. zone ” * * Violation of Illinois Vehicle Code Section No. 11 — 601B.” Because of the way the charge was stated, he argues, first, that he should be granted a new trial because the trial judge refused to instruct the jury that in order to find defendant guilty, they must find that he drove at a rate of at least 114 miles per hour. Secondly, he maintains that if he is not granted a new Rial, Ms fine should be reduced to the amount of $10 plus costs. Defendant’s contentions arise from a misinterpretation of the Illinois VeMcle Code, article V of the Supreme Court Rules (III. Rev. Stat. 1971, ch. 110A, par. 501 et seq.) and their interrelationsMp.
+The evidence at the Rial was undisputed that at the time and place that the defendant is alleged to have committed the offense, the Illinois State Police had in operation a device known as a Vascar wMch is designed and used to register the speed of passing automobiles. It had recently been checked for accuracy and was being properly operated, in fact, operated in such a way that any error would likely be to the benefit of the motorist whose speed was being registered. It was further undisputed that defendant drove by while Ms speed was being measured and the instrument recorded Ms speed to be 114.1 miles per hour. He does not contest that the properly established speed limit for the highway upon wMch he was travelling was 70 miles per hour.
+At all times in question the following provisions of the Illinois VeMcle Code were in effect:
+“No person may drive a veMcle upon any Mghway of this State at a speed wMch is greater than the applicable statutory maximum speed limit established by paragraphs (c), (d), (e), (f) or (g) of this Section, by Section 11—605 or by a regulation or ordinance made under tMs Chapter.” (Ill. Rev. Stat. 1971, ch. 95%, par. 11—601(b).)
+“In every charge of violation of a Section of this Article by failure to observe an applicable speed limit, the complaint and also the summons or notice to appear shall specify the speed at wMch the defendant is alleged to have driven, and the speed limit wMch is applicable at the place of the alleged violation.” (Ill. Rev. Stat. 1971, ch. 951/2, par. 11—610(a).)
+“(a) It is a misdemeanor for any person to violate any provision of tMs Act unless such violation is by this Act or other law of this State declared to be a felony.
+(b) Every person convicted of a misdemeanor for a violation of any provision of this Act for wMch another penalty is not provided shall for a first conviction thereof be punished by a fine of not less than $10 nor more than $100 * * (Ill. Rev. Stat. 1971, ch. 951/2, par. 16—104.)
+No other provision of the Illinois VeMcle Code provided for a penalty for the offense of speeding.
+At the same time article V of the Supreme Court Rules (Ill. Rev. Stat. 1971, ch. 110A, par. 501 et seq.) was entitled:
+“RULES ON TRIAL COURT PROCEEDINGS IN TRAFFIC AND CONSERVATION OFFENSES, MUNICIPAL ORDINANCE OFFENSES AND CERTAIN MISDEMEANORS— BAIL SCHEDULES."
+Rule 529 stated in part:
+“All traffic offenses, except those requiring a court appearance under Rule 551 and those involving offenses set out in Rule 526(b), 526(c) and 526(e) may be satisfied, without a court appearance, by a written plea of guilty and payment of a fine in the amount of $10 plus costs, except that a charge of speeding more than 10 mph but not more than 20 mph over the speed limit may be satisfied by a written plea of guilty and payment of a fine at the rate of $1 for each mile per hour in excess of the speed limit, plus costs.” (Ill. Rev. Stat. 1971, ch. 110A, par. 529(a).)
+Rule 551 required a court appearance for a charge of speeding if the motorist was stated to be driving 21 miles per hour or more over the limit.
+A principal purpose of article V is to provide a comprehensive system to allow bail to be taken, pleas of guilty made and fines received in certain traffic and other minor criminal cases without the presence of a judge. The judicial responsibility for fixing the amount of bail or fine is discharged by the enactment of the rule setting a schedule of bail and fines depending on various circumstances but allowing no discretion to the ministerial officer receiving the fine or bail. The fines set forth in the schedule are within the limits prescribed by the legislature. The setting of these limits is a promulgation of substantive law which can be done only by the legislature (see Note, The Rule-Making Powers of the Illinois Supreme Court, 1965 U. Ill. L. F. 903-914). Neither the schedules for bail nor for fines impose any limitation upon the action the judge may take if he is called upon to rule as to the amount of bail or fine.
+Because Rule 529 provides for gradation of fines to be accepted depending upon the miles per hour at which the accused is stated in the complaint to have been driving in excess of the limit, defendant seeks to draw an analogy to the statutory provision for the offenses of theft (Ill. Rev. Stat. 1971, ch. 38, par. 16 — 1) and some of those arising under the Cannabis Control Act (Ill. Rev. Stat. 1971, ch. 561/2, par. 701 et seq.) where the range of penalty that the court can impose upon conviction depends upon the jury finding the article stolen to be of a certain value or the contraband substance to be of a certain weight (see People v Kadlec, 21 Ill.App.3d 289, 313 N.E.2d 522).
+The analogy is not apt. Even though section 11 — 610(a) of the Illinois Vehicle Code requires that the traffic complaint state the speed at which the accused is alleged to have been driving, neither that provision nor any other provision of the Code provides for any gradation of the offense depending on the amount the accused is driving in excess of the limit. The only offense of speeding is that of driving in excess of the appropriate limit, in this case 70 miles per hour. The supreme court has no power to limit by rule the punishment that a judge may impose for an offense, and they have not tried to do so. Rule 529 has no application to this case because defendant was stated to be driving more than 21 miles per hour in excess of the limit thus requiring his court appearance and excluding him from the operation of the rule. Furthermore, he pleaded not guilty and went to trial rather than pleading guilty as further required in order to make the rule operative.
+Thus, defendant was not entitled to have the jury instructed that they must find the defendant guilty of having driven 114 miles per hour. Nor is he entitled to be fined only the minimum fine of $10. Although there is some indication in the record that the trial judge interpreted the jury verdict as an indication that the jury believed the defendant to have been driving at the full speed stated in the complaint, it is clear that he understood that it was his responsibility to fix the punishment within the statutory limits. In view of the gross violation shown by the evidence, the maximum fine of $100 imposed was fully justified. We affirm.
+Affirmed.
+TRAPP, P. J., and CRAVEN, J., concur.
