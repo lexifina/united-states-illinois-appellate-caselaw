@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1878-04"
+citations: ["1 Ill. App. 256"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Monroe Heath et al. v. Fernando Jones."]
+source_url: "https://static.case.law/ill-app/1/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2405456
+cites_cases: ["12 Ill. 467", "15 Ill. 347", "25 Ill. 514", "74 Ill. 351"]
+---
+
+# Heath v. Jones
+
+## Majority (Murphy, P. J.)
+
+Murphy, P. J.
+This was an action of assumpsit commenced in the Superior Court of Cook county, to the September term, 1875, by the appellee against the appellants, to recover on an open account, an itemized copy of which was filed with the declaration, aggregating §6,618.42.
+The defenses relied upon by appellants were first, the plea of non-assumpsit; second, plea of Statute of Limitations. Upon the trial in the court below upon these issues, the appellee appears to have substantially abandoned all of the items of said account except one: which was for a quantity of Philadelphia pressed brick, 7,500 at $60 per thousand, equaling $450.00. The trial resulted in a judgment against the appellants for that amount, who prayed an appeal to this court and assign several errors, only one of which will be necessary for us to consider. The second assignment of errors is that the court erred in refusing to give the instructions requested by the defendants. The defendants requested the court to instruct the jury as follows—that is to say:
+4th. The jury are instructed, that in order for the plaintiff to recover for the brick sued for in this suit, he must establish the sale of them as claimed by a preponderance of the testimony; and if upon the question of such sale the evidence is evenly balanced, then the plaintiff fails in this part of his case; and if from the evidence the jury believe that the brick were thrown in in a purchase of land by the defendants from the plaintiff without other charge than the consideration in the sale of the land, the plaintiff cannot recover for such brick in this suit.
+It appears that prior and up to the 13th day of August, 1870, appellee owned an interest in the premises known as Eos. 170 and 172 Randolph street, Chicago. That prior to that time said premises were leased to the appellants, who carried on business there. On that day the buildings on said premises were destroyed by fire.
+It appears that immediately thereafter, appellants opened negotiations with appellee for the purchase of his interest in the lots, with a view to constructing thereon buildings for their future business purposes, which resulted in a sale and conveyance by the appellee of said premises to the appellants, who subsequently improved the same.
+When the fire occurred, it appears that the appellee was stopping at Saratoga, Eew York, to which place the appellant Milligan immediately repaired for the purpose of negotiating a purchase of said lots, for and on behalf of the firm of Heath and Milligan, appellants. It appears that negotiations pro-, grossed there between appellee and said Milligan on behalf of the appellants for several days, which finally culminated in a sale of the premises as above stated. It is claimed by the appellants, that during this negotiation at Saratoga, it was agreed between .appellee and said Milligan in behalf of appellants, that if Milligan would take the property on certain and specified terms, he, appellee, would throw in these brick now in controversy; and that having finally accepted and bought the lots, claim that the title to the brick passed also by virtue of this offer during such negotiation. Upon this question which, as we have observed, was the principal issue tried by the jury, there is a conflict of evidence in this case. The appellee claims that if any such proposition was ever made by him at Saratoga as claimed by appellants, it was not accepted then or at any other time, and that when subsequently the sale of the lots was made, it was not understood or agreed between the parties that the brick was to go with them ; nor did they constitute any part of the consideration of such transaction. Appellants claim that the offer as testified to by Milligan as being made by appellee, was relied on by them, and that the same constituted a substantial part of the consideration of said real estate transaction, and that the title to the brick passed to them, and hence no recovery should be had for them in this suit. Under this state of the evidence we think it was the right of the appellants to have the question submitted to the jury, as to whether the brick in question were in fact thrown in and constituted a part of the purchase with the real estate purchased by appellants as above stated, or whether they were as claimed by appellee, sold to appellants in September, 1870? independent of the real estate deed. This is a question for the jury to determine. And in the light of these views we think the above instruction should have been given, and that it was error to refuse it, and for which error the judgment of the court below is reversed and the cause remanded.
+Judgment reversed.
