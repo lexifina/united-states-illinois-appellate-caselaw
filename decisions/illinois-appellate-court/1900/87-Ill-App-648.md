@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-02-26"
+citations: ["87 Ill. App. 648"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barney J. Huening and Henry J. Huening v. Margaret Buckley et al."]
+source_url: "https://static.case.law/ill-app/87/cases/0648-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5855784
+cites_cases: ["163 Ill. 547", "29 Ill. 532", "36 Ill. 285", "46 Ill. 398", "54 Ill. 178", "76 Ill. 524"]
+---
+
+# Huening v. Buckley
+
+## Majority (Mr. Justice Windes)
+
+Mr. Justice Windes
+delivered the opinion of the court.
+The only question necessary to be considered is whether appellants have a complete, adequate and.sufficient remedy at law to enforce their judgment against the appellee Buckley. If they have, then the decree dismissing the bill was proper, and it will be unnecessary to consider the other questions raised by appellants.
+Sec. 3, Chap. 52, Rev. Stat. Ill. (1897), with reference to exemptions of homestead, provides that no property shall, by virtue of the act, be exempt from sale “ for a debt or liability incurred for the purchase or improvement thereof.”
+It is claimed that because Buckley fraudulently represented to the sheriff that she had a claim or right of homestead in said real estate, and that the debt on which said judgment was based was not incurred by her for the improvement of said real estate, that therefore appellants have the right because of such fraudulent claim and representations to come into equity for relief.
+•' The record of the judgment of the County Court, it is true, does not show that it was based upon a claim for the improvement of the real estate, but the sheriff was directed by the writ of execution in his hands'and by the appellants to sell this real estate. It was his duty to serve the writ and to inquire whether or not the claim of appellee was true that the property levied upon by him was exempt, and for failure so to do is liable to an action. Crocker on Sheriffs, Sec. 851; Starr & C. Stat., Ch. 125, Sec. 15.
+But it is not necessary that appellants have resort to their action against the sheriff for his failure to execute the writ. They may proceed in the County Court by motion or petition for a rule on the sheriff to show cause for not making the sale, or for contempt in disobeying the writ. Murfree on Sheriffs, Secs. 956, 963 and 964; Starr & C. Stat., Ch. 125, Sec. 16.
+Our statute does not specifically provide as to final process for the practice of proceeding against the sheriff by motion or for contempt, but it has been repeatedly decided that it is the business of the sheriff to execute process regular upon its face and emanating from a court of competent jurisdiction, and we have no doubt of the power of the County Court, upon motion, notice to the parties concerned, and a showing that the basis of the debt in question was for the improvement of this real estate, to order the sheriff to proceed with its sale, notwithstanding the claim of the appellee Buckley to the contrary. People, for use, etc., v. Palmer, 46 Ill. 398; Stevenson v. Maroney, 29 Ill. 532; White v. Clark, 36 Ill. 285; Wiggins v. Chance, 54 Ill. 178; Bush v. Scott, 76 Ill. 524; Bach v. May, 163 Ill. 547.
+In the Stevenson case, supra, it appears that a motion was made in the Circuit Court to vacate a levy and sale of certain lots by virtue of two executions of that court, for the reason that the lots were the homestead of the defendant in the execution, at and before the time the judgments were recovered upon which the executions were issued, and because the lots, with their improvements, were not worth $1,000. The motion was overruled, but the Supreme Court reversed the judgment, saying, among other things, “ that in such a proceeding it devolves upon the plaintiff in execu- . tion, after it is shown that the debtor is within the statute, to rebut it, by establishing that the debt, or a part of it, was for the purchase money or improvements made upon the homestead. * * * When the creditor affirms that his debt was incurred for the purchase money or improvement of the homestead, no reason is perceived why he should not be required to establish that fact. Where the debtor has shown that he is within the provisions of the enacting clause of the first section (referring to the statute in question), he is prima facie entitled to its benefits. And it must be rebutted by the creditor to subject the property under the provisions of the second section.”
+The court then says that as there is no mode pointed out by the statute as to how the rights of parties in such matters are to be ascertained, it must be regulated by the courts; and that while it would be a proper method to make proof and have the fact found by the court rendering the judgment that the debt or any portion of it was created for the purchase or improvement of the homestead, it does not wish to be understood as saying that this should be the only mode, and that when the question should afterward arise, “ on motion or otherwise, he must be held to establish and show what portion of his judgment is for purchase money or improvements, before he can sell the homestead, if of less value than $1,000.”
+This case has been cited with approval in three of the cases above noted, the practice of presenting such matters to the court by motion, as there indicated, not being disapproved; and for the reasons that this method of procedure obtains in other jurisdictions, and would seem to be proper under the provisions of the statute, we are of opinion that appellants have a clear and complete remedy at law by motion in the County Court to have the matter adjudicated as to whether their claim, on which the judgment is based, was incurred for the improvement of the real estate in question.
+Appellants made no basis by their bill to sustain it as a creditor’s bill solely because there was no return of the execution nulla bona, and besides, its allegations show that the real estate in question was subject to their judgment, the title thereto being of record in the name of the debtor, and no reason why it should not have been sold by the sheriff for their claim.
+The decree of the Circuit Court is therefore affirmed.
