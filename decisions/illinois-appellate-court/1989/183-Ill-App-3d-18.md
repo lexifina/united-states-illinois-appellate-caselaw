@@ -1,0 +1,53 @@
+---
+court: "Illinois Appellate Court"
+docket: "2—88—0610"
+decided: "1989-05-11"
+citations: ["183 Ill. App. 3d 18"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re MARRIAGE OF DAVID ALLEN WATLING, Petitioner-Appellant, and LAURETTA ANN WATLING, Respondent-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/183/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2627538
+cites_cases: ["102 Ill. App. 3d 356", "118 Ill. App. 3d 824", "132 Ill. App. 2d 284", "85 F 1340"]
+---
+
+# In re Marriage of Watling
+
+## Majority (JUSTICE WOODWARD)
+
+JUSTICE WOODWARD
+delivered the opinion of the court:
+Petitioner, David Watling (David), appeals from May 27, 1988, orders of the circuit court of Lake County. The first ruled that David is not the father of Rebecca Holtzman, but nevertheless, he must pay temporary child support from October 13, 1987, to February 22, 1988. The second order found him in contempt for failure to pay said support and committed him to the county jail until such time as he paid $250 in child support arrearage.
+Initially, we find that respondent’s motion to strike David’s brief is unpersuasive, and we, therefore, deny said motion.
+The parties were married on March 13, 1976. On October 13, 1987, after a prolonged trial, the trial court entered a judgment for dissolution of marriage dissolving the marriage, dividing certain property, and reserving issues of child support, permanent visitation, and sanctions pursuant to section 2 — 611 of the Code of Civil Procedure (Ill. Rev. Stat. 1985, ch. 110, par. 2 — 611). During the marriage, two children were born to respondent, Lauretta Watling (Lauretta). Rebecca was bom on October 7, 1979, and Sarah Elizabeth was born on September 30, 1986. Sarah Elizabeth, in a separate Parentage Act of 1984 (Ill. Rev. Stat. 1985, ch. 40, par. 2510 et seq.) proceeding, was determined to be the daughter of Dr. Stephen Holtzman and Lauretta.
+In 1978, Lauretta became involved in an affair with her employer, Dr. Holtzman. After Rebecca’s birth in 1979, Lauretta spent more and more time with Holtzman so that David became the principal parent for Rebecca. In 1984, Holtzman obtained a divorce from his wife, and Lauretta sought a divorce from David, advising him that Rebecca was Holtzman’s daughter. While this action was pending, Lauretta had physical custody of Rebecca, who would spend unspecified visitation periods with David.
+On October 5, 1987, prior to the e.ntry of the judgment for dissolution of marriage, Lauretta filed a petition for temporary child support for Rebecca, which contained the following paragraphs:
+“2. That your Petitioner has always maintained the position thar [sic] DAVID ALLEN WATLING is not the father of said child.
+3. That DAVID ALLEN WATLING has admitted under oath that he is not the father of Rebecca, and by stipulation of the parties, the result of blood tests have been admitted herein, which show the possibility that DAVID ALLEN WATLING is the father of said child is 0.00 percent and that the possibility that he is not the father of said child is 100 percent.
+* * *
+11. That in the exercise of its equitable and legal powers, this Court should order David Allen Watling to contribute to the support of Rebecca.”
+On October 13, 1987, the court entered an order directing David to pay Lauretta the sum of $120 per week “as and for the support of Rebecca.” The court further ordered the payments were to be made through the clerk of the circuit court and that they were retroactive to “October 12,1987 [sic].”
+On October 23, 1987, David filed a petition to reduce tiie temporary child support payment to $50 per week and on November 2, 1987, filed a petition to enter final judgment on visitation /and child support. David, in the petition to enter final judgment on visitation and child support, stated:
+“5. The Marriage and Dissolution Act clearly authorizes this Court to order payment of support by David Watling because, and only because he is the father of Rebecca. If he were not Rebecca’s father this Court could not lawfully order him to pay support.”
+David sought to bar Lauretta from proceeding with any further litigation which would change his position as Rebecca’s father, and he moved the court to enter final orders on visitation and child support. On November 3, 1987, the court denied the petition to reduce the amount of child support, and David paid the sum of $250 in overdue temporary child support to the clerk of the circuit court. The court did not rule on David’s motion asking for final orders with respect to child support and visitation.
+On December 17, 1987, David filed a petition to reduce child support and set Christmas visitation, alleging that the amount ordered per week was 50% of his pay because of reduced work. On January 8, 1988, Lauretta filed a petition for rule to show cause alleging that David had not made all of the child support payments, and on January 13,1988, she filed a response to the petition to reduce child support.
+On February 19, 1988, in a separate action under the act, a jury entered a verdict that David and Holtzman were not the natural fathers of Rebecca. The court which presided over this action ordered:
+“[N]either David Watling [n]or Stephen Holtzman shall pay child support on account of Rebecca.”
+Lauretta filed a motion to terminate visitation for the reason that David' was not the natural father and a petition for rule to show cause to compel him to pay child support. On February 25, 1988, the court suspended visitation. On March 15, 1988, the court issued rules to show cause why David should not be held in contempt for failing to pay overdue temporary child support.
+On April 14, 1988, David filed a petition for declaration of equitable parenthood or, in the alternative, for adoption of Rebecca, and he filed a response to the rule to show cause with respect to temporary child support.
+On May 13, 1988, Lauretta Watling filed a response to the petition for equitable parentage or, in the alternative, for adoption, admitting that in cause No. 85 — F—1340, and pursuant to a jury verdict, a judgment had been entered which declared that neither David nor Holtzman is the father of Rebecca.
+On May 27, 1988, the court conducted a hearing regarding the various rules to show cause. The court found that there was an arrearage as of May 27, 1988, in the amount of $1,320 for child support payments and that David had not given any legally significant reasons for his failure to comply with the order. The court further made these findings:
+“1. Until February 22, 1988 David Allen Watling was the father of Rebecca for purposes of support order.
+2. That the child support order of October 13, 1987 was a final and appealable order and even if not then;
+3. That the jury finding in 85 F 1340 cannot be applied retroactively.”
+The court denied David’s motion to vacate the October 13, 1987, order, and it found that his obligation to pay child support terminated February 22, 1988. Further, the court ordered him to jail for contempt, with the provision that he could purge himself of said contempt if he paid $250 of the arrearage. David was taken to jail, and subsequently, he was released upon payment of the $250.
+On appeal, David argues that (1) the trial court erred in ruling that the order for temporary child support was a final and appealable order; (2) the trial court should have set aside the temporary child support order; and (3) the circumstances did not justify a finding of contempt.
+Initially David contends that the October 13, 1987, order for temporary child support was not a final and appealable order. He asserts that the October 13, 1987, judgment for dissolution of marriage reserved the issues of child support, permanent visitation, and attorney fees pursuant to section 2 — 611 of the Code of Civil Procedure (Ill. Rev. Stat. 1985, ch. 110, par. 2 — 611). David argues that until the court ruled on child support and visitation in a final and appealable order, those issues remained for the court below to adjudicate, modify, or vacate. We agree.
+A final order is one which terminates and disposes of parties’ rights regarding issues in the suit so that, if affirmed, the trial court only has to proceed with execution of judgment. (Findley v. Posway (1983), 118 Ill. App. 3d 824.) Where an order of the-court leaves a cause still pending and undecided, it is not a final order. (Findley, 118 Ill. App. 3d at 826.) The rule is intended to prevent a multiplicity of suits and piecemeal appeals. (118 Ill. App. 3d at 826.) Obviously, the order for temporary child support did not terminate the litigation but was merely an interim order.
+David next argues that the court below should have set aside the order for temporary child support in view of the March 15, 1987, order which found that he was not the father of Rebecca. Questions of whether temporary child support should be allowed and the amount to be paid are matters within the discretion of the trial court, in view of the conditions and circumstances of each case. (Glover v. Glover (1971), 132 Ill. App. 2d 284.) Modification of child support provisions rests in the sound discretion of the trial court and will not be interfered with in the absence of an abuse of discretion or unless a manifest injustice has been done. In re Marriage of Runge (1981), 102 Ill. App. 3d 356.
+The evidence shows that in Lauretta’s October 5, 1987, petition for temporary child support, she admitted that David was not Rebecca’s biological father. In the Parentage Act case brought by Rebecca’s guardian, a jury found that David was not her father. The trial court was fully aware of these facts when it ordered David to pay $1,320 in temporary child support arrearage for Rebecca and subsequently found him in contempt of court for failing to make said payments. Clearly, David is not Rebecca’s father. The court below should have granted David’s motion to vacate the order which required him to pay temporary child support. Fully cognizant that David had no legal relationship to Rebecca, the court was without authority to order him to pay the alleged arrearage and further to find David in contempt of court for failing to pay said arrearage! As such, the court abused its discretion in making such orders.
+We reverse and remand this action with specific instructions to grant David’s motion to vacate the order for temporary child support and to vacate the court’s order finding David in contempt of court.
+Reversed and remanded.
+- UNVERZAGT, P.J., and NASH, J., concur.
