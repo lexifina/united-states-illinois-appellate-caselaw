@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "57860"
+decided: "1973-11-27"
+citations: ["16 Ill. App. 3d 248"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Petitioner-Appellee, v. Linzy Butler et al., Respondents-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/16/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2522259
+cites_cases: ["110 Ill.App.2d 329", "132 Ill.App.2d 744", "195 N.E.2d 157", "232 N.E.2d 716", "249 N.E.2d 224", "258 N.E.2d 313", "270 N.E.2d 285", "287 N.E.2d 21", "30 Ill.2d 67", "38 Ill.2d 535", "45 Ill.2d 158", "7 Ill.App.3d 89"]
+---
+
+# People v. Butler
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+Respondents, Linzy Butler and Vernon Parks, appeal from judgments entered after a bench trial finding each of them delinquent pursuant to section 2 — 2 of the Juvenile Court Act (Ill. Rev. Stat. 1971, ch. 37, par. 702 — 2) for committing an offense of aggravated battery. Vernon Parks was sentenced to six months probation, from which order he filed a notice of appeal. A social investigation was ordered for Linzy Butler after which he filed a notice of appeal.
+The issue on appeal is whether the State proved beyond a reasonable doubt that the respondents were legally accountable for an aggravated battery committed by another.
+Robert Creamer, age 15, testified that on March 25, 1972, about 4:00 or 5:00 in the afternoon, he was at 16th and Homan, Chicago, with Ronald Riddle when a boy named John walked up to Creamer and told him to “come into the alley”; that Creamer did so and found about ten boys there; that a boy by the name of Shelton pulled out a knife and stabbed Creamer in the arm, in the back, and across the lip; and that Creamer saw a boy with a gun, a boy with a knife, and another boy who was holding him. Creamer went to the Mt. Sinai Hospital where two stitches were put in his arm and two in his back.
+Creamer said that respondents were among the group but did not say anything to him; that they were standing up against the wall; that they did not do anything to him and that they left with all the rest. On cross-examination, Creamer testified that Shelton told the others that “if they tried to help me, they were going to get the same thing.”
+Vernon Parks, one of the respondents, testified that he was 15 years old; that on March 25, 1972 at about 4:30 in the afternoon, his sister sent him to the store; that Linzy Butler, the other respondent, went with him; that on their way back from the store he saw some of the boys who had jumped on Creamer running through the alley; that Linzy saw his brother, Marvin Butler, and stopped to talk to him; that Marvin said that the boys went out and got Creamer and made Creamer come back to the alley; and that, after talking to Marvin, the respondents started walking to Parks’ home.
+Linzy Butler, the other respondent, testified that Shelton was fighting with Robert Creamer; that Butler went over to his brother, Marvin Butler, and asked him why they were jumping on Creamer; that he and Parks were about 15 to 20 feet away from the fight; and that, when he and Parks got to the fight, Creamer had already been stabbed and was running across the street.
+The respondents argue that the State did not prove beyond a reasonable doubt that the minor respondents, Butler and Parks, were legally accountable for the aggravated battery committed by Shelton.
+The State presents its contention as follows:
+“The State maintains that there was a ‘common design to take revenge on the victim, Robert Creamer. The method was by aggravated battery and the means was a knife and a gun. The State also maintains that both these minor respondents knew of the common design’ and agreed to it, gave it their countenance and approval, were therefore aiding and abetting the commission of the crime; and therefore the act of Shelton, in stabbing the victim, was the act of the entire group. The State submits that the accountability of the minor respondents for the crime of aggravated battery was proven beyond a reasonable doubt.”
+The State relies upon the cases of People v. Clark, 30 Ill.2d 67, 195 N.E.2d 157, People v. Nowak, 45 Ill.2d 158, 258 N.E.2d 313, and People v. Bracey, 110 Ill.App.2d 329, 249 N.E.2d 224, to sustain its contention that the respondents were engaged in a “common design” to take revenge on the victim, Robert Creamer.
+A person is legally accountable for the conduct of another when “[e] ither before or during the commission of an offense, and with the intent to promote or facilitate such commission, he solicits, aids, abets, agrees or attempts to aid, such other person in die planning or commission of the offense.” (Ill. Rev. Stat. 1971, ch. 38, par. 5 — 2(c).) However, it has been held that, though one may aid and abet without actively participating in the offense, mere presence or negative acquiescence is not sufficient to make a person a principal to a crime (People v. Bowman, 132 Ill.App.2d 744, 270 N.E.2d 285). In In re Urbasek, 38 Ill.2d 535, 232 N.E.2d 716, the court held that a finding of delinquency for misconduct, which would be criminal if charged against an adult, is vafid only when die acts of delinquency are proved beyond a reasonable doubt to have been committed by the juvenile charged. In In re Interest of Lam dorf, 7 Ill.App.3d 89, 287 N.E.2d 21, the court held that the standard of proof at the adjudicatory hearing is proof beyond a reasonable doubt.
+Contrary to the contention of the State, there is no proof of a “common design” between Shelton and the respondents. The respondents testified that they were on their way from Parks’ home to a store at the corner of 16th and Homan, Chicago, when they saw the fight in the alley; that on their return they saw Creamer bleeding; and that they saw the group, including Shelton, running down the alley. According to their testimony, they were not part of the group who witnessed the stabbing of Creamer by Shelton; when they arrived at the scene, Shelton had already stabbed Creamer. Although Creamer identified the respondents as among the group, he said that they did not say anything to him; that they were standing back up against the wall; and that they did not do anything to him. This evidence is insufficient to prove beyond a reasonable doubt that the respondents shared Shelton’s desire for revenge, or that they had any desire to see Robert Creamer hurt, or that they intended to harass Creamer. In the case at bar the evidence does not even suggest that the respondents possessed any ill wHl toward Creamer. Further, respondents neither accompanied Shelton to the scene of the crime nor fled with him afterward.
+The evidence in the case at bar fails to prove beyond a reasonable doubt that the respondents aided or assisted or took part in the stabbing of Creamer by Shelton. The finding of delinquency against the respondents was not proven beyond a reasonable doubt and, therefore, should be reversed.
+The judgments of delinquency against each of the respondents are reversed.
+Judgments reversed.
+LEIGHTON, J., took no part in the consideration or decision of this case.
