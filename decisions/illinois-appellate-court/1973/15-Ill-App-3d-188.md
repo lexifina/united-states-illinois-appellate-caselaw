@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+docket: "72-266"
+decided: "1973-11-09"
+citations: ["15 Ill. App. 3d 188"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Charles Chestnut, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/15/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461515
+cites_cases: ["107 N.E.2d 721", "131 Ill.App.2d 658", "264 N.E.2d 499", "282 N.E.2d 467", "379 Ill. 323", "40 N.E.2d 730", "412 Ill. 528", "5 Ill.App.3d 205"]
+---
+
+# People v. Chestnut
+
+## Majority (Mr. PRESIDING JUSTICE ALLOY)
+
+Mr. PRESIDING JUSTICE ALLOY
+delivered the opinion of the court:
+Defendant pleaded guilty, in the Circuit Court of Knox County, to Count II of an indictment which charged indecent liberties with a child, and, pursuant to an agreement, the State dropped charges in Count I of rape and in Count III of contributing to the delinquency of. a minor child. Defendant was thereafter sentenced to a four (4) to five (5) year term.
+The record shows that defendant Chestnut was indicted on three counts, as indicated, charging him with (1) rape, (2) indecent liberties with a child, and (3) contributing to the sexual delinquency of a minor child. As a result of plea agreement discussions, defendant pleaded guilty to the charge of indecent liberties in reliance upon a promise by the State to recommend that the non-probationary charge of rape and the charge of contributing to the sexual delinquency of a minor would be dismissed. The court followed the recommendations of the State and allowed dismissal of the rape charge and the charge of contributing to the sexual delinquency of a minor. Defendant remained on bond pending a probation hearing. Defendant apparently learned that probation was unlikely by virtue of the probation report, and failed to appear in court on the probation hearing setting. His violation of his bond was shown to be related to the fact that he did not feel that probation would be granted. At the probation hearing, which was conducted finally on July 3, 1972, defense counsel stated that defendant desired to withdraw his guilty plea. The court interrupted defense counsel’s further explanation of his desire to change his plea, reviewed the previous plea and stated, “Gentlemen, this is a hearing upon the defendant’s petition for probation.” So far as the record shows, the court apparently never ruled on the request to be heard with respect to the desire to withdraw the guilty plea. Probation was thereafter denied and on August 4, 1972, defendant was sentenced as indicated heretofore.
+On appeal in this Court, defendant raises only one issue. He contends that the court failed to properly exercise its discretion when it ignored defendant’s request to withdraw the guilty plea and refused to hear the attorney’s reason for the request. It is asserted, under the precedent of cases such as People v. Adams, 379 Ill. 323, 40 N.E.2d 730 and People v. Morreale, 412 Ill. 528, 107 N.E.2d 721, 723, that there might have been appropriate reasons for defendant to withdraw his plea of guilty and that the court should at least have heard the counsel for defense as to the reason for the desire to withdraw the plea.
+Withdrawal of a guilty plea is within the court’s discretion. We are not able to determine from the record whether the court actually gave consideration to the request or ruled upon the defendant’s motion to withdraw the guilty plea in the cause before us. The State is correct in asserting that the court has a broad discretion in denying a defendant’s motion for withdrawal of a guilty plea in absence of a showing which would justify such withdrawal. (People v. Kupferschmid, 131 Ill.App.2d 658, 264 N.E.2d 499.) It is also true that a defendant as well as the State is bound by a pre-trial plea bargain which is fairly entered into by the parties. (People v. White, 5 Ill.App.3d 205, 282 N.E.2d 467.) We are concerned here, however, not with the exercise of the court’s discretion, ■but the fact that no apparent opportunity was presented to defendant’s counsel to present the basis upon which counsel sought to assert a right to withdraw defendant’s guilty plea. A motion made in orderly fashion by counsel for defendant should be given consideration and the court should rule upon it. So far as the record discloses in the instant case, the court apparently refused to hear the reasons for the motion. On the basis of the record, therefore, this cause will be remanded for the limited purpose of permitting defendant (or his counsel) to renew the motion to withdraw the guilty plea, if defendant so desires, and to present arguments in support thereof. If the trial court, in exercise of its discretion believes that such guilty plea should be permitted to be withdrawn, then the. court may allow such motion. In the event the trial court rules that the motion to withdraw should not be granted, then the trial court shall enter an order accordingly, and, in such event, the trial court shall then proceed with the entry of judgment and sentence in this cause. The judgment and sentence are, therefore, vacated in this cause and this cause is remanded for the limited purpose as herein expressed.
+Remanded with directions.
+STOUDER and DIXON, JJ., concur.
