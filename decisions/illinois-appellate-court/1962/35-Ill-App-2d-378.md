@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,576"
+decided: "1962-04-25"
+citations: ["35 Ill. App. 2d 378"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCORMICK, P. J. and DEMPSEY, J., concur."]
+parties: ["Ruth G. Pond, Plaintiff-Appellant, v. City of Chicago, a Municipal Corporation, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/35/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5263442
+cites_cases: ["127 Ill 438", "133 Ill App 520", "150 Ill 516", "163 NE2d 89", "165 NE2d 724", "168 Ill 551", "178 NE2d 408", "18 Ill2d 11", "20 NE 33", "242 Ill 30", "25 Ill App2d 56", "317 Ill App 368", "32 Ill App2d 458", "37 NE 1075", "394 Ill 248", "45 NE2d 890", "47 Ill App 141", "48 NE 210", "49 Ill 476", "68 NE2d 278", "89 NE 648"]
+---
+
+# Pond v. City of Chicago
+
+## Majority (MR. JUSTICE SCHWARTZ)
+
+MR. JUSTICE SCHWARTZ
+delivered the opinion of the court.
+Plaintiff appeals from a summary judgment for defendant. This case involves the city’s liability for injuries sustained by plaintiff by reason of her fall over a sidewalk on Sheridan Eoad, some feet south of Irving Park Boulevard in Chicago. The basis for the motion for summary judgment was the fact that the sidewalk involved was Chicago Park District property.
+In 1869 the legislature created the Commissioners of Lincoln Park, investing them with governmental powers in respect to the park. Private Laws, 1869, vol 1, pp 374-75, §§ 19, 21, 27. The commissioners held the fee in trust for the public. Cf. McCormick v. South Park Com’rs, 150 Ill 516, 37 NE 1075. The commissioners were to have the same power over the park that the city had over its public squares and places. In 1879 the legislature provided, the commissioners with the power to acquire public streets leading to the parks. The statute entitled “An Act to enable park commissioners ... to take, regulate, control and improve public streets . . .” gave the city the power to invest the park board with the right to “control, improve and maintain” those streets. The act further provided that park boards were, to have the same power and control over streets so taken as they had over other park property under their control. Laws, 1879, pp 216-17, §§ 1, 3, 5. The power and authority possessed by park commissioners under the act over land so taken has been construed as excluding like possession and exercise by the city. McCormick v. South Park Com’rs, supra.
+In 1893 the City Council of Chicago pursuant to the act passed an ordinance granting the Board of Lincoln Park Commissioners the right to take, regulate, control and improve Sheridan Road from the northern terminus of Lake Shore Drive to the north line of North 59th Street. The board accepted the ordinance, and the board and its successor, the Chicago Park District, have been exercising those powers ever since.
+Plaintiff was injured on the sidewalk. A sidewalk is a part of the street set apart for pedestrian use. City of Elmhurst v. Buettgen, 394 Ill 248, 68 NE2d 278; cf. McCormick v. South Park Com’rs, supra. The sidewalk here involved is part of the portion of Sheridan Road described in the ordinance. So far as appears from the record, the city has never since exercised any dominion over the land and no one has ever challenged the park district’s complete jurisdiction and control. During that period the park district has been immune from tort liability while the city has not. Yet no action seeking to charge the city with liability after transfer of control to the. park district has been sustained so far as we can find. It appears to have been accepted both by the courts and the profession that the city no longer had the responsibility for injuries suffered on property so held by the park district. Miller v. City of Chicago, 25 Ill App2d 56, 165 NE2d 724; Griffin v. City of Chicago, 317 Ill App 368, 45 NE2d 890. This in itself should carry weight with the court. 1 Kent, Commentaries 527 (12th ed, 1873).
+Furthermore, courts have held that the city no longer had the responsibility for the care of park property or authority to maintain or repair it. Chicago v. Pittsburg, C. C. & St. L. R. R., 242 Ill 30, 89 NE 648; McCormick v. South Park Com’rs, supra. In Pelin v. City of Chicago, 32 Ill App2d 458, 178 NE2d 408, we said that the Park District was responsible for maintaining the sidewalk alongside Sheridan Road over which the district had jurisdiction because of the city ordinance transferring control.
+The decision in Molitor v. Kaneland Community Unit Disk, 18 Ill2d 11, 163 NE2d 89, and the ensuing legislation have stimulated this action. The Molitor case struck down sovereign immunity as applied to school districts and by implication, other governmental agencies as well. Miller v. City of Chicago, supra. Subsequently the legislature enacted statutes providing that park districts in general and the Chicago Park District in particular shall not be held liable for negligence. Ill Rev Stats, ch 105, §§ 491, 333.2a, (1961). Plaintiff’s action apparently is an attempt to circumvent the problem thus posed. It can be argued that it is not rational to grant relief to a person injured on a city street and to deny it to one injured on property adjacent thereto because it is under control of the park district, and that a fundamental element of justice — equality before the law — is thereby ignored. But in a case where a public agency such as the park district is involved, only the legislature can grant relief.
+Plaintiff argues that the city cannot by contract evade its fundamental duty to keep its streets safe for public travel and cites Hogan v. Chicago, 168 Ill 551, 48 NE 210; Village of Jefferson v. Chapman, 127 Ill 438, 20 NE 33; City of Springfield v. Le Claire, 49 Ill 476; Chicago v. Kubler, 133 Ill App 520; City of Sterling v. Schiffmacher, 47 Ill App 141. These cases are distinguishable. There the cities involved had contracted with private parties for the improvement, care, or repair of the cities’ streets. In the instant case one public agency pursuant to legislative enactment transferred to another public agency control of the street involved and thereafter the transferrer ceased to have or exercise any power or control. It was not a matter of contract. It was a division of public duties pursuant to statute.
+The judgment is affirmed.
+Judgment affirmed.
+McCORMICK, P. J. and DEMPSEY, J., concur.
