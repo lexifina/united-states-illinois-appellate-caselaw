@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-05-28"
+citations: ["36 Ill. App. 352"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Cincinnati, Indianapolis, St. Louis & Chicago Railroad Company v. Aurelia Dufrain."]
+source_url: "https://static.case.law/ill-app/36/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5010496
+cites_cases: ["131 Ill. 61", "22 Ind. 450", "23 Pa. St. 147", "44 Ill. 460", "53 Ill. 510", "54 Ill. 133", "55 Ill. 379", "68 Ill. 576", "71 Ill. 500", "71 Ill. 519", "72 Ill. 352", "78 Ill. 88", "78 Ill. 94", "83 Ill. 510", "86 Ill. 467"]
+---
+
+# Cincinnati, Indianapolis, St. Louis & Chicago Railroad v. Dufrain
+
+## Majority (Upton, P. J.)
+
+Upton, P. J.
+On the 9th of July, 1888, in the early morning, appellee, her husband, son and daughter, took passage on a passenger train running upon appellant’s railway, at Fowler Indiana, for transportation to Strawn, in Illinois. The train in which they took passage arrived at St. Anne at 4:20 a. m. of the same day. The appellee, in alighting from the train, was injured by a fall, and brings this suit to recover damages from the appellant for that injury, laying her damages at §1,999.
+The declaration tiled in the case contains two counts, the first of which, after charging appellant with possessing and operating a railroad, alleges that appellee took passage in the cars running upon the railway of appellant as above stated, paying the fare of appellee therefor. That upon the arrival of the train at St. Anne, appellant did not give appellee sufficient time to alight from the train, and in attempting to alight therefrom, she was thrown off the train and injured, while she was exercising due care in that regard.
+The second or additional count charged that appellee took passage in appellant’s passenger cars, at and to be transported to the points above stated, and that appellant did not allow appellee sufficient time to alight from the car in which she was transported, and because thereof she was hurt and received permanent injuries, etc.
+To both counts the plea of not guilty was interposed. In the trial court the case was heard with a jury, who found the appellant guilty, and assessed appellee’s damages at Si,999, the amount she claimed in her declaration, upon which verdict, after overruling a motion for a new trial, the court entered judgment, to which appellant excepted and appealed to this court. The record on that appeal is now before us. The controverted facts are in narrow compass.
+By the declaration it is claimed that appellee was injured by reason of the negligent act of appellant’s agents and servants in starting the train suddenly, and with a “jerk,” as she was attempting to alight therefrom, using due care, by means whereof she was thrown off the passenger car to the depot platform, and thereby sustained the injuries complained of; and that her injury was occasioned by appellant’s servants in not stopping its passenger train, upon which she was a passenger, at the point of her destination, for a sufficient length of time to let off passengers with safety, as required by law.
+Both positions, as above stated, were sharply contested on both sides.
+The defense, in part, was based upon the theory and allegation that after the train had started from the depot at St. Anne, and had gone some eighty feet, and while the train was in motion, the appellee voluntarily attempted to alight from the train, and in so doing .was injured, and that such conduct in attempting to get off the train, while in motion, was negligence fer se, sufficient to defeat recovery, and cited Dougherty v. C., B. & Q. Ry. Co., 86 Ill. 467, and cases cited; Ohio & Min. Ry. Co. v. Stratton, 78 Ill. 94, and cases cited, with many other adjudicated cases in this State and elsewhere, which seem to fully sustain the doctrine contended for. The appellee’s fourth given instruction, as shown by the amended record in appellee’s briefs, tells the jury that if the appellee used reasonable diligence and ordinary care in alighting from the train, then she might recover, etc. This instruction was erroneous, for the reason, first, the charge in the declaration is, as we have seen, that she was thrown from the train; second, even if she used all the care she could in the act of alighting from the train, it was negligence in her to attempt to alight at all when the train was in motion, however carefully she might attempt it. This instruction took away from the jury one of the main questions in the defense, and allowed a recovery for a cause not alleged in the declaration. C., B. & Q. Ry. Co. v. Mehlsack, 131 Ill. 61.
+The instruction asked by the appellant in regard to its being negligence to jump off the moving train might properly have been given, as such act would defeat the cause of action stated in the declaration, to the extent, at least, of the averment that appellee was thrown off the car by a sudden jerking as averred. One instruction to that effect was in substance given; of this, however, it may not be important to make further comment, for strictly speaking it is a question of fact for the jury, although the Supreme Court say in the above cited ease, that is a still controverted question.
+We do not wish to be misunderstood as asserting that if, after appellee had gotten out upon the platform of the car in which she was being transported, in a proper and timely endeavor to alight therefrom, and by the motion of the car or train she was forced to jump off, the act under such circumstances would be negligence on her part to prevent a recovery for injuries sustained through negligence of the servants and agents of the appellant in causing her to jump off; in such case the act would not be voluntary and would be excusable.
+In regard to the other refused or modified instructions we perceive no reversible error.
+We need not notice the point made on the special findings, as the case will be submitted to another jury.
+It was entirely proper, and in some part the court did allow appellant to show that the train was stopped a sufficient length of time to allow all the passengers using reasonable diligence to alight therefrom before starting again, as that was one of the principal issues in the case; full inquiry in regard thereto should have been allowed by the trial court.
+For the reasons above assigned the judgment of the court below is reversed and the cause remanded for further proceedings not inconsistent with the views above expressed.
+Reversed and remanded.
