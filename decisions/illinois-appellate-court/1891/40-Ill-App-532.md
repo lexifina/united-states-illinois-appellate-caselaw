@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-05-05"
+citations: ["40 Ill. App. 532"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Miller et al. v. Franklin MacVeagh et al."]
+source_url: "https://static.case.law/ill-app/40/cases/0532-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5026446
+cites_cases: ["15 Cal. 226", "19 Ill. App. 607", "2 Cal. 39", "22 Ill. App. 442", "27 Ill. App. 351", "27 Ill. App. 401", "50 Ark. 237", "51 Ark. 459"]
+---
+
+# Miller v. MacVeagh
+
+## Majority (Moran, P. J.)
+
+Moran, P. J.
+Franklin MacVeagh & Co. having a judgment against one Benjamin Holstein, rendered in Dakota, brought.an. attachment on said judgment in the Superior Court of Cook County, the ground of attachment set out being that said Holstein was not a resident of this State.
+The attachment writ was served on John Miller & Co. as garnishees. The garnishees answered that they were not indebted to said Benjamin Holstein, and Bertha Holstein, wife of said Benjamin Holstein, filed an interplea, claiming as her own, certain property and money in the hands of said Miller & Co. It appeared from the evidence that Bertha Holstein carried on in Deadwood, Dakota, a business of dealing in hides; that the business was managed by her husband, and the hides purchased shipped to Miller & Co., in Chicago, who had an account of the business in the name of Bertha Holstein.
+The money used in conducting the business and by which the hides shipped to Miller & Co. were purchased, was money that came to said Bertha Holstein from her father and mother. They left her property in Kansas which she turned into money, and she also received an insurance on her father’s life. Hone of the money used in this business came from Benjamin Holstein. She was living with her husband in Dakota when she received this money from her father’s estate, and her said husband in conducting the hide business for her used about $6,000. The bank account in Dakota was kept in her name, but the husband drew checks thereon, signing them as agent.
+It appeared that Miller & Co. had in their hands $417.66, the proceeds of the sale of hides shipped to them. The court found against the interpleader and that the money was the money of Benjamin Holstein, and rendered judgment therefor in favor of said Holstein for the use of MacVeagh & Co.
+By the common law, the money and personal property of the wife, of which she was actually and beneficially possessed in her own right at the time of the marriage, and all such goods or money as might come to her from any source during coverture, became the absolute property of her husband and was transferred to him by operation of law, wherever it might be situated. Hanchett v. Rice, 22 Ill. App. 442; Van Ingen v. Brabrook, 27 Ill. App. 401; Thorn v. Weatherly, 50 Ark. 237.
+Of course the matter of the wife’s ownership of personal property is regulated by statute in most of the States of the Union, but a court of one State can not take notice of the law of another State unless such law is proven in the case as any other fact. Western Transit Co. v. Hosking, 19 Ill. App. 607; C. & N. W. Ry. Co. v. Johnson, 27 Ill. App. 351.
+No proof was made as to what was the law of Dakota as to the ownership of the personal property or money that comes to the wife during coverture. The court in this State then was bound to presume that the common law prevailed in Dakota, and by that law we have seen the personal property of the wife become vested in the husband. Hanchett v. Rice, supra.
+It is admitted by counsel that the common law is to be presumed to exist, unless the contrary is shown, in all States of the Union which are formed from territory which belonged to the colonies of Great Britain, but he argues the court will take judicial notice of the fact that the territory from which the State of Dakota was formed comprised a part of the Louisiana purchase, and came from France, and therefore the civil law must be presumed to be the law of such territory, and the civil law recognizes the wife as a distinct person, who may hold her property separately and in her own right.
+But laws are for people, and not for mere territory as such. In the portion of the Louisiana purchase from which Dakota was.formed, there existed no civilized community governed by any law at the time of the cession. When Dakota was peopled and an organized community created in her territory, it was by emigrants from States where the common law was in force, and by citizens who looked to that common law as their natural right and as forming the source and basis of their jurisprudence.
+This question was fully considered and ably discussed in the case of Norris v. Harris, 15 Cal. 226, in an opinion by Mr. Justice Field, now an associate justice of the Supreme Court of the United States. After stating the presumption that the common law exists in States formed from territory which belonged to the colonies of England, he says: “Asimilar presumption must prevail as to the existence of the common law in those States which have been established in territory acquired since the Revolution, where such territory was not, at the time of its acquisition, occupied by an organized and civilized community; where, in fact, the population of the new State upon the establishment of Government was formed by emigration from the original States. As in British Colonies established in uncivilized regions by emigration from the parent country the subjects are considered as carrying with them the common law, so far as it is applicable to their new situation, so when American citizens immigrate into territory which is unoccupied by civilized man, and commence the formation of a new government, they are equally considered as carrying with them so much of the same common law, in its modified and improved condition under the influence of modern civilization and republican principles, as is suited to their new condition and wants.”
+Missouri was part of the Louisiana purchase, and it is held in Eureka Springs Ry. v. Simmons, 51 Ark. 459, that in the absence of proof to the contrary, the common law would be presumed to be in force in that State. See also 2 Cal. 39, and Story, Conflict of Laws, 866.
+The court was bound, therefore, on the trial of this case, to assume that the common Jaw regulating the relation and property rights of husband and wife, prevailed in Dakota, and if that was not the fact, it rested on appellant, Bertha Holstein, who asserted the contrary, to show it by proof.
+The court was correct in holding the money in the hands of Miller & Co. to belong to Benjamin Holstein, the husband, and that the same was subject to attachment for his debt.
+Other errors assigned require no further attention than to say that we have considered them all, and are of opinion that they are not well taken.
+The judgment of the Superior Court will he affirmed.
+Judgment affirmed.
