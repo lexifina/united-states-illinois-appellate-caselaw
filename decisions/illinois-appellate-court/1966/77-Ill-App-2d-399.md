@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 66-57M"
+decided: "1966-12-29"
+citations: ["77 Ill. App. 2d 399"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Mello and Lucille Mello, His Wife, Plaintiffs-Appellees, v. Jack Lepisto and Nancy C. Lepisto, His Wife, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/77/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2572569
+cites_cases: ["1 Ill App2d 212", "1 La 73", "104 Ill App 556", "117 NE2d 302", "12 Ill2d 133", "125 NE 320", "145 NE2d 596", "196 NE2d 498", "208 NE2d 323", "26 Pa 415", "290 Ill 496", "39 Ill 46", "46 Ill App2d 1", "49 Ill 484", "52 Ill 158", "60 Ill App2d 82"]
+---
+
+# Mello v. Lepisto
+
+## Majority (MR. PRESIDING JUSTICE MORAN)
+
+MR. PRESIDING JUSTICE MORAN
+delivered the opinion of the court.
+Plaintiffs and defendants are the owners of adjoining residential lots in the City of Waukegan. Plaintiffs purchased their house and lot from one Pickett. Sometime later the defendants purchased the adjoining property and constructed their residence. The defendants installed a sump pump in the basement and connected the outlet to a trough which directed the drainage water onto the property of the plaintiffs. When plaintiffs protested this arrangement the trough was removed. Subsequently, plaintiffs built a retaining wall between the two properties for the purpose of holding back water coming from the defendants’ property. Plaintiffs then brought this suit seeking an injunction and money damages to reimburse them for the cost of the retaining wall. Plaintiffs’ amended complaint alleges that water from the defendants’ property is diverted onto plaintiffs’ property outside of the “normal patterns or channels of drainage.”
+The plaintiffs apparently did not pursue injunctive relief and after hearing evidence the magistrate entered judgment in the plaintiffs’ favor for $475 which was the cost of the retaining wall.
+The defendants appealed from such judgment and have filed a motion in this court to reverse upon the grounds that the plaintiffs failed to file any brief herein. The motion was taken with the case. Since the plaintiffs have failed to file a brief we have discretion to reverse the matter without considering the merits or to consider the case upon its merits. Ogradney v. Daley, 60 Ill App2d 82, 208 NE2d 323 (1965), 541 Briar Place Corp. v. Harman, 46 Ill App2d 1, 196 NE2d 498 (1964). The small amount involved undoubtedly accounts for plaintiffs’ failure to file a brief in this court; however, because of the important principles involved we have determined to consider the case on the merits. We are not to be understood as holding that in another case we would follow the same course of action.
+There are three legal theories of drainage in the United States. The first is the so-called “common enemy doctrine” which permits an owner of land to repel drainage waters in any manner he chooses. This rule is not the law in Illinois. The second legal theory is the so-called “civil law rule,” which requires the owner of servient lands to accept all waters naturally flowing from dominant lands. This is the rule of drainage law in Illinois. The third theory is the so-called “reasonable use” theory which modified the civil law rule in the case of urban lands.
+The civil law rule was first adopted in the State of Louisiana in the case of Orleans Navigation Co. v. Mayor of New Orleans, 1 La 73, 2 Mart (OS) 214. Pennsylvania was the first common law State to adopt the rule in the case of Martin v. Riddle, 26 Pa 415 (1848). The rule was adopted by Illinois in Laney v. Jasper, 39 Ill 46 (1865), and more adequately expressed in Gillham v. Madison County R. Co., 49 Ill 484 (1869). In Gormley v. Sanford, 52 Ill 158 (1869), a classic statement of the rule is made at page 162:
+“. . . As water must flow, and some rule in regard to it must be established where land is held under the artificial titles created by human law, there can clearly be no other rule at once so equitable and so easy of application as that which enforces natural laws. There is no surprise or hardship in this, for each successive owner takes with whatever advantages or inconveniences nature has stamped upon his land.”
+These early decisions have been followed by many later cases, among them, Adams v. Abel, 290 Ill 496, 125 NE 320 (1919) and Geis v. Rohrer, 12 Ill2d 133, 145 NE2d 596 (1957). In the case of Bundy v. City of Sullivan, 1 Ill App2d 212, 117 NE2d 302 (1954), the court reversed and dismissed a complaint in which the plaintiff alleged that the defendant had constructed “artificial ditches” draining onto the plaintiff’s property. The court dismissed on the theory that whether the ditches were artificial or not, the only question was whether or not they were in the course of natural drainage and the plaintiff had failed to allege natural drainage and, therefore, had failed to state a cause of action.
+Defendants urge us to accept the proposition that Illinois has modified the civil law rule in the case of urban lands and in that instance applies the so-called “reasonable use” rule. As authority for this proposition defendant directs our attention to Miller v. Wilson, 104 Ill App 556 (1902). There involved were two adjoining residential properties in the City of Chicago. The defendant had installed roof drains and during the greatest single downpour in the history of the City of Chicago, water ran from the defendant’s roof drains onto the property of plaintiff. The Court held that no reasonable person could have anticipated such a natural catastrophe and that, therefore, the defendant was not liable. The case is unique and applies only to its facts which are not present in the case at bar.
+We conclude that the civil law rule is the law in Illinois and that it applies to all lands without regard to their degree of development. There is no “reasonable use” exception under Illinois law.
+This case, however, is not a classic case of the civil law rule. The plaintiff did not allege the course of natural drainage and there is no testimony indicating the course of natural drainage. The former owner of the plaintiffs’ property testified that she dumped from thirty to forty loads of fill on the property prior to building the house. Therefore, it appears from the record that both of the properties have been filled and there is no evidence as to the direction of the natural drainage. We conclude that plaintiffs’ amended complaint did not state a cause of action and that the evidence showed no cause of action against this defendant. Bundy v. City of Sullivan, supra.
+The decision is, therefore, reversed.
+Reversed.
+DAVIS and ABRAHAMSON, JJ., concur.
