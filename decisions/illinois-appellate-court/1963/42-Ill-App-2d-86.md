@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,727"
+decided: "1963-06-12"
+citations: ["42 Ill. App. 2d 86"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SCHWARTZ and McCORMICK, JJ, concur."]
+parties: ["Minnie Lustgarten, Plaintiff-Appellant, v. First Federal Savings & Loan Association of Chicago, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/42/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5248843
+---
+
+# Lustgarten v. First Federal Savings & Loan Ass'n
+
+## Majority (MR. PRESIDING JUSTICE DEMPSEY)
+
+MR. PRESIDING JUSTICE DEMPSEY
+delivered the opinion of the court.
+On May 10, 1961, the plaintiff, Minnie Lustgarten, borrowed $17,200 from the defendant, the First Federal Savings & Loan Association of Chicago. She signed a note for this amount and gave a mortgage to secure repayment of the loan. The note carried an interest rate of 6% per year and provided that the interest and the principal were to he paid in monthly installments of $123 starting on June 1, 1961.
+In her complaint, which was brought as a representative class action in behalf of all others situated similarly to herself, the plaintiff stated that when she made the loan on May 10, 1961, she was charged $62.37 interest for the balance of the month of May, and that on June 1st she was charged $86 interest for one full month. [The payment of June 1st was $123; evidently $86 was for interest and $37 was on the principal.] She alleged that there was no accrued interest due on the first of June and that the defendant thus wrongfully began a pattern of charging a month’s interest in advance, whereas the note provided that interest was to be paid as it accrued. She alleged that she and other borrowers similarly situated had been systematically and unlawfully overcharged because they had contracted to pay interest only after it had accrued and were, instead, charged interest from the dates the loans were made to the dates when the first payments were due, at which time a full month’s interest was exacted out of the first payment; that this advance payment of interest was repeated every month until the loans were repaid and that because of this each borrower was charged an extra month’s interest at the beginning of each loan. She alleged that by this method the defendant had charged borrowers three or four million dollars in excess interest. She prayed that a receiver be appointed to take into custody one month’s interest on the face value of all loans made by the defendant.
+The defendant moved to strike because (a) the complaint did not state grounds for a class action and (b) the plaintiff by the terms of the note agreed to pay interest in advance. The plaintiff filed objections to the motion; she defended her allegations that there was a class action, arguing that she and others had a common interest in a common fund which consisted of one month of interest overcharged on each loan made by the defendant, or outstanding on its books for the ten years last past, and she iterated her contention that the terms of the note neither explicitly nor impliedly made provision for the payment of interest in advance.
+The trial court sustained the motion to strike, but granted leave to the plaintiff to file an amended complaint to state whatever claim she might have as an individual. She elected to stand on her complaint; the suit was dismissed and she has appealed.
+The gravamen of the plaintiff’s complaint is directed to the interest charged on June 1, 1961. Paragraph after paragraph complains of paying a full month’s interest at the start of the month although it was not due until the end of the month. This complaint is made in reference to the plaintiff’s own prepayment and to the prepayments made by all the borrowers for whom the action was brought. There is no complaint about paying interest for a fraction of a month and, specifically, no complaint is made of the $62.37 interest paid on May 10th, except as it relates to the inception of the defendant’s practice of charging interest in advance. Likewise, no complaint is made of paying an annual interest rate in excess of 6%, although it is clear that by obtaining prepayments of interest, the defendant gained a rate of interest higher than called for in the note.
+Thus, the whole thrust of the complaint is that the defendant breached the agreement by charging one full extra month’s interest in advance. Bearing this in mind, we now proceed to examine that portion of the note which is germane to the principal issue in this case: whether the note supports the plaintiff’s charge that interest was to be paid as it accrued rather than in advance.
+“For value received we hereby promise to pay to First Federal Savings and Loan Association of Chicago, a corporation organized and existing under the laws of the United States, hereinafter referred to as the Association, or to its successors and assigns, at its offices in the City of Chicago, Illinois, or at such other place as it may designate, the principal sum of seventeen thousand two hundred and no/hundredths dollars ($17,-200), together with interest thereon from date at the rate of six per centum (6%) per annum, said principal and interest to be payable in monthly installments as follows: One Hundred twenty three and no/hundredths dollars ($123) on the 1st day of June A.D. 1961, and a like sum on the 1st day of each and every month thereafter until this note is fully paid, and in the event .... Said payments shall be applied first to interest on the unpaid balance at the rate herein specified, and then to principal. The interest for each month shall be added to the unpaid balance on the 1st day of the said month at the rate of M.2 of the annual interest rate, and shall be calculated upon the unpaid balance due as of the last day of the preceding month.”
+For the issue at hand the most important part of the note is the last sentence:
+“The interest for each month shall be added to the unpaid balance on the 1st day of the said month at the rate of % 2 of the annual interest rate, and shall be calculated upon the unpaid balance due as of the last day of the preceding month.”
+The key to the. correct interpretation of this sentence lies in the words italicized. If we substitute the months indicated in the complaint for the italicized words, the meaning of the sentence becomes quite clear. The sentence would then read:
+“The interest for the month of June shall be added to the unpaid balance on the 1st day of June at the rate of Vi2 of the annual interest rate, and shall be calculated upon the unpaid balance due as of the last day of May."
+This language contemplates the payment of interest in advance rather than after it has accrued. The plaintiff’s allegation that interest was to be paid on an accrual basis is unsupported by the note, which is the foundation of her complaint. It follows that the plaintiff failed to state a cause of action for the wrongful collection of one full month of interest at the beginning of the loan.
+The fact that the defendant made a motion to strike does not alter this conclusion. Such a motion admitted only the facts well pleaded, not the interpretation placed on the language of the note by the plaintiff.
+The order of the trial court sustaining the motion to strike and dismissing the complaint is affirmed.
+Affirmed.
+SCHWARTZ and McCORMICK, JJ, concur.
