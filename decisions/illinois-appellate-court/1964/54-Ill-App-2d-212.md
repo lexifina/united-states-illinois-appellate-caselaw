@@ -1,0 +1,44 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 49,682"
+decided: "1964-12-02"
+citations: ["54 Ill. App. 2d 212"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ENGLISH, P. J. and McCORMICK, J., concur."]
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Charles Hawkins (Impleaded), Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/54/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5281940
+cites_cases: ["12 NE2d 652", "125 NE 882", "129 NE 517", "131 NE2d 25", "177 NE2d 323", "186 NE2d 259", "192 NE2d 568", "192 NE2d 920", "197 NE 531", "23 Ill2d 147", "26 Ill2d 207", "28 Ill2d 505", "291 Ill 154", "295 Ill 588", "32 F Supp 28", "361 Ill 178", "367 Ill 580", "392 Ill 257", "43 Ill App2d 42", "52 NE2d 200", "64 NE2d 372", "7 Ill2d 465"]
+---
+
+# People v. Hawkins
+
+## Majority (MR. JUSTICE DRUCKER)
+
+MR. JUSTICE DRUCKER
+delivered the opinion of the court.
+In a bench trial defendant, Charles Hawkins, was convicted of attempted robbery and sentenced to the penitentiary for a term of not less than three years nor more than five years.
+The chief contention advanced for reversal is that the evidence adduced at the trial failed to prove the defendant guilty of attempted robbery.
+William Nolan, a Chicago police officer assigned to an undercover unit, testified that at about 1:00 o’clock on the morning of September 16, 1962, he was dressed in civilian clothes; that he was walking on Kedzie Avenue just south of Roosevelt Road with Officers William Struke and Curtis Gilmore. Nolan stated that he walked into an alley, went up against a wall and coughed a few times. He asserted that a few seconds later three men (Nolan identified them as Billie Harbor, Charles Wilbon and the defendant, Charles Hawkins) came out of the alley, passed him and walked out on Kedzie Avenue. Shortly afterwards the three returned to the alley; Harbor asked Nolan what he was doing in the alley and why he was out of his neighborhood. The trio left but returned a third time. The defendant, Charles Hawkins, said: “The man probably got some money on him, let’s get him.” Billie Harbor twice declared: “Well, I’m going to cut this man’s heart out.” Defendant repeated: “We’ll get his money.” Officer Nolan testified that he “was backed up against the wall”; that Harbor pulled a knife from his left front pocket (the four inch weapon was identified by Nolan at the trial) and came at him at the same time that defendant reached at Nolan with his hand; that the officer kicked Harbor in the groin, pulled his revolver and pointed it at defendant, informing all three men that they were under arrest.
+William Struke was assigned to the undercover unit of the Chicago Police Department on the day in question. He testified that he was in a truck (jeep) that was parked against the north wall of the alley; that the closed back doors of the truck faced the mouth of the alley; that Nolan came into the alley and stopped about ten feet from the back of the truck. Struke detailed the three trips into the alley by the trio. He stated that defendant had said of Nolan: “He has got some money, let’s get him.” Struke maintained that he twice heard Harbor assert: “I’m going to cut your heart out.” The witness further stated that the three men started to close in on Nolan; that Harbor produced a knife from Ms left pocket just “about tbe same time Hawkins put bis band in close proximity of tbe pockets of Officer Nolan.” On cross-examination Struke revealed tbat be emerged from tbe jeep as soon as Harbor bad drawn tbe revolver. Struke admitted tbe reason Officer Nolan was pretending to be sick was tbat “He was trying to be robbed. . .”
+Defendant testified tbat on September 16, 1962, be went to a party at about 8:00 o’clock at Billie Harbor’s aunt’s bouse at 1251 Spaulding; tbat be left tbe party witb Billie Harbor and Charles Wilbon at tbe behest of tbe hostess to acquire some refreshments; tbat on their return they encountered a man who “was standing in tbe alley, coughing.” Defendant acknowledged tbat be offered assistance to tbe distressed man who did not reply; tbat tbe second time defendant queried tbe man tbe latter pulled bis revolver. Defendant denied attempting robbery; when asked about Nolan be stated “I didn’t know who tbe man was. I didn’t need no money”; tbat be did not “grab at him. I bad a bag in my arms”; tbat neither be nor bis two friends came closer than ten feet to tbe officer; and tbat defendant was tbe only one who communicated witb Nolan.
+Billie Harbor said tbat be was at tbe borne of bis cousin at 1251 Spaulding on tbe night in question; tbat bis cousin sent Wilbon, tbe defendant and himself to acquire some liquor; tbat to reach a liquor store they went through an alley on Spaulding and came out on Kedzie Avenue; tbat when they returned through tbe alley a man was standing there coughing; tbat tbe second time tbe defendant proffered assistance tbe officers started beating tbe trio. Harbor denied bearing defendant exclaim tbat Nolan’s “. . . got some money. Let’s get him. . .”
+Charles Wilbon also testified to the same effect as Billie Harbor.
+Pertinent to this case are the following excerpts from the Criminal Code of 1961 (Ill Rev Stats, c 38):
+§ 18-1 Robbery
+(a) A person commits robbery when he takes property from the person or presence of another by the nse of force or by threatening the imminent use of force.
+§ 8-4 Attempt
+(a) Elements of the Offense.
+A person commits an attempt when, with intent to commit a specific offense, he does any act which constitutes a substantial step toward the commission of that offense.
+The intent to commit robbery may be gleaned from circumstantial evidence, People v. Bonner, 43 Ill App2d 42, at page 47, 192 NE2d 568:
+Defendant claims, in any event, that intent to commit theft was not shown because there was no evidence of a demand for money. It cannot be doubted that the intent of a defendant may be inferred from his acts and his spoken words. (People v. Mayer, 392 Ill 257, 64 NE2d 372; People v. Hiller, 7 Ill2d 465, 470, 131 NE2d 25; People v. Kruse, 385, Ill 42, 44, 52 NE2d 200.) In a recent case involving assault with intent to rob, the Supreme Court said: “(A) specific demand for money is not necessary to prove the intent to rob. (See People v. Leahy, 295 Ill 588, 593, 129 NE 517; People v. Kuhn, 291 Ill 154, 158, 125 NE 882.) Although intent is a matter of fact and cannot be implied as a matter of law, criminal intent may be shown by circumstantial evidence (People v. Weiss, 367 Ill 580, 12 NE2d 652; People v. Martishuis, 361 Ill 178), 197 NE 531.” People v. Perry, 23 Ill2d 147, 154, 177 NE2d 323.
+Defendant’s statements: “The man probably got some money on him, let’s get him,” and “We’ll get his money” demonstrate his intent to rob Nolan. Defendant’s attempted grasping at Officer Nolan with his hands as Harbor approached Nolan with a knife is a further manifestation of an intent to rob.
+An attempt is realized when an act is done which constitutes a substantial step toward the commission of the crime charged, assuming the requisite intent. An assault with intent to rob is more than an attempt to rob. It includes an attempt to rob and in addition all the essentials of an assault, United States v. Spain, 32 F Supp 28, 30 (ED Ill, 1940). The assault in the present case is the substantial step of the attempted robbery. It is manifested by defendant’s reaching at Nolan with his hands as Harbor approached Nolan with a knife; it is evidenced by Harbor’s bold assertion that: “. . . I’m going to cut this man’s heart out.” The intimidation engineered by either confederate is attributable to both, People v. Washington, 26 Ill2d 207, 209, 186 NE2d 259.
+Although defendant and his two witnesses contradicted the testimony of the two police officers, the trial court believed the police officers. A reviewing court will not substitute its opinion as to credibility of the evidence unless the proof is so unsatisfactory as to justify a reasonable doubt of guilt, People v. Boney, 28 Ill2d 505, 192 NE2d 920. We hold that the defendant was proved guilty of attempted robbery beyond a reasonable doubt. The decision of the trial court is affirmed.
+Affirmed.
+ENGLISH, P. J. and McCORMICK, J., concur.
+At this juncture in the trial Harbor was discharged.
+In that ease the defendant was convicted of attempted theft of an undercover decoy, a purportedly inebriated policeman. Defendant accompanied the decoy into an alley; a second decoy appeared; the defendant alleged that he became frightened by the presence of both officers; he shouted, with a hand in his pocket, for them to put up their hands or he would blow their brains out.
