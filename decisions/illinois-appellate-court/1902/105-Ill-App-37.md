@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1902-11-24"
+citations: ["105 Ill. App. 37"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles I. Imes, Adm'r, v. The Chicago, Burlington & Quincy R. R. Co."]
+source_url: "https://static.case.law/ill-app/105/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2581823
+cites_cases: ["103 Ill. 512", "106 Ill. 337", "133 Ill. 248", "150 Ill. 546", "50 Ill. 39", "74 Ill. 367", "74 Ill. App. 356"]
+---
+
+# Imes v. Chicago, Burlington & Quincy R. R.
+
+## Majority (Mr. Justice Harker)
+
+Mr. Justice Harker
+delivered the opinion of the court.
+This suitjwas brought by appellant as the administrator of James J. Windsor, deceased, to recover damages for the killing of deceased by a train while he ivas attempting to cross appellant’s railroad at a street crossing in the city of Colchester, Illinois. When killed, deceased was riding in a wagon, drawn by two mules which he was driving.
+The declaration contains four counts. The first count charges that the defendant carelessly and improperly managed the locomotive and train; the second count charges a violation of the statutory duty to ring the bell and blow the whistle; the third count charges that the train was run in violation of a speed ordinance of the city; and the fourth count charges that the train was run at a great and dangerous rate of speed, without keeping a proper lookout, etc. The court sustained a demurrer to the third count because of the invalidity of the ordinance on which it was based. The ordinance made it unlawful to propel a locomotive or car within the city at a greater rate of speed than ten miles per hour, or “ at any speed so as to endanger the safety of persons or property ivhile passing across or over the track of any railroad in the city.” Issue was taken on the other three counts and a trial was had by jury. At the conclusion of the evidence, the court, upon the motion of defendant, peremptorily instructed the jury to return a verdict for the defendant.
+In seeking a reversal of the judgment appellant urges:
+1. That the court erred in sustaining a demurrer to the. third count of the declaration.
+2. That the court erred in instructing the jury to return a verdict for the defendant.
+While cities and villages may, by ordinance, regulate the speed of railroad trains within their corporate limits, it is expressly provided by section 87, chapter 114, Hurd’s revision of the Illinois statutes, that “ no such ordinance shall limit the rate of speed in case of passenger trains to less than ten miles per hour, nor in any other case to less than six miles per hour.” It is clear that the city council of Colchester had no power to limit the rate of speed below that mentioned in the statute, and that part of the ordinance in question which makes it unlawful to run “ at any speed so as to endanger the safety of persons or property while passing across or over the track of any railroad in this city,” is void. As one part of the ordinance does limit the rate of speed to ten miles per hour, it is contended that the void part can not have the effect to render the whole ordinance void. We are inclined to that view, and the following authorities are in point: Kettering v. the City of Jacksonville, 50 Ill. 39; Harbaugh v. City of Monmouth, 74 Ill. 367; City of Quincy v. Bull, 106 Ill. 337. The court erred in sustaining a demurrer to the third count. But is the error such a one as to require a reversal of the judgment ? By taking this count out of the declaration the plaintiff was precluded from introducing any proof, excepting the ordinance itself. All proofs that could have been produced under that count, except the ordinance, were introduced under the other counts. If we can say that the court, with all the evidence contained in this record and the additional evidence of the ordinance, should have directed a verdict for the defendant, then the error is not sufficient to reverse. This brings us to a discussion of the other point of contention.
+The evidence shows that deceased drove upon the railroad track in a trot; that he did not look 'in the direction from which the train was coming, although there was an unobstructed view in that direction for a distance of two miles; that there was level ground and ample room to turn his team had he seen the train and desired to do so. He was evidently thinking about other things than the dangers of the place and was oblivious to his surroundings. He used neither eyes nor ears. He did not approach the crossing as though it was a dangerous place and as a careful and prudent man would have done. There was lacking that element of proof necessary to the plaintiff’s case. The defendant may have been running its train at a high and unusual rate of speed, at a rate prohibited by ordinance; it may have failed to comply with the statute requiring a bell to be rung, or a whistle to be blown, but the burden was still on the plaintiff to prove that the deceased at the time of accident was in the exercise of ordinary care to avoid injury. C., B. & Q. R. R. Co. v. Johnson, 103 Ill. 512; C., M. & St. P. Ry. Co. v. Halsey, 133 Ill. 248; Lake Shore and M. S. Ry. Co. v. Hessions, 150 Ill. 546; C., B. & Q. R. R. Co. v. Gunderson, 74 Ill. App. 356.
+The doctrine of comparative negligence is no longer the law of Illinois. To entitle appellant to recover in this case, it devolved upon him to prove the averment in his declaration that the deceased was, at the time he met his death, in the exercise of ordinary care for his own safety. As he failed to do that, and the proofs, on the contrary, show that the deceased was unmindful of the dangers surrounding him, and neither looked nor listened before driving upon the railroad, the Circuit Court properly directed a verdict for appellee.
+Judgment affirmed.
