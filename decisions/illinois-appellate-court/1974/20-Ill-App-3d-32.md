@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "73-364"
+decided: "1974-06-13"
+citations: ["20 Ill. App. 3d 32"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Department of Transportation of the State of Illinois, Petitioner-Appellant, v. Alfred A. Gallay et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/20/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5347387
+cites_cases: ["25 Ill.2d 93", "396 Ill. 371"]
+---
+
+# Department of Transportation v. Gallay
+
+## Majority (Mr. JUSTICE CREBS)
+
+Mr. JUSTICE CREBS
+delivered the opinion of the court:
+This is a condemnation case in which the Department of Transportation of the State of Illinois is appealing from a judgment of the Circuit Court of Madison County based on a jury verdict awarding damages for land taken, damages to the remainder, and compensation for the use of a temporary construction easement. It is contended that the trial court committed error in admitting certain testimony and in refusing an instruction. In addition, it is claimed that compensation for the easement was excessive.
+The property involved is a tract of land located on the North side of Route 140 in Cottage Hills in a business area, with a depth of approximately 500 feet and a frontage of 220 feet on the highway. Located on the property are a retail store in front and a motel and a parking area for eight mobile homes in the rear. Petitioner proposed to widen Route 140 from two lanes to four lanes separated by a median strip. This necessitated the taking of a 6-foot strip of land across the width of defendants’ property which, admittedly, would cut the parking spaces in front of their store from 10 spaces to no more than 4 or 5 spaces. To estimate the fair cash market value of land taken and damages to land not taken each party presented only one appraiser. Their estimates and the jury’s verdict were as follows:
+Item Petitioners
+Appraiser
+Entire Property $125,000
+Land Taken 1,325
+Land Not Taken 910
+Easement 157 (3 rs.)
+Defendants’ Jury’s
+Appraiser Verdict
+$150,000
+4,588 $ 3,150
+24,000 16,750
+276 (ea. yr.) 1,656
+Defendants’ appraiser testified that short-term parking is essential to the operation of a retail store, that the location and number of parking spaces available have a direct bearing on the market value of business property, and that in the present instance the reduction of defendants’ available parking spaces was the chief element he considered in his estimate of damage to land not taken. He further stated that it was his understanding that fair cash market value is the price a willing buyer will pay a willing seller when there is no duress and both are informed. In reaching his opinion as to fair cash market value of defendants’ property he stated that he considered three approaches, viz., the summation, the capitalization of income, and the market data approach. On cross-examination he was asked to explain these approaches and in answer to a specific inquiry he stated that the summation approach consists of taking the cost of reproduction, depreciating it and then adding land values. On further inquiry he gave his numerical estimates of such factors relative to the property in question. Finally, he stated that he ended up using the market data approach, that the summation approach was not necessarily the most indicative of value, but rather it was an approach generally used by appraisers to back-check their opinion as to market value, and that he had so used it here.
+From these facts petitioner argues that the court erred in not striking such testimony as it was obvious that the appraiser had relied solely on the summation approach in determining valuation, and that in doing so he had separated the elements and wrongfully testified as to their separate values, citing Department of Public Works & Buildings v. Divit, 25 Ill.2d 93; Chicago v. Callender, 396 Ill. 371.
+We agree with the principles stated in these and other cases cited, but petitioner does not quote them fully. In each of them the court held specifically that replacement or reproduction cost is a proper element for a witness to consider along with' other factors for the puipose of arriving at an estimate of market value. What is prohibited is the giving of one’s opinion based upon reproduction costs without regard to what a buyer or seller would agree upon. Here, based on the witness’ testimony as a whole, it is readily apparent that he did not base his opinion of value solely upon the summation approach or reproduction cost, but that he took many elements into account and used the summation approach principally as a back-check. In fact, petitioner’s appraiser admitted doing the same thing, stating that he used the market approach to valúate the property but then, as a check, used the comparison and the cost approach. We conclude that the refusal of the trial court to strike the testimony of defendants’ appraiser as to the value of land taken was proper.
+Next the petitioner attributes error to the trial court in refusing to give the following instruction:
+“The law does not permit an award of damages for the loss of business during construction, noise, dirt, nearness of traffic, or loss of income, whether temporary or permanent, and you should not consider these factors in determining damages to the remainder.”
+From a review of the record it is readily apparent that this instruction is confusing. It specifically refers to loss of business during construction and loss of income, yet neither of these elements was involved or even mentioned in the case. Also, it is directed towards damages to the remainder, but there is no claim in petitioner’s post-trial motion or in its brief on appeal that such damages were excessive. Essentially the only evidence on noise, dirt and nearness of traffic was offered, not for the purpose of proving damages, but rather for the purpose of proving that petitioner had used the easement for 3 years prior to the present hearing and prior to the start of actual construction. In any event, the elements of noise, dirt and nearness of traffic were adequately covered by another given instruction stating that the jury should not consider inconvenience, annoyance or discomfort. We find, therefore, that the trial court’s refusal to give said instruction was proper.
+Finally, petitioner contends that the verdict of $1656 awarded for use of the land covered by the temporary construction easement was excessive and contrary to the law and the pleadings in the case. Both parties agree that in computing this figure the jury must have used the testimony of defendants’ appraiser valuing the easement at $267 per year. It is assumed that the jury then multiplied that figure by the 6 years which would elapse beween the vesting of the easement in the quick-take proceeding, which event occurred 3 years prior to the present hearing, and a date 3 years hence when it was estimated construction would be completed. Petitioner argues that under the pleadings it requested and obtained only a 3-year easement, and that even using the values of defendants’ appraiser the maximum verdict could not have been more than three times the annual value, or $828.15. Defendants contend that the jury had a right to consider the fact that at the time of the hearing petitioner had already used the easement for 3 years in directing the removal and relocation of various utility lines, and to consider further the fact that the petitioner estimated that construction would in itself take 3 more years.
+We tend to agree with the logic of defendants’ argument, for it is certainly true that under section 2.3(a) of the Eminent Domain Act (Ill. Rev. Stat., ch. 47, par. 2.3(a)) the easement vested in petitioner as of the date set in the quick-take order. Also, subsection (b) of said section specifically covers the converse of the present factual situation wherein it provides that if, after the vesting, a party wishes to retain possession or use of his property he can do so upon a showing of good cause and payment to petitioner of a reasonable rental as determined by the court. Contrariwise, it should follow that petitioner should be obligated to pay a reasonable sum for an easement, not only for the time requested and granted, but also for such additional time as such use may be necessary to complete the construction project.
+However, from the record before us it does not appear that this issue was clearly presented to the jury either by the evidence or by the instructions. In fact, it is only by conjecture that the motivation of the jury can be determined, and as a court of review we do not believe we can or should engage in such conjecture either as to the time needed to complete construction, nor as to the method used by the jury in determining the value of the easement.
+Accordingly, we reverse that portion of the judgment of the Circuit Court of Madison County relating to compensation for the temporary construction easement (which is referred to in said judgment as Tract 431B) and remand the same for the sole purpose of determining the compensation to which defendants are entitled for said easement. In all other respects relating to damages for land taken and land not taken the judgment of said court is affirmed.
+Affirmed in part, reversed in part and remanded with directions.
+EBERSPACHER and CARTER, JJ., concur.
