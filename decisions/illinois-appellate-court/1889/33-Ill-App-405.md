@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-07-02"
+citations: ["33 Ill. App. 405"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lake Shore & Michigan Southern Railway Company v. Sarah A. Parker, Executrix, etc."]
+source_url: "https://static.case.law/ill-app/33/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4984422
+cites_cases: ["117 Ill. 376", "28 N. W. Rep. 714", "33 Minn. 153", "33 Minn. 62", "46 Ill. 99", "47 Iowa, 494", "52 Ill. 296", "69 Ill. 650", "93 Ill. 290"]
+---
+
+# Lake Shore & Michigan Southern Railway Co. v. Parker
+
+## Majority (Gary, J.)
+
+Gary, J.
+This was an action by .the appellee under the statute, for damages for the death of John C. Parker. He was a locomotive engineer, employed by the Rock Island Company, who used, jointly with the appellants, the tracks between Chicago and Englewood, a distance of between six and seven miles. November 7, 1883, he was bringing a train of eleven cars into Chicago, and at about 4:30 p. m., being two hours late, his locomotive ran through an open switch, which led to a side track of the appellants, to which a locomotive of the appellants had passed, leaving the switch open.
+This locomotive was standing on this side track, and there was evidence that smoke and steam from it obscured the target of the switch so that the deceased could not see the target, nor could he see that the rails of the switch were misplaced until too late to stop, and the result was a collision in which he was killed. He was running, as the jury have found in answer to a question, at the rate of fourteen to eighteen miles an hour, and the ordinance of the town of Lake, where the accident occurred, prohibited a speed exceeding twelve miles an hour. There was evidence that the two companies had a joint time table between Chicago and Englewood, but it was not put in evidence, the appellants objecting to its admission, but from the testimony the time allowed to make the distance seems to have been from twenty to twenty-eight minutes.
+The appellants put in evidence joint rules of the companies printed on that time card as follows:
+“1. Passenger trains must not ie delayed. Engineers and conductors of freight trains, and men in charge of yard trains, must not pull out on main track in advance of a passenger train due or in sight; and, in the event of their occupation of the main track, when passenger trains are delayed, must, on the appearance of passenger train, run to the nearest siding, or, if necessary, cross over to the other main track, properly protecting their trains in all cases.
+2. Inasmuch as trains are liable, at all hours, to be entering the yards or sidings at reduced speed, engineers and conductors running trains or engines between Chicago and Englewood, when the view is from any cause obscured, must so control their trains or engines as to he able to stop within the range of their vision. But nothing in this will be held as an excuse for the failure to display proper signals, when trains or engines are held on the main track, and men in charge of trains or engines, when in danger of being overtaken by another train, must protect themselves by flags, lamps and torpedoes, promptly, to avoid all possibility of being run into.
+3. Delayed trains, between Englewood and Chicago, must run with great caution, and at all times under full control.
+4. Conductors will supply themselves with the time tables of the C., M. & St. P. By. and with joint time card of L. S- & M. S. and C., B. I. ifc P. trains, between Chicago and Englewood. Also with bridge time table, between Bock Island and Davenport.
+5. All trains will approach stations with reduced speed and with care.
+6. On approaching bridges, switches and passing road crossings, the greatest care must be taken.
+7. A strict and faithful observance of foregoing regulations, it is believed, will enable the conductors to so govern their trains as to avoid danger or accident, as far as circumstances can be foreseen and avoided. It is therefore vastly important that, when understood, they be observed and enforced. It is earnestly hoped that this notice is all that may be necessary to insure a prompt and willing obedience to rules, as the consequences, whether good or bad, must, in a great measure, rest upon those who have the immediate charge of the trains.”
+The argument of the appellants in this court is all upon facts; either as to what the jury should have done, or what instructions the court should have given as to acts or omissions constituting negligence on the part of the deceased. That argument consists of two parts: First, that the deceased was violating an ordinance as to speed, and therefore there could be no recovery; second, that he was violating the foregoing rules, with the same consequence.
+As the appellants kept the time table out of the ease, the jury were justified in taking the time at the shortest testified to by any witness; but if the longest was taken, then twenty-eight minutes for six miles and a half, with three stops to make, required a speed not less than the jury found that the train was going.
+Shall the appellants, by rules, require the speed, and then object that obedience to the rule was negligence? It is difficult to discuss such a question without using language inappropriate to a judicial deliverance. The defendants are estopped by their own conduct.
+The deceased came to his death not by any act of his own which would have contributed to it, if the appellants had not violated their own rules, but by a peril which they put in his way, and of which he had no warning. If, in compliance with the first of the above rules, the appellants had properly protected their locomotive on the side track, the switch would have been in place, and Parker in safety. If he knew that rule, and saw the locomotive standing there, the presence of the locomotive was to him a representation by the appellants, that the switch was in place for the main track; whether the smoke from the locomotive obscuring the target ought to have caused him to doubt the truth of that representation and slow up, was a question for the jury, to which the answer would always, and ought to be, adverse to the appellants; and besides, the record shows that there were a great many switches between Chicago and Englewood; it does not show that the deceased, or any other engineer, would remember the location of each target. The presence on the side track, of the locomotive, was no indication of the place at which the switch was, that connected the main and side tracks; and if the deceased did not remember that a target stood where the smoke then was, he would not naturally expect to find one under the cover of that smoke.»
+It is not the duty of this court to go over a multitude of instructions and answer arguments as to each, when upon a special question the jury have found that the target was obscured by smoke, and that smoke came from a locomotive of the appellants, the mere presence of which was a representation that the target, if it could be seen, showed the main line to be open. The judgment must be affirmed.
+Judgment affirmed.
+Judge Garnett takes no part in this decision.
