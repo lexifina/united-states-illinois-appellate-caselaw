@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-1613"
+decided: "1978-10-11"
+citations: ["65 Ill. App. 3d 86"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. BRIAN ZACHARY KOONCE, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/65/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3328873
+cites_cases: ["108 Ill. App. 2d 1", "197 N.E.2d 436", "247 N.E.2d 177", "26 Ill. App. 3d 547", "30 Ill. 2d 359", "325 N.E.2d 738"]
+---
+
+# People v. Koonce
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court:
+Defendant, Brian Zachary Koonce, was charged with the offenses of theft of lost property and use of a stolen credit card. Prior to trial, the parties informed the trial court that they had entered an agreement whereby defendant agreed to plead guilty to the charge of theft of lost property and the State would recommend one year probation and would nolle prosse the credit card charge. The trial court made no comment on the agreement, accepted defendant’s plea of guilty on the theft charge, and placed defendant on one year social service supervision. When the prosecutor remarked that he had agreed to probation, not to supervision, the trial judge asked what the State wished to do. The prosecutor replied that the State would go to trial on the credit card charge. After a trial without a jury, defendant was found guilty of that charge and was placed on probation for one year.
+Defendant appeals both findings, contending that he was not proved guilty beyond a reasonable doubt of use of a stolen credit card; that the court’s unilateral modification of the plea agreement was improper in that defendant entered a plea of guilty to the theft charge solely in reliance on the dropping of the other charge; and that the trial court erred in failing to substantially comply with the requirements of Supreme Court Rule 402 in accepting defendant’s plea of guilty to the theft charge. Defendant finally contends that if his credit card conviction is affirmed, the conviction for theft of lost property must be vacated as a lesser included offense.
+The facts pertaining to the credit card charge as adduced by the testimony of the two State’s witnesses are as follows. John Pearson testified that on May 5, 1977, he accidentally left his keys in his work locker at R.R. Donnelley. When he returned to his locker, he found that his keys, billfold and credentials, including a Sears, Roebuck and Company credit card, were missing. He identified a Sears credit card, introduced into evidence by the State, as his.
+Louis Frazier, a Sears security officer, testified that on May 8,1977, he was so employed at a Sears store in Chicago. He testified that he was called to the jewelry section concerning “the report of a credit card which had been reported as stolen.” Defense counsel’s objection to that testimony by Frazier was sustained, and the testimony was stricken. Frazier then testified that he approached defendant at the jewelry section and asked if he had a problem with his account. Defendant replied that it was possible he was overextended because he had missed the last four payments on his account. Frazier identified himself as a security officer and advised defendant he was under arrest for possession of a stolen credit card. Frazier testified that defendant, after being given his Miranda warnings, stated that he came to the store to try to purchase one or two watches with the credit card he found at Donnelley’s, his place of employment.
+Defendant initially contends that the evidence was insufficient to convict him of use of the stolen credit card under the Illinois Credit Card Act. (Ill. Rev. Stat. 1975, ch. 1211/2, par. 608.) The statute requires the State to prove that a defendant either used the credit card or obtained property by representing himself as holder of the card.
+Circumstantial evidence, of course, may be used to establish the elements of a criminal offense. (People v. Bernette (1964), 30 Ill. 2d 359, 197 N.E.2d 436.) Here however, there is a complete absence of any evidence, direct or circumstantial, that defendant used the stolen credit card. The only testimony which would have demonstrated that necessary element of proof was stricken by the trial court. The remaining evidence reveals only that defendant had a conversation with the security officer regarding possibly overextended credit and that defendant subsequently stated he came to the store with the credit card to try to purchase one or two watches. His use of the credit card was not demonstrated in any manner. The State suggests that the fact that it introduced the credit card somehow shows it was used by defendant. The introduction into evidence of the credit card, which could have been recovered from defendant by search, does not demonstrate its use. Defendant was not proved guilty beyond a reasonable doubt of use of a stolen credit card.
+Defendant’s remaining contentions refer to his plea of guilty to the charge of theft of lost property and to his being placed on supervision on that charge, and may be disposed of summarily. At the time of the trial of this matter, a finding of supervision was not a disposition which was considered a final order or sentence. (People v. Breen (1975), 26 Ill. App. 3d 547, 325 N.E.2d 738.) Since then, the statute has been changed so that supervision is a final order for purposes of appeal. (Ill. Rev. Stat. 1977, ch. 38, par. 1005 — 6—3.1.) Where no final judgment has been entered, the appeal will be dismissed (People v. De Groot (1968), 108 Ill. App. 2d 1, 247 N.E.2d 177), and defense counsel at oral argument agreed that such action would be appropriate in the present case. The appeal from the finding of supervision, therefore, is dismissed.
+For the reasons stated, the judgment of the circuit court of Cook County adjudging defendant guilty of use of a stolen credit card is reversed. The appeal from the judgment placing defendant on supervision for theft of lost property is dismissed.
+Reversed in part; dismissed in part.
+JIGANTI, P. J., and SIMON, J., concur.
