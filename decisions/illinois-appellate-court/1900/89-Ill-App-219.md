@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-05-15"
+citations: ["89 Ill. App. 219"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Union Trust Company v. Henry M. Hosick."]
+source_url: "https://static.case.law/ill-app/89/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5279887
+cites_cases: ["120 Ill. 549", "154 Ill. 245", "155 Ill. 506", "164 Ill. 135", "168 Ill. 256", "176 Ill. 311", "179 Ill. 103", "40 Mo. 195", "6 Hill, 438", "6 Minn. 305", "80 Ill. 109", "95 Ill. 298"]
+---
+
+# Union Trust Co. v. Hosick
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the court.
+The finding in the decree that the agreement, and the conveyance to trustees in pursuance of it were made in good faith, is abundantly supported by the evidence— indeed there is no evidence to the contrary. There ivas no attempt on the part of ITosick or any of his creditors to exclude appellant from any benefit of the arrangement. On the contrary, the agreement contemplated the uniting of the appellant and every other creditor in the plan, and appellant being invited to join the others was the only one to decline. That it had the right to decline can not be questioned, and it should not be made to suffer because it did so. But on the other hand, it should not be profited by declining, unless the doing of what was done was a fraud upon its rights as a matter of law—there being no fraud in fact.
+There is no pretense that the assignment of Hosick in the County Court was not valid and regular in all respects. But it is contended that the plan disclosed by the agreement to withdraw his property from the control of the court and place it back in Hosick’s hands, and then for him to convey it to the trustees, in some manner worked a legal fraud upon appellant. The court found in its decree that the arrangement was for the best interests of all parties concerned, which includes appellant, and appellant made no showing under which the court could have found differently.
+It might seem, at first thought, that the running of the business at a loss of $7,000 from the inventoried value of the assets, suggests a conclusion to the contrary, but that loss may well have been more apparent than real.
+The substantial inquiry after all, with regard to that matter, is what, if anything, was the real loss to the creditors '? Courts need not remain in ignorance of what everybody else knows with reference to the unavoidable losses and expenses that occur in the disposition of insolvent estates through the instrumentalities of assignees in the handling of the assets intrusted to them.
+And where it appears that an honest effort is made by creditors to administer the estate themselves, with greater business latitude than can be permitted to court assignees, it should not be the policy of the courts to discountenance such an endeavor, unless in the doing of it some rule of law is violated.
+Much stress is placed by appellant upon the cases of Howe v. Warren, 154 Ill. 245, Terhune v. Kean, 155 Ill. 506, and American Exchange Bank v. Walker, 164 Ill. 135, as condemning the course here pursued, but we do not so understand those decisions.
+Without pausing to enter upon a special review of what was there decided, it is enough to say that they included elements entirely lacking in this transaction. Here was an open purpose and an honest intention on the part of everybody to manage the estate without preference to any, and to pay the creditors in full—features not existing in either of the cited cases. For an analysis of the decisions in those cases, see Kelley v. Leith, 176 Ill. 311. The arrangement contemplating the return to the debtor of anything that might be left after paying all creditors in full, was no more than would have resulted if the case had remained in the County Court and the creditors had been fully paid through that method of administration.
+The contention that the agreement contemplated the benefit of only such creditors as should sign the paper, is not sound. That is not the correct construction of the agreement, and is not the construction the Circuit Court has put upon it. Appellant is as much entitled to its share of the estate as if it had signed; that is not what disturbs the appellant, for it wants to be paid in full whether the other creditors are so treated or not.
+The real effect of the transaction is that of a conveyance for the equal benefit of all creditors of the grantor, with preferences to none, made at a time when (the property having been turned back„ to its owner) the grantor had full power to dispose of it in that manner.
+That it was prearranged does not destroy its validity, and especially so when the previous arrangement contemplated and expressly embraced the equality of all creditors, and no element of unfairness entered into it.
+The trust so created is doubtless subject to equitable control and enforcement upon the application of any creditor showing equitable grounds for interference by a court of equity in furtherance of the spirit and purpose of the trust, but it is not open to destruction at the instance of one of its beneficiaries for his sole advantage.
+We see no ground upon which to base that part.of the decree requiring the trustees to respond to the appellant for all or any part of the $7,000 found to have been lost by them in the management of the trust.
+The trust entitled the appellant to share pro rata with all other creditors in its benefits, and it seems to be contrary to all principle to charge the burdens of the trust upon some and not upon all the beneficiaries, where there has been no fraud or misconduct, and only an honest effort to administer the trust in accordance with its terms. It does not seem to be consistent to hold that the trust is for the benefit of all equally, and at the same time declare that its burdens shall be borne equally. The learned chancellor seems to have considered that the power given to the trustees to conduct the business for two years, constituted a fraud in law as against appellant, and to have therefore relieved appellant of any part of the $7,000 that was apparently lost in the conduct of the business, but we think the court erred in that conclusion. If the trust is devoid of the elements of fraud, as we think it is, either in fact or constructively, that part of the decree relating to the exemption of appellant from any part of the $7,000 loss is erroneous, and the cross-error relating to that matter should be sustained. In all other respects the decree appears to place the appellant on complete equality with all other creditors, and is right.
+The decree needs to be corrected with respect to requiring the trustees to respond to the appellant for any part of the $7,000, and it will therefore be reversed in so far as it does so, and the cause remanded, with directions to the Circuit Court to amend the decree accordingly. In all other respects the decree is affirmed.
+Reversed in part and affirmed in part.
