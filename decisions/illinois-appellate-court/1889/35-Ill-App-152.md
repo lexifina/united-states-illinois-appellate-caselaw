@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-12-24"
+citations: ["35 Ill. App. 152"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. W. Butler Paper Company v. J. L. Regan Printing Company."]
+source_url: "https://static.case.law/ill-app/35/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5005847
+cites_cases: ["35 Ill. App. 200", "57 Ill. 274", "74 Ill. 394", "8 Ill. App. 421", "85 Ill. 582", "87 Ill. 84", "89 Ill. 113", "94 Ill. 577"]
+---
+
+# J. W. Butler Paper Co. v. J. L. Regan Printing Co.
+
+## Majority (Garnett, J.)
+
+Garnett, J.
+The attachment suit brought in the Superior Court by appellant against appellee, was based on a debt not due when the suit was commenced. A plea of the general issue, with affidavit of merits and a plea in abatement of the attachment were duly filed for the defendant, by attorneys who afterward withdrew from the case, one of the plaintiff’s attorneys being notified of such withdrawal. Afterward notice was given by plaintiff’s attorneys to the same attorneys who had thus discharged themselves from further connection with the litigation, of a motion' to strike the pleas from the files. The notice was not accepted by the attorney to whom it was delivered, but proof of service thereof was made by affidavit, and on the hearing of the motion the court entered an order striking the pleas from the files. Thereupon judgment by default was entered for the amount claimed, with an award of general and special execution.
+At the same term, the defendant, by other attorneys, moved the court to set aside the default, and give leave to plead. The motion, supported by affidavits showing the debt was not due when suit was commenced, was sustained, and it was ordered that the judgment be opened, that defendant be let in to defend the action upon its merits, and that the judgment stand as security until the cause was tried and determined. The defendant then filed another plea of the general issue with affidavit of merits and a verified plea in abatement of the. attachment. The cause was reached for trial March 18, 1889, when the plaintiff moved to strike the pleas from the files. The motion was overruled, and plaintiff failing to prosecute its suit, it was then ordered by the court on defendant’s motion, that the suit be dismissed, and judgment for costs was entered against the plaintiff. In this action of the court no abuse of discretion is perceived. The opposite course would have been better adapted to provoke censure. That the suit was without foundation, was tacitly confessed by plaintiff’s failure to make any attempt to sustain either its demand for a matured debt, or the allegation of fraud upon which "the attachment was based.
+If the new plea in abatement can be considered as an amended plea, its allowance was authorized by Sec. 23, Chap 110, R. S., which provides in the most liberal terms for amendment of pleadings. Before the motion was made to set aside the judgment, a receiver for appellee had been appointed by the Circuit Court of Cook County, in a proceeding in chancery against appellee, there pending. The solicitors appearing for the complainant in that proceeding were the same who appeared for appellee on the motion to set' aside the judgment in this case, and appellant says it was fatal error for the court to allow them to defend the suit, as the interests of their client in the chancery suit were hostile to appellee. Whatever may be said as to the propriety of a receiver employing, to represent the estate, the same counsel who appeared for the complainant in the suit in which the receiver wras appointed (and the views of this court on this point are expressed in Heffron v. Flower, 35 Ill. App. 200), it was not an error of which appellant may complain. It appears that the chancellor approved the employment of these gentlemen by the receiver, and as they have peiformed with fidelity the service for which they were engaged, the court is not disposed to require appellee to release the advantage upon the prayer of another, whose interests are more hostile than complainant’s in the chancery suit.
+The practice adopted by the court in disposing of the case may not be the best, but appellant was not injured thereby. Having ordered the judgment to stand as security for the result of a trial of the issues, the court thereby retained control of the judgment the same as it would in case of an interlocutory order. The issues having been determined against plaintiff, the better course, no doubt, would have been to set aside the default and judgment and then order the suit dismissed. But an error that is harmless is no cause of reversal. The judgment is affirmed.
+Judgment affirmed.
