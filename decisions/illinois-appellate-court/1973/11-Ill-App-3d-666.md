@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "56816"
+decided: "1973-04-18"
+citations: ["11 Ill. App. 3d 666"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Edward J. Barrett, Petitioner-Appellee, v. The Board of Commissioners of Cook County et al., Respondents-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/11/cases/0666-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2926455
+cites_cases: ["151 Ill.App. 236", "245 Ill. 496", "321 Ill.App. 171", "409 Ill. 91", "90 Ill.App.2d 245"]
+---
+
+# People ex rel. Barrett v. Board of Commissioners
+
+## Majority (Mr. JUSTICE DIERINGER)
+
+Mr. JUSTICE DIERINGER
+delivered the opinion of the court:
+On June 8, 1971, Edward J. Barrett, County Clerk of Cook County, filed a petition in the Circuit Court of Cook County for a writ of mandamus alleging his salary as County Clerk had been reduced by the County Board during his term of office, in violation of Article X, section 10, of the Illinois Constitution of 1870. He petitioned the court to direct the Board of Commissioners to pay him at the rate adopted by the Board prior to the beginning of his term of office.
+On June 16, 1971, on motion of the petitioner, the court entered an order appointing the law firm of Kirkland & Ellis as a special State’s Attorney to prosecute the lawsuit on behalf of Mr. Barrett, pursuant to chapter 14, paragraph 6, of the Illinois Revised Statutes, on the grounds the elected State’s Attorney was officially committed to represent the County Board and had issued a legal opinion that the reduction of the County Clerk’s salary was correct as a matter of law.
+The issues on appeal are whether the trial court’s appointment of a special State’s Attorney to represent the petitioner was proper; whether the trial court had jurisdiction to entertain the petition for fees filed by the special State’s Attorney more than 30 days after an adjudication on the merits; and whether the award of fees was reasonable and in conformity with the statute.
+The trial court granted a motion by the petitioner for judgment on the pleadings and issued a writ of mandamus on August 5, 1971. On September 7, 1971, Kirkland & Ellis petitioned for an award of fees and expenses incurred in prosecuting the cause.
+On September 21, 1971, the Board answered the petition for fees, alleging the appointment of the special State’s Attorney was improper, and the court lacked jurisdiction to entertain the petition for fees because it was not filed within 30 days of the issuance of the writ.
+The trial court heard arguments on the petition for fees and held that no issue involving the propriety of the court’s appointment of the special State’s Attorney could be raised because the Board had failed to make an objection at the appointment hearing, the court had jurisdiction to entertain the petition for fees, and $50 per hour was a reasonable fee for the services of the special State’s Attorney.
+On October 6, 1971, the court entered an order directing the county to pay $3,500 for 70 hours of professional services and $232.77 for expenses incurred in the prosecution of the suit to Kirkland & Ellis. The Board of Commissioners appeals from this order.
+The Board’s first contention is the trial court erred in appointing a special State’s Attorney in this situation. It argues' it was not established the State’s Attorney had a duty to represent Mr. Barrett in the lawsuit because the suit was not one which could be brought in his official capacity; therefore, the question of conflict of interest never arose.
+The record shows the Board failed to object to the appointment of a special State’s Attorney either at the appointment hearing or during the mandamus proceeding itself. The law is well settled that failure to make a timely objection in the trial court constitutes a waiver of the right to review on appeal. (Department of Public Worlds and Buildings v. Todaro (1967), 90 Ill.App.2d 245.) Even assuming there was no waiver, the appointment was proper. The public office holder’s right to compensation is not based on any personal or contract rights but attaches to the office. Kelly v. Chicago Park District (1951), 409 Ill. 91.
+Secondly, the Board contends the trial court lacked jurisdiction to entertain the petition for fees and expenses, citing the general rule that the jurisdiction of the trial court extends to all matters put in issue by the pleadings, and such jurisdiction ceases 30 days after the entry of the final judgment or decree.
+The rule is correctly stated, but its application favors the petitioner because the issue of fees was not determined by the pleadings. The trial court loses jurisdiction only over those elements of a suit that are finally determined and not over elements of the suit not related to the writ itself.
+It is clear the duties of the special State’s Attorney extended to whatever appeals the Board might file, and it was necessary to wait 30 days following tire issuance of the writ to determine if there would be an appeal; therefore, the special State’s Attorney could not determine its fees or expenses until the expiration of that period.
+Finally, the Board contends the amount of fees awarded by the trial court was unreasonably high and not in accord with chapter 14, paragraph 6, of the Illinois Revised Statutes. The Board argues the court is not free to exercise discretion in awarding fees because the statute requires the special State’s Attorney to be paid at the same rate of compensation as the State’s Attorney.
+The statute provides for the appointment of the special State’s Attorney in two situations: “Whenever the attorney general or state’s attorney is sick or absent, or unable to attend or is interested in any cause or proceeding, civil or criminal, which it is or may be his duty to prosecute or defend, * * * and in case of a vacancy of more than one
+year occurring in any county in the office of State’s Attorney, by death, resignation or otherwise.” In the latter situation the statute provides the acting State’s Attorney shall be paid the “same compensation as provided by law for the State’s Attorney of the county, apportioned as to the time of service,” but does not provide for compensation in the first situation.
+In light of this omission practical considerations support a construction of the statute which leaves the question of fees to the discretion of the trial court. When an acting State’s Attorney is appointed to fill a vacancy, he takes over the entire resources of the office, including staff, clerical personnel, and offices. On the other hand, a special State’s Attorney must use his own staff and office resources in the completion of the assigned task. As a result, the net salary of the State’s Attorney apportioned for time of service may be insufficient to pay for both the time and overhead expenses of a private attorney.
+The Board primarily relies on two cases (Aiken v. County of Will (1943), 321 Ill.App. 171, and Lavin v. Board of Commrs. (1909), 151 Ill.App. 236 (aff'd 1910), 245 Ill. 496), but neither supports its contention. In Aiken, a special State’s Attorney argued he was entitled to be paid the salary of the elected State’s Attorney for the fuU time between his appointment and its termination. The court rejected this contention, holding that a special State’s Attorney could be compensated only for actual time of service, but did not indicate what rate would be applied. In Lavin, the question was whether a special State’s Attorney was entitled to any compensation. The court stated he was entitled to compensation and should be “placed upon the same footing with regard to fees and salaries as the State’s Attorney regularly elected,” but specifically declined to determine the extent of the compensation.
+We hold that whether the special State’s Attorney has been “placed upon the same footing with regard to fees and salaries as the State’s Attorney regularly elected,” and whether, in addition, the overhead expenses of the special State’s Attorney should be considered when setting the hourly rate, is a matter for the determination of the trial judge. We find no error in the court’s determination of the total fee.
+For these reasons, the judgment of the Circuit Court of Cook County is affirmed.
+Affirmed.
+BURMAN, P. J., and ADESKO, J., concur.
