@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-426"
+decided: "1979-03-08"
+citations: ["69 Ill. App. 3d 74"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. JOHN DEAL, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/69/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3238447
+cites_cases: ["15 Ill. App. 3d 672", "304 N.E.2d 713", "335 N.E.2d 437", "344 N.E.2d 456", "355 N.E.2d 582", "356 N.E.2d 1367", "366 N.E.2d 370", "378 N.E.2d 549", "383 N.E.2d 171", "42 Ill. App. 3d 99", "43 Ill. App. 3d 366", "51 Ill. App. 3d 656", "61 Ill. 2d 335", "61 Ill. App. 3d 413", "63 Ill. 2d 23", "73 Ill. 2d 204"]
+---
+
+# People v. Deal
+
+## Majority (Mr. JUSTICE SCOTT)
+
+Mr. JUSTICE SCOTT
+delivered the opinion of the court:
+A grand jury of Peoria County returned a two-count indictment against the defendant John Deal. The first count charged him with official misconduct in that he knowingly performed an act which he knew was forbidden by the law, and the second count charged him with disorderly conduct in that he transmitted a false report to the police department. After bench trial the defendant was found guilty and was sentenced to a term of 120 days in the county jail and five years probation for the offense of official misconduct and a term of 120 days in the county jail for the offense of disorderly conduct. The terms of incarceration were to run concurrently.
+This appeal is concerned only with count I of the indictment which charged the defendant as follows:
+“That on or about April 12,1976 in said Peoria County, State of Illinois, John W. Deal committed the offense of Official Misconduct in that he, being a public officer, namely a specially commissioned peace officer of the City of Peoria employed by Dicardo, Inc., doing business as “The Slipper Club”, he knowingly performed an act which he knew he was forbidden by law to perform in that he arrested Pamela Wade for the offense of prostitution, knowing that such offense had not occurred in violation of Paragraph 33 — 3(b), Chapter 38, Illinois Revised Statutes.”
+The defendant asserts that the indictment charging him with official misconduct is insufficient in that it failed to allege a necessary element of the offense, to-wit, that he acted in his official capacity. Both the trial court and the prosecutor agreed that this was an element of the offense of official misconduct which had to be proved, however, defendant’s motion to dismiss the charge was denied and subsequently the trial court also denied a motion in arrest of judgment predicated upon the grounds that the indictment was insufficient.
+The explicit requirements in order to properly charge an offense are set forth in our Code of Criminal Procedure of 1963 (Ill. Rev. Stat. 1975, ch. 38, par. 111—3). One of the requirements is that the nature and elements of the offense charged be set forth. (Ill. Rev. Stat. 1975, ch. 38, par. 111—3(a)(3).) If the charging instrument, in this case an indictment, does not charge an offense, then a motion in arrest of judgment shall be granted by the trial court. (Ill. Rev. Stat. 1975, ch. 38, par. 116—2(b)(1).) Our reviewing courts have held that compliance with the statutory provisions which we have cited is mandatory and not directory only. People v. Troutt (1977), 51 Ill. App. 3d 656, 366 N.E.2d 370; People v. Clutts (1976), 43 Ill. App. 3d 366, 356 N.E.2d 1367; People v. Stanley (1976), 42 Ill. App. 3d 99, 355 N.E.2d 582.
+The trial court in denying the defendant’s motion in arrest of judgment indicated that it would apply the same standard as an appellate court applies when the indictment is attacked for the first time on appeal. In such instances it is not necessary that the sufficiency of an indictment be determined by the statutory requirements, but instead its sufficiency is determined on the basis of whether or not it is sufficient to apprise the accused of the precise offense charged and with sufficient specificity to enable the preparation of a defense and whether or not a conviction would be a bar to future prosecution arising out of the same conduct. People v. Gilmore (1976), 63 Ill. 2d 23, 344 N.E.2d 456; People v. Pujoue (1975), 61 Ill. 2d 335, 335 N.E.2d 437.
+In the instant case the sufficiency of the indictment was timely challenged in the trial court and hence the standard and rationale of the cases of Gilmore and Pujoue is not that which is to be utilized by the trial court. When the question as to the sufficiency of the indictment is raised at the trial level the statutory requirement that the instrument set forth the nature and elements of the charge must be met. People v. Lutz (1978), 73 Ill. 2d 204, 383 N.E.2d 171.
+An element of the offense of official misconduct is that one is acting in his official capacity. (See Ill. Rev. Stat. 1975, ch. 38, par. 33—3, and People v. Jordan (1973), 15 Ill. App. 3d 672, 304 N.E.2d 713.) The recent supreme court opinion in the case of People v. Lutz mandates a strict adherence to the statutory requirements. The State having failed to properly charge the defendant with the offense of official misconduct, the defendant’s motion in arrest of judgment should have been granted. We therefore reverse the defendant’s conviction for the offense of official misconduct.
+During the pendency of this appeal the State filed a motion requesting this court to take judicial notice of a certain ordinance of the City of Peoria. The defendant filed objections to the State’s motion and it was the ruling of this court that disposition of the motion and objection filed thereto be taken with the determination of this appeal. The subject matter of the motion is not pertinent to the disposition we have made of this appeal and therefore the same is denied.
+The defendant urges that if the official misconduct offense is reversed then this cause be remanded because the trial court may have been influenced by such conviction when imposing sentence for the offense of disorderly conduct. In support of this request the defendant cites an opinion of this court where such procedure was followed. (See People v. Vallero (1978), 61 Ill. App. 3d 413, 378 N.E.2d 549.) We believe that the defendant’s request is well taken and should be granted and we therefore remand this case to the circuit court of Peoria County with directions to conduct a new sentence hearing as to the disorderly conduct offense.
+Reversed in part and remanded in part with directions.
+STOUDER, P. J., and ALLOY, J., concur.
