@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "53662, 54042 cons."
+decided: "1972-03-17"
+citations: ["4 Ill. App. 3d 624"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Michael Rockymore, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/4/cases/0624-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2919892
+cites_cases: ["123 Ill.App.2d 263", "211 N.E.2d 673", "235 N.E.2d 379", "259 N.E.2d 363", "33 Ill.2d 417", "92 Ill.App.2d 124"]
+---
+
+# People v. Rockymore
+
+## Majority (Mr. PRESIDING JUSTICE LORENZ)
+
+Mr. PRESIDING JUSTICE LORENZ
+delivered the opinion of tire court:
+Defendant was found guilty of aggravated battery after a trial without a jury and was sentenced to serve a term of eight to ten years. The sole issue on this appeal is that the sentence is excessive.
+The record in this case discloses that on May 19, 1967, defendant struck Albert Cole in the face with a baseball bat. At the time of the attack, defendant was a member of the Falcon Disciples gang. Cole testified that he had formerly been a member of a rival gang, the Blackstone Rangers, but that his affiliation with that gang had been severed before May 19, 1967, the date of the battery. It was established at the trial that Cole was accosted by defendant in the “territory” of the Falcon Disciples. Defendant maintained that, although he was alone at the time of the attack, Cole was in the company of at least four other youths. Defendant testified that he struck Cole only after Cole tried to grab (or hit) him. Cole, on the other hand, testified that the attack with a bat was both unprovoked and a surprise. Defendant’s testimony was also contrary to that of one of Cole’s companions, Ronald Strozier, who stated that he saw defendant and other boys running towards Cole immediately prior to the attack. Strozier testified that he saw defendant carrying a baseball bat before the attack.
+On the hearing in aggravation and mitigation prior to sentencing it was established that defendant was 18 years old, had never been convicted of a crime and that he was the father of an eight month old child born out of wedlock. It was also established that he was working part-time and contributing approximately $20.00 per week to the family income, that he was an active member of the Baptist Church and that he had never been known to drink intoxicants or to use narcotic drugs. After the hearing in aggravation and mitigation, the court acknowledged that there had been extensive testimony on behalf of defendant by persons who knew him and wished him well. However, the court went on to say:
+“I am not here to pass judgment as a social worker nor am I here to pass judgment as a psychologist, I am here to pass judgment as a judge whose life is dedicated to justice.”
+The court then sentenced defendant to a term of eight to ten years. The State had recommended a sentence of nine to ten years.
+Opinion
+Defendant contends that the sentence invoked by the trial court was excessive considering the youthfulness of defendant and his lack of a prior conviction. Defendant specifically seeks the lessening of the minimum sentence to facilitate his rehabilitation in line with the purposes of the parole system.
+While an Appellate Court is vested with the power to reduce a sentence imposed by the trial court, the guiding rule in the exercise of this power has long been one of prudence and due caution. Such power must be used only in a case where the penalty imposed creates an injustice as a departure from the basic spirit and purpose of the law. (Supreme Court Rule 615(b)(4); People v. Taylor (1965), 33 Ill.2d 417, 424, 211 N.E.2d 673, 677.) The review court must use this power sparingly because the trial judge generally has a superior vantage point during the trial and during the hearing in aggravation and mitigation to determine the extent of the punishment to be imposed. (Abernathy, Sr. v. People (1970), 123 Ill.App.2d 263, 272, 259 N.E.2d 363, 368.) Only if it appears from the record that the sentence is not reasonably justified wiU it be proper for the Appellate Court to reduce that sentence.
+In view of the entire record in this case, particularly the evidence adduced at the hearing in aggravation and mitigation, we conclude that the sentence should be reduced. It must be considered that the defendant was an eighteen year old high school student with no record of prior convictions. He was employed parttime and contributed approximately $20.00 weekly to his mother’s home budget. It was established that defendant attended church regularly and had never been known to use intoxicants or drugs. Furthermore, defendant’s minister, who had known him for several years, attested to his non-violent reputation and expressed confidence in his ability to complete high school and succeed in life.
+These factors do not depict a person beyond the reach of rehabilitation. In the case of People v. Jones (1968), 92 Ill.App.2d 124, 235 N.E.2d 379, similar circumstances controHed the Court’s decision to reduce a defendant’s sentence from six to ten to three to ten years on a conviction for homicide. In Jones, as in the instant case, defendant was a young man and a high school student without a prior criminal record. An excessive minimum sentence may defeat the effectiveness of the parole system by negáting, as a practical matter, the possibility of defendant’s rehabilitation. We believe this to be a sound principle and applicable to the instant case.
+Although adequate punishment for the offense, deterrence against the commission of similar crimes, and the protection of society must be considered in arriving at an appropriate sentence, it is important not to lose sight of the relationship between the sentence imposed and the possibility of rehabilitating the offender into a useful member of society. (See People v. Jones, supra.) When this standard is applied to the individual circumstances of the defendant in the instant case, the sentence of eight to ten years is excessive. We feel that setting the minimum sentence at eight years for this defendant defeats the purposes of the parole system. It works as a barrier to restoring the defendant to useful citizenship by taking away the incentive to improve. It also operates against the possibility of his rehabilitation by taking away the hope of an early release which provides a great incentive to a prisoner to participate in the rehabilitative programs provided in modem penal institutions.
+For these reasons, the minimum sentence is reduced to three years. The judgment and sentence are modified to provide that the sentence imposed on defendant be a term of not less than three years nor more than ten years and, as so modified, the judgment is affirmed.
+Judgment modified, and as modified, affirmed.
+DRUCKER and ENGLISH, JJ., concur.
