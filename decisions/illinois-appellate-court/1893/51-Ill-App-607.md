@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893"
+citations: ["51 Ill. App. 607"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Illinois Central Railroad Company v. John Quirk, Administrator of the Estate of Patrick H. Quirk, Deceased."]
+source_url: "https://static.case.law/ill-app/51/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5116867
+cites_cases: ["16 S. W. Rep. 398", "54 Ga. 275"]
+---
+
+# Illinois Central Railroad v. Quirk
+
+## Majority (Mr. Justice Wall)
+
+Mr. Justice Wall
+delivered the opinion of the Court.
+On the night of May 28, 1891, Patrick Quirk, who was a locomotive engineer, and while in the discharge of his duty as such, lost his life in a wreck on the Illinois Central Bail road. His administrator brought this suit to recover damages therefor, alleging that the wreck ivas caused by the unsafe condition of the track, and recovered a judgment for §3,000.
+It appears that the railroad company had been ballasting its track. The work had progressed north from Centraba and it was a matter of dispute as to how far it had been completed with respect to the point where the accident occurred.
+Appellee insisted and offered evidence tending to prove that it was incomplete at that point and that by reason of such condition the engine was derailed, and this was the unsafe condition intended to be alleged in the declaration. The process of ballasting need not be minutely described, but in a general way, three gangs of men were employed, the first of which took out a certain portion of the dirt constituting the road-bed, removed the defective ties and replaced them with sound ones; the second lifted the track, drove spikes and adjusted the ballast which had been deposited by the ballast train after the work of the first gang, and the third gang finished the work, “lined” the track and “ trimmed ” the ballast between the rails and on the sides. Appellant proved that the work of the second gang had been carried north of the point where the accident occurred and that so far, at least, the track was practically safe, though it was not completely finished. At the time the train was running slowly, ten or twelve miles per hour, on account of this unfinished condition, the deceased being fully aware of the situation.
+He had passed over it that morning with an engine coming south. He knew all about it and it is not contended that he was running recklessly. Indeed, it is to be inferred from the proof that he was using proper care, and that the derailment was not due to any negligence on his part. The first question presented is as to the liability of the company in such a case.
+It must be clear that the work of ballasting the track was proper, and indeed necessary to make a first-class road, and there was no negligence in undertaking it while the ordinary freight and passenger traffic was being conducted. It was right and proper to do this work, not only for the safety of passengers, but for that of employes, and it was not necessary or practicable to suspend the business of the road while it was going on.
+Some inconvenience and extra care on the part of all would, of course, be expected, and this could not well be otherwise.
+If the company used all reasonable care in the premises it was not responsible for the injury to the deceased if he was fully advised of the situation. The hazard in such case would be an incident of the service, and conceding that the wreck resulted from the imperfect condition of the track, it would be necessary to show want of care on the part of the company, or that deceased, without imputation of negligence on his part, was unaware of the extra danger.
+As already observed, the deceased knew the situation, and was using due care commensurate thereto. We find in the evidence no sufficient proof that the company was negligent.
+The work was carried on with a proper force of men,, and in a proper way—with due care in all respects so far as disclosed by the record. Further, the weight of evidence is, as we read it, very clearly to the effect that the second gang of men had passed the point of the wreck; that the track so far was entirely safe for the speed at which the train was moving and that the accident was due to some other cause.
+The engine was thrown on the east side of the track, the tender and baggage car, and possibly another car, were thrown on the west.
+The rest of the train remained on the track and was subsequently pulled back to Centralia by a relief train.
+It was found that one rail on the west side of the track had been loosened. The angle bars connecting it with the next rail south were removed. Those bars were not bent. The bolts which held them in place were out; the nuts, were off, and the threads of the nuts and bolts were unbroken. The spikes had been pulled out along the west side of the rail for ten or twelve ties, and a rat-tail file, three-fourths inch in diameter, had been driven into one of the holes from which the spike had been drawn on the “ shoulder tie,” that is the tie next north of the “ joint tie.”
+. This file was broken off close to the wood, and the broken pieces were lying a few feet south.
+There were found at the place a claw bar, such as is used for the purpose of pulling spikes, and a track wrench, such as may be used to fasten bolts on angle bars. These tools belonged to the Jacksonville South Eastern Railroad, and had been taken from its tool house a day or two before, by some unknown person. A file had also been taken from the same place, similar to that driven into the shoulder tie. There is no reason to believe, from the proof, that these spikes were drawn, or the angle bars removed in the course of the work of ballasting the track. Indeed there is no doubt that such was not the case, and that this was the criminal work of others. The presence of the file driven into the spike hole, also strongly tends to prove that there had been some unlawful interference with the track.
+In addition to these circumstances, as to which there is no contradiction, the appellant proved by a reputable witness, that he passed along the highway, parallel with the railroad, returning to his home from a meeting of the Fair Association, of which he was the president, at Centraba, about the hour of ten o’clock of the night of the wreck, and but a short time before it occurred. His attention was attracted by a sound of striking or tapping upon iron, and looking in the direction whence the sound came, he saw two men on the track, at or very near the place of the wreck, one of them holding or leaning on a crow-bar, and the other stooping over and apparently doing something to the track.
+These men he identified the next day when they were under arrest, and the appellant offered to prove by the record of the Circuit Court of Marion County, that they were indicted and convicted, and sent to the penitentiary for the murder of the said Patrick Quirk, by causing the said wreck, by so interfering with the track.
+This record the court excluded, and as we think, properly, because of the difference between the parties to that proceeding and this.
+After carefully considering all the evidence and the briefs of counsel, we are of opinion that the appellee failed to show that appellant was negligent in respect to the condition of its tracks, and that appellant satisfactorily proved that the wreck was caused, not by its negligence, but by the unlawful act of other parties, in loosening the rail as above described.
+We think there is no room for doubt on these points, as the record now appears, and that the verdict was so clearly against the proof that it was the duty of the Circuit Court to grant a new trial. For the error in this respect the judgment will be reversed and the cause remanded. '
