@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-08-26"
+citations: ["21 Ill. App. 159"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Northwestern Benevolent and Mutual Aid Association of Illinois v. Sarah W. Bloom."]
+source_url: "https://static.case.law/ill-app/21/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2417893
+cites_cases: ["10 Am. Rep. 166", "10 Ill. App. 545", "103 Ill. 91", "104 U. S. 197", "109 Ill. 366", "110 Ill. 551", "111 Ill. 284", "111 Ill. 288", "112 Ill. 466", "113 Ill. 475", "13 Ill. App. 510", "14 Barb. 383", "14 Ill. App. 201", "15 Gray, 249", "15 Ill. App. 266", "17 Fed. Rep. 25", "17 Ill. 467", "17 Minn. 497", "2 Den. 75", "2 Duer, 481", "22 Wall. 47", "27 Fed. Rep. 25", "27 Ill. 71", "28 Ill. 235", "33 Am. Rep. 830", "35 Conn. 225", "39 N. J. L. 89", "4 Cush. 54", "4 Hill, 330", "4 Wis. 20", "45 Wis. 622", "47 Cal. 416", "48 Wis. 535", "59 Ill. 123", "59 N. Y. 557", "6 Fed. Rep. 672", "7 Heisk. 567", "70 N. Y. 561", "8 Conn. 458", "8 How. 235", "8 Met. 114", "8 Wend. 160", "9 Allen, 540", "92 U. S. 377", "98 Mass. 381"]
+---
+
+# Northwestern Benevolent & Mutual Aid Ass'n v. Bloom
+
+## Majority (Congee, J.)
+
+Congee, J.
+On the 3d day of March, 1882, Lewis H. Bloom made application for a certificate of membership in the appellant company upon one of the printed forms prepared by the company, which, after giving a number of answers as to the condition of his health, family, etc., contained the following claim: “It is expressly stipulated and agreed that the foregoing application and declaration shall be the basis of the contract between the above named applicant and ■the Horthwestern Benevolent and Mutual Aid Association of Illinois, said contract not to be in force or binding upon the association until after the payment of the membership fee and the approval of the application by the medical director, and that if any misrepresentations or fraudulent or untrue answers have been made, or any facts which should have been stated have been suppressed, if death should result from suicide, or if he or she shall omit, neglect or refuse to pay any of the assessments on or before the day on which they shall fall due then, and in either event, this agreement shall be null and void, and all money which shall have been paid shall be forfeited to the association.”
+(Signed) “ Lewis H. Bloom.”
+Upon this application, on March 8, 1882, the association issued a certificate of membership providing for the payment within sixty days after the death of said Bloom, to his wife, Sarah W. Bloom, appellee herein, $2,000.
+The said certificate or policy contained this clause: “ This certificate is issued upon the condition that the said Lewis H. Bloom shall comply with the constitution and by-laws of the association, and that the statements in the application for this certificate arc true.”
+Bloom died and his wife brought suit upon the certificates and to the declaration appellant filed eight special pleas, setting up in a variety of ways, as a defense to the action, the suicide of Lewis H. Bloom.
+‘ In the first special plea the language in which the suicide is charged, is, “ Did wrongfully, and to the injury of the defendant, commit suicide.” In the second, “ He, the said Lewis H. Bloom, committed suicide, and the death of him, the said Lewis H. Bloom, did then and there result from said suicide.” In the third the language is, “ Did then and there, immorally, "wrongfully and wickedly, for the purpose of destroying his life, strangle himself by means of hanging himself by the neck until he was dead.” In the sixth and seventh, the language is, “Wrongfully, wickedly and fraudulently, and of his own volition, committed suicide.”
+The eighth special plea sets forth the clause above quoted of the application, avers it to be a part of the contract of insurance, and a part of the policy or certificate, and concludes with the charge of suicide .upon the part of Bloom.
+A demurrer was filed to all these pleas and sustained by the court; appellant refusing to answer further judgment was rendered against it for $2,162.20. It is claimed by appellee, “that the application not being incorporated into the certificate, and not being expressly referred to in it, so as to make it a part and parcel thereof, should not be considered in construing the contract between these parties.”
+We are of opinion that the application and certificate were executed as parts of the same transaction; that they should be taken and construed "together as one instrument, and that the true nature of the contract entered into can be determined only by considering the mutual undertaking of both parties as set forth in both. Stacy v. Randall, 17 Ill. 467.
+In the language of Boyal Templars of Temperance v. Curd, 111 Ill. 288, “ the first part of this contract — the part obligatory upon the beneficiary — is the application of Lewis H. Bloom.”
+It is plain and simple in its language, and can not be misunderstood. It contains this: “It is expressly stipulated and agreed that the foregoing application and declaration shall be the basis of the contract, * * * that if death should result from suicide * * * then this agreement shall be null and void.” What agreement is meant? Certainly not the application, for that is not in itself a contract but simply a proposal on the part of Bloom. The agreement that is to become null and void in case of suicide by Bloom is the mutual and entire contract of insurance entered into by both parties, and set forth and contained in both the application and certificate.
+Beither is it important to determine whether the performance of the agreement, contained in the application, not to commit suicide, is or is not a condition precedent to the enforcement of the contract. Appellant is not now relying upon that point even if true, nor complaining because the declaration does not aver a compliance with the provision, but by its pleas, itself brings it forward and sets it up as a defense.
+It is also objected that none of the pleas expressly allege that Bloom committed suicide when sane. We are inclined to think, however, that after construing the language used by the pleader most strongly against him, there can be no reasonable doubt as to the meaning upon this point of the third, sixth and seventh pleas.
+In the third, the language is, “ Did then and there immorally, wrongfully and wickedly ” and in the sixth and seventh, “ Wrongfully, wickedly and fraudulently, and of his own volition, commit suicide.”
+These expressions can not properly be used in reference to the act of an insane man. One whose reason is dethroned, and who is acting from an insane delusion, does not act immorally, wrongfully, wickedly or fraudulently. We-think these pleas do substantially, and not merely argumentatively, allege that Bloom committed suicide when sane, and in his right mind, and therefore do allege such a violation of the contract as, by its terms, renders it null, and void.
+We think the Circuit Coxirt erred in sustaining the demurrer to these pleas, and the judgment of the Circuit Court will therefore be reversed and the cause remanded.
+Reversed and remanded.
