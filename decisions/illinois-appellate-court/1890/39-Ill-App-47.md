@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-12-11"
+citations: ["39 Ill. App. 47"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Brotherhood of Railroad Brakemen v. Susannah Knowles et al."]
+source_url: "https://static.case.law/ill-app/39/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5020354
+---
+
+# Brotherhood of Railroad Brakemen v. Knowles
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This suit is brought by appellee and Eli C. Knowles, upon an insurance policy issued to J. W. Miller by the appellants, on the 23d day of December, 1SS5. The policy was as follows:
+“ Galesburg, 111., Dec. 23d, 1885.
+This Policy of Assurance witnesseth:
+That the Brotherhood of Railroad Brakemen of the Western Hemisphere, in consideration of the grand dues to them duly paid in accordance with the provisions of the constitution of said brotherhood by J. W. Miller, and of the annual payment of such grand dues every year during the continuance of this policy, do assure the life of said member, J. W. Miller.
+And the said brotherhood do hereby promise and agree to pay the amount of insurance that may at the time of the death of said assured be justly due and owing, according to the provisions of said constitution, as well as the like sum in case of disability of said assured, in accordance with the terms and conditions further provided in said constitution. The said sum or sums to be paid as stipulated therein to and for the sole use of such person or persons to whom this policy shall be made assignable by said assured, and if such person or persons shall, at the death of such assured, be not living, then to the nearest heir or heirs, on receiving proof of the death of said assured, and the identity and proof of right in claimant to inherit the same according to the requirements of said constitution, any indebtedness to the brotherhood on account of this policy being first deducted therefrom.
+In every case when this policy shall cease and terminate, or be null and void, by reason of immoral or other misconduct, and the assured shall forfeit his membership in the lodge, according to the provisions of the constitution of this brotherhood, then all payments thereon shall be forfeited to the brotherhood and the policy is canceled.”
+J. W. Miller died on the 28tlr day of July, 1886. Between the time he became a member and the time of his death something like eight or nine assessments had been made upon him and other members to meet the losses for which the company was liable. The‘proof is clear and uncontradicted that Miller paid all his assessments and dues required by the constitution and by-laws, as they became due, some of them before they became due, to the officer authorized to deliver them, in the subordinate lodge to which he belonged, and took the receipt of such officer or his deputy for the same, under the seal of the corporation. It appears, however, that the treasurer of the subordinate lodge neglected to report and pay over these assessments, with others which he had collected, to the Grand Lodge, as his duty required him to do. As a further evidence of Miller having paid all his dues and assessments, his own subordinate lodge had issued to him a “traveling card,” which under the by-laws could. not be issued to any member not in good standing and who was in arrears of dues or assessments.
+This record shows clearly that Miller did his whole duty and kept his membership good up to the time of his death. Upon his death the proper proof of death was made and payment demanded of the sum of §000 due on the policy, hut payment was refused by the Grand Lodge through which the payment had to be made, because the Grand Lodge had not received the money which Miller paid in, and that, is the defense here relied on. The plaintiffs had judgment below for the amount due on the policy, and the appeliant appeals from that judgment and assign's numerous errors, none of which we regard as having any merit.
+Miller paid his money to the proper officer, and the failure of that officer to report it to his superior is no concern of the insured. But the proof in fact shows that the local lodge to which Miller belonged and to which he paid his money made up the default of their treasurer for a number of its members, who had paid as Miller had, and sentévery dollar thatwas due to the Grand Lodge, after Miller’s death, so that the Grand Lodge did, in fact, get the money due it, and lias kept and now has it; and so far as we can see the Grand Lodge now has in its treasury the very money that was collected to pay the loss resulting from Miller’s death. It is contended by appellant that the receipts given to Miller upon his payments are fraudulent, and that he in fact paid nothing. This charge lias not a particle of evidence in its support and is utterly frivolous. Complaint is also made that the court erred in giving and refusing instructions and in admitting and refusing evidence. We have carefully examined the instructions, and the proceedings before the court on the trial, and we find no substantial error of any kind committed against appellant. The instructions given for it were all that it bad any right to ask. The refused instructions submitted to the jury questions about which there was no controversy whatever, and were properly refused. We think the entire defense was without the shadow of merit of any kind, and the judgment and proceedings of the Circuit Court were in all respects regular and right, and the judgment will therefore be affirmed.
+Judgment affirmed.
