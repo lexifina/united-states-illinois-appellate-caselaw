@@ -1,0 +1,67 @@
+---
+court: "Illinois Appellate Court"
+docket: "74-121"
+decided: "1975-01-30"
+citations: ["25 Ill. App. 3d 93"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nathaniel Wells, Plaintiff-Appellee, v. Charles Kern et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/25/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2703690
+cites_cases: ["108 Ill.App.2d 194", "109 Ill.App.2d 133", "13 Ill.App.3d 5", "165 N.E.2d 294", "176 N.E.2d 635", "178 N.E.2d 209", "18 Ill.2d 502", "192 N.E.2d 553", "197 N.E.2d 736", "210 N.E.2d 20", "214 N.E.2d 575", "247 N.E.2d 183", "247 N.E.2d 409", "248 N.E.2d 299", "279 N.E.2d 434", "285 N.E.2d 179", "299 N.E.2d 468", "3 Ill.App.3d 636", "32 Ill.App.2d 438", "32 Ill.App.2d 64", "322 Ill.App. 696", "410 U.S. 983", "42 Ill.2d 309", "42 Ill.App.2d 432", "48 Ill.App.2d 171", "5 Ill.App.3d 499", "54 N.E.2d 647", "60 Ill.App.2d 295", "67 Ill.App.2d 222"]
+---
+
+# Wells v. Kern
+
+## Majority (Mr. JUSTICE EBERSPACHER)
+
+Mr. JUSTICE EBERSPACHER
+delivered the opinion of the court:
+This appeal arises as a result of a suit brought by the plaintiff, Nathaniel Wells, in the circuit court of Madison County to enforce a promissory note in the amount of $3,050, due December 1, 1969. A complaint was filed December 5, 1969, against the defendants, Charles Kern and Glenda Kern, his wife, alleging that this note was due and payable by the defendants, and that, after demand, no payment was forthcoming. Within 30 days of the filing of the complaint, defendants filed an answer denying the allegations of the complaint and alleging as an affirmative defense that defendant, Charles Kern, had been adjudicated bankrupt in Federal District Court and was thereby absolved from liability on the note.
+On April 2, 1973, this cause was called for hearing and the defendants did not appear; after evidence was heard on the plaintiffs complaint, a judgment was entered for plaintiff against defendants. On May 30, 1973, a request for the issuance of a citation to discover assets was requested, and on June 7, 1973, this citation was issued and properly served on the defendants.
+Defendants, on July 9, 1973, filed a “Motion to Set Aside Judgment and for Further Relief.” The hearing on the citation to discover assets was continued. The motion came on for hearing on November 8, 1973. All parties appeared by their respective counsel, arguments were heard and the “Motion to Set Aside Judgment and for Further Relief” was denied. No appeal was taken from the order of denial.
+A second “Motion to Set Aside Judgment” was filed by the defendants on November 21, 1973. On February 8, 1974, the trial court heard arguments on this “Motion to Set Aside Judgment” with all the parties present by their respective attorneys. The court denied this motion as well; appeal bond was fixed, but no appeal has been taken from the order of denial entered upon that date.
+On March 8, 1974, a notice of appeal was filed by the defendants, appealing from the trial court’s default judgment entered against defendants on April 2, 1973, and asking this court to reverse, set aside and arrest that judgment, or alternatively, to remand the cause for a new trial.
+Both the defendants-appellants and the plaintiff-appellee have taken the position in their briefs and on oral argument that this appeal is one taken from the trial court’s orders denying defendants-appellants’ two motions to set aside judgment under section 72 of the Civil Practice Act (Illinois Rev. Stat., ch. 110, par. 72). This court cannot reach the merits of this appeal on this theory.
+The threshold question in this case, as in every appeal, is whether this court has jurisdiction of this appeal. Our Supreme Court Rule 301 provides that:
+“Every final judgment of a circuit court in a eral case is appealable as of right. The appeal is initiated by filing a notice of appeal. No other step is jurisdictional. An appeal is a continuation of the proceeding. AH rights that could have been asserted by appeal or writ of error may be asserted by appeal.” (Ill. Rev. Stat., ch. 110A, par. 301.)
+Our Supreme Court Rules also provide that:
+* the notice of appeal must be filed with the clerk of the circuit court within 30 days after the entry of the final judgment appealed from, or, if a timely post-trial motion directed against the judgment is filed, whether in a jury or non-jury case, within 30 days after the entry of the order disposing of the motion.” Ill. Rev. Stat., ch. 110A, par. 303(a).
+The Supreme Court Rules, in addition, contain a rule entitled “APPEALS FROM FINAL JUDGMENTS THAT DO NOT DISPOSE OF AN ENTIRE PROCEEDING.” (Ill. Rev. Stat., ch. 110A, par. 304.) Subsection (a) thereof requires an express written finding that there is no just reason for delaying enforcement or appeal. Subsection (b), however, provides that:
+“The foHowing judgments and orders are appealable without the finding required for appeals under paragraph (a) of this rule:
+# # #
+(3) A judgment or order granting or denying any of the relief prayed in a petition under section 72 of the Civil Practice Act (Ill. Rev. Stat., ch. 110, par. 72).” (Ill. Rev. Stat., ch. 110A, par. 304(b).)
+Section 72 of the Civil Practice Act provides that:
+“(1) Relief from final orders, judgments and decrees, after 30 days from the entry thereof, may be had upon petition as provided in this section. * * *
+(2) The petition must be filed in the same proceeding in which the order, judgment or decree was entered but is not a continuation thereof. * * *
+(3) The petition must be filed not later than 2 years after the entry of the order, judgment or decree. * * *
+# * #
+(6) Any order entered denying or granting any of the relief prayed in the petition is appealable.” Ill. Rev. Stat. 1971, ch. 110, par. 72.
+The notice of appeal filed in this cause, as previously noted, appeals from the judgment entered by the trial court on April 2, 1973. It was filed March 8, 1974. It was clearly not filed within 30 days of the judgment appealed from as required by Supreme Court Rule 303. The first question, therefore, is whether the notice of appeal was filed within 30 days after the entry of an order disposing of a timely post-trial motion directed against the judgment. The second question is, assuming it was not so filed, does that notice of appeal give this court jurisdiction to review the order or orders denying the motion or motions filed under section 72 of the Civil Practice Act, as is apparently assumed by both parties in their briefs.
+The rule in Illinois appears to be that section 72 of the Civil Practice Act, which substitutes a simple remedy by petition for various forms of post-judgment relief theretofore available, does not contemplate the review of orders from which a party could have appealed within the time prescribed by our Supreme Court Rules, and the provisions of section 72 providing a remedy by petition cannot be invoked as a substitute for the right of a party to appeal as provided by Supreme Court Rule and the Civil Practice Act. As stated in Oskvarek v. Richter, 32 Ill.App.2d 438, 443, 178 N.E.2d 209:
+“It has been held that a motion in the nature of a writ of error coram nobis [now a section 72 petition] cannot be used as a substitute for an appeal. Jerome v. 5019-21 Quincy St. Bldg. Corp., supra; City of Chicago v. Roth, 322 Ill.App. 696, 54 N.E.2d 647 (Abst.). In the instant case the trial judge knew the facts. It is obvious that should the courts permit the use of section 72 for the relief of errors reviewable by appeal that the limitation in time for prosecuting an appeal would become ineffective.”
+The court reached a similar conclusion in In re Village of Willowbrook, 42 Ill.App.2d 432, 437, 192 N.E.2d 553, wherein it stated:
+“Section 72 does not contemplate a review of an order from which a party could have appealed within the time fixed by the Act, and its provisions cannot be invoked as a substitute for a party’s right to appeal. Jones v. Jones, 32 Ill.App.2d 64, 176 N.E.2d 635.”
+Also see, for the same proposition, Jones v. Jones, 32 Ill.App.2d 64, 176 N.E.2d 635 (abstract opinion); Brockmeyer v. Duncan, 18 Ill.2d 502, 505; People v. Ilg, 60 Ill.App.2d 295, 298, 210 N.E.2d 20.
+With respect to the question of whether, assuming a section 72 petition is not a timely post-trial motion under Rule 303(a), the filing of the notice of appeal in this cause gives this court jurisdiction to review the motion or motions filed under section 72 herein, the answer in Illinois appears to be in the negative. An appellate court has jurisdiction of only those matters raised in the notice of appeal. The court in People v. Harvey, 5 Ill.App.3d 499, 502, 285 N.E.2d 179, cert. denied, 410 U.S. 983, approached, and decided, this issue in the following manner:
+“* * * we must first consider the threshold question of this court’s jurisdiction to entertain the issues raised by defendant in his brief. Appeals to this court in both civil and criminal cases are governed by Supreme Court Rules which provide that an appeal is perfected by the filing of a notice of appeal in the trial court and that such notice of appeal shall specify the judgment from which the appeal is taken. This is the only jurisdictional step in the appellate process. [Citations.] Similarly, the scope of review in this court is limited, inter alia, to the judgment appealed from. See Supreme Court Rules 366 and 615, Ill. Rev. Stat. 1969, ch. 110A, pars. 366 and 615.”
+Also see Scheffler v. Ringhofer, 67 Ill.App.2d 222, 225, 214 N.E.2d 575.
+It is also clear in Illinois that a section 72 petition is a new action and not a continuation of the original proceeding, irrespective of the requirement in the Civil Practice Act that it must be filed in the same proceeding. The Civil Practice Act expressly provides that:
+“The petition must be filed in the same proceeding in which the order, judgment or decree was entered but is not a continuation thereof.” (Ill. Rev. Stat., ch. 110, par. 72(2).)
+The case law is also quite clear on this point as evidenced by the court’s language in In re Estate of Peterson, 3 Ill.App.3d 636, 637, 279 N.E.2d 434:
+“A petition under section 72 of the Civil Practice Act (Ill. Rev. Stat. 1969, ch. 110, par. 72) is not a continuation of the original proceeding. It marks the commencement of a new action and, as is the case with any original pleading, must set forth the grounds upon which the petitioner’s entitlement to the relief sought rests. [Citations.]”
+A similar expression may be found in Kukuk v. Checker Taxi Co., 13 Ill.App.3d 5, 8-9, 299 N.E.2d 468, wherein the court stated:
+“A petition under section 72 is a new action, i.e., it is not a continuation of the prior proceeding. (Ill. Rev. Stat. 1971, ch. 110, par. 72(2).) Like all other civil cases, the petition must state a good of action.”
+The same proposition is distinctly set forth in Frandsen v. Anderson, 108 Ill.App.2d 194, 200, 247 N.E.2d 183; Fennema v. Vander Aa, 42 Ill.2d 309, 310, 247 N.E.2d 409; Brockmeyer v. Duncan, 18 Ill.2d 502, 505, 165 N.E.2d 294.
+The notice of appeal in this cause does not raise the issues presented in the two section 72 petitions, and, therefore, the final question in regard to this issue becomes, can the parties waive this failure as they have apparently tried to do by virtue of their arguments and briefs which treat this appeal as one from denial of the two section 72 motions. Aside from the problem that the notice of appeal was not filed within 30 days of the order entered dismissing the first such motion, it appears that such a waiver is not permitted under Illinois law. Thus, in Country Mutual Insurance Co. v. National Bank, 109 Ill.App.2d 133, 137, 248 N.E.2d 299, the court stated:
+“There are certain legal rights and doctrines which the parties cannot waive or stipulate away. Some examples of these are: the requirement of law of filing a timely notice of appeal (McHale v. Marrs, 48 Ill.App.2d 171, 197 N.E.2d 736 ( 2d Dist 1964) and the requirement that the tribunal have jurisdiction of the subject matter of a case. [Citation.]”
+In summary it appears that:
+(1) This court lacks jurisdiction to review the original judgment because the notice of appeal therefrom was not filed within 30 days of the entry thereof.
+(2) This corut lacks jurisdiction to review the original judgment because the notice of appeal therefrom was not filed within 30 days of the entry of an order determining a timely post-trial motion and because a section 72 petition is a new action and not a continuation of a prior proceeding.
+(3) This court lacks jurisdiction to review the first section 72 petition because, first, it was not appealed from within 30 days of the entry of the order, and secondly, because a section 72 petition is a new action and not a continuation of the original action so that a notice of appeal from the original judgment is not a notice of appeal from a section 72 petition.
+(4) This court lacks jurisdiction to review the second section 72 petition for the second reason enunciated under (3) above.
+(5) The parties to this cause cannot waive these objections to this notice of appeal because the notice of appeal is the only jurisdictional requisite and is thus the basis of this court’s subject-matter jurisdiction of this cause.
+For lack of jurisdiction, this appeal is dismissed.
+CARTER and CREBS, JJ., concur.
