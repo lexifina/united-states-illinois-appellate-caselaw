@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-28"
+citations: ["94 Ill. App. 33"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. S. Dempsey v. R. J. Lancaster."]
+source_url: "https://static.case.law/ill-app/94/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5292017
+---
+
+# Dempsey v. Lancaster
+
+## Majority (Mr. Justice Weight)
+
+Mr. Justice Weight
+delivered the opinion of the court.
+This was a suit in replevin for certain chattel property, by appellee against appellant, and upon the trial the jury found the issues against appellant, and after overruling his motion for a new trial the court gave judgment against appellant upon the verdict, and to reverse such judgment he prosecutes this appeal, insisting the court erred in permitting improper cross-examination of one of the wit nesses to his prejudice, refused proper instructions, and that the verdict is against the weight of the evidence in the case.
+The evidence proves that appellee gave to appellant a note for $500, with chattel mortgage to secure it, as an indemnity for becoming surety upon a note of $200 to Atlanta National Bank and $83 to Lilly. Appellant also testified a further sum was to have been borrowed upon which he agreed to be surety, to equal $500, although this was disputed by appellee. When the $200 note to the bank was about to mature, appellant, through his two sons, sought settlement or payment of appellee, and failing in this they each, upon the trial, testified that appellee, having failed to arrange with Capps to take up the note, told them to take the property under the mortgage, which they did. Appellee then brought this suit to recover back the property, and claimed he had paid to appellant a sufficient sum of money to pay the $200 note of the bank, the Lilly note having already been paid. The question of such payment to appellant formed the chief issue of fact for the jury to pass upon, and the evidence of the contending parties was conflicting upon it. In his testimony appellee said he had received $187.50 in cash from Hamline, a commissioner of highways, out of which he paid $150 to Dempsey. To dispute this, Hamline was produced as a witness, who denied such payment to appellee, and upon his cross-examination, over the objection of appellant, the court allowed him to answer concerning the aggregate of work done by appellee for the commissioners, and as to a certain payment of $25.05 by check, and other payments by check. Appellant insists this was not proper cross-examination and was prejudicial error, and we are inclined to hold with appellant’s contention, that it was not cross-examination, although we are unwilling to say that alone would be reversible error. The testimony of Hamline was directed to the single point of appellee’s testimony wherein he said he received $187.50 in cash in one sum, from which he took $150, also in one amount, to pay appellant, and it is difficult to see the pertinency of the inquiry that was permitted concerning separate check items, for less sums, and the aggregate amount of earnings due to appellee. We are constrained to believe it was misleading.
+It appeared upon the $500 note that it had been credited with $217, appellee claiming this was the $150 he had paid which had been changed to $217, while appellant testified this indorsement was made to reduce the note to the actual amount he was surety for, after appellee failed to secure the additional loan to raise the whole amount to $500, against which the indemnity was at first designed. The corn included in the mortgage was sold at private sale, both parties consenting, and there was dispute as to the application of the proceeds, appellant insisting he got none, except a small amount to apply upon a store account, that left a balance of $16 still due to him. The burden of proof was upon appellee to prove payment by the weight of the evidence, and upon examination of .the whole evidence we think he clearly failed in this respect. W hile it is true the credibility of the witnesses is peculiarly within the province of the jury to settle, still it is always the province of the court, upon review of the verdict, to decide if it is supported by the weight of the evidence, and we find no just reason to credit appellee against the weight of disputing evidence and circumstances in the case, and we are constrained to believe the jury were misled in some way, or failed to properly grasp the merits of the issues submitted to them. We find no material error in the action of the court refusing the instructions complained of, for all that was proper therein was contained by those given by the court.
+The judgment of the Circuit Court will be reversed and the cause remanded for a new trial.
+Reversed and remanded.
