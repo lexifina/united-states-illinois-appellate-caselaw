@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-12-07"
+citations: ["24 Ill. App. 106"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Newton P. Holden v. Charles C. P. Holden et al."]
+source_url: "https://static.case.law/ill-app/24/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5780906
+cites_cases: ["1 Gilm. 187", "10 Yerg. 309", "100 Ill. 204", "102 Ill. 84", "103 Ill. 41", "103 Ill. 528", "105 Ill. 488", "113 Ill. 251", "114 Ill. 255", "12 Ill. 207", "15 Ill. 148", "16 Ill. 48", "17 Ill. 112", "18 Ill. App. 531", "23 Ill. 30", "3 Ill. App. 30", "43 Ill. 280", "48 Ill. 100", "5 Wall. 497", "56 Ill. 204", "71 Ill. 449", "72 Ill, 524", "79 Ill. 544", "84 Ill. 600", "97 Ill. 482"]
+---
+
+# Holden v. Holden
+
+## Majority (Moran, P. J.)
+
+Moran, P. J.
+The question, is whether, under the facts stated in the' bill, a case is made for equitable cognizance. It is contended that a court of equity has no jurisdiction to quiet title or remove a cloud upon the title to real estate, unless the complainant is.in possession, or the land is unimproved or unoccupied. Such is no doubt the general rule, but there are well recognized exceptions.
+Where a complainant is seeking to remove a cloud which is in the nature of a legal title, which is being or may be asserted adversely to the title which he desires to protect, then he must show that he is in possession and therefore can not bring ejectment, or must allege and prove that the real estate whose title is clouded, is vacant or unimproved and unoccupied land. But when the facts stated in the bill show that the legal title claimed by the complainant is not disputed by the defendant in possession, but that such defendant sets up some equity not affecting the legal right of possession, but which operates as a cloud on the legal title and prevents a sale of the property, or renders the title unmarketable, then equity has jurisdiction, because an action at law would not afford an adequate remedy, and in such case the possession by the defendant, in subordination to complainant’s legal title, will not defeat the jurisdiction.
+Taking the facts as alleged in the bill as true, it is very plain that complainant could maintain forcible detainer or ejectment upon the contract, and that defendant could not set up in such suit at law in bar of plaintiff’s right of possession, that the contract in fact constituted a mortgage. But a judgment at law would not silence defendant’s claim that the contract was but a security for money and that he had a right of redemption, and thus after a successful action at law defendant’s claim of an equitable right in the land would be as complete' a cloud upon complainant’s title as it is now with defendant in possession.
+The chancery court has jurisdiction in such a case under the ancient head of equity, that the action at law furnished no adequate remedy, and such jurisdiction has been sustained by the Supreme Court in a case not distinguishable in principle from this case. Shays v. Norton, 48 Ill. 100.
+And in cases where there is fraud as a ground of equitable jurisdiction, and removing the fraudulent instrument as a cloud is incidental to the general relief, even though the fraudulent title is in its nature a legal title, and the holder of such title is in possession, a court of chancery will have jurisdiction to remove the cloud. Booth v. Wiley, 102 Ill. 84.
+It is well settled that when equity has jurisdiction for one purpose, it will go on and do complete justice between the parties, and will not send them to a court of law because part of the relief may be purely legal relief. So here the court would be authorized to put complainant in possession if upon a hearing he maintained the allegation of his bill as to the nature of the contract. Green v. Spring, 43 Ill. 280.
+But there is also another ground of plain chancery jurisdiction. The contract set out is claimed by complainant in his bill to be, and on its face is, a'contract for the sale of real estate, and defendant is shown to be in possession under the contract, and to be in default.
+In such case the vendor may go in the first instance into a court of equity, and call on the purchaser to come forward and pay the money due, or be forever thereafter foreclosed from setting up any claim against the land; and under some circumstances such is his only safe remedy. Hansbrough v. Peck, 5 Wall. 497; Derickson v. Chicago South Branch Dock Co., 18 Ill. App. 531.
+It is true complainant has specially prayed for entirely different relief, but it is for the court to determine from the material allegations of the bill and the proofs on the hearing, what relief he is entitled to, and to decree him the appropriate relief and thus terminate the suit, unless, to avoid taking the relief which he is found by the court to be entitled to, he voluntarily dismisses his bill.
+There was in this bill the prayer for general relief, as follows: “That your orator may have such other and further relief in the premises as equity may require, and this court may deem just.” Under this general prayer the court could grant the relief appropriate to the facts, although the bill was not framed with a view to getting such relief. If the facts stated entitled the complainant to a certain relief, it matters not that such statement of facts may have been made with the purpose and belief, on the part of the solicitor who drafted the bill, that the relief sought might flow from a different source of equitable jurisdiction. McNairy v. Eastland, 10 Yerg. 309; Vansant v. Alimon, 23 Ill. 30.
+The dismissing of the bill in this case on motion was, in effect, sustaining a demurrer to the bill, and a demurrer can not- be sustained on 'the ground that a party has prayed for the wrong relief where there is also a prayer for general relief, because at the hearing the complainant may ask at the bar for the proper specific relief. Wilkinson v. Beal, 4 Mod. 408; Hopkins v. Snedaker, 71 Ill. 449; Curyea v. Berry, 84 Ill. 600; Stanley v. Valentine, 79 Ill. 544; Wescott v. Wicks, 72 Ill, 524; Crane v. Hutchinson, 3 Ill. App. 30.
+There was error, therefore, in dismissing the bill on the motion of the defendant for want of equity, or for want of jurisdiction, and the decree must therefore he reversed and the case remanded.
+Reversed and remanded.
