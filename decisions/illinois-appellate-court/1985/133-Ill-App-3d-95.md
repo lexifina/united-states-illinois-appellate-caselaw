@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "3—84—0623"
+decided: "1985-04-03"
+citations: ["133 Ill. App. 3d 95"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WALTER SPECTOR COMPANY, Plaintiff-Appellee, v. THE ILLINOIS LIQUOR CONTROL COMMISSION et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/133/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3529759
+cites_cases: ["129 N.E.2d 236", "371 N.E.2d 1210", "438 N.E.2d 147", "56 Ill. App. 3d 485", "7 Ill. App. 2d 147", "91 Ill. 2d 404"]
+---
+
+# Walter Spector Co. v. Illinois Liquor Control Commission
+
+## Majority (PRESIDING JUSTICE HEIPLE)
+
+PRESIDING JUSTICE HEIPLE
+delivered the opinion of the court:
+The Illinois Liquor Control Commission appeals from a decision of the circuit court of Rock Island County reducing the suspension of the liquor license of plaintiff, Walter Spector Company. We reverse.
+On April 26, 1980, two black men entered plaintiff’s establishment and headed for the coin-operated pool table. The bartender informed them that there was no point putting in money, since there was no cue ball. The two then sat at the bar and ordered drinks. The barmaid on duty, a white woman and a friend of the men, talked with them while she worked. At the hearing before the Illinois Liquor Control Commission, the barmaid testified that the bartender showed her that the cue ball was in a coffee can behind the bar and that he said, “After the niggers leave anybody can play pool that wants to.” The proprietor, Jerry Spector, observed the barmaid talking to the men. Feeling that the men looked suspicious and not liking their unhurried consumption of their drinks, Spector called the police. The police then asked the men to leave. Spector testified that he was influenced in part by a recent episode where he had been beaten up. He further stated that there is a policy of nondiscrimination and that over a period of 46 years the bar has had only a few minor violations cited against it.
+Mayor James Davis, local Liquor Commissioner of Rock Island, notified plaintiff that he would hold hearings to determine if plaintiff had violated section 6 — 17 of the Liquor Control Act (Ill. Rev. Stat. 1983, ch. 43, par. 133) in denying the full and equal enjoyment of the premises to the two men. The local Commission found a violation and ordered plaintiff’s license suspended for 21 days. Plaintiff exercised its right to a trial de novo before the State Commission. (Ill. Rev. Stat. 1983, ch. 43, par. 153.) The State Commission found that plaintiff, through its employee bartender, prevented the men from playing pool. It also found that Jerry Spector committed “an error in judgment” in having the men removed without sufficient cause. Concluding that violations had occurred, plaintiff’s license was suspended for seven days.
+Plaintiff then brought the instant complaint for administrative review. The court reviewed the record and determined that the findings of the State Commission were not against the manifest weight of the evidence. It also determined that the suspension of seven days should be modified to three days due to “various mitigating circumstances.” The court then proceeded to direct the three days for which the license would be suspended.
+The modification of the order of the State Commission was beyond the circuit court’s authority. Decisions of the Illinois Liquor Control Commission are reviewable pursuant to the provisions of the Administrative Review Act (Ill. Rev. Stat. 1983, ch. 43, par. 154a). Section 3 — 111(a)(5) of the Act (Ill. Rev. Stat 1983, ch. 110, par. 3— 111(a)(5)) grants the court the power to “affirm or reverse the decision in whole or in part.” The Act is silent on the power to modify administrative decisions.
+In response to a series of circuit court decisions reversing discharges ordered by the Civil Service Commission, the court in Nolting v. Civil Service Com. (1955), 7 Ill. App. 2d 147, 129 N.E.2d 236, undertook a lengthy discussion of the role of a court in reviewing administrative decisions. The essence of the discussion is as follows:
+“It appears to us that these judgments were based on the erroneous assumption that courts have general jurisdiction over orders of the Civil Service Commission and that they may consider the severity of the punishment or matters in mitigation and may enter such orders as appear kind and merciful. ***. It is easy in such cases for courts to fall into the error of assuming their function to be charismatic and to take on the character of a supercommission or superchief of police.” (7 Ill. App. 2d 147,152-53.)
+The misapprehension of power described in Nolting apparently caught hold in the court below. The scope of review under the Act is set out in section 3 — 110 (Ill. Rev. Stat. 1983, ch. 110, par. 3 — 110):
+“The hearing and determination shall extend to all questions of law and fact presented by the entire record before the court ***. The findings and conclusions of the administrative agency on questions of fact shall be held to be prima facie true and correct.”
+The Commission submits that once the court determined that the agency’s findings were not against the manifest weight of the evidence, it should have stopped its inquiry there and affirmed the decision without question. This is not entirely true. Courts are not authorized to reweigh the evidence or to make an independent determination of the facts (Kessell v. Illinois Liquor Control Com. (1978), 56 Ill. App. 3d 485, 371 N.E.2d 1210). However, pursuant to its authority to review questions of law presented by the record, it would have been appropriate for the court to inquire as to whether the Commission acted unreasonably or arbitrarily or opted for a sanction unrelated to the purposes of the statute. (Sutton v. Civil Service Com. (1982), 91 Ill. 2d 404, 438 N.E.2d 147.) Thus, the trial court’s decision to modify the sanction could be grounded on an implicit finding that the seven-day suspension was arbitrary, unreasonable or unrelated to the purposes of the statute. There is, however, nothing in the record to suggest that the court below made such a finding in reducing the suspension or even entertained the question. Accordingly, plaintiff urges us to remand for consideration of this issue. We decline for the reason that the sanction imposed by the Illinois Liquor Control Commission was not, in fact, arbitrary, unreasonable or unrelated to the purposes of the statute.
+Accordingly, we reverse the order of the circuit court of Rock Island County and reinstate the suspension order of the Illinois Liquor Control Commission.
+Reversed. Order of Illinois Liquor Control Commission reinstated.
+BARRY and WOMBACHER, JJ., concur.
