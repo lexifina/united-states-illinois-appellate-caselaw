@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "72-222"
+decided: "1973-10-09"
+citations: ["15 Ill. App. 3d 61"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Larry Smith, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/15/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460426
+cites_cases: ["29 Ill.App.2d 293", "43 Ill.2d 135", "47 Ill.2d 501"]
+---
+
+# People v. Smith
+
+## Majority (Mr. JUSTICE CREBS)
+
+Mr. JUSTICE CREBS
+delivered the opinion of the court:
+The defendant pleaded guilty to an indictment charging burglary in the Circuit Court of Washington County and was sentenced to the penitentiary for a term of not less than one nor more than two years. The sole issue in this appeal is the sufficiency of the indictment.
+The indictment charged that defendant, “* * * committed the offense of burglary, when he, without authority, knowingly entered a building # * * with intent to commit therein a felony or theft, in violation of Ill. Rev. Stat. 1971, ch. 38, par. 19 — 1.”
+Defendant contends that the indictment is fatally defective in that it employed the disjunctive language of the statute in alleging that he entered the building with an intent to commit therein a felony or theft. He argues that this use of the disjunctive creates uncertainty, depriving him of his constitutional right to know the specific nature of the crime with which he is charged, and further, creates the possibility that he could not later plead his conviction in bar to a subsequent prosecution for entering the building with an intent, perhaps, to commit rape.
+We do not believe defendant’s argument is well taken in either respect. In essence, burglary consists of a knowing unlawful entry made with an intent to commit one or more felonies. It seems self-evident that if there is only one unlawful entry there can be only one crime regardless of how many felonies the burglar intended to commit on gaining entry. If this is so, it necessarily follows that a prior conviction bars a second prosecution for burglary for the same unlawful entry even though the felony intended to be committed is alleged to be different from that charged and proved in the first prosecution. This conclusion is not advanced for the first time in this court. Our Supreme Court, in People v. Scott, 43 Ill.2d 135, has already met the issue. There an accused was convicted and sentenced on three separate charges of burglary alleging one unlawful entry with an intent to commit theft, an intent to commit rape, and an intent to commit deviate sexual conduct. The Court affirmed the conviction of burglary charging intent to commit theft and vacated the other two convictions, stating, “The primary concern in a burglary indictment is with the unlawful entry. In the present case there was but one unlawful entry and the fact that defendant might have intended to commit several crimes, if the opportunity presented itself, does not justify conviction of and sentence for three separate acts”.
+We are aware that the use of the disjunctive word “or” in an indictment can, under certain circumstances, cause such uncertainty as to render it fatally defective. In People v. Heard, 47 Ill.2d 501, cited by defendant, the complaint, following the language of the statute, charged defendant with the offense of gambling in that she set up a policy game, or promoted a policy game, or sold, or offered to sell tickets, or transferred, or knowingly possessed tickets. In holding such indictment fatally defective, the court stated:
+“While a charge which follows the language of the statute defining the crime and uses the disjunctive or will be sufficient under some circumstances, it will not be sufficient where the statute names disparate and alternative acts, any one of which will constitute the offense * * * The statute here named specific acts which constitute the crime of gambling, some of which acts are clearly disparate and alternative. The promoting of a policy game is not the same act as transferring a policy ticket. The use of the disjunctive under these circumstances causes uncertainty and conjecture as to which of the alternatives the accused is charged with committing”.
+Obviously, the Heard case specifically limits its ruling to those circumstances involving disparate and alternative acts, any one of which would constitute the offense of gambling. Defendant recognizes this fact but argues that because intent is an essential element of burglary he is entitled to be informed as to his specific intent as well as his act, or otherwise he might prepare his defense on the theory he intended to commit theft only to find that the prosecutor was attempting to prove an intent to commit rape. This is pure sophistry.
+As alluded to in Heard and as stated in People v. Rauschenberg, 29 Ill.App.2d 293, use of the disjunctive “or” in an indictment does not always result in a fatal defect. The determining factor is whether its use renders the statement of the offense so uncertain as to deprive defendant of the opportunity to prepare his defense. Here, defendant did not question the sufficiency of the indictment prior to his plea, nor did he ever request that he be furnished with a bill of particulars. As the record clearly demonstrates, both he and his counsel were at all times w'ell aware of the nature and elements of the charge against him. We would state the rule to be that where a statute proscribes a substantive act when done with particular motives or particular intents, and the difference in motive or intent causes the act to become punishable in no greater or lesser degree, it is not duplicity to charge the single substantive act in combination with an intent or motive described either conjunctively or disjunctively in more than one way. If defendant desires additional information, it is available to him on a bill of particulars, or if, failing in that, he believes the indictment to be formally defective, his remedy is a motion to quash.
+On the basis of the above we find the indictment for burglary to which defendant pleaded guilty was sufficient. Accordingly, the judgment of the Circuit Court of Washington County is affirmed.
+Affirmed.
+EBERSPACHER, P. J., and G. MORAN, J., concur.
