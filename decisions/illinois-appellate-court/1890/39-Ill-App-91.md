@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-12-22"
+citations: ["39 Ill. App. 91"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daniel Bailey v. Robert Ferguson."]
+source_url: "https://static.case.law/ill-app/39/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5019488
+---
+
+# Bailey v. Ferguson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal from a judgment of the Circuit Court of Boone County. This proceeding was to recovethe possession of the farm of appellant from his tenant, Eobert Ferguson, through the agency of a forcible entry and detainer proceeding. The suit was originally begun before a justice of the peace, and was appealed to the Circuit Court, where a trial was had resulting in a judgment for the defendant. The record shows that appellant leased his farm to appellee by parol for one year from the 12th day of November, 1888, to the 12th day of November, 1889. On the 23d day of July, 1889, appellant gave appellee written notice to vacate the farm on the 12th day of November, 1889. On the 21st of October, 1889, appellant entered into a written agreement with one Mauson to farm the same land which appellee occupied on the shares, Mauson to receive a certain share of the grain and stock raised. When the 12th of November arrived, appellee did not vacate the farm. On the 12th of November appellant went to his farm and demanded possession, but appellee refused to allow him to enter. On the 22d of November appellant brought suit against appellee for the possession of the farm in forcible entry and detainer, and notice was served on appellee; but on the 27th of November appellee left the farm, before the time of the trial. On the day set for trial appellee went before the justice and defended the action, but being defeated, took an appeal to the Circuit Court. On the trial there appellant was defeated, and he appeals here and assigns errors.
+In the view we take of the case, an elaborate discussion will not be necessary. The only important question involved requiring our consideration is, whether the contract made between appellant and Mauson was a lease or a mere contract to liavé his land farmed for him upon certain terms therein named. The contract or agreement between these parties does not purport to be a lease, but is described as a contract, and at great length defines the terms and conditions upon Avhicli the farming was to be done. We think that this contract was nota lease Avithin the meaning of the law, so as to entitle the tenant to the exclusive possession of the farm, and be the OAvner of the crops raised. It amounted at most to a partnership arrangement for carrying on the farm.
+But even if this agreement should be treated as a technical lease, that can not help appellee, for the proof tends to sIioav that when this new lessee (if he be such) went and demanded possession of appellee he was refused possession, and that Mauson then abandoned and surrendered his lease to appellant, and had not claimed any rights in the premises until after the suit was brought and after appellee left the premises. At all events the new tenant did not get possession but declined to have anything to do with the farm until appellee and appellant got the dispute settled up; so that when this suit Avas brought and when appellee left the farm, appellant was clearly entitled to the exclusive possession of his farm, and no question could arise about his new tenant, Mauson, being entitled to the possession of the farm, for he had temporarily abandoned his lease or his contract and refused to have anything to do pvith it until appellant and appellee had settled it. Appellee can not now insist that the relation of landlord and tenant should exist between appellant and Mauson when they were both willing, and in fact had both abandoned the contract for the time being, by reason of the refusal of appellee to surrender possession. This being the situation of the parties at the time this suit was commenced, it left appellee on his own statement without any defense to this action, and it is very clear that appellant was entitled to recover for his cost's at least, notwithstanding appellee had abandoned the farm, and thereby recognized appellant’s right to the possession.
+An attempt is made to show that appellee was a tenant from year to year by parol for three years. This can not be under our statute, hfo lease can be made by parol of lands for more than one year. The court also erred in submitting to the jury in one of the instructions for appellant to say whether the written contract was or was not a lease. It was the duty of the court to construe the contract, and not leave it to the jury.
+For the errors indicated the judgment is reversed and the cause remanded.
+Reversed and remanded.
