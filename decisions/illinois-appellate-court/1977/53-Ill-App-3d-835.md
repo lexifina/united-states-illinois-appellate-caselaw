@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-385"
+decided: "1977-10-24"
+citations: ["53 Ill. App. 3d 835"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LORRAINE NEWBY, Plaintiff-Appellant, v. THE BOARD OF EDUCATION, LAKE ZURICH COMMUNITY UNIT SCHOOL DISTRICT NO. 95, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/53/cases/0835-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3394152
+cites_cases: ["103 Ill. App. 2d 425", "34 Ill. App. 3d 551", "35 Ill. App. 3d 993", "38 Ill. App. 3d 742", "408 U.S. 564", "87 Ill. App. 2d 269"]
+---
+
+# Newby v. Board of Education
+
+## Majority (Mr. PRESIDING JUSTICE RECHENMACHER)
+
+Mr. PRESIDING JUSTICE RECHENMACHER
+delivered the opinion of the court: .
+Lorraine Newby brought this action against the Board of Education of Lake Zurich Community Unit School District No. 95 (hereafter the “Board”), alleging that the Board deprived her of due process of law when it transferred her from a position as a guidance counselor to an assignment as a second grade teacher. She sought money damages, a declaratory judgment, and an injunctive order requiring the Board to employ her as a guidance counselor for the upcoming school year. The trial court granted the Board’s motion to dismiss Newby’s complaint and she appeals. As we view the case, the issue on appeal is whether the well-pleaded allegations of Newby’s complaint demonstrate that she had a property interest in her continued assignment to a position as a guidance counselor.
+The complaint states that Newby was employed by the Board as a kindergarten teacher for three school years, from September 1965 to June 1968. Newby received a guidance certificate from the Illinois State Teachers’ Certification Board, effective August 9,1968. From September 1968 to June 1971 she was assigned by the Board to a position as an elementary guidance counselor. On August 4,1971, Newby was informed that she was being reassigned to a position as a second grade teacher, due to the financial position of the District. She instituted a grievance procedure, but the procedure did not result in her reassignment as a guidance counselor. The Board has hired a number of persons to work as guidance counselors since the date of Newby’s reassignment. Newby alleges that the “profession of guidance counseling” is “substantially different” than the profession of teaching and that “based upon the conditions of her employment from September, 1968 to June, 1971” and upon “actions and representations of officials” of the Board, she “had a legitimate claim of entitlement to her continued employment * * ° asa guidance counselor.” She further asserts that the notice of reassignment, and the Board’s grievance procedure, did not comport with the requirements of due process of law.
+In passing upon a motion to dismiss the complaint for failure to state a cause of action, all facts properly pleaded and all reasonable inferences therefrom must be taken as true. (E.g., Stribling v. Chicago Housing Authority (1975), 34 Ill. App. 3d 551, 554.) However, the pleading of conclusions alone will not suffice to supply the essential factual allegations upon which a cause of action must be based. Haas v. Mid-America Fire & Marine Insurance Co. (1976), 35 Ill. App. 3d 993, 998.
+In this case, in order to plead a cause of action for deprivation of a “property” interest within the purview of the fourteenth amendment, it was necessary for Newby to set forth facts showing that she had more than a mere unilateral expectation, or abstract need or desire, to continue in her position as a guidance counselor; rather, it was her burden to show a “legitimate claim of entitlement” to that position. (Board of Regents v. Roth (1972), 408 U.S. 564, 577, 33 L. Ed. 2d 548, 561, 92 S. Ct. 2701.) In examining her complaint, we are forced to conclude that Newby has failed to meet this burden. It is clear that a teacher or other certified school district employee does not acquire tenure in any particular assignment or position within the District, but only as a certified employee of the school district. (Lester v. Board of Education (1967), 87 Ill. App. 2d 269.) Newby has not alleged the existence of any express contract to continue her in the position of guidance counselor. She has also failed to allege the existence of any custom or usage which could be supportive of a reasonable expectation of continued assignment as a guidance counselor, or could give rise to an implied contract to retain her in that position. The closest the complaint comes to such an allegation is its statement that “actions and representations” of Board officials as well as “conditions of her employment” give her “a legitimate claim of entitlement” to the retention of her former position as a guidance counselor. However, this allegation of a “legitimate claim” is but a conclusion of the pleader, and was properly disregarded by the trial court. (See Barnes v. Peoples Gas Light & Coke Co. (1968), 103 Ill. App. 2d 425.) Thus, even assuming the truth of all well-pleaded allegations in Newby’s complaint, it failed to state a cause of action for deprivation of a property interest, since it never set forth more than a unilateral expectation of Newby’s that she would be able to continue to function as a guidance counselor. (See Lane v. Board of Education (1976), 38 Ill. App. 3d 742.) The trial court, in our opinion, did not err in sustaining the motion to strike her complaint.
+The judgment of the circuit court of Lake County is therefore affirmed.
+Judgment affirmed.
+BOYLE and WOODWARD, JJ., concur.
