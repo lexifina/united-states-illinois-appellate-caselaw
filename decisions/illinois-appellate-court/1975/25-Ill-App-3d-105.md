@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "73-229"
+decided: "1975-02-03"
+citations: ["25 Ill. App. 3d 105"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Byron Haak, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/25/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2707317
+cites_cases: ["57 Ill.2d 440", "8 Ill.App.3d 963", "Minn. Stat. Ann. § 609.155"]
+---
+
+# People v. Haak
+
+## Majority (Mr. PRESIDING JUSTICE THOMAS J. MORAN)
+
+Mr. PRESIDING JUSTICE THOMAS J. MORAN
+delivered the opinion of the court:
+After a jury trial, the defendant was found guilty of reckless homicide and sentenced to imprisonment for 1 to 6 years. He appeals, contending (1) the statute setting forth the offense of reckless homicide is unconstitutional, and (2) the trial court erred in sentencing him under the extended-term provision of the Unified Code of Corrections.
+It is defendant’s position that section 9 — 3(b) of the Criminal Code (Ill. Rev. Stat. 1973, ch. 38, §9 — 3(b)) is unconstitutional in that it violates the doctrine of equal protection under the law and is an unauthorized delegation of discretionary power to the State’s attorney and grand jury. The defendant relies exclusively on People v. McCollough, 8 Ill.App.3d 963 (1972).
+Subsequent to the defendant filing his appeal, the decision relied upon was reversed by our supreme court (People v. McCollough, 57 Ill.2d 440 (1974)). Therein it was held that section 9 — 3(b) did not violate the doctrine of equal protection nor contain an unauthorized delegation of legislative authority. People v. McCollough, at 444-45.
+Reckless homicide is a Class 4 felony (Ill. Rev. Stat. 1973, ch. 38, § 9 — 3(c)(2)), with the maximum term not to exceed 3 years. Ill. Rev. Stat. 1973, ch. 38, § 1005 — 8—1(b) (5).
+The defendant claims that the trial court erred in sentencing him to a 6-year maximum term under the extended-term provision of the Criminal Code. He argues that neither the facts of the present cause nor his prior criminal record justify the trial court’s finding that he presents a continuing risk of physical harm to the public, and that, regardless, he could not be sentenced under the extended term provision without first being committed for a presentence examination and report.
+The extended term provision of the Unified Code of-Corrections (Ill. Rev. Stat. 1973, ch. 38, § 1005 — 8—2) states in relevant part:
+“(a) The court may sentence a defendant who is 17 years of age or older and convicted of a felony in which he inflicted or attempted to inflict serious bodily injury to another, or in which he used a firearm in the commission of the offense or flight therefrom, to a term not to exceed twice the maximum sentence that could be imposed under Section 5 — 8—1, if the court finds the defendant presents a continuing risk of physical harm to the public, and that such a period of confined correctional treatment or custody is required for the protection of the public.
+(b) A sentence under this Section shall not be imposed unless the defendant has been committed for examination and report before sentencing under Section 5 — 3—3.”
+Council Commentary notes in part:
+“* * * [T]he section differs from the former Habitual Offender Act, in which any past conviction of a felony automatically subjected a person to an extended term, without reference to past violence or future potential for dangerousness.” (Ill. Ann. Stat. ch. 38, § 1005 — 8—2, at 481-82 (Smith-Hurd 1973).)
+Thus, under this section, a defendant convicted of a felony in which he inflicted or attempted to inflict serious bodily injury to another, or in which he used a firearm in the commission of the offense or flight therefrom, may be sentenced to an extended term. His prior criminal record, however, remains relevant in determining whether he presents a continuing risk of physical harm to the public and whether confined correctional treatment is required for the public safety.
+The facts in the present cause reveal that during the afternoon and early evening hours of October 9, 1972, the defendant celebrated his 20th birthday by consuming an unknown quantity of beer. At about 7 P.M. that evening, he, with three companions, drove south on Green Bay Road. At a location approximately one-half mile north of Yorkhouse Road, and at an estimated speed of 97 m.p.h., the car which defendant was driving collided with the rear of another southbound vehicle, propelling that vehicle into the northbound lane where it was struck by a northbound auto. The driver and passenger of the southbound car died as a result of this collision. Defendant’s three companions and the investigating officer all testified that, in their opinion, the defendant was driving while under the influence of intoxicating liquor.
+The defendant’s prior record reveals that in November, 1969, he was charged with armed robbery. He pled guilty to a reduced charge of robbeiy and was placed on 2 years’ probation. In July, 1971, while still on probation, he was charged with disorderly conduct and driving on a suspended license. As a result of these charges, he was sentenced to seven weekends in jail and his probation was extended until 1974. The acts which resulted in his conviction for reckless homicide were committed while defendant was still on probation.
+In the span of 3 years, defendant has committed three offenses, the latter two while on probation. Two of the offenses are felonies, one of which imposed upon another person the risk of serious bodily harm and the other, in fact, having caused the death of two members of the public. Defendant’s acts and his repeated breach of the terms of his probation clearly indicate his total disregard for the law. In light of this record, we conclude that the trial court could reasonably find that the defendant presents a continuing risk of physical harm to the public and that an extended period of confinement is required for the protection of the public.
+It is noted, however, that the extended term section states with certainty that “a sentence under this Section shall not be imposed unless the defendant has been committed for examination and report before sentencing under Section 5 — 3—3.” The Council Commentary of the extended term provision states that this section “requires a prior examination of the defendant under section 1005 — 3—3 by a court clinic or the Department of Corrections.” (Emphasis added.) (Ill. Ann. Stat. ch. 38, § 1005 — 8—2, at 481 (Smith-Hurd 1973).) The Council Commentary to section 5 — 3—3 states that “[t]he court must make such a commitment where it intends to invoke its powers to set an extended term of imprisonment under section 1005 — 8—2.” (Emphasis added.) (Ill. Ann. Stat. ch. 38, § 1005 — 3—3, at 269 (Smith-Hurd 1973).) The Council Commentary of both the above sections also notes that these sections were derived from the statutes of Minnesota and other jurisdictions.
+The Advisory Committee Comment to Minnesota’s extended term provision relates:
+“Under the recommended sections it is discretionary with the trial judge whether or not the extended term shall be imposed. Also it cannot be imposed unless certain conditions have been met. Namely, a presentence report, a diagnostic evaluation report and recommendation, a hearing, and findings which will include a finding that the defendant is disposed to the commission of criminal acts of violence and that an extended term of imprisonment is required.
+These requirements are intended to assure that the habitual offender act is applied only in those cases of the serious offender who for his own sake or in the interest of the public should be confined for a period longer than the maximum provided by the statute violated and that it should not be applied to the offender who is guilty of two or more isolated criminal acts and not otherwise shown to be disposed to criminal behavior dangerous to the public.” (Minn. Stat. Ann. § 609.155, at 149 (1964).
+We hold that commitment for diagnostic study is a condition precedent to sentencing under the extended term provision and that, here, failure to follow such procedure requires the sentence to be vacated and the cause remanded for resentencing.
+Judgment affirmed; sentence vacated and cause remanded.
+RECHENMACHER and GUILD, JJ., concur.
