@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1879-02"
+citations: ["3 Ill. App. 377"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward M. West et al. v. The People of the State of Illinois."]
+source_url: "https://static.case.law/ill-app/3/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5776785
+cites_cases: ["12 Ill. 409", "15 Ill. 282", "16 Ill. 175", "25 Ill. 221", "29 Ill. 532", "31 Mo. 210", "36 Ill. 437", "54 Ill. 175", "78 Ill. 570"]
+---
+
+# West v. People
+
+## Majority (Wall, J.)
+
+Wall, J.
+This was an action of debt, commenced by the appellees against the appellants, in the County Court of Madison county, to the August term, 1878, to recover the amount due upon certain real estate alleged to have been forfeited to the State. In the county court judgment was rendered against the appellants for $88.88, from which an appeal was taken by the appellees to the Circuit Court. In the Circuit Court the appellants moved to dismiss the appeal, which motion was by the court overruled, and the case proceeded to trial, resulting in a judgment in favor of the appellees for $632.46. The case is brought here by appeal, and various errors are assigned, only one of which we propose now to consider. Was the appeal properly taken to the Circuit Court? Chapter 37, section 122, Rev. Stat. provides that “ appeals may be taken from the final orders, judgments and decrees of the county courts to the circuit courts of their respective counties in all matters, except as provided in the following section, upon appellant giving bond, etc., except as otherwise provided bylaw. Upon such appeal the case shall be tried de novo” The following section, 123, provides that “ appeals and writs of error may be be taken and prosecuted from the final orders, judgments and decrees of the County Court to the Supreme Court, or Appellate Court, should such a court be established by law, in proceedings for the sale of lands for taxes and special assessments; and in all common law and attachment cases, and cases of forcible detainer and forcible entry and detainer.”
+It is urged that the term common law cases, as here used, refers not to the form of action, but to the nature and origin of the right. If the right or cause of action is statutory, and was unknown at common law, then it is said the term does not apply. We think this is not the true construction. If there is any doubt or ambiguity as to the meaning of the words, it is proper to adopt that construction which gives to the language the significance ordinarily attached to it. When • a statute is remedial, such a construction should obtain as will promote the remedy and hasten the process of litigation. Public policy requires a speedy adjustment of legal controversies, and abhors ambiguity and uncertainty in the laws. It would often be difficult to say whether a given cause of action was recognized fully or at all, at common law. Legislation has so greatly changed the rights and liabilities of persons that in many cases it would be a matter of grave doubt and vexatious controversy whether the alleged right or liability existed independently of the statute. For example, many of the questions growing out of the making and endorsing of commercial paper, the relations of guarantors and sureties, husband and wife, and various other instances where common law and statutory rights and liabilities are more or less blended and combined.
+In order to determine where an appeal must go, it would be necessary to examine the whole record with much care and research, and thus needless and profitless discussion and delay would ensue. On the other hand, if we are to look only to the form of action, no such doubt or ambiguity need arise. Common law cases being such cases as appear in the common law forms of action, are easy of recognition. Those forms are familiar to the practitioner, and a glance will settle the character of the action. The fact that a common law remedy is applied to the recovery of a statutory penalty, or the enforcement of a statutory liability, can make no difference. This view derives force from the context—“ and in all common law and attachment cases.” A common law suit, for example—debt—may be brought to recover a common law right; it may also be brought to recover under a statute. On the other hand, an “ attachment case,” which is a statutory proceeding, may be brought to recover a common law right as well as a right arising under a statute. It seems clear that the legislature in using the term common law cases, referred to the form of action, and- used it in its broadest and most comprehensive sense, and as we have said before, that is a fair construction which will avoid as far as possible all doubt or ambiguity, and at the same time promote the remedy and shorten the course of litigation.
+Our conclusion is, that the appeal was not properly taken to the Circuit Court.
+The judgment is reversed and the cause remanded.
+Reversed.
