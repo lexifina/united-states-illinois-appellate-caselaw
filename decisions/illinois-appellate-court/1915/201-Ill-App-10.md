@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1915-10-13"
+citations: ["201 Ill. App. 10"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adolphine F. Schott, Appellant, v. W. Jeff Horney et al., Appellees."]
+source_url: "https://static.case.law/ill-app/201/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2962930
+cites_cases: ["191 Ill. 249", "205 Ill. 50", "234 Ill. 336"]
+---
+
+# Schott v. Horney
+
+## Majority (Mr. Justice Graves)
+
+Mr. Justice Graves
+delivered the opinion of the court.
+This is a bill in chancery filed by the appellant against the appellees, W. Jeff Horney, Anna Horney and James F. Gibson, to foreclose a mortgage given by the appellees Jeff Horney and Anna Homey, his wife, to appellee Gibson on March 9, 1907, to secure the payment of a note of $8,300 payable five years after the date thereof, with interest at five per cent, per annum, to the order of the appellee Gibson. The note is a coupon note, and contains a provision that at any interest paying period any multiple of $100 may be paid on the principal. The note and mortgage were assigned in blank and delivered to one John B. Schott, the husband of appellant. Gibson supposed John B. Schott was the purchaser, but the purchaser was John B. Schott’s wife (the appellant). John B. Schott acted for his wife and was her agent to do her business.
+Appellees Horney never had any notice but that Gibson was the actual owner of the note and mortgage. The first three coupons of $415 were presented to Gibson for collection and the Horneys paid the first two and when the third came due paid the interest and $2,000 on the principal to Gibson and took up the interest note, but made no inquiry about the principal note and did not see that the payment of the $2,000 on the principal was indorsed on the note. When the fourth coupon note became due, it was forwarded to a bank for collection and then appellees Horney discovered that Gibson did not own the note when the $2,000 payment was made and that it was not credited on the note. The suit to foreclose was brought and $6,300, principal and interest on the note and mortgage, was paid and received without prejudice to the suit pending for the $2,000, and interest on it. A decree was rendered for the defendants.
+The principal point in controversy in this case arises out of said payment of $2,000, appellees Horney insisting that the payment of the same to said Gibson was a legal and valid payment on the principal of said loan; that said Gibson was the agent of John B. Schott, the husband of appellant; that the payment to appellee Gibson was binding upon appellant whether she received it or not; that therefore appellees Homey were entitled to the credit for the same upon the principal of said loan; and that having later paid the balance of $6,300, they had discharged the entire amount due on said note and mortgage and were entitled to have the same canceled and delivered up to them and released of record.
+Appellant contends that the appellee Gibson was not her agent nor the agent of John B. Schott; that said payment by the appellees Horney to appellee Gibson was not a legal or valid payment upon the payment of said loan, and is not binding upon her; that she never received the same; and that there is a balance due on said loan of $2,000 principal and interest and the costs and expenses of the foreclosure proceeding; that the said note and mortgage are negotiable instruments under the laws of the State of Illinois; that they were assigned to and in the possession of appellant from the latter part of March or the first of April, 1907; and that appellees Horney could not lawfully pay the same or any part thereof to said Gibson without knowing that he was the owner thereof, or in the actual possession thereof, or at the time of payment the duly authorized agent of the owner thereof.
+In 1901 an act was passed providing that mortgages shall be exempt from defenses to the same extent as negotiable paper described therein (Session Laws,page 248, J. & A. ¶ 7589), except for this statute any defense that could be urged against Gibson could be urged against appellant. Schultz v. Sroelowitz, 191 Ill. 249; Bouton v. Cameron, 205 Ill. 50; Bartholf v. Bensley, 234 Ill. 336. If suit was brought on the note at law, the defendants have no defense. The maker of a note making payment on it before it is due must see that it is indorsed on the note as against an innocent purchaser before maturity. A purchaser of negotiable paper before maturity without notice of defense takes it free from all defenses. This statute referred to places the mortgage on the same ground as the note so far as defenses are concerned.
+It is contended by appellees that the Statute of 1901 was never passed by the House of Eepresentatives. A memorandum in the Jones and Addington Edition [page 4342] says the statute was not properly passed. It is also contended by appellees that the Supreme Court in 1908 in the case of Bartholf v. Bensley, 234 Ill. 336, in passing upon the negotiability of a mortgage ignores or overrides the Statute of 1901. The case makes no reference to the statute and the attention of the Supreme Court does not appear to have been called to it although the note and mortgage foreclosed in that case were made after the passage of the act.
+An examination of the record shows that appellant was the purchaser of the note and mortgage for value before maturity and that the loan was not made for her through Gibson as her agent, as is contended by appellees.
+The question of the validity of the Act of 1901 was not raised in the Circuit Court and we think appellees should have an opportunity to litigate it. The judgment of the Circuit Court is therefore reversed and the cause is remanded to that court.
+Reversed and remanded.
