@@ -1,0 +1,75 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-8"
+decided: "1979-11-05"
+citations: ["77 Ill. App. 3d 916"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. HATTIE ARMSTRONG, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/77/cases/0916-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3291430
+cites_cases: ["13 Ill. App. 3d 955", "28 Ill. App. 3d 698", "291 N.E.2d 1", "301 N.E.2d 316", "306 N.E.2d 872", "319 N.E.2d 760", "329 N.E.2d 243", "354 N.E.2d 474", "381 N.E.2d 377", "391 N.E.2d 241", "41 Ill. App. 3d 974", "412 U.S. 218", "53 Ill. 2d 101", "56 Ill. 2d 237", "59 Ill. 2d 236", "62 Ill. App. 3d 733", "64 Ill. App. 3d 537", "72 Ill. App. 3d 533", "93 S. Ct. 1041"]
+---
+
+# People v. Armstrong
+
+## Majority (Mr. JUSTICE SCOTT)
+
+Mr. JUSTICE SCOTT
+delivered the opinion of the court:
+Hattie Armstrong, the defendant, was charged with two counts of aggravated battery and of cruelty to children. After a stipulated bench trial she was found guilty of all three offenses by the circuit court of Peoria County and concurrent sentences were entered on all three convictions. She was sentenced to a term of 30 months probation and this appeal ensued.
+To determine the issues presented in this appeal it is necessary that there be a recitation of the events and facts that ultimately resulted in this appeal.
+On June 13,1977, at approximately 8:30 p.m., John Rodgers, a police officer in the city of Peoria, was dispatched to the defendant’s apartment to investigate an anonymous child abuse report. When the officer arrived at the apartment he encountered on a sidewalk the defendant’s six-year-old son, Maurice Armstrong. In reply to his inquiry the officer was informed by the lad that his younger sister was at home. The anonymous tipster had informed the police radio dispatcher that the subject of alleged child abuse was a female. The officer, proceeding with his investigation, knocked on the back door of the defendant’s apartment. It is clear that the officer was not acting pursuant to authority granted by either a search warrant or arrest warrant. The defendant came to the apartment door and what transpired thereafter is for the most part disputed. At a suppression hearing it was the officer’s testimony that the defendant opened the door and allowed him to enter into the kitchen area of the apartment. The in-trial testimony of the defendant at the hearing was to the effect that the officer was never freely admitted into any portion of the apartment. There is no disagreement concerning the fact that the defendant, upon being informed that she had anonymously been accused of abusing her daughter, responded by stating to the officer that the child was at her (the child’s) grandmother’s house. At the suppression hearing the officer testified that he informed the defendant that he would like to verify her statement by calling the grandmother. It was the officer’s further testimony that the defendant gave him permission to make the call on her phone located in the living room and that as he entered the living room with the defendant accompanying him, he observed the child victim standing in a darkened adjoining bedroom and that his flashlight revealed “marks,” “welts,” and a “black eye” on the girl’s body. The child was Aronna Armstrong, approximately four years old, the daughter of the defendant.
+Officer Rodgers had previously testified before a grand jury and his testimony before that body differed from his subsequent testimony concerning his entry into the living room, to-wit, it was his testimony before the grand jury that he had obtained the grandmother’s number from the defendant so that a police officer, not he, could make the call. The pertinent testimony of the officer before the grand jury pertaining to what occurred in the living room is as follows:
+“[The defendant] told me that the daughter wasn’t at the house at that time; that the daughter was at her mother’s house * ” * So I got thé telephone number from her and I was going to have the police operator contact the mother by telephone to confirm that the child was down there and while I was in the process of doing this Hattie Armstrong ran into the front room which was not lit with any light and I followed her in there and she was telling me as she was running in there she will call her mother on the telephone, so I followed her in there. While she was picking up the telephone and started to dial, I saw the little girl standing off in a bedroom right off the living room.”
+Certain testimony of the defendant at the suppression hearing will be set forth verbatim and in context as it becomes pertinent to any issue raised in this appeal.
+The defendant’s first contention is that an improper search was made of her apartment and that any information obtained from that search should have been suppressed.
+We have set forth the substance of the testimony of the investigating officer, given by him before the grand jury and during the hearing to suppress. It has also been noted that on direct examination in the hearing to suppress the evidence, the defendant’s testimony was that the officer was never freely admitted into the apartment. When called in rebuttal the defendant gave a different version as to what transpired when the officer called at her apartment. The rebuttal testimony of the defendant was as follows:
+“[By counsel for defendant]: Now Hattie, directing your attention to the, you understand you are still under oath?
+A. Yes.
+Q. Directing your attention to the conversation that you had with the officer, you heard the officer testify today, is that correct?
+A. Yes.
+Q. Would you tell us what you recall as being said between the 2 of you from the time he reached your apartment to the time that you were arrested? In particular — Well, just leave it at that.
+A. He knocked on my door and I — Well I was cleaning my house at the time and he knocked on the door and I asked him, could I help him or something, and he asked me did I have a daughter by the name of Aronna and I said, yes.
+And we was talking at the door, he was in the door and he was outside the door and he said is she, is she here and I said, no, that she is over at my mother’s.
+So then he, we kept talking because I told him she was over at my mother’s, so we kept talking and so he told me he had a child abuse report and I said, there is no child abuse report here, you know, like something like to the effect of that.
+And he said, well, he had a report to my house that there was. That he would have to, it was his job to inspect and see.
+Q. Excuse me, I couldn’t hear.
+A. That it was his job to inspect and see.
+THE COURT: All right. Go ahead and then what happened?
+A. So I kept insisting that she wasn’t there, so then when he said that is to say it was his job and I just let him in, you know. And he said, I said, well she is over at my mother’s and I said well — I don’t know his exact words.
+But he said, well could we call, well could we call over there and see. And I said, well take my word for it. But any way, he said that, well I will call, on the operator, and then he said, I said well okay, well he had a, to call, I will call her.
+So I will call my mother and started crying and I was talking to her and that is it.
+THE COURT: He said I will call your mother and then what happened?
+A. I said, I will call her and then — Well, I started crying.
+THE COURT: Where were you standing then when you said, I will call?
+A. I think we was walking because I was scared. So I just said, I will call because I told him he didn’t have to call, I would call her.
+THE COURT: All right.
+A. So, and my daughter, she was, she was standing in her bedroom.
+THE COURT: Yes.
+A. And it was around 8 o’clock. That is why it was dark. And it was around 8 o’clock and she was standing in the room. And so that is how he saw her. And he, he cut his flashlight on and saw her and she came out and she came out of the room.
+Q. If he hadn’t said, it is my job, I have to inspect, would you have let him in?
+A. No. No, I wouldn’t have.
+Q. Did you let him in because he was a policeman and said that?
+A. Yes.
+Q. Did you invite him in to the livingroom in any way?
+A. Well, when he said it was, well after the door, yeah, I let him in the livingroom because my phone was in the livingroom and I, like I said, I started crying because I was scared and when I called my mother.
+Q. You did make the telephone call?
+A. Yes.
+Q. Now then, apart from what you said, were you going to let him in and let him check around the place?
+A. No.”
+The rebuttal testimony of the defendant has been set forth in its entirety, and from such testimony it is clear that the defendant permitted the officer to enter the apartment and thereafter either invited or permitted him to go into the living room where a telephone was located. The testimony of the defendant can only be interpreted to the effect that she authorized the officer’s entry into the apartment and that such authorization was not forthcoming as the result of threats, misrepresentation or duress on the part of the officer. His only remarks referred to his duty to investigate an alleged child-abuse incident and an inquiry as to the telephone number of the defendant’s mother. The record discloses that the officer did not even request to use the phone in the apartment, but that the defendant volunteered to make the call and in her words “* * * I let him in the livingroom [sic] because my phone was in the livingroom [sic] * °
+A search conducted pursuant to a valid consent is not violative of the United States Constitution or the Illinois Constitution. U. S. Const., amend. IV; Ill. Const. 1970, art. I, §6.
+Our United States Supreme Court in the case of Schneckloth v. Bustamonte (1973), 412 U.S. 218, 36 L. Ed. 2d 854, 93 S. Ct. 1041, stated:
+“* ° * that the question whether a consent to a search was in fact ‘voluntary’ or was the product of duress or coercion, express or implied, is a question of fact to be determined from the totality of all the circumstances. While knowledge of the right to refuse consent is one factor to be taken into account, the government need not establish such knowledge as the sine qua non of an effective consent.” (412 U.S. 218, 227, 36 L. Ed. 2d 854, 862-63, 93 S. Ct. 2041, 2047-48.)
+An analysis of the events and circumstances in the instant case compels but one conclusion, to-wit, the search conducted by the officer was made after a voluntary consent to the same had been given by the defendant and hence the motion to suppress was correctly denied by the trial court.
+The defendant further asserts that one of her two convictions on aggravated battery and her conviction of the lesser included offense of cruelty to children must be vacated because the evidence presented did not establish the commission of more than a single act.
+We disagree with the assertion of the defendant. The defendant was properly convicted of two counts of aggravated battery, and in support of this determination we call attention first to the indictments returned against the defendant. One count alleged that the defendant bit and struck the victim with an electric cord, while a second count alleged that the defendant bit the victim causing permanent disfigurement. Evidence in the trial, being 19 photographs, discloses extensive injuries, i.e., scars, bite marks, bruises and welts, and all in various stages of healing. Some bite marks are reflected as scars while others are in the process of healing. The same stages exist as to scars and welts present on the victim’s body as the result of beatings received from the use of an extension cord. An examination of the photographs negates a finding that the beatings and bitings inflicted upon the child occurred almost simultaneously. Contrary to the argument of the defendant, the almost simultaneously rule as expressed in People v. Cox (1972), 53 Ill. 2d 101, 291 N.E.2d 1, and adhered to by this court in People v. Short (1978), 62 Ill. App. 3d 733, 379 N.E.2 360, is not applicable to the instant case. The law applicable to the instant case was expressed by this court in People v. Nickols (1976), 41 Ill. App. 3d 974, 354 N.E.2d 474. In Nickols the defendant was charged with and found guilty of two charges of aggravated battery on the same victim in that he caused great bodily harm by striking the victim with his fists and that he also committed a second offense of aggravated battery by stabbing the victim. This court held that the two convictions should stand since the offenses were separate and distinct acts. One offense was completed before the other was committed. The evidence in the instant case also supports such a determination.
+The defendant’s contention that her conviction for the offense of cruelty to children should be vacated is well taken. There is precedential authority which clearly holds that the offense of cruelty to children is a lesser included offense of aggravated battery. (See People v. Holmes (1973), 13 Ill. App. 3d 955, 301 N.E.2d 316, and People v. Koch (1978), 64 Ill. App. 3d 537, 381 N.E.2d 377.) The defendant’s conviction for the offense of cruelty to children was based on the same evidence which supported her conviction on two counts of aggravated battery. The conviction on the lesser offense of cruelty to children should be vacated,
+Lastly, the defendant argues that her convictions should be reversed and this case remanded for a new trial since the stipulated bench trial which resulted in her conviction was tantamount to a guilty plea proceeding and therefore Supreme Court Rule 402 (Ill. Rev. Stat. 1977, ch. 110A, par. 402) admonitions should have been given.
+A recent decision by this court is dispositive of this final issue raised by the defendant. (See People v. Sullivan (1979), 72 Ill. App. 3d 533, 391 N.E.2d 241.) To compare Sullivan with the instant case as to every fact and every procedural detail would be a needless display of verbiage. The cases, if not identical, are so strikingly similar in all pertinent respects that it is crystal clear that Sullivan has spoken and that no admonishments were required in the instant case. Sullivan specifically rejected the cases and rationale contained in them (People v. Stepheny (1974), 56 Ill. 2d 237, 306 N.E.2d 872; People v. Smith (1974), 59 Ill. 2d 236, 319 N.E.2d 760; and People v. Ries (1975), 28 Ill. App. 3d 698, 329 N.E.2d 243) which are cited by the instant defendant in support of her contention that admonitions should have been given.
+For the reasons set forth the judgment of guilty entered against the defendant for the offense of cruelty to children and the sentence imposed thereon is vacated. The convictions for the offenses of aggravated battery and the sentences imposed thereon are affirmed.
+Affirmed in part and reversed in part.
+STOUDER, P. J., and BARRY, J., concur.
