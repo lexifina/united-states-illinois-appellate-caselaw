@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-13"
+citations: ["93 Ill. App. 433"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacob L. Link v. Henry C. Gibson."]
+source_url: "https://static.case.law/ill-app/93/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5287106
+cites_cases: ["76 Ill. 345", "80 Ill. 553"]
+---
+
+# Link v. Gibson
+
+## Majority (Mr. Presiding Justice Higbee)
+
+Mr. Presiding Justice Higbee
+delivered the opinion of the court.
+On July 12,1899, appellant sold to R F. Kelly, a saloon-keeper of Princeton, Illinois, a barrel of whisky for $80.71 on a credit of sixty days. Two days later appellant delivered the whisky and charged it to Kelly upon his books. On August 18, 1899, appellant, not having seen Kelly since the sale, called at his saloon and found the same closed and Kelly gone, but at that time did not discover where he had gone. On July 31, 1899, the Peru Beer Company brought suit in attachment against Kelly for §200 before a justice of the peace. On the return day, August 5,1899, appellee, as constable, returned the attachment writ executed by a levy upon three barrels and one keg of whisky, the return containing the statement that the defendant was not found. The case was then continued to August 21st, to give the defendant statutory notice by publication, at which time judgment was rendered in attachment for the sum of $200 and costs, and the property attached ordered to be sold to satisfy the judgment. The barrel of whisky sold by appellant to Kelly was one of the three barrels mentioned in the attachment writ, and on August 26,1899, was found by appellant’s attorney in the possession of appellee, who had advertised the same for sale under said attachment proceedings brought by said Peru Beer Company, but had not yet sold it. Appellant’s attorney made a demand for the whisky and appellee refused to deliver it up, whereupon suit in replevin for its recovery was commenced by appellant before a justice of the peace. The .cause was appealed to the Circuit Court where a jury was ■waived. The finding and judgment of the court was in favor of appellee and this appeal is prosecuted therefrom.
+On-the trial in the Circuit Court appellant was permitted to prove that he sold the whisky to Kelly on sixty days’ •time; that it was not paid for; that on August 18th he went to Kelly’s saloon and found it closed, and that afterward on August 26th he found the property in the possession of appellee. Appellant also offered to prove declarations of Kelly, and acts and circumstances which tended to show that the purchase of the whisky by Kelly was fraudulent and that he never intended to pay for the same at the time of the purchase. He further proposed to testify that on August 18fch he annulled the contract and rescinded the sale. On objection by appellee, however, the court excluded all evidence of this character and held it to be immaterial, on the ground that neither fraud on the part of Kelly in the purchase of the goods nor a rescission of the contract on the part of appellant, could be shown as against appellee. The cause was tried by the court upon the theory that an attaching creditor, after judgment and before sale, stood in the same position as ah innocent purchaser for value. By virtue of his writ of attachment appellee had levied upon whatever right Kelly had in the property. If he had sold the same under his judgment, the buyer, without notice of fraud, would have occupied the position of an innocent purchaser for value; but until such sale, appellee could acquire no greater right than Kelly himself had.
+“ It is a well settled principle that an attaching creditor can acquire, through his attachment, no higher or better rights to the property or assets attached, than the defendant had when the attachment took place, unless he. can show some fraud or collusion, by which his rights are impaired.” Drake on Attachment, Sec. 220; Samuel v. Agnew, 80 Ill. 553.
+“ The claim of an attaching creditor to protection is not of equal strength with that of a bona fide, purchaser for a valuable consideration. He parts with nothing in exchange for the property, nor does he take it in satisfaction of any precedent debt. The property is merely seized for the purpose of having it afterward so appropriated. The attaching creditor, by means of his attachment, obtains but a lien.” Schweizer v. Tracy, 76 Ill. 345.
+The attaching creditor, therefore, before sale is made under the judgment in attachment, has no better right or title fo the property attached than the debtor himself. As against Kelly it-would have been mahifestly proper for the court to have admitted evidence tending to show fraud on his part in securing possession of the whisky, or a rescission of the contract of sale on the part of appellant. As there had been no sale of the property, appellee occupied the same position as Kelly himself, and the court therefore erred in refusing to admit the evidence offered upon the subjects above named.
+For the error indicated the judgment of the court below is reversed and the cause remanded.
