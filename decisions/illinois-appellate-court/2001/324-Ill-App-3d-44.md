@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "2 — 00—0395"
+decided: "2001-08-10"
+citations: ["324 Ill. App. 3d 44"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re MARRIAGE OF MARY K. HAHN, Petitioner-Appellant, and RUDOLPH H. HAHN, JR., Respondent-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/324/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 256263
+cites_cases: ["258 Ill. App. 3d 475", "295 Ill. App. 3d 350", "296 Ill. App. 3d 919", "634 So. 2d 83", "716 A.2d 569", "850 S.W2d 422"]
+---
+
+# In re Marriage of Hahn
+
+## Majority (JUSTICE BOWMAN)
+
+JUSTICE BOWMAN
+delivered the opinion of the court:
+This is an appeal in a postdecree marriage dissolution case. Respondent, Rudolph H. Hahn, Jr., moved to terminate child support, and this motion was granted. Petitioner, Mary K. Hahn, appeals from that order. We affirm.
+The parties’ marriage was dissolved on September 9, 1996. At that time, Matthew, the parties’ son, was 16 years old and was attending high school. When the marriage was dissolved, the parties entered into a marital settlement agreement that the trial court incorporated into its judgment of dissolution. Two sections of this agreement provided for child support. Child support was first mentioned under a section entitled “Maintenance.” This provision provided as follows:
+“[Respondent] shall pay to [petitioner] Unallocated Family Support of *** $600.00 *** each month ***. This responsibility shall continue until [Matthew] reaches age *** 18 *** or graduates from high school, whichever occurs last.”
+Child support was mentioned a second time under a section entitled “Child Custody and Support.” This provision provided:
+“[Respondent] shall pay to [petitioner] Unallocated Family Support of *** $600.00 *** each month ***. This responsibility shall continue until [Matthew] reaches age *** 21 *** or graduates from high school, whichever occurs first.”
+The “Child Custody and Support” section also provided:
+“The parties have considered seriously the aforesaid custody and support provisions and determined that they are in the best interests of [Matthew], taking into consideration not only their own wishes but also the wishes of the child.”
+At the hearing on respondent’s motion to terminate support, respondent testified that Matthew went to West Chicago High School, but Matthew did not graduate from that school. Instead, Matthew, whom respondent described as very intelligent, dropped out of high school when he was 17 years old. When Matthew was 18 years old, he attained his general education development (GED) certificate. Respondent testified that with a GED Matthew could attend the College of Du Page (COD). Respondent based this opinion on COD’s written spring 2000 acceptance criteria, which were admitted into evidence. Respondent did not know whether Matthew would be required to take some high school classes before he could start COD.
+Petitioner testified that Matthew started high school in 1994, and he was expected to graduate in June 1998. However, Matthew only passed the first year of high school and dropped out of high school in May 1997. According to an unofficial copy of Matthew’s high school transcript, Matthew received mostly failing grades, had a 1.0 grade-point average, and accumulated only five credit hours towards graduation. Petitioner stated that when she and respondent negotiated the terms of the marital settlement agreement, she was aware of Matthew’s mental capabilities.
+The trial court found that Matthew was not currently in high school and had not attended high school for two years. Matthew took the test for his GED and passed the test the first time he took it. The court also noted that the junior college in the court’s jurisdiction, COD, accepted a GED as a high school degree. Based on these facts, the trial court terminated child support because Matthew was emancipated. This timely appeal followed.
+•1 The sole issue presented in this appeal is whether a GED is equivalent to “graduates from high school” for purposes of the marital settlement agreement. Section 510(d) of the Illinois Marriage and Dissolution of Marriage Act (750 ILCS 5/510(d) (West 2000)) addresses the termination of child support. This section provides that the parties may agree in writing or expressly in a judgment that child support will continue after the minor is emancipated, which generally occurs when a child reaches age 18. 750 ILCS 5/510(d) (West 2000); In re Marriage of Sweders, 296 Ill. App. 3d 919, 922 (1998). The parties here clearly wanted to extend child support payments beyond Matthew’s eighteenth birthday if he had not graduated from high school. We must determine what the parties meant by “graduates from high school.”
+•2 The general rules of contract interpretation apply to marital settlement agreements. Sweders, 296 Ill. App. 3d at 922. When interpreting a contract, the court must ascertain and give effect to the parties’ intent, and the language of the contract is the best indication of the parties’ intent. Sweders, 296 Ill. App. 3d at 922. When the terms of the marital agreement are clear and unambiguous, the court must give the terms their ordinary and natural meaning. Sweders, 296 Ill. App. 3d at 922. An ambiguous term is one that is susceptible to more than one meaning or interpretation. In re Marriage of Frain, 258 Ill. App. 3d 475, 478 (1994). Whether a term is ambiguous is a question of law that is reviewed de nova. In re Marriage of Velasquez, 295 Ill. App. 3d 350, 356 (1998); Frain, 258 Ill. App. 3d at 478.
+•3 Here, the term “graduates from high school” is susceptible to two different, yet plausible, interpretations. When a term is susceptible to two different interpretations, the court must follow the interpretation that establishes a rational and probable agreement. Sweders, 296 Ill. App. 3d at 922-23. With this in mind, we agree with respondent’s interpretation that “graduates from high school” includes receiving a GED.
+•4 In reaching this conclusion, we note that Webster’s defines high school as “a secondary school *** [;] *** a school specializing in adult education [that is] often professional or technical but sometimes liberal.” Webster’s Third New International Dictionary 1069 (1993). Thus, “high school” includes a school where adults prepare for the GED test. Moreover, although no reviewing court in Illinois has determined whether “graduates from high school” is equivalent to receiving a GED diploma, other states have found that the two terms are synonymous for the purpose of interpreting child support statutes. See Park v. Park, 634 So. 2d 83, 86 (La. App. 1994) (in determining the extension or termination of child support payments, court noted that a high school equivalency diploma is no less a secondary school education merely because the equivalency diploma was received at a vocational-technical institute and not a high school); In re Marriage of Copeland, 850 S.W2d 422, 426 (Mo. App. 1993) (under child support statute, graduating from a secondary school describes only the event that makes a student eligible for postsecondary studies, and, under the child support statute, this term is the same as receiving a certificate of high school equivalency); L.D. v. K.D., 716 A.2d 569, 573, 315 N.J. Super. 71, 77 (1998) (in assessing the continuation of child support payments, court recognized that a GED is the equivalent of a high school diploma).
+For these reasons, the judgment of the circuit court of Du Page County is affirmed.
+Affirmed.
+HUTCHINSON, EJ., and BYRNE, J., concur.
