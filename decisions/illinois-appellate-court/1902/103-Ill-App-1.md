@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1902-07-18"
+citations: ["103 Ill. App. 1"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago & Milwaukee Electric Ry. Co. v. Clara Krempel."]
+source_url: "https://static.case.law/ill-app/103/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2589827
+cites_cases: ["165 Ill. 334", "170 Ill. 478"]
+---
+
+# Chicago & Milwaukee Electric Ry. Co. v. Krempel
+
+## Majority (Aír. Justice Higbee)
+
+Aír. Justice Higbee
+delivered the opinion of the court.
+This is a suit by appellee, a married woman, to recover damages for personal injuries sustained by her in a collision between two of appellant’s cars. Appellee, a passenger, was thrown violently from her seat by the force of the col lision and the injuries received by her were of a very serious character. Two of her 'teeth were loosened and had to be removed; she was severely bruised about the head, breast and shoulder; she received a cut across the forehead two and one-fourth inches long, from which a permanent scar remains; the vision of one eye was nearly destroyed, her mental and nervous system seriously affected, and since then she suffers from acute hysteria. Prior to the accident appellee was a strong, health}' woman. There was a verdict and judgment in favor of appellee for $2,500. There is no contention that the injuries were not received, that they were not caused through the negligence of appellant’s servants or that the verdict is excessive, but appellant asks for a reversal upon the" ground that the court erred in giving one of the instructions for appellee, and refusing to give one offered by appellant.
+The instruction given for appellee which is complained of, told the jury that in estimating plaintiff’s, damages, they could consider among other things to what extent she had been injured or marred in her personal appearance, and to what extent, if any, she may have endured physical and mental suffering as a natural and inevitable result of such injuries; also any necessary expenses she may have been to or may hereafter become liable to pay in and about caring for and curing herself. In I. C. R. R. Co. v. Cole, 165 Ill. 334, an instruction using language almost identical with that complained of, was approved by the court and the instruction said by the court to state correct principles of law. Appellant claims, however, thát there was no evidence of expenses incurred or to be incurred for medical services. This claim is without foundation, as an examination of the record shows ample evidence of expenses incurred by appellee for physician’s bills, and also that there was necessity to incur future expenses in perfecting a cure. The instruction was therefore properly given.
+The instruction also authorized the jury to consider what effect such injuries might have upon appellee in the future in respect to ability to perform ordinary labor. Appellant claims that the services of the wife belong to the husband; that therefore in a suit by the wife no recovery can be had for damages arising out of the inability to perform ordinary work. In West Chicago Street Ry. Co. v. Carr, 170 Ill. 478, an instruction wras sustained, while not altogether approved by the court, which authorized a jury to award a married woman damages for loss of time. If such an instruction could be sustained, there is more reason why the one under consideration here should be approved. This allows the jury to take into consideration the effect of the injuries upon the ability of appellee to perform ordinary labor in the future. The loss of her ability to so work is a personal injury to her which may affect her in many ways peculiar to herself. We can not assume that if not injured she might not hereafter find it necessary, for support of herself, or other reasons, to perform work other than ordinary household work. We think the instruction was properly given.
+The instruction complained of as refused for appellant, stated that “ even although plaintiff was injured as alleged in this case, no recovery can be had for mental suffering caused by shame and mortification, arising out of the contemplation of her physical condition.” This instruction was, we think, fully covered by instruction hTo. 6 given for appellant and there could be no error in refusing a second instruction upon the same subject. But even if there had been no instruction given upon the subject, the refusal of the one in question would not have warranted a reversal of the case for the reason that the liability of appellant was unquestioned, the injuries received by appellee were severe, the amount of damages allowed by the jury exceedingly small under the circumstances, and no further trial of the case could rightly result in favor of appellant. The judgment of the court below is affirmed.
