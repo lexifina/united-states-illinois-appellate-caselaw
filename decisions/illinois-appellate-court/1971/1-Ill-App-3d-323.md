@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "70-266"
+decided: "1971-08-16"
+citations: ["1 Ill. App. 3d 323"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Agnes Borgeson, Plaintiff-Appellant, v. Fairhaven Christian Home, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/1/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5313184
+cites_cases: ["116 Ill.App.2d 5", "20 Ill.App.2d 82", "310 Ill.App. 77", "45 Ill.App.2d 207", "68 Ill.App.2d 425", "78 Ill.App.2d 53"]
+---
+
+# Borgeson v. Fairhaven Christian Home
+
+## Majority (Mr. JUSTICE ABRAHAMSON)
+
+Mr. JUSTICE ABRAHAMSON
+delivered the opinion of the court:
+The plaintiff, Agnes Borgeson, appeals from an order entered September 1, 1970, by the circuit corut of Winnebago County granting summary judgment in favor of the defendant.
+The amended complaint alleged that on May 16, 1967, the parties entered into a contract whereby the plaintiff would pay the sum of $5300.00 and a monthly charge of $150.00 thereafter for which the defendant would furnish her lifetime care in the residential apartment owned by them. It states further that the plaintiff, in reliance on the contract, sold her home and made other personal and financial arrangements and did move into Fairhaven Home on March 31, 1968. On April 26, 1968, it is further alleged, she was forced to sign, under what is described in the complaint as duress of circumstances, a second contract that provided that the plaintiff would pay in addition to the $150.00 monthly charge her pro-rata share of any real estate taxes that might be assessed against the Home. As it turned out, taxes were assessed and the plaintiff’s monthly charge was increased to $157.50 to include her prorata share. The complaint also alleged that the plaintiff was compelled to sign the second agreement because she was (1) 71 years old, (2) a recent widow, (3) had relied upon the first contract for lifetime care, and (4) had changed her financial circumstances on that reliance. The complaint sought to rescind the second contract and maintain the earlier agreement as binding on the parties.
+Attached to the complaint as exhibits are copies of certain brochures prepared by Fairhaven describing the proposed facilities and their costs. They include a description of a “Type D” room that could be obtained for a “founder’s fee” of $5300.00 and a monthly charge of $150.00. The actual contract signed by the parties on May 16, 1967, was attached to the defendant’s answer and affirmative defense. It is entitled a “Deposit Agreement” and provides for a $1750.00 deposit on the total fee of $5300.00 with the balance to be paid at the time of entrance into the Home. It also provides that the plaintiff could withdraw from the agreement at any time prior to her actual move into the Home and obtain a refund of her deposit. The Deposit Agreement does not mention a monthly service charge but does provide that the parties execute a “Residence Contract” upon admission to the Home at which time the earlier agreement would, in its terms, “expire.”
+The Residence Contract signed by the parties on April 26, 1968, is also attached to the defendant’s answer and provides for a monthly charge of $150.00 and, in addition, tire disputed pro-rata share of any real estate taxes assessed against the Home.
+The defendant’s motion for summary judgment included all the pleadings previously filed in the cause with exhibits and a transcript of a discovery deposition of the plaintiff taken on April 30, 1970. At that time, tire plaintiff stated that she was in good physical and mental health and had been in May of 1967 and April of 1968. She further testified that on April 26, 1968, a Mr. Hawkinson of the Home came to her room and asked her to sign the second agreement. They discussed the provision for payment of any assessed taxes and Mr. Hawkinson told her that he did not believe that any tax would in fact be assessed. The plaintiff then testified that she then “had to sign that agreement.” She was then asked the following questions:
+“Q. What force was used by anyone from Fairview Christian Home?
+A. Hawkinson came into me and made me sign it.
+Q. What did he do to make you sign it?
+A. Oh, boy. Talked.
+Q. All right. What did he say? Did he say anything other than what your have already testified?
+A. No. I told you.”
+The right to summary judgment is established by statute to enable the cotut to determine if there is any genuine factual issue to be resolved. (Ill. Rev. Stat. 1969, ch. 110, par. 57.) If the pleadings, exhibits and affidavits disclose that there is a genuine issue as to any material fact, summary judgment must not be granted. (American National Bank & Trust Co. v. Lembessis, 116 Ill.App.2d 5, 17; Reed v. Albanese, 78 Ill.App.2d 53, 57.) However a mere allegation that a genuine issue exists is not sufficient to preclude summary disposition if one does not appear from the record. Giampa v. Sunbeam Corp., 68 Ill.App.2d 425, 429.
+From the record before us, it is clear that there was no genuine issue as to the facts of the case, but only the interpretation to be placed upon them, and that summary judgment was proper. There is no dispute that the plaintiff was a 71 year old widow who had sold her home and moved into the defendant’s home prior to the time the parties signed the agreement on April 26, 1968. It is also not disputed that the plaintiff believed the monthly charges would be $150.00 although the only other contract she signed made no mention of the charges to be imposed. It thus remains to be determined if the plaintiff, as a result of these circumstances, was compelled to sign the second contract by force of her circumstances.
+Duress under the common law usually meant nothing short of a reasonable apprehension to life or limb but the doctrine has been extended in Illinois to include, in certain circumstances, duress of circumstances and moral duress. (Slade v. Slade, 310 Ill.App. 77, 88.) “Moral duress consists of imposition, oppression, undue influence or the taking of undue advantage of the business or financial stress or weakness of another.” (Pittman v. Lageschulte, 45 Ill.App.2d 207, 219.) Relief has been granted in those cases where the doctrine has application on the basis that the other party has obtained an advantage which in equity and good conscience he should not be permitted to retain. (People ex rel. Buell v. Bell, 20 Ill.App.2d 82, 95; Pittman v. Lageschulte, ibid.) In all of the cases we have read, including the Slade case cited by the plaintiff, the conduct of the party obtaining the advantage is itself tainted with some degree of fraud or wrongdoing.
+There is nothing to indicate, nor is it alleged, that the Home perpetrated or attempted to perpetrate any fraud on the plaintiff. The plaintiff was furnished a residence in accordance with their agreement and the monthly charges, except for the pro-rata share of the taxes, were exactly as advertised in the promotional brochures. The plaintiff was informed that the Residence Agreement included a provision for the payment of taxes and that she would be hable for that payment if taxes were in fact assessed. The opinion of Mr. Hawkinson that there probably would be no taxes assessed could hardly be considered an attempt to take advantage of the plaintiff since it was generally believed at that time that homes for senior citizens would be exempt from real estate taxes.
+In short, we find nothing to indicate that the plaintiff, because of her age or the condition of her circumstances, was taken advantage of in this transaction. Accordingly, the summary judgment in favor of the defendant was proper and will be affirmed.
+Judgment affirmed.
+MORAN, P. J., and GUILD, J., concur.
