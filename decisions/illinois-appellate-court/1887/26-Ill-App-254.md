@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-11-18"
+citations: ["26 Ill. App. 254"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julia C. Shimp v. Cedar Rapids Insurance Company."]
+source_url: "https://static.case.law/ill-app/26/cases/0254-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4947542
+cites_cases: ["16 Ill. App. 248", "8 Ill. App. 453", "98 Ill. 688"]
+---
+
+# Shimp v. Cedar Rapids Insurance
+
+## Majority (Pleasants, J.)
+
+Pleasants, J.
+This was an action upon a policy of insurance against loss by fire. One ground of defense was that the insured failed to furnish proof of the loss within the time limited by the policy, which obligation, she claimed, was waived; a judgment for her having been reversed by this court (16 Ill. App. 248), and the re-trial resulting in favor of the company, she now brings the record here by writ of error.
+The principal point now urged for reversal—that the Circuit Court excluded evidence of the acceptance, after the time for furnishing proof of loss had passed, of payment of the note given for part of the premium—was specifically decided upon the record formerly here, and the ruling complained of was expressly required by the opinion then filed. It was held that the premium was an entirety composed of cash and the note; that these were alike received for a consideration then fully executed, to wit, the obligation of the company to pay whatever loss should be suffered by the means stated, with the exceptions and upon the conditions also specified, among which latter was the furnishing of proof of such loss within the time limited; and that the acceptance of the money due upon the note was not a taking, at that time, of any part of the premium, and, therefore, not a waiver of the condition mentioned. See 16 Ill. App. 248. The argument now made against it we do not consider, for the reason that by that decision, right or wrong, we are hound. Ogle v. Turpin, 8 Ill. App. 453.
+On the last trial two new witnesses were introduced whose testimony tended to prove that before the time for furnishing this proof of loss had passed, the company, by its adjustor, declared its intention not to pay the loss, whatever might he the proof produced, which would be another and independent waiver of its production, and it is claimed that upon this evidence the verdict and judgment should have been for the plaintiff. These declarations were said to have been made to the witnesses in the course of conversation with them separately, so that there was but one witness to each declaration. The adjuster denied them, and his denial is strengthened by the fact, testified to by him and not contradicted, that in his report to the company following the occasion of the alleged declarations, he made no such recommendation, but left the question of its liability open to the effect of the proof still expected to be furnished. It is, therefore, not improbable that what these witnesses really heard was but an expression of his doubt as to its liability, which he admits he did entertain and express. Evidence of oral statements, after the lapse of so long a time, is very liable to error, and it was for the jury to determine its value in this case, as contradicted. In our opinion the new evidence on this point, being thus in conflict, does not materially or certainly change the case first presented.
+The statement by plaintiff, in her application for insurance, of the use of the house, was by agreement of the parties made material, and by their further agreement might, if false, avoid the policy at the option of the company, without regard to the question whether its actual use was more hazardous than the one so stated. Besides, it was shown without contradiction to be more hazardous. Neither the court nor the jury could he very wroijg, then, in treating thgf fact as one not in issue. Wallace v. DeYoung, 98 Ill. 688. Eor each of these reasons the objection to the instruction as to warranty is considered unsubstantial.
+Nor was Hill’s relation to the company such that rumors or reports of the actual use of the house as a house of assignation, reaching him, would charge it with notice of the fact reported. His agency was limited to soliciting and forwarding applications. Policies were not sent to or delivered through him. He was not bound to communicate reports respecting applicants or their property. He took plaintiff’s application and forxrarded it just as she made it, leaving the company, from it alone, or with such other information as it had or might obtain, to determine whether to take or decline the risk. His knowledge of the currency of the rumor was, therefore, immaterial, and the court properly excluded his evidence.
+But if the court erred on the subject of the warranty and in excluding the testimony of Hill, these errors worked no substantial injury to the plaintiff. They related to one distinct ground of defense only, and if she failed to furnish proof of the loss, as required by the contract, without excuse or waiver, she could not rightfully recover under any rulings on these points. The jury could hardly have done otherwise upon the evidence than find that she did so fail.
+Judgment affirmed,
