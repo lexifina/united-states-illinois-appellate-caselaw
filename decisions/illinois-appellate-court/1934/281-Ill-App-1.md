@@ -2,7 +2,7 @@
 court: "Illinois Appellate Court"
 docket: "Gen. No. 36,884"
 decided: "1934-10-24"
-citations: ["281 Ill. App. 1", "277 Ill. App. 612"]
+citations: ["281 Ill. App. 1"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
