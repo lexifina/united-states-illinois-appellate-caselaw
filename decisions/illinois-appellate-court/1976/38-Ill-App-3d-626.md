@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-288"
+decided: "1976-05-20"
+citations: ["38 Ill. App. 3d 626"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES E. NEWTON, Plaintiff and Counterdefendant-Appellee, v. KATHERINE A. NEWTON, Defendant and Counterplaintiff-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/38/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2805496
+cites_cases: ["132 Ill. App. 2d 722", "198 N.E.2d 195", "216 N.E.2d 21", "270 N.E.2d 206", "279 N.E.2d 486", "288 N.E.2d 884", "3 Ill. App. 3d 671", "48 Ill. App. 2d 232", "69 Ill. App. 2d 264", "7 Ill. App. 3d 884"]
+---
+
+# Newton v. Newton
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court:
+This appeal is from the order of the circuit court of La Salle County denying the petition of appellant, Katherine Newton, for witness’ and attorney’s fees incurred in enforcing the provisions of a divorce decree she received from her husband, Charles E. Newton.
+On December 14, 1971, a decree of divorce was entered in favor of counterplaintiff, Katherine Newton, against counterdefendant, 'Charles Newton. The decree granted custody of Nancy Ann Newton, a minor child, to Katherine Newton and provided that counterdefendant, Charles Newton, pay all dental expenses incurred by or on behalf of the child. In April, 1973 Charles Newton, a dentist, made an appliance for the child’s teeth. When she complained it hurt her mouth Katherine Newton took the child to an orthodontist who advised her the child had a class 2 malocclusion which needed orthodontic treatment. He advised Katherine the cost of the treatment would be *1,080. Charles Newton advised the orthodontist he would not pay for the treatment. Katherine advised the orthodontist she would pay if the child’s father couldn’t be made to pay. Treatment was begun on July 6, 1973. On March 29, 1974, Katherine Newton filed a petition for a “Rule to Show Cause” against Charles Newton alleging his failure to pay for the orthodontic expenses. This petition did not pray for attorney’s fees, court costs or witness’ fees. Charles Newton filed an answer to the petition alleging he was responsible only for dental service in the meaning of the common ordinary term and alleged that an orthodontist is a specialist who does orthodontic work and does not do regular dentistry.
+On January 14, 1975, a hearing was held on counterplaintiff’s petition to show cause and at which hearing counterdefendant testified he had been practicing dentistry since 1961. He admitted he referred about three persons a month for orthodontic treatment of malocclusions. Counterdefendant was ordered to pay the orthodontic bill at the rate of *100 per month commencing on February 1, 1975.
+On May 19, 1975, counterplaintiff served on counterdefendant a petition for “Rule to Show Cause” why he should not be held in contempt for failure to make the March, April, and May payments to the orthodontist. She also petitioned for *300 in attorney’s fees and *55 witness’ fee incurred by her in enforcing the decree. The witness fee was for the orthodontist who testified at the hearing. At the hearing on June 2, 1975, counterdefendant testified he had paid what was owing on the orthodontist bill after receiving the “Rule to Show Cause” but that he had not so advised either his own attorney or counterplaintiff. The court denied the allowance of witness’ or attorney’s fees for the January hearing on the ground that the petition for them was not timely and that it should have been brought up at the January hearing. In addition the court noted that it heard no evidence regarding the amount of services or any basis to find reasonable attorney’s fees for January. Furthermore, the court denied granting attorney’s fees in connection with the June hearing because counterdefendant had paid the bills prior to the hearing date.
+The issue in this case is whether the trial court abused its discretion in denying counterplaintiff’s petition for witness and attorney fees. We hold that the trial court abused its discretion.
+Counterdefendant cites three cases in support of the proposition the allowance of attorney’s fees in divorce proceedings rests in the sound discretion of the trial court and will be disturbed on review only when the exercise of that discretion is clearly abused. (Brandel v. Brandel, 69 Ill. App. 2d 264, 216 N.E.2d 21; Tan v. Tan, 3 Ill. App. 3d 671, 279 N.E.2d 486; and Kuhns v. Kuhns, 7 Ill. App. 3d 884, 288 N.E.2d 884.) Only the Brandel case concerned an enforcement proceeding and there the court directed the trial court to exercise its discretion by allowing petitioner attorneys’ fees and expenses incurred in enforcing the decree.
+Counterdefendant also argues that in order for a party to recover attorney’s fees a prayer for relief must be in the petition. The only case he cites in support of this argument is Smith v. Smith, 132 Ill. App. 2d 722, 270 N.E.2d 206. Smith was an appeal from an order increasing support payments and awarding attorney’s fees. It was not an enforcement proceeding. The court cited Jones v. Jones, 48 Ill. App. 2d 232, 198 N.E.2d 195. In Jones the husband appealed from two orders, one allowing the wife printing costs and the other allowing her attorney’s fees, both incurred in defending an appeal by the husband from an order finding him in contempt for failure to pay child support. Neither case supports counterdefendant’s argument attorney’s fees must be asked for in the original petition.
+Two other points should be noted. The first is that with regard to the June 12,1975, hearing this court does not see where it was any defense to the allowance of attorney’s fees that counterdefendant complied with the order prior to the hearing and did not notify either his attorney or counterplaintiff. It was counterdefendant’s conduct which necessitated the hearing and expenses of counsel. We also note that due to the view the trial court took there was no opportunity to consider the reasonableness of attorney’s fees.
+For the foregoing reasons the judgment of the circuit court of La SaUe County is reversed and remanded for proceedings consistent with the views expressed herein.
+Reversed and remanded.
+ALLOY, P. J., and STENGEL, J., concur.
