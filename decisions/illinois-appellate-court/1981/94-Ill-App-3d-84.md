@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "80-548, 80-549 cons."
+decided: "1981-03-17"
+citations: ["94 Ill. App. 3d 84"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE ex rel. JUDY J. ANDREWS, Plaintiff-Appellant, v. DAVID R. ANDREWS, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/94/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3124795
+cites_cases: ["34 Ill. App. 3d 1055", "341 N.E.2d 13", "344 N.E.2d 447", "344 N.E.2d 477", "382 N.E.2d 417", "63 Ill. 2d 71", "65 Ill. App. 3d 55"]
+---
+
+# People ex rel. Andrews v. Andrews
+
+## Majority (Mr. JUSTICE NASH)
+
+Mr. JUSTICE NASH
+delivered the opinion of the court:
+The State of Illinois brought this action against David Andrews to establish the paternity of two children born to Judith Richards. The trial court dismissed the complaints on the ground they were barred by the two-year statute of limitations (Ill. Rev. Stat. 1979, ch. 40, par. 1354), and the State brings this appeal. The only issue is whether defendant is estopped from raising the limitations defense under the principles announced in Cessna v. Montgomery (1976), 63 Ill. 2d 71, 344 N.E.2d 447. We hold he is and therefore reverse the judgment of the circuit court of McHenry County.
+The complaints filed on March 20,1980, alleged that defendant is the father of two children born to plaintiff on October 20,1973, and October 22, 1977. Defendant denied the allegations of paternity and moved to dismiss the complaints contending they were not filed within two years of the birth of each child as required by section 4 of the Paternity Act (Ill. Rev. Stat. 1979, ch. 40, par. 1354). Plaintiff admitted that suit was not brought within the required two-year period but argued that defendant was estopped from raising the issue. Following an evidentiary hearing, the trial court held that estoppel did not bar application of the limitation period in this case and dismissed both complaints. The State contends that the decision of the circuit court is against the manifest weight of the evidence and we agree.
+Section 4 of the Paternity Act provides that no action to establish paternity may be brought more than two years after the birth of the child unless the person accused has acknowledged paternity in open court or by a written statement made under oath or affirmation. (Ill. Rev. Stat. 1979, ch. 40, par. 1354.) In Cessna v. Montgomery (1976), 63 Ill. 2d 71, 344 N.E.2d 477, however, the supreme court held that a putative father may be estopped from raising the limitations defense in cases where it would otherwise be applicable if his conduct within two years of the child’s birth “significantly discouraged plaintiff from bringing suit until after the limitation period expired.” (63 Ill. 2d 71, 88, 344 N.E.2d 447, 455.) The court observed that estoppel may be appropriate where the defendant has acknowledged the child in an unambiguous statement in the presence of third parties, even though not under oath or in open court, or where he has significantly contributed to the child’s support/ (63 Ill. 2d 71, 88, 344 N.E.2d 447,455.) In either situation an action must still be brought within two years of the last acknowledgment or significant contribution.
+In this case, plaintiff testified that she lived with defendant “continuously” from the fall of 1972 through April 1979 and that during this time defendant “contributed to the expenses of herself and the children.” She further testified that defendant gave the children presents, took them places and never denied or disclaimed being their father. Plaintiff performed the usual domestic services for defendant and also contributed to household expenses by working several outside jobs between 1972 and 1979. Defendant argues that these facts do not warrant estoppel because he did not expressly acknowledge paternity and because the degree to which he allegedly contributed support is unspecified. Although an acknowledgment of paternity has been present in every case applying the estoppel doctrine (Cessna v. Montgomery (1976), 63 Ill. 2d 71,344 N.E.2d 447; People ex rel. Rozak v. Herman (1978), 65 Ill. App. 3d 55, 382 N.E.2d 417; Cook v. Askew (1975), 34 Ill. App. 3d 1055, 341 N.E.2d 13), we do not view its absence as necessarily controlling where other factors are present which justify the mother’s forebear anee from commencing a paternity action. The focus in Cessna and subsequent cases has been on the overall conduct of the defendant and its impact on the unwed mother. (People ex rel. Rozak v. Herman (1978), 65 Ill. App. 3d 55, 58, 382 N.E.2d 417, 419-20.) The evidence here is that defendant carried on an ostensibly normal parental relationship with both children from their births and that he did so in the context of a family relationship with both the mother and children. These circumstances were sufficient to lead plaintiff to believe that court action to enforce support was unnecessary, and her failure to file charges within the required two-year period is therefore understandable.
+The fact that the amount of support contributed by defendant was unspecified at the evidentiary hearing is not fatal in light of the surrounding circumstances and is particularly unpersuasive since conclusory allegations of “occasional support” have been found sufficient. Cessna v. Montgomery (1976), 63 Ill. 2d 71, 344 N.E.2d 447.
+We conclude that the evidence in this case is sufficient to establish estoppel and that the decision of the circuit court to the contrary is against the manifest weight of the evidence. The judgment is therefore reversed and the case remanded for further proceedings.
+Reversed and remanded.
+SEIDENFELD, P. J., and REINHARD, J., concur.
+Although the pleadings and briefs are captioned “Judy J. Andrews” plaintiff testified that she was in fact Judith Richards and that she married Max Richards prior to 1972.
