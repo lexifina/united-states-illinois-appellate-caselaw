@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-09-21"
+citations: ["13 Ill. App. 391"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Norman Hawley v. Margaret Dailey."]
+source_url: "https://static.case.law/ill-app/13/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4867119
+cites_cases: ["103 Ill. 512", "2 Scam. 216", "20 Ill. 212", "23 Ill. 93", "24 Ill. 350", "43 Ill. 64", "45 Ill. 108", "45 Ill. 197", "5 Gilm. 425", "52 Ill. 373", "55 Ill. 234", "55 Ill. 492", "58 Ill. 417", "60 Ill. 171", "63 Ill. 178", "66 Ill. 424", "68 Ill. 499", "69 Ill. 662", "70 Ill. 104", "70 Ill. 273", "72 Ill. 226", "72 Ill. 513", "76 Ill. 280", "77 Ill. 217", "77 Ill. 391", "81 Ill. 593", "84 Ill. 109", "84 Ill. 82", "89 Ill. 62", "91 Ill. 148", "93 Ill. 302"]
+---
+
+# Hawley v. Dailey
+
+## Majority (Davis, J.)
+
+Davis, J.
+This was an action on the case brought by appellee against appellant, to recover damages alleged to have been sustained by her by the death of Peter Dailey, her husband, caused, as claimed, by the willful and Avrongfnl neglect of appellant.
+On December 1, 1SS1, appellant was operating a coal mine in which he employed Peter Dailey as a coal miner. On that day Dailey and a fellow workman commenced work in his room at the mines, about seven o’clock a. m., and continued at their usual work, drilling- and loading coal on the empty coal buggies, until about eleven o’clock, when Dailey, who was picking up chunks of coal and putting them on the buggies, was struck by a heavy mass of coal, slate and boulder, which fell upon him from the roof of the mine, and so seriously-injured him, that he died twenty-three days thereafter.
+The law then in force required that the owner, agent or operator of any coal mine should keep a sufficient supply of timber where required to be used as props, so that the workmen might at all times be able to properly secure the workings from caving in; and it provided that it should be the duty of the owner, agent or operator to send down all such props when required: Session Laws of 1879, entitled “ .Miners,” Sec. 16, page 211.
+Section 14 of same act, page 210, provides that for any injury to person or property occasioned by any willful violations of the act, or willful failure to comply with any of its provisions, a right of action should accrue to the party injured for any direct damages sustained thereby; and in case of loss of life by reason of such willful violation or willful failure as aforesaid, a right of action would accrue to the widow of the person so killed, h-is lineal heirs or adopted children, for a recovery of damages for injuries sustained by reason of such loss of life.
+In this case appellee’s ground for a recovery is, that appellant wholly and willfully failed and neglected to keep a sufficient supply of props on the premises required and necessary to be used in said coal mine, so that said mine and workings therein might bo made secure from caving and falling in, and that appellant was requested and notified by said Dailey to furnish and send, down the necessary props in said coal mine where lie was- working in the mine to properly secure said workings from caving and falling in, but that appellant wholly and willfully neglected and refused to furnish and send them down to said Dailey.
+The testimony was somewhat conflicting in some respects, but it strongly preponderated to sustain the position that appellant kept a sufficient supply of timber and props on the premises, at the top of the shaft to meet the requirements of the workmen in the mines. It was also conflicting as to whether appellant furnished and sent down, when required, to Peter.Dailey, where he was working in the mine, the necessary props to properly secure the workings of said mine from caving and falling in; but even if it be conceded that appellant failed in both of these requirements of the statute, still it was for the jury to determine from the evidence whether these failures were willful on the part of appellant. If willful, the liability attached; if not, no recovery could be had against appellant. It was therefore necessary in all instructions given by the court to keep prominently before the jury the question whether the act of appellant was willful. This requirement was ignored in instructions number two, three, four, seven and nine of the series given to the jury for appellee. For example, instruction number four is as follows: “ The court instructs the jury that if they believe from the evidence that witness, Johnson, and deceased, Peter Dailey, were working in said coal mine together, and that said Johnson, in presence of Dailey, notified the pit-boss, Conner, a day before the accident, that props were needed in their room or place of working, and that then the pit boss, Conner, directed said Dailey and Johnson to return to their work, that props would be furnished soon, then if the said Dailey returned to his work in said mine under instructions of pit boss, Conner, and while at work in said mine, and before the props demanded by him were sent to him, lie, while in the exercise of due care to prevent accident, was inj tired by reason of this want of said props, then said Ilawley is liable for any and all damages caused to said Dailey by reason of the want of such props.”
+For this error the judgment rendered in the court below for appellee must be reversed, and the cause remanded.
+Iteverscd and remanded.
