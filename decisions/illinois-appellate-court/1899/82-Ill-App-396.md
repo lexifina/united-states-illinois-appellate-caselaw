@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-05-08"
+citations: ["82 Ill. App. 396"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. C. Rowersock v. Cyrenius Beers."]
+source_url: "https://static.case.law/ill-app/82/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5255946
+cites_cases: ["34 Ill. 142", "52 Ill. 249", "56 Ill. 335", "56 Ill. 337", "68 Ill. 298", "70 Ill. 553", "75 Ill. 85", "82 Ill. 117"]
+---
+
+# Rowersock v. Beers
+
+## Majority (Mr. J ustice Adams)
+
+Mr. J ustice Adams
+delivered the opinion of the court.
+This is an appeal from a judgment of the Circuit Court, in trover, by appellee against appellant, rendered in that court on appeal from a justice of the peace. William J. Andrews and Charles Piper, partners in the business of dealing in real estate under the firm name of Andrews & Piper, contracted in writing with Reinhold Meyer, July 10, 1897, for the sale to Meyer of certain real property, a description of which is unnecessary to the decision of the case. The contract price of the premises was $12,000. Meyer, on executing the contract, deposited with appellant his, Meyer’s, check for $200 as earnest money, agreed to pay $1,300 within five days after the title should have been examined and found good, or accepted by him, and the balance in installments at times specified in the contract. The vendors on their part agreed to furnish a complete merchantable abstract of title, oiynerchantable copy thereof brought down to date of sale, within a reasonable time. Meyer further agreed to deliver to T. E. James within five days after the title had been examined and found good, or accepted by him, an assignment of a lease of the first floor of Eos. 1 and 3 Eorth Clark street, together with a bill of sale of the stock, furniture and fixtures therein, and also to deliver possession of the same, providing good and sufficient warranty deeds of the premises sold to Meyer should be ready for delivery. The contract contains the following provisions:
+“ It is understood that the said Meyer pays rent for said premises numbered 1 and 3 Eorth Clark street to the time when he gives possession thereof to the said T. E. James, and no longer.
+It is understood that if the lessor of the premises numbered 1 and 3 Eorth Clark street, shall refuse to consent to the assignment by the said Meyer of the lease of said premises, this contract shall be null and void and the $200 earnest money refunded to the said Meyer. * * * Should said purchaser fail to perform this contract promptly on his part, at the time and in the manner herein specified, the earnest money paid as above shall, at the option of the vendor, be forfeited as liquidated damages,, and this contract shall thereupon become and be null and void. Time is of the essence of this contract, and of all the conditions hereof.
+* * * * * *
+This contract and the said earnest money shall be held by C. C. Rowersock for the mutual benefit of the parties concerned and after the consummation of the sale he shall be at liberty to retain the canceled contract permanently; and it shall be the duty of said C. C. Rowersock in case said earnest money be forfeited as herein provided, to apply the same, first, to the payment of any expenses incurred for the vendor in said matter, for his services in procuring this contract, rendering the overplus to the vendor,”
+Andrews & Piper, claiming that the earnest money had been forfeited, brought replevin for the check in the justice’s court, but the return of the constable showing that the check had not been found, they proceeded in trover and recovered judgment for $200 and costs. On appeal to the Circuit Court, Cyrenius Beers, who, in the meantime had been appointed receiver for Andrews & Piper, was substituted for them as plaintiff, and recovered judgment for $200.
+Appellant’s counsel, in their brief, say:
+“ The errors we complain of may be stated as follows:
+1. Lack of evidence to support the verdict.
+2. The verdict is manifestly against the weight of the evidence.
+3. Error in the instruction given.
+é. The judgment as entered is erroneous.”
+Specifically they object as follows:
+1. Title to only about one-third of the property sold was in the name of the firm.
+2. The witnesses Andrews and James were erroneously permitted to testify that they delivered abstracts of title to the property.
+3. The vendors did not tender a deed of the premises.
+4. Meyer’s landlord refused to consent to an assignment of the lease of numbers 1 and 3 North Clark street.
+5. There was no evidence of a demand for the check before suit brought.
+6. The instruction of the court to the jury was erroneous.
+7. The judgment was erroneous.
+If it was at all material to Meyer, the vendee, from whom the title should come to him, provided sufficient warranty deeds conveying the title should be executed to him, he is not in a position to complain, nor is appellant, who occupies the position of a mere stakeholder; because if, as assumed by counsel, a proper construction of the contract would require the conveyance to be made by Andrews & Piper, they had the right to acquire the title at any time before Meyer was ready to perform his part of the contract (Mansen v. Stevens, 56 Ill. 335), and it is not pretended that he was ever ready to perforin, and the evidence is conclusive that he was not.
+The evidence shows that abstracts of title to the premises were delivered to Meyer, that he delivered them to his attorneys, and that after they were so delivered, he said that so far as he knew the title was all right, but that he had changed his mind and would not go through with the deal, would not do anything about it. Meyer, who would seem to be chiefly interested in defending the suit, was not called as a witness. It does not appear that any objection was made to the abstracts or to the titles shown by them. Under these circumstances, the tender of deeds was unnecessary. The evidence shows, however, that the vendors had in their hands deeds of the premises ready for delivery on the performance by Meyer of his part of the contract. In view of the admission of Meyer that he had received and delivered to his attorneys abstracts of title to the premises, ’ the evidence of the witnesses Andrews and Janies, that the abstracts had been delivered, even if technically objectionable, could not prejudice appellant. Whether Meyer’s landlord consented to the assignment of the lease of numbers 1 and 3 North Clark street, is a question of fact, and without discussing the evidence on that question in detail, suffice to say that we think the finding of the jury that he did consent, is fully warranted by the evidence. Andrews testified that a demand was made on Kowersock for the check, not stating the date of the demand. Appellant’s counsel objects that the evidence is insufficient in not showing that the demand was made before suit brought. The witness was not cross-examined as to the date of 'the demand, no objection was made to his answer, nor in the written motion for a new trial, specifying reasons for the motion, is, any reasons tated which includes the objection to the evidence of a demand. If no demand was made, or if a demand was not made until after the commencement of the suit, the fact might have been proved by appellant, but he was not called as a witness. Ernst was Meyer’s landlord, and the court instructed the jury as follows :
+“ If the jury believe from the evidence that Ernst consented to an assignment of the lease, then the verdict will be for the plaintiff, but if the jury find from the evidence that Ernst would not consent to an assignment of the lease, the verdict must be for the defendant.”
+The instruction is objected to on the ground that it ignores material facts in the case. The following, which is not abstracted, appears in the record. In the examination of Ernst, Meyer’s landlord, the clause in the contract quoted. supra, providing that if Ernst should refuse to consent to the assignment of the lease, the contract should be void, was referred to by the court, the court saying: “How show me that provision in the contract. That is virtually all that is in this case, isn’t it?” To which Mr. Lanaghen,appellant’s attorney, answered, “ I think so.” The court then read the clause in full, and said: “ That is all there is in the case to go to the jury on, if Meyer refused to assign that lease, that ends the case.” Mr. Lanaghen: “ You mean Mr. Ernst.” The court: “ Mr. Ernst.”
+The appellant having, by his attorney, thus assented to the statement of the court that the only question of fact to •go to the jury on was whether Ernst consented to the assignment of the lease, is estopped to complain that the instruction made the verdict to depend on the decision of that question.
+The verdict of the jury and the judgment are as follows:
+“ We, the jury, find the defendant guilty and that the right to possession of the property in question is in the plaintiff, and assess the plaintiff’s damages at the sum of two hundred ($200) dollars.”
+“ Therefore it is considered by the court that the plaintiff do have and retain the property replevied by virtue of the writ of replevin issued in said cause, and do have and recover of and from the defendant, O. O. Eowersock, his said damages of two hundred dollars in form as aforesaid by the jury assessed for the detention of the property herein, together with his costs and charges in this behaif as well as in the court below expended, and have execution therefor.”
+The judgment is informal in so far as it provides “ that the plaintiff do have and retain the property replevied,” etc., and for this reason counsel object to it. The error is not substantial, and can not in the least prejudice the appellant, because the record shows that the property was not replevied, that the appellee has it not, and, consequently, can not retain it.
+The judgment will be affirmed.'
