@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-11-23"
+citations: ["32 Ill. App. 139"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago, Burlington & Quincy Railroad Company v. S. S. Peterson."]
+source_url: "https://static.case.law/ill-app/32/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4976649
+---
+
+# Chicago, Burlington & Quincy Railroad v. Peterson
+
+## Majority (Wall, J.)
+
+Wall, J.
+In this case the plaintiff alleged that he was employed by the defendant as a section hand, and while engaged in the ordinary discharge of his duty, working with a handcar on defendant’s railroad, and while using due care and diligence, a locomotive engine, in charge of other servants of defendant, was so negligently and carelessly managed and handled that it was driven against the handcar and plaintiff was thereby injured. The plaintiff recovered and the record is brought here by the appeal of defendant.
+The plaintiff at the time of the collision was with the other men of his gang on the handcar going home. It was between five and six o’clock in the afternoon. An extra or wild freight train was moving along the track in the opposite direction. Those in charge of the train did not know that the handcar was to be expected at the point in question, or elsewhere, nor did those on the handcar know that the train was to be expected. By reason of the peculiar conformation of the road the two parties were not more than one-fourth of a mile apart when the engineer saw the handcar. He had previously given the usual signal for the highway crossing, which he was then passing over, and he immediately gave the stock alarm and reversed his engine. The brakes were all set promptly, the whistle was sounded repeatedly, and the bell, operated by steam, was ringing continually. In short, every reasonable effort was made to stop the train, hut without succeeding in time to prevent the collision.
+It would appear that the men on the handcar did not act as promptly as they might if they had seen the train as soon as the engineer saw them, hut they finally stopped the car and got it partly off the track, when, finding they could not save it, the foreman ordered the men to get out of the way. The plaintiff instead of stepping squarely to one side moved in an “ angling ” course to the right of the track and in front of the engine and was struck by a fragment of the handcar, receiving the injury complained of.
+Under all the circumstances in proof it would be difficult to fix any such want of care on the plaintiff as to bar his recovery if the charge of negligence on the part of the train men can he sustained by the evidence. Had he stepped either to the right or left, or had he moved to the rear or either side, he probably would have escaped, and it is now quite plain the course he took was the most dangerous possible; but, under the excitement and in the confusion of the moment, it is not certain that any man of ordinary prudence would have done otherwise, and he is not to be charged with negligence because he had not time to reflect and determine which direction would be safest. There is more ground for saying that the foreman of the gang was negligent in not more promptly making the effort to stop the handcar; but in view of all the facts in evidence, we are not inclined to say there was negligence in this respect. Assuming then that those on the handcar were ordinarily careful when the circumstances are all considered, the vital question is whether the charge of negligence in the management of the train is sufficiently sustained by the evidence.
+The trainmen had no reason to expect the handcar. It was a well known rule that section men were required to be on the lookout at all times for trains regular and extra; that they were not to he notified of the position of trains of either sort; hence the train men were not at fault in not knowing the handcar was on the track or in not running as though it might be expected. If, after it was discovered, all reasonable effort was made to prevent the collision, then there was no negligence on their part.
+From what has been stated they did ail that was reasonably required to this end. There is no contradiction of their testimony in this respect, indeed it is rather sustained by the evidence of Hewes, the witness of plaintiff, who was driving along the highway and saw the whole occurrence. It is true that by some rather strained and forced arguments counsel urge us to the conclusion that the evidence of the train men is unworthy of belief, and that by the exercise of reasonable care and diligence on their part the collision might have been avoided. We shall not go into any analysis of these arguments or of the facts upon which they rest. It is enough to say that we find them wholly unsatisfactory. In our view of the facts, fairly to be deduced from all the evidence, there was a clear failure to establish the charge of negligence as alleged in the declaration. It was error to refuse the motion for new trial.
+The judgment will be reversed and the cause remanded.
+Reversed and remanded.
