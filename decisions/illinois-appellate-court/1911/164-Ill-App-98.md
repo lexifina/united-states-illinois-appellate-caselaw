@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1911-10-20"
-citations: ["164 Ill. App. 98", "164 Ill. App. 141"]
+citations: ["164 Ill. App. 98"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["The First National Bank of Lincoln, Appellant, v. Lulu Sandmeyer et a
 source_url: "https://static.case.law/ill-app/164/cases/0098-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2750576
-cites_cases: ["123 Ill. 585", "125 Ill. 573", "150 Ill. 40", "200 Ill. 465", "8 Ill. App 312", "86 Ill. 477", "99 Ill. App. 443"]
+cites_cases: ["125 Ill. 573", "150 Ill. 40", "200 Ill. 465", "8 Ill. App 312", "86 Ill. 477", "99 Ill. App. 443"]
 ---
 
 # First National Bank v. Sandmeyer
