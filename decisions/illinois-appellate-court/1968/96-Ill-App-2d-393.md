@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 68-3"
+decided: "1968-06-28"
+citations: ["96 Ill. App. 2d 393"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Community Unit School District No. 2, Marshall County, Illinois, Community Unit School District No. 4, Marshall County, Illinois, and C. W. Swanson, County Superintendent of Schools of Marshall County, Illinois, Plaintiffs-Appellants, v. Delbert Shirley, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-2d/96/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2535817
+cites_cases: ["195 NE2d 833", "220 NE2d 652", "401 Ill 25", "46 Ill App2d 14", "76 Ill App2d 23", "81 NE2d 581"]
+---
+
+# People v. Shirley
+
+## Majority (SCHEINEMAN, J.)
+
+SCHEINEMAN, J.
+This is an action of quo warranto to test the validity of a new community unit school district. The trial court sustained the defendants’ motion to strike the complaint, and the plaintiffs appeal.
+The facts are; Prior to July 1, 1962, the County Superintendent of Marshall County received notice from the Superintendent of Public Instruction that Community High School District No. 18 would be dissolved as of said July 1, pursuant to paragraph 5-32, chapter 122, Ill Rev Stats. The cited section provides for the automatic dissolution of a school district which has failed for two consecutive years to maintain a recognized public school.
+On May 19, 1962, a petition to call an election to form certain territory into a Community Unit School District was filed with the County Superintendent of Schools of Woodford County. On July 27, 1962, the said County Superintendent approved the petition after hearing held pursuant to notice. Included in the territory described in the petition was a part of Community High School District No. 18 of Marshall County.
+There ensued considerable litigation concerning the proposed district, some of which was carried to this court. See Community Unit School District No. 2, Marshall County v. Moore, 46 Ill App2d 14, 195 NE2d 833, and County Board of School Trustees of Marshall County v. Shirley, 76 Ill App2d 23, 220 NE2d 652. The election was held March 30,1963, but it was held void for reasons not present in this case. Another election was held March 4,1967. This was pursuant to the same 1962 petition, and this was held proper in the course of the litigation.
+The result of the 1967 election was that the proposal carried by a substantial majority of all votes cast both in incorporated areas and in unincorporated territory. However, in the area of the dissolved District No. 18, it lost by a narrow margin.
+The applicable statute is paragraph 11-7 of chapter 122, Ill Rev Stats which contains the following: “if such territory described in the petition includes a part of an existing high school district the proposition shall not be deemed to have received a majority of the votes cast on such proposition unless it also receives a majority of the votes cast on the proposition within the territory included within the said established high school district.”
+On behalf of the appellants it is contended that the words “existing high school district” and “said established high school district” must refer to conditions existing at the time the petition was filed, while appellees contend that they refer to the time of election.
+The wording of the statute does not provide a clear answer to the problem presented. And there appears to be no reported decision which judicially construes the statute as to this subject. However, we refer to some remarks of this court in Community Unit School District No. 2, Marshall County v. Moore, 46 Ill App2d 14, 195 NE2d 833, which apply to other aspects of the problem. That case involved the same territory and some of the same parties as in this case.
+At page 20, it is said: “We think it is no longer debatable that the formation of unit districts has been both legislatively and judicially encouraged and fostered.” It was held that courts must “permit practical application of the statutes.” Referring to District No. 18, it is said: “The District was at an end.” It was further held that this terminated the Grade School District No. 103 which had the same identical boundary. The school trustees had no alternative except to attach the territory involved to adjoining districts. It was recognized that problems would be presented as to parts of the territory, but the school trustees would be authorized to make provision for the students in some way. It was concluded that the trustees had acted in a practical manner, and the court order approving their action was affirmed.
+In a similar way problems arise in this case as to what to do with students in a dissolved district pending the result of the election. The school authorities must solve these problems in a practical way, and they have several procedures they may follow to accomplish their purpose. People v. Deatherage, 401 Ill 25, 46, 81 NE2d 581. We must take note of the practical fact that District No. 18 did not exist, and was not an established school district at the time of the 1967 election. That it did exist five years before and was continued in operation during litigation should not have the effect of nullifying this election. Considering the problem as one of practical application of the statute, we conclude that the reference to existing or established school districts applies to the time of the election rather than the time the petition was filed.
+This conclusion is bolstered by the further practical conditions that the statutory requirements as to date of election and notice thereof, made it impossible to hold the requested election prior to the termination date of the district, as specified in the notice from the Superintendent of Public Instruction. The dissolution of a district which has not maintained a recognized school for two consecutive years is not dependant upon action by local authorities, it is spoken of as automatic. Thus, it was a known fact when the petition was filed that on the date when the election would be held District No. 18 would no longer exist. Under these conditions, it is not logical to determine the validity of the petition upon the temporary status of some of the territory described therein, which status would disappear before the date of the election. For these reasons we hold that the status of a district on the date of the election determines whether it is existing or not.
+One other point is made by appellants. It is contended that the proposal must carry in each incorporated area included in the description. This point has no merit, the statute is clear that the count is to be taken separately as to the total vote in incorporated areas, and as to the total vote in unincorporated territory.
+Accordingly, the judgment of the Circuit Court of Marshall County is affirmed.
+Judgment affirmed.
+ALLOY, P. J. and STOUDER, J., concur.
