@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1882-05-31"
+citations: ["11 Ill. App. 84"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Camp Kelsey v. Joseph Starkey et al."]
+source_url: "https://static.case.law/ill-app/11/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5777030
+cites_cases: ["100 Ill. 313", "19 Ill. 83", "38 Ill. 316", "50 Ill. 56", "53 Ill. 470", "54 Ill. 281", "59 Ill. 223", "65 Ill. 245", "68 Ill. 128", "69 Ill. 105", "83 Ill. 226", "85 Ill. 189", "86 Ill. 16", "89 Ill. 85", "98 Ill. 210"]
+---
+
+# Kelsey v. Starkey
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The decree in this cause was affirmed at the last term of this court and the appellant has'presented his petition for rehearing.
+Reference is made to many decisions of our Supreme Court holding that where the transcript of the record fails to show a plaeita or convening order of court the judgment or decree must be reversed. We had supposed that this rule was so -well established that the bare statement of it in an appellate tribunal would be sufficient, without authorities cited in its support.
+When the case was formerly before us, this point, then and now again urged, was not overlooked or ignored, but received due consideration and upon an examination of the record no basis was or is now found for this objection to the decree ; from pages 86 to 100, inclusive, convening orders of the court appear for each and every term from the first after filing of the bill until the final decree was rendered showing the organization of the court and the presence of its officers, and the" proceedings of the court farther show that this cause was at each term continued by adjournment. It was also urged upon the former hearing that the decree was not supported by the evidence, which was tile question principally relied upon by-counsel for appellant for a reversal. We also examined the record upon that point and found that the question did not arise upon the record. The decree shows that the cause was heard in open court upon- the pleadings and proofs on file and evidence' heard in open court, and the court finds from the evidence certain facts to be proven, which facts are stated specifically in the decree. These facts we ascertained from an examination of the pleadings to be substantially stated in the bill and are sufficient to support the decretal order granting the relief.
+The evidence, it is true, must be preserved in the record, but where the decree recites that certain facts were found from the evidence and such facts are sufficient to sustain the decree, no other preservation of the evidence is necessary, and a party not satisfied with such decree can insist upon a certificate of evidence. Walker v. Abt, 83 Ill. 226. The finding of the court that certain facts are established by the evidence, must be taken by this court as conclusive of the existence of such facts in the absence of a certificate of the judge or a bill of. exceptions signed by him, that all the evidence heard upon the trial appears in the record filed in this court. McIntosh v. Saunders, 68 Ill. 128; Davis v. Christian Union, 100 Ill. 313; Cooley v. Scarlet, 38 Ill. 316; Preston v. Hodgen, 50 Ill. 56; Walker v. Carey, 53 Ill. 470; Mauck v. Mauck, 54 Ill. 281; Sheen v. Hogan, 86 Ill. 16; Dalton v. Roach, 89 Ill. 85; Corbus v. Teed, 69 Ill. 105.
+Where the facts are found and recited in the decree, then any party desiring to question the correctness of the finding must preserve all the evidence by certificate. Thomas v. Adams, 59 Ill. 223; Moore v. School Trustees, 19 Ill. 83; McIntosh v. Saunders, supra.
+It was held in the case last cited that in such case the certificate of the clerk that the record contained all the evidence could avail nothing as the proofs could not be incorporated in the record in that manner.
+The remarks of Mulkey, J., in Binkert v. Wabash Railway Co. 98 Ill. 210, are very applicable to this case in the condition presented by the record before ns.
+“ The evidence upon which the decree was rendered has not been preserved. Bo bill of exceptions or certificate of evidence is to be found in the record. The propriety of the decree, therefore, must be determined exclusively from the allegation's in the bill and the facts found by the court as they appear in the decree itself, as it must be presumed that the evidence was legally sufficient to support the findings of the court. Indeed, it is a general rule that a court of review, where nothing appears to the contrary, will indulge in all reasonable presumptions for the purpose of sustaining the decree of the lower court.” This presumption arises only in cases where the facts are specially found and stated in the decree, and such findings are supported by the allegations of the bill, and are sufficient in themselves to sustain the decretal order.
+In such case, before a court of review can determine that the decree is erroneous, it is essential that it should affirmatively appear that all the evidence upon which the court acted is incorporated in the record, and this evidence, when considered as a whole, fails to support the finding of the facts.
+On the other hand, where a decree is rendered, and no special finding of facts is embodied in the decree, then no such presumption is indulged in; and on an appeal or writ of error the correctness of the decree is determined from a consideration of the evidence that does appear in the record, it being presumed by the appellate tribunal that the court below, in the absence of any statement to the contrary, rendered the decree upon the evidence alone thus appearing. The case of Smith v. Smith, 85 Ill. 189, and others of like character, are illustrative of this principle.
+In such cases, therefore, it is held that the party desiring to sustain the decree must take measures to incorporate in the record, by certificate, the evidence upon which the decree is based. Hughes v. Washington, 65 Ill. 245; Smith v. Smith, supra.
+How in this case there is no certificate of evidence or bill of exceptions, and aside from the recitals of the facts found in the decree, there is no competent evidence in the record that all the evidence heard is incorporated therein. We must, therefore, under the decisions of our Supreme Court, cited supra, hold that the findings of the court were sustained by the testimony.
+If the parties expect to obtain reversals of judgments or decrees rendered at the circuit, it devolves upon them to demonstrate by their record filed here, that error has been committed to their prejudice.
+This record in our judgment fails to show error, for which reason we affirmed the decree, and now deny the petition for a rehearing.
+Petition denied.
