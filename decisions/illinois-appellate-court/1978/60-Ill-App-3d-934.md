@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "14679"
+decided: "1978-06-16"
+citations: ["60 Ill. App. 3d 934"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re CLARENCE STARKS, a Minor.—(THE PEOPLE OF THE STATE OF ILLINOIS, Petitioner-Appellee, v. CLARENCE STARKS, Respondent-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/60/cases/0934-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3353648
+cites_cases: ["362 N.E.2d 1024", "364 N.E.2d 54", "66 Ill. 2d 385", "67 Ill. 2d 102"]
+---
+
+# People v. Starks
+
+## Majority (Mr. PRESIDING JUSTICE GREEN)
+
+Mr. PRESIDING JUSTICE GREEN
+delivered the opinion of the court:
+In a proceeding in the circuit court of Pike County, respondent Clarence Starks was found to be delinquent and was committed to the Juvenile Division of the Department of Corrections. He appeals, contending that error occurred in the adjudicatory proceedings in that (1) the record does not show that his admission of the commission of an act of delinquency was made with a knowledge of his constitutional rights and of the consequences of making the admission, and (2) the trial court failed to make an express finding that the best interests of the minor and the public required that he be made a ward of the court. He also maintains that the trial court erred in the dispositional hearing in committing him to the Department of Corrections without (1) considering a written report of a social investigation, and (2) determining whether his and the public’s best interests required that he be placed in the custody of a person or facility other than the Department of Corrections.
+Prior to June 3, 1977, respondent had been placed in the guardianship of Richard S. Laymon, State guardianship administrator. On that date, a petition was filed in the trial court alleging that respondent had committed an offense of felony theft and praying for an order adjudicating him to be a ward of the court. Subsequently, the petition was amended to allege that the respondent was delinquent. An adjudicatory hearing was held at which time the respondent admitted commission of the offense. Without entering an adjudicatory order either by pronouncement in open court or filed written document, the court then proceeded to hold a dispositional hearing and to enter an order committing the respondent to the Department of Corrections. The dispositional order was in the usual form and did not purport to find the respondent delinquent or to make him a ward of the court.
+Without consideration of other claims of error, we are required to reverse and remand because of the lack of an adjudicatory order. Upon remand the case should proceed beginning with a new adjudicatory hearing.
+It is appropriate, however, that we consider other claims of error which might arise again upon remand. We agree with respondent that the court improperly accepted his admission of commission of the theft. The procedure for the acceptance of admissions of juveniles as to the guilt of the offenses which constitute the basis for a delinquency petition is set forth in In re Beasley (1977), 66 Ill. 2d 385, 392, 362 N.E.2d 1024, 1027. There, the court stated that compliance with Supreme Court Rule 402 (58 Ill. 2d R. 402) was not required but that,
+“It is sufficient to satisfy due process requirements that it be apparent from the record that the minors were aware of the consequences of their admissions; that is, that they understood their rights against self-incrimination, their rights to confront their accusers and their rights to a trial; that by the admissions they waived these rights and that the waiver conferred upon the court the authority to treat them in a manner authorized by the Juvenile Court Act.”
+The trial judge here diligently questioned respondent to ascertain whether he understood the nature of the act of delinquency charged and that the State would have to prove the charge. The court also obtained adequate information to determine that the admission was voluntary. However, the record gives no indication that respondent knew of his right of confrontation and his privilege against self-incrimination or that he knew of the consequences of making the admission. Although we may search the whole record to determine the state of respondent’s knowledge (In re Haggins (1977), 67 Ill. 2d 102, 364 N.E.2d 54), we cannot presume respondent had this knowledge merely because the record shows that respondent had counsel, that respondent had been in a prior detention hearing where his counsel cross-examined opposing witnesses, or that respondent had prior experience in juvenile cases. We conclude that the Beasley requirements for the acceptance of an admission had not been met.
+If, upon remand, the court finds that respondent is delinquent and that his best interests and those of the public require that he become a ward of the court and adjudicates him to be a ward of the court, it shall hold a new dispositional hearing.
+Section 5—1(1) of the Juvenile Court Act (Ill. Rev. Stat. 1975, ch. 37, par. 705—1(1)) states in pertinent part,
+“No order of commitment to the Department of Corrections shall be entered against a minor before a written report of social investigation, which has been completed within the previous 60 days, is presented to and considered by the court.”
+Respondent, acting through his counsel, purported to waive consideration by the court of such a report here. Apparently such a report was available for the judge but the record does not show that he considered it.
+The Act is silent as to whether the report requirements may be waived. Because a new dispositional hearing must be held anyway, we need not determine here whether the failure of the court to follow the report requirement is always reversible error. Section 5—3—1 of the Unified Code of Corrections (Ill. Rev. Stat. 1975, ch. 38, par. 1005—3—1) concerning presentence reports does expressly provide for waiver of the court’s consideration of such reports by defendants. Because a juvenile proceeding is still somewhat less adversary than a criminal case (In re Beasley), different treatment by the legislature as to waiver of the requirement for a report of social information would seem logical. Furthermore, because more emphasis is placed upon rehabilitation in a juvenile dispositional proceeding than in criminal sentencing, the judge in the juvenile proceeding is in greater need of social information. We conclude that the legislature did not intend that the juvenile report requirement be waived. If a subsequent dispositional hearing is held, respondent should not be committed to the Department of Corrections without consideration by the court of a timely report.
+We reverse and remand to the circuit court of Pike County for further hearing in accordance with the views expressed in this opinion.
+Reversed and remanded.
+CRAVEN and TRAPP, JJ., concur.
