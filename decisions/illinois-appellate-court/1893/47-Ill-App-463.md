@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-06-26"
+citations: ["47 Ill. App. 463"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Norris, Impleaded, etc., v. Peter Pierce."]
+source_url: "https://static.case.law/ill-app/47/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2441419
+cites_cases: ["106 Ill. 395", "29 Ill. App. 192", "40 Ill. 438", "56 Ill. 393"]
+---
+
+# Norris v. Pierce
+
+## Majority (Mr. Justice Green.)
+
+Mr. Justice Green.
+It is assumed in the printed argument filed on behalf of the respective parties, that this action of forcible entry and detainer was commenced in a justice’s court by Pierce, the appellee, against Daniel Kendrick, Millard Kendrick and Temple Kendrick, and that Morris entered his appearance with the Kendricks before said justice. The record contains no transcript of proceedings in the justice’s court, and it is nowhere shown that any judgment was entered there, or any appeal taken. In what purports to be a copy of Pierce’s written complaint appearing in the record, he alleges he owns the S. W. ¼ of the N. E. ¼ of Sec. 24, T. 1 S., R. 9 E. of the 3d P. M., and was in possession of said premises on or about July 18,1891. That Daniel, Millard and Temple Kendrick, did, on or about May 1, 1892, forcibly enter into the possession of the same, and have since last mentioned date detained the possession of the same, after written demand of them for the possession thereof, made by Pierce. A copy of what purports to be a summons to the Kendricks to appear before W. H. Van DeWater, J. P., to answer the complaint of Pierce, and return of service on all of said defendants, indorsed, is also incorporated in the record, but the premises described in said copy is W. ¼ of said N. E. ¼ of Sec. 24. The case appears to have been tried in the Circuit Court, by consent of parties, on the complaint filed, and it was there stipulated that the only land in controversy was the S. W. ¼ of the N. E. ¼ of Sec. 24, described in said complaint, instead of the W. ¼ of said N. E. J.
+By the transcript of the record in the Circuit Court, it appears a jury was impaneled and sworn, and returned the following verdict: “We, the jury, find the defendants guilty.” A motion for a new trial was overruled, and a judgment on the verdict was entered as follows: “ It is ordered and adjudged by the court, that the plaintiff, Peter P. Pierce, have and recover from the defendants herein, the possession of the premises in question, and that a writ issue from this court to put him in possession of the same; and further ordered, that the defendants herein pay the costs of this proceeding, and that execution and fee bill issue therefor.”
+The evidence shows that Daniel Kendrick was the only defendant who was in possession of any part of the forty-acre tract of land in question, and he was in the actual possession of the twelve acres thereof, four of which he had put in oats and eight in corn. The verdict and judgment against the other defendants was not warranted by the proof; neither of them was shown to have been guilty of either a forcible entry upon, or unlawful detention of any part of said premises, and ought not to have been mulcted in costs. The judgment is also uncertain in not describing the premises which were ordered to be put in the possession of Pierce. It further appears that before the suit was commenced Pierce had leased to James Orr the four acres upon which Daniel Kendrick had raised oats, and Orr had taken possession of the same and sowed wheat thereon. The remaining eight acres put in corn by Daniel Kendrick were also rented by Pierce to James Boyd. Counsel for appellee insist the contract with Boyd was never consummated, but Pierce testifies he rented to Boyd, and the latter testified he rented the corn ground of Pierce. Having leased the entire twelve-acre tract to Orr and Boyd, and the possession of Orr not having been interfered with, the right to the possession of the eight acres alone was involved, and in that piece Pierce had no right of possession when the suit was commenced, even if he was then the legal owner; and after having leased the same, and the lease being unrevoked, he could not maintain the action of forcible entry and detainer to recover the possession thereof. Spurck v. Forsyth, 40 Ill. 438; Kepley v. Luke, 106 Ill. 395; Allen v. Webster, 56 Ill. 393; Muller v. Newell, 29 Ill. App. 192. For the reasons stated, it was °error to enter the judgment complained of, and the same is reversed and the causé remanded.
+Reversed and remanded.
