@@ -1,0 +1,44 @@
+---
+court: "Illinois Appellate Court"
+docket: "83—1590"
+decided: "1985-02-07"
+citations: ["131 Ill. App. 3d 76"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. DONALD COLEMAN, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/131/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3439599
+cites_cases: ["263 N.E.2d 840", "391 N.E.2d 366", "457 N.E.2d 1233", "46 Ill. 2d 348", "76 Ill. 2d 289", "99 Ill. 2d 193"]
+---
+
+# People v. Coleman
+
+## Majority (JUSTICE LINN)
+
+JUSTICE LINN
+delivered the opinion of the court:
+Following a jury trial in the circuit court of Cook County, defendant, Donald Coleman, was convicted of attempted murder, aggravated battery, armed violence predicated on attempted murder, armed violence predicated on aggravated assault, and reckless conduct. The trial judge vacated all convictions with the exception of attempted murder, for which he imposed a 12-year term of imprisonment.
+On appeal, defendant claims, inter alia, that the verdicts finding him guilty of attempted murder and reckless conduct are legally inconsistent and thereby warrant a reversal and a new trial on all counts.
+We agree, and, accordingly, we reverse the convictions and remand for a new trial on all counts.
+Background
+The following evidence was adduced at trial:
+Defendant, Donald Coleman, had been involved in a relationship with the victim, Rosita McClain, for over a year and a half when the shooting incident out of which this case arises took place. Defendant rented a room in the victim’s sister’s house and was present in that room with the victim on the night of August 28, 1982. Rosita and defendant started arguing. Defendant grabbed a shotgun and stated to the victim, “1 ought to blow your head off.” When the victim heard this, she stood up.
+The testimony as to what occurred from that point on is disputed. The victim testified that she was standing across the room from defendant and that he then fired the gun at her. Defendant testified that he was close to the victim and that when he pointed the gun at her, she grabbed it, and it went off.
+The victim was severely injured when the gun discharged and she fell to the couch. Defendant called the police and initially denied knowing anything about the shooting. During repeated interrogation by the police, defendant related many different versions of the incident.
+The victim remained in the hospital for six months. Some four months after she entered the hospital, the victim was interviewed by the police concerning the shooting. They asked her if it was an accident. The victim first nodded yes, then said that she did not know. Detectives testified at trial that the victim was lapsing in and out of consciousness during this questioning. At trial, the victim unequivocally testified that defendant shot her and that she never touched the gun.
+Following a jury trial, defendant was convicted of attempted murder, armed violence, aggravated battery and reckless conduct. The trial judge vacated sua sponte all convictions except that for attempted murder and sentenced defendant to a 12-year term in the Illinois Department of Corrections. Defendant now appeals.
+Opinion
+Oh appeal, defendant claims as error that (1) he was denied effective assistance of counsel; (2) he was not proved guilty beyond a reasonable doubt; (3) he was denied a fair trial by repeated instances of prosecutorial misconduct; and (4) that the case must be reversed and remanded due to the jury’s finding of legally inconsistent verdicts. We find defendant’s last claim to be dispositive of this appeal and to warrant reversal and remand for a new trial on all counts.
+Defendant was found guilty of attempted murder (Ill. Rev. Stat. 1983, ch. 38, par. 8 — 4) and of reckless conduct (Ill. Rev. tat. 1983, ch. 38, par. 12 — 5). Defendant contends that these verdicts are legally inconsistent and that under People v. Frias (1983), 99 Ill. 2d 193, 457 N.E.2d 1233, where juries return such inconsistent verdicts on separate indictments or separate counts of a single indictment, a reversal and a new trial must follow. The State, on the other hand, argues that verdicts of guilty for attempted murder and for reckless conduct are not legally inconsistent because the mental state of “reckless” is merely a lesser included mental state of “intent.” The jury apparently understood recklessness to be a lesser included mental state of intent and found that the evidence was sufficient to prove defendant guilty beyond a reasonable doubt of all the crimes of which he was convicted. We do not quarrel with the jury’s conclusion as to the sufficiency of evidence, aware that this does not mean we are making a finding as to defendant’s guilt or innocence which would be binding on retrial. (People v. Taylor (1979), 76 Ill. 2d 289, 391 N.E.2d 366.) The basis of our disagreement here is not with the jury’s factual findings but rather with their legal understanding. While we agree that recklessness is indeed one of the mental states set forth in the Criminal Code of 1961 that may satisfy a general intent crime (Ill. Rev. Stat. 1983, ch. 38, pars. 4 — 3, 4 — 6), the Code specifically states that it may do so only “if the statute does not prescribe a particular mental state applicable to an element of an offense.” (Ill. Rev. Stat. 1983, ch. 38, par. 4 — 3(b).) The attempt statute, however, is not such a statute and requires a specific intent.
+The elements of attempt are set forth in section 8 — 4(a) of the Criminal Code of 1961 as follows:
+“A person commits an attempt when, with intent to commit a specific offense, he does any act which constitutes a substantial step toward the commission of that offense.” (Emphasis added.) Ill. Rev. Stat. 1983, ch. 38, par. 8 — 4(a).
+It is clear from the plain language of this statute that to be found guilty of attempt, one must be proved to have intended to commit a specific offense; here, that offense was found to be murder. Recklessness, on the other hand, involves no specific intent but rather a conscious disregard of the consequences of one’s actions:
+“A person is reckless or acts recklessly, when he consciously disregards a substantial risk that circumstances exist or that a result will follow, described by that statute defining the offense; and such disregard constitutes a gross deviation from the standard of care which a reasonable person would exercise in the situation. ***” Ill. Rev. Stat. 1983, ch. 38, par. 4 — 6.
+A person commits “reckless conduct” if he “causes bodily harm to or endangers the bodily safety of an individual” by performing recklessly the acts which cause the harm. (Ill. Rev. Stat. 1983, ch. 38, par. 12 — 5.) The difference between this mental state, that of recklessness, and the specific mental state required for attempt is aptly illustrated by the following:
+“Some crimes, such as murder, are defined in terms of acts causing a particular result plus some mental state which need not be an intent to bring about that result. Thus, if A, B, and C have each taken the life of another, A acting with intent to kill, B with an intent to do serious bodily injury, and C with a reckless disregard of human life, all three are guilty of murder because the crime of murder is defined in such a way that any one of these mental states will suffice. However, if the victims do not die from their injuries, then only A is guilty of attempted murder; on a charge xof attempted murder it is not sufficient to show that the defendant intended to do serious bodily harm or that he acted in reckless disregard for human life. Again, this is because intent is needed for the crime of attempt, so that attempted murder requires an intent to bring about that result described by the crime of murder (i.e., the death of another).” (W. La Fave & A. Scott, Criminal Law sec. 59, at 428-29 (1972).)
+The mere fact that both “attempt” and “reckless conduct” require that a person act consciously is not, as the State contends, sufficient to make “recklessness” a lesser included mental state of the intent to commit murder.
+In People v. Frias (1983), 99 Ill. 2d 193, 457 N.E.2d 1233, the supreme court affirmed People v. Hairston (1970), 46 Ill. 2d 348, 263 N.E.2d 840, in which the court recognized that legally inconsistent verdicts could not stand and that where inconsistent verdicts of guilty are returned, a reversal and new trial on all counts must follow. (People v. Frias (1983), 99 Ill. 2d 193, 457 N.E.2d 1233.) Because we find that guilty verdicts for attempted murder and for reckless conduct are legally inconsistent, we are required to reverse these convictions and remand for a new trial on all counts.
+Reversed and remanded.
+JIGANTI, P.J., and ROMITI, J., concur.
