@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+docket: "16653, 16654 cons."
+decided: "1981-04-09"
+citations: ["95 Ill. App. 3d 89"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARIAN KURATA, Plaintiff-Appellant, v. BRIAN SILVERMAN et al., Defendants-Appellees. — MARIAN KURATA, Plaintiff-Appellant, v. CHAMPAIGN COUNTY, ILLINOIS, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/95/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3120871
+cites_cases: ["252 Ill. 311", "28 Ill. App. 3d 269", "328 N.E.2d 195", "338 N.E.2d 186", "387 N.E.2d 1294", "444 U.S. 193", "445 U.S. 507", "62 Ill. 2d 11", "70 Ill. App. 3d 245", "96 N.E. 872"]
+---
+
+# Kurata v. Silverman
+
+## Majority (Mr. JUSTICE CRAVEN)
+
+Mr. JUSTICE CRAVEN
+delivered the opinion of the court:
+Plaintiff was terminated from her position as assistant public defender by the public defender of Champaign County, Brian Silverman. She filed a complaint for a declaratory judgment, injunction and mandamus, alleging her firing was illegal because Silverman failed to comply with the termination policy of the county. The trial court granted the defendants’ motion for judgment on the pleadings, and the appeal from this order is cause No. 16653. Plaintiff also brought suit in the circuit court for administrative review of the decision of the county personnel committee that it had no jurisdiction to hear an appeal from plaintiff’s termination. The trial court dismissed the complaint for administrative review, and the appeal from this order is cause No. 16654. These two actions are consolidated.
+The Champaign County personnel policy provides the procedures to be followed when an employee is discharged. Discharge of an employee is within the discretion of the supervisor, but provision is made that no discharge shall offend the constitutional rights of the employee. An employee is entitled to written warning before discharge and a written notice stating the reason for any termination. A discharged employee is entitled to an informal appeal hearing before the personnel committee of the county board. Public defender Silverman did not comply with these procedures when he terminated plaintiff’s employment as assistant public defender.
+The preliminary issue to be decided is whether the public defender is a county official, subject to the legislative enactments of the county board. The office of public defender is created by statute in “An Act in relation to the office of Public Defender” (Ill. Rev. Stat. 1979, ch. 34, par. 5601 et seq.). The public defender’s salary and expenses are paid from the county treasury. (Pars. 5605,5607.) These provisions, plus the fact that the public defender is represented here by the State’s Attorney, persuades us that the public defender is an official of the county. (See dissenting opinion in People v. South (1979), 70 Ill. App. 3d 245, 387 N.E.2d 1294.) As such, an assistant public defender, such as plaintiff, has the status of “county employee” within the purview of the county personnel policy.
+The county’s position is that the county ordinance cannot lawfully be applied to a termination made by the public defender because the ordinance, which provides procedural due process protections to an employee, conflicts with the State statute, which provides that assistant public defenders shall serve “at the pleasure of” the public defender (Ill. Rev. Stat. 1979, ch. 34, par. 5606). The ordinance, it is argued, cannot be reconciled with the statute that allows termination without affording the assistant public defender procedural due process. State law provides that when a county ordinance conflicts with a State statute, the statute controls. Ill. Rev. Stat. 1979, ch. 34, par. 429.18.
+We agree with plaintiff that the ordinance and statute are not in conflict. It is well settled that an ordinance may differ from, so long as it is not inconsistent with, State law. (City of Chicago v. Union Ice Cream Manufacturing Co. (1911), 252 Ill. 311, 96 N.E. 872.) Neither the ordinance nor the statute requires cause for the dismissal of an assistant public defender. The ordinance merely imposes procedural duties upon the public defender to protect the assistants from an unconstitutional discharge. Both the ordinance and the statute may be consistently complied with by the public defender. Since the public defender did not afford plaintiff the protections provided to her in the county ordinance, her termination was illegal, and the trial court order granting judgment in favor of the county is reversed. She can only be terminated in accordance with the personnel policy of the county.
+The trial court dismissed the complaint for administrative review because it had no jurisdiction to review a decision of the personnel committee of the county board. The county confesses error in this ruling. A complaint for administrative review of a decision under an ordinance is to be treated as a common law writ of certiorari. (Nowicki v. Evanston Fair Housing Review Board (1975), 62 Ill. 2d 11, 338 N.E.2d 186.) This action for review was brought by plaintiff to protect herself from the possibility of a ruling that she failed to exhaust her administrative remedies. Due to our disposition in cause No. 16653, review of the personnel board’s decision that plaintiff is not entitled to the protections of the ordinance is unnecessary.
+Cause No. 16653 is reversed with directions that judgment be entered in favor of plaintiff; cause No. 16654 is dismissed as moot.
+WEBBER, J., concurs.
+
+## Dissent (Mr. PRESIDING JUSTICE TRAPP,)
+
+Mr. PRESIDING JUSTICE TRAPP,
+dissenting:
+I would affirm the judgment of the circuit court.
+Upon existing authority, an assistant public defender is not a “county employee,” but has the status of a public officer. As an officer the ordinance relating to county employees is not applicable. Such precedent was stated in People ex rel. Cook County v. Majewski (1975), 28 Ill. App. 3d 269, 328 N.E.2d 195.
+The indicated rationale of Majewski is that section 1 of “An Act in relation to the office of Public Defender” (Ill. Rev. Stat. 1979, ch. 34, par. 5601) provides that there “is created the office of Public Defender ° ° Section 2 of the Act provides for the appointment of such officer by a majority of the judges of the circuit in that county. Section 6 of the Act (Ill. Rev. Stat. 1979, ch. 34, par. 5606) provides for necessary assistants to the public defender and includes the language that the public defender:
+“* * ° shall have power to appoint, in such manner as the judges before mentioned shall direct, such number of assistants, * * * as such judges shall deem necessary for the proper discharge of the duties of the office, who shall serve at the pleasure of the Public Defender.” (Emphasis added.)
+The statute provides that the assistant public defender shall engage in “the proper discharge of the duties of the office e An office has been defined as “a public position created by the constitution or law, continuing during the pleasure of the appointing power, or for a fixed time, with a successor elected or appointed.” See Ill. Const. 1870, art. V, §24.
+In Ferri v. Ackerman (1979), 444 U.S. 193, 204, 62 L. Ed. 2d 355, 363, 100 S. Ct. 402, 409, it was said with reference to the duties of counsel appointed in the Federal court:
+“Although it is true that appointed counsel serves pursuant to statutory authorization and in furtherance of the federal interest in insuring effective representation of criminal defendants, his duty is not to the public at large, except in that general way. His principal responsibility is to serve the undivided interests of his client. Indeed, an indispensable element of the effective performance of his responsibilities is the ability to act independently of the Government and to oppose it in adversary litigation.”
+The duties of an assistant public defender are of like kind and quality. In Majewski, the court stated:
+“Clearly, the representation of indigent defendants is a requirement of due process of law which constitutes a delegation of sovereignty to the office of the public defender.” 28 Ill. App. 3d 269, 272, 328 N.E.2d 195, 196.
+Implicit in the characterization of the plaintiff as an “employee” is that she be subject to the direction and control of the employing county. That factor is inconsistent with the nature of the office created.
+Sections 2 and 6 of the Act (Ill. Rev. Stat. 1979, ch. 34, pars. 5602 and 5606) are consistent in that the public defender shall serve “at the pleasure of the judges competent to appoint,” and the assistant public defender serves at the pleasure of the public defender. It is inconsistent that a county ordinance shall be construed to have the effect that the statutory language “at the pleasure of” is not really applicable but that one must first meet the policy of the county ordinance directed to the discharge of the employees of the county.
+The pleadings of plaintiff do not contend that the discharge was for an unlawful purpose within the context of Branti v. Finkel (1980), 445 U.S. 507, 63 L. Ed. 2d 574. 100 S. Ct. 1287.
