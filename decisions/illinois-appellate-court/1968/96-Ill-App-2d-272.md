@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 67-137"
+decided: "1968-06-17"
+citations: ["96 Ill. App. 2d 272"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arline Inwood, Executor of the Last Will and Testament of Carl E. Nelson, Deceased, Petitioner-Appellant, v. Nils A. Nilsson, Respondent-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/96/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2536107
+cites_cases: ["185 NE2d 850", "186 NE2d 534", "192 NE2d 616", "202 NE2d 470", "26 Ill2d 62", "31 Ill2d 587", "38 Ill App2d 141", "42 Ill App2d 438"]
+---
+
+# Inwood v. Nilsson
+
+## Majority (MR. JUSTICE SEIDENFELD)
+
+MR. JUSTICE SEIDENFELD
+delivered the opinion of the court.
+This is a citation proceeding by the petitioner, Arline Inwood, as executor of the Last Will and Testament of Carl E. Nelson, Deceased, for an order requesting the respondent to show cause why he should not be removed as a joint tenant on a bank account opened by the deceased. After hearing, the court entered an order quashing the citation and further, on counterpetition of the respondent, ordered the executor to deliver the account book in the possession of the executor to the respondent. An appeal is prosecuted from these orders.
+Petitioner contends that the presumption of donative intent from the creation of the joint account was overcome by the evidence, including the retention of the passbook by the deceased.
+The deceased, prior to his death, was married and had no children. His wife previously had suffered approximately five strokes and was not living with the deceased at the time of his death.
+The deceased asked his brother, Nils A. Nilsson, the respondent, to accompany him to the Rock River Savings & Loan Association in Rockford, Illinois, to become a joint tenant with him on a savings account maintained by the deceased in that institution. The two brothers signed an instrument in writing in usual form, the material portion of which is as follows:
+“3. The undersigned intend that upon the death of any of them, the survivor or survivors shall be the sole beneficial owner or owners of the account, even if the funds for the account were provided wholly or in part by the Decedent.”
+This agreement was executed on February 1, 1966.
+An employee of the institution asked questions and presented to them the agreement and asked the decedent if that was what he wanted. The decedent said, “Yes, that is what I want.” When the agreement was executed there was over $6,000 in the account.
+Prior to the execution of the agreement at the bank, the decedent advised the respondent that he wanted to have the respondent’s name on the books so that both could draw. The decedent said that they both could have the money together; that if one were sick he could draw the money and pay the bills and if the respondent became sick or ill the decedent could go and draw the funds and pay the respondent’s bills.
+The respondent never had possession of the account book. The deceased died on March 9, 1967, more than thirteen months after the establishment of the account. The bank book was discovered among the effects in the deceased’s home by the brother-in-law. At the time of the petition for citation the account had a balance of $6,948.45.
+The petition for citation filed by the executor sets forth that one of the assets of the estate was the joint savings account in the amount of $6,948.45 and that the bank book was retained by the decedent without delivery to the respondent. The citation further requested the appearance of the respondent ordering him to show cause why he should not be removed as joint tenant on the said account.
+The respondent filed an answer and counterpetition alleging the joint tenancy agreement and moved for dismissal on the grounds that the citation did not state any fact or set of facts justifying its issuance. Further, the respondent prayed that the petitioner be ordered to deliver the passbook to the respondent as his property.
+The court thereafter upon hearing quashed the citation and ordered the passbook to be delivered to the respondent as his property. We find no error.
+Dealing first with the contention of the respondent that the petition for citation does not state any fact or facts justifying the issuance of such citation, we agree. A citation to recover property and discover information is statutory, pursuant to Ill Rev Stats 1965, chapter 3, sections 183-185, and a court shall order a citation to issue for the appearance before it of any person whom the petitioner believes “(1) to have concealed, converted, or embezzled or to have in his possession or control any personal property, books of account, papers, or evidences of debt or title to lands which belonged to a person whose estate is being administered in that court or which belongs to his estate or to his executor, administrator, guardian, or conservator or (2) to have information or knowledge withheld by the respondent from the executor, administrator, guardian, or conservator and needed by the executor, administrator, guardian, or conservator for the recovery of any property by suit or otherwise. . . .” The petition on its face is insufficient in law pursuant to the requirements of the statute as it does not allege facts either in subsections (1) or (2) as aforesaid.
+However, the court heard evidence and examined exhibits, and we will examine the propriety of the court’s order based upon the evidence.
+The creation of joint accounts in regard to banks and savings and loan associations is expressly governed by statute, Ill Rev Stats 1965, chapter 32, section 770. By this statutory provision, the legislature has expressly provided for the creation of survivorship accounts and savings in loan associations and has prescribed the method by which capital accounts can be set up. It is not contested that the joint accounts in this case met the statutory provisions of the statute.
+We agree with petitioner’s claim that although joint ownership is set up in conformity with statutory provisions, a court of equity is not thereby foreclosed from looking behind the form of transaction and determining questions of the real and beneficial interest as between the parties. Intent is held to be controlling, but when the parties have expressed their intent by written agreement by clear and definite terms, the contract cannot be varied or altered unless there is clear and convincing evidence that a gift was not intended. Frey v. Wubbena, 26 Ill2d 62, 70, 185 NE2d 850 (1962). The petitioner argues that where evidence is presented which tends to rebut donative intent the burden falls upon the joint tenant to show by clear and convincing testimony that a gift was intended. This is not the present state of the law. The burden does not shift. Murgic v. Granite City Trust & Savings Bank, 31 Ill2d 587, 591, 202 NE2d 470 (1964).
+The evidence is clear and convincing that the deceased intended a gift of the account when he stated, “that they could have the funds together.” The evidence is clear that the deceased understood the nature of the agreement and affirmed “that is what I want.” There is no evidence to refute the presumption of donative intent except the retention of the passbook and certificate, the evidence of the marriage relationship and illness of the wife, and the deposit of all moneys in the account by the deceased. In fact, therefore, the petitioner did not establish by clear and convincing evidence that a gift was not intended.
+The petitioner further contends that the fact that the respondent did not ever obtain possession of the passbook or savings certificates supports the claim that donative intent is lacking.
+The court in Graves v. Graves, 42 Ill App2d 438, 448, 192 NE2d 616 (1963), held that as all joint tenants could not have manual possession of a passbook at the same time, possession by one was possession for the benefit of all assuming donative intent. While petitioner argues that the case before us is similar on its facts to the case of In re Estate of Cronholm, 38 Ill App2d 141, 186 NE2d 534 (1962), we distinguished the facts in that case in Graves, and distinguish it likewise on the facts in this record: the clear language of the joint account agreement, the family relationship between the parties to that agreement, and the evidence that the decedent intended a gift which the petitioner’s evidence did not in any way overcome.
+For these reasons, the order of the probate court is affirmed.
+Affirmed.
+DAVIS and MORAN, JJ., concur.
