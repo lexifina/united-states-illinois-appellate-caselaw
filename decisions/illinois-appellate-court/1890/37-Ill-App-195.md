@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-07-09"
+citations: ["37 Ill. App. 195"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Knickerbocker Ice Company v. Peter DeHaas."]
+source_url: "https://static.case.law/ill-app/37/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 859976
+cites_cases: ["111 Ill. 201", "33 Ohio St. 227", "45 Wis. 50", "51 Miss. 637", "66 Me. 420", "72 Ill. 285", "73 Iowa, 158", "95 U. S. 439"]
+---
+
+# Knickerbocker Ice Co. v. DeHaas
+
+## Majority (Moran, J.)
+
+Moran, J.
+This.action was brought to recover damages caused to the plaintiff, a boy about seventeen years of age, by his being kicked by a horse with which he was working, and which horse, it is alleged, was known to the managing agent of appellant, to be vicious. At the time of the accident the plaintiff, with two grown men, was at work with an ice scraper on appellant’s ice field. The scraper was drawn by a "team of which the alleged vicious horse was one, the team being driven by one of the grown men. The foreman called to plaintiff and his two companions to come over to the other side of the ice field and scrape the ice where it was being cut. They started to the place as directed, the scraper being turned upside down, and plaintiff and one of his companions riding upon it. The horses got beyond control of the driver, and the alleged vicious horse in some manner kicked plaintiff in the head, inflicting upon him very serious, permanent injury.
+There is much conflict of evidence in the case, on the question as to whether the horse was in fact vicious, and whether he was known to be so to appellant’s foreman or manager, and also if his kicking propensity, if any he had, was known to plaintiff, and indeed, upon several material questions of fact, which, in the view we take of the case on this appeal, it is unnecessary to state or discuss.
+Evidence was introduced on the jiart of appellant tending to show that appellee had been ordered not to ride on the scrapers when they were turned over, as it was dangerous, and that such riding on scrapers was forbidden; and thereo was evidence tending to show that one thus riding was brought close to the heels of the horses, and that the pressure of the scraper on the tongue had a tendency to press it down upon the horse’s ankles.
+The court on the trial refused all the instructions asked by appellant and appellee, and gave one general instruction prepared by the court and intended to cover the case. Appellant complains that the court in said instruction did not tell the jury that if appellee was riding on the scraper, contrary to the orders of appellant, at the time he was hurt, and by being there was hurt, when if he had obeyed orders he would not have been hurt, he could not recover. To sustain their contention that such is the rule of law, counsel for appellant cite R. R. Co. v. Jones, 95 U. S.—; Shauny v. Androscoggin, 66 Me. 420; I. C. R. R. v. Houck, 72 Ill. 285; Abend v. R. R., Co., 111 Ill. 201, and many other cases that seem to support their proposition. The counsel did not, however, ask the court to instruct the jury on this point, and the court’s instruction is so drawn that it can not be said to enumerate the elements necessary to a recovery, and to ignore this question. The instruction directs a verdict only, if the jury find that, “ at the time of the accident the plaintiff was exercising ordinary care for his safety, and that the defendant was guilty of negligence, as charged in the declaration, and that this negligence caused the accident.” It is not error for the court to omit to instruct on a particular point where no instruction is asked on such point.
+But the court did instruct on this point of riding on the scraper in such a manner as is in our opinion erroneous and misleading. The jury were told: “You are instructed that the fact that plaintiff was riding on the scraper at the time of the accident will not alone prevent a recovery, but you will consider this fact in determining whether or not the plaintiff was exercising ordinary care at the time he was hurt.”
+It is difficult to understand what the court meant by this proposition. There was evidence tending to show that it was dangerous to ride on the scraper. That is, it brought the rider so near the heels of the horses, that if one of them kicked from any cause the rider would be within reach and likely be hit. So that the fact alone that the plaintiff was riding on the scraper, might constitute negligence or lack of ordinary care, and thus be sufficient to prevent a recovery.
+It was in this view a question for the jury and not for the court, and the statement that it would not alone prevent a recovery was an invasion of the province of the jury. The latter clause, telling the jury to consider it in determining whether plaintiff was exercising ordinary care, does not cure the error. It rather carries the inference that other facts besides the fact of riding were necessary to show a lack of ordinary care.
+If the intention was to tell the jury that the fact of riding in disobedience of orders would not prevent a recovery, then the statement was not sound as a rule of law, to be given where there was evidence tending to show that the violation of the order brought appellee into a place of danger, and thus made the injury to him possible, which, if the order had been obeyed, would have been impossible.
+The statement considered in this view ignores the disobedience entirely, and thus took from the jury an important element, proper and necessary to be considered in view of the evidence in the case. The difficulty in ascertaining what was in fact meant by the court is a sufficient demonstration of the misleading and confusing nature of the proposition. As the case will go back for another trial, several errors, which are shown by the record, but which are not likely to be repeated, will not be noticed.
+It is urged that the court erred in not admitting evidence tending to show the docile conduct of the horse subsequent to the accident, to rebut the claim that he was vicious, and that appellant had notice of the fact.
+In this there was no error. The conduct of the horse after the accident was not material in any view of the case. Vicious disposition and knowledge thereof by the defendant before the accident, must concur in order to sustain the action.
+Viciousness subsequent to the accident is of no avail to the plaintiff, and gentleness after the injury is no shield to the defendant.
+The judgment will be reversed and the case remanded.
+Reversed and remanded.
