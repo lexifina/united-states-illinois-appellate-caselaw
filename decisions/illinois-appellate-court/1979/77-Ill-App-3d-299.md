@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-699"
+decided: "1979-09-25"
+citations: ["77 Ill. App. 3d 299"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re STEVEN THOMAS, a Minor.—(THE PEOPLE OF THE STATE OF ILLINOIS, Petitioner-Appellee, v. STEVEN THOMAS, Respondent-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/77/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3287983
+cites_cases: ["362 N.E.2d 1024", "372 N.E.2d 641", "372 N.E.2d 822", "379 N.E.2d 122", "394 N.E.2d 75", "62 Ill. App. 3d 463", "66 Ill. 2d 385", "69 Ill. 2d 393", "69 Ill. 2d 544", "75 Ill. App. 3d 494"]
+---
+
+# People v. Thomas
+
+## Majority (Mr. JUSTICE DOWNING)
+
+Mr. JUSTICE DOWNING
+delivered the opinion of the court:
+The minor-respondent, Steven Thomas, entered an admission to the unlawful use of a weapon (Ill. Rev. Stat. 1977, ch. 38, par. 24 — 1(a)(4)), was adjudged delinquent and a ward of the court, and committed to the Department of Corrections, Juvenile Division. On appeal respondent seeks to set aside his admission because the record does not show the terms of the agreement between him and the State which resulted in his admission.
+Examination of the record shows that the State and respondent’s counsel entered into a discussion concerning the matter. The trial court thereafter in addressing respondent informed him that it had not participated in the discussion and was not bound by any suggested disposition which might have been reached. Respondent said that he understood. With the exception of the matter now raised by respondent, the record indicates that respondent was fully advised of his rights and the admission was knowingly and voluntarily made. (In re Beasley (1977), 66 Ill. 2d 385, 362 N.E.2d 1024.) The court further advised respondent that he must file a motion to vacate the admission within 30 days of entry of the dispositional order if he wanted to appeal. The record also shows that one count of the adjudicatory petition and an unrelated delinquency matter were dismissed at the State’s suggestion. At the adjudicatory hearing, the court said that it would normally be inclined to accept the terms of any agreement reached by respondent and the State if an agreement was made.
+Respondent argues that, when an admission is 'entered in reliance upon an agreement which is not kept, the admission is involuntary. He maintains that it is impossible to determine the nature of the terms of the agreement between respondent and the State, and therefore the admission is void because the record does not show the admission was knowingly and voluntarily made. The State initially suggests that the merits of respondent’s position cannot be considered since respondent failed to file a motion to vacate the admission before the trial court.
+In the case of In re Buchanan (1978), 62 Ill. App. 3d 463, 379 N.E.2d 122, we examined the necessity of filing a motion in the trial court to vacate the dispositional order entered in a juvenile proceeding when the issue presented for review was whether the commitment order was an abuse of discretion. We held that the filing of a motion in the trial court setting forth the bases to contest the dispositional order in the delinquency case was not a prerequisite to a direct appeal of such issue. We observed that distinctions existed between direct criminal appeals from guilty pleas and juvenile appeals, and we concluded that a proceeding in accord with Supreme Court Rule 604(d) (Ill. Rev. Stat. 1977, ch. 110A, par. 604(d)), which applies to direct appeals of guilty pleas in criminal cases, was not necessary based on the issue presented.
+We also noted in Buchanan that collateral remedies, such as post-conviction relief, are available to adult offenders but do not apply to juveniles. (In re Buchanan; see also In re R.R. (1979), 75 Ill. App. 3d 494, 394 N.E.2d 75 (1979).) Thus no procedure except for a direct appeal is available to question the voluntariness of a juvenile admission to a delinquent act. Additionally, we noted in Buchanan that the issue raised in that case did not relate to any claim concerning the voluntariness of the admission. Further, resolution of the issue was not dependent upon any matters dehors the record, thereby removing Buchanan from the basic purpose of Supreme Court Rule 604(d), which was to expeditiously dispose of cases where issues were raised concerning matters not fully developed in the plea proceedings.
+Thus within this procedural framework, it is important that the record be as complete as possible in order to present the issue. This could have been accomplished in the present case by following Supreme Court Rule 604(d).
+Respondent’s contention appears to question the voluntariness of the admission relating to an agreement with the State which is not clearly of record. We are therefore of the opinion that respondent should have first directed his claim which he now raises to the trial court in accord with the procedure set forth in Supreme Court Rule 604(d). (Cf. In re Pulido (1978), 69 Ill. 2d 393, 372 N.E.2d 822.) Respondent’s failure to seek relief in the trial court before filing his appeal requires its dismissal.
+But even were we to find the appeal properly before us, we do not consider the issue raised by respondent to be meritorious. There is no suggestion during the entry of admission or dispositional hearing that respondent believed that he would receive a disposition less severe than commitment. In fact the trial court specifically said that it was not bound by any disposition requested by the State or respondent. (See People v. Lambrechts (1977), 69 Ill. 2d 544, 372 N.E.2d 641.) On this appeal respondent has not even expressly contended that the State did not fulfill a promise made to him to induce his admission until the filing of his reply brief which precludes consideration of such contention. (Ill. Rev. Stat. 1977, ch. 110A, par. 341(g)(7).) And, even at this juncture, respondent’s counsel has not specified the nature of the unfulfilled promise. Under those circumstances, we find that there has been no showing that respondent was prejudiced by the trial court’s acceptance of his admission or that his admission was involuntary.
+Accordingly, this appeal is dismissed.
+Appeal dismissed.
+STAMOS, P. J., and PERLIN, J., concur.
