@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-11-23"
+citations: ["32 Ill. App. 175"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John W. Garber v. Keziah Myers, Administratrix, etc."]
+source_url: "https://static.case.law/ill-app/32/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4977874
+cites_cases: ["14 Wall. 70", "18 Wend. 319", "5 Pet. 580", "8 Wheat. 174"]
+---
+
+# Garber v. Myers
+
+## Majority (Pleasants, P. J.)
+
+Pleasants, P. J.
+Appellant was to pay appellee’s decedent, for a lease of certain land assigned to him, $40 on September 1, 1887, and $150 annually thereafter for four years. On the 22d of May, 1887,in contemplation of a trip west, the deceased executed to John W. Dougherty a formal power of attorney to collect this money or any other that might be due to him, to prosecute and defend suits, and generally to attend to any business in which he might be interested, in Tazewell county or elsewhere. On the 24th he borrowed of Denhart & Company $225 on his note, signed also by G. B. Hornish, at thirty months, with interest; and on the same day signed a paper, witnessed by Dougherty, reciting the suretyship of Hornish on said note, his own desire “to secure and indemnify him against loss in case he should have to pay it,” and the indebtedness of appellant to him as above stated, and authorizing his “ agent,” said Dougherty, “ to collect said rents and apply the same to the payment of said notes when due.” The lease, with the assignment thereunder written, was left with Dougherty, and on it when offered in evidence there appeared receipts of $40 as of August 29, 1887, and of $150 as of August 11, 1888. Myers died intestate while on a visit at the residence of his son, in Iowa, on the 10th of August, 1887, and letters of administration were issued to his widow, the appellee, on the 8th of August, 1888. Soon after, she exhibited them to appellant, and as administratrix made demand of what had become due for the lease assigned to him, which he refused, claiming that he had paid it to Dougherty at the time specified in the receipt referred to, and denying her right to collect them if he had not. Thereupon on November 10, 1888, she brought this suit before a justice of the peace, which, on appeal from his judgment, was tried by a court without a jury, and resulted in a judgment in her favor for $190.
+The only question is, whether the payment so made to Dougherty after the death of Myers extinguished the claim of his estate pro tanto. It involves nothing but the construetion of these two instruments, and in our opinion there is but little room for it in either. The first was a power of attorney in the usual form, for and in the name, place and stead of the constituent, to attend to his business generally, and including specificalh7 the collection of this indebtedness coming due from the appellant. Hot being coupled with any interest in the attorney it was revoked by the death of Myers. The other also was but a naked power of attorney, though not in the usual form, and limited to the collection and application of this indebtedness. Its recital of the specific purpose for which it was given did not affect its character as a naked power in Dougherty, nor presently divest or invest any existing interest in the fund. It was a simple declaration of an intention, then entertained, not even amounting to a promise to pay a certain note out of that fund ; and while the execution of the power would inure to the benefit of the surety thereon and of the holder, it was none the less to be for and on behalf of Myers and in his name, place and stead. This was not such an assignment or appropriation of the fund as would give them, or either of them, a specific lien upon it, at law or in equity. They could not have collected it rightfully in their own name or otherwise, by virtue of anything contained in that paper. Authority to do so was thereby given to Dougherty alone, on the ground of personal confidence, and as the mere agent of the giver. It also was therefore revocable at his pleasure, during life, and was revoked by his death.
+This view of it, in reference to the rights of Hornish and of Denhart & Company, seems to us to be in accord with the law as now well settled. Rogers v. Hosack’s Exec’r, 18 Wend. 319; Christmas v. Russell, 14 Wall. 70; Hunt v. Rosmier, 8 Wheat. 174, 201; Nevil v. Jackson, 5 Pet. 580.
+We hold, then, that the two payments in question—the first of which was made nineteen days after the death of Myers —did not bind his estate nor bar the claim here made; nor is the case changed by the fact, if it be a fact, that the sum last paid was applied on the note before this suit was brought.
+Judgment affirmed.
