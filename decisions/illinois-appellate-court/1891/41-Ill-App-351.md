@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-07-30"
+citations: ["41 Ill. App. 351"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carl Schwarze v. Charles Spiegel and Louis Isenberger."]
+source_url: "https://static.case.law/ill-app/41/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5029384
+cites_cases: ["133 Ill. 39", "5 Ill. App. 556"]
+---
+
+# Schwarze v. Spiegel
+
+## Majority (Waterman, J.)
+
+Waterman, J.
+The motion to suppress the deposition of Charles Spiegel, was made upon the following grounds:
+“1. It does not appear that said Charles Spiegel resided or resides more than one hundred miles from the court house in said Cook County, or was at the time of the taking of his said deposition, or now is, a non-resident of said Cook County, Illinois. 2. Ho affidavit was filed in pursuance of Sec. 25 of the Act on Evidence and Depositions.”
+The bill of exceptions taken upon the overruling of said motion, does not show the deposition, but contains the following statement:
+“All parties being present in open court, said motion to suppress said deposition came up for hearing, and in support thereof the defendant introduced the deposition of said Charles Spiegel, which deposition it was agreed, by and between counsel for said parties in open court, was and is the same deposition as that to be incorporated in the bill of exceptions of the proceedings at the trial of said cause.”
+A deposition of Charles Spiegel was afterward read upon the trial of said cause, but the reading of such deposition and the incorporation of it into the bill of exceptions prepared for the purpose of showing what took place upon the trial, do not make it a part of the record, which the court made upon the motion to suppress said deposition, more than a month prior to said trial.
+A court in signing a bill of exceptions, and thereby making that which otherwise would not be, apart of the record, states only facts that have already, to the knowledge of the court, occurred, and it does not, and can not, make something which has not taken place, and which, so far as the court knows, may never take place, a part of the record. It is not in the power of a court to allow parties, by agreement among themselves, to make its record. Harding v. Brophy, 133 Ill. 39; Moore v. Bolin, 5 Ill. App. 556. The record, so far as a bill of exceptions is concerned, is that which the court makes, and parties can not, by an agreement between themselves, incorporated into a bill of exceptions, or otherwise, make that apart of the record of a cause, which the court does not, upon its own knowledge, certify has already taken place. The bill of exceptions, therefore, filed October 6, 1890, made upon the overruling of the motion to suppress said deposition, fails to show what the deposition was, because the court at said date could not possibly know what deposition would be incorporated in the bill of exceptions of the proceedings of the trial, nor even that there would be any bill of exceptions whatever of such trial, or indeed, that there ever would be a trial of said cause. When the cause came on for trial, appellants did not then renew their motion to suppress said deposition, nor did they have incorporated in the bill of exceptions taken upon said trial, the statement that said deposition is the one, which, on October 4th, they had moved to suppress, and which is mentioned in the bill of exceptions filed October 6th.
+The bill of exceptions taken upon the trial of the cause fails to show either the caption of the deposition, the certificate of the person taking the same, or the commission under which it was taken, or whether there ever was either caption, certificate or commission; but, upon the trial no objection was made on account of the absence of either of these, or because of any want or insufficiency of notice of the taking of the same, and we can not, upon the record as presented to us, say whether any of the grounds upon which (tlie motion to suppress was made, were, or were not well taken.
+In this deposition Charles Spiegel, after testifying to the sale of the liquors, describing the" same as whisky, Holland gin, sherry and prune juice, amounting to $1,004.12, said : 11 Herewith I offer an itemized bill of his account marked Exhibit1 A,’showing in detail the merchandise he purchased,” to the reading of which Exhibit “A,” as well as the introduction thereof in evidence, appellant then and there objected, and has assigned the overruling of his objection as error.
+Exhibit “A” was not, as appellant’s counsel seem to consider, introduced as a copy of the invoice furnished appellant, to produce which no notice had been given. The exhibit was merely a brief and expeditious way of stating the details of what the witness had already stated in gross—-that is, it was the giving of a written statement by him of the items which went to make up the sum total of the purchase, a method of testifying in very frequent use, and concerning which the witness might have been interrogated as t.o every item, for the purpose of showing what recollection he had as to the numerous prices and items concerning which he in this way testified.
+The objection made thereto, that the same is not sworn to, is not well taken, because the same is sworn to by the witness in his statement that it is an itemized bill of appellant’s account, showing in detail the merchandise purchased, and in effect, he did testify that the contents of the exhibit are true and correct, whether he made use of that identical language or not.
+As to the facts of the case, we see no reason for interfering with the conclusion arrived at by the court below. Hearing and seeing the witnesses, as it did, its opportunity for arriving at a correct conclusion was better than ours. It may be, as appellant testifies, that he did not examine and thereby ascertain the quality of these goods until a considerable time after suit was brought, that is, as he says, until about March or April, 1889; but if so, we are at a loss to know upon what he predicated his solemn oath, made on the 2Sth day of January, 1889, that he had a good defense upon the merits, to the whole of this promissory note, which only five days before he had written concerning, asking that it might be extended, without making a hint of any defense he had thereto.
+The judgment of the Circuit Court will be affirmed.
+Judgment affirmed.
