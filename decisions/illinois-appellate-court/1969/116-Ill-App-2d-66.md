@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. Nos. 52,627, 52,637, 52,641"
+decided: "1969-10-23"
+citations: ["116 Ill. App. 2d 66"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Bobby J. Sisson and Charles Johnson, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/116/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1587079
+cites_cases: ["221 NE2d 16", "231 NE2d 185", "38 Ill2d 237", "391 Ill 47", "62 NE2d 465", "74 Ill App2d 437", "77 NE 2d 195", "899 Ill 57"]
+---
+
+# People v. Sisson
+
+## Majority (MR. PRESIDING JUSTICE DEMPSEY)
+
+MR. PRESIDING JUSTICE DEMPSEY
+delivered the opinion of the court.
+Bobby Sisson and Charles Johnson were convicted by a jury of armed robbery. Sisson was sentenced to the penitentiary for a term of five to ten years and Johnson for a term of four to eight years. They complain of errors and prejudicial conduct at their trial.
+Bobby Lee Barron was beaten and robbed by three men in the afternoon of October 13, 1966. Sisson and Johnson and a third man approached Barron, who was waiting for a bus at 63rd and Kenwood Streets, Chicago. They demanded a quarter from Barron and accused him of testifying against Sisson at a trial. When he said he had no money and that he had not testified against Sisson they increased their demand to one dollar and a quarter. When he again said he had no money, they threatened him with metal objects and a knife, beat him and robbed him of over $80.
+Two days later, on October 15th, Barron saw Sisson and called a police officer, who arrested him. On January 19, 1967, Barron saw Johnson in a store, called two officers, and Johnson was arrested. Both defendants denied robbing Barron, but neither recalled where they were on the day of the robbery.
+The defendants complain of several errors affecting Sisson but only one concerning Johnson. During his direct examination, Barron was asked if he ever had any occasion to speak with Sisson before the robbery. Barron replied, “I’m part time employed at a grocery store and he used to come in the store all the time and take things and put them in his pocket and I would go and tell him to put them back.” An objection to the statement was sustained and the jury was told to disregard it.
+The general rule is that evidence of separate and distinct offenses is inadmissible. People v. Cordes, 391 Ill 47, 62 NE2d 465 (1945); People v. Baxter, 74 Ill App2d 437, 221 NE2d 16 (1966). Such evidence may raise the prejudicial inference that because the defendant has previously committed a crime he is more likely to have committed the crime for which he is being tried. The testimony of Barron that Sisson stole items from the store where Barron worked was damaging to Sisson’s case, but the error was waived when Sisson’s attorney, in an effort to impeach Barron on other matters, introduced into evidence and read to the jury Barron’s testimony before the grand jury. This testimony also disclosed that Sis-son stole articles from the store. Further, during Barron’s cross-examination, the defense elicited the informatian that the owner of the store knew Sisson because he had broken into the store. This additional evidence was not brought out to counteract or explain Barron’s direct testimony and it was not offered to lessen its adverse impact.
+Barron also testified on direct examination that during the robbery Johnson said: “I hear you were out there before when Moon [Sisson] was on trial when you were down in Judge Ryan telling , . . .” The defendants argue that this testimony informed the jury that Sisson was tried for some crime and was harmful to their case. Evidence that a defendant has been tried on a criminal charge is inadmissible, but the jury would not necessarily conclude from this testimony that Sisson previously had been tried for a criminal offense. The statement which Barron quoted is not clear and the inference is as easily drawn that Sisson was on trial in a civil case. Moreover, Johnson’s statement was made during the robbery and showed a motive for attacking Barron. The same statement was also introduced by the defense when Sisson’s attorney read to the jury the transcript of Barron’s grand jury testimony.
+During the cross-examination of the officer who arrested Sisson, the defendants’ attorney directed his questions to the officer’s knowledge of Sisson and then changed his line of questioning to the officer’s knowledge of Barron. The officer apparently thought the question still referred to Sisson. He was asked, “What did you hear of him?” and he replied, “I had heard he was a narcotic addict.” On redirect examination the prosecutor asked, “Officer, you are talking about who when you said you had heard he was a narcotic addict?”; the officer replied that it was Sisson. The court struck the testimony.
+Evidence of the narcotics addiction of a defendant in a crime not involving narcotics is inadmissible. People v. Smith, 38 Ill2d 237, 231 NE2d 185 (1967). The police officer while being questioned by the defense, inadvertently left the impression that Barron was addicted to narcotics. The defendants’ attorney did not correct the mistake and the prosecutor made an effort to do so. But the question he asked was unfortunate. Instead of asking a question which would negative the inference that Barron was an addict, he asked a question which could be answered only with the name Sisson. The prosecutor knew what the answer would be and he was responsible for the response. Although this was error it cannot be held to be reversible error in view of the fact that the defense was responsible for the misleading implication which made a correction justifiable.
+It is claimed that prejudice resulted from the State’s cross-examination of Sisson concerning the circumstances of his arrest. When the prosecutor asked on what date Sisson was arrested, Sisson replied giving the date of the alleged crime. This colloquy followed:
+(Prosecutor):
+“No that was the day that you assaulted Mr. Barron, I’m talking about.”
+A.
+“I didn’t assault anyone.”
+(Defense Counsel):
+“Objection, Your Honor. Now why would the State’s Attorney make that comment?”
+(Prosecutor):
+“Because it happened to be true and I will prove it.”
+The Court:
+“Objection sustained.”
+The remark “because it happened to be true” is claimed to have been based on the prosecutor’s opinion and hence error. People v. Hoffman, 899 Ill 57, 77 NE 2d 195 (1948). It may have been based on his opinion but it was also based on evidence — Barron had testified that he was assaulted. However, the additional remark “and I wiU prove it” was not based on evidence already in the case; it was a promise that evidence would be introduced which would substantiate the assertion. If the prosecutor had not introduced further evidence this would have been error. But he made good his promise. In rebuttal, he presented the testimony of a clerk who worked in the drugstore to which Barron had fled after the robbery. She testified that Barron’s face was bloody when he entered the store. Before getting medical aid he went to a telephone. Sisson and Johnson, whom she knew, came into the store after he did; Sisson tore the phone from his hand and attempted to strike him. The druggist intervened, pushed the defendants out of the store and locked the door while Barron called the police. Barron’s bloody condition after the robbery sustained the prosecutor’s statement that he would prove that Barron was assaulted.
+Only one of the errors complained of by the defendants could affect Johnson. During his closing argument the prosecutor commented on the inability of both defendants to recall what they were doing on the date of the robbery. In his argument on this point he said, “There is not a question in my mind and I doubt that there is any question in your mind, let alone a reasonable doubt or a reasonable question.” He then argued it was improbable that Sisson, who was arrested two days after the robbery, would fail to recall what had happened on that day. No objection was made to the argument. The defendants contend that the remark constituted a personal opinion and was prejudicial. The remark was not prejudicial. It was based on the evidence and was directed, not to the ultimate guilt of the defendants, but to the improbability of one aspect of their testimony: their inability to recall what they did on the date of the robbery. Prior to and after the comment complained of, the prosecutor reviewed and drew inferences from the defendants’ testimony. His statement must be related to and its meaning must be drawn from this discussion. It clearly indicates the opinion he expressed was based on the improbability of the defendants’ testimony and thus was proper argument.
+The judgment as to both defendants is affirmed.
+Affirmed.
+SCHWARTZ and McNAMARA, JJ., concur.
