@@ -1,0 +1,54 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-05-11"
+citations: ["18 Ill. App. 582"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marcus C. Stearns v. Patrick Reidy."]
+source_url: "https://static.case.law/ill-app/18/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 865021
+cites_cases: ["103 Ill. 50", "108 Ill. 538", "108 Ill. 564", "111 Ill. 203", "114 Ill. 79", "2 Scam. 225", "70 Ill. 297", "72 Ill. 343", "74 Ill. 223", "77 Ill. 217", "86 Ill. 62", "91 Ill. 406"]
+---
+
+# Stearns v. Reidy
+
+## Majority (Moran, J.)
+
+Moran, J.
+This was an action on the case brought by appellee to recover against appellant, for a personal injury received by reason of an explosion of dynamite, contained in a certain rock in appellant’s stone quarry, in which appellee was employed as a workman.
+The contention of appellee was that he was directed by one Henry Albright, the foreman in the quarry, to drill out a hole in a certain rock, in which said Albright knew there was an unexploded charge of dynamite, and of which fact appellee was ignorant.
+There had just recently been a setting off of a number of blasts in the quarry, and the charge in this particular stone missed, and such eases were known in the quarry as “missed holes.” When such “ missed holes” occur, which is quite frequent, they are cleared out with what is known as a scraper, and appellee knew that to use a drill in a “ missed hole” was dangerous. Appellee was deaf and testified that while he was at work, drilling a little distance from the stone, Albright, the foreman, attracted his attention, and indicated by motions that appellee should drill a hole in the stone, and placed his finger on the spot in the stone where appellee should drill; .that the stone was of a soft nature or rotten and covered with dirt and gravel; that appellee, not knowing it was a “ missed hole,” commenced to drill at the point where Albright had indicated; that from the soft character of the stone, he did not discover that he was drilling in a hole, and continued to drill until the explosion occurred, which caused the loss of his sight.
+Albright, the foreman, testified that instead of telling appellee to drill a hole in the stone, he took the scraper in his hands, and by motions told appellee to scrape out the hole, and laid the scraper down on the stone, near by the il missed, hole” and went to another part of the quarry.
+There was also conflict of evidence as to what material was used in the quarry at the time for tamping the holes containing the charge, and on the question whether one could not readily discover that he was drilling in a “ missed ” or tamped hole, instead of into an undrilled stone.
+There was a verdict and judgment for the plaintiff, and appellant brings the record here and assigns numerous errors.
+Objection is mainly urged to the modification, by the court below, of some of defendant’s instructions and to the refusal to give others.
+In the view we take of this case, it will be necessary to consider only the refusal to give some of the defendant’s instructions, as asked, and the propriety of giving them as modified by the court.
+The defendant asked the court to give to the jury the following instruction:
+“ Ho 22. The jury are instructed that the burden of proof is upon the plaintiff to establish his case by a preponderance of evidence,” and if the jury shall find from the evidence that Henry Albright, without fault or negligence, gave the plaintiff proper directions as to clearing out a missed hole, and that the plaintiff misunderstood such directions, even though without fault or negligence on the plaintiff’s part, and on account of such misunderstanding an explosion occurred and plaintiff was injured, then the plaintiff has failed to establish his case by a preponderance of evidence, and the verdict should be not guilty.”
+■ Which the court refused to do, but modified the same and gave the same as modified as follows, to wit:
+Defendant’s instructions:
+“ The jury are instructed that the burden of proof is upon the plaintiff to establish his case by a preponderance of evidence, and if the jury shall find from the evidence that Henry Albright, without fault or negligence, gave to the plaintiff proper directions as to clearing out a missed hole and that the plaintiff misunderstood such directions, an 1 that through his own fault and negligence on plaintiff’s part, and on account of such misunderstanding an explosion occurred, and plaintiff was injured, then the plaintiff can not recover in this action and the verdict should be not guilty.”
+This instruction, as asked, contained the law, and the proposition contained in it is covered by no other instruction given in the case.
+As modified by the court, it entirely left out the proposition which the defendant sought to have submitted to the juiy-
+If the defendant’s foreman, without fault or negligence, gave to the plaintiff proper directions, and the plaintiff, innocently and without negligence, misunderstood them, he could not recover.
+There was a phase of the evidence on which the instruction was properly based and the substitute entirely ignores such phase and directs the attention of the jury to the fault or negligence of the plaintiff.
+Where an instruction which is in conformity with law is asked, based on the evidence, and presenting a view of the case that may be controlling, and which is not covered by any other instruction, a refusal to give it will cause a reversal of the case. Bennett v. Connelly, 103 Ill. 50 ; State v. Wilson, 2 Scam. 225 ; Cohen v. Schick, 6 Bradwell, 280 ; C., B. & Q. R. R. Co. v. Warner, 108 Ill. 538.
+The defendant also asked the court to give the following instructions:
+“ If the jury believe from the evidence that the plaintiff knew that the use of a drill in clearing out a missed hole was dangerous, and that he used a drill in clearing out the hole in question, when he knew, or by the exercise of ordinary care and diligence might have known, that it Avas a missed hole, then the plaintiff can not recover, and the verdict should be not guilty.”
+But the court modified the same and gave it as modified as follows:
+Defendant’s instructions:
+“If the jury believe from the evidence that the plaintiff was directed by Albright to clear out a missed hole, and he knew that the use of a drill in clearing out a missed hole was dangerous, and that he voluntarily used a drill in clearing out the hole in question, when he knew it was dangerous, and he could, by the exercise of ordinary care and ..diligence, have avoided the danger, and he was injured in consequence of his own carelessness and negligence, and not through the carelessness and negligence of the defendant, then the plaintiff can not re cover, and the verdict should be not guilty.”
+The design of this instruction as asked, was to direct the jury to the inquiry, whether the plaintiff knew there was a missed hole or iy the exercise of ordinary care might have hnown it. As modified the inquiry is directed to whether he had actual knowledge of the missed hole, and whether, knowing it was dangerous, he could by ordinary care have avoided the danger.
+In the one case the ordinary care is required in avoiding the danger, when plaintiff knew it, in the other the ordinary care is to be exercised in discovering that there was a missed hole, and therefore, danger.
+The instruction, as asked, was proper, and the defendant had the right to have it given without change. C., B. & Q. R. R. v. Warner, supra.
+A large number of instructions were asked by the defendant which were given by the court without very material modification, except that the court added, in substance, to each one, the proposition contained in the following words: “ And he was injured in consequence of his own carelessness and negligence, and not through the carelessness and negligence of the defendant, then the plaintiff can not recover, and the verdict should be not guilty.”
+We do not deem it necessary to examine, seriatim, all the instructions thus modified, and determine whether they were proper as asked. Whether, as asked, they were good or not, the modification of them by tire proposition above set out, was erroneous.
+The effect of it was to direct that the jury must find, besides the facts supposed in the instruction, the further fact that the plaintiff was injured by his own negligence and not by the negligence of the defendant, in order to defeat a recovery.
+The proposition in such form is not true. If he was injured by his own negligence, he could not recover, even though the negligence of the defendant concurred with his own and contributed to his injury. He might be injured by the defendant’s negligence, and yet if he was not in the exercise of ordinary care himself, he could not recover. Abend v. T. H. & I. R. R. Co., 111 Ill. 203.
+The instructions all, supposed certain facts and sought to have the court tell the jury, if they found such facts, plaintiff could not recover; but the court added the proposition, as above set out, directing the attention of the jury to negligence generally, and not to the negligence arising from the facts supposed in the instructions. If the court did not feel at liberty to take the question from the jury, as to whether the facts supposed in the particular instruction constituted negligence per se, the instruction could have been modified so as to leave the question as to whether such facts constituted negligence to the jury; but the modification above set forth did not accomplish that purpose, if such was the intention of the court in making it. The modification was misleading and confusing, and tacked on, as it was, to several of defendant’s instructions, its reiteration made it still more likely to produce mischievous results.
+In this case defendant’s counsel submitted thirty-five skillfully drawn instructions to be given to the jury.
+In the hurry of a nisiprius trial, it is very difficult for a court to always attain absolute correctness of verbal statement, and in all cases such accuracy may not be essential; but the well established rule is, that when there is a sharp conflict of evidence on a material issue in the case, the instruction should be accurate, clear and perspicuous, and when, in such a case, a reviewing court can see that the jury may have been influenced by improper or inaccurate instructions, the case must be sent back for new trial. Volk v. Roche, 70 Ill. 297; Cushman v. Cogswell, 86 Ill. 62 ; Wabash Ry. Co. v. Henks, 91 Ill. 406; Mendota v. Fay, 1 Bradwell, 418 ; Toledo, W. & W. Ry. Co. v. Moore, 77 Ill. 217; C., B. & Q. R. R. Co. v. Warner, 108 Ill. 564.
+For the errors indicated, the case will he reversed and remanded.
+Beversed and remanded.
