@@ -2,7 +2,7 @@
 court: "Illinois Appellate Court"
 docket: "Gen. No. 50,464"
 decided: "1966-06-21"
-citations: ["72 Ill. App. 2d 103", "72 Ill. App. 2d 109"]
+citations: ["72 Ill. App. 2d 103"]
 reporter: "ill-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["People of the State of Illinois, Appellee, v. Robert L. Haywood, Appe
 source_url: "https://static.case.law/ill-app-2d/72/cases/0103-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2585862
-cites_cases: ["100 NE2d 588", "108 NE2d 468", "122 NE2d 796", "197 NE2d 8", "211 NE2d 730", "30 Ill2d 393", "33 Ill2d 403", "359 Ill 517", "361 Ill 440", "370 Ill 144", "398 Ill 515", "4 Ill2d 327", "406 Ill 315", "407 Ill 301", "409 Ill 473", "413 Ill 132", "94 NE2d 191", "95 NE2d 315"]
+cites_cases: ["100 NE2d 588", "108 NE2d 468", "122 NE2d 796", "359 Ill 517", "361 Ill 440", "370 Ill 144", "398 Ill 515", "4 Ill2d 327", "406 Ill 315", "407 Ill 301", "409 Ill 473", "413 Ill 132", "94 NE2d 191", "95 NE2d 315"]
 ---
 
 # People v. Haywood
