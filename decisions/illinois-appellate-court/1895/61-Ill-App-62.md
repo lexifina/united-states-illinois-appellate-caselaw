@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1895-11-15"
-citations: ["61 Ill. App. 62", "61 Ill. App. 68"]
+citations: ["61 Ill. App. 62"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Catharine Shaw, William Swaney et al., v. E. Hanson Camp."]
 source_url: "https://static.case.law/ill-app/61/cases/0062-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5165302
-cites_cases: ["122 Ill. 558", "127 Ill. 223", "13 Ill. 15", "20 La. Ann. 236", "23 Ill. 76", "23 Ill. App. 236", "41 Ill. 84", "42 Ill. 311", "46 Ala. 587", "60 Ill. 244", "62 Ill. 368", "64 Ga. 63", "73 Ill. 375"]
+cites_cases: ["127 Ill. 223", "20 La. Ann. 236", "23 Ill. 76", "23 Ill. App. 236", "42 Ill. 311", "46 Ala. 587", "60 Ill. 244", "64 Ga. 63", "73 Ill. 375"]
 ---
 
 # Shaw v. Camp
