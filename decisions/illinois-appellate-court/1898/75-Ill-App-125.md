@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-03-24"
+citations: ["75 Ill. App. 125"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago & Alton Railroad Company v. Michael Reilly."]
+source_url: "https://static.case.law/ill-app/75/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5176054
+cites_cases: ["104 U. S. 106", "130 Ill. 551", "156 Ill. 244", "165 Ill. 185", "165 Ill. 41", "170 Ill. 163", "2 Scam. 69", "49 Ill. 23", "62 Ill. App. 552"]
+---
+
+# Chicago & Alton Railroad v. Reilly
+
+## Majority (Mr. Justice Sears)
+
+Mr. Justice Sears
+delivered the opinion oe the Court.
+It is contended by counsel for appellant:
+First. That the verdict is not supported by the evidence.
+Second. That the general verdict should not have been received without special findings upon the three questions presented to the jury.
+Third. That the amendment of February 19, 1897, and the additional counts of March 10, 1897, in alleging that a piece of plank or timber projected from one of the cars, by which appellee was struck, set up a new cause of action, and was within the application of the statute of limitations.
+It is unnecessary to discuss the evidence, as the case must, because of the pleadings, be submitted to another jury.
+We are of opinion that the court did not err in receiving the general verdict without requiring the jury to answer the two questions for special findings.
+The jury might have been, and had it not been for objection by appellant, would have been, sent back to find specially upon these questions. This would have been proper practice, although they had returned a sealed verdict and separated. The Consolidated Coal Co. v. Maehl, 130 Ill. 551.
+When counsel for appellant objected to another retirement of the jury for this purpose, he waived any right to demand further findings. Wabash R. R. Co. v. Speer. 156 Ill. 244.
+Several questions calling for special findings were marked refused by the trial court and not given to the jury. Counsel for appellant limit their argument to the refusal of one only, viz., the third. This was properly refused. Either an affirmative or negative answer to this question would have been consistent with a general verdict for either liti- . gant.
+We come, then, to a consideration of the application of the statute of limitations. The three counts to which this plea was interposed are the amended count filed February 19, 1897, and the two additional counts of March 10, 1897. In 7 i the two latter counts the negligence alleged as the cause of the injury is, in the first, failure to ring a bell, and in the second, failure to lower gates, each of which is a charge of negligence contained in the original declaration, and hence these two counts are restatements only. The fact that each describes the car which struck appellee as having a plank or wood projecting from it, does not make the ground of negligence any different, nor is the fact that in the second of these counts it is alleged that such-plank or wood was “ carelessly and negligently allowed to project” of consequence, for it is clearly alleged therein that it is the negligent failure to lower the gates “ by means and in consequence of which, etc., * " * plaintiff was injured.” Although it would be better' and safer pleading to omit in this count the words “ carelessly and negligently ” as applied to the plank, and simply allege its position, yeti we are disposed to hold that the allegation as now framed is descriptive of the car only and not an allegation of a negligence which caused the injury.
+■ But upon the amended count of February 19,1897, which was more than two years after the injury, a different question arises. This count in effect sets up, as the only negligence charged, the permitting of' the1 projected timber, an act not charged in any count of the original declaration. Is this,' therefore, a new cause of action, and distinct from any cause of action originally declared on ? '
+It is urged by counsel for appellee that the true test and criterion is to inquire if a recovery upon the one would operate as a bar to a recovery upon the other, and there are not a few decisions which are, in substance, based upon this test.
+But whatever may be said of the logic and reasonableness of this test, we understand the recent decisions of our own Supreme Court as announcing a rule which governs here, and which makes it unnecessary to look to other authorities. In Swift & Co. v. Madden, 165 Ill. 41, the court say : “In a case like the one under consideration, the cause of action may be regarded as the act or thing done or omitted to be done by one which confers the right upon another to sue,” etc.
+In Illinois C. R. R. Co. v. Campbell, 170 Ill. 163, the court say: “ The cause of action of a plaintiff against a defendant for personal injury suffered by the plaintiff on account of the negligent act of the defendant, may be regarded as the act or thing done, or omitted to be done, by the one, by which an injury results to another.” In that case the original declaration alleged negligence in permitting an unblocked frog.* In the amended count, negligence was alleged, in that a pile of ashes was allowed to remain where plaintiff stumbled upon it, and thus caught his foot in the unblocked frog. The negligence in the amended count was limited to the permitting of the ashes —a matter not alleged in the original declaration. The court held that the original declaration showed no cause of action, and hence, that the case was governed by the case of Eylenfeldt v. Illinois Steel Co., 165 Ill. 185. Its decision, however, is not put upon this ground alone, but it would seem to be as well upon the broader ground that the negligent permitting of the pile of ashes was a distinct and different cause of action from the negligent permitting of the unblocked frog. The court say further: “ If it be true, as stated by appellee in his amended count to the declaration, filed more than two years after his cause of action accrued, that a pile of ashes was permitted by appellant to accumulate near the side of its track, over which appellee stumbled, and thus caught his foot in an unblocked frog, we hold such statement to be a separate and distinct cause of action, charging other and different negligence from that alleged in the first count of the declaration, and therefore barred by the statute of limitations.”
+The act or thing done, set up in the amended count here as constituting negligence, was the permitting a plank or timber to project one and one-half to three feet from a moving freight car, by means of which, and by which, appellee was struck and injured. The act or thing omitted, set up in the original declaration as constituting negligence, is variously charged in the several counts as failing to ring a bell or blow a whistle, failing to lower gates, failing to have flagman to give notice, and failing to stop, train in time to avoid the injury, and the act done set up in the original declaration, is negligence in running at an improper rate of speed, by means of which omission or act appellee was struck by a locomotive engine and cars and injured.
+That the act done, and which constituted negligence, as charged by the amended count, is distinct and separate from any act charged in the original declaration, is obvious.
+The jury may have found that there was no negligence established under any of the charges contained in the original declaration, and upon which there was a sharp conflict in the evidence, and may have based their verdict solely upon the negligence charged in the amended count, i. e., in permitting the timber to project from a moving car.
+We see no escape from the conclusion that this case must be governed by the decisions above cited.
+The cause of action set up by the amended count of February 19,1897, is therefore held to be barred by the statute of limitations.
+The judgment is reversed and the cause remanded.
