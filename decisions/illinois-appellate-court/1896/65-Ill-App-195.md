@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+decided: "1896-05-16"
+citations: ["65 Ill. App. 195"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Hensley v. Charles E. Hensley et al."]
+source_url: "https://static.case.law/ill-app/65/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5181417
+cites_cases: ["103 Ill. 445", "115 Ill. 656", "120 Ill. 410", "130 Ill. 503", "134 Ill. 357", "135 Ill. 98", "136 Ill. 632", "143 Ill. 146", "143 Ill. 661", "145 Ill. 89", "147 Ill. 542", "15 Ill. 200", "20 Ill. 457", "20 Ill. 462", "26 Ill. 36", "29 Ill. App. 393", "29 Ill. App. 396", "31 Ill. App. 114", "35 Ill. 222", "4 Ill. App. 112", "41 Ill. App. 632", "44 Ill. 208", "45 Ill. 375", "5 Ill. App. 420", "51 Ill. 153", "55 Ill. 272", "61 N. Y. 626", "67 Ill. 164", "67 Ill. 330", "67 Ill. 522", "69 Ill. 538", "74 Ill. 414", "75 Ill. 443", "77 Ill. 560", "84 Ill. 451", "86 Ill. 74", "96 Ill. 184", "96 Ill. 513", "98 Ill. 180"]
+---
+
+# Hensley v. Hensley
+
+## Majority (Me. Justice Wall)
+
+Me. Justice Wall
+delivered the opinion of the Court.
+This was a bill in chancery by the plaintiff in error against the defendants in error, to subject certain real estate herein designated as “ the city property,” the title to which was in defendant in error Malinda E. Hensley, to the payment of a judgment held by plaintiff in error against defendant in error Charles E. Hensley.
+Upon a hearing the bill was dismissed.
+It appears that Malinda E., wife of Charles E. Hensley, inherited from her father sixty-six acres of land and a sum of money with which she acquired twenty acres additional and a piece of real estate in Harristown.
+Soon after she came into this inheritance, said Charles E. bought one hundred and twenty acres of land adjoining hers, and to secure the purchase money thereof, they jointly gave a mortgage on the land so purchased and on that belonging to her—eighty-six acres—to William A. Barnes, who assigned to Samuel Anderson, who foreclosed and thereby obtained a deed to all of said lands, aggregating two hundred and six acres.
+Hensley and wife gave Anderson a warranty deed for said land, but remained in possession thereof under an agreement in writing by which they had the right to redeem upon payment of the original indebtedness, with interest and expenses.
+On the 21st of February, 1890, Charles E. gave his note to the plaintiff in error for $1,842, upon a settlement o£ accounts then made.
+This note was reduced to judgment on the 18th of January, 1893. Execution issued thereon July 8,1893, and on the 14th of the same month was levied on the “ city property.”
+On the 9th of June, 1892, Livonia Anderson, grantee of Samuel Anderson, began proceedings against Charles E. and Malinda E. Hensley for possession of said lands, pending which, an arrangement was made, whereby David E. Brooks acquired the title to the lands for the price of $9,500, and he then, as a part of the arrangement, executed a lease to said Charles and Malinda, by which they were to be continued in possession until March 1, 1893, with a provision that they might sell the lands on or before said day, and that said Brooks, upon receiving $9,700, the taxes of 1892, and the rental specified, would convey to the purchasers.
+On the 14th of June, 1892, Charles E. executed a judgment note to said Malinda for $6,000, upon which judgment was entered September 20th following. Execution was issued thereon and returned “ no property found.” An alias issued January 13, 1893, was levied upon all the personal property of said Charles E., consisting of horses, cattle, farming implements and household goods. The property so levied upon was bought in by Malinda and the execution was credited $895. On the 20th of January, 1893, said Charles and Malinda, by virtue of the provision in the lease from Brooks, sold said lands to Edmond S. and Francis E. Baker for $14,690, of' which the Bakers paid Brooks $10,100 in full of his demands, and for the residue made a deed for the “city property ” to said Malinda, which property was levied upon under the execution in favor of plaintiff in error against said Charles as already stated.
+In these various transactions Charles E. was the prominent actor, Malinda taking but little part except to sign such papers as required her signature. While she seems to have been consulted about what was done, she permitted him to manage everything.
+The “city property” was worth about $5,000, and was incumbered for $800.
+The eighty-six acre tract at the time of the conveyance to the Bakers was worth about $6,000.
+The plaintiff in error rests his argument against the decree mainly upon the ground that the wife voluntarily mingled her property with that of her husband and permitted him to manage and control it as his, thereby investing him with the indicia of ownership.
+The position thus taken is not supported by the record. The title to the eighty-six acres which she derived independently, never was in her husband’s name. She joined him in a mortgage upon it and the land which he bought on credit to secure the purchase money he owed on the latter, and when the title to all the land passed to Anderson on the foreclosure the writing which he gave providing for redemption was to her and her husband jointly. And so when the title was transferred to Brooks he gave a written lease to her and her husband jointly in which there was provision for a sale by the lessees.
+Thus it seems that her identity was never lost, but was clearly preserved all the way through. She pledged all her property to secure the payment of her husband’s debt, but by the agreements mentioned, a right of redemption was maintained for her benefit as well as his. Her equity was for the value of her property since the debt was wholly his, and it was clearly equitable and just that whatever might remain after that debt was discharged should be first applied to recompense her for what she had so pledged and finally parted with. That her husband, in order to secure her in the event the land would not be sold for enough to reimburse her, executed a judgment note in her favor, ought to work no prejudice. She had a right to take security from him. Her rights were as much within the favor and protection of the law as were those of his brother or any other creditor. Of course she could not be permitted to realize more than was justly due her; but it appears from the evidence that what she has received on the sale of personal property under execution and the value of the equity in the city property will not suffice for that purpose.
+That she suffered her husband to conduct the farm while they lived there without interference on her part, and that he mainly appeared in the negotiations which were necessary in the various matters affecting the property in which she had an interest, does not, under the circumstances, indicate fraud.
+We perceive no reason why she was not at perfect liberty to receive the city property as she did. Suppose, while the lease which she and her husband held from Brooks was in force and before the sale to Baker, or while the title was in Anderson and while they held his agreement to convey to them on payment of his demand, a bill had been filed by a creditor of the husband to subject the whole right of redemption to the satisfaction of his debt. Is it possible that such relief would have been granted ?
+What better standing has the present bill now that the interest of the wife -has been eliminated, unless it can be shown that she has received more than she was fairly entitled to in view of the value of her land?
+We are entirely satisfied with the decree dismissing the bill, and it will therefore be affirmed.
