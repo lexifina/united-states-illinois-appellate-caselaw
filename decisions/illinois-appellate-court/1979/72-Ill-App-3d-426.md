@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-86"
+decided: "1979-06-04"
+citations: ["72 Ill. App. 3d 426"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v. JERRY BEAMAN, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/72/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5582622
+cites_cases: ["384 U.S. 436", "61 Ill. App. 3d 37", "68 Ill. 2d 186", "71 Ill. 2d 254"]
+---
+
+# People v. Beaman
+
+## Majority (Mr. JUSTICE SEIDENFELD)
+
+Mr. JUSTICE SEIDENFELD
+delivered the opinion of the court:
+The People appeal (pursuant to Ill. Rev. Stat. 1977, ch. 110A, par. 604(a)) from an order suppressing defendant’s statement which the trial court found to have been made in response to police questioning without representation by an attorney after defendant had requested counsel.
+After a shooting at his home the 20-year-old defendant accompanied the investigating officers to the station at their request. Some time after 9:50 in the evening of May 5, 1977, he was arrested on a charge of involuntary manslaughter at the Rockford Detective Bureau. Detective Fegan and Officer Bland read the Miranda warnings to the defendant and asked him if he wished to make a statement. The defendant said he didn’t wish to sign the waiver form and didn’t wish to talk to the officers “until he had a chance to talk to his attorney.” The unsigned waiver form in evidence indicates that the time of this expression was at about 11:45 p.m., and the officers endorsed on the form the statement “does not wish to sign & waive an atty.” The defendant was then placed in a holding cell in the Detective Bureau. The defendant’s father was allowed to speak to him while he was in the cell; after this the defendant was allowed to use a telephone, but he was apparently unable to make a connection. The defendant was subsequently transferred to the “Jail Section.” The jailer was instructed to allow the defendant to use the telephone another time after the jailer had finished “processing” the defendant.
+Beaman was apparently left alone from about 12:30 a.m. on the morning of May 6 until about 9 a.m. that same day. At that time Officer Palmeri and Detective Donnelli, two Rockford policemen, interrogated the defendant in the Winnebago County jail. Detective Donnelli provided the defendant with a “Miranda warning form” and asked him to read out loud the top line of the form, which the defendant did. Then Donnelli advised the defendant of his rights, asked him if he understood and the defendant replied in the affirmative. At this point the two policemen began to interrogate the defendant about the shooting. They asked the defendant if he would be willing to make a written statement. After the defendant said he would be willing, the two policemen and the defendant moved to the Rockford Police Department and at this point the defendant orally made a statement. In it he said he had handed a gun to Butch Blackshear, one of his guests, to inspect and admire; that Blackshear returned the weapon to the defendant whereupon the defendant began to twirl the gun around “cowboy fashion,” cocked the gun and began waving it around. He said that while doing this the gun discharged and as a result Blackshear was shot and killed. Defendant signed the statement after it was typed.
+The trial court granted the motion to suppress based on its finding that the defendant had asked for a lawyer without equivocation and that the sole intervening event between the unhonored request for counsel and the second interrogation was time and no other circumstances.
+The question is whether, from his record, the defendant has waived his constitutional right to have the advice of counsel before the interrogation which resulted in his inculpatory statement. Whether a defendant has implicitly retracted a prior request for the assistance of counsel is an issue which must be reached, keeping in mind that conflicts in the evidence are to be resolved by the trial judge whose findings will not be disturbed unless they are contrary to the manifest weight of the evidence. People v. Medina (1978), 71 Ill. 2d 254, 258.
+Both officers who took the statement are charged with notice that counsel had previously been requested, although only one testified that he was so aware. (People v. Medina (1978), 71 Ill. 2d 254, 261.) The State agrees that it has a “heavy burden” under Miranda once counsel has been requested. (Miranda v. Arizona (1966), 384 U.S. 436, 16 L. Ed. 2d 694, 86 S. Ct. 1602, 1628.) The trial judge found that the State had not satisfied this burden, and we cannot say that this conclusion is against the manifest weight of the evidence.
+It is undisputed that defendant did not explicitly waive his right to counsel after having clearly requested it. Moreover the circumstances do not clearly show that defendant implicitly retracted his prior request to speak with an attorney before making a statement. The court could properly find that the giving of a statement followng a passage of nine hours and twenty minutes, but with no other circumstances indicating a waiver and after the giving of the second set of Miranda warnings, did not amount to an implied retraction and a consequent knowing and intelligent waiver of defendant’s privilege against self-incrimination and his right to counsel retained or appointed. In Medina the passage of approximately four or five hours between the early morning request for counsel and the 8 a.m. interrogation about the same offense was not sufficient to imply a retraction. Here the time interval was somewhat longer, nine or ten hours, but also in the night time hours. These are hours which could have involved a sleeping period as well as a period in which counsel could neither be sought nor located. See also People v. Washington (1977), 68 Ill. 2d 186, 194, where the passage of 10/2 hours in conjunction with two admonitions as to Miranda rights was held insufficient to render a confession admissible. See also People v. Taylor (1978), 61 Ill. App. 3d 37, 43-45.
+We therefore affirm the judgment.
+Affirmed.
+GUILD, P. J., and RECHENMACHER, J., concur.
