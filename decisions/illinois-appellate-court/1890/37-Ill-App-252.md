@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-10-23"
+citations: ["37 Ill. App. 252"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Koester v. Edward Cowan et al."]
+source_url: "https://static.case.law/ill-app/37/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 859960
+cites_cases: ["1 C. B. 564", "12 Mass. 220", "17 Johns. 92", "18 Penn. 187", "22 Mo. 566", "4 Paige Ch. 169", "5 Rich. 311", "76 Ill. 231"]
+---
+
+# Koester v. Cowan
+
+## Majority (Moran, P. J.)
+
+Moran, P. J.
+Appellant and one Graham were the owners of adjoining lots, and appellees had rented a certain building or shed which stood on the rear of said Graham’s lot, and they were in possession and occupation of the same, using it as a storage place for stoves and other articles of second-hand furniture, in which they dealt. Appellant desired to erect a large building upon his lot and entered into a party wall contract with Graham, by wdiich it was agreed that the said party wall should rest eight inches on said Graham’s lot, and eight inches on appellant’s lot. When appellant came to excavate, it was found that the building occupied by appellees extended four inches onto appellant’s lot. Appellant went to appellee Cowan and told him that he had got permission from Graham to build a party wall, and that the building appellees occupied would have to be moved. Cowan said- that could not be done without removing the stuff which was stored therein, and said they would not allow appellant’s men to move said stuff, and that appellees would not move it themselves for less than §50. Appellant refused to pay that, and said that Graham told him, appellant, to move the building, if appellees did not. Cowan declared that he would not allow the premises to be interfered with, and stood inside the building and threatened violence to any person who should attempt to move the building. An altercation arose between Cowan and appellant and some of appellant’s employes, and a policeman was called, who arrested Cowan and took him to the station, and thereupon appellant’s employes, acting under his direction, put blocks under the building and moved it back, tore away the steps, and broke and damaged more or less the articles stored therein. The building was moved some twelve inches, and an excavation was made for the party wall eight inches on Graham’s lot. Appellees brought this action of trespass quare clausum, against appellant, and the case was tried before a jury and a verdict was rendered in favor of appellees against appellant, assessing the damages at the sum of $200, for which there was judgment, which this appeal is prosecuted to reverse.
+■ Counsel for appellant contends that as the building stood four inches on appellant’s lot, he had the right to remove it therefrom, or to cut off or tear away such portion of it as extended over the line, and that his entry on the premises occupied by appellees was to that extent justifiable, and that liberum tenementum was as to such entry a good defense.
+It may be admitted that liberum tenem,entum would be a good defense had appellant confined himself to cutting away such supports of the building as rested upon his soil, or to removing so much of it as overhung his lot, but appellant could not, under such plea, justify entering upon the close of appellees, to wit, the lot of Graham, of which they were in possession under a valid lease, or removing or interfering with the portion of the building which rested thereon. By appellant’s own evidence it appears that he did so enter upon plaintiffs’ close, and did remove the building which they were occupying, and did handle and move about the personal property of plaintiffs therein. To this part of the plaintiffs’ case there is no defense, and therefore the verdict that appellant was guilty, was clearly right. The only question left to appellant is the' amount of the verdict. There was a conflict of evidence as to the amount of injury done to the articles which plaintiffs had in store in the building. It may be as counsel contends, that appellees exaggerated the actual damages which they suffered.
+But this was a case in which, under the evidence in the record, the jury would be warranted in assessing more than the actual damages, and in which most any jury would be likely to do so. Where a party without legal right? and to effect a purpose beneficial to him, enters in the possession of another against the protest of such other, and by force accomplishes his purpose, he is in no position to contend that he shall be mulcted only to the extent of the actual damage which he has caused. A careful inspection of this record does not lead ns to the conclusion that the damages allowed are excessive.
+There were some errors in the matter of instructions, but, as has already been seen, appellant was clearly guilty of trespass, and if his instruction had been given and followed, the verdict would have to be against him on that issue.
+There is no error which requires the reversal of the judgment, and as the same is fully supported by the record, it will be affirmed.
+Judgment affirmed.
