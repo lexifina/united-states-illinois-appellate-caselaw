@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-10-24"
+citations: ["48 Ill. App. 413"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Halsey v. Stillman."]
+source_url: "https://static.case.law/ill-app/48/cases/0413-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5135134
+cites_cases: ["10 Brad. 235", "14 Ill. 459", "15 La. A. 48", "17 Ill. 597", "18 Md. 177", "2 Gil. 725", "44 Ind. 238", "69 N. Y. 122", "77 N. Y. 182", "79 Ill. 58", "79 Ill. 59"]
+---
+
+# Halsey v. Stillman
+
+## Majority (Hon. Carroll C. Boggs, Judge.)
+
+Opinion of the Court, The
+Hon. Carroll C. Boggs, Judge.
+This appeal seeks the reversal of a judgment in the sum of 0650 rendered against the appellant in an action for slander brought by the appelleé. One of the allegations of the declaration is that the appellant said of the appellee, “He is a thief; he stole my screen doors;” and other allegations charged words imputing the guilt of larceny without qualification or explanation. These allegations are, we think, supported by the evidence.
+The rule at common law was that it was not actionable to say one stole what would be fixtures to real estate. The reason for the rule was that real estate could not be the subject of larceny. Sec. 175, Chap. 38, R. S., provides, ¿hat if one by trespass with intent to steal takes and carries away anything which is parcel of the realty he shall be guilty of larceny, as if the property taken were personal property. The reason for the common law rule referred to, therefore, no longer exists, and the rule itself fails with the reason upon which it was based.
+An action may be sustained upon words imputing to another the crime of larceny under the statute cited.
+It is complained that the appellee was permitted to prove that the appellant spoke the slanderous words after the commencement of the suit. The appellee could not make his case by proving words spoken after he began his suit, nor did he attempt to do so. The proof establishes the speaking of the slanderous words, before and after the commencement of the suit. It is competent to prove a repetition of the words after the beginning of a suit for slander, and such repetition may be considered by the jury upon the question of malice and in aggravation of damages. Stowell v. Beagle, 79 111. 525.
+The following instruction asked by the appellant was refused:
+If you believe from the evidence that the plaintiff did take door screens off the house of the defendant, and that the defendant was compelled to send for them and take them back, and if you believe from the evidence that the words spoken by the defendant were with reference to the taking of such screens, and that the said facts were explained at the time of the speaking of such words, so that the persons present could understand that the allusion was made to the taking of such screens, and that such circumstances did not show the plaintiff to be guilty of larceny, then the defendant was not guilty of charging the plaintiff with larceny in the sense of making him liable in an action of slander for the speaking of actionable words.
+One who has lost property by either theft or trespass may, no doubt, in good faith and without malice, recite the facts and circumstances connected with such loss—though the guilt of another is thereby indicated—without subjecting himself to an action for slander, if he expresses no opinion and makes or intimates no charge as to the guilt of the other. In the case at bar there was evidence that the appellant, when reciting the facts concerning the screens, denounced the appellee as a “ thief ” and stated in express terms that he had stolen the screens. If he did so he could not be allowed to insist that only the details of the transaction as given by him should be considered, and that it should not be deemed that he imputed to the appellee the crime of larceny—though he did so in direct and explicit words—unless the facts and circumstances as stated by him were sufficient to establish, or at least induce in the minds of the hearers the belief that the appellee was in fact guilty. That the direct and unequivocal charge of guilt was made, and the taker of the screens denounced as a thief, can not be omitted from consideration.
+There was proof of such charge and denunciation. The instruction wholly ignores this evidence and this view of the law, and was properly refused.
+A new trial was asked-because of newly discovered testimony. It seems, from the affidavits in support of this motion, that the appellee, prior to the trial of the slander suit, caused the appellant to be arrested and tried for an alleged assault, said to have been committed on the appellee at the time of the speaking of words about the taking of the screens.
+At the trial of the appellant upon this charge of assault and battery, four of the witnesses who testified for the appellee in the slander suit, were witnesses, and gave testimony as to the same occurrence and conversation. The appellee insists that these witnesses, when testifying before the justice of the peace in the assault and battery case, did not state that the appellant called the appellee a thief, or charge that he had stolen his screens, as they did when testifying in the trial of the slander suit; that, in short, said witnesses changed their testimony, greatly to his surprise. In support of this appellant presented his affidavit and an affidavit of E. W. Braudica, who acted as his attorney before the justice.
+The appellant was present at both trials and heard the witnesses testify on both occasions. It does not appear that he made the slightest effort to reproduce the testimony of these witnesses given before the justice, or that any questions were even propounded to the witnesses, or either of them, in the Circuit Court, as to their testimony upon the previous trial. Eo foundation was laid for the introduction of evidence as to their statements. The appellant could not thus sit silent and take the chances of a favorable verdict and reserve the right to demand another hearing if defeated.
+The evidence, if heard, would not be conclusive or decisive, but merely cumulative, and not sufficient to warrant the vacation of the verdict and granting a new trial.
+"We do not regard the damages as excessive. The jury were warranted in believing that the appellant charged the appellee with a theft anil denounced him as a thief, not only upon an occasion when he was angry, but also upon a subsequent time when he was not moved by the impulse of passion. The judgment must be and is affirmed.
