@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-08-04"
+citations: ["50 Ill. App. 415"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marr v. Ray."]
+source_url: "https://static.case.law/ill-app/50/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5121277
+cites_cases: ["1 Scam. 209", "14 Brad. 181", "24 Ill. 278", "3 Wend. 220", "37 Ill. App. 552", "4 Brad. 575", "65 Ill. 395", "75 N. Y. 205", "78 Ill. 124", "89 Ill. 543", "91 Ill. 523"]
+---
+
+# Marr v. Ray
+
+## Majority (Shepard, J.)
+
+Opinion op the Coubt,
+Shepard, J.
+This was a proceeding in distress for rent. The appellant had been the tenant of appellee, of premises consisting of a store, basement underneath, and flat above the store, under a written lease expiring May 1, 1890, at a certain rental.
+On April 15,'1890, a verbal agreement was made for a lease of the store alone, to the appellant, for the term of one year from the first of May following, at a certain rental, and for the surrender of the basement and the flat.
+Under that agreement the appellant continued to occupy the store but not the other premises, and paid rent for a time.
+There was some conflict in the evidence as to what amount of rent was agreed to be paid for the store under the verbal contract, but the finding of the jury has settled that as a mere fact.
+Two things must necessarily concur in order to sustain proceedings in distress: one, the relation of landlord and tenant, and the other, rent due. The rent must also be fixed and certain when the distress is made. Hatfield v. Fullerton, 24 Ill. 278; Johnson v. Prussing, 4 Brad. 575.
+On the trial, evidence was heard upon what the amount of rent was that was agreed to be paid, and also upon what was the reasonable rental value of the premises; but, at last, the court instructed the jury to disregard all the evidence which had been admitted tending to show the reasonable rental value of the premises, and it is evident that the verdict was for the amount of rent fixed by the verbal contract.
+It is contended that such instruction was error; that the contract being within the statute of frauds, because not in writing, none of its terms were binding upon the parties, and that the rent could only be determined on the basis of the quantum meruit; and, therefore, not being certain, distress can not be maintained.
+It was decided by Lord Kenyon, a hundred years ago, in the case of Doe v. Bell, 5 Durnford and East, 471, that, “ though the agreement be void by the statute of frauds as to the duration of the lease, it must regulate the terms on which the tenancy subsists in other respects, as to the rent, the time of the year when the tenant is to quit, etc.” In that case there was a lease for seven years by parol, and an agreement that the tenant should enter at Lady-day and quit at Candlemas. Lord Kenyon further said: “ How, in this case, it was agreed that the defendant should quit at Candlemas; and though the agreement is void as to the number of years for which the defendant was to hold, if the lessor choose to determine the tenancy before the expiration of the seven years, he can only put an end to it at Candlemas.”
+In 1 Greenleaf's Cruise on Real Property, p. 246 (Title IX, Chap. 1, Sec. 21), it is said: “ Where an agreement for a longer term than three years is made by parol, which is void, as to the duration of the term, by the statute of frauds, there is a tenancy from year to year, regulated in every other respect by the agreement.”
+The decision in Doe v. Bell has been followed in every case where it has been considered, from that time to the present so far as we have been able to find.
+In Laughran v. Smith, 75 N. Y. 205, it is said: “ Although a parol lease for more than a year is void, yet it has long been settled that when the tenant enters, and occupies, the agreement regulates the terms on which the tenancy subsists, in all respects except as to the duration of the term.”
+In a case in this court, where a tenant in possession made a new lease, not in writing, for a term within the statute of frauds, it was held that while such agreement would be void as to the duration of time, it would govern as to the amount and time of payment of rent. Field v. Herrick, 14 Brad. 181.
+Again, in another case, this court has held that although a verbal agreement for a lease for three years was void, under the statute of frauds, the lessees having taken possession under such void agreement, were, so long as they remained in possession, governed by its terms as to amount of rent and time for its payment, and not as to duration of the term. Donohue v. Chicago Bank Note Company, 37 Ill. App. 552.
+Appellant relies upon Warner v. Hale, 65 Ill. 395, as settling the question, for this State, that the lease being within the statute of frauds the rent must be estimated upon the basis of the quantum meruit, and that the contract being void, its terms could not be resorted to for any purpose.
+In Little v. Martin, 3 Wend. 220, it was held that the relation of landlord and tenant might be “ as well proved by showing an entry under a void contract as under a valid one.” And in Whitney v. Cochran, 1 Scam. 209, it was held that “ parol evidence of the (verbal and voidable) contract to establish the relation of landlord and tenant,” should have been admitted.
+In Warner v. Hale, two persons, as partners in business, entered into the possession of premises under a lease that was voidable because of being within the statute of frauds, at a stipulated rent payable monthly, and paid the rent, as it accrued, up to the time when the partnership ended, and one of the partners then abandoned the premises without giving notice to the lessor, the other partner continuing in occupancy.
+It was there held, that although part performance of the voidable contract did not take the case out of the operation of the statute, the lease being void by force of the statute, yet that, possession of the premises having been taken, and rent having' been paid, under it, the partners became tenants from month to month, and neither one could withdraw and escape liability for the rent without giving notice to the lessor, as in cases of tenancy from month to month, and that both partners were liable for all rent which they might be found to be in arrears. Wheeler v. Frankenthal, 78 Ill. 124; Creighton v. Sanders, 89 Ill. 543; Brownell v. Welch, 91 Ill. 523.
+What is there said as to the basis of estimating the value of the rent, being the quantum meruit, we are unable from the statement of the case to appreciate the full force of. It does not appear what the basis of recovery was in the case, nor can we understand with any certainty on what ground the judgment there was reversed. We do not, therefore, interpret the decision as going to the extent of holding that the quantum meruit was the only basis for estimating the rental value. That question does not appear to have been before the court.
+Hot understanding that Warner v. Hale decides anything contrary to what seems to be the general rule, that an agreement relating to an interest in lands, though voidable by the statute as to the duration of the term, will regulate the character in which occupancy is held, and the amount of rent to be paid, our conclusion is that the judgment below ought to stand.
+We do not think appellant can successfully raise the question of a lack of agency being established in reference to the making of the verbal lease. He continued in occupancy under that agreement and paid rent for a time. He can not now deny the right of the lessor to any remedy that may be open to her in consequence of his occupancy, notwithstanding the lease itself is void as to duration. So far as appellee is concerned, she ratified the act under which appellant occupied the premises, by instituting this proceeding. Moreover he originally entered into possession of the premises under a written lease from appellee, and, probably, because of that he would be estopped from denying the title of his landlord, the appellee.
+The judgment of the Circuit Court will be affirmed.
