@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-05-04"
+citations: ["88 Ill. App. 485"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eugene P. Palmer v. Meriden Britannia Co."]
+source_url: "https://static.case.law/ill-app/88/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5276823
+cites_cases: ["150 Mass. 426", "157 Ill. 57", "167 Ill. 57", "41 Ill. 18", "42 Minn. 414", "43 Ill. 502", "69 Ill. 440"]
+---
+
+# Palmer v. Meriden Britannia Co.
+
+## Majority (Mr. Justice Freeman)
+
+Mr. Justice Freeman
+delivered the opinion of the court.
+It is contended by appellant’s counsel, the evidence shows the contract has not been fully complied with by appellee; that full performance is a condition precedent, and failing such condition, appellee is not entitled to recover, because it is claimed there has been no waiver by appellant either in law or in fact, and no substantial performance by appellee; that there is no equitable ground for recovery, and the judgment is erroneous in any event, in that it makes no allowance to appellant for the defects.
+The lease provides for payment by appellant of $5,000, “if the said lessee shall have duly fulfilled all its covenants and agreements herein contained, and if the said building to be erected as aforesaid, and maintained or renewed as aforesaid, shall remain on such ground in the condition above stipulated for.”. That there has been a compliance by appellee with the more important and material covenants of the lease, seems to be beyond dispute. There has been, it is claimed, a want of complete fulfillment in some respects, but the fact remains that appellee has constructed a building of the kind and character called for by the contract, costing more than the stipulated price, which remains upon the premises. Appellant received the agreed rent for ten years, amounting to more than $100,000. Of the building appellant is in possession.
+By the lease appellee, “if it shall have performed all its covenants herein contained,” was entitled, to preference over all other parties at the end of the term if it de'sired a new lease. Two years before the expiration of its term, at the instance of appellant, who knew of the deviations from the contract now complained of, it released this option, and the release was accepted in writing. The premises were immediately rented by appellant to a third party for five years from the expiration of appellee’s term at a largely increased rental. This was, we think, an acceptance of the building, notwithstanding the alleged omissions or defects, such as precludes appellant from now insisting that said omissions were substantial departures from the contract.
+The alleged deviations from the strict requirements of the lease in regard to the building were in some details relating to construction; omitting to complete the basement floor with Portland cement, and to plaster certain walls and ceilings at or before a stipulated time. There is also a dispute as to whether appellee’s failure to construct the building without center columns is justified under the terms of the contract by adequate proof that the use of such columns would have entailed an extra cost exceeding fifteen hundred dollars. If it be true that appellant has suffered injury because the lessee has not “ duly fulfilled all its covenants and agreements ” in these respects, compensation could have been sought in damages.' There is no difficulty apparent in estimating such damage. The expense of supplying such defects can not be difficult to ascertain.
+It is not disputed that appellant has received and enjoys substantial benefit from the erection and maintenance of the building. It would be manifestly unjust to hold, unless it was clear that such was the intention of the parties, that a strict compliance with every letter of the contract in comparatively less important particulars, is an essential condition precedent to the payment promised by the lessor for the building. The latter possesses by far the greater part of the consideration, upon the receipt of which the promise was to take effect. As was said in Nelson v. Oren, 41 Ill. 18 (23), “ that would seem to be the .most important part of the contract; and where a covenant goes only to a part of the consideration on both sides, and a breach of such covenant may be paid for in damages, it is an independent covenant, and an action may be maintained for breach of the covenant on the part of the defendant, without averring performance in the declaration.” See also, Leeds v. Little, 42 Minn. 414 (419); White v. Gilman, 43 Ill. 502; Prairie Farmer Co. v. Taylor, 69 Ill. 440; Keeler v. Herr, 167 Ill. 57.
+The evidence tends to show not only a substantial performance by appellee, but an acceptance of the benefit of such performance by appellant with full knowledge that the conditions in controversy were not in all respects literally complied with. Appellant knew of the omission of the center columns, and that some of the other work had not been done. He had a right no doubt to maintain his claim for any damages suffered in consequence of defective performance. But he can not avoid liability under his covenant to pay for the building. Wiley v. Athol, 150 Mass. 426 (435), and cases there cited.
+Ho evidence was offered to show what, if any, damages appellant claims to have suffered by reason of the alleged failure to comply with every condition of the lease. It is difficult to see, therefore, wherein the trial court erred in making no allowance for damages in the absence of such evidence.
+The declaration is in assumpsit and sets out the contract in haeo verba. Interest was properly allowed. Keeler v. Herr, 157 Ill. 57.
+The judgment of the Circuit Court must be affirmed.
