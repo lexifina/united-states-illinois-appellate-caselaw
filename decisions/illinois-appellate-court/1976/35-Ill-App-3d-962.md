@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-305"
+decided: "1976-02-24"
+citations: ["35 Ill. App. 3d 962"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re CONSERVATORSHIP OF ROSE A. BROWNE, Incompetent.—(STEWART R. WINSTEIN, Public Conservator for the County of Rock Island, Petitioner-Appellant, v. BESTOR F. WITTER, Conservator of the Person and Estate of Rose A. Browne, Incompetent, Respondent-Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/35/cases/0962-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5305814
+cites_cases: ["11 Ill. 2d 122", "142 N.E.2d 58", "2 L. Ed. 2d 257", "256 N.E.2d 766", "27 L. Ed. 2d 87", "355 U.S. 271", "400 U.S. 850", "44 Ill. 2d 525", "78 S. Ct. 330", "91 S. Ct. 50"]
+---
+
+# In re Conservatorship of Browne
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court;
+This is an appeal from the judgment of the circuit court of Rock Island County denying the petition of petitioner-appellant, Stewart R. Win-stein, Public Conservator for Rock Island County. Petitioner prayed for the removal of respondent-appellee, Bestor F, Witter, as conservator of the estate of Rose A. Browne, for an accounting and for appointment of Stewart R. Winstein as conservator of the estate. .
+On January 24, 1975, respondent-appellee Bestor F. Witter filed a petition praying he be appointed conservator of the person and. of the estate of Rose A. Browne. He stated he was Rose Browne’s attorney and alleged she was incapable of handling herself or her business affairs. The petition listed three persons as Rose Browne’s closest blood relatives: Jessie L. Miller, sister, of Hannibal, Missouri; Mary Elizabeth Crawford, niece, of Girard, Illinois; and Donna M. Campbell, niece, of Kansas City, Missouri. Summons was served on Rose Browne on January 24, 1975, setting the date of the hearing for 10:40 am. on January 30, 1975. On January 24, 1975, Rose Browne’s three relatives were notified by regular mail of the petition and hearing. On January 30, 1975, the hearing was held. No one was there to represent the interest of Rose Browne. Only Bestór F. Witter was present. No medical testimony was given. Attached to .the petition were the statements of two doctors. One read “I feel that Rose A. Browne’s best interests can be served by her attorney with a conservatorship.” The other read “I feel that it would be to Rose Browne [sic] best interests to appoint Bestor F. Witter her conservator.” After the hearing Bestor F. Witter was appointed conservator.
+On May 14, 1975, Stewart Winstein; the public conservator of Rock Island County, filed a petition for citation to remove conservator and for appointment of conservator. Oñ June 5, 1975, a hearing was held on this petition. Evidence was presented that on June 4, 1975, Mary E. Crawford, Rose Browne’s niece, filed a letter written to the probate clerk requesting no change be made in conservatorship. On June 5, 1975, Rose Browne’s sister and other niece filed a written request with the court requesting Bestor F. Witter continue to act as conservator. Evidence was also presented that at the January 30 hearing on the petition for appointment of conservator no medical testimony was given and no guardian ad litem was appointed.
+Petitioner-appellant raises several reasons why Bestor F. Witter should be removed as conservator and why he, the public conservator, should be appointed in Witter’s place. Due to the view we take of this case we will not deal with these arguments. The parties’ main dispute concerns who should be appointed conservator. Although they have not directly raised the sufficiency of the evidence to support the finding of incompetency, this court in reviewing the record is unable to overlook the lack of such evidence and the trial court’s failure to require such evidence. As stated above, the petition of Bestor Witter alleges Rose Browne was incapable of handling herself or her business affairs. The two statements of the doctors making bare allegations regarding Rose Browne’s best interest were attached to Witters petition. There is no showing that any evidence was presented at the hearing on January 30, 1975, to prove Rose Browne was incompetent. The only so-called evidence was the petitioner’s conclusion Rose Browne was not capable of handling her business affairs and the unsubstantiated statements of the two doctors to the effect that it was in Rose Browne’s best interest to have a conservator appointed. No reasons were given for such conclusions. The crux of the statutory definition of incompetency is that the person be incapable of managing his person or his estate. (Ill. Rev. Stat. 1973, ch. 3, par. 112.) The test applied in determining judicially whether a conservator should be appointed is whether the person is capable of managing his own affairs. (Macdonald v. La Salle National Bank, 11 Ill. 2d 122, 142 N.E.2d 58, appeal dismissed, 355 U.S. 271, 2 L. Ed. 2d 257, 78 S. Ct. 330, and In re Estate of Stevenson, 44 Ill. 2d 525, 256 N.E.2d 766, cert. denied, 400 U.S. 850, 27 L. Ed. 2d 87, 91 S. Ct. 50.) It suffices here to hold such test is not met by mere allegations and conclusions.
+Nothing we have said in this opinion should preclude new petitions by all interested parties from being filed and considered by the Probate Division of the circuit court of Rock Island County.
+For the foregoing reasons the judgment of the circuit court of Rock Island County is reversed and remanded with directions the trial court enter an order vacating the order which adjudicated Rose A. Browne incompetent and appointed Bestor F. Witter as the conservator of her person and estate.
+Reversed and remanded with directions.
+ALLOY and BARRY, JJ., concur.
