@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-02-25"
+citations: ["69 Ill. App. 432"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Wabash Railroad Co. v. William Randol."]
+source_url: "https://static.case.law/ill-app/69/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5200871
+cites_cases: ["33 Ill. 293", "47 Ill, 206", "60 Ill. 295", "97 Ill. 253"]
+---
+
+# Wabash Railroad v. Randol
+
+## Majority (Mr. Justice Wall)
+
+Mr. Justice Wall
+delivered the opinion of the Court.
+This is an appeal from a judgment for damages by reason of stock killed, the negligence alleged being a failure to maintain a sufficient fence along the right of way, as required by the statute. The stock killed consisted of three-horses and two hogs. The defendant claimed the hogs did not get on the track by reason of the defective fence. It, is not certain the verdict included an allowance for them,, inasmuch as the amount awarded is entirely within the range of proof as to the value of the horses.
+As to these it was insisted below, and is here, that though they got on the track through a defective fence, yet the defendant was not responsible, because the fence was built by the plaintiff and defendant had no knowledge it was defective.
+It was testified by the plaintiff that some seven years before, the defendant had no fence along the right of way at that point, and being the owner of the adjoining land he built this fence for the purpose of enclosing his garden, and built it on his own ground, some two or three feet from the-outside line of the right of way, he having previously, without avail, requested the defendant to fence. Afterward the-defendant did build, a five-wire fence along the right of way north and south of the plaintiff, and joined to his fence,, which remained the only barrier between him and the right of way at that point. It was an ordinary picket fence, suitable for a garden. Later, he moved his residence to a different part of his land, provided another garden, and took away the inner fence of the old garden, thereby throwing that piece of ground into the field. His horses being in this field passed through a gap in the fence (which fell or was pushed down, the posts having become rotten) to the right of way and were struck by a train which soon afterward went over the road.
+There is substantially no denial of the facts as thus stated by the plaintiff. It was the duty of the defendant to build and maintain a fence along its right of way at that point suitable and sufficient to prevent horses, etc., from going on the track. It did not do so, but joined a fence it built at other points to this fence of the plaintiff, which was on his own land. By doing so it adopted and appropriated his fence, and should have been careful to see that it was, and continued to be, sufficient for the purpose. Failing herein it should be responsible precisely as if it had built the fence. It can not be said with reason that the plaintiff assumed the defendant’s duty of building and maintaining such a fence as the law requires. He built a fence on his own land, for his own purposes, and because he made no objection when the defendant joined it, he did not thereby release defendant from its duty in that behalf.
+The cases cited in the brief of appellant on this point are Ill. C. R. R. Co. v. Swearingen, 33 Ill. 293, and St. V. & T. H. R. R. Co. v. Washburn, 97 Ill. 253.
+■ In the former it was held that although the land owner built the fence as the employe of, and with materials furnished by the company, he did not thereby assume the duty of thereafter maintaining it. In the latter there was a contract between the company and the land owner by which ' .he undertook to maintain the fence for a time which had •not elapsed when the accident occurred. These cases do •not support the contention of appellant.
+It is suggested the company is not responsible unless it had reasonable time to repair the breach before the injury occurred, citing Ill. C. R. R. Co. v. Swearingen, 47 Ill, 206. When a company uses ordinary diligence to maintain a fence, and a casual breach occurs without its fault, it should have a reasonable time within which to repair, as ruled in dhe case cited, and other cases since decided to the same effect. Here, however, the fence was not in good repair and evidently had not been for some time. The section foreman, a witness introduced by defendant, says it was not in very good condition and so do other witnesses. Manifestly it was not; for the posts were so rotten that three panels went down at once. Due care on the part of the defendant’s employes Avould have led them to strengthen it in time to prevent this accident.
+The case of C., B. & Q. R. R. v. Seirer, 60 Ill. 295, cited in the brief, is hardly in point.
+There the plaintiff had, of his own motion, repaired a breach in the railroad fence, but did it insufficiently, though it looked well enough. He kneAV it was not sufficient. The company knew nothing of this, and under the circumstances it was held he could not recover, because he had voluntarily assumed to make the repair without notice to the company of the breach, and knew he had not done it properly.
+That case is unlike this. Here the plaintiff had not misled the company by assuming to repair and not doing it Avell. He bad at most only neglected to see whether the fence was sufficient. As it was the duty of the company to make a fence there, and as it had adopted and appropriated this fence, it was bound to use due care to keep it good. He had the right to rely upon this and to act accordingly.
+It is urged the court erred in permitting proof of the value of the fees of the plaintiff’s attorney, because the declaration made no demand for an alloAvance on that account. Assuming it is necessary to so demand in the declaration, the objection must be overruled, because it comes too late. Such a point should be made specifically when the evidence is offered, so that, if well taken, it may be obviated by amendment. Ho other, objections are urged and the judgment will be affirmed.
