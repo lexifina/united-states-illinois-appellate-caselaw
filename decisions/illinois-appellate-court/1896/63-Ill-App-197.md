@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1896-03-07"
-citations: ["63 Ill. App. 197", "63 Ill. App. 152"]
+citations: ["63 Ill. App. 197"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Metropolitan Accident Association v. Jubal Harrison Clifton."]
 source_url: "https://static.case.law/ill-app/63/cases/0197-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5167907
-cites_cases: ["125 Ill. 361", "149 Ill. 619", "20 Ill. App. 431", "20 Ill. App. 450", "25 Ill. 466", "71 Ill. 620", "93 Ill. 271"]
+cites_cases: ["125 Ill. 361", "149 Ill. 619", "71 Ill. 620"]
 ---
 
 # Metropolitan Accident Ass'n v. Clifton
