@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "70-112"
+decided: "1972-06-13"
+citations: ["5 Ill. App. 3d 523"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Melvin Keil, Plaintiff-Appellant, v. Kathleen McCormick, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/5/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2529409
+cites_cases: ["105 Ill.App.2d 233", "11 Ill.App.2d 346", "170 Ill. 508", "279 Ill.App. 410", "338 Ill.App. 337", "37 Ill.App.2d 327", "41 Ill.2d 236", "44 Ill.App.2d 430", "6 Ill.App.2d 115", "71 Ill.App.2d 254", "87 Ill.App.2d 60", "87 Ill.App.2d 88"]
+---
+
+# Keil v. McCormick
+
+## Majority (Mr. JUSTICE JOHN S. PAGE)
+
+OPINION ON REHEARING
+Mr. JUSTICE JOHN S. PAGE
+delivered the opinion of the court:
+This is an appeal from an order of the Circuit Court of Du Page County denying plaintiff a new trial on the issue of damages only or, in the alternative, on all issues.
+By his complaint plaintiff-appellant sought to recover for property damage to his automobile and for personal injuries to himself, including medical expenses for physiotherapy treatments two years after the accident. Defendant filed an answer generally denying all allegations of the complaint, but, upon the trial of the cause and at the close of her case, she filed an amended answer in which she admitted she was negligent in the operation of her automobile and her negligence was the proximate cause of damage to plaintiff’s automobile to the extent of $253.50. Defendant denied “the plaintiff was injured as a proximate cause (sic) of defendant’s negligence.”
+On August 6, 1966, in Lombard, Illinois, plaintiff, an insurance claims manager and part time law student, was at the wheel of his car which was stopped facing south on Elizabeth Street at a “four way stop” intersection with Maple Street. The defendant had stopped her car facing west on Maple Street at the intersection; saw the plaintiff’s car, and made a wide right turn to go north on Elizabeth Street. She crossed the centerline of Elizabeth Street while watching a friend on a motorcycle in her rear view mirror and struck the plaintiff’s stationary car at the driver’s door on the left side at a speed of 5 to 10 miles an hour. She was proceeding in first gear in her standard transmission automobile and the impact was her first knowledge of the occurrence.
+The evidence showed that plaintiff weighed approximately 250 pounds, was 6 feet 2 inches tall, age 35; that he was seated in a stationary car with his seat belt snugly fitted across his hips and thighs at the time of the collision; that his 8 year old son was seated beside him; his son called “Look out!”; that he turned his head to the left when the defendant’s car was 4 or 5 feet away; that when the impact occurred it rocked plaintiff's car; that he was not sure if his head hit anything, but that something “popped” in his neck and it “cracked, like you crack your hands together loud”; that the defendant was a high school girl and her front seat passengers were girls aged 10 and 12. Defendant’s passengers did not testify or appear at the trial.
+Plaintiff presented bills for hospital care, physiotherapy, x-rays, medication and physicians’ services totaling $3,480.88.
+The jury returned a verdict for plaintiff in the sum of $253.50.
+On appeal, appellant first claims prejudicial error in defendant’s counset’s opening statement to the jury and subsequent testimony by the defendant on that point.
+In his opening statement, defendant’s counsel informed the jury that the evidence would show there had been no injury to the defendant, to the two occupants of her car, nor to the plaintiff’s son, an occupant of his car.
+Plaintiff’s counsel objected to this statement and a conference was held in chambers where the trial judge directed both counsel to present authorities.
+The trial court ruled that if testimony of the bare fact of injury to others is admissible, then testimony of the bare fact of non-injury to other occupants of the colliding cars is also admissible and directed counsel not to go into anything further than whether or not they were injured.
+Defendant, on direct examination by her counsel and in answer to specific questions, testified that neither she nor her passengers were “injured at all in any fashion.”
+Neither party then, nor on this appeal, presented any authority bearing directly on the question of the admissibility of evidence that other occupants of colliding vehicles were not injured as against an allegedly injured plaintiff-occupant.
+However, there are Illinois cases in which evidence of injury to persons other than parties was admitted and sustained on appeal; (West Chic. St. R. R. Co. v. Kennelly (1897), 170 Ill. 508, (as part of the res gestae, describing the manner in which injuries were received and the difficulty of detailing the manner in which an injury was received without at the same time disclosing the others); (Budek v. City of Chicago (1935), 279 Ill.App. 410), (as explaining the failure to produce four deceased witnesses); (Redmond v. Huppertz (1966), 71 Ill.App.2d 254, 258), (as a recitation of what eye witnesses saw as a car jumped the curb and struck various pedestrians before hitting plaintiff. “They did not testify as to the nature or the severity of the injuries suffered by any of the other persons struck by defendant’s car. * * * Injury or death of others in the same accident is an incident of the accident, * * * and is admissible as part of the res gestae,”); (Woodrick v. Smith Gas Service, Inc. (1967), 87 Ill.App.2d 88, 93, 94), (where fellow passengers of plaintiff testified to the details of the accident and that they had been injured. “They did not detail their injuries. * # * We are not confronted with a situation where the witness presented great detail about her injury. That would not be admissible because it was not an issue in the case and could conceivably inflame the jury. # # * Since no details were furnished there was no error in admitting the testimony.”) (Emphasis added.)
+We agree with the appellant that the opening statement and subsequent testimony constituted error by bringing in incompetent testimony. The issue involved was the injury to the plaintiff not the fact the defendant and her passengers, in a different automobile, were not injured.
+As stated in Vujovich v. Chicago Transit Authority (1955), 6 Ill.App.2d 115, at page 118,
+“Plaintiffs contention upon this appeal, if followed to its ultimate conclusion, that she is entitled to show the condition of the other passengers involved in the accident as indicating the severity of the collision and tending to support plaintiff’s claim that she sustained her alleged injuries, would open the door to proof of the physical condition of each of the other passengers. By the same token, if defendant was allowed to dispute the injuries claimed by the other passengers, it would result in trying collateral issues, involving other passengers, and virtually trying a number of cases in the instant case. Obviously, such collateral matters are incompetent and should not be permitted in evidence before the jury.”
+‘Where error is shown to exist, it will compel reversal unless the record affirmatively shows that the error was not prejudicial.” (Phillips v. Lawrence (1967), 87 Ill.App.2d 60, 64.) In our opinion the record shows affirmatively that the evidence of no injuries to others was not prejudicial to plaintiff in this case.
+Appellant also contends that the verdict on the issue of plaintiff’s personal injury was against the manifest weight of the evidence. We do not agree. While plaintiff presented medical testimony as to his injuries, defendant presented the testimony of a neurologist who examined the plaintiff at the request of plaintiffs physician three months after the accident and found absolutely nothing wrong with him. Moreover the doctor’s testimony as to occurrences during his examination of the plaintiff could easily have raised the question of the legitimacy of plaintiffs claims in the minds of the jury. See Jeffrey v. Chicago Transit Authority (1962), 37 Ill.App.2d 327; Flynn v. Vancil (1968), 41 Ill.2d 236.
+We do not consider appellant’s other arguments alleging error in an instruction to the jury and error in statements of the defense counsel during closing argument. Neither of these alleged errors has properly been preserved for review by specifying in the post trial motion the grounds for error in the form of instruction and the statements of counsel in the matter of the closing argument. Ill. Rev. Stat. 1969, ch. 110, par. 68.1(2). Clifford v. Schaefer (1969), 105 Ill.App.2d 233, 247; Foster v.
+Union Starch & Refining Co. (1956), 11 Ill.App.2d 346; Lipscomb v. Coppage (1963), 44 Ill.App.2d 430; Pajak v. Mamsch (1949), 338 Ill.App. 337.
+The judgment is affirmed.
+Judgment affirmed.
+SEIDENFELD, P. J., and GUILD, J., concur.
