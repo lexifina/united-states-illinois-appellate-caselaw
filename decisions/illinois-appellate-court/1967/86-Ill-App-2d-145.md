@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 66-148"
+decided: "1967-08-09"
+citations: ["86 Ill. App. 2d 145"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Betty Wachowski, Plaintiff-Appellant, v. Paul Wachowski, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/86/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2550282
+cites_cases: ["105 NE2d 300", "126 NE2d 34", "242 Ill 552", "315 Ill App 270", "411 Ill 408", "42 NE2d 954", "5 Ill App2d 471", "82 Ill 584", "90 NE 192"]
+---
+
+# Wachowski v. Wachowski
+
+## Majority (MR. JUSTICE ABRAHAMSON)
+
+MR. JUSTICE ABRAHAMSON
+delivered the opinion of the court.
+This is an appeal from the Circuit Court of DuPage County wherein the court entered a decree granting the husband-defendant and countercomplainant a divorce and awarding to him custody of the parties’ four minor children.
+The plaintiff, Betty Wachowski, filed her complaint for divorce against defendant, Paul Wachowski, on April 28, 1966, alleging extreme physical cruelty. Defendant’s answer denied the acts of cruelty. In his countercomplaint, defendant alleged excessive consumption of intoxicating beverages on the part of plaintiff and alleged that she had left her bed and board on several occasions during the past two years, was frequently seen with men other than her husband and would remain away from home at night until the wee hours of the morning.
+After the decree was entered in the trial court the defendant filed a motion to amend the countercomplaint to conform to the proof and he alleged that on numerous occasions plaintiff indulged in illicit sexual relations and was guilty of adultery. Since notice of appeal had already been filed, the trial court declined to act on said motion. On application this court granted defendant’s motion to amend his countercomplaint.
+The parties were married on January 5, 1952, in Glen Ellyn, Illinois. Four children were born of the marriage, ranging in age, at the time of the trial, from four to eleven years. At the time the complaint was filed the family resided in their home in Lisle, Illinois. The testimony presented at the trial on behalf of both parties indicates that both considered their matrimonial vows as something less than sacred. It appears that from the outset of the marriage the bonds of matrimony were too binding on the plaintiff. It would serve no useful purpose to detail the testimony adduced by the parties. Suffice it to say the marriage should be dissolved.
+The substantial issues are whether the trial court erred, first, in finding the plaintiff guilty of adultery, and second, in awarding custody of the minor children to the husband. The record indicates that the plaintiff had a proclivity for frequenting taverns and consuming their spirituous ■ products and, that in the course of such activity had a tendency to seek out the companionship of men other than her husband. From the decree entered in the court below, it is apparent that the trial judge was convinced that she had engaged in adulterous conduct and that, coupled with her drinking, was sufficient reason to render her unfit to have custody of the four minor children. It also appears from the record that on numerous occasions the plaintiff without just cause absented herself from the marital home and left the obligation of caring for the children to her husband. It is apparent that the trial judge was convinced that the plaintiff had engaged in a course of adulterous conduct and that there was no likelihood that she would cease to frequent taverns and, from time to time, remain away from home overnight.
+Plaintiff is quite correct in her assertion that before a court will enter a decree based on adultery, the evidence and proof must convince the mind affirmatively that actual adultery was committed, since nothing but the carnal act can lay the foundation for a divorce on those grounds. Fowler v. Fowler, 315 Ill App 270, 42 NE2d 954. However, we are not unmindful that adultery is an act committed in secrecy and invariably the parties use every means in their power to conceal their act and to prevent discovery. In most all such cases the evidence is circumstantial and the fact of adultery must be inferred from the circumstances that naturally lead to it. The direct fact of adultery can seldom, or ever, be proved. Zimmerman v. Zimmerman, 242 Ill 552, 559, 90 NE 192; Bast v. Bast, 82 Ill 584. The testimony in the record before us leads us to the inescapable conclusion that this plaintiff is guilty of adultery.
+Plaintiff is equally correct in her assertion that there must be compelling evidence to prove that the mother is an unfit person before the court will deny her custody of her children of tender years. Nye v. Nye, 411 Ill 408, 414, 105 NE2d 300. While we realize that it is usual to place small children in the care of their mother, as we have pointed out in Wolfram v. Wolfram, 5 Ill App2d 471, 475,126 NE2d 34:
+“This is not an inflexible rule, however, since the welfare of the child is the prime consideration.”
+In the case at bar, the trial court specifically found:
+“If however we consider the many times this mother left the children, on many occasions overnight and at times for extensive periods, and if we consider the fact that the evidence indicates that she resorts to intoxicants when real or imagined problems arise, and sometimes for no reason at all; and if we consider the fact that the evidence indicates that she has a distaste and dislike for the confusing duties of a wife and mother to the point of running away from these duties on many occasions, the Court feels that the best interests of the children would be served by granting custody of them to the father.”
+In addition, the record contains ample evidence of the ability of the father to adequately care for the children.
+The plaintiff has questioned the propriety of the trial court’s failure to order the children returned to the mother pending this appeal. Since we are of the opinion that the decree of the court below should be affirmed, we will not decide the question of the effect and operation of the supersedeas bond.
+Finally, defendant and counterplaintiff has requested that this court in its decision exercise its powers under section 92(e) of the Civil Practice Act (Ill Rev Stats, c 110, par 92(e)) and under Supreme Court Rule 366(a)(5) and award title to the real estate located at 5607 Essex Street, Lisle, Illinois, to him. It appears from the record that the parties are joint tenants in two parcels of real estate and it further appears that there was considerable discussion with the trial court concerning the disposition of the interest in said property. However, some of those discussions were held off the record and absent the benefit thereof we refuse to exercise such powers and suggest that if the parties cannot reasonably adjust their property rights, then further application should be made to the trial court in this respect. In addition, the defendant and counterplaintiff failed to cross appeal this portion of the decree. Consequently, we will not consider this question.
+Judgment affirmed.
+DAVIS, P. J. and MORAN, J., concur.
