@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-03-03"
+citations: ["69 Ill. App. 192"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["St. Louis, B. & S. Ry. Co. v. Phillip M. Gundlach."]
+source_url: "https://static.case.law/ill-app/69/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5202961
+cites_cases: ["23 Ill. 336"]
+---
+
+# St. Louis, B. & S. Ry. Co. v. Gundlach
+
+## Majority (Mr. Presiding Justice Sample)
+
+Mr. Presiding Justice Sample
+delivered the opinion of the Court.
+The appellee brought suit in forcible detainer against appellant and others before a justice of the peace. A trial was had before the justice, without a jury, on the 15th day of October, 1895. After hearing the evidence and oral arguments, it was agreed the parties might file written briefs by the 19th day of October, to which day the case was continued. On this date appellant’s counsel handed the justice his written brief, with a request that the justice would let him know when he would decide the case, with which request the justice promised to comply. The justice decided the case on the 19th day of October, and entered up judgment in favor of appellee, without notice to appellant’s counsel, and of which fact he had no notice until October 25th, when calling upon said justice, he learned the fact, at which date the time for appeal had expired, to which fact the justice’s attention was called by appellant’s counsel, when the justice entered on his docket, just preceding the judgment, the following: “ October 19th. Case taken under advisement until October 24, on which day judgment was entered,” etc. On the 26th day of October appellant’s counsel applied to the justice to fix the amount of the appeal bond, which the justice refused to do, having reconsidered his act of making the entry in his docket on the 25th continuing the cause, and afterward erasing such entry.
+The appellant filed its petition for certiorari, setting up the foregoing facts as the reason for not taking the appeal within the five days, as required by law, and also setting out the fact that it had a good defense to said action, etc., and obtained the writ. The affidavit to the petition was sworn to by one Samuel Leathe, based on information and belief. In the Circuit Court a written motion was made to quash the writ, on the ground : 1, that the petition did not show sufficient cause for issuing the writ; 2, that it did not show appellant was not guilty of negligence in taking the appeal; 3, that the oath to the petition was made on information and belief. As stated in the abstract, upon an intimation from the court that the affidavit was insufficient, the petitioner asked leave to amend by filing an affidavit that the facts stated in the petition were true, and that the rental value of the premises did not exceed §200 per annum, which leave the court refused to grant, and quashed the writ; from which order this appeal was taken.
+The appellant insists it had a right, under the statute, to make the amendment, and states that is the only point in the case appealed. If this was the only point, the case would be reversed and remanded, for the petitioner, under the statute, had the right to amend the petition or affidavit, if such amendment would cure defects, and make the petition sufficient. But it is clear that the petition, with the proposed amendments, would not have been sufficient, and doubtless it was because of this fact the court refused to allow the amendments and quashed the writ.
+The justice entered final judgment on his docket on the 19th day of October, the day to which the ca.se had beén in open court continued. After that time he had no legal right or power to afterward open the judgment for the purpose of any change or modification. As is said on p. 639 of Merritt v. Yates, 73 Ill.: “We are aware of no statute or common law practice which authorizes, or in any manner sanctions, the right of justices of the peace to amend their records after they have once been made. To allow a justice to make alterations and changes in his record at will, and according to his whim, would be fraught with evil and wrong that would be oppressive. Such a power has not been intrusted to the higher courts, and cannot be exercised by these inferior jurisdictions.”
+The only remaining question necessary to be considered is, did appellant’s counsel have the right to rely on the promise of the justice that he would let the former know when he entered judgment ?
+The petition in Clifford v. Waldrop, 23 Ill. 336, set up as a cause for not taking the appeal in time, that the justice promised to let petitioner know in time for him to take an appeal if judgment was entered against him, which the justice failed to do. In effect this was held not to negative negligence. Necessarily the private promise of the justice to inform appellant’s counsel when he would enter judgment could not be binding so as to affect appellee’s rights! It was not a judicial act or arrangement. This being true, there was no fact set up in the petition negativing negligence in taking the appeal, as required by law, and therefore the writ was properly quashed, and the judgment is affirmed.
