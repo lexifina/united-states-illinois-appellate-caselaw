@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "12061"
+decided: "1975-03-20"
+citations: ["26 Ill. App. 3d 284"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Lester Gilbert, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/26/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2782598
+cites_cases: ["1 Ill.App.3d 197", "186 N.E.2d 321", "240 N.E.2d 801", "252 N.E.2d 534", "26 Ill.2d 308", "272 N.E.2d 296", "274 N.E.2d 26", "43 Ill.2d 228", "53 Ill.2d 550", "98 Ill.App.2d 352"]
+---
+
+# People v. Gilbert
+
+## Majority (Mr. JUSTICE SIMKINS)
+
+Mr. JUSTICE SIMKINS
+delivered the opinion of the court:
+Defendant-appellant Lester Gilbert was tried before a jury on the charge of burglary of the Fisher High School which occurred on February 14, 1972. He was found guilty and was sentenced to an indeterminate term of 5 to 15 years.
+Defendant first contends that the proof of his guilt was not established beyond a reasonable doubt. We find no merit to this contention. The State’s case rested primarily upon the testimony of three accomplice witnesses who testified as to their participation in the-burglary as well as that o£ the defendant. The jury was fully apprised of the fact that the charges against the accomplices had been dismissed by the People in exchange for their testimony. The jury was also aware that each of the three had earlier negotiated pleas of guilty to charges of other school burglaries, and that their agreement to.testify against Gilbert was a part of those negotiations. The credibility of the witnesses was the essential question, and this is to be resolved by the jury. (People v. Zuniga, 53 Ill.2d 550, 293'N.E.2d 595.) The record discloses that each of the three accomplices had confessed to their participation in the burglary at the time of arrest, and that each implicated the other two as well as Gilbert. Their testimony at the trial was consistent with their confessions which were made without promises of leniency. While the testimony of an accomplice is subject to careful scrutiny, it is sufficient to convict if it satisfied the trier of fact beyond a reasonable doubt. (People v. George, 49 Il.2d 372, 274 N.E.2d 26.) The evidence here was clearly sufficient to convict. No useful purpose would be served by detailing the testimony and, pursuant to Rule 23, we reject the contention that defendant’s guilt was not established beyond a reasonable doubt.
+Defendant also urges that the failure of the People to produce, in advance of trial, a summary of the testimony of the witness Thinnes requires reversal. The name of the witness was included on the list of witnesses furnished pursuant to defendant’s motion. The Peoples’ response also indicated that they knew of no statement made by defendant Gilbert. On the day preceding the testimony of the witness Thinnes the State’s attorney advised the trial judge and defense counsel that he intended to call witnesses who would testify to the fact that the defendant and two of the accomplices had burglarized four other schools within a few days following the Fisher High School burglary and that the evidence would be offered to show common scheme and design. He stated, “The other witness would be an independent witness who would state that she heard this defendant try to entice Scott Walker (one of the three accomplices in the Fisher burglary) into leaving.the party. That’s the night of February 17 — some six days later * * *." On the following day the State’s attorney again stated his intention to (call the witness Thinnes and stated in detail that her testimony, would be to the effect that during a party in her apartment she overheard the defendant Gilbert urge two of the accomplices to go with him for the purpose of robbing another school and state that they had gotten a nice haul before. Defense counsel again objected saying that these “statements” had not been revealed prior to trial. The court permitted Thinnes to testify, after denying defense counsel’s motion to interview the witness: The defendant made no motion for continuance. Her testimony was consistent with the representations made by the State’s attorney as to its content. Evidence of other offenses unrelated to the crime for which defendant is being tried is admissible to prove design, motive or knowledge. (People v. Brown, 26 Ill.2d 308, 186 N.E.2d 321.) Evidence of crimes committed subsequently to a particular offense is admissible to show a common scheme. (People v. Hill, 98 Ill.App.2d 352, 240 N.E.2d 801; People v. Allen, 1 Ill.App.3d 197, 272 N.E.2d 296.) The testimony of the witness Thinnes was properly admitted and its content was made known to defendant 24'hours prior to its admission, under these circumstances, and in view of the clear evidence of guilt, we find no reversible error;
+The defendant also argues that his sentence was excessive. The sentence is within statutory limits; the evidence indicates that defendant was the ringleader in the crime for which he was convicted and had committed this offense shortly after being paroled from a forgery conviction. We see no reason to disturb the sentence in question.
+The defendant sought to supplement-the record to include matters which were not before the trial court during the trial and post-trial proceedings. We took the motion with the case and now deny the motion.
+The judgment is affirmed.
+
+## Dissent (Mr. PRESIDING JUSTICE CRAVEN,)
+
+Mr. PRESIDING JUSTICE CRAVEN,
+dissenting:
+The finding that the trial court did not commit reversible error when it admitted the testimony of witness Thinnes is error in my view. Defendant made a motion pursuant to Supreme Court Rule 412 (Ill. Rev. Stat. 1971, ch. 110A, par. 412) requesting that defendant be informed of any written or recorded statements and the substance of any oral statements made by the accused and the fist of witnesses to whom the statement was made. This rule is unequivocal. The defendant has a right of access to all such statements.
+The State failed to comply with this motion, yet used an undisclosed statement at trial against defendant as an inculpatory admission. The error in this case was compounded by the trial court’s denial of the defense motion made at the earliest practicable time for the right to interview the witness Thinnes. By virtue of People v. Sumner, 43 Ill.2d 228, 252 N.E.2d 534, error of this nature cannot be characterized as harmless. I would reverse and remand for a new trial for failure to comply with authorized pretrial discovery.
+
+## Concurrence (Mr. JUSTICE KASSERMAN,)
+
+Mr. JUSTICE KASSERMAN,
+specially concurring:
+I agree with Mr. Justice Simkins that the conviction of the defendant should be affirmed. However, I am unable to agree that the trial court committed no error in permitting the witness Thinnes to testify over the objections of the defense and without affording defense counsel an opportunity to interview her prior to her testimony. To hold otherwise would be the equivalent of holding that the provisions of Supreme Court Rule 412 are not applicable to this cause.
+Supreme Court Rule 412 specifically provides for pretrial discovery, on proper motion, of a summary of all statements made by the defendant which are within the possession or control of the State. The failure of the State to supply the defense with a summary of the statement alleged to have been made by the defendant in the presence of the witness Thinnes, coupled with the refusal of the trial court to grant tire defense an opportunity to interview her, is contrary to the express terms of Rule 412 and constitute error.
+It is my opinion, however, that in view of the overwhelming nature of the evidence of defendant’s guilt, the failure to comply with Supreme Court Rule 412 constitutes harmless error in this cause. The proof of defendant’s guilt is clear and convincing and was sufficient to establish his guilt in the absence of the Thinnes testimony. Had the evidence been closer or had the defendant’s guilt not been established so convincingly by other competent evidence, the failure of the trial court to insist on strict compliance with Supreme Court Rule 412 would have been reversible error. Such is not the case in this cause and, as a consequence, the conviction of the defendant should be affirmed.
