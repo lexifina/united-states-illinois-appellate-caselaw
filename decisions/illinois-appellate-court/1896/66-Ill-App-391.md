@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1896-06-18"
-citations: ["66 Ill. App. 391", "66 Ill. App. 389"]
+citations: ["66 Ill. App. 391"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Frederick Rabberman v. R. B. F. Peirce, Receiver."]
 source_url: "https://static.case.law/ill-app/66/cases/0391-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5187344
-cites_cases: ["99 Ill. 136"]
 ---
 
 # Rabberman v. Peirce
