@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "3-85-0202"
+decided: "1985-11-14"
+citations: ["138 Ill. App. 3d 44"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HEIPLE, P.J., and WOMBACHER, J., concur."]
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. JEFFREY W. FOSTER, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/138/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8498516
+cites_cases: ["32 Ill. App. 3d 793", "336 N.E.2d 270", "353 N.E.2d 131", "380 N.E.2d 1213", "41 Ill. App. 3d 96", "432 N.E.2d 861", "64 Ill. App. 3d 162", "89 Ill. 2d 352"]
+---
+
+# People v. Foster
+
+## Majority (JUSTICE STOUDER)
+
+JUSTICE STOUDER
+delivered the opinion of the court:
+Following a bench trial, the defendant, Jeffrey Foster, was convicted of operating a motor vehicle at a time when his blood alcohol level was 0.10 or above. (Ill. Rev. Stat. 1983, ch. 95x/2, par. 11— 501(a)(1).) The defendant argues on appeal that: (1) he was not proved guilty beyond a reasonable doubt; (2) the trial court erred in its interpretation of the charged offense and improperly shifted the burden of proof from the State to the defendant; and (3) the breath test analysis was improperly admitted into evidence. We reverse.
+In the early morning of November 13, 1983, Delavan Police Officer Stan Williamson was dispatched to the scene of a one-car accident on Route 122. When he arrived at the location, he observed a car off the highway with its rear wheels suspended over a culvert. The defendant was seated on the passenger side and the other occupant, David Williams, was in the driver’s seat. Both men appeared to be asleep. Because Officer Williamson was outside the city of Delavan, he requested assistance from the Tazewell County sheriff’s office.
+Upon the arrival of Deputy Donald Collins and another officer, the defendant was questioned briefly by Officer Williamson. The officer observed nothing unusual about the defendant’s walk or speech, and he did not detect the odor of alcohol on the defendant’s breath. No field sobriety tests were performed by the defendant at the scene.
+According to the testimony of Deputy Collins, the defendant told him twice at the scene of the accident that he was driving the vehicle. At the police station, however, the defendant told Collins that he was not the driver. A breath analysis test indicated a blood alcohol content of 0.10%. The defendant was not charged with the instant offense until several months later because Officer Collins believed at the time that the defendant was not the driver. Collins testified that his initial arrest of the defendant was based on the following factors: the defendant admitted at the scene that he was the driver; the vehicle had been involved in a one-car accident; and, despite the defendant’s denial of drinking, the officer detected the odor of alcohol on the defendant’s breath and observed that the defendant’s eyes were dilated.
+After presenting the stipulated testimony of Officer Williamson, the testimony of Deputy Collins, and the results of the breath analysis, the State rested. The defendant did not present any evidence. The trial court found the defendant guilty of the charged offense and sentenced him to court supervision and the payment of a fine and costs. The defendant filed the instant appeal.
+The defendant initially argues on appeal that the State failed to prove that he was driving or in actual physical control of the vehicle at the time of the accident. Specifically, the defendant contends that this element of the corpus delicti was not proved by evidence independent of his admissions at the scene. We agree.
+Although the observation of the defendant in the act of driving is not an indispensable prerequisite for a conviction, the act must be established by other credible and substantial evidence, either direct or circumstantial. (People v. Toler (1975), 32 Ill. App. 3d 793, 336 N.E.2d 270.) The corpus delicti of a charged offense, however, cannot be proved by the defendant’s admission alone. There must be some independent evidence which tends to corroborate the admission of the offense. (City of Marquette Heights v. Clarkson (1978), 64 Ill. App. 3d 162, 380 N.E.2d 1213.) If there is evidence of corroborating circumstances, then both the circumstances and the defendant’s admission may be considered in determining whether the corpus delicti is sufficiently proved. People v. Willingham (1982), 89 Ill. 2d 352, 432 N.E.2d 861.
+In the instant case, no independent evidence was offered by the State to establish that the defendant was the driver of the vehicle. It was undisputed that the defendant was seated on the passenger side when Officer Williamson first approached the two sleeping occupants. The record fails to disclose the circumstances surrounding the accident and the length of time that the vehicle was stopped at its location when the officers arrived. There was, moreover, no evidence as to the ownership of the vehicle. The record before us further indicates that when the defendant at the police station later denied driving the vehicle, Deputy Collins was apparently satisfied at that point that the defendant was not the driver. Absent corroborative evidence to support the defendant’s initial admission of driving, the defendant’s contradictory statements were equivocal at best.
+In arguing that the defendant’s admission was corroborated, the State cites the following comments of the trial court:
+“*** j believe that I can conclude from the evidence that prior to the time that Officer Williamson found this vehicle with the Defendant and one other located where the (officer’s) stipulation said that they were located and the vehicle being where it was (in) reference to an accident, and then we have as part of the stipulation the Defendant stating that he was driving, which I think warrants my circumstantial conclusion that he got the vehicle where it was, when you put those together, his admission that he was driving plus what the officer finds and then the officer arresting him, I think we have got the corpus delicti here for this particular charge.”
+Rather than supporting the State’s position, these statements indicate that the court erroneously considered the location of the vehicle and the defendant’s arrest as corroborative evidence of the defendant’s admission of driving. Contrary to the trial court’s findings, these two facts clearly do not relate to or establish the defendant’s alleged act of driving the vehicle.
+While it is the province of the trier of fact to weigh the evidence to determine credibility and to decide whether the elements of the charge are proved, it is the duty of a reviewing court to reverse where the record reveals a reasonable doubt that the defendant operated a motor vehicle while under the influence of alcohol. (People v. Flores (1976), 41 Ill. App. 3d 96, 353 N.E.2d 131.) We find in the case at bar that no independent evidence was offered to corroborate the defendant’s initial admission of driving. As a result, this element of the corpus delicti was not proved beyond a reasonable doubt. In light of the foregoing discussion, we need not address the defendant’s remaining issues.
+Accordingly, the judgment of the circuit court of Tazewell County is reversed;
+Reversed.
+HEIPLE, P.J., and WOMBACHER, J., concur.
