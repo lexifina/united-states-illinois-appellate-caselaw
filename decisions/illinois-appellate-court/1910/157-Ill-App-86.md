@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1910-08-05"
+citations: ["157 Ill. App. 86"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ralph Gordon, Appellee, v. P. H. Murphy, Appellant."]
+source_url: "https://static.case.law/ill-app/157/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2709928
+cites_cases: ["114 Ill. App. 374", "227 Ill. 246", "57 Ill. App. 56"]
+---
+
+# Gordon v. Murphy
+
+## Majority (Mr. Justice Shirley)
+
+Mr. Justice Shirley
+delivered the opinion of the court.
+This is an appeal from a judgment of $2,000 recovered by appellee against appellant.
+The amended declaration contained five counts. The court on its own motion took the first two counts out of the case by an instruction to the jury to disregard them and the cause was submitted on the third, fourth and fifth counts.
+Appellee’s injuries were caused by getting his hand caught between the upper and lower dies of a machine he was operating, by means of which he suffered the loss of his thumb and two fingers of the right hand.
+It was charged in the third count of the declaration that appellee was employed by appellant as a laborer; that it was the duty of appellant to furnish reasonably safe appliances, and a reasonably safe place to work; that it negligently had a machine which was dangerous and difficult to operate, and which required an experienced person to manage it. The breach of duty alleged is that appellant took appellee away from his work well knowing he had no knowledge of, or experience with the machine and without instructing him ordered him to use it, and to use his hand in its operation, which was a dangerous and unsafe method unknown to appellee, and well known to be unsafe by appellant.
+The fourth count is substantially the same, except the breach of duty alleged aside from a failure to give appellee instructions, was a negligent order to run the machine faster, and that in attempting to do so he was injured.
+The fifth count avers a failure to give appellee instructions in operating the machine by means whereof and while attempting to perform the service he was injured.
+Appellant was engaged in the business of making roofs for cars, and in its manufacturing plant it had different machines designed to make the different parts or pieces of the roofs." Among the several pieces so made was one called a cap piece or corner cap. It was made of galvanized iron which had been cut by another machine to the size of six inches square; they were then pressed into the desired shape by the machine complained of in thé declaration. This machine had been recently placed in the plant, and while it operated in such way that if not used with care it was dangerous, yet it was very simple in its operation and- all its parts were in plain view. It had two dies, between which the corner pieces were pressed, the lower die was stationary, the upper one was moved up and down, the down stroke pressing the piece into shape, and was operated and controlled by a pedal. When the upper die was raised it was caught by a clutch and held until released by placing the foot upon the pedal. The manner of operating it was also simple. The operator standing before the machine would have a pile of the unpressed pieces at his right hand. With his hand he would place a piece upon the lower die, press the pedal with his foot and the upper die would descend, press the piece and then raise. The piece would then be taken out and the operation repeated. The upper die was operated entirely with the foot and the only danger was in pressing the pedal when the hand was between the dies. The operator would have to watch the operation of the pedal with care so as not to press it at the wrong time. This did not require any particular knowledge, but simply a knowledge of how to operate the pedal when the hand was not between the dies. This appellee in operating the machine well knew. He had operated it in the usual way for three days and had pressed some 4000 pieces. He was fully cognizant of the dangers of operating the machine, and the only instruction his employer could have given him was not to press the pedal when his hand was exposed, but as the result of pressing it was as well known to him as he admits,'as to his employer, any instruction given him would have added nothing to his knowledge of the dangers, and if so, the failure to instruct was not, and could not be, the proximate cause of the injury. Jones v. Roberts, 57 Ill. App. 56; Ward v. Daniels, 114 Ill. App. 374. When the danger is obvious and is fully known to the servant he assumes the risk as one of the ordinary incidents of the service. Ward v. Daniels, supra.
+It is alleged in the third count that the master ordered appellee to use his hand to place the caps between the dies,— and he testified that on the second day he was using a stick to get the pieces out of the die, after they were pressed, and he was told by the foreman to throw away the stick as he could not get the pieces out with the stick fast enough, and he further says he could not get them out as fast with the stick as with the hand. In the fourth count it is. averred the foreman negligently ordered him to run faster, and that in obedience to the command he had his hand caught.
+The evidence does not relieve appellee from the assumption of risk in obeying the alleged negligent order of the foreman to use his hand instead of the stick, with the knowledge he had of the dangers already adverted to.
+• There is an exception to the doctrine of assumed risk when a servant is ordered by the master to do certain work attended with, danger of which he is not fully cognizant, and he relies upon the order as an assurance that he may safely perform the task. It is only when the servant has been misled by the order that the exception exists. Republic Iron Co. v. Lee, 227 Ill. 246.
+The same reasoning applies to the alleged negligent order to get the work out faster; besides it is clear from the testimony of appellee that such order had no connection with the injury. The accident happened twenty or thirty minutes after the alleged order and so far as the testimony shows the injury was not attributable to the order.
+There is some evidence tending to show the upper die would descend at times without pressing the pedal but there is no count in the declaration which such evidence supports. A defective condition of the machine was averred in the first count which the court sua, sponte instructed the jury to disregard.
+It is true there are no cross errors assigned and while there is no sufficient evidence to support the counts of the declaration upon which the cause was tried, we are of opinion it should be reversed and remanded and it is done accordingly.
+Reversed and remanded.
