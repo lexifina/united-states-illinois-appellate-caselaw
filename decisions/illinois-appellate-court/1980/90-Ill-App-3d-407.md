@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-1231"
+decided: "1980-11-12"
+citations: ["90 Ill. App. 3d 407"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. GEORGE HANSEN, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/90/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3160391
+cites_cases: ["19 Ill. App. 3d 757", "280 N.E.2d 764", "288 N.E.2d 376", "312 N.E.2d 789", "367 U.S. 643", "370 N.E.2d 1111", "386 U.S. 18", "393 N.E.2d 563", "4 Ill. App. 3d 249", "407 N.E.2d 871", "52 Ill. 2d 544", "55 Ill. App. 3d 379", "74 Ill. App. 3d 893", "85 Ill. App. 3d 1056"]
+---
+
+# People v. Hansen
+
+## Majority (Mr. JUSTICE RIZZI)
+
+Mr. JUSTICE RIZZI
+delivered the opinion of the court:
+Defendant, George Hansen, was convicted of murder (Ill. Rev. Stat. 1973, ch. 38, pars. 9 — 1(a)(1), (a)(2)) in a jury trial and received a sentence of 14 years to 14 years and a day. On appeal, defendant contends that (1) the court erred in admitting a revolver in evidence because it was seized as part of an unconstitutional search of his home; (2) he was not proved guilty of murder beyond a reasonable doubt, and the evidence at most establishes voluntary manslaughter; and (3) the prosecutor committed reversible error in his closing argument. We affirm.
+On August 3,1974, four teenage boys met at a park near defendant’s home in Chicago. One of them had karate sticks. As they proceeded to walk through an alley nearby, a confrontation occurred between defendant and the four boys. According to one of the boys, defendant entered the alley with a knife and a cement trowel and said, “Come on there is four of yous.” As he approached, the boys turned and left the alley.
+The boys then proceeded to return to the park, taking a route which led past defendant’s house. Defendant emerged from his house, stood on his front porch, and fired four shots at the boys with a handgun. Three of the boys fled, but the fourth boy was hit by a bullet and later died as a result of the wound.
+The police arrived at the scene shortly after the occurrence. Defendant came out of his house onto the porch, where he was placed under arrest and was then led back inside the house. The police conducted a search of the house without defendant’s permission, and they found a revolver in the kitchen which was at the back of the house. Defendant testified that the revolver had been in a closed kitchen drawer. However, one of the police officers testified that the revolver was lying on the kitchen floor when he found it.
+Defendant filed a motion to suppress the items seized from his house, including the revolver. The motion was denied, and the revolver was placed in evidence. Defendant argues that the revolver should not have been admitted in evidence because the search of his house exceeded the scope of permissible warrantless searches (Ill. Rev. Stat. 1973, ch. 38, par. 108 — 1) and constituted a violation of his constitutional rights. See Mapp v. Ohio (1961), 367 U.S. 643, 655, 6 L. Ed. 2d 1081, 1090, 81 S. Ct. 1684, 1691-92.
+We agree with defendant that the search violated his constitutional rights and that the motion to suppress should have been granted. However, even a constitutional error may constitute harmless error, and in the setting of a particular case, the constitutional error may not require the reversal of a conviction. (Chapman v. California (1967), 386 U.S. 18, 22,17 L. Ed. 2d 705, 709-10, 87 S. Ct. 824, 827.) The admission of illegally obtained evidence in a criminal trial following the erroneous denial of a motion to suppress is subject to this harmless error principle. (People v. Clark (1977), 55 Ill. App. 3d 379, 386, 370 N.E.2d 1111, 1116.) The test is whether the error was harmless beyond a reasonable doubt. (Chapman, 386 U.S. 18,17 L. Ed. 2d 705, 710-11, 87 S. Ct. 824, 828; People v. Collins (1980), 85 Ill. App. 3d 1056, 1060, 407 N.E.2d 871, 875.) The focus of this inquiry should be on the character and quality of the illegally obtained evidence as it relates to other evidence on the same issue, and the possible impact of the tainted evidence on the jury. People v. Black (1972), 52 Ill. 2d 544, 555, 288 N.E.2d 376, 383.
+Here, it is uncontroverted that defendant came out of his house and shot at four youths in the street, fatally wounding one of them. Thus, the admission of the revolver in evidence was not a factor in identifying defendant as the offender, and the possible impact of the revolver on the jury is inconsequential. Accordingly, we conclude that the admission of the revolver in evidence constitutes harmless error and does not require a reversal of the conviction.
+Defendant next argues that the evidence shows he acted in self-defense and in defense of his dwelling, and that while his actions may have been unreasonable, they establish at most that he was guilty of voluntary manslaughter. A person commits voluntary manslaughter if, in taking another’s life, he believes that he is in imminent danger of losing his own life or suffering great bodily harm, but his belief is unreasonable. (People v. Brown (1974), 19 Ill. App. 3d 757, 764, 312 N.E.2d 789, 795; see Ill. Rev. Stat. 1973, ch. 38, par. 9 — 2(b).) It is defendant’s state of mind at the time of the incident which is the critical element. People v. Johnson (1972), 4 Ill. App. 3d 249, 251, 280 N.E.2d 764, 766.
+In the present case, several witnesses testified that defendant came out on his porch and fired at the four boys in the street. Defendant argues that even if the victim was shot in the street, this goes to the reasonableness of his actions and only serves to establish voluntary manslaughter, not murder. He points to the evidence which shows that four boys approached his house, at least one of them carried karate sticks, and a confrontation had taken place in the alley shortly before the incident. In addition, defendant previously had trouble with the victim. Defendant also points out that at the time of his arrest, he stated that one of the boys was trying to burglarize his house through the front door. However, we do not believe that defendant’s arguments are sufficient to establish that he was not proved guilty beyond a reasonable doubt. We conclude that the evidence supports the jury’s determination that defendant was guilty of murder.
+The final argument presented by defendant is that the prosecutor committed reversible error by making improper remarks during his closing argument. Since no objection was made at trial, the error, if any, was waived. People v. Bach (1979), 74 Ill. App. 3d 893, 897, 393 N.E.2d 563, 567.
+Accordingly, the judgment is affirmed.
+Affirmed.
+McNAMARA and SIMON, JJ., concur.
