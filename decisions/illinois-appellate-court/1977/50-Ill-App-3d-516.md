@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-879"
+decided: "1977-06-28"
+citations: ["50 Ill. App. 3d 516"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ROBERT A. ANDERSON, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/50/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5642922
+cites_cases: ["1975 Ill. Laws 2701", "312 N.E.2d 263", "338 N.E.2d 168", "359 N.E.2d 475", "429 U.S. 813", "50 L. Ed. 2d 72", "52 L. Ed. 2d 172", "57 Ill. 2d 285", "61 Ill. 2d 583", "66 Ill. 2d 7", "97 S. Ct. 52"]
+---
+
+# People v. Anderson
+
+## Majority (Mr. JUSTICE STAMOS)
+
+Mr. JUSTICE STAMOS
+delivered the opinion of the court:
+Defendant, Robert A. Anderson, was convicted of driving a motor vehicle on an expressway while his driver’s license was revoked. (Ill. Rev. Stat. 1975, ch. 95½, par. 6 — 303(a).) He was sentenced to 7 days’ incarceration and assessed costs in the sum of *57. Defendant, on appeal, contends (1) that the statute which resulted in the revocation of his driver’s license is unconstitutional because it did not permit a hearing prior to revocation (Ill. Rev. Stat. 1975, ch. 95½, par. 6 — 206(a)(3)); and (2) that the trial court arbitrarily refused to consider probation as an alternative sentence.
+The facts are not in dispute. On March 30, 1976, the State police stopped a vehicle being driven on a highway by defendant because a vehicle light was defective. When defendant could not produce a valid driver’s license, a check disclosed defendant’s license had been previously revoked. The trial court found defendant guilty of driving while his license was revoked. It would appear that the vehicle light had been repaired and defendant was found not guilty of this charge.
+Section 6 — 303(a) of the Illinois Vehicle Code provides:
+“Any person who drives a motor vehicle on any highway of this State at a time when his drivers license * * is revoked * * * shall be guilty of a Class A misdemeanor and shall be imprisoned for not less than 7 days.” (Ill. Rev. Stat. 1975, ch. 95½, par. 6— 303(a).)
+When the trial court considered the sentence to be imposed, it interpreted this statute to preclude imposition of a probationary sentence. Rather, the court expressed the view that the minimum sentence which could be imposed was 7 days’ incarceration, and the court concluded that it did not have discretion in the matter. At a subsequent hearing conducted on the day notice of appeal was filed, the court stated that it would not grant probation in any regard to a person convicted of violating section 6— 303(a).
+Defendant’s initial contention was not presented to the trial court and is raised for the first time on appeal. He argues that the prior revocation of his license was conducted in accord with a statutory procedure which has been declared unconstitutional. Defendant has filed a motion in this court, with an exhibit not introduced at trial, purporting to show that defendant’s license was revoked in 1973 by the Secretary of State because of repeated traffic offense convictions. While the State has objected to the procedure utilized by defendant and there may be questions which could be raised to the propriety of defendant’s action in this regard, resolution of such questions is not dispositive of this appeal.
+The defendant’s license revocation was apparently predicated upon section 6 — 206(a)(3) of the Illinois Vehicle Code, which in pertinent part states:
+“(a) The Secretary of State is authorized to suspend or revoke the license or permit of any person without preliminary hearing upon a showing by his records or other sufficient evidence that such person:
+<* # #
+(3) Has been repeatedly * * * convicted of offenses against laws and ordinances regulating the movement of traffic, to a degree which indicates * * * disrespect for the traffic laws * * (Emphasis added.) Ill. Rev. Stat. 1973, ch. 95½, par. 6 — 206(a)(3).
+On January 20, 1976, a three-judge Federal district court, in an unpublished memorandum opinion, declared that the procedure outlined in section 6 — 206(a) (3) was violative of procedural due process of law because it did not provide the affected party with notice or an adequate opportunity to be heard prior to the license revocation. (Love v. Howlett (N.D. Ill.), No. 75 C1821, prob. juris, noted, 429 U.S. 813, 50 L. Ed. 2d 72, 97 S. Ct. 52.) After review of Illinois’ procedure for license revocation under section 6 — 206(a)(3), the United State Supreme Court reversed the Federal district court, stating that “the public interests present under the circumstances of this case are sufficiently visible and weighty for the State to make its summary initial decision effective without a predecision administrative hearing.” (Dixon v. Love (1977),_U.S._,_, 52 L. Ed. 2d 172, 97 S. Ct. 1723.) Defendant’s contention is therefore without merit.
+Defendant also argues the trial court arbitrarily denied his request to consider probation as an alternative sentence to the term of incarceration imposed. Neither the defendant nor the State has cited controlling authority construing the penalty provisions of section 6 — 303(a). In an opinion of the Attorney General, which is not binding on this court (People v. Savaiano (1976), 66 Ill. 2d 7, 16, 359 N.E.2d 475), the statute was construed as not precluding imposition of a sentence other than incarceration. This opinion concluded that a violation of section 6 — 303(a) was to be treated as an ordinary Class A misdemeanor; however, if a term of incarceration was imposed, that period could not be less than 7 days. 1974 Ill. Att’y Gen. Op. 331.
+It is the cardinal rule of statutory construction to give effect to the legislature’s intent. (People v. Wallace (1974), 57 Ill. 2d 285, 289, 312 N.E.2d 263.) Section 5 — 5—3(d)(1) of the Unified Code of Corrections (Ill. Rev. Stat. 1975, ch. 38, par. 1005 — 5—3(d)(1)) provides that a defendant who is convicted of a felony or misdemeanor may be sentenced to probation with the exceptions of offenses therein enumerated. We note that Public Act 79-877 (1975 Ill. Laws 2701, 2703) imposed a mandatory one-day period of incarceration as a sentence for violation of certain subsections pertaining to the unlawful use of a weapon (Ill. Rev. Stat. 1975, ch. 38, par. 24 — 1(b).) Section 5 — 5—3(d)(1) of the Unified Code of Corrections was modified to reflect this mandatory term of incarceration. However, no corresponding modification of section 5 — 5—3(d)(1) was made to limit the possibility of probation for driving a vehicle after a defendant’s driver’s license had been revoked. We therefore conclude that the legislature intended to permit the imposition of a probationary sentence for a violation of section 6 — 303(a) of the Illinois Vehicle Code, and we hold that probation is a proper sentencing alternative for violation of this statute.
+The trial court’s refusal to consider a probationary sentence and its subsequent statement that it would never consider probation for a defendant who drove a motor vehicle after revocation of his driver’s license contravene People v. Bolyard (1975), 61 Ill. 2d 583, 338 N.E.2d 168. We therefore affirm defendant’s conviction and vacate the sentence imposed. The cause is remanded for resentencing by a judge other than the trial judge.
+Affirmed in part and remanded.
+DOWNING, P. J., and PERLIN, J., concur.
