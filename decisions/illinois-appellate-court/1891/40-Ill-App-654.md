@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-06-02"
+citations: ["40 Ill. App. 654"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago & North-Western Railway Company v. Theophile Des Lauriers, Administrator."]
+source_url: "https://static.case.law/ill-app/40/cases/0654-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5024100
+cites_cases: ["100 Ill. 52", "23 N. E. Rep. 419", "25 Ill. App. 305", "96 Ill. 214"]
+---
+
+# Chicago & North-Western Railway Co. v. Des Lauriers
+
+## Majority (Waterman, J.)
+
+Waterman, J.
+We do not think that it can be said that there was any direct negligence upon the part of the parents of the deceased. The utmost that can be said in this regard, as to them, is, that they permitted Willie to go upon the street in the charge of Louis, who was nineteen years old.
+Mor do we think that it appears that Louis was negligent; he left Willie in charge of Alida, a girl from ten to eleven years of age. The ordinary sister of that age is entirely capable of taking care of and protecting from harm a child of three; and the motherly instincts of little girls ten years old, usually endow them with both the thoughtfulness and courage to look out for babes committed to their charge.
+The question of whether, where there are parents living, in an action brought by the personal representative of the deceased, the negligence of a brother or sister may be imputed to the child so as to prevent a recovery, has never, so far as we are aware, been directly passed upon in this State. This question is not discussed in appellant’s brief, and in reference to it we only feel called upon to say that if the negligence of a suitable person in whose care an infant has been placed is, in an action brought by the personal representative, to be considered as the negligence of the parent, then such negligence is one of the facts to be considered and passed upon by the jury.
+Prior to the decision in Chicago City Ry. Co. v. Wilcox, 23 N. E. Rep. 419, in which, for the first time, it was announced that in this State, in an action brought by a child, the negligence of the parent is not to be imputed to the child, it had frequently been held that where the parents, are chargeable with negligence contributing to the death of the child, such negligence may be taken into consideration in determining the right of recovery in an action brought under the statute, which declares that “ whenever the death of a person shall be caused by wrongful act, neglect or default, and the act, neglect or default is such as would, if death had not ensued, have entitled the party injured to maintain an action and recover damages in respect thereof, then the person or company which would have been liable if death had not ensued, shall be liable to an action for damages,” etc.; and we must, notwithstanding the decision in Chicago City Ry. Co. v. Wilcox, regard it as the rule in this State, that in actions brought under the statute from which we have quoted, the negligence, if any, of the parents, is a matter for consideration; but the comparative negligence of the parents and the defendant is a matter to be passed upon by the jury, and if that of the parents is slight and that of the defendant gross in comparison therewith, a recovery may be had.
+It is urged that in this case the negligence of appellant in running its trains at a rate of speed prohibited by the city ordinances had nothing to do with the accident. The jury have found otherwise, and we do not find anything in this record which requires us to set aside such finding. If the trains were racing and making an unusual noise, as a number of witnesses testify, it is apparent that such an extraordinary spectacle would attract the notice of persons in the street, and quite likely direct their attention from the things under their immediate care; nor are we able to say that if the train had been run in compliance with the ordinance, at a rate of speed not exceeding six miles an hour, the little one might not have passed safely over, ere the engine arrived at the crossing.
+The jury rendered a verdict for $3,750, of which sum the plaintiff, to prevent the granting of a new trial, remitted the sum of $1,750 and judgment for $2,000 was entered. This, it is said, was a substitution of the verdict of the judge for that of the jury, and thus not only deprived the defendant of its right to a trial by jury, but is a clear indication that in the opinion of the trial judge the verdict was the result of passion or prejudice.
+Our Supreme Court has sanctioned the practice of permitting juries in this class of cases to arrive at a verdict from their general knowledge and experience, and without evidence of any kind as to the damages actually sustained. ¡No such evidence was given in this case.
+Where juries are left to estimate damages, not from evidence, but from their varying observation and opinions founded thereon, it is not to be wondered at that their verdicts should differ as widely as have the circumstances by which they have been surrounded. There are, doubtless, many parents who could truthfully affirm that, however poignant their sorrow, the death of a child of three could not be considered a pecuniary loss to its parents; many other parents think very differently. The trial judge in this ease did not agree with the jury in this regard; but in the entire absence of evidence upon the question, how can it he said that the verdict of the jury was the result, not of their honest convictions, but of passion or prejudice?
+The practice of permitting such remttitur and rendering judgment upon the verdict so reduced has the sanction of the Supreme Court in North Chicago St. Railroad v. Louis, 96 Ill. 214, and Union Rolling Mill Co. v. Gillen, 100 Ill. 52; and of this court in Conrad Seipp Brewing Co. v. Doudy, 25 Ill. App. 305.
+The judgment of the court will therefore he affirmed.
+Judgment affirmed.
