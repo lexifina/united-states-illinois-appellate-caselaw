@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 53,518"
+decided: "1970-01-28"
+citations: ["120 Ill. App. 2d 39"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Charles Jeffries, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/120/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1583495
+cites_cases: ["111 Ill App2d 18", "117 Ill App2d 34", "213 NE2d 521", "219 NE2d 151", "223 NE2d 548", "231 NE2d 647", "249 NE2d 673", "254 NE2d 81", "34 Ill2d 41", "73 Ill App2d 168", "79 Ill App2d 348", "87 Ill App2d 390"]
+---
+
+# People v. Jeffries
+
+## Majority (MR. JUSTICE DRUCKER)
+
+MR. JUSTICE DRUCKER
+delivered the opinion fef the court.
+Defendant, Charles Jeffries, appeals from his conviction for battery. Defendant and two other men, Jerry Lewis and Edward Ross, were charged with battery and after a bench trial the defendant and Lewis were found guilty and sentenced to serve four months in the House of Correction. Ross was discharged. On Appeal defendant contends that he was not proven guilty beyond a reasonable doubt and that his sentence was arbitrary and excessive.
+The complainant, Robert Lunde, testified that on the morning of October 18, 1968, he was being held in the Boys Court lockup with thirty-five or forty other men. As he sat on a bench in the lockup cell a person accosted him, who was not one of the instant defendants. This person demanded that he move so that he might lie down. At the same time a second man approached him and began leaning on him calling him a “smart punk.” Someone yelled out and then he was hit in the nose by Jerry Lewis. He identified Lewis by his orange slacks and facial appearance. Several other men then joined in the attack, striking him about the body. He identified one of these men as Charles Jeffries, the defendant. He also identified Edward Ross as one of his assailants but stated that he was not certain concerning this identification.
+In his own behalf defendant testified that he had approached the complainant and asked him to move over but that he was just joking; that he was not involved in striking complainant, as he was in the washroom during the fight. However, Lewis testified that defendant asked the complainant to move over and that defendant was still seated next to the complainant when the fight began. A court bailiff testified that he saw Ross sleeping when he entered the lockup to give the men some food at about the time when the trouble began.
+Lewis and Jeffries were found guilty. Ross was discharged. The trial judge found that:
+[I]n his (the complainant, Robert Lunde) testimony, right from the beginning, he identified Jerry Lewis by the color of his trousers and then upon further interrogation he identified him — he says he recognized him not only by the trousers but by his face.
+According to Mr. Lewis’s testimony he admitted the fact that he was close to him with Mr. Jeffries. With Mr. Ross there was a hesitation on his part; however, he did state that he wasn’t sure, not sure. That’s why I discharged the young man and, also, based on the testimony of the bailiff in this Court.
+However, Mr. Jeffries, he did state that Mr. Jeffries did strike him. And in the testimony — Mr. Jeffries, also, in his own testimony, admitted the fact that he was close to Mr. Lewis and to the complaining witness.
+Defendant contends that he was not proven guilty beyond a reasonable doubt. Although the evidence is conflicting, there is evidence showing that the defendant asked the complainant to move over in a joking manner; that he was close to the complainant; that he was still sitting next to. the complainant when the fight began and was not in the washroom; and that he struck the complainant about the body. Where the evidence is merely conflicting it is the function of the trial court to determine the credibility of the witnesses and the weight to be accorded their testimony. We will not substitute our judgment for that of the trier of the facts. People v. Scott, 34 Ill2d 41, 213 NE2d 521; People v. Larry, 111 Ill App2d 18, 249 NE2d 673; and People v. Johnson, 87 Ill App2d 390, 231 NE2d 647.
+Furthermore, defendant claims that since both his identification and that of Ross, who was discharged, related to the same incident, a reasonable doubt would exist as to his guilt. However, Edward Ross’ alibi evidence, that he was sleeping throughout the fight, was supported by a disinterested witness, the bailiff in charge of the lockup, Jeffries’ alibi evidence that he was in the washroom during the fight conflicted with other testimony and was not corroborated by any other testimony. Jerry Lewis testified that Jeffries was still sitting next to the complainant when the fight began and Jeffries himself stated that he was close to both Lewis and the complainant. The judge believed the alibi of Ross but not that of Jeffries, and we will not substitute our judgment for his on the matter of credibility of the witnesses. We find that, if believed, as it was, the record contains more than enough evidence to establish the guilt of defendant beyond a reasonable doubt. See People v. Williams and Steele, 117 Ill App2d 34, 254 NE2d 81.
+The defendant also contends that his sentence of four months in the House of Correction was arbitrary and excessive. He argues that it should be reduced pursuant to Supreme Court Rule 615 (Ill Rev Stats 1967, c 110A, § 615(b) (4)). A person convicted of battery may be imprisoned in a penal institution other than the penitentiary not to exceed six months or fined up to $500 or both (Ill Rev Stats 1967, c 38, § 12-3 (b)).
+During the hearing in aggravation and mitigation the evidence showed that defendant was nineteen years old and that he resided with his mother whom he helped to support by working forty hours a week as a press operator. He was also attending classes at the Central Y.M.C.A. He had never been convicted of any offense prior to this judgment. He had one prior arrest for disorderly conduct but was discharged. The trial judge found that Jerry Lewis (who had not been employed for four weeks) was “the aggressor, the one that created all the provocation.”
+Yet both Lewis and Jeffries received the same sentence. The case was tried immediately after the incident occurred and defendant’s counsel did not request probation.
+While this court is fully aware that the attack upon the complaining witness took place in the lockup of a courtroom and that this conduct cannot be condoned, nevertheless we believe that a youth with defendant’s background can best be rehabilitated and society better served if he were given the opportunity to show that he is eligible for probation. As stated in People v. Smice, 79 Ill App2d 348, 353, 223 NE2d 548:
+. . . [Probationary surveillance is itself an authorized mode of mild and ambulatory punishment intended as a reforming discipline. It is intended to be a means to restore offenders who are good probationary risks to society and to afford the unfortunate another opportunity by clemency. (People v. Nordstrom, 73 Ill App2d 168, 175, 219 NE2d 151 (1966).) The following expression in People v. Evrard, supra, at page 276, is appropriate relative to the circumstances of this case:
+“If this defendant is of prior good record it may well be that probation would be adequate punishment and would best effect his rehabilitation. Sections 117-1 and 117-2 (Ill Rev Stats 1963, ch 38 Sections 117-1, 117-2), provide for probation in proper cases and the basic rules of conduct to which a probationer must conform.”
+We affirm the judgment finding the defendant guilty but reverse the order sentencing him to four months in the House of Correction and remand with directions to the court to procure an investigation and report from the probation officer and thereupon consider placing defendant on probation. If, in the opinion of the court, the facts thus presented do not warrant probation, the court may then resentence defendant.
+Judgment affirmed and cause remanded with directions.
+ENGLISH and LEIGHTON, JJ., concur.
+Ill Rev Stats 1967, c 38, § 12-3 (a):
+A person commits battery if he intentionally or knowingly without legal justification and by any means, (1) causes bodily harm to an individual or
+(2) makes physical contact of an insulting or-provoking nature with an individual.
+He was also discharged on the disorderly conduct charge for which he was awaiting trial on the day of the incident.
