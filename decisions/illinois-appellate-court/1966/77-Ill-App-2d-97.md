@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,741"
+decided: "1966-11-18"
+citations: ["77 Ill. App. 2d 97"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert L. Nicholson, Plaintiff-Appellant, v. Martin Lowenstein, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/77/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2570674
+cites_cases: ["11 Ill2d 447", "143 NE2d 235", "209 NE2d 838", "212 NE2d 526", "318 Ill App 68", "47 NE2d 496", "61 Ill App2d 404", "65 Ill App2d 305"]
+---
+
+# Nicholson v. Lowenstein
+
+## Majority (MR. JUSTICE McCORMICK)
+
+MR. JUSTICE McCORMICK
+delivered the opinion of the court.
+This is an appeal from an order entered in the Circuit Court of Cook County which denied and dismissed plaintiff’s petition to vacate the judgment order and satisfaction of the same entered on July 5,1962.
+On March 29, 1961, the plaintiff filed a suit against the defendant alleging that the defendant was employed by the plaintiff as a practical nurse and attendant for the plaintiff’s father who was over 83 years old and who suffered from a complication of diseases because of which he required diet and medication at specific times. It is alleged that the defendant failed to follow instructions given him as to the diet, medication and care, and as a result the father of plaintiff died from a heart attack.
+The attorney for the plaintiff at the time of the filing of the suit was M. G. Kaufman. The defendant, through his attorney, Lawrence W. Harris, filed an appearance and answer on April 5, 1961, denying the allegations set out in the plaintiff’s complaint. Later, on May 19, 1962, without withdrawing his answer, the defendant’s attorney filed a motion to dismiss the suit. On March 8, 1962, the case was dismissed for want of prosecution. On March 12, 1962, the dismissal for want of prosecution was set aside. On June 10, 1962, the cause was again dismissed for want of prosecution; on June 22, 1962, the order of dismissal was set aside, and on July 5, 1962, on motion of Kaufman (plaintiff’s attorney), the court set the cause for hearing on the same date. On that date the court entered the following order:
+“And now this cause coming on for hearing upon the non-jury call, the defendant Martin Lowenstein attending in response to the trial call upon trial and consideration the court finds the issues for the plaintiff Robert Nicholson against defendant Martin Lowenstein and assesses damages in the sum of $200: Wherefore it is ordered plaintiff recover $200 and costs.
+“Further finds that the same has been paid in open court wherefore it is ordered that the same be and it is satisfied in open court being now paid.”
+The order was signed by the trial judge and also contained the notation “OK. M. G. Kaufman, Martin R. Lowenstein.”
+On February 5, 1965, the plaintiff, having engaged his present attorney, filed a petition to vacate the judgment and satisfaction. In that petition it was alleged that the judgment and satisfaction were void inasmuch as there was a motion to strike the complaint and dismiss the cause of action in the record. It was further alleged that the judgment and satisfaction are void in that there was no testimony offered by either party; that they are void in that no money was paid to plaintiff or to plaintiff’s attorney in open court, nor at any other time or place, to satisfy the judgment. The plaintiff further alleged that he has newly discovered evidence of two letters written by his father, complaining of the treatment he received from the defendant, and plaintiff alleged that he “was induced not to appear in court on the date of entry of judgment”; that plaintiff was not guilty of negligence or want of diligence in allowing the judgment to be entered; that “his attorney advised him to stay out of court on the date the judgment was entered”; and that fourteen months after the entry of the judgment the plaintiff found the letters set out in the petition.
+The plaintiff also filed an affidavit dated March 18, 1965, in which M. G. Kaufman stated:
+“. . . that as such he was attorney for the Plaintiff in the above entitled cause on the 5th day of July, 1962, when judgment therein was recovered for the Plaintiff, ROBERT L. NICHOLSON and against the Defendant, MARTIN LOWENSTEIN in the sum of Two Hundred Dollars ($200.00) and costs, that said judgment was satisfied in open Court.
+“FURTHER, Affiant sayeth that as attorney for said Plaintiff, Affiant never received payment of the Two Hundred Dollars ($200.00) and costs, or any other sum whatsoever from the Defendant, MARTIN LOWENSTEIN.”
+The court held hearings on the petition on February 5, March 19, and April 30, 1965; at the March 19 hearing counsel for the plaintiff stated he had an affidavit from Mr. Kaufman which he had obtained “to obviate the necessity of dragging Mr. Kaufman in and taking his time.” At this hearing the defendant appeared in person, represented by no attorney. The court continued the matter until April 30, 1965, to permit the defendant to get an attorney, and at that hearing the defendant was represented by an attorney from the Legal Aid Bureau. The court asked, “Where is Kaufman?” and counsel replied that he was not available. The court then said, “Kaufman was the one who presented the order. You were going to get Kaufman in here.” Counsel stated that he did not understand that the court wanted Kaufman to come into court, and the court again stated that Kaufman should be brought into court. After some further discussion with reference to Kaufman, counsel for the plaintiff said, “I have no quarrel as to Kaufman.” On May 3, 1965, the court entered an order denying plaintiff’s petition, and it is from this order that the plaintiff takes this appeal.
+The plaintiff here alleges that the judgment entered in his favor in the trial court was void. It is, of course, the law that a void judgment is subject to attack at any time. [Cherin v. The R. & C. Co., 11 Ill2d 447, 143 NE2d 235, together with cases therein cited.] However, in the instant case the judgment was entered in the trial court at a time when the plaintiff was represented by counsel and the defendant was in court in person. As we have pointed out, the judgment order was okayed by the defendant in person and by the plaintiff through his attorney. Where a judgment is entered in that form it is not a void judgment.
+Since we hold it is not void, any other attack upon the judgment which the plaintiff could be considered to have made under his petition must be treated as falling within the provisions of section 72 of the Civil Practice Act (Ill Rev Stats 1963, c 110, § 72). Section 72 provides that a petition brought under that Act must be filed within two years, and failure to file a petition within that time requires its dismissal. Antczak v. Antczak, 61 Ill App2d 404, 209 NE2d 838. The plaintiff’s petition was filed more than two years after the judgment and satisfaction complained of were entered in the trial court. The trial court properly dismissed the petition.
+We adopt the statement made in Zaidenberg v. Occidental Life Ins. Co., 65 Ill App2d 305, 212 NE2d 526, as applicable to the instant case:
+“The appellee filed no brief nor appearance. Under such a circumstance we could have, in accordance with the prayer of the appellants, reversed the judgment of the Circuit Court. [Citing cases.] However, in those cases the court did examine the record. In the instant case we have examined the record and the appellants’ brief, and we have determined that in order to do substantial justice the order of the trial court should be affirmed. Barton v. Barton, 318 Ill App 68, 47 NE2d 496; 2 ILP 560.”
+The order of the Circuit Court of Cook County is affirmed.
+Affirmed.
+DRUCKER, P. J. and ENGLISH, J., concur.
