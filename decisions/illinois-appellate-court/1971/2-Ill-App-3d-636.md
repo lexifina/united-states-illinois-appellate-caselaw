@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "70-79"
+decided: "1971-12-16"
+citations: ["2 Ill. App. 3d 636"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Arthur Jones, Jr., Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/2/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2754874
+cites_cases: ["211 N.E.2d 673", "224 N.E.2d 634", "228 N.E.2d 548", "243 N.E.2d 225", "268 N.E.2d 58", "33 Ill.2d 417", "41 Ill.2d 364", "79 Ill.App.2d 273"]
+---
+
+# People v. Jones
+
+## Majority (Mr. JUSTICE SCOTT)
+
+Mr. JUSTICE SCOTT
+delivered the opinion of the court:
+Defendant was found guilty after trial without a jury of the crime of rape and was sentenced to a term of not less than forty years nor more than sixty years in the state penitentiary. The only question raised on appeal is whether or not the sentence was excessive.
+After trial and before sentencing hearing was had in mitigation, no testimony being offered by the State in aggravation. The abstract fails to disclose that defendant had any prior arrests or convictions.
+Defendant presented two witnesses at the hearing in mitigation, his sister and a woman who lived with him for three and a half years who testified she was defendant’s common-law wife. They were living separate and apart at the time of the incident herein. Their testimony was meager and consisted in substance of nothing more than the fact that defendant underwent a change after the death of his brother some five months prior to the date the crime was committed. The common-law wife testified that after the incident he drank excessively and would forget what he did during these periods of intoxication. She also testified that he sustained a head injury and her testimony in a very general way suggested periods of amnesia. None of the testimony offered by the defendant in mitigation is of particular help to this court, nor could it have assisted the lower court in reaching a decision. The abstract fails to disclose that the defendant was either intoxicated or did not know what he was doing when the act was perpetrated. Counsel has omitted certain testimony from the abstract stating throughout that the same was not relevant to the matter on appeal. Ihis court must accept the conclusions of counsel.
+The facts indicate defendant was forty years old and the complaining witness was eleven years of age. The record further shows that defendant was apprehended while committing the crime and penetration was observed by one of the officers. The facts clearly illustrate that the child resisted and the act was forcible and while physical injuries to the child were not of a severe nature, as counsel for defendant points out, it must be remembered that the defendant was apprehended while perpetrating the crime, thus possibly avoiding critical or more serious injuries.
+Defendant’s theory is predicated on the proposition that the sentence imposed defeats the objective of rehabilitation.
+In People v. Poff, (Ill.App.2d), 268 N.E.2d 58, we noted this court’s power to reduce sentence, such authority being specifically granted in Supreme Court Rule 615(b)(4), Ill. Rev. Stat. 110A, Par. 615(b)(4).
+The punishment imposed in this particular case was within the limits prescribed by the legislature, rape being punishable by imprisonment for an indeterminate term of years with a minimum of not less than four years. Ill. Rev. Stat. 1967, ch. 38, par. 11 — 1(c).
+In People v. Taylor, 33 Ill.2d 417, 211 N.E.2d 673, the Supreme Court held that where it is contended that punishment imposed in a particular case is excessive “this court should not disturb the sentence unless it clearly appears that the penalty constitutes a great departure from the fundamental law and its spirit and purpose, or that the penalty is manifestly in excess of the proscription * * * of the Illinois constitution * * The court further went on to note that the power to reduce sentences imposed by trial courts where circumstances warrant “should be applied with considerable caution and circumspection, for the trial judge ordinarily has a superior opportunity in the course of the trial and the hearing in aggravation and mitigation to make a sound determination concerning the punishment to be imposed than do the appellate tribunals.”
+In People v. Nelson, 41 Ill.2d 364, 243 N.E.2d 225, the Supreme Court stated, “The burden of presenting mitigating circumstances in a record falls upon a defendant and it is he who must make a substantial showing in order to justify a reduction of sentence on review.” The court then noted the guide lines laid out in People v. Taylor, supra, and stated:
+“This court has consistently approved the foregoing guide lines where the reduction of sentence by virtue of the rule and its antecedent statute has been directly raised.”
+The court then noted:
+“Obviously, in following the Taylor guide lines, the possibility of rehabilitation of a defendant is one of the factors which a trial judge should take into consideration. However, it does not follow that the trial judge must categorically have the record recite the rehabilitation potential’ of a defendant before him for sentencing.”
+In the Nelson case the statute respecting hearings on mitigation and aggravation provides:
+“For the purpose of determining sentence to be imposed, the court shall, after conviction, consider the evidence, if any, received upon the trial and shall also hear and receive evidence, if any, as to the moral character, life, family, occupation and criminal record of the offender and may consider such evidence in aggravation or mitigation of the offense.” Ill. Rev. Stat. 1965, Chap. 38, Par. 1 — 7(g).
+As the Supreme Court noted in People v. Nelson, supra, the phrase “if any” contemplates the possibility of a waiver of hearing in mitigation by the defendant. Also, it connotates the necessity of the defendant producing evidence in mitigation. The evidence offered by defendant in this case constituted nothing further than an effort to excuse his conduct on the basis of intoxication. As noted in People v. Nelson, supra, the burden of presenting mitigating circumstances in the record falls upon the defendant and it is he who must make a substantial showing in order to justify a reduction of sentence on review. There was no substantial showing at the hearing on mitigation and the trial court, having seen the witnesses and heard tire testimony in mitigation, could have been less impressed with his testimony than is the Appellate Court in this review of the transcript.
+The defendant argues that under the Model Penal Code and the Model Sentencing Act the offense of rape is a second degree felony and should carry a maximum sentence of ten years and that the minimum sentence should not exceed one-third of the maximum sentence imposed. While we have no argument with this proposition, neither the Model Penal Code nor the Model Sentencing Act have been adopted by the legislature, nor has the Supreme Court of the State of Illinois used either of the vehicles as a standard to be used in criminal cases. Rape is a heinous crime and the legislature saw fit to set the punishment to be meted out to offenders and so long as the court stays within the limits prescribed by the act, the Appellate Court cannot arbitrarily change the punishment. This is substantially what defendant requests. The lower court was far more knowledgeable of the facts and circumstances surrounding the case and of the defendant through observation of him while in court than this court could be when considering only the record.
+As was shown in People v. Caldwell, 79 Ill.App.2d 273, 224 N.E.2d 634, and People v. Conway, (Ill.App.2d), 228 N.E.2d 548, the sentence is not as onerous as it may appear. Any minimum term of more than twenty years is treated as a twenty year sentence for the purpose of parole eligibility. Ill. Rev. Stat. 1969, ch. 38, par. 123 — 2(a) (3).
+As noted in People v. Conway,
+“With possible time credit for good behavior, the prisoner may become eligible for parole after eleven years and three months. There is then a wide spread between the minimum and maximum sentence that this defendant may serve. * * * (w)e feel that this flexibility is an aid to the parole board in making its determination as provided for in the parole laws of Illinois.”
+For the reasons stated herein the judgment and sentence of the trial court are affirmed.
+Judgment affirmed.
+ALLOY, P. J., and STOUDER, J., concur.
