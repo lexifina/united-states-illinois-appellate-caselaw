@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 11,310"
+decided: "1959-12-16"
+citations: ["23 Ill. App. 2d 329"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SPIVEY and DOVE, JJ., concur."]
+parties: ["Richard Eichman, School Treasurer for Community Unit School District No. 323, Winnebago and Stephenson Counties, Illinois, et al., Plaintiffs-Appellants, v. Albert Anderson, County Treasurer of Winnebago County, Illinois, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-2d/23/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5205598
+cites_cases: ["159 NE2d 507", "160 Ill. 272", "22 Ill.App.2d 39", "232 Ill. 322", "286 Ill. App. 398"]
+---
+
+# Eichman v. Anderson
+
+## Majority (PRESIDING JUSTICE MoNEAL)
+
+PRESIDING JUSTICE MoNEAL
+delivered the opinion of the court.
+This is an action brought by Community Unit School District No. 323 against Community Unit School District No. 321 and the county treasurer and county clerk of Winnebago County. The circuit court sustained motions to dismiss an amended complaint and entered a judgment from which this appeal was taken.
+In the amended complaint it is alleged that Community Unit School District No. 323 levied $360,680.-70 for school purposes in 1955. However, when the connty clerk extended the taxes in 1956 he failed to include within District No. 323 some 3,567.17 acres having an assessed valuation of $643,150. Instead he extended taxes aganst said lands as though they were located in Community Unit School District No. 321 and used the rate of District No. 321, namely, 1.251, instead of the rate of District No. 323, namely, 1.269. The rate of 1.251, when extended against the acreage involved, produces the sum of $8045.81. The county clerk and treasurer are charged with negligence and judgment demanded against them and against District No. 321 in the amount of $8045.81.
+It should he noted at the outset that there is no allegation that District No. 323 failed to receive the full amount levied, namely, $360,680.71. Likewise there is no claim that District No. 321 received more than it levied. In other words both districts apparently received the exact amounts to which they were legally entitled. The fact that the clerk erroneously omitted some lands from District 323 and included them in District 321 caused the rate in District 323 to be higher than it should have been and caused the rate in District 321 to be lower than it should have been, but both District 323 and District 321 received the exact amount of their levies. Certain taxpayers, not the districts, suffered as a result of the error. The taxpayers, however, paid their taxes without objection and are not parties to this suit.
+An identical situation arose in Walser v. Board of Education of School Dist. No. 1, 160 Ill. 272. In that ease the county clerk erroneously included in School District No. 1 certain lands which properly belonged in School District No. 2. Suit was brought by School District No. 2, and by certain taxpayers, against School District No. 1 to recover the sum of $2195.90 raised from the acreage involved. Demurrers were sustained to the amended complaint and an order was entered dismissing said complaint for want of equity. The Supreme Court affirmed the decree, using the following language at page 275:
+“Even conceding a right of recovery, under no circumstances could a right exist in district No. 2 to collect a greater sum than it would have collected had there been no mistake by the clerk. The full amount of the levy made by the board of education of district No. 2 was computed, extended and collected on the property in the district other than that described on the collector’s books as in district No. 1. No part of the levy as made by the district is unpaid. No right exists to recover more than the amount levied, and to hold the bill sufficient would authorize a recovery of a greater amount by indirection. District No. 2, under the averments of this bill, shows no right of recovery.”
+The Supreme Court further held that the taxpayers could not recover in the suit because they had voluntarily paid the illegal tax.
+The problem arose again in School Directors Dist. No. 153 v. School Directors Dist. No. 154, 232 Ill. 322. There the clerk erroneously included in District 154 certain lands which properly belonged in District 153. District 153 brought suit against District 154 and certain landowners in District 154, but demurrers were sustained to the amended bill and it was dismissed. The Supreme Court affirmed the decree on the authority of Walser v. Board of Education of School Dist. No. 1, 160 Ill. 272.
+The question last arose in Trico Community Unit School Dist. v. Steeleville Community Unit School Dist., 22 Ill.App.2d 39, 159 NE2d 507. In that case the county clerk erroneously included in the Steele-ville District certain lands which properly belonged in the Trico District. The Trico District brought suit to recover the tax funds involved and a motion to dismiss was filed, one of the grounds being that the complaint failed to show any loss by the Trico District, i.e. the complaint failed to allege that the Trico District did not receive the full amount of its levy. The motion to dismiss was sustained by the circuit court, but on review the Appellate Court reversed and remanded the cause with directions to hear said cause on its merits. The Appellate Court pointed out that the Trico levy produced a rate greater than the maximum rate authorized by statute and that omission of certain Trico territory necessarily resulted in a loss equal to the assessed valuation of the erroneously omitted territory multiplied by the maximum rate. The Appellate Court carefully distinguished the Walser case, stating:
+“We should observe in the course of this opinion that plaintiffs in this case have in fact alleged that the full amount of the levy made by the Trico District was not collected. . . .
+“To the extent that the Walser case is applicable, as we have pointed out, it is distinguishable for the reason that the entire amount of the levy was not collected in the instant case as was the situation in the Walser case.”
+In the light of the above decisions, we believe that the rulings of the Supreme Court in Walser v. Board of Education of School Dist. No. 1, 160 Ill. 272, and School Directors Dist. No. 153 v. School Directors Dist. No. 154, 232 Ill. 322, are controlling because there are no allegations in the instant case that District No. 323 failed to receive the full amount of its levy, as was the case in Trico Community Unit School Dist. v. Steeleville Community Unit School Dist., 22 Ill.App.2d 39.
+It is true that the taxpayers in District 323 were taxed at a rate that was higher than it should have been and that the taxpayers in the territory which was erroneously included in District 321 paid taxes which they were not legally obligated to pay, but the law has long been settled that an illegal tax voluntarily paid cannot be recovered by the person paying the same. Cornell v. Board of Education for High School Dist. No. 99, 286 Ill. App. 398.
+Under the foregoing authorities it is our opinion that there can be no recovery under the allegations of the amended complaint and the judgment of the circuit court will therefore be affirmed.
+Judgment affirmed.
+SPIVEY and DOVE, JJ., concur.
