@@ -1,0 +1,57 @@
+---
+court: "Illinois Appellate Court"
+decided: "1896-05-14"
+citations: ["64 Ill. App. 314"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Independent Order of Mutual Aid v. Paul Stahl, Guardian, etc."]
+source_url: "https://static.case.law/ill-app/64/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5172057
+cites_cases: ["149 Ill. 262", "39 Ill. 164", "49 Ill. 72", "69 Ill. 108", "69 Ill. 253", "70 Cal. 519", "75 Ill. 111"]
+---
+
+# Independent Order of Mutual Aid v. Stahl
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the Court.
+This action was brought by Paul Stahl, guardian of Julius and Ernst Grundman, against the appellant, upon a beneficiary certificate issued by the appellant to one Oscar Grundman, wherein it was recited that Oscar Grundman was a member of said order, and entitled to all the rights and privileges of membership, and to participate in the mutual aid fund of the order to the amount of $2,000, with accrued mutual aid assessments, upon due notice and satisfactory proof of his death, and the surrender of the certificate, legally, receipted, to be paid as a benefit to his children, the said Julius and Ernst Grundman.
+The beneficiary certificate contained the following provision, viz.:
+“ Provided, however, that should said Oscar Grundman commit suicide, then and in that case only the amount paid by him into the beneficiary fund, by virtue hereof, shall be paid to said beneficiaries, and which said amount shall be in full of all demands whatsoever arising out of or under this beneficiary certificate; that this certificate is issued expressly in consideration that all the representations made by said Grundman in his application and accompanying statement, now on file in the office of the grand secretary, are true, and that all lawful assessments shall be promptly paid; and that said Grundman shall, in every particular, comply with and abide by all the laws, rules and regulations of the order which now exist, or which may hereafter be adopted by the Grand Lodge of the State of Illinois.”
+The application of said Oscar Grundman for membership was dated February 2, 1891, and contained the same clause against suicide set forth in the beneficiary certificate; and in answer to question fifteen, in his medical examination attached to the application, he stated he had never had disease of the brain or insanity.
+The special pleas filed by appellant set up in substance that said Oscar Grundman committed suicide, that the amount paid by him into the beneficiary fund was $8.75, and that therefore appellant is liable on said beneficiary certificate only to that amount, and that it offered to pay that amount to the plaintiff in full satisfaction of the beneficiary certificate, but that he refused to accept the same.
+It was admitted by counsel, upon record, that before the commencement of the suit defendant tendered to plaintiff, as guardian of said minors, $8.75, and that was the amount paid by said Oscar Grundman into the beneficiary fund of the defendant, and that the plaintiff refused to accept the same, and that said tender has been kept good, by payment of said amount into court, and that the plaintiff is the duly appointed and qualified guardian of said minors.
+The case below resulted in a verdict and judgment for $2,000 against the appellant, and this appeal is for a review of that judgment.
+We will first consider the point that the action was wrongly brought in the name of the guardian, instead of in the names of the children, by him, and will dispose of it by reference to Sec. 17, Ch. 64, Rev. St., and by a quotation from the opinion of the court in Muller v. Benner, 69 Ill. 108:
+“ He (a guardian) has authority to demand and sue, in his own name, for all personal property and demands due the ward.”
+He has, however, no power to bring a suit in his own name in relation to the real estate of his ward, which are the cases cited by appellant.
+The next point has reference to the alleged error concerning the verdict upon which judgment was entered.
+The abstract of the bill of exceptions shows in that regard as follows:
+“ Sealed verdict for plaintiff, signed by all the jurors, as follows:
+‘ We, the jury, find the issues for the plaintiff, and assess the plaintiff’s damages in the sum of two thousand eight and 75-100 dollars.’
+Whereupon, after said jury had been polled, said verdict was ordered by the court to be entered, and said jury were permitted to separate, and the defendant then and there duly entered its motion for a new trial in said cause.
+And thereupon, after the jury in this case had presented to the court their sealed verdict in the forenoon of October 7, 1895, and after the jury had been polled and the verdict entered and a motion for a new trial entered, and the jury permitted to separate, as aforesaid, and after all of the jurors, with the exception of one, had been called as jurors in another case, and after they had rendered a verdict in that case, the counsel for the plaintiff in this case, in the afternoon of said day, moved the court to vacate all orders this day entered in this cause, and re-submit the cause to the jury which had considered it and to give to the jury the instruction tendered, in the words and figures following, to wit:
+‘ The jury is instructed that if they find for the plaintiff they will assess his damages at $2,000, but if they find for the defendant, then they will so state.’
+Which motion was opposed by the counsel for the defendant, and counsel for the defendant then and there objected to the granting of said motion.
+■ But the court overruled said objection of counsel for defendant and granted said motion of counsel for plaintiff, to which ruling and decision of the court, and to the giving of said last named instruction, the defendant, by its counsel, then and there moved the court to set aside the verdict last rendered in said cause and to grant a new trial of said cause, which said motion, together with the grounds therefor, is in words and figures following, to-wit,” etc.
+Then followed the overruling of the motion for a new trial, and of a subsequent motion in arrest of judgment, and the entry of judgment for $2,000 and costs.
+The record proper, as certified by the clerk, is less circumstantial than the bill of exceptions, in reciting what took place after the return into court of the first verdict, and is as follows:
+“ Whereupon said jury was permitted to separate and the defendant enters herein its motion for a new trial in said cause. Whereupon all orders and entries this day made in this cause are on motion of plaintiff’s attorney vacated. And thereupon, on motion of plaintiff’s attorney, said jury is recalled, and retire to their room to reconsider of a verdict, to which the defendant duly excepts, whereupon said jury returned into open court and say: We, the jury, find the issues for the plaintiff and assess plaintiff’s damages at the sum of $2,000,’ to which the defendant duly excepts, and enters herein its motion to set aside said verdict, and for a new trial in said cause.”
+It is nowhere made to appear upon which verdict the judgment was entered.
+As to the matters recited, both by the clerk in his entries and by the trial judge in the bill of exceptions signed and sealed by him, the latter should doubtless prevail if there be any inconsistency between them, but if they be not inconsistent in material respects, we think such an effect should be given to the substance of the court’s action as will do justice and make the verdict of the jury effectual.
+It, therefore, not appearing upon which verdict the judgment was entered, we think we should give effect to the judgment as applied to the verdict which will sustain it. And by this we assume that the law is that after a jury has been discharged and permitted to separate, and especially so if a considerable time has elapsed after their discharge, and the jurors have mingled in other affairs and sat in and rendered a verdict in another case, as the bill of exceptions shows that with one exception they did, they can not be reassembled to consider over again of a former verdict. Ayer v. Chicago, 149 Ill. 262, 269; Parker v. Fisher, 39 Ill. 164, and authorities cited in both.
+The first verdict does not appear to have ever been vacated. The vacation of “ all orders and entries this day made ” certainly does not in terms include the verdict. There was an order for the jury to separate and an entry of the verdict, both of which may have been and probably were vacated, but we do not regard that thereby the verdict itself was vacated and set aside.
+The first verdict so standing exceeded the judgment by $8.75.
+If the second verdict be treated as irregular, unnecessary, and surplusage, why should not the judgment be allowed to stand upon the first verdict for a less sum than it awarded ? Why may appellant complain % It is apparent that if the appellee was entitled to recover at all, the amount of $2,000 was the least that he was entitled to, and it was clearly to appellant’s advantage that the verdict should be for that least possible sum. It is not as if the judgment had been rendered for an amount in excess of the verdict. It was for a less sum, and we think the subsequent motion by the appellee to resubmit the cause to the jury with an instruction to render a verdict for such less sum, may, without violence to proper rules of practice, be construed as equivalent to a remittitur from the first verdict of the excess of that verdict over the judgment that was entered.
+It is not the duty of a court of review to reverse a judgment for mere irregularities, nor even for errors which do not work an injury.
+We think the court had not lost its power and control over the verdict, and that under the circumstances it might, as was done, enter the judgment that followed. .
+The following cases are as nearly applicable as any we can find: Parker v. Fisher, 39 Ill. 164; O’Brien v. Palmer, 49 Ill. 72; Davidson v. Devine, 70 Cal. 519.
+The further error is assigned that the action was debt, while the verdict and judgment were in damages only.
+We regard that since the Practice Act of 1872 (Sec. 56), such objection can not be taken advantage of. R., R. I. & St. L. R. R. Co. v. Steel, 69 Ill. 253; Bowden v. Bowden, 75 Ill. 111.
+The remaining assigned errors go to the merits of the cause, and invoke the protéction afforded to the appellant because of the clause in the beneficiary certificate- which exempts it from liability when the member commits suicide.
+It is not contended that appellant would not be liable if Grundman were insane when the act of killing himself, assuming that he shot and killed himself, was committed.
+We can not take the time to review the evidence. The questions of Grundman’s insanity and of who did the killing were ones of fact, and have been passed upon by the jury and settled adversely to the appellant, upon evidence of a strongly conflicting nature, and will not be reviewed upon appeal.
+Nor will we take time’to discuss the questions argued concerning the instructions. We think the law as applicable to the case was laid down to the jury with substantial accuracy; and the judgment being in accord with what seems to be the justice of the case, it will be affirmed.
