@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1879-05-02"
+citations: ["4 Ill. App. 25"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles C. Holton v. Michael Daly."]
+source_url: "https://static.case.law/ill-app/4/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4777103
+cites_cases: ["15 Ill. 550", "20 Ohio, 415", "21 Ill. 20", "3 Ohio St. 201", "43 Ill. 338", "45 Ill. 197", "47 Ill. 108", "53 Ill. 339", "55 Ill. 492", "68 Ill. 548", "68 Ill. 560", "71 Ill. 238", "71 Ill. 294", "71 Ill. 417", "72 Ill. 256", "75 Ill. 106", "76 Ill. 395", "77 Ill. 217", "77 Ill. 309", "84 Ill. 164", "84 Ill. 195", "84 Ill. 570", "85 Ill. 19", "85 Ill. 500"]
+---
+
+# Holton v. Daly
+
+## Majority (Bailey, J.)
+
+Bailey, J.
+This was an action on the case brought by appellee against appellant to recover damages for a personal injury received by appellee while working in the capacity of a machinist in the machine-shops of appellant. In the court below apjiellee recovered a judgment for $5,000 and costs.
+The injury was occasioned by the bursting of a new emery-wheel which .had just been set, and which appellee, in the performance of his ordinary duties, was using. One of the principal grounds upon which appellee bases his right to recover, is that the emery-wheel was imperfectly and improperly set, and that its bursting resulted from negligence in that respect. There was evidence introduced on the trial tending to show that the setting was done by three of the ordinary workmen in the shop, superintended and assisted by one Burkhardt, the foreman. It is not claimed that appellant had personally anything to do with setting it, nor does the evidence charge him with knowledge of any want of skill on the part of the foreman and other employees in the shop who did the work, nor with any want of care and diligence in the employment of competent servants. A leading question in the case, then, was whether the foreman and workmen who set the emery-wheel were fellow-servants with appellee, or whether, so far as they were employed in that particular work, they were engaged in a different line of service, so as not to be, in that respect, in a common employment with appellee. On this question appellant asked the court to give to the jury the following instruction:
+“ The jury are instructed, as a matter of law, that an employee is not entitled to recover damages of his employer for injuries sustained Avhen such injuries result from the lack of skill of a fellow-employee, unless the employer, by the exercise of ordinary diligence, might have discovered such lack of skill.”
+This instruction the court refused to give as asked, but gave it to the jury after having modified it so as to read as follows:
+“The jury are instructed, as a matter of law, that an employee is not entitled to recover damages of his employer for injuries sustained when such injuries result from the lack of skill of a fellow-employee, when both are engaged in a common service, unless the employer, by the exercise of ordinary diligence, might have discovered such lack of skill; but the court instructs the jury that workmen employed to set up machinery for use, and workmen using the machinery so set up, are not engaged in a common service, if such is the evidence.”
+This instruction, as modified, is clearly erroneous. Whether the employment of a particular class of servants embraces both the setting up machinery for use, and the using of it when so set up, is a question of fact to be determined from the evidence. There manifestly is no legal principle.standing in the way of an employer’s committing to the same body of employee’s the business of setting up, or even of constructing, the machinery with which the business of the employer is to be carried on, and of using such machinery in carrying on such business. It is a well-known fact that in many manufacturing establishments, as well as in divers other lines of employment, the Ordinary employees are expected and required to set up, adjust, repair, or even manufacture the tools, implements and machinery with which their work is done. In such case there can be no doubt that setting up and adjusting the machinery, and using it, are parts of the same employment, and the person doing one is a fellow servant with him who does the other.
+The employer may, at his pleasure, divide these species of service into two departments, or combine them in one. Where they are divided and committed to distinct bodies of servants, undoubtedly an injury to a servant of one class, resulting from the negligence of a servant of the other class, entitles the servant injured to invoke the doctrine of respondeat superior. Whether in any given case the two species of service form two departments or one, depends upon whether the same servants are employed by the master to perform both lines of service, and so becomes a question of fact and not of law.
+The instruction announces the proposition that, as a matter of law, workmen employed to set up machinery for use, and workmen using it when set up, are not engaged in a common service. The error thus committed went to the very substance of the defense appellant sought to have passed upon by the jury, and it is probable had a controlling influence in bringing about the verdict which was rendered. Many other questions are presented in the elaborate briefs of counsel, which we do not deem it necessary to consider, but for the error in the foregoing instruction, the judgment must be reversed and the cause remanded.
+Reversed and remanded.
