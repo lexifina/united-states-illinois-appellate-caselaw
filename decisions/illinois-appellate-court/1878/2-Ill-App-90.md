@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+decided: "1878-06"
+citations: ["2 Ill. App. 90"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Elgin v. Lewis S. Eaton."]
+source_url: "https://static.case.law/ill-app/2/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4784924
+cites_cases: ["10 Barb. 26", "11 Ill. 554", "13 Ill. 308", "13 Ill. 50", "15 N. H. 109", "21 Ill. 131", "24 Ill. 228", "25 Ill. 535", "3 Allen, 142", "3 N. H. 349", "4 Barb. 256", "40 Ill. 428", "41 Ill. 502", "60 Ill. 86", "67 Ill. 439", "67 Ill. 477", "68 Ill. 394", "70 Ill. 238", "71 Ill. 366", "72 Ill. 334", "72 Ill. 38", "75 Ill. 301", "75 Ill. 74", "76 Ill. 221", "76 Ill. 231", "79 Ill. 194", "79 Ill. 56", "82 Ill. 337", "83 Ill. 535"]
+---
+
+# City of Elgin v. Eaton
+
+## Majority (Leland, J.)
+
+Leland, J.
+This was an action on the case brought by apj>ellee to recover the damages claimed by reason of the grading of Bridge and Jackson, or Summit streets, the former on the north, and the latter on the east of his residence, being lots one, two, seven and eight, in block 46, in Elgin. The length was sixteen rods on Bridge, the width eight rods on Jackson. The depth of the cutting varied on Bridge street from four feet to ten, on Jackson from two to seven. On the former the bank was near the line of the lot, on the latter at the line of the sidewalk. There was no digging on the lots, but all was in the streets. The injury, therefore, was because of the elevation above the street, and the difficulty of ingress and egress. It was stipulated in writing that the jury might also assess the damages of a small amount of future excavations, according to a profile of the grade adopted by the council, as well as such as had accrued, at the time of the commencement of the suit.
+This same case has been to the Sujireme Court, and so far as the right of appellee to a verdict is concerned, it is settled that he has a cause of action under section 13 of article two, of the Constitution of 1870, though the law may have been otherwise before August eighth, 1870, when the Constitution went into effect.
+The distinction between the case at bar and one where there is a similar excavation by an individual on his own adjoining land, is plainly apparent, appellee had the legal right to use the street. If the adjoining proprietor excavated on his own land, no harm was done unless appellee’s lot was disturbed, because he had no right to use the neighboring land. He had no right of ingress and egress to be disturbed.
+If it appeared in the record as stated in appellant’s brief, that on the argument of the case, appellee’s counsel told the jury that “what they ought to do was to award to the plaintiff the amount of the old verdict, and enough more to make him whole for the extra trouble and expense occasioned by the new trial,” we would be strongly inclined to reverse for that cause alone. Brown v. Swineford, Cent. Law Journal, Sept. 13th, 1875, p. 208, but having carefully examined the bill of exceptions, we find nothing of the kind in it.
+The amount of this verdict indicates that there was no leaning on the part of the jury in favor of the corporation, and against the appellee, which is sometimes to be feared where jurors may be contributory tax-pavers. It may be, however, that they were from the country, were not influenced by any such consideration, so that their sympathies may have been allowed to operate in the usual manner.
+The verdict is liberally large, according to the evidence. The plaintiff estimated his own damages at $1,500, but no man’s judgment in his own case is of any real value.
+There were ten other witnesses, whose opinions ranged from $500 to $1,100. A careful computation makes the just medium, including the evidence of plaintiff, a trifle over $900. If, however, we make an aggregate of the average amount sworn to by the ten, and divide by that figure, the amounts as sworn to by appellee’s witnesses would make a just verdict less than $900.
+Some seven witnesses for the appellant testified that though it would cost something to put the premises in shape, they would really be worth as much more as the cost of doing it. Take the average of the evidence of these seven, and according to that there would be no injury—perhaps a benefit. Therefore, to get the just medium from all the evidence, the divisor above should be seventeen instead of ten, and the quotient between five and six hundred. And so it seems in this case, as well as others, that however strong the sympathies of a jury may he in relation to individuals, they never exhibit much for the treasury of a municipal corporation to which their taxes are not tributary.
+Though the verdict in this case may seem to us a large one, we fear that it will always be so, in similar cases; and that, if there are always to be reversals in such cases when verdicts seem to too large, there will be few or no affirmances. The presence of the plaintiff is felt, and his inconvenience is made prominent. Those who do not sleep well of nights because they know not where to look for the means to pay their taxes are too far in the back ground to be visible.
+Where, however, plaintiffs obtain too large verdicts, they must see to it that they are obtained according to law. It is the settled law of this State that a just verdict will survive a pressure of bad law, which will destroy an unjust one.
+There are some unaccountable mistakes in the abstract in this case.
+One 27. P. Thompson, who had been an alderman, was called as a witness for the plaintiff. On the cross-examination by the defendant’s counsel, the following question was asked: “ Was there any agreement between you and Eaton, or made by Eaton in your presence, in regard to this grade? ”
+According to the abstract, an objection to this question was overruled, and exception taken. According to the record, this objection was sustained.
+Eaton himself had testified, on cross-examination, without objection, that he had made an agreement in 1871, with a committee of the city council, of which committee Thompson was one, on a grade which would make about a two-foot cut at his front on Jackson street.
+We do not perceive why, on the cross-examination of Thompson, it was not proper, under these circumstances, to ask Thompson this question, if for no other reason than to show what the feeling or bias of the witness may have been. It was important to know where his sympathies were, and to a reasonable extent to inquire into his conduct as a member of the committee. One Lynch testifies that there was an understanding' among the aldermen that Thompson was acting for Eaton.
+O. H. Oollin, according to the abstracts, was called as a witness for the defenda/nt. According to the record, for the plaintiff.
+On a cross-examination by appellant's counsel, not by appellees, this question was propounded to the witness:
+“ You had a controversy with the city about grading in front of your lots, hadn’t you?”
+Objection was made by appellee, which was sustained, and there was exception taken. This question ought to have been answered. “ A fellow feeling makes us wondrous kind,” and all lawyers fully appreciate how important it is to know whether a plaintiff and his witness “ are in the same boat.”
+The refusal of the following instruction of the defendant below, was error.
+■“ The jury are instructed that they should not allow any damage to the plaintiff for any injury done to his premises by the grading of Bridge and Jackson streets, before the 8th of August, A. D. 1870.”
+For any injury before that time because of excavations near to, but not on the lots of appellee, there was no remedy. Quincy v. Jones, 76 Ill. 221.
+Appellee himself testifies that - there was grading done on Jackson street in 1865 or 1867—he thinks 1865; that the grading in 1865 was about two feet on Jackson street; of that he is positive, because he laid his sidewalk then on Jackson street? and the sidewalk was about seven inches higher than the street, and about two feet below the sills of his house.
+The portion of the injury thus caused in 1865, and which is included in, and forms part of that estimated by all plaintiff’s witnesses, should have been deducted, as the jury would have been directed, if this instruction had been given, not refused.
+The challenge for cause, of the juror Guthbertson, and the motion to change the venue, were both, we think, properly overruled. The place of the supposed prejudiced judge was supplied by an unprejudiced one. We do not fully appreciate the position of appellant’s counsel, that the motive for swearing that the circuit judge was prejudiced, was to get a change of the place of the trial. If such were the motive, it adds a new one to the already too many other bad ones, for that kind of affidavit-making which have come to our notice. We are disposed to do the affidavit-maker the justice of believing that counsel are mistaken as to his motive.
+For the errors heretofore mentioned, we think it just and proper that another jury should hear the evidence in the case.
+Eeversed and remanded.
