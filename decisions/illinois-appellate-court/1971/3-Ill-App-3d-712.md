@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-123"
+decided: "1971-12-22"
+citations: ["3 Ill. App. 3d 712"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Celia Miller, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/3/cases/0712-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2839270
+cites_cases: ["186 N.E.2d 263", "26 Ill.2d 400", "394 U.S. 459", "395 U.S. 238", "50 Ill.2d 28", "50 Ill.2d 390"]
+---
+
+# People v. Miller
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+Defendant was indicted for murder to which charge she entered a plea of not guilty. On June 30, 1970, upon the State reducing the charge, the defendant entered a plea of guilty to the voluntary manslaughter charge. After inquiring into the nature and circumstances of the offense, and defendant had waived a hearing in aggravation and mitigation, and a conference with both counsel in chambers, the court sentenced defendant to a minimum of five years and a maximum of ten years in the Illinois State Reformatory for Women.
+On appeal defendant contends that the admonishment was inadequate as to the nature of the charge before accepting her plea, and as to her privilege against self incrimination. With reference to the first contention, defendant argues that upon trial there was a possibility of acquittal or a conviction of involuntary manslaughter which carries a lesser maximum sentence (Ill. Rev. Stat. 1969, ch. 38, par. 9 — 3,) than does voluntary manslaughter (Ill. Rev. Stat. 1969, ch. 38, par. 9 — 2). Here the maximum imposed did not exceed the maximum provided for involuntary manslaughter. In People v. Simmons, 26 Ill.2d 400, 186 N.E.2d 263, a similar contention was made. The Court held that, since at that time, the punishment for manslaughter, whether voluntary or unvoluntary, was the same, failing to explain the statutory difference between voluntary and involuntary manslaughter could not be perceived as effecting the defendant’s informed plea. Here a reading of the record disclosed that involuntary manslaughter was never involved in this case, other than to be a lesser included offense in the murder charge. We cannot say that defendant did not possess “an understanding of the law in relation to the facts”. See McCarthy v. United States, 394 U.S. 459 at 466, 89 S.Ct. 1166 at 1171, 22 L.Ed.2d 418.
+With reference to defendant’s contention that she was not specifically admonished as to her privilege against self incrimination, defendant relys upon the following language from Boykin v. Alabama, 395 U.S. 238 at 243,23 L.Ed.2d 274, 89 S.Ct. 1709 at 1712:
+“Several federal constitutional rights are involved in a waiver that takes place when a plea of guilty is entered in a state criminal trial. First, is the privilege against compulsory self-incrimination guaranteed by the Fifth Amendment and applicable to the States by reason of the Fourteenth. [Citation.] Second, is the right to trial by jury. [Citation.] Third, is the right to confront one’s accusers. [Citation.] We cannot presume a waiver of these three important federal rights from a silent record.”
+At the time of acceptance of defendant’s plea our Supreme Court Rule 401(b) (Ill. Rev. Stat. 1969, ch. 110A, par. 401(b),) was applicable and the decision in Boykin had been handed down.
+Two recent opinions of our Supreme Court have resolved this identical contention. In People v. Reeves, 50 Ill.2d 28, our Supreme Court said: “We find nothing in Boykin which compels specific admonitions and waivers with respect to the ‘several constitutional rights’ to which McCarthy refers but does not enumerate”. In People v. Arndt, 50 Ill.2d 390, our Supreme Court said, “The Supreme Court itself has not interpreted the Boykin case in the literal way in which the defendant reads it”, and pointed out that Boykin requires that the record must affirmatively disclose that the plea was accepted after it was “understandingly and voluntarily” entered.
+We find that the record in the present case affirmatively discloses that defendant’s plea of guilty was made understandingly and voluntarily.
+After the court had made inquiry into the facts of the present case and heard them discussed by both counsel and the recommendation of the State of a sentence of four to ten, the court inquired if the State had “any reports on this”. The State’s Attorney responded that he had “the witnesses’ reports”. The court then said, “Let’s go into chambers and discuss this”. The record then shows, “Conference was had in Chambers between Court and all Counsel”. Following this the court imposed the sentence. Defendant contends that she was “excluded from a conference at which, apparently, the court considered the factual basis of the case” and that she was “not given the opportunity to hear what was presented against her or the opportunity to answer any of the factual questions which might have affected the judge’s discretion in imposing sentence”. From this record we cannot say that the court considered the factual basis of the case during the conference nor can we determine that the court considered the reports of witnesses or made a private investigation. As a result we do not consider the cases cited by defendant as being here applicable.
+Defendant’s next contention is that the sentence of from five to fifteen years for voluntary manslaughter was excessive in light of defendant’s background and the facts. In the record of proceedings it is shown that the sentence imposed was five to fifteen, however the formal order and the court’s minutes show a sentence of five to 10 years and the notice of appeal recited the sentence appealed from as being five to ten years. Appellant’s brief is based on a five to fifteen year sentence, which the State by its brief does not dispute, the appellant has noted the discrepancy in its reply brief.
+We have examined the record, and are of the opinion that a sentence of five to ten years is not excessive in this case. In the event that any discrepancy in the sentence might in the future be raised, we exercise our power of modification, and modify the maximum sentence to 10 years.
+We therefore affirm the conviction and the sentence of a minimum of five years and a maximum of ten years.
+Judgment affirmed.
