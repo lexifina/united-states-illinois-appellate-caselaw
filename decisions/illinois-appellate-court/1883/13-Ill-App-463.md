@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-09-28"
+citations: ["13 Ill. App. 463"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter Mason v. James Gibson."]
+source_url: "https://static.case.law/ill-app/13/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4869983
+cites_cases: ["11 Ia. 193", "12 Ill. 184", "12 Ind. 118", "12 Met. 482", "127 Mass. 394", "13 Wis. 67", "15 Mass. 139", "18 Ill. 158", "18 Ill. 420", "20 Conn. 37", "29 Wis. 531", "30 Mo. 201", "38 Ill. 96", "39 Ill. 195", "39 Mo. 208", "4 Gilm. 69", "40 Ill. 218", "41 Ill. 141", "43 Ill. 338", "45 Ill. 43", "48 Ill. 243", "48 Ill. 494", "51 Ill. 254", "51 N. Y. 70", "60 Ill. 200", "62 Ill. 126", "62 Ill. 130", "62 Mo. 73", "63 Ill. 259", "65 Ill. 512", "77 Ill. 143", "87 Ill. 22", "89 Ill. 482", "9 Wend. 129", "9 Wend. 20"]
+---
+
+# Mason v. Gibson
+
+## Majority (Pee Cubiam.-)
+
+Pee Cubiam.-
+The record in this ease was filed on the 16th day of May, 1883, the second day of the terra, and the last day on which it could be filed to comply with section 73 of the Practice Act, which requires that authenticated copies of records of judgments, orders and decrees appealed from shall be filed in the office of the clerk of the Supreme Court, or of the appellate court, as the case may be, on or before the second day of the succeeding term of said court; provided twenty days shall have intervened, between the last day of the term at which the judgment or decree appealed from shall have been entered and the sitting of the court to which the appeal shall be taken; but if ten days and not twenty shall have intervened as aforesaid, then the record shall be filed as aforesaid on or before the tenth day of the said succeeding term, otherwise the said appeal shall be dismissed, unless further time to file the same shall have been granted by the court to which said appeal shall have been taken upon good cause shown.
+But while the record of the case was filed in due time to comply with the law, one essential requirement of the statute was neglected, and that was the authentication of the copy of the record. When the record was filed the certificate of the clerk of the court appealed from was not under the seal of that court. When this was discovered, appellant, on the fourth day of the term, suggested a diminution of the record and entered lxis motion for leave to file an additional record. Without giving the subject that investigation which its importance merited, and with the desire to give appellant ample time to present the question fairly before the court, in connection with a motion made by appellee to strike the cause from the docket, we sustained . appellant’s motion, and granted him leave to file additional record, and reserved the consideration of appellee’s motion to strike the cause from the docket until the hearing. It now comes up before us again, and after a careful examination of the authorities we are fully convinced we erred in sustaining appellant’s motion and granting him leave to file an additional record with the seal of the court attached to the certificate of the clerk.
+In Cowhick v. Gunn, 2 Scammon, 417, the defendants in error moved the court to strike the cause from the docket upon the ground that the transcript of the record filed therein, although properly certified by the clerk in other respects, was not under the seal of the court. A cross motion was entered by plaintiff in error (based upon affidavit filed, showing that the seal was omitted by mistake), to grant a rule requiring the clerk of the court below to certify to that court a transcript of the record of the cause under the seal of the court. The court sustained the motion to strike the cause from the docket, and overruled the cross motion for a rule against the clerk below, upon the ground that the record filed, not being under the seal of the court, was a nullity, and that the cross motion was in the nature of a motion for a writ of certiorari to amend the record as in case of diminution of record; which can only be granted in a case where a record is properly authenticated, but is defective in some of its parts.
+So in Morse v. Williams, 4 Scammon, 285, a motion was made to strike the cause from the docket because there was no seal to the certificate of the transcript of the record from the court below. This motion was resisted on the ground it came too late after joinder in error. But the court held that unless the transcript is properly certified the case is not in court. The objection was held fatal and the motion sustained.
+These two cases settle the doctrine that unless the certificate of the clerk to the record is under the seal of the court the cause must be stricken from the docket.
+The motion of appellant for leave to file an additional record was not made until the fourth day of the term. It then came too late. The application for further time to file the record must be made within the time prescribed by the statute, which in this case, was on or before the second day of the term. Day v. The City of Clinton, 5 Bradwell, 605; Palmer v. Gardiner, 77 Ill. 143.
+Under these decisions the motion of appellee to strike the cause from the docket must be sustained.
+All orders in this cause entered of this term are hereby vacated and this cause stricken from the docket.
