@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 10,120"
+decided: "1957-03-11"
+citations: ["13 Ill. App. 2d 126"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. George H. Sheffer, Supervisor, Town of Champaign, County of Champaign, and State of Illinois, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/13/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5171826
+---
+
+# People v. Sheffer
+
+## Majority (JUDGE CARROLL)
+
+JUDGE CARROLL
+delivered the opinion of the court.
+The State’s Attorney of Champaign County filed a complaint in quo warranto against the defendant, George H. Sheffer, Supervisor of the Town of Champaign, in said county, charging that said defendant since December 8, 1955 has held and executed without lawful right or authority the pretended office of supervisor in two certain territories, in the County of Champaign, and which are described in the petition and that the defendant has usurped said office.
+The defendant filed a plea, or answer in which in addition to denying that he has usurped the office of supervisor in the two territories described in the petition, he alleges that he is the supervisor of the Town of Champaign and that the said territories are included within the area of that town. The reply of the State’s Attorney to this plea recites that the territories in question, although previously a part of the Town of Champaign, had been annexed to the Town of the City of Champaign and that it therefore became the duty of the defendant to recognize such change in boundaries and to cease and desist from performing any functions as supervisor over the territories so annexed to the Town of the City of Champaign.
+The facts underlying this action appear to be briefly as follows: On March 2, 1920, the Board of Supervisors of Champaign County provided by resolution for the organization of the territory embraced within the City of Champaign into a separate town to be known as the “Town of the City of Champaign.” On February 9, 1920, the City of Champaign annexed to it a portion of the territory described in the quo warranto petition and the remainder of the territory described therein was annexed by said City on August 16, 1949. At the time of these annexations the Statute authorizing the organization of the territory within a city into a township contained the following provision with reference to the annexing to said city territory in an adjacent township:
+“Whenever such a city, at any one time, shall have annexed or shall hereafter annex any territory in an adjacent township, the county board may, by resolution, upon receipt of a certified copy of the resolution or ordinance of the city annexing such territory, disconnect such territory from the town or towns in which it may be situated and annex the same to the town in which said city is situated.”
+(Sec. 127, Chap. 139, Ill. Rev. Stat. 1953.)
+The Board of Supervisors of Champaign County failed to exercise the permissive authority given it under the above quoted section of the Statute and did not disconnect the territories in question from the Town of Champaign and did not annex the said territories to the Town of the City of Champaign.
+At the 1955 session of the General Assembly, the aforesaid statutory provision was amended (Sec. 127, Chap. 139, Ill. Rev. Stat. 1955), and the same now reads as follows:
+“Whenever such a city, at any one time, shall have annexed or shall hereafter annex any territory in an adjacent township, upon receipt of a certified copy of the resolution or ordinance of the city annexing such territory, such annexation shall disconnect such territory from the town or towns in which it may be situated and annex the same to the town in said city and the county clerk, upon receipt of a certified copy of the resolution or ordinance of the city annexing such territory, shall enter such boundary change in the official records of his office.”
+On December 8, 1955 tbe City Clerk of tbe City of Champaign filed in the office of the County Clerk of Champaign County certified copies of the ordinances annexing the territories described in the complaint to the City of Champaign. Subsequent thereto, the defendant continued to exercise authority over the territories annexed to the City and as a result this quo warranto action followed.
+Upon a hearing the trial court entered a judgment of ouster. Proceeding upon the theory that the constitutionality of a Statute is involved in this action, the defendant appealed from said judgment directly to the Supreme Court. Upon an examination of the abstract of record that Court determined that no constitutional question was raised or decided in the trial court and transferred the cause to this court for review.
+Aside from the constitutional question with which we are not concerned, the only point urged by defendant is that the Statute as amended is not applicable to the situation involved in the instant case. There is no merit in such contention. The Statute plainly prescribes a method of procedure whereby annexations to a city which has been organized as a city township are brought within the jurisdiction of such city township. No complaint is made of failure either by the City or the County Clerk to properly comply with the provisions of the Statute. Prior to the 1955 amendment, the authority to make transfers of territories annexed by a city township was vested in the county board, but the exercise thereof was not made mandatory. The effect of the 1955 amendment is to remove from the authority of the county board its permissive power to make transfers of territory annexed to a city township and renders it mandatory that when a city which constitutes a city township annexes territory to that city the county clerk, upon receipt of a certified copy of the resolution or ordinance annexing such, territory shall enter such boundary change in the official records ■ of his office. The record herein indicates that the City of Champaign and the County Clerk of Champaign County have complied with the 1955 amendment and as a result the territories described in the petition are a part of the Town of the City of Champaign and as such are not within the jurisdiction of the Town of Champaign. All questions relative to the necessity for the amendment or the wisdom of its enactment are beyond the scope of this review.
+Since we find no error in this record, the judgment of the Circuit Court is affirmed.
+Affirmed.
