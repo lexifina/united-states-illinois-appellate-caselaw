@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1918-04-19"
+citations: ["212 Ill. App. 48"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter Gherra, Administrator, Appellant, v. Central Illinois Public Service Company, Appellee."]
+source_url: "https://static.case.law/ill-app/212/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5812674
+cites_cases: ["112 Ill. App. 138", "241 Ill. 252"]
+---
+
+# Gherra v. Central Illinois Public Service Co.
+
+## Majority (Mr. Justice Thompson)
+
+Mr. Justice Thompson
+delivered the opinion of the court.
+Peter Gherra, administrator of the estate of John Gherra, deceased, began this suit against the Central Illinois Public Service Company to recover damages sustained by himself and other next of Mn, through the death of John Gherra.
+The declaration contains five counts. In the first it is averred that the defendant on May 31, 1915, operated in the City of Yirden and Yirden township, an electric light system, getting the electricity from a central plant at Kincaid; that defendant maintained certain wires on poles near the east line of a highway, south from Yirden, over which defendant transmitted electricity to a patron; that 1,000 feet south of Yirden and 2 feet east of the east line of the highway, there was an apple tree with branches extending over the highway and over and above said wires, upon which branches were growing apples, which tree and apples were attractive to children, who, by reason of their tender years, were without ability to exercise due care for their safety and would not appreciate the danger of coming in contact with said wires extending near and through the branches of the tree, and that the location of the wires through the branches of the tree was known, or would have been in the exercise of ordinary care known, to the defendant. It is further averred that John Gherra, the intestate, was an immature child of the age of 10 years, without ability to exercise due care or realize danger, and that while passing along said highway he was attracted to said apple tree by the apples thereon and in said tree came in contact with said wires charged with electricity and was thereby burned and injured, and that the injuries caused his death on June 5, 1915; and that Peter Gherra, his father, and other named parties, are the next of kin, etc.
+The second count contains the further averment that the wires «were old and the insulation was worn off them, etc.
+The third contains an averment that the electric light wires were attached to a loose pole, which swayed, and the wires sagged so that for over 3 months they came in contact with telephone wires which ran through the tree.
+The fourth and fifth counts aver the duty of defendant to so maintain its wires that parties gathering apples from said tree would not be injured, and that John Gherra, a child of 10 years of age, while in the exercise of due care and ignorant of the dangerous condition of the wires through the tree, while gathering apples, was injured and died therefrom.
+There is an amendment to each count under which the parents seek to recover for loss of services.
+The defendant filed a general demurrer to the declaration and each count, which was sustained. Plaintiff abided by the declaration and judgment was rendered in favor of the defendant. Plaintiff appeals.
+It is not averred in any count that the appellee was a trespasser in the place where its wires were located or that the wires were within the reach of any person on the ground under them, or that any permissive right had been given to any one or was known to have been used by any person to climb into the tree for any purpose.
+The theory of the first three counts of the declaration is that under the attractive nuisance rule, an apple tree on private property near the line of a public highway, where the limbs of the tree extend over the-line of the highway, is an attractive nuisance, and that a boy of the age of 10 years, although a trespasser in climbing the tree to pick apples in the month of May, who was injured by an electric shock from wires passing through the limbs of the tree on the highway, is entitled to recover from the owner of the electric wires that caused the injury. It is not contended that appellee’s wires were not lawfully suspended over the highway. The deceased was a trespasser in climbing into the tree and coming in contact with the wires. The attractive nuisance counts assume that a boy 10 years of age has the right to go anywhere, into apple trees or other things, that his wishes may suggest, and, if injured by a dangerous appliance, recover for such injuries. It is not the rule that a boy 10 years of age is exempted from the exercise of all care for his safety. He must use such care as a boy of his years, experience and knowledge would ordinarily use under similar circumstances. These counts were defective in failing to aver that he used such care, and it is not necessary to discuss the attractive nuisance feature of these counts.
+The theory of the other two counts is that appellee was guilty of negligence in having its wires uninsulated, and that any person who either rightfully or wrongfully climbed into the tree and was injured is entitled to recover. Counsel for appellant have confined their argument and citation of authorities exclusively to the attractive nuisance counts.
+The averments of the remaining counts, however, do not state any fact which tends to show any right or excuse for the intestate to be in the tree. He was a trespasser, and the duty appellee owed to him was not to wilfully injure him. He was á trespasser in interfering with appellee’s wires, when he climbed into the tree without any license, permission or duty there. Having no right or excuse for being in the tree, his death must be attributed exclusively to his own fault, the averment that he was 10 years of age only having application to his exercise of such care as a boy of his age must use where he lawfully has the right to be. McAllister v. Jung, 112 Ill. App. 138. While the wire running through the tree top made the injury possible, appellee had no reason to anticipate that a person going along the road would climb into the tree, and the dangerous wire was not the proximate cause of the death. Seith v. Commonwealth Electric Co., 241 Ill. 252. There was no error in sustaining the demurrer. The judgment is affirmed.
+Affirmed.
