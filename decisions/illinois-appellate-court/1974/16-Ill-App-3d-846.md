@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "73-29"
+decided: "1974-01-31"
+citations: ["16 Ill. App. 3d 846"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. James Davis, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/16/cases/0846-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2516518
+cites_cases: ["205 N.E.2d 625", "220 N.E.2d 19", "228 N.E.2d 104", "228 N.E.2d 548", "277 Ill.App. 183", "294 N.E.2d 269", "295 N.E.2d 1", "32 Ill.2d 306", "53 Ill.2d 572", "53 Ill.2d 585", "73 Ill.App.2d 35", "83 Ill.App.2d 430", "85 Ill.App.2d 165"]
+---
+
+# People v. Davis
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court:
+Defendant, James Davis, was convicted of escape from the Illinois State Penitentiary (Ill. Rev. Stat. 1971, ch. 108, par. 121) following a jury trial in the circuit court of Will County and was sentenced to not less than four nor more than ten years in the Illinois State Penitentiary with the sentence to run consecutively with the sentence defendant was presently serving.
+According to the defendant who testified in his own behalf at the trial, he intentionally and without authorization left Stateville Penitentiary on April 19, 1971 while serving a prison sentence. He stated he was compelled to leave because threats had been made on his life and also because he had been refused medical treatment. He was apprehended on May 26, 1971 in Birmingham, Alabama.
+On this appeal defendant’s first contention is that because the affirmative defense of compulsion was raised, the State was required to prove his guilt beyond a reasonable doubt as to the issue raised in the affirmative defense together with the other elements of the offense and this the State failed to do. This argument assumes defendant raised the defense. Section 7 — 11(a) of the Criminal Code (Ill. Rev. Stat. 1971, ch. 38, par. 7 — 11(a)) provides:
+“A person is not guilty of an offense, other than an offense punishable with death, by reason of conduct which he performs under the compulsion of threat or menace of the imminent infliction of death or great bodily harm, if he reasonably believes death or great bodily harm will be inflicted upon him if he does not perform such conduct.”
+The statute makes it clear that defendant must believe violence will be inflicted upon him if he does not perform the particular conduct which constitutes the crime and the danger must be imminent. In People v. Lighting, 83 Ill.App.2d 430, 228 N.E.2d 104, where defendant attempted to raise the defense of compulsion, the court said the evidence was against the defense since defendant had left the presence of the one making the threats some length of time prior to the crime and defendant had an opportunity to withdraw from the robbery which resulted in the victim’s death. A threat of future injury is not enough to excuse a criminal act. People ex rel. Rusch v. Rivlin, 277 Ill.App. 183.
+In the instant case, defendant did not maintain that there was an immediate or imminent threat of danger for his life nor did he maintain that the one imposing the threats demand he commit the prohibited act of escape. In fact defendant gave a second reason for his escapé, that being the lack of medical care in the prison. All of these facts indicate defendant was not under compulsion as defined by the statute. Nor do we believe there is any question raised by the evidence supporting an inference of justification by reason of necessity in accord with section 7 — 13 of the Criminal Code. It is our opinion therefore that since a defense was not raised, the State did not have the burden of proof on the issue of an affirmative defense, as contended by defendant.
+Defendant also contends he received ineffective assistance of counsel because his attorney refused to investigate and call witnesses which would corroborate the alleged defense; that the attorney did not argue the defense in his closing statement • nor did he tender jury instructions thereon. According to the record, defense counsel indicated at the hearing on sentencing and mitigation that in his opinion no defense existed and therefore corroborating witnesses would be of no benefit. It is evident that because the statute requires a realization of imminent danger by the accused, that if such danger was not imminent to the accused, as was true in the instant case, no defense exists and there can be no corroboration by other witnesses. Counsel also represented one of the potential witnesses in another criminal matter and surely knew whether such witness would profit the case in any other manner. Calling witnesses is a matter of trial tactics. (People v. Mitchell, 73 Ill.App.2d 35, 220 N.E.2d 19.) Furthermore, there being no evidence of a defense, tendering instructions thereon or arguing a defense to the jury would be improper. Defense counsel has no duty to manufacture a defense if none exists. (People v. Olmstead, 32 Ill.2d 306, 205 N.E.2d 625; People v. Conway, 85 Ill.App.2d 165, 228 N.E.2d 548.) We find nothing to indicate counsel did not adequately represent defendant.
+Finally, defendant correctly maintains that his minimum sentence should be reduced to conform to the Uniform Code of Corrections. The Code classifies escape as a Class 2 felony (Ill. Rev. Stat., 1972 Supp., ch. 38, par. 1003 — 6—4(a)) and also provides the minimum term to be imposed for a Class 2 felony not to be greater than one third of the maximum term set by the court. (Ill. Rev. Stati, 1972 Supp., ch. 38, par. 1005 — 8—1(c)(3).) According to People v. Harvey, 53 Ill.2d 585, 294 N.E.2d 269 and People v. Chupich, 53 Ill.2d 572, 295 N.E.2d 1, defendant may avail himself of this provision if a direct appeal has not been finally adjudicated on the effective date of the statute. Defendant’s term of not less than four years nor more than ten years fails to meet the ratio requirement of the statute, thus requiring that the minimum sentence be reduced.
+For the foregoing reasons, we affirm the judgment of the circuit court of Will County and remand this cause with directions to resentence defendant in accordance with the views expressed in this opinion.
+Affirmed and remanded with directions.
+SCOTT, P. J., and ALLOY, J., concur.
