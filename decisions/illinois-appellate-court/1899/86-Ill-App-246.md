@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-12-14"
+citations: ["86 Ill. App. 246"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John J. Knickerbocker et al., Trustees, v. Joseph P. Crosby."]
+source_url: "https://static.case.law/ill-app/86/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5270916
+cites_cases: ["172 Ill. 535"]
+---
+
+# Knickerbocker v. Crosby
+
+## Majority (Mr. Justice Windes)
+
+Mr. Justice Windes
+delivered the opinion of the court.
+It is claimed by appellants that the case of Knickerbocker v. McKindley, etc., Co., 172 Ill. 535, which involved similar claims against appellants, should not be considered by this court as res adjudieata upon this appeal, and they have attempted to point out wherein the case at bar is different from the McKindley case.
+First. They say that it was stipulated in the McKindley case that Laughlin was appointed receiver on motion of complainant, whereas in this case it appears he was appointed on motion of the complainant, the defendant consenting thereto. We are unable, in the light of the decision in the McKindley case, to conceive why that difference in the two cases should make any difference in the result.
+Second. In the McKindley case it appears that the furniture and fixtures in question were left in the possession of the receiver pending the appeal, and the receiver continued to conduct the hotel during that time by consent of the complainants and the defendant, whereas, in this case it is denied that there was any such consent, and there is no proof to overcome such denial. This should make no difference as to the result of this case. The property had to be preserved pending the appeal, and the hotel was conducted pursuant to the orders of the court. This, it was held in the McKindley case (page 546), was sufficient to charge the property with a lien for appellee’s claim.
+Third. In the McKindley case it was admitted that the coal and groceries for which those claims were made on the receiver, were necessary to enable the receiver to conduct the hotel, wffiereas in this case it is said that there is no proof that the vegetables in question were necessary, and also that the order of the court did not authorize their purchase. It does appear in this case that the vegetables were furnished at the request of the receiver, and after a hearing of appellee’s petition, asking that the receiver pay for the same, the claim was allowed and the receiver ordered to pay it. This order was only set aside as to that part directing the payment, because there were then no funds in the hands of the receiver available for that purpose. This is sufficient proof, as we believe, that the vegetables were necessary to the conduct of the hotel by the receiver. As we have seen, the order appointing Laughlin receiver was broad enough to authorize him to purchase the vegetables and pay for the same from the receipts of the hotel. The McKindley case holds (page 548) that it is the duty of the court to pay the expenses of the receivership from the income of the property, and when that proves insufficient then to resort to the corpus. In this connection it is argued that resort can not be had to the corpus until a deficiency of the income is first shown, and that this is not shown by the evidence. The receiver testified that he did not have the money with which to pay appellee’s claim, that he had had money in his hands sufficient to pay the claims, but the court directed him to apply it to other uses. This evidence answers the argument of counsel. It must be presumed, in the absence of a showing to the contrary, that the orders of the court directing the receiver to apply the money in his hands to other uses were properly made.
+Fourth. It is claimed that because in the McKindley case it was stipulated that the amounts due the petitioners in that case became and were a charge and lien upon the furniture and fixtures, and that in this case it is denied there was any such charge or lien thereon, that that difference prevents the McKindley case from being res adjudicaba. An examination of the latter case shows that while the decision of the court, was in part based upon that stipulation, it also held that because Gore was responsible for the creation of' the indebtedness which resulted in the sale of the property in question, and for the expenses of the receiver, and because he procured the appointment of the receiver over the property, he created a charge thereon for the expenses of the receivership, and as the appellants could only claim through Gore, they could not “ relieve the property of that charge by purchasing at a foreclosure sale under an incumbrance created by Gore and for the payment of which he and his representatives are liable.”
+After a careful consideration of the evidence in the light of the -several contentions of appellants, and a comparison of the same with the McKindley case, supra, we .are of opinion that, except as below stated, the questions raised on this record are fully adjudicated by the Supreme Court in that case.
+It is claimed by appellants that the decree herein is erroneous, because they alone are made liable for the receivership expenses and claim of appellee, whereas, if there is any liability, it is a joint one with Heffron. A sufficient answer to this contention is that it is not covered by any assignment of error and can not be considered in this court.
+The decree of the Superior Court is therefore affirmed.
