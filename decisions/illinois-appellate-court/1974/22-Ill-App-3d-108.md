@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "12138"
+decided: "1974-09-19"
+citations: ["22 Ill. App. 3d 108"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. John E. Hartley, Defendant—(William Howard Holman, Contemnor-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/22/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2948846
+cites_cases: ["1 Ohio Dec. Reprint 436", "112 N.E.2d 91", "120 U.S. App. D.C. 392", "136 Ga. 131", "198 A.2d 285", "2 A.L.R.2d 625", "204 A.2d 864", "234 Md. 203", "252 F.2d 664", "276 N.E.2d 318", "281 F.2d 736", "29 N.W.2d 284", "318 Mich. 645", "341 U.S. 479", "347 F.2d 486", "364 U.S. 507", "378 U.S. 1", "385 F.2d 501", "394 U.S. 459", "395 U.S. 238", "415 Ill. 104", "43 N.J. 411", "50 Ill.2d 28", "501 S.W.2d 629", "51 A.L.R.2d 1386", "70 S.E. 1015", "77 Idaho 1", "81 S.Ct. 260", "9 A.L.R. 3d 990", "95 L.Ed. 1118"]
+---
+
+# People v. Hartley
+
+## Majority (Mr. JUSTICE TRAPP)
+
+Mr. JUSTICE TRAPP
+delivered the opinion of the court:
+Appellant, Holman, and one Hartley, were charged with conspiracy to commit armed robbery. Claiming privilege against self-incrimination Holman refused to testify for the prosecution at the trial of Hartley. The trial court adjudged Holman in contempt and sentenced him to 6 months in jail. He appeals.
+At the time the claim of privilege was asserted and denied, Plolman had been convicted of the offenses charged upon a jury verdict. It was agreed that motions in arrest of judgment and for a new trial had been argued and were being held under advisement before another judge. It was also agreed that Holman had not testified at either his preliminary hearing, before the grand jury or at his own trial.
+The colloquy of record shows that out of the presence of the jury Holman’s counsel requested that the court advise of the privilege against self-incrimination. He then asserted the claim of privilege. Although requested, neither counsel provided authority upon the particular issue. The court stated his “impression” that once there had been a verdict of guilty, no privilege existed and that the pendency of a new trial or an appeal did not afford immunity.
+We find persuasive authority to the contrary. In Malloy v. Hogan, 378 U.S. 1, 12 L.Ed.2d 653, 84 S.Ct. 1489, the Supreme Court reversed the Supreme Court of Connecticut saying that the 14th Amendment to the United States Constitution made the 5th Amendment applicable to the States, and that a State may not imprison for refusal to give answers which might tend to incriminate. See Halpin v. Scotti, 415 Ill. 104, 112 N.E.2d 91.
+The conviction here was not final in several aspects. Sentence had not been imposed. In Mills v. United States (1960), 281 F.2d 736, the court sustained the privilege claimed by a codefendant called to testify for the defendant where the witness had been convicted but not yet sentenced. The court stated that the time for appeal had not expired and that the witness claiming privilege might incriminate herself, both as to the fixing of sentence and as to the results of an appeal. In State v. Tyson, 43 N.J. 411, 204 A.2d 864, the claim of privilege was sustained where the witness had pleaded guilty but had not yet been sentenced. The court noted that the answers, if compelled, might influence the court in the exercise of its- discretion upon a motion to withdraw- the plea of guilty. See also Evans v. State (1852), 1 Ohio Dec. Reprint 436; Annot., 9 A.L.R. 3d 990.
+Directly in point, the claim of privilege is properly sustained where there has been a conviction but a motion for a new trial pends. Stallings v. State (1911); 136 Ga. 131, 70 S.E. 1015.
+We find persuasive authority that the claim of privilege should be sustained where an appeal pends. Frank v. United States, (D.C. Cir. 1965), 120 U.S. App. D.C. 392, 347 F.2d 486; State v. Johnson, 77 Idaho 1, 287 P.2d 425, 51 A.L.R.2d 1386. In People v. DenUyl, 318 Mich. 645, 29 N.W.2d 284, 2 A.L.R.2d 625, defendant’s conviction and sentence had been affirmed on appeal, but a petition for certiorari was then pending before the United States Supreme Court. The Michigan Supreme Comt approved the language of the trial judge who said, in elucidating the complexities of the issue:
+“T do not believe that the verdict of guilty concludes that case in the Federal Court, nor does it render the danger of self-incrimination remote or fanciful or speculative, as alleged in this motion; and that does not become true, in my judgment, until such time as the time for appeal passes and the person convicted commences to serve the sentence imposed upon him without further right of appeal except by a special leave of the court, because, in my judgment, * * 9 if the case should for any reason be reversed and sent back for a new trial, the danger of self-incrimination again arises.”’ (Emphasis supplied.) 318 Mich, at 649, 29 N.W.2d at 286: l
+In Davis v. State (Tex. Crim. App. 1973), 501 S.W.2d 629, defendant had been convicted of murder but his appeal "was pending. It was held that there had not been a final adjudication and the claim of privilege was properly allowed for if there was a new trial the testimony for which privilege was claimed might be used against defendant. In Mills v. United States (1960), 281 F.2d 736, the court sustained the claim of privilege noting that the witness who claimed privilege had neither been sentenced nor had the time for appeal expired.
+The prosecution cited People v. Reeves, 50 Ill.2d 28, 276 N.E.2d 318; Knox v. State, 234 Md. 203, 198 A.2d 285; United States v. Gernie, 252 F.2d 664; and United States v. Hoffman, 385 F.2d 501. In each case defendant had pleaded guilty. None of these cases referred to an issue concerning the finality of the conviction. The cited Reina v. United States, 364 U.S. 507, 5 L.Ed.2d 249, 81 S.Ct. 260, held that a federal statute was constitutional upon tire construction that it granted immunity in both State and Federal prosecutions. In Boykin v. Alabama, 395 U.S. 238, 23 L.Ed.2d 274, 89 S.Ct. 1709, and McCarthy v. United States, 394 U.S. 459, 22 L.Ed.2d 418, 89 S.Ct. 1166, it is held that a plea of guilty in-, dudes a waiver of the privilege against self-incrimination.
+In Halpin v. Scotti, 415 Ill. 104, 108, 112 N.E.2d 91, the court examined an immunity statute and stated that the reason for the privilege remains unless the witness “is fully protected from the effects of his testimony.” In Hoffman v. United States, 341 U.S. 479, 95 L.Ed. 1118, 71 S.Ct. 814, the court stated as a standard that it must be perfectly clear under all of the circumstances that the answers of tire witness' cannot possibly have a tendency to incriminate hinr.
+No Illinois cases directed to this issue have been cited. Upon the: record showing that there had been no waiver of the privilege against self-incrimination, that the conviction was not final and that Holman was not fully protected “from the effects of his testimony”, it was error to: deny the claim of privilege against self-incrimination. With such conclusion, it is unnecessary to review the other issues argued.
+The judgment below is reversed.
+Reversed.
+SMITH, P. J., and CRAVEN, J., concur.
+The Connecticut Court had held that the defendant had not properly invoked the privilege under the State constitution and that the 5th Amendment did not apply to the several States.
