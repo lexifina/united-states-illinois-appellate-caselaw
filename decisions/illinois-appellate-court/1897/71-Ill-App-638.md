@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-09-20"
+citations: ["71 Ill. App. 638"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Glucose Co. v. William Lubitz."]
+source_url: "https://static.case.law/ill-app/71/cases/0638-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2452409
+cites_cases: ["139 Ill. 67", "68 Ill. App. 156", "78 Ill. 422"]
+---
+
+# American Glucose Co. v. Lubitz
+
+## Majority (Mr. Justice Wright)
+
+Mr. Justice Wright
+delivered the opinion of the Court.
+This was an action of assumpsit brought by the appellee against appellant, upon the following written contract:
+“ It is mutually agreed between the American Glucose Co. and William Lubitz, that in consideration of a release of all claims and demands and causes of action which William Lubitz has against said company by-reason of injuries sustained by him while in the employ of said company, on or about the 16th day of June, 1893, said American Glucose Co. hereby agrees to employ said William Lubitz at its factory in Peoria, while the same remains in operation, in some position of which he, in his present condition, can perform the duties, and to pay him the current wages for such services. Provided, however, that said Lubitz shall at all times be subject to discharge for reasonable cause.
+The American Glucose Co.
+Harry Hamlin, Y. Pt.”
+In his declaration the appellee avers that he offered to perform the services required in said contract, and that the appellant without reasonable cause has wholly neglected and refused to employ the plaintiff at its factory in Peoria at such services and duties as he in his (then) present condition could perform, whereby he claims said wages, etc.
+Under this contract appellee selected the position of attending the gluten tubs in the factory of appellant, and was by it employed and assigned to that work, and continued for some time so engaged at $1.50 per day. The work was considered light and desirable by the other men in the factory. Among other duties attending the work with these tubs, was the requirement that they be plunged four times each day; that is, the sides of the tubs should be cleaned of a deposit of creamy substance collected there in the process of the manufacture of the product of the factory. This work was accomplished by means of a paddle or scraper in the hands of the 'operator, and from the evidence was a simple and easy process. Appellee soon objected to this work, and complained that it was too hard for him. A careful consideration of the evidence discloses the work was as easy and light as any that could be furnished in the factory; such work as any of the men would be glad to exchange for. It is difficult to find any good excuse for the objection of appellee to performing this work, and hard to believe his disability in any manner interfered with his accomplishing it with ease and comfort to himself. The foreman insisted that he could and should perform the work, whereupon appellee persisted in refusing, and was discharged by the appellant. Upon a trial of the issues by the jury, a verdict was returned against appellant for $862.50 and the court having overruled appellant’s motion for a new trial, gave judgment against it, from which it prosecutes this appeal, insisting the verdict is. against the evidence, the court gave improper instructions for the appellee, and refused proper instructions for the appellant, and erred in overruling the motion for a new trial.
+We have given the evidence in the case a careful consideration, and are compelled to say we think the appellee was discharged from the service of the appellant for a reasonable cause, and inasmuch as the cause is to be remanded, we refrain from farther comment upon the evidence.
+Appellant’s counsel complain of the refusal of the court to give the following instruction:
+“ You are instructed that the contract in evidence was only to continue in force while the factory of the defendant remained in operation; and if you believe from the evidence that when said contract was executed said factory was in operation, and that subsequently, in the summer of 1891-, said factory ceased to operate for a considerable period, such suspension would be a termination of the period of said contract; that said contract does not mean that it shall continue so long as said factory is in Peoria, but so long as it remained in operation after the making of said contract.”
+We do not construe the contract the way the proposed instruction would do; the suspension of the factory referred to in the instruction was but temporary, while we think the contract has reference to a permanent cessation of business, and therefore the instruction was properly refused.
+Counsel for- appellant further contend the court erred in giving to the j urv the following instruction for the appellee:
+“ 3. The court further instructs the jury that if you find from the evidence that the plaintiff is entitled to a recovery in this action under the law, as given in the instructions in this case, the measure of damages to the plaintiff will be the amount of current wages as shown by the evidence the plaintiff could have earned in the employ of the defendant in its factory, while the same remained in operation in Peoria, in some position, as shown bv the evidence, of which he, the plaintiff, could perform the duties, from the date, as shown by the evidence, of the neglect or refusal of the defendant to employ the plaintiff in such position, after the date of the execution of the contract in evidence, to the date of the commencement of this suit, less the amount, if any, as shown by a preponderance of the evidence, the plaintiff has earned during such time, or could have earned during that time with reasonable diligence.”
+We are not willing to concede the justice of the criticism made by the counsel against this instruction.
+As we construe the declaration in the case, the suit here is not for a breach of an entire contract, abandoned by appellee, but on the contrary, he avers he insisted on performance; it is a suit to recover wages fixed by the contract, and therefore limited to wages due at the time the suit was brought. The contract may be kept in force and wages recovered as they fall due. Hamlin v. Race, 78 Ill. 422; Mt. Hope Cemetery Assn. v. Weidenmann, 139 Ill. 67; Trawick v. Peoria & Fort Clark St. Ry. Co., 68 Ill. App. 156. Appellant’s counsel, as we understand them, insist the true rule is, in such cases, the suit must be upon a breach of the contract, and the measure of damages should be applied accordingly.
+There exists in the authorities a class of cases to which the rule for which counsel contend is applicable, but we do not think the case presented is one of them, and are therefore of the opinion” the instruction announced the correct rule of damages as applied to the declaration and the theory of the wrongful discharge, as contended for by appellee.
+Because we think the verdict is against the weight of the evidence, and the court should, for that reason, have awarded to the appellant a new trial, the judgment of the Circuit Court will be reversed and the cause remanded.
