@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "Term No. 59-F-4"
+decided: "1959-06-08"
+citations: ["22 Ill. App. 2d 95"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HOFFMAN, J., took no part."]
+parties: ["Dunlap Lake Property Owners Association, Inc., a Non-Profit Corporation, H. E. Bruley et al., Plaintiffs-Appellees, v. City of Edwardsville, a Municipal Corporation of the State of Illinois, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/22/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5202797
+cites_cases: ["10 Ill.2d 157", "10 Ill.App.2d 111", "134 N.E.2d 522", "139 N.E.2d 227", "150 Ill. 273", "204 Ill. 402"]
+---
+
+# Dunlap Lake Property Owners Ass'n v. City of Edwardsville
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Plaintiffs are a non-profit corporation and its members who are owners of lots surrounding a private lake approximately one-fourth of a mile from the defendant city. They filed a suit in equity in the Circuit Court of Madison County seeking to enjoin the defendant from further use of a sanitary sewer by-pass which allegedly caused sewage to flow into the private lake. This appeal is brought from the entry of an injunction after a hearing and the overruling of defendant’s motion to vacate. It is urged that plaintiffs did not prove the existence of a nuisance per se and are therefore not entitled to injunctive relief.
+The lake in question covers about 130 acres on the outskirts of Edwardsville, Ulinois, and is the site of a well-developed residential area. More than seventy houses have been built in the subdivision ranging from $10,000 to $70,000 in value. The water from the lake is used by these residents of the area for all household purposes, including drinking, as well as for swimming and boating. The city has a combined sanitary and storm sewer system and has erected several so-called “by-passes” in the storm sewer. When the level in the sanitary sewer reaches a certain height at the point of a by-pass because of a stoppage or an overloading caused by heavy rain, the sanitary sewer overflows into the storm sewer. At one particular by-pass the stretch of storm sewer involved empties into a natural watercourse or ditch which, in turn, follows a one-quarter mile route to an arm of the plaintiffs’ lake. The ditch was described as a small stream which is sometimes dry and which has no pools or reservoirs in its one-quarter mile course from the sewer outlet to the lake.
+Plaintiffs called several witnesses to describe the sewer structure and the condition resulting. A former city engineer testified that during his four years as city engineer, the by-pass overflowed two times. Another engineer stated that at the time of an overflow, the sewage escaping would be diluted. Other witnesses testified that they had observed sewage draining into the open ditch from the storm sewer and had seen such material carried at least one hundred feet toward the lake. One witness testified that he was bothered by the odor from the ditch. The defendant introduced no evidence.
+There is no dispute as to the public policy of the State in the control, abatement and prevention of the pollution of public waters. This policy is embodied in the Sanitary Board Act, Ch. 19, Sec. 145.1 et seq., Ill. Rev. Stats. (1957). Under such act, the Sanitary Board is empowered to order individuals and municipalities to cease “pollution” of any waters of the State, as therein defined. As we pointed ont in City of Murphysboro v. Sanitary Water Board, 10 Ill.App.2d 111, 134 N.E.2d 522, the Board’s power is not limited to the abatement of conditions constituting a common law nuisance; it has the power to investigate and order stopped conditions that are “likely to create a nuisance or render such waters harmful or detrimental or injurious to public health, safety and welfare. . . .”
+However, this is not a proceeding brought through the Sanitary Water Board, and its correctness must be tested in the light of fundamental principles of equity. One such principle is that permanent injunctive relief must be based upon a showing of actual and substantial injury. Barco Mfg. Co. v. Wright, 10 Ill.2d 157, 139 N.E.2d 227. While, as plaintiffs point out, the cited case is totally dissimilar in factual content to the one at hand, it turns on and reaffirms the overriding equitable principle involved that speculative or anticipated damage is not properly the subject of a permanent injunction proceeding brought by individuals. The Legislature has altered this common law principle in proceedings brought under the Sanitary Water Board Act, but such Act cannot be interpreted as washing away long standing, equitable principles governing private litigation.
+Does plaintiffs’ evidence establish substantial actual damage? While defendant has created a condition whereby diluted sewage can, on infrequent occasions, flow into the watercourse a quarter of a mile from plaintiffs’ lake, there was no actual evidence of pollution. In fact, there was no testimony carrying any flow from the by-pass farther than one hundred feet down the ditch toward the lake. We find this an insufficient evidentiary basis on which to require the defendant to make the extensive changes in its sewage system which the injunction would entail. Pollution of public waters of this State is a matter of public concern; but its control and abatement are best left to the specialized agency therewith concerned except in cases of flagrant and obvious pollution. Such cases were presented in Dwight, Village of v. Hayes, 150 Ill. 273, and Kewanee, City of v. Otley, 204 Ill. 402, cited by plaintiffs in support of the injunction. In less clear cases, the courts are entitled to the expert engineering and chemical evidence to be had by proceedings before the Sanitary Water Board. We feel that this is such a case.
+For the reasons stated, the order denying the defendant’s motion to vacate the injunction is reversed and the injunction vacated.
+Reversed.
+HOFFMAN, J., took no part.
