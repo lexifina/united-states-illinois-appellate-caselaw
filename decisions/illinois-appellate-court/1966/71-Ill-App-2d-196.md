@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,690"
+decided: "1966-05-26"
+citations: ["71 Ill. App. 2d 196"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Defendant in Error, v. Johnnie Stokes, Plaintiff in Error."]
+source_url: "https://static.case.law/ill-app-2d/71/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2587864
+cites_cases: ["130 NE 779", "297 Ill 399"]
+---
+
+# People v. Stokes
+
+## Majority (MR. JUSTICE SCHWARTZ)
+
+MR. JUSTICE SCHWARTZ
+delivered the opinion of the court.
+Defendant was convicted of robbery after a jury trial and was sentenced to five to ten years imprisonment. The chief issue on appeal is whether the court on its own motion should have instructed the jury that evidence of prior crimes which had been properly admitted for purposes of identification should be considered by the jury only as it bore on that issue.
+On April 8, 1963, at about 10:30 a. m., Mrs. Beatrice Williams was robbed of $21 in a cleaning store in which she worked alone. After receiving cash from the cash register and putting it in a paper bag, the robber tied Mrs. Williams with clothes hangers and left her in the back of the store. The next day she viewed 250 slides projected onto a screen at police headquarters and identified a picture of the defendant as the man who had robbed her. He was placed in custody and she identified him in a lockup.
+At the trial Mrs. Williams testified over objection that the defendant had robbed her at the same place on two other occasions occurring within five months prior to the robbery here in question. On each occasion he took cash from the cash register, put it in a paper bag and tied her up in the back of the store with clothes hangers. Her nine-year-old son Vincent testified that he had been with his mother at the time of one of the previous robberies, and he identified the defendant as the robber.
+Defendant testified that he had spent the night before the alleged offense with some friends, Mr. and Mrs. Eugene Coleman, and that he stayed with them until 12:45 p. m. on the day of the offense. The Colemans both testified that this was true, but the details of their stories conflicted substantially with defendant’s narrative. Defendant also denied the two previous robberies.
+We will first consider the charge that the court should have advised the jury of the limited purpose of the evidence relating to prior offenses and that the failure of appointed counsel for the defense so to move establishes his incompetence. Defendant relies on People v. Hobbs, 297 Ill 399, 130 NE 779, a prosecution for murder by abortion where evidence of a subsequent abortion resulting in death was held to have been erroneously admitted. The court in that case recognized that as establishment of intent is one of the exceptions to the general rule against the admission of evidence of other crimes, the evidence in question would have been admissible if by it the state had not brought about the introduction of inadmissible evidence relating to another murder. The court made the following statements:
+“This limitation should be made clear in the court’s rulings on the admission of this character of evidence and on its rulings to objections made to the arguments of the State’s attorney. The court, when asked, should give instructions clearly pointing out the purpose for which the evidence is admissible and confine the argument to that purpose.” (Emphasis added.) (Page 411.)
+In the instant case instructions were not submitted on this issue and no objection was made to the reference to prior crimes in the State’s Attorney’s argument. Counsel’s failure to call attention to the limited use to be made of the evidence of prior crimes may well have been based on what is often regarded as sound trial tactics. Where identity is the sole issue in the case, as here, it is not at all certain that the defendant’s interests would be advanced by the court’s emphasizing that such evidence should be used only to identify him. Indeed, had the court volunteered the advice or given the instructions now urged, counsel might properly have assigned it as error.
+This is an unusual case and the standards of fair conduct must be found in the context of the problems here presented. Examination of the record reveals that the Assistant Public Defender conducted the defense in a vigorous and capable manner, and we do not consider that his failure to present an instruction such as the one in question or his failure to ask the court to advise the jury of the limitation on the evidence as to prior crimes is proof of incompetence.
+Defendant charges incompetence also in the acquiescence of his trial counsel in permitting Vincent Williams, son of the complaining witness, to testify after the def endant had rested his case, although Vincent had been present in court throughout the presentation of the defense in contravention of an order that all witnesses be excluded. Vincent testified that he saw the defendant during one of the previous robberies. He was not present during the presentation of the state’s evidence and did not hear his mother’s testimony. Nothing in the testimony of the defense witnesses, which was wholly devoted to establishing an alibi, could conceivably have affected his testimony. The matter was brought to the court’s attention through an objection by counsel for defendant, which was later withdrawn, and the permission to testify was properly within the sound discretion of the court.
+In its closing argument the State’s Attorney argued that “by the good work of the Chicago Police Department . . . [Mrs. Williams] won’t be held up another fourth time or another fifth time. . . .” He also argued that while in custody awaiting trial, the defendant had cut his hair and shaved off his mustache, as shown by the evidence, that his purpose was to avoid identification, and that “if he could get a makeup kit over there he would be disguised today because he doesn’t want to get the finger in court.” We do not approve of these comments and yet having reviewed the record we can hardly say they deprived defendant of a fair trial. Defendant also contends that the State’s Attorney should have corrected Mrs. Williams when she testified that she identified the defendant in a lineup, since it was brought out on cross-examination that she identified him in a lockup without the benefit of comparison with other persons. This was clearly an inadvertence on the part of both the witness and counsel.
+The defendant contends that the court erred in refusing to give defendant’s instruction limiting to purposes of impeachment the use of evidence that he had previously been convicted of armed robbery. Such an instruction, tendered by the state, was given and was adequate for the purpose.
+There is no reversible error in the record and the judgment must be affirmed.
+Judgment affirmed.
+SULLIVAN, P. J. and DEMPSEY, J., concur.
