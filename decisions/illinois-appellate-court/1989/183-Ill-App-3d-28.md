@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "2—88—0754"
+decided: "1989-05-12"
+citations: ["183 Ill. App. 3d 28"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM DILLARD, Plaintiff-Appellant, v. PAT KEAN, Indiv. and d/b/a Cotton-Kean Ford, Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/183/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2628783
+cites_cases: ["145 Ill. App. 3d 712", "153 Ill. App. 3d 798", "167 Ill. App. 3d 358"]
+---
+
+# Dillard v. Kean
+
+## Majority (JUSTICE WOODWARD)
+
+JUSTICE WOODWARD
+delivered the opinion of the court:
+Plaintiff, William Dillard, filed a six-count complaint, alleging malicious prosecution (two counts), false imprisonment (two counts), and breach of contract (two counts) against defendants, Pat Kean, individually and doing business as Cotton-Kean Ford.
+The allegations of the complaint arose as a result of a complaint made to the Du Page County State’s Attorney’s office by Cotton-Kean Ford. (Although plaintiff alleges that Pat Kean initiated the complaint, that allegation is disputed by the defendants.) As a result of the complaint and subsequent to an investigation by the State’s Attorney’s office, on October 4, 1983, plaintiff was indicted on eight counts of deceptive practice. On November 13, 1984, the charges were dismissed on the State’s motion otnolle prosequi.
+On January 21, 1985, plaintiff filed the aforementioned complaint. On January 29, 1986, judgment was entered on the pleadings in favor of the defendants and against plaintiff on the false imprisonment counts (III and IV). On November 13, 1987, summary judgment was entered in favor of the defendants and against plaintiff on the malicious prosecution counts (I and II). On January 13, 1988, the plaintiff filed a motion to reconsider the court’s decision on the malicious prosecution counts. On February 29, 1988, the trial court denied the plaintiff’s motion to reconsider. Subsequently, on March 9, 1988, the trial court dismissed the remaining counts of the complaint which alleged breach of contract (V and VI). In the order, the trial court restated that the plaintiff’s motion to reconsider was denied.
+On April 8, 1988, the plaintiff filed a notice of appeal which stated that plaintiff was appealing from the trial court’s order of March 9, 1988, denying plaintiff’s motion to reconsider the order of November 13, 1987, dismissing the malicious prosecution counts of plaintiff’s complaint. Inasmuch as there remained pending an intervening petition previously filed with leave of court on behalf of Illinois Emcasco Insurance Company, as subrogee of Elmhurst Chrysler Plymouth, the order of March 9, 1988, did not dispose of the entire case. However, the order of March 9, 1988, did not contain a finding that there was no just reason to delay the enforcement or appeal of the case. The defendants moved to dismiss the appeal, and the appeal was dismissed by this court on June 30,1988.
+On July 23, 1988, the plaintiff filed a motion to amend the order of February 29, 1988, granting the defendants’ motion for summary judgment on the malicious prosecution counts of the complaint. On July 25, 1988, the trial court entered an order staying the trial of the intervening third-party claim pending the outcome of any appeal of the case and providing as follows:
+“This Court’s order of March 9, 1988, is hereby amended Nunc Pro Tunc to include the following language: ‘There is no just reason for delaying enforcement or appeal of the denial of plaintiff’s motion to reconsider this Court’s order of November 17, 1987.’ ”
+Plaintiff then filed a second notice of appeal on July 29, 1988.
+We find that we are unable to review the merits of the issues raised by plaintiff in his appeal in light of plaintiff’s failure to comply with Supreme Court Rule 341(e)(4)(ii) (122 Ill. 2d R. 341(e)(4)(ii). Rule 341(e)(4)(ii) was amended effective August 1, 1988, and provides in pertinent part as follows:
+“(ii) In a case appealed to the Appellate Court, a brief statement or explanation under the heading ‘Jurisdiction’ of the basis for appeal, e.g., whether as a final judgment under Rule 301 or Rule 304(a) or (b); or as an interlocutory appeal pursuant to Rule 306, Rule 307 or Rule 308.”
+In the case before us, plaintiff’s brief was filed on November 3, 1988. His brief contained no jurisdictional statement. The defendants’ brief in this case was filed on December 9, 1988. Defendants’ brief raises the issue of whether this court has jurisdiction to consider this appeal. In his reply brief, plaintiff addressed the issue of this court’s jurisdiction, maintaining that this court has jurisdiction of this appeal, but cited no authority in support of a finding of jurisdiction, in violation of Supreme Court Rule 341(e)(7) (107 Ill. 2d R. 341(e)(7)). In all this time, plaintiff has not sought leave of this court to file a jurisdictional statement.
+The question of jurisdiction of the appellate court must be determined prior to deciding the merits of an appeal. (Mar Cement, Inc. v. Diorio Builders, Inc. (1987), 153 Ill. App. 3d 798, 800.) However, the appellate court is not a depository in which the appellant may dump the burden of argument and research. (See Thrall Car Manufacturing Co. v. Lindquist (1986), 145 Ill. App. 3d 712, 719.) The purpose of the jurisdictional statement is to set forth the jurisdictional basis for the appeal. In the case before us, plaintiff has not provided us with a jurisdictional basis, nor has he addressed the merits of the questions raised by the defendants in regard to this court’s jurisdiction, such as the effect of the nunc pro tunc order which related back to the order of March 9, 1988. We also note that the order of July 25, 1988, refers to the order of November 17, 1988. The record before us contains no order dated November 17, 1988.
+Arguments that do not satisfy the requirements of Supreme Court Rule 341(e)(7) (citation to authority in support of argument) do not merit consideration on appeal. (Rockford Memorial Hospital v. Schueler (1988), 167 Ill. App. 3d 358, 362.) The failure of the plaintiff both in failing to file a jurisdictional statement and in failing to cite authority in his response to defendant’s challenge to the jurisdiction of the court has left this court with no choice other than to dismiss this appeal. Until now the failure to file a jurisdictional statement has resulted in a stern reminder to appellate counsel of the requirement of Supreme Court Rule 341(e)(4Xii), rather than a dismissal of the appeal. However, these were cases in which we noted both the newness of the requirement of a jurisdictional statement and that our jurisdiction of the appeal was clear. In the case before us, our jurisdiction of this appeal is far from clear. We are not required to do plaintiff’s homework for him and then grade it as well.
+We conclude, therefore, that based upon plaintiff’s violation of Supreme Court Rules 341(e)(4)(ii) and 341(e)(7), plaintiff’s appeal should be dismissed. 122 Ill. 2d R. 341(e)(4)(ii); 107 Ill. 2d R. 341(eX7).
+Appeal dismissed.
+NASH and INGLIS, JJ., concur.
