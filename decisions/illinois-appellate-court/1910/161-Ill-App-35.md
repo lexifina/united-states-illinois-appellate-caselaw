@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1910-11-12"
+citations: ["161 Ill. App. 35"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Defendant in Error, v. Orra F. Havill, Plaintiff in Error."]
+source_url: "https://static.case.law/ill-app/161/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2722729
+cites_cases: ["151 Ill. 512", "174 Ill. 221", "53 Ill. App. 267", "67 Ill. App. 422", "80 Ill. App. 353"]
+---
+
+# People v. Havill
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+An indictment for libel "was returned against plaintiff in error by the grand jury of Wabash county, at the April term, 1908, of the Circuit Court. It contained hut one count and charged that plaintiff in error was the publisher of a certain newspaper in the city of Mt. Carmel in said county, known as “ Havill’s Every’Morning;” that he wrote and caused to be published therein a certain false, scandalous and defamatory libel in the form of a letter purported to have been written by him to Hon. Enoch E. Newlin, the presiding judge of said court, concerning the acts of George P. Ramsey in his official capacity as state’s attorney for said county. The letter was headed “An open letter to Judge Newlin” and so far as the charges in the indictment are concerned or it is necessary to refer to here, contained the following statements :
+“The people of Wabash county have for years charged that the prosecuting attorney’s office in this county has been a position of graft. They now ask that you, as circuit judge, appoint a special prosecutor to investigate these charges. * * * The Lacer case was badly bungled or bought. Two thousand and five hundred dollars changed hands. Common talk says a state’s attorney got $500 of it. * * * The office of state’s attorney during the terms of M. H. Mundy, George P. Ramsey and Peter J. Kolb has been rotten. Will you as circuit judge give the taxpayers a chance to show you that it has? The people- of Wabash county believe that you are honest. They don’t want to change that opinion unless you force them to.”
+The indictment contained proper averments showing that the charges above mentioned were intended to refer to said George P. Ramsey. While the letter contained other charges, they appear to have been directed against the other two persons named in connection with the office of state’s attorney and were not referred to in the indictment. The fact that plaintiff in error wrote said letter was not contested and upon the trial he was found guilty by the jury and was sentenced by the court to a term in the county jail and to pay the costs.
+The proofs in the case were snch as to warrant the conviction, but counsel for plaintiff in error in his argument contends that the court erred in refusing a motion for a change of venue presented by plaintiff in error and also in rulings upon the evidence. He says: “Many reasons might have been assigned for a reversal of this case, but the refusal to grant defendant a change of venue as prayed, is so palpable an error, I see no reason to elaborate.” Whatever may be the merits of the motion for the change of venue, we are not at liberty to consider them, for the reason that neither the motion nor the affidavits in support thereof, nor the ruling of the court upon the same is preserved by the bill of exceptions. It is true that in that portion of the record outside of the bill of exceptions, the clerk certifies that the defendant filed a motion for a change of venue from two of the judges of the circuit, who are named, and that the same was denied; and also that what purports to be a copy of the motion and affidavits not made a part of the bill of exceptions, was filed in this court, after the filing of the original record, but all this is not sufficient.
+In Brewer v. Boddie, 80 Ill. App. 353, the rule is declared to be “Alleged error in refusal to allow a change of venue cannot be reviewed upon appeal, unless the motion and affidavits in support of it appear in the bill of exceptions.”
+In Bennett v. Baird, 67 Ill. App. 422, it is said: “It is assigned as error that the court refused a change of venue asked by Bennett and Green. It does not appear from the bill of exceptions that any notice of the application was given. The clerk has copied among the order and files of the case a paper purporting to contain such notice and service thereof, but it cannot be so preserved.”
+It is a general rule well established that affidavits not incorporated in the bill of exceptions and certified to by the trial judge, are not a part of the record for the consideration of courts of appellate jurisdiction. Anderson Transfer Co. v. Fuller, 174 Ill. 221; C. R. I. & P. Ry. Co. v. Calumet, 151 Ill. 512.
+In regard to the evidence plaintiff in error complains that he was not permitted to show what “the common talk” was concerning the charge that “a state’s attorney got $500.” We fail to find in the record any place where this question was propounded in reference to the prosecuting witness Bamsey and an objection sustained to the same. The court properly refused evidence of alleged misconduct of other incumbents of the office not in any manner connected with the charges made by plaintiff in error against Bamsey.
+Upon the trial another letter published by plaintiff in error under his name and directed to another judge of the same circuit, and containing references to the prosecutor’s office, as “rotten,” somewhat in the same vein as the letter above referred to, was admitted in evidence on the part of the prosecution, over objection of plaintiff in error. This letter however was offered in evidence only for the bearing it might have upon the question of malice upon the part of plaintiff in error and was properly admissible for that purpose. Sheen v. Peoria Journal Co., 53 Ill. App. 267.
+It was necessary for the state to show that the publication named in the indictment was maliciously made and the instructions given for the state so told the jury. The publication of a second article of a similar nature, would necessarily have some bearing upon that question.
+We have examined the instructions given in the case and find that the jury was properly instructed in regard to the law governing both sides of the case and that there was no error in the rulings of the court in that regard.
+The judgment of the court below will therefore be affirmed.
+Affirmed.
