@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "Term No. 55-O-20"
+decided: "1956-03-06"
+citations: ["9 Ill. App. 2d 359"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Betty Ann Winters, Plaintiff-Appellee, v. John Richerson et al., Defendants-CounterplaintiffsAppellants."]
+source_url: "https://static.case.law/ill-app-2d/9/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5151744
+cites_cases: ["151 Ill. App. 540", "171 Ill. App. 232", "236 Ill. App. 295", "3 Ill.App.2d 221", "349 Ill. App. 175"]
+---
+
+# Winters v. Richerson
+
+## Majority (JUSTICE CULBERTSON)
+
+JUSTICE CULBERTSON
+delivered the opinion of the court.
+This is an appeal from a judgment of the Circuit Court of Johnson County in favor of plaintiff, Betty Ann Winters, and as against defendant, John Richer-son, in the sum of $7,500; and in favor of Betty Ann Winters, as a counter-defendant, and against Betty June Richerson and Velma Hall, as counter-plaintiffs, on counter-claims filed by said counter-plaintiffs.
+On appeal in this court it is contended by appellants, defendant John Richerson and counter-plaintiffs Betty June Richerson and Velma Hall, that the court below erred in denying defendants’ motion for directed verdict at close of plaintiffs’ case and at the close of all the evidence; and in denying defendants’ motion for judgment notwithstanding the verdict; and, likewise, in denying1 the motions of counter-plaintiffs for a new trial. It is principally contended that the verdict was contrary to the manifest weight of the evidence; that improper demonstrative evidence was used; that the damages were excessive; and, that no proper verdicts were returned in the case.
+The action arose by reason of a collision between automobiles driven by defendant, John. Richer-son, and plaintiff. The counter-plaintiffs were passengers in the automobile being driven by' defendant. There was a conflict of evidence as to the facts immediately preceding the collision at a point where the defendant’s car had come out of a private driveway onto the highway, known as State Route 146, near Vienna, Illinois. It would not aid in the determination of this case to go into the evidence as to the respective versions of the cause of the collision. There was sufficient evidence, however, to justify submission of the case to the jury, and the court below properly refused the motion for directed verdict both at the close of plaintiff’s evidence and at the close of the case, and properly refused to enter judgment notwithstanding the verdict on motion filed by defendant at such time. Similarly, under the evidence and the facts in the record before us, the verdict in the sum of $7,500 could not be deemed an excessive verdict; nor could the verdict, under the facts, be deemed to be contrary to the manifest weight of the evidence.
+An interesting development in the case, which is one of the grounds cited for reversal by defendant, arose at the time of the return of the verdicts in the case by the jury. The jury first returned a verdict in favor of plaintiff and as against defendant, John Rieherson, in the sum of $7,500. The jury did not at such time return a verdict on the counter-claims. The court then ordered the jury to retire and consider the verdicts on the counter-claims. The original verdict had been returned as a sealed verdict and was opened the following morning in the presence of the jury. After the jury retired they returned verdicts on the counter-claims finding counterdefendant-plaintiff — not guilty. It is the contention of the defendant and counter-plaintiffs that the result was that no verdict was before the court in the case of plaintiff as against defendant. No such ground was raised in the motion for new trial, and apparently is being raised in the first instance on appeal in this court. It is obvious, however, that the court below properly received the verdicts, both on the claim of plaintiff as against defendant, and on the counter-claims; and that the particular ground thus asserted would not justify reversal (Heitz v. Hersheway, 3 Ill.App.2d 221; Wickizer-McClure Co. v. Bermingham & Seaman Co., 151 Ill. App. 540).
+The remaining ground which is raised by appellants relating to the use of demonstrative evidence is, under the record, one which impels this court to order a new trial. In the court below a skeleton was produced in the courtroom and doctors were permitted to testify by referring to such skeleton; and instruments which were used by surgeons in the operation on plaintiff were also produced in the courtroom. We have had occasion to consider the use of a skeleton in another case considered by us. (Smith v. Ohio Oil Company, a corporation, and Maurice M. Smedley, Term No. 55-O-12.) The observations made in such case are adhered to in the present case. The instant case, however, is one which compels a different conclusion. In the case before us the plaintiff produced the instruments which were used by surgeons, and a demonstration of operative technique was carried on in the courtroom. The courts of this State have always strongly disapproved of demonstrations of this nature (McHale v. McQuigg, 236 Ill. App. 295, 299; Shaw v. Corrington, 171 Ill. App. 232, 233; Hall v. Chicago & N. W. Ry. Co., 349 Ill. App. 175, 195). To permit an unlimited use of such demonstrations of operative technique with surgical instruments is not conducive to a fair and impartial consideration of the proper issues presented. The demonstration by medical witnesses of technique in the use of surgical instruments was not proper. It appears clear, therefore, that the ruling by the court in permitting such demonstrative evidence was error.
+This cause will, therefore, be reversed and remanded for a new trial.
+Beversed and remanded.
+BABDENS, P. J. and SCHEINEMAN, J., concur.
