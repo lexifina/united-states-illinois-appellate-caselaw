@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "14858"
+decided: "1978-10-06"
+citations: ["64 Ill. App. 3d 518"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN H. BARR et al., Plaintiffs-Appellees and Cross-Appellants, v. ALAN CUTLER, Defendant-Appellant and Cross-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/64/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3332513
+cites_cases: ["123 Ohio St. 349", "131 N.E .2d 100", "131 N.E.2d 100", "139 N.E.2d 330", "142 Wash. 259", "15 A.L.R.3d 774", "166 Ohio St. 85", "175 N.E. 588", "176 N.Y.S.2d 87", "184 F.2d 359", "192 A.2d 682", "198 N.E. 747", "238 N.C. 589", "241 N.E.2d 439", "252 P. 939", "292 Mass. 455", "297 F. Supp. 798", "392 S.W.2d 270", "41 Ill. 2d 32", "411 Pa. 425", "6 App. Div. 2d 142", "7 Ill. 2d 393", "79 S.E.2d 185"]
+---
+
+# Barr v. Cutler
+
+## Majority (Mr. JUSTICE CRAVEN)
+
+Mr. JUSTICE CRAVEN
+delivered the opinion of the court:
+The plaintiffs brought this action to recover damages resuiting from a fire occasioned by the aileged negligence of the defendant. As an affirmative defense, the defendant asserted his exculpation from liability by the terms of the lease he entered into with the plaintiffs. The lease stated, in part:
+“2. Lessee ” * # agrees during the occupancy of the premises to keep and maintain the premises * * * in as good condition and repair as the same shall be upon taking possession thereof, natural wear, injury by fire or other inevitable accidents excepted.” (Emphasis added.)
+During the tenancy, a grease fire ignited in a pan on the stove of the demised premises. The defendant summoned the fire department but was able to extinguish the blaze before their arrival. The parties have stipulated that the plaintiffs paid bills totaling $731 for repairs and cleaning after the fire.
+The jury rendered a verdict for the plaintiffs in the amount of $544. The defendant’s motion for judgment n.o.v. and the plaintiffs’ motion for additur were denied, and judgment was entered on the verdict.
+The precise questions on appeal are whether, under the contract, the tenant is excused from his common law liability for damage by fire to the premises alleged to have been caused by Ms negligence, and, if he is, whether he can assert his contractual freedom from liability as an affirmative defense in a tort action.
+Since we answer the above questions in the affirmative, it becomes unnecessary to address the plaintiffs’ cross-appeal for additur.
+Absent an express covenant or a statute to the contrary, a tenant bears a common law responsibility for damage to the demised premises resulting from his own negligence. (Cerny-Pickas & Co. v. C. R. John Co. (1955), 7 Ill. 2d 393, 131 N.E.2d 100.) It is our duty to determine from the entire lease the intent of the parties and to give effect to that intent. When the language of the instrument is doubtful or ambiguous, we must resort to rules of construction.
+The plaintiffs assert that it was the intent of the parties to exculpate the defendant from liability for only “inevitable” fires. The defendant, on the other hand, argues that damage from a fire resulting from his negligence is excepted.
+Considering the lease as a whole, we conclude that it was the intent of the parties to exculpate the defendant from liability for all “accidental” and “inevitable” fires. In drafting the printed lease form, the plaintiffs use words of qualification when excepting wear to the premises and accidents. The failure on the part of the lessor to qualify the word “fire” indicates an intent on his part. Additionally, damage due to “other inevitable accidents” remains unspecified, while fire is specifically mentioned. The ambiguity which exists in the wording of clause 2 of the lease can be clarified only by transposing the word “inevitable” or disregarding the word “other.” In conformity with the rule requiring us to construe the language of the lease against the party who drafted it, we find that the intent of the parties is more closely expressed by reading the phrase “natural wear, injury by fire or inevitable accidents excepted.” Where a landlord has drafted the lease, we will not impose by judicial construction of the lease a responsibility upon the lessee unless the circumstances and the contract clearly indicate the lessee intended to assume such a responsibility. No clear indication of such is present here and the defendant is relieved of any liability for damage from the fire under the contract.
+Our decision that the defendant is free from contractual liability for damage is in accord not only with Illinois law but also with the laws of the majority of jurisdictions which have addressed the question.
+In Cerny-Pickas & Co. v. C. R. John Co. (1955), 7 Ill. 2d 393, 131 N.E .2d 100, the lessee was, by contract, relieved of liability for fire damage caused by negligence where the lease contained the phrase “loss by fire and ordinary wear excepted” in the yield-up clause. The lessor, in Cerny-Pickas, conceded that the lessee had no contractual duty to repair the premises under the authority of Day Wood Heel Co. v. Rover (1931), 123 Ohio St. 349, 175 N.E. 588, and Slocum v. Natural Products Co. (1935), 292 Mass. 455, 198 N.E. 747. See also Rock Springs Realty, Inc. v. Waid (Mo. 1965), 392 S.W.2d 270, 15 A.L.R.3d 774; General Mills, Inc. v. Goldman (8th Cir. 1950), 184 F.2d 359 (applying Minnesota law); United States Fire Ins. Co. v. Phil-Mar Corp. (1956), 166 Ohio St. 85, 139 N.E.2d 330.
+In Galante v. Hathaway Bakeries, Inc. (1958), 6 App. Div. 2d 142, 176 N.Y.S.2d 87, the lessee was relieved of a duty to repair by the terms of the contract excepting “reasonable wear and tear and damage by fire and unavoidable casualty” although the court held the lessee subject to tort liability since by statute the State’s public policy forbade contracting out of one’s own negligence.
+Some jurisdictions allow lessors to recover for damages to the leased premises under similar facts. They do so primarily because their laws do not favor contracts between private parties which relieve one party of his own negligence, and their public policy requires resolution of an ambiguity against holding one party immune from liability for his own negligence. Sannit v. Aarons (D. Del. 1969), 297 F. Supp. 798; Dilks v. Flohr Chevrolet, Inc. (1963), 411 Pa. 425, 192 A.2d 682; Galante v. Hathaway Bakeries, Inc. (1958), 6 App. Div. 2d 142, 176 N.Y.S.2d 87; Winkler v. Appalachian Amusement Co. (1953), 238 N.C. 589, 79 S.E.2d 185; Carstens v. Western Pipe & Steel Co. (1927), 142 Wash. 259, 252 P. 939.
+The public policy of Illinois favors the right of private parties with reference to their private interests to contract in accordance with their needs. (But see Ill. Rev. Stat. 1977, ch. 29, par. 61.) In addition, society’s interests are met in part by the establishment of definite rules which enable individuals and businesses to allocate the risks of foreseeable losses. As in other Illinois cases, we note the desirability of avoiding construction of a lease which would require both parties to the lease to carry fire insurance if they are to be protected. Cerny-Pickas; Stein v. Yarnall-Todd Chevrolet, Inc. (1968), 41 Ill. 2d 32, 241 N.E.2d 439.
+There can be no question that the law of Illinois allows a lessee to assert as an affirmative defense in a negligence action his contractual freedom from liability.
+“There are areas of the law in which the distinctions between liability in contract and liability in tort may be significant, despite their remote and accidental origin. We are not satisfied, however, that such distinctions are relevant in determining the meaning to be given to words used by laymen in defining their rights and obligations.” Cerny-Pickas, 7 Ill. 2d 393, 397, 131 N.E.2d 100,103.
+For the foregoing reasons, the judgment of the circuit court of Champaign County is reversed.
+Reversed.
+REARDON and TRAPP, JJ., concur.
