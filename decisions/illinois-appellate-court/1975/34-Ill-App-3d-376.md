@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "61264"
+decided: "1975-11-20"
+citations: ["34 Ill. App. 3d 376"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. DeArmon Clayton, Jr., Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/34/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2958473
+cites_cases: ["11 L.Ed.2d 86", "289 N.E.2d 207", "318 F.2d 205", "375 U.S. 860", "7 Ill.App.3d 767", "84 S.Ct. 125"]
+---
+
+# People v. Clayton
+
+## Majority (Mr. JUSTICE MEJDA)
+
+Mr. JUSTICE MEJDA
+delivered the opinion of the court:
+Defendant, DeArmon Clayton, Jr., after a jury trial, was found guilty of the murder of his wife, Carol Ann Clayton (Ill. Rev. Stat. 1971, ch. 38, par. 9 — 1), and was sentenced to a term of 25 to 75 years. Defendant appeals, arguing that the trial judge improperly denied his motion to suppress evidence found when the police officers entered his apartment.
+Since defendant does not challenge the sufficiency of the evidence against him, a recitation of the facts adduced at trial is unnecessary. At the motion to suppress, Chicago Police Officer Ronald W. Meyers was the only witness to testify. He stated that on July 20, 1972, at approximately 6:20 p.m., he and his partner responded to a missing persons caH at the home of Mrs. Joyce Leslie, who informed him that her daughter, Carol Ann Clayton, left home at 1 p.m. to pick up Mrs. Leslie’s car at an automobile dealer’s service department two miles away. She had called the dealer whose place was then closed, and determined that her daughter never arrived, and the car was still at the dealer’s. Mrs. Leslie made several attempts to locate her daughter but was unsuccessful.
+Officer Meyers was informed that Carol Clayton and the defendant, her husband, were separated and in the process of getting a divorce. Mrs. Leslie stated that her daughter had been harassed by defendant who had been seen in the back yard and alley of the Leslie home at aH hours of the day and night. On one occasion he had attempted to gain entry to Carol’s bedroom but was unsuccessful. Three days before, at gun point he had forced Carol to remain in his apartment and various other homes all day and threatened to kill her. Mrs. Leslie told Officer Meyers that defendant always carried a gun.
+• Officer Meyers went to defendant’s apartment, rang the bell and knocked on the door, but did not receive any response. He testified that he could hear movement inside, and when no one came to the door he returned to the Leslie home. Mrs. Leslie made several more telephone calls but could not locate her daughter. Officer Meyers, learned that Carol left keys for defendant’s apartment at Mrs. Leslie’s. At approximately 7:10 p.m., Mrs. Leslie and Officer Meyers returned to defendant’s apartment; Officer Meyers knocked on the door but got no response, and he then instructed Mrs. Leslie to use the'key to open the door. He went into the apartment and saw Carol lying on the bed in the bedroom with a gun in her right hand, surrounded by blood stains. There were two bullet wounds on the left side of her body.
+Defendant’s only argument on appeal is that the trial judge improperly denied his motion to suppress the evidence found when the police entered his apartment. He seeks to have suppressed the body of the deceased, the gun and various items of personal property found in his apartment. In People v. Brooks (1972), 7 Ill.App.3d 767, 289 N.E.2d 207, this court rejected a similar contention, holding that in an emergency situation a police officer may properly enter a private home without a warrant. Hie court stated the rule:
+“In our opinion, determination of legality of the entry here depends upon the circumstances which confronted the police as determined from their point of view. If the entirety of all of the circumstances known to the police reasonably convinced them that an emergency or exigent circumstances existed which required immediate action, then they acted properly in entering the private home. In other words, ‘breaking into a home by force is not illegal if it is reasonable in the circumstances.’ Wayne v. United States, 318 F.2d 205, 212, cert. denied 375 U.S. 860, 11 L.Ed.2d 86, 84 S.Ct. 125.”
+In the instant case, Officer Meyers testified that he responded to a' missing persons call and had a conversation with Mrs. Leslie, during which he learned that six hours earlier her daughter, Carol Clayton, had gone to pick up Mrs. Leslie’s car from an automobile dealer approximately two miles away. Mrs. Leslie had called the dealer and found that her daughter never arrived and that the car was still there. Officer Meyers was also informed that Carol Clayton had been separated from defendant, her husband, from whom she was getting a divorce. Defendant had been seen lingering in the back yard and alley of Mrs. Leslie’s home on several occasions, and had tried to gain forcible entry into Carol’s bedroom in her mother’s home. Officer Meyers was informed that three days previously defendant had held Carol all day at gun point and had threatened to kill her. He was known to carry a gun at all times.
+Having this knowledge, Officer Meyers went to defendant’s apartment and tried to gain entry; , he could hear movement inside but no one answered the door. He then returned to the Leslie home and later, with Mrs. Leslie, went back to defendant’s apartment with a key belonging to Carol Clayton. They used the key to get in and found Carol’s body on the bed.
+The knowledge Officer Meyers had when he entered defendant’s apartment was sufficient to provide him with a reasonable belief that an emergency situation existed. The length of time Carol Clayton had been missing, defendant’s prior actions and threats toward her, and the fact that there was no response to Officer Meyers’ attempt to be admitted to the defendant’s apartment although he had heard movement inside, sufficiently demonstrated a reasonable belief that immediate action was necessary. Officer Meyers’ observing the body of Carol Clayton after entering the apartment justified the additional steps taken. All the items subsequently seized were in plain view. Under the circumstances of the case, we conclude that the trial- judge reached the proper conclusion when he overruled defendant’s motion to suppress the physical evidence.
+For the reasons stated, the judgment of the circuit court is affirmed.
+Affirmed.
+McGLOON, P. J., and DEMPSEY, J., concur.
