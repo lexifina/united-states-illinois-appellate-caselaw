@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "55589"
+decided: "1972-07-26"
+citations: ["6 Ill. App. 3d 892"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ann Loeb, Plaintiff-Appellant, v. Adolf Loeb, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/6/cases/0892-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2470887
+cites_cases: ["120 Ill.App.2d 102", "223 N.E.2d 545", "256 N.E.2d 121", "79 Ill.App.2d 220"]
+---
+
+# Loeb v. Loeb
+
+## Majority (Mr. JUSTICE ADESKO)
+
+Mr. JUSTICE ADESKO
+delivered the opinion of the court:
+After a hearing of a complaint for divorce in which plaintiff charged her husband with desertion, the Mai court entered a decree and ordered defendant husband- to pay $50.00 per week from the date of the decree, September 1, 1970, to June 15, 1974, in full satisfaction of all alimony due plaintiff. Plaintiff claims on appeal that the award of $50.00 per week alimony for a period of nearly four years was insufficient trader the evidence and constitutes an abuse of the Mai court’s discretion. The trial court also ordered defendant to pay plaintiffs attorney’s fees in the sum of $1500.00. Defendant filed a cross-appeal from the decree allowing plaintiff attorney’s fees. Plaintiff did not argue the matter of attorney’s fees in her brief and defendant withdrew his cross-appeal.
+A brief recitation of the facts here involved is necessary. The parties were married on April 20, 1958, and lived together for a period of approximately six years and 5 months. Both had been married and had children of said marriages but none of them were minors at the time of the decree of divorce. He was 42 years of age; she was 40 at the time of the marriage.
+At the time of the marriage plaintiff owned an 18 room house on East 48th Street in Chicago, which was unencumbered. Defendant earned approximately $95.00 per week, of which he paid between $50.00 and $53.00 for the support of his then minor children of a previous marriage. Plaintiff’s house was in need of repairs and it was advisable to sell it. Defendant wanted to move into an apartment renting for $165.00 per month. Plaintiff preferred an apartment costing $300.00 per month. When the parties could not agree, defendant suggested that they move into a house in Glencoe, which the parties bought. Plaintiff sold her house on East 48th Street for $36,000, $12,000 of which she applied as a down payment on the house in Glencoe and became liable on a mortgage of $30,000. She invested $2,000.00 of the proceeds in a five-year trust known as the Becker Trust.
+Two years later, on December 3, 1963, the parties sold the house in Glencoe from which sale plaintiff received $8,414.77 net. They then moved to 540 W. Stratford Place in Chicago. Defendant left plaintiff in August, 1964.
+Prior to marriage to the defendant, plaintiff had been under psychiatric treatments which continued after the marriage and cost substantial sums of money. Plaintiff had been a patient of psychiatrists continuously for several years prior to her marriage to defendant having been a patient of six different psychiatrists. At the divorce hearing, her psychiatrist testified that her marriage to the defendant was not the sole cause of her emotional problems and that she had family problems involving her son, which contributed to her condition described as reactive depression.
+Although plaintiff had not been employed prior to her marriage to defendant, there is no evidence that the condition of her health made her unemployable. For three years, 1966-1969, plaintiff managed her own company, a private employment agency in Chicago. In 1968, her salary from this agency was $5,821.59. At the time of her marriage to the defendant, the plaintiff had $10,000 in cash, the house on East 48th Street and other assets. She received $2,400.00 from the Becker Trust. In 1967 she received $3,900.00 from another investment known as the Gendel Trust, out of which she paid $2,000.00 back rent, $2,000.00 to her psychiatrist, miscellaneous bills of $2,500.00 and paid each of her two emancipated daughters $1,500.00. Between 1967 and 1970, she paid her medical expenses of $1,000.00, most of which was paid to her psychiatrist. In 1967-1968 she took a trip to Europe. In 1969 she gave her elder daughter $2,500.00 and $1,500.00 to the younger daughter, both of whom were emancipated at the time.
+The trial court found that plaintiff had during her marriage to the defendant, as her sole and separate property, assets of approximately $90,000.00; that on June 11, 1969, plaintiff’s said assets approximated $50,000.00 and that at the date of the decree, plaintiff’s said assets amounted to $23,000; and that the standard of living enjoyed by plaintiff during her marriage to the defendant was never furnished by the defendant.
+The defendant was a lawyer earning a modest salary and owned no property and had no investments. The trial court found that the defendant had little or no assets. He did have an income of approximately $29,000 in 1969.
+We find no abuse of the trial court’s discretion in reaching its decision. The record shows that plaintiff lived beyond her income and was extravagant. The plaintiff does not so charge the defendant.
+Plaintiff contends that the trial court had no right to order alimony in gross and that alimony in periodic payments is preferred because the court continues control over the award so that it may be responsive to the changes of the parties’ circumstances from time to time in the future. Plaintiff relies on Honey v. Honey, 120 Ill.App.2d 102; 256 N.E.2d 121, and Dmitroca v. Dmitroca, 79 Ill.App.2d 220; 223 N.E.2d 545. Neither of these cases holds that alimony in gross is inappropriate when it applies to the factual situation presented in the instant case. The marriage here was a second for each of the parties. No chHdren were born of this marriage or adopted by the parties. The marriage lasted for only six years during which time the defendant left the plaintiff on six different occasions for varying lengths of time. For the last seven years, the parties had been living separate and apart. Plaintiff during the marriage had separate property of her own amounting to $87,000 while defendant at no time had any property other than his salary. Plaintiff’s assets shrank considerably due to her carelessness involving financial matters. She had $23,000 left at the time of the decree. Plaintiff, though unemployed was a trained consultant in the field of employment counseHing and was employable.
+We find no abuse of judicial discretion on the part of the trial judge and therefore we affirm the decree entered by the trial court.
+Decree affirmed.
+DIERINGER, P. J., and BURMAN, J., concur.
