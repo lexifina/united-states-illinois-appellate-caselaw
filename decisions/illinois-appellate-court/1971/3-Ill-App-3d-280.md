@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "55249"
+decided: "1971-12-28"
+citations: ["3 Ill. App. 3d 280"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellant, v. Ralph R. Marotta et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/3/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2839858
+cites_cases: ["237 N.E.2d 495", "238 N.E.2d 168", "251 U.S. 385", "40 Ill.2d 62", "50 Ill.2d 136", "96 Ill.App. 2d 113"]
+---
+
+# People v. Marotta
+
+## Majority (Mr. JUSTICE SCHWARTZ)
+
+Mr. JUSTICE SCHWARTZ
+delivered the opinion of the court:
+Defendants were arrested and charged with three gambling violations following the search of their residence pursuant to a warrant obtained by the State. On a hearing before a magistrate certain evidence collected at the search was ordered suppressed. The case was then submittd by the State’s Attorney to a Grand Jury. The same evidence was used by the State to support an indictment which resulted in a hearing in the Circuit Court of Cook County. The State now appeals from an order of the Circuit Court sustaining defendants’ motion to suppress on the ground that the description of the premises in the warrant was too vague. Defendants contend that the description gave too much discretion to the officers and the judge found the warrant insufficient as a matter of law. The State contends that the order of suppression at the preliminary hearing was a non-appealable order and not binding on the trial cotut. The facts follow.
+The police officer involved received information concerning a gambling operation from an informer. The officer corroborated the information by listening to a call placing a bet made by the informer to the telephone number 274-6088 and accepted by a party who identified himself as Ralph. The officer then checked through the security section of the Illinois Bell Telephone Company and discovered the subscriber to the telephone number to be Samuel Marotta, 1215 West Arthur Avenue, 2nd floor, Chicago, Illinois. Officers in possession of a search warrant executed it at the foregoing address. Sport schedules were recovered and three telephones on two lines were found in the apartment. Defendants were arrested and were advised of their constitutional rights. They were charged with gambling, syndicated gambling and keeping a gambling place.
+Defendants presented a motion to suppress the evidence seized on the ground that the warrant was not adequately descriptive. The magistrate who conducted the hearing entered an order suppressing the evidence and the State dismissed the charges with leave to reinstate. Later an indictment was returned by the Grand Jury charging gambling, syndicated gambling and keeping a gambling place. Defendants again presented a motion to the Circuit Court to suppress the same evidence and also presented a motion entitled, “Plea in Bar of Prosecution,” in which they alleged that the matter before the court was the same as that which had been before the magistrate. Defendants contended that the State was now barred from seeking review of the magistrate’s ruling under the constitutional prohibition of double jeopardy.
+In addition to claiming that the premises to be searched were not specifically described in the warrant, defendants claim that the Illinois Constitution vests in the Supreme Court of Illinois and not in the legislature the exclusive power to make rules of appellate procedure from “other than final judgments.” The order suppressing evidence was an “other than final judgment” and the Illinois Supreme Court has determined by rule that the State may appeal such orders. (Supreme Court Rule 604(a); People ex rel. Stamos v. Jones, 40 Ill.2d 62, 237 N.E.2d 495.) Legislation contrary to that rule is without constitutional basis and the State’s appeal as exercised pursuant to that legislation has been barred. (People v. Taylor, May 1971, 50 Ill.2d 136.) The State lost its right to appeal when it failed to appeal the magistrate’s order.
+The State argues that the court had no basis in fact or in law to make the ruling that the search warrant was insufficient because the location was not specifically described. It is not necessary to decide the question of the sufficiency of the search warrant because the State has improperly taken its appeal to this court. In 1967 the General Assembly amended Section 109 — 3 of the Code of Criminal Procedure by adding sub-paragraph (e) as follows:
+“During preliminary hearing or examination the defendant may move for * * * dismissal of the charge * * *. If any such order of suppression of evidence or dismissal of the charge is allowed and issued in the course of any preliminary hearing or examination, such order of suppression or of dismissal shall be non-final, the state may not appeal therefrom, and such order of suppression or of dismissal shall not in any manner bar, affect or be determinative in any subsequent proceedings,”
+Also in 1967 the General Assembly amended Section 14 — 12(b) of the Code of Criminal Procedure which states:
+“* * # except that, if the order suppressing evidence is non-final according to Section 109 — 3 of this Act, the property shall not be restored and shall not because of such order be inadmissible in evidence at any proceeding other than such preliminary hearing or examination.”
+The State cannot contend that because of the amendments to Sections 109 — 3 and 114 — 12(b), the order of suppression at the preliminary hearing was not an appealable order and was not binding on the trial court. Defendants contend that Section 109 — 3 maldng such an order non-appealable violates Section 7 of Article 6 of the Constitution of Illinois, which provides that the Supreme Court may provide by rule for appeals to the Appellate Court from other than final judgments of the circuit court. Since the Supreme Court in Rule 604 has provided for appeals from orders suppressing evidence, the General Assembly is without authority to declare that such orders entered at a preliminary hearing are not appealable. In People v. Taylor, supra, the cotut said that the provision of Section 109 — 3(e) of the Code of Criminal Procedure, which provides that the State may not appeal from an order of suppression of evidence or dismissal of a charge allowed and issued in the course of a preliminary hearing or examination, violates Section 7 of Article 6 of the Illinois Constitution.
+Article 6 became effective on January 1, 1964. It contains references to the rule-making power of the Supreme Court in Sections 2, 5 and 7. Only in Section 5 does the Constitution grant to the General Assembly any right to participate in the rule-making procedure, which provided:
+“Subject to law hereafter enacted the Supreme Court has authority to provide by rule for appeal in other cases from the circuit courts directly to the Supreme Court.”
+Section 7 covers the subject matter now before us and provides as follows:
+“The Supreme Court may provide by rule for appeals to the Appellate Court from other than final judgments of the Circuit Court.”
+By that section the Constitution vests in the Supreme Court the sole authority to provide by rule for appeals to the Appellate Court from other than final judgments. Pursuant thereto the Supreme Court has adopted Rule 604 which provides for appeals from orders, the substantive effect of which results in the dismissal of a charge on the grounds enumerated in Section 14 — 1 of the Code of Criminal Procedure as follows:
+“» * * arresting judgment because of a defective indictment, information or complaint; quashing an arrest or search warrant; or suppressing evidence.”
+Thus in Taylor, supra, the court said:
+“Accordingly that portion of Section 109 — 3(e) of the Code of Criminal Procedure which declares that the State may not appeal from the interlocutory orders referred to therein is void.”
+(See People ex rel. Stamos v. Jones, supra.) It is our conclusion that the proceedings appealed from in the present case are based on a statute which is constitutionally invalid.
+Following the order of the magistrate at the preliminary hearing that the evidence be suppressed, the State proceeded to use the same evidence before the Grand Jury. The State was in error. Silverthorne Lumber Co. v. U.S. (1920), 251 U.S. 385; People v. Alexander, 96 Ill.App. 2d 113, 238 N.E.2d 168.
+The judgment of the Circuit Court of Cook County is affirmed.
+Judgment affirmed.
+LEIGHTON, P. J., and STAMOS, J., concur.
