@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-03-03"
+citations: ["47 Ill. App. 254"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Antony M. Bourdeaux, Supervisor, v. L. A. Coquard."]
+source_url: "https://static.case.law/ill-app/47/cases/0254-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2441135
+cites_cases: ["17 Ill. 450", "3 Ill. App. 326", "3 Scam. 344", "47 Ill. 529", "72 Ill. 508", "76 Ill. 189", "83 Ill. 215", "94 Ill. 528", "95 Ill. 134"]
+---
+
+# Bourdeaux v. Coquard
+
+## Majority (Mr. Justice Phillips.)
+
+Mr. Justice Phillips.
+Appellee brought suit against appellant as supervisor of the village and commons of Cahokia on the following order :
+“ State oe Illinois, 1 County of St. Clair. J ' Cahokia, III., Sept. 5, 1888. $225.00.
+Peter Godin, supervisor of the village and commons of Cahokia, in said county. Pay to Porter Lenard, or bearer, the sum of two hundred and twenty-five dollars, out of any money belonging to school funds in said village, with eight per cent interest from date. By order of the board of trustees of said village.
+Peter Quantin.
+Andrew Palmier, Louis Palmier,
+Clerk. President.”
+“25T o. 16,931.”
+At the time the order was drawn, one Peter Godin was the supervisor of Cahokia, and accepted the order by writing across it:
+“ Peter Godin, supervisor. P. O. address, Cahokia, Ill.”
+The defendant, Bourdeaux, as supervisor, is the successor of Godin. The defendant objected to the order being read in evidence because the same had not been indorsed by the payee. The objection was overruled and defendant then and there excepted. The declaration in declaring on the order does not bring the suit for the use of the plaintiff in the name of the payee, nor does the order appear to have been indorsed by the payee.
+The declaration contains a special count and the common counts; to the common counts the defendant pleaded the general issue, and to the special count filed special plea, averring that the said trustees had no power or authority to issue and deliver the order aforesaid, to which special plea the defendant filed replication, saying they did have power to do so. The defendant further pleaded to the special count, alleging that the trustees of the village and commons of Cahokia at the time of the execution and delivery of the order entered into an agreement with the liayee that said order should be executed and delivered; that said payee was to sell the same and • pay said trustees $100 therefrom, and that the lightning rods in the order mentioned were sold for $100. A further plea was filed denying that the lightning rods in the order mentioned were ever delivered to the trustees. To these two pleas a demurrer was interposed by the plaintiff and sustained, and to sustaining the demurrer, defendant excepted. The order not appearing to have been indorsed by the payee to the plaintiff, any defense might be set up against the order if the trustees had power to issue the same, against the plaintiff, even though he purchased for value, as could have been made against the payee. Turner v. The Peoria & Springfield Railroad Company, 95 Ill. 134; Garvin v. Wiswell, 83 Ill. 215; Roosa v. Crist, 17 Ill. 450; Hilborn v. Artus, 3 Scam. 344; Rabberman v. Muehlhausen, 3 Ill. App. 326. And although the order was payable to Lanard or bearer, it could not be transferred by delivery, so that any defense would be cut off that could be made against the payee; that it was error to sustain the demurrer to the pleas, and it was also error to allow the order in evidence under the averments of the declaration.
+A finding and judgment was rendered by the court for plaintiff for $265. The law authorizing the election of the trustees, their power and duties, is found in Sec. 4 of the laws of 1841, page 65. See Bowman’s Compilation, page 10. The section reads as follows:
+“ The proceeds of the commons so leased as above shall, after defraying the expenses of sale, be appropriated to the education of the children of the inhabitants of the village of Cahokia and for no other purpose whatever; to effect said object the inhabitants of said village shall elect three trustees annually, whose duty it shall be to provide a school house or houses and employ a teacher or teachers suitable and competent for the instruction of the pupils; said trustees shall have power to receive from the supervisor or lessees the amount of money due annually from the rents of said commons and transmit the same to their successors in office, should there be any in their hands, and shall moreover be required at the end of every year to render an account to the inhabitants of said village of all moneys which came to their hands, of the amount paid for tuition and school houses and the number of children taught. “ Under this statute the trustees derive all their power, and municipal corporations of this character can exercise no other powers than such as are expressly granted or necessarily implied to carry into effect the power granted.” Glidden v. Hopkins, 47 Ill. 529; School Directors of District No. 3, T. 9 N., R. S, v. Fogleman, 76 Ill. 189; Peers v. The Board of Education of School District No. 3, etc., v. Madison Co., 72 Ill. 508.
+The statute under which these trustees derived their power prescribed their duty, which is, <e To provide a school house or houses and employ a teacher or teachers suitable and competent for the instruction of pupils.” And they owe a further duty of transmitting to their successors in office any money which may come to their hands that is not necessarily used in providing school houses, and teachers, and to perform the duties prescribed they have power to receive from the .supervisor or lessees of the commons the amount annually due for rents, and apply such sum as may be necessary to pay for school houses or teachers. Under this prescribed power they can not purchase property on time, borrow money, nor issue commercial paper. In Hewitt v. Board of Education, 94 Ill. 528, it was held, “ Where a corporation is created for business purposes all persons may presume such bodies when issuing their paper are acting within the scope of their power. Not so with municipalities. Being created for governmental purposes, the borrowing of money, the purchase of property on time and the giving of commercial paper are not inherent or even powers usually conferred, and unless endowed with such power in their charters they have no authority to make and place on the market such paper, and persons dealing in it must see that the power exists. This has long been the rule of this court.” The power to receive and pay out moneys does not include the power to issue interest-bearing commercial paper; nor does it include the power to purchase property where no money is on hand to pay for the same. That the trustees had no authority to issue this order and it was error to enter judgment on the same.
+The judgment is reversed and the cause remanded.
+Reversed and rema/nded.
