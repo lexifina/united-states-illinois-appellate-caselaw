@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 63-F-23"
+decided: "1963-05-28"
+citations: ["41 Ill. App. 2d 408"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SCHEINEMAN, PJ and CULBERTSON, J, concur."]
+parties: ["Harold Liddell, etc., Plaintiff-Appellee, v. Noel Smith, Sherwood Land Company, a Corporation, Defendants-Appellants. William C. Theophanapoulos, Sophia C. Theophanapoulos, Midwest Construction Company, Ltd., a Corporation, Defendants."]
+source_url: "https://static.case.law/ill-app-2d/41/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2452739
+---
+
+# Liddell v. Smith
+
+## Majority (HOFFMAN, JUSTICE.)
+
+HOFFMAN, JUSTICE.
+This is an appeal from an interlocutory order of the Wayne County Circuit Court appointing a receiver of crops growing upon certain real estate.
+The plaintiff filed a complaint in 6 counts. Count VI, the only one pertinent to this appeal, alleged: that the plaintiff is engaged in the business of earth-moving, land clearing and development and construction in Wayne County;-that an or about September 1, 1959 together with the defendant and another person, he entered into an agreement for the formation of a corporation to be known as the Sherwood Land Company, for the purpose of purchasing and clearing uncleared timber lands in Wayne County; that pursuant to said agreement, the Sherwood Land Company was organized and stock issued; that thereafter, the plaintiff and the third person involved assigned to the company their rights in a certain tract of 960 acres of uncleared timber land in Wayne County; that thereafter the company entered into a contract with the Pawnee Construction Company to clear said 960-acre tract for $50 per acre, and that Pawnee began work under said contract; that the Sherwood Land Company thereafter contracted with the plaintiff whereby the plaintiff agreed to construct roadways, drains and levees to and upon said 960 acres and for which plaintiff was to be paid at the usual and going rate; that on or about August 1, 1960, after Pawnee had cleared approximately 200 of the said 960 acres, it defaulted on its contract; that thereafter it was agreed by and between plaintiff and the defendants that plaintiff would clear the remainder of said 960 acres of land 'and would be paid therefor at the same rate which was to be paid to Pawnee, and would be paid an additional amount of $12,500; that the plaintiff proceeded to clear the remainder of said 960 acres and constructed the necessary roads, drains and levees thereon.
+Count VI further alleged that while the plaintiff was engaged in clearing said 960 acres of land, it was agreed by and between him and the defendants that the company would purchase an additional 320 acres of uncleared timber land in Wayne County, and that the plaintiff would clear said land for the usual and going rate; that the plaintiff cleared said 320-acre tract, and that said labor and services performed on said 320-acre tract were furnished concurrently with the labor and services performed on said 960-acre tract; that said tracts were considered a single tract of land for all purposes by all parties and that the plaintiff claimed a lien upon all of the above-described land under and by virtue of the Mechanics’ Lien Law of the State of Illinois.
+The plaintiff’s prayer, based on said, Count YI, among other things, asked that a receiver be appointed to collect the rents, issues and profits of said premises.
+The defendants were defaulted, and, after a hearing which lasted 6 days, the court entered an interlocutory order appointing “a Receiver of the crops now growing on the land described in Count VT for the purpose of preserving the status quo pending determination of matters heretofore taken under advisement by the Court.” It is this interlocutory order which is being appealed from.
+As a consequence of the default, the relief demanded by plaintiff must strictly conform to and be supported by the allegations of the complaint. The defendant-appellants, to reverse the appointment of the receiver, contend that Count VT of the eomplaint “cannot under any hypothesis or interpretation, be considered as more than a foreclosure of lien” on the 320-acre tract, and show to the court that there is ample security in the land to cover the value of the work on the 320 acres, and that therefore the appointment of a receiver of the crops growing upon both tracts was neither needed nor justified. Defendants admit, however, that “if the Complaint is sufficient to permit Count YI to include the foreclosure of lien for the alleged work on the 960 acres, then the receiver was probably proper, since the 960 acres is heavily encumbered and the amount claimed due is quite large.”
+At the hearing, defendants did not object to the appointment of a receiver upon the basis that it was beyond the allegations of the complaint, as argued here, but based their sole objection upon the argument that the “receivership is unnecessary to preserve the status quo of the subject matter of this litigation, and that the plaintiff is adequately protected in the event he is able to establish his claim.”
+From a careful review of Count VI of the complaint, we believe that the argument of the defendants here is ill-founded, and that the allegations contained in said Count are sufficiently broad enough to include the foreclosure of a lien upon both tracts for the alleged work done upon both tracts.
+It is provided by the Mechanics’ Lien Act that the court shall have power to appoint receivers for property on which liens are sought to be enforced in the same manner and for the same causes and purposes as in cases of foreclosures of mortgages. Ill Rev Stats 1961, c 82, § 12. This power to appoint rests in the discretion of the court. ILP Mortgages, sec 342. The court in this case heard evidence for 6 days, a very small part of which is included in the record before us. Under such state of the record, we would be very reluctant to set aside the order here involved, and would do so only if it clearly appeared that the court abused its powers in this regard. Such proof is not evident here.
+Accordingly, we conclude that the pleadings were sufficiently broad enough to support the order complained of and that the issuance of said order did not constitute an abuse of the trial court’s discretion. The order appealed from is affirmed.
+Affirmed.
+SCHEINEMAN, PJ and CULBERTSON, J, concur.
