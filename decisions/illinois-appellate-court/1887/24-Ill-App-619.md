@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-02-17"
+citations: ["24 Ill. App. 619"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Chicago & Alton Railroad Company v. Joseph I. Hill."]
+source_url: "https://static.case.law/ill-app/24/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5780635
+cites_cases: ["16 Ill'. App. 209", "38 Ill. 424", "46 Ill. 494", "63 Ill. 220", "67 Ill. 109", "71 Ill. 640", "71 Ill. 642", "72 Ill. 25", "72 Ill. 537", "73 Ill. 58", "75 Ill. 577", "84 Ill. 397", "85 Ill. 370"]
+---
+
+# Chicago & Alton Railroad v. Hill
+
+## Majority (Conger, J.)
+
+Conger, J.
+This was a suit against the railroad company to recover the value of a cow killed by one of the company’s trains within the corporate limits of Boodhouse. Appellee recovered in the court below, and appellant asks a reversal of the judgment, on the ground, principally, that the verdict of the jury is not sustained by the evidence.
+The evidence shows that on the 15th of October, 1885, appellee’s cow was grazing on the west side of the railroad track at a point some 150 feet north of a public crossing, upon which she was afterward struck and killed. From the point where the cow was grazing, south to the crossing, there was a fence twenty-nine feet west of the track, and extending south about 130 feet the same distance from the track to. the street or crossing, so that when the cow started to run south she would be confined to this space of twenty-nine feet until she reached the crossing or street, when she could turn west away from the track, or east across the track.
+On the day in question appellant’s regular passenger and mail train, consisting of engine, mail and baggage car com bined, and three passenger cars, left the station at Boodhouse for St. Louis. After passing a curve the train reached the straight track about 300 feet north of where the cow was, the train running at the rate of about ten miles per hour. Paul, the engineer, says: “After I started around the curve I saw a cow on the west side of the track, eating grass. As I came onto the straight track, she started and ran down the side of the track a little ways and then took off toward the west to a fence around some lots, and I supposed she was going where some cows were grazing out on some vacant lots. After running off in that direction she turned suddenly about on the road and attempted to go across the crossing, when I struck her and, I suppose, killed her.” Other witnesses state that the cow ran nearly all the way upon the track, while others think she ran close to the track, within a few feet of the ends of the ties. The cow was at large, in violation of the ordinances of the town, and at a place where the road was not required to be fenced; so that the rule of liability was, as laid down in T., W. & W. Ry. Co. v. Barlow, 71 Ill. 642: “ The rule of liability, where an animal is unlawfully upon a railroad track, we conceive to be that the company is not in general liable, unless its servants, after they discovered that the animal was in danger, might, by the exercise of proper care and prudence, have prevented the injury; that it is not sufficient in such case to charge the company to show that they were running at a- high rate of speed, or without proper care in other respects.”
+The unquestioned facts were, that the engineer saw the cow grazing at the side of the track, when at least 300 feet from her; that upon approaching her he saw that she started to run south, and that she was confined to the space between the track and the fence, twenty-nine feet wide, and could not turn west, except to press closer to the fence until she should run a distance of about 130 feet to the crossing$ and that then it would be impossible to tell whether she would turn west, as the engineer says he expected her to do, and thus escape, or turn east across the track, as she did. The distance within which the train could have been stopped is shown by the fact that after the cow was struck, the train was stopped within the length of the engine and baggage car. The railroad was fenced south of the crossing, so that the animal was compelled to turn at the crossing. The engineer states that he did everything he could to stop the train when he saw the cow trying to cross the track, but made no attempt to do so prior to the moment that she reached the crossing and suddenly rushed on the track ahead of the train. We think it was a question for the jury to find from the facts whether the engineer was exercising proper care and prudence in thus racing along immediately behind this animal, without attempting to check his train, upon the mere hope or expectation that when she emerged from the trap where she was and reached the crossing, she would turn west instead of east; and their conclusion that the engineer, after he discovered the animal was in danger, might, by the exercise of proper care and prudence, have prevented the injury, we do not feel warranted in disturbing.
+The instructions of "appellee are not subject to the objections made by appellant, but are substantially correct.
+The judgment of the Circuit Court will be affirmed.
+AjJirTned.
