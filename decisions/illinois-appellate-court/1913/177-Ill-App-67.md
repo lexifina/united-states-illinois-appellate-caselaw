@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 16,716"
+decided: "1913-01-27"
+citations: ["177 Ill. App. 67"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. B. Cromley, Administrator, Defendant in Error, v. M. S. Dean, Plaintiff in Error."]
+source_url: "https://static.case.law/ill-app/177/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2813447
+cites_cases: ["1 Johns. (N. Y.) 94", "1 Johns. 94", "112 Ga. 279", "12 Mich. 241", "17 Gratt. (Va.) 47", "195 Ill. 27", "2 Patton & Heath, 144", "33 W. Va. 71", "34 Ind. 534", "40 Cal. 240", "45 Ill. 29", "47 Ill. 308"]
+---
+
+# Cromley v. Dean
+
+## Majority (Mr. Justice Baker)
+
+Mr. Justice Baker
+delivered the opinion of the court.
+Defendant in error Cromley as administrator of his deceased wife, recovered a judgment in the Municipal Court in an action of the fourth class against plaintiff in error Dean for $235, the amount remaining unpaid of the purchase price of certain shares of the capital stock of a certain corporation under the following instrument :
+“The Waldorf-Astoria,
+New York, April 13, 1906. Received of Mrs. J. B. Cromley 11,000 shares of stock in James Automatic Weighing & Recording Scale Co., on which have paid her Two Hundred ($200.00) and agree to pay balance of $200.00, being total of $400.00 for the stock.
+M. S. Dean.”
+The stock transfer law of New York of 1905 provides that a tax shall be collected on all sales or agreements to sell shares of stock in any domestic or foreign corporation of two cents on each hundred dollars of the face value; that the payment of such tax shall be denoted by adhesive stamps to be attached to the certificate of to the memorandum of an agreement to sell, as in the act provided; that if any person shall make any sale of stock without paying such tax, etc., he shall be deemed guilty of a misdemeanor, and upon conviction shall pay a fine or be imprisoned, or both, and in addition thereto shall forfeit to the people of the state a penalty of five.hundred dollars. Section 323 of said act is as follows:
+“#323. EFFECT OF FAILURE TO PAY TAX. No transfer of stock made after June first, nineteen hundred and five, on which a tax is imposed by this article, and which tax is not paid at the time of such transfer shall be made the basis of any action or legal proceedings, nor shall proof thereof be offered or received in evidence in any court in this state. ’ ’
+On each stock certificate in evidence a transfer was endorsed by Cromley to his wife, attached to the certificate is a transfer by Mrs. Cromley to defendant, and on no one of said transfers nor on the instrument sued on was any stamp placed.
+The rule that an unstamped instrument made inadmissible by the Internal Revenue Acts of 1864 and of 1898, is admissible in the courts of Illinois has been repeatedly announced by our Supreme Court. Richardson v. Roberts, 195 Ill. 27, and cases there cited.
+The Acts of Congress referred to provide that such unstamped instrument, “shall be deemed invalid and of no effect.” In the first case that arose under the Act of 1864 (Latham v. Smith, 45 Ill. 29), Mr. Chief Justice Breese said: “No power exists in the Congress to declare by law what shall or shall not be evidence in a State court, and what domestic contracts made by the people of the States, in virtue of their own laws, and having no connection with the federal government, shall be valid or the contrary.” See to same effect Craig v. Dimock, 47 Ill. 308; Wallace v. Craven, 34 Ind. 534; Duffy v. Hobson, 40 Cal. 240; Richardson v. Roberts, 195 Ill. 27; Small v. Slocumb, 112 Ga. 279, and cases there cited. These decisions, both as to the admissibility and validity of the unstamped instrument, are based on the want of authority in Congress to declare such instrument invalid or inadmissible except in courts of the United States, and therefore are not in point on the question whether a transfer of stock made in New York, on which the tax has not been paid as required by the statute of that state, can be sued on or proved in the courts of Illinois.
+We think that as to the admissibility of an unstamped instrument, the rule is, that although a stamp be required by the revenue laws of a foreign state before a document can be received in evidence there, such document may nevertheless be admitted in evidence without the stamp in the country wherein the suit is brought. 1 Rob. Prac. 271, 319; Lambert v. Jones, 2 Patton & Heath, 144; Holman v. Johnson, 1 Cowp. 341; James v. Catherwood, 2 Dow. & Ry. 190, 16 E. C. L. 165; Wagner v. Jackson, 2 Russ. 351; Brown v. Thornton, 6 Adol. & El. 185, 38 E. C. L. 50; McFee v. Ins. Co., 2 McCord (S. C.) 508.
+If Section 323 of the New York Act applies not to the validity of a transfer of stock when the tax is not paid, but only to the procedure, the plaintiff can maintain an action for the purchase price in this state, The section does not say that unless the tax is paid the transfer shall be void, but merely that no transfer of stock on which a tax is imposed by the act and not paid, “shall be made the basis of any action or legal proceedings, nor shall proof thereof be offered or received in evidence in any court in this state. ’ ’ It may be said that the words that no such transfer “shall be made the basis of any action or legal proceedings # * * in the courts of this state,” are equivalent to the words that, “no such transfer shall be valid;” but what we have to construe is not equivalent words, but the words we find in the statute. The statute of New York requiring transfers of stock to be taxed, is nothing more than a measure for raising revenue for the benefit of that state. As a means of securing the payment of the tax and for that purpose only, the payment of the tax is made a condition of the right to make such transfer the basis of a legal proceeding or offer evidence thereof in the courts of that State. To impose a like condition on the right to use the transfer here would be binding the courts of Illinois to enforce the payment of revenue to the State of New York, contrary to the settled doctrine that the courts of one state will not enforce the revenue laws of another. Fant v. Miller, 17 Gratt. (Va.) 47. This doctrine has been twice announced by the courts of New York. In Ludlow v. Renssalaer, 1 Johns. (N. Y.) 94, Livingston, J., said: “We do not sit here to enforce the revenue laws of another country.” In Skinner v. Tucker, 34 Barb. (N. Y.) 333, Ingraham, J., said: “It is not necessary to decide whether the contract on which this action was brought was void here for want of a stamp under the laws of Cuba. The case of Ludlow v. Benssalaer (1 Johns. 94) would sustain a recovery in our courts on the contract although not stamped. ’ ’
+We cannot say that the plaintiff may not, on making proper proof, maintain the action, and therefore the prayer of plaintiff in error that the judgment be reversed and the cause not remanded will be denied.
+To prove that plaintiff was the administrator of Ms deceased wife, appointed by a Surrogate of the County of New York, plaintiff introduced the following certificate:
+“No. 17,941.
+THE PEOPLE OF THE STATE OF NEW YORK To all to whom these presents shall come or may concern,
+SEND GREETING:
+Know Ye, That we, having inspected the Itecords of our Surrogates ’ Court in and for the. county of New York, do find that on the 24th day of July in the year one thousand nine hundred and eight, by said Court, Letters of Administration of the goods, chattels and credits of Lucy D. Cromley late of the' County of.New York, deceased, were granted unto James B. Cromley of the County of New York, and that it does not appear by said Records that said Letters have been revoked.
+In Testimony Whereof, we have caused the Seal of the Surrogates’ Court of the County of New York to be hereunto affixed.
+Witness, Hon. Abner C. Thomas, á Surrogate of our said county, in the City of New York, the 24th day of July in the year of our Lord one thousand nine hundred and eight.
+Daniel J. Dowdney,
+Clerk of the Surrogates’ Court.”
+The document was not authenticated otherwise than by the signature of the clerk. Our statute provides that an administrator appointed in another state may maintain an action in any court in this state to enforce claims of the estate of the deceased; provided that such person shall produce a copy of the letters testamentary or of administration authenticated in the manner prescribed by the laws of Congress, etc. The certificate admitted over the objection did not comply with the Act, and for that reason was improperly admitted in evidence. In the absence of the statute the certificate of the clerk to the contents of a record in his office is not admissible. Wigmore Ev., sec. 1674; Angell v. Rosenbury, 12 Mich. 241; Bartlett v. Patton, 33 W. Va. 71.
+For the error indicated the judgment is reversed and the cause remanded.
+Reversed and remanded.
