@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "57523"
+decided: "1973-09-07"
+citations: ["14 Ill. App. 3d 568"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Anthony O. Lynch (Impleaded), Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/14/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2686676
+cites_cases: ["113 Ill.App.2d 205", "119 Ill.App.2d 163", "136 N.E.2d 817", "207 N.E.2d 76", "211 N.E.2d 673", "220 N.E.2d 461", "224 N.E.2d 822", "243 N.E.2d 225", "252 N.E. 2d 35", "255 N.E.2d 208", "263 N.E.2d 840", "268 N.E.2d 369", "32 Ill.2d 441", "33 Ill.2d 417", "35 Ill.2d 390", "37 Ill.2d 40", "41 Ill.2d 364", "46 Ill.2d 348", "48 Ill.2d 41", "9 Ill.2d 92"]
+---
+
+# People v. Lynch
+
+## Majority (Mr. JUSTICE LORENZ)
+
+Mr. JUSTICE LORENZ
+delivered the opinion of the court:
+Defendant was convicted after a jury trial for the armed robbery of Beverly Wolff. After a hearing in aggravation and mitigation, he was sentenced to five to fifteen years. On appeal he contends that his petition for discharge under the 120-day statute was improperly denied, he was denied a fair trial by reason of his confession being admitted into evidence with its reference to narcotics, and his sentence is excessive.
+Prior to trial, defendant filed a motion to suppress his confession and a petition for discharge under the 120-day (speedy trial) rule; both were denied. At the hearing on the motion for discharge, it was determined that defendant was arrested on April 11, 1971, that he appeared in court for a preliminary hearing on April 12, 1971, and that on April 12 a continuance to May 1, 1971, was marked “motion defendant.”
+Since defendant does not argue on appeal that the State failed to prove him guilty beyond a reasonable doubt, the sufficiency of the evidence is not in issue, and we will only briefly summarize the facts adduced at trial. On April 2, 1971, three men entered the Lincoln Food Exchange Wholesale Grocery. One of the men, later identified as defendant, announced a “stick-up” by pointing a revolver at Beverly Wolff, an employee, and then fired a shot toward her son, Joseph Wolff, as he started to move towards the rear office. The intruders then took money from Beverly Wolff. Several days after the robbery, she made a photo identification of defendant. During the trial she again identified defendant as being the robber. Defendant’s confession was introduced into evidence which included, after a detailed description of the robbery, the additional statement that after leaving the scene of the crime, he “went to purchase narcotics.” The defense did not object.
+After his conviction, defendant filed a written motion for a new trial, alleging eight grounds in support thereof. The motion did not include an allegation that defendant’s petition for discharge was improperly denied.
+OPINION
+Defendant was arrested on April 11, 1971, and appeared in court for a preliminary hearing on April 12, 1971. The cause was marked “motion defendant” and continued to May 11, 1971. In arguing that his petition for discharge was improperly denied, defendant contends that since the April 12, 1971 delay was not, in fact, “occasioned” by him, his trial on August 30, 1971, was not within 120 days of his arrest and violated the 120-day rule (Ill. Rev. Stat. 1971, ch. 38, §103 — 5). Where the grounds for a new trial are stated in writing, the accused is limited on review to the errors alleged therein, and all other errors are deemed to have been waived. (People v. Hairston, 46 Ill.2d 348, 366-7, 263 N.E.2d 840, 851-2; People v. Irwin, 32 Ill.2d 441, 443-4, 207 N.E.2d 76, 78; Peo ple v. Nelson, 41 Ill.2d 364, 366, 243 N.E.2d 225, 226.) Since defendant’s written motion for a new trial failed to contain any reference to the issue now raised, we need not consider it.
+After his arrest, the defendant made a written confession which included a detailed description of the robbery and the additional statement, “We then left to purchase narcotics." Defendant contends that he was denied a fair trial by reason of the inclusion in the confession admitted into evidence of his reference to narcotics, which was unrelated to the offense charged and highly prejudicial.
+Objections to evidence may be waived by failure of the defense to interpose proper objections. (People v. Thompson, 48 Ill.2d 41, 268 N.E.2d 369; People v. McCrimmon, 37 Ill.2d 40, 224 N.E.2d 822; People v. Hicks, 35 Ill.2d 390, 220 N.E.2d 461; People v. Trefonas, 9 Ill.2d 92, 136 N.E.2d 817.) The Illinois Supreme Court in People v. Thompson, 48 Ill.2d 41, 46, 268 N.E.2d 369, 371, stated:
+“The salutary consequence of the waiver rule is that ‘A party cannot sit by and permit evidence to be introduced without objection and upon appeal urge an objection which might have been obviated if made at the trial.’ (People v. Trefonas, 9 Ill.2d 92, 98, 136 N.E.2d 817, 820.)”
+Since defendant failed to object to the admission of the entire confession into evidence, we find a waiver of his right to challenge its admission on appeal.
+We recognize that the waiver rule is inappliable on appeal where “substantial rights” are involved. (Ill. Rev. Stat. 1971, ch. 110A, § 615(a).) Even if the waiver rule did not apply to the case at bar, we would rule that the admission of the entire confession is subject to the harmless error rule since the evidence against defendant was so overwhelming as to preclude any prejudice. In fact, defendant does not even contend on appeal that the State failed to prove him guilty beyond a reasonable doubt.
+Defendant was sentenced to five to fifteen years after a trial by jury, while his accomplice, Rhuvelmar Williamson, received five years probation after pleading guilty before the same judge. Defendant argues that his sentence is excessive and that it served as punishment for exercising his constitutional right to a jury trial. Defendant’s sentence is well within the statutory limits imposed by the Unified Code of Corrections (Ill. Rev. Stat., 1972 Supp., ch. 38, §1005 — 8—1). In sentencing defendant’s accomplice, Williamson, the trial judge mentioned three reasons why a lighter sentence was imposed: (1) Williamson agreed to testify if necessary for the State against defendant, (2) Williamson was making véry good progress in a drug rehabilitation program, (3) he did not fire the gun, but defendant did. The imposition of different sentences to co'defendants alone does not impeach the sentence. (People v. Cox, 119 Ill.App.2d 163, 255 N.E.2d 208.) The trial judge had an opportunity, superior to ours, “in the course of the trial and hearing in aggravation and mitigation to make a sound determination concerning the punishment to be imposed * * (People v. Taylor, 33 Ill.2d 417, 424, 211 N.E.2d 673, 677; People v. Adams, 113 Ill.App.2d 205, 220, 252 N.E. 2d 35, 43.) In view of the different circumstances surrounding defendant’s case and Williamson’s case, we do not believe that defendant was punished for exercising his constitutional right to a jury trial. In view of the nature of the crime committed by defendant, we feel that this is not an appropriate case for this court to exercise its power to reduce the sentence.
+The judgment of the circuit court of Cook County is affirmed.
+Affirmed.
+DRUCKER, P. J., and SULLIVAN, J., concur.
+§ 103 — 5(a) provides in part:
+“Every person in custody in this State for an alleged offense shall be tried by the court having jurisdiction within 120 days from the date he was taken into custody unless delay is ocasioned by the defendant * e
