@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-05-25"
+citations: ["28 Ill. App. 529"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Goff v. The Toledo, St. Louis and Kansas City Railroad Company."]
+source_url: "https://static.case.law/ill-app/28/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4959998
+cites_cases: ["11 Ill. App. 324", "5 Ill. App. 234", "68 Ill. 545", "71 Ill. 417", "83 Ill. 238", "90 Ill. 333"]
+---
+
+# Goff v. Toledo, St. Louis & Kansas City Railroad
+
+## Majority (Wall, J.)
+
+Wall, J.
+The Circuit Court sustained a demurrer to the declaration, and rendered judgment against the plaintiff for costs. The only question is, whether a cause of action was well stated in the declaration or either count thereof. .The second count alleged, in substance, that the defendant was a railroad corporation operating a railroad, etc.; that a wreck occurred on the road, by which the track was obstructed, and that defendant sent its machinery, ropes and other apjdiances in charge of its agent and employes to clear the track; that it was the duty of defendant to furnish safe ropes, machinery and appliances for said purpose, but that it negligently furnished unsafe and insufficient ropes, and could have had notice of the unsafe condition of the ropes, hut negligently and carelessly failed to use proper care and diligence to ascertain the same; that one of said ropes was attached to a car> being a part of the wreck, and that the laborers in charge of defendant’s said agent were required to pull on said rope, but they being unable to move the car on which they were so pulling, the said agent of defendant ordered the plaintiff to take hold of the rope with said laborers and assist in the removal of the car, and the plaintiff did accordingly lay hold of the rope, using due care and diligence, and with the said laborers under the command of said agent pulled on said rope, which, in consequence of its being unsound, broke, and gave way, whereby the plaintiff was thrown down and his leg broken-We think this count substantially good.
+If the question were as to the liability of the defendant to pay for services so rendered by plaintiff, in assisting to remove the wreck, we would answer it in the affirmative.
+The agent thus sent out in charge of a wrecking crew would have had apparent authority to do what was necessary for the purpose in hand, and if there was need for another man or two in aid of the force at his disposal, it would be within the scope of his authority in such an emergency to employ such needed assistance, and it may therefore be assumed that the plaintiff occupied the same position as the other laborers and had the same legal rights. If the service was rendered gratuitously he would be no worse off; indeed, in such case he might well insist upon a stricter measure of liability, not unlike that of a gratuitous bailee. But regarding the parties as occupying the relation of master and servant, it was the duty of defendant to have used all reasonable and ordinary care to provide safe appliances, and the law will imply and infer notice of any defect which, by the use of ordinary care, might have been known to the master. Plaintiff might well suppose proper care had been used. Now, the allegation here made is that the defendant negligently furnished unsafe and insufficient ropes and neglected to use proper care to ascertain the condition thereof, though such fact might have been so ascertained. This is in effect a statement of a breach of the duty which the law devolves upon the master in this respect. Jt is true, the declaration also alleges it was the duty of the defendant to furnish safe ropes, etc., and it is urged that this is an allegation which would make the master absolutely liable as an insurer of the safety of the appliances furnished. This allegation is merely the pleader’s argument, and might have been wholly omitted without impairing the pleading. While 'it is unnecessary, it does not render the declaration defective. Titile^ per inutile non vitiatur. But, construing it with the other allegations above quoted, it amounts to no more than the usual averment of the duty and liability arising upon the facts alleged. Assuming that plaintiff was justified in responding to the request made by the agent of defendant, and that, as alleged, he exercised due care in doing so, a cause of action is made out. The judgment will be reversed and the cause remanded.
+Reversed and remanded.
