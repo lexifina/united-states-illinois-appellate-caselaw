@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-10-12"
+citations: ["89 Ill. App. 103"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Whitham et al. v. The People, for use of, etc."]
+source_url: "https://static.case.law/ill-app/89/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5281415
+---
+
+# Whitham v. People
+
+## Majority (Mr. Presiding Justice Crabtree)
+
+Mr. Presiding Justice Crabtree
+delivered the opinion of the court.
+This was an action of debt, brought in the name of the people, for the use of Kingman & Co., against appellant as conservator of E. G. Richter, an insane person, and also against William Gamblin and W. P. Corbin, sureties, on the bond of said Whitham as such conservator.
+The claim of appellees is based upon the alleged sale by Whitham of a corn shelter belonging to Richter, and upon which Kingman & Co. held a chattel mortgage.
+The declaration set out the conservator’s bond and alleged ■as a breach thereof, that Whitham sold the corn sheller in controversy, and refused to pay over the proceeds thereof •to Kingman & Co. There was a demurrer to the declaration, which was overruled. Defendants thereupon filed four pleas; a demurrer was sustained to the first and third and overruled as to the second and fourth. The defendants withdrew the second plea, leaving only the fourth, which set up as a defense that Richter was insane at the time he gave the mortgage and was incapable of transacting business. Appellees filed a replication to the fourth plea, alleging that the mortgage referred to was executed by E. G. Richter to secure three certain promissory notes executed by said Richter to said Kingman & Co., and that the said mortgage and three notes were executed by said Richter simultaneously, and as a part of one entire transaction, and that on March 4, 1896,' said Kingman & Co. filed -its declaration in the County Court of Peoria County, Illinois, declaring upon .said three notes, whose aggregate amount did not exceed the sum. of $700, and that in said suit the said E. G. Richter, by his conservator, George Whitham, one of the defendants herein, filed pleas in said suit in defense 'thereof, upon which pleas issues were joined, and that afterward said suit came on for a hearing before the said court, whereupon said George Whitham withdrew his said plea, and upon said hearing the issues were found for said plaintiff, and judgment was rendered by said court in said cause, and upon said notes in favor of said Kingman & Co., and against the said E. G-. Richter for the full amount thereof and for costs of suit, which judgment then and still remains in full force and effect, and that by reason of said judgment and the matters and things adjudicated therein the defense sought to be interposed by the defendants is now res adjudieata, etc.
+A demurrer to this replication was overruled and the defendants elected to stand by their demurrer. Thereupon the cause was heard by the court by agreement, the issues found for the plaintiff on the replication to the fourth plea (as stated in the record), and the plaintiff’s damages assessed at $300. The court thereupon rendered judgment against appellants for $800 debt (the penalty of the bond), and $300 damages, and the defendants appeal to this court.
+We are of the opinion that the declaration did not disclose a cause of action. The conservator’s bond was given for the use of the ward, Richter, and not for the purpose of securing any outside parties. There was no breach of the conditions of the bond for which the sureties were liable. If Whitham wrongfully converted to his own use any property belonging to Kingman & Co., he might be personally liable to them, but not on his bond as conservator. If he accounted for the proceeds of the corn sheller as a part of Richter’s estate, Kingman ife Co. could have applied to the County Court for an order on the conservator to pay such proceeds to them, but we do not see, in any event, how the sureties were jointly liable with the conservator for any breach of the conditions of the bond, under the facts set forth in the declaration and appearing in the evidence.
+The demurrer to the declaration should have been sustained. But the fact that it was overruled will not entitle the plaintiff to judgment if the declaration is insufficient to support such judgment. While it may be doubtful whether the defendants’ demurrer to plaintiffs’ replication to the fourth plea, could be carried back to the declaration, we deem that question not of sufficient importance to require discussion. The assignment of errors that the judgment is contrary to law sufficiently presents the question whether, upon the whole record the plaintiff is entitled to judgment, and we hold that the judgment must be reversed because the declaration does not set forth a cause of action, and is entirely insufficient to support the judgment. Under this view of the case it is unnecessary to discuss the question of res adjudicate to which a large part of the arguments of counsel on both sides is devoted.
+For the reason given the judgment must be reversed.
