@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-12-09"
+citations: ["24 Ill. App. 471"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Reynolds v. Timothy Moshier, for use of, etc."]
+source_url: "https://static.case.law/ill-app/24/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5779848
+cites_cases: ["72 Ill. 559"]
+---
+
+# Reynolds v. Moshier
+
+## Majority (Lacey, J.)
+
+Lacey, J.
+This was a suit commenced before a Justice of the Peace, and judgment rendered against appellee, whereupon it was' appealed to the Circuit Court, and was there tried by a jury and verdict and judgment in favor of appellee for $18.05.
+The basis'of the suit was a purported promissory note for the sum of $9, dated October 28, 1876, due seven months after date, payable to Timothy Moshier and signed by W. H. Reynolds and J. A. Reynolds. The appellant by affidavit put in issue the fact of the assignment to or the ownership of the said Elizabeth Reynolds, in the said note.
+The evidence on the part of appellant tended to show that the note was taken by him to Timothy Moshier for personal property sold by him as the agent of said Timothy Moshier, at a chattel mortgage sale of property, on a chattel mortgage given by S. M. Reynolds to said T. Moshier, in January, 1875, and that said T. Moshier gave the note to appellant for his services, and that said T. Moshier had never assigned or in any manner delivered the said note to Elizabeth Reynolds or any one for her, and the said Timothy Moshier disclaimed any interest in the note or of having any claim against appellant, and that the note was not given for any property of Marion Reynolds not in the chattel mortgage.
+The evidence of the appellee tended to show that S. M. Reynolds, the husband of Elizabeth Reynolds and the maker of the chattel mortgage, had some other property not in the chattel mortgage and at the sale had it sold by his brother, the appellant, with the mortgaged property, but he never talked with Timothy Moshier about it. That some of his property was sold at $9, to appellant, and James signed it as security. It was in the note book with the other notes, and that on the night of the day of sale appellant handed the note to him and that ever since that time the note has been in the possession of the said S. M. Eeynolds.
+Upon this state of the evidence the court below instructed the jury on the part of appellee as follows:
+“The court instructs the jury for the plaintiff that if they believe, from the evidence, that the defendant William H. Eeynolds bought at public sale of his brother’s effects property to the amount of the note and gave his note on the day of sale, with his brother James Eeynolds as security, and" that the note was made payable to Mr. Moshier as accommodation to the owner, Marion Eeynolds, that the owner took possession of the note on the day it was given and has had it ever since, and that the note was never paid to either Moshier or Eeynolds, then it will be the duty of the jury to find for the plaintiff the amount due on the note.” The appellant then asked the court to instruct the jury by his third refused instruction, that, “ in order to give validity to a promissory note, there must be not only an execution thereof, but there must be a delivery to payee or some one for the payee, and in this case, if the plaintiff, in behalf of Elizabeth Eeynolds, claims that the note was never given for the property to which Moshier had any claim, that Moshier never had anything to do with the note and knew nothing about it, that it was given for property of Marion Eeynolds and the note was never delivered to Moshier or any one for him, but was delivered 1o Maricn Eeynolds, then if such claim is sustained by a preponderance of the evidence, the plaintiff Moshier never was the legal holder of the said note, and this suit can not be maintained.” But the court refused to give the said instruction to which ruling the appellant, at the time, excepted.
+Thereupon the jury found a verdict for the appellee for §18.05, and after refusing to set aside the verdict and grant a new trial, the court rendered judgment on the verdict, from which judgment this appeal is taken, and the giving of the appellee’s instruction above recited and the refusing the appellant’s instruction Mo. 3, is assigned, among other things, for error.
+The evidence in the case almost conclusively showed that the note in question was made payable to Moshier, if it was given for property not in the mortgage, without any authorityfrom him, either express or implied. It was done without his authority or consent, and was not within the general scope of the authority given to appellant to sell the mortgage property and to take notes thereon. It seems the giving of the note in question, according to Marion’s evidence, was a device entered into between him and appellant to secure his property from his creditors, without Moshier’s knowledge or acquiescence. Evidently under such circumstances the pretended note would be void. The note, as a note, was worth no more than blank paper. It requires the consent of the payee of a note, as well as the maker, to make it valid. Mot only must it be signed, but it must be delivered, to make it a note.
+This note, invalid as it was, if given for property not covered by the mortgage could not be vitalized by delivery by appellant to Marion Reynolds, and by him to his wife, Elizabeth. Defense can be made to it in either of their hands, as there was no indorsement of the note by Moshier. This principle has been fully decided in the First National Bank v. Strang, 72 Ill. 559.
+It follows, then, that the court erred in giving the above instruction on the part of the appellee, and in refusing the appellant’s third refused instruction. Again, if the evidence showed that it was the property of Moshier included in the chattel mortgage, then Moshier had a right to dispose of it to appellant in any way he saw proper, accounting for it to Marion Reynolds.
+For the reasons above given the judgment is reversed and the cause remanded.
+Reversed cmd remanded.
