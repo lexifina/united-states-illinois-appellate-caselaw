@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-06-26"
+citations: ["47 Ill. App. 513"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James T. McCasland v. John Doorley."]
+source_url: "https://static.case.law/ill-app/47/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2439581
+cites_cases: ["17 Ill. 508", "26 Ill. 232", "58 Ill. 232", "59 Ill. 98", "71 Ill. 287", "72 Ill. 442", "88 Ill. 49"]
+---
+
+# McCasland v. Doorley
+
+## Majority (Mr. Justice Green.)
+
+Mr. Justice Green.
+This was a suit in assumpsit commenced by appellee against appellant to recover for plastering certain houses. It was tried in the City Court of East St. Louis on appeal from justice’s court, and plaintiff recovered a judgment for $125 and costs. From this judgment defendant appealed and brings the record to this court for review. It is undisputed that McCasland, the appellant, owned the lots in East St. Louis, upon which, with his knowledge and consent, one Brockett erected three houses, and contracted with various parties for labor, lumber and other materials used in constructing the same. Among others, he contracted with appellee for the plastering of the houses for a stipulated price. The evidence shows appellee did the work; that a balance of $125 was due him therefor, and was unpaid when he commenced this suit; that before this suit was commenced, and after said houses were constructed, appellant entered into possession thereof, took and received to his own use, rent therefor, claiming to own the same; that he does own said houses and lots, and has accepted and received the benefit and advantage of the increased value given to his property by the erection of these houses; that afterward parties furnishing material and labor under their contracts with Brockett were about to enforce their liens for the amounts due them, and in fact the firm which furnished lumber had commenced proceedings to that end, when, in order to stop such suits and relieve the property from such liens, appellant paid said lumber bill in full, and paid other of said parties, and if Mr. Bartholomew was his agent, a fact the jury were warranted by the evidence in finding, and if the jury believed appellee’s testimony, appellant also, by such agent, paid appellee part of the debt due him and promised to pay him the balance; furthermore, an examination of the record satisfies us the jury were warranted by direct testimony, by the acts and declarations of appellant and his agent, and other facts and circumstances proven, in finding that appellant, in consideration of Brockett’s release of all right and interest in the property, and delivering the possession of said houses to appellant, agreed with and promised Brockett to pay all the indebtedness owed by the latter for material and labor bestowed in the construction thereof, and entered into possession.
+It is urged on behalf of appellant that no such promise and agreement was established by the proof, and if any promise to pay appellee’s debt was made by appellant, it ivas not in writing, and being made after the work was all done, was void, under the statute of frauds. We have already given our view of the facts established by the proof, and hold the jury were justified in finding that the appellant, for a good and valuable consideration, moving from Brockett, promised the latter to pay his creditors all the debts he owed them for labor and material furnished in the construction of the houses. This promise, as we understand the law, was not void, although made after the work ivas done and not in Avriting. It appears Brockett, Avho Avas a builder, met appellant and Avanted to buy lots of him, to erect some houses upon, and appellant told him he had property for sale, and showed it to Brockett, Avho selected the lots on Avhich the three houses Avere built, and told appellant he Avanted to buy them. Appellant agreed to sell him the lots at a price stated, and says he partly agreed to take a second mortgage to secure the payment. Thereupon Brockett, Avith the knowledge and consent of appellant, entered into possession of the lots and erected the buildings.
+The relinquishment by Brockett to appellant, of this possession, and of all his rights as purchaser, in and to the property, constituted, as we hold, a good consideration for the promise to Brockett by appellant, to pay his indebtedness, Avhich included the debt due appellee.
+It Avas a promise in the nature of an original undertaking, to pay a debt to a third party, and was not required to be in Avriting, and was not Amid under the provisions of the statute of frauds. Eddy v. Roberts, 17 Ill. 508; Corbin v. McChesney, 26 Ill. 232; Runde v. Runde, 59 Ill. 98; Wilson A. Bevans, 58 Ill. 232; Scott v. White, 71 Ill. 287; Meyer v. Hartman, 72 Ill. 442; Walden, v. Karr, 88 Ill. 49-51.
+In any vieAV Ave can take of this case, the recovery Avas right, and the judgment is therefore affirmed.
+Judgment affirmed.
