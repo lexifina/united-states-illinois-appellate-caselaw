@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "57532"
+decided: "1973-05-09"
+citations: ["14 Ill. App. 3d 634"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Calvert Distillers Co., Plaintiff-Appellee, v. Robert J. Vesolowski et al., d/b/a Foremost Liquors, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/14/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2680700
+cites_cases: ["132 Ill.App.2d 833"]
+---
+
+# Calvert Distillers Co. v. Vesolowski
+
+## Majority (Mr. JUSTICE DIERINGER)
+
+Mr. JUSTICE DIERINGER
+delivered the opinion of the court:
+The plaintiff, Calvert Distillers, alleged the defendants, Robert J. and Irene Vesolowski, doing business as Foremost Liquors, violated certain provisions of the Illinois Fair Trade Act (Ill. Rev. Stat, ch. 121½, §§ 188-191). Following a hearing in the Circuit Court of Cook County, the trial court entered a temporary injunction wherein the defendants were restrained from advertising, offering for sale or seUing plaintiff’s products below their Fair Trade prices. The defendants appeal from the injunctive relief granted the plaintiff.
+The issues presented for review are: (1) whether the plaintiff is a proper legal entity; and (2) whether the injunction issued by the trial court is specific as to its terms.
+On December 15, 1971, the plaintiff, Calvert Distillers Company, filed a complaint in the Circuit Court of Cook County requesting temporary and permanent injunctive relief. The complaint alleged the defendants wilfully and knowingly advertised and offered for sale fifths of Calvert Extra at $3.49 when the Fair Trade price was $4.49. The defendants were served with notice on December 16, 1971, wherein it was stated a hearing on the plaintiff’s motion for a temporary injunction would be held on December 21,1971. The defendants did not appear at the hearing and a temporary injunction restraining the defendants from wilfully and knowingly advertising, offering for sale and selling certain Calvert products at prices less than those established pursuant to contracts entered into by the parties in accord with the Fair Trade Act was entered. Thereafter, the defendants filed a motion to dismiss the complaint because there was no legal entity in the name by which the plaintiff was designated. The defendants also filed a motion to dissolve the temporary injunction. On April 4, 1972, and later on April 11, 1972, the trial court respectively denied these motions, from which orders the defendants herein appeal.
+The first issue presented for review is whether the plaintiff is a proper legal entity. The defendants contend the plaintiff, Calvert Distillers Company, a division of The House of Seagram, Inc., a Delaware corporation, is not a legal entity thereby making the instant lawsuit a nullity. The basis for this contention is the defendant’s assertion that the party seeking relief in the instant case is not an actual legal entity and, therefore, allowing the complaint to stand violates section 21(4) of the Civil Practice Act (Ill. Rev. Stat., ch. 110, §21(4)), which states:
+“(4) A party shall set forth in the body of his pleading the names of all parties for and against whom relief is sought thereby.”
+In arriving at their conclusion that the plaintiff is not a legal entity, the defendants have apparently overlooked section 21(3) of the Civil Practice Act (Ill. Rev. Stat, ch. 110, §21(3)), which states:
+"(3) Misnomer of a party is not ground for dismissal but the name of any party may be corrected at any time, before or after judgment * *
+It is clear to this court that, although a misnomer is apparent in the title of the instant case, there is an actual plaintiff, namely, Joseph E. Seagram and Sons, Inc., into which the House of Seagram was merged. The apparent misnomer, as provided by section 21(4) of the Civil Practice Act, is easily corrected and, as stated on oral argument, would have been so corrected had not the notice of this appeal been filed, thereby terminating proceedings in the Circuit Court. We therefore see no reason to entertain the defendants’ contention that the instant lawsuit is a nullity. All parties were fully aware of the identity of the actual litigants and the contract in question.
+The second issue presented for review is whether the injunction issued by the trial court is specific as to its terms. The defendants contend the failure of the trial court to include both the name of each Calvert product as well as its Fair Trade price in the injunction renders the injunction invalid, in that without such names and prices the injunction lacks necessary specificity. The defendants base this contention not only on their interpretation of the respective statute section pursuant to which the instant injunction was entered, namely, Illinois Revised Statutes, chapter 69, section 3 — 1, but also the decision in Illinois School Bus Co. v. South Suburban Safeway Lines, 132 Ill.App.2d 833 (1971), wherein tire court held a temporary injunction invalid for failure to concisely and clearly advise the defendant of the conduct enjoined.
+The decision in Illinois School Bus Co. v. South Suburban Safeway Lines, supra, rendering the temporary injunction in that case invalid is readily distinguished from the instant case. The injunction rendered invalid in the Illinois School Bus case, unlike the instant injunction, placed a burden on the defendant of construing three statutory provisions and determining precisely which of the respective statutes were to be applied so as to comply with the injunction. The instant injunction, however, does not pose such a problem to the enjoined parties. The products which the defendants are enjoined from advertising, offering for sale and selling are specifically set forth in the instant injunction. Moreover, although the Fair Trade price for each product is not respectively listed, the injunction states such prices were to be furnished by the plaintiff pursuant to the Fair Trade contract which the parties had entered into and, therefore, were readily ascertainable by the defendants. The omission of the Fair Trade prices, therefore, does not place a burden on the defendants so onerous as to render the injunction invalid. We thus hold the temporary injunction entered by the trial court is valid.
+One further point deserves mention at this time. On oral argument this court was advised the Faff Trade contract is cancelled, and since the Faff Trade contract between the parties is no longer in existence, the question of whether the issues discussed herein are moot was raised. Counsel representing the defendants conceded the Faff Trade contract is no longer in existence; however, he asked this court to render a decision on those issues raised in the instant appeal.
+For the reasons stated herein, the judgment of the Circuit Court of Cook County is affirmed.
+Affirmed.
+BURMAN, P. J., and ADESKO, J., concur.
