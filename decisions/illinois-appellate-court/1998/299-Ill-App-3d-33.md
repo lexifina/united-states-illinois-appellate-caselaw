@@ -1,0 +1,113 @@
+---
+court: "Illinois Appellate Court"
+docket: "1-96-3097"
+decided: "1998-09-15"
+citations: ["299 Ill. App. 3d 33"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["RAKOWSKI and TULLY, JJ, concur."]
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. TRACY HARDIN, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/299/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 221442
+cites_cases: ["195 Ill. App. 3d 520", "207 Ill. App. 3d 130", "213 N.E.2d 306", "269 Ill. App. 3d 925", "276 Ill. App. 3d 402", "286 N.E.2d 72", "367 N.E.2d 1040", "42 Ill. 2d 555", "52 Ill. App. 3d 605", "552 N.E.2d 1067", "565 N.E.2d 309", "6 Ill. App. 3d 980", "647 N.E.2d 612", "657 N.E.2d 1180", "66 Ill. App. 2d 417"]
+---
+
+# People v. Hardin
+
+## Majority (JUSTICE COUSINS)
+
+JUSTICE COUSINS
+delivered the opinion of the court:
+Defendant Tracy Hardin was charged by indictment with delivery of a controlled substance. Following a bench trial, he was found guilty as charged and sentenced to a term of six years’ imprisonment in the Illinois Department of Corrections. Defendant now appeals, contending that: (1) he was denied his constitutional right to thé assistance of counsel of his choice; (2) his waiver of jury was involuntary;-and (3) the evidence was insufficient to prove him guilty beyond a reasonable doubt.
+BACKGROUND
+This case had been set for a bench trial for June 26, 1996. No trial proceedings were had on that date. Rather, the report of proceedings reflects that the following discussion occurred on that date:
+“THE CLERK: Tracy Hardin.
+MR. KUSATZKY: For the record Mark Kusatzky on behalf of Tracy Hardin before the Court.
+This matter was set for a bench trial today; however, Mr. Hardin has retained other counsel with regards to this matter who, I believe, will be seeking leave to file his Appearance in regards to this matter, and I believe that their position will not be one of a bench trial, Your Honor.
+THE COURT: This matter has been on this call since November, 1995. You have been the attorney of record since then?
+MR. KUSATZKY: That is correct, Your Honor.
+MR. ABUDALLAUH: Aski AbudaUauh.
+THE COURT: You can co-counsel this case with Mr. Kusatzky. Is the state ready?
+MS. ROMITO [Assistant State’s Attorney]: Actually the buy officer called to tell me he broke a crown last night and had emergency dental work done. His face is swollen.
+I could force him to come in. They let him go home. He said he would come back tomorrow. He is on pain killers, but if we want a jury trial, the [S]tate can be ready tomorrow.
+THE COURT: Is that what you are asking for?
+MR. ABUDALLAUH: We would be asking for a jury trial, but while the case is not complicated—
+THE COURT: You don’t have to explain why. You want a jury?
+MR. ABUDALLAUH: Yes.
+THE COURT: Tomorrow morning. Be in the chief judge[’s] office tomorrow morning. Go to the chief judge. We will bring down a venire, and we will select a jury tomorrow afternoon and begin evidence Friday morning, understood?
+MR. ABUDALLAUH: That is understood, but I have outstanding discovery that I don’t have custody of and counsel doesn’t have.
+THE COURT: What is left?
+MR. ABUDALLAUH: There is an activity report.
+THE COURT: State, do you have anything else?
+MS. ROMITO: Judge—
+MR. ABUDALLAUH: I have only just reviewed the file with counsel.
+MR. KUSATZKY: For the record I have not been tendered any activity report.
+THE COURT: What is the activity report?
+MR. ABUDALLAUH: The activity report is basically the activity that was conducted by the officers on the date of the buy.
+THE COURT: Do you have an activity report?
+MS. ROMITO: Judge, per my records we tendered all discovery on November 29th. There has [sic] not been additional requests for discovery. I can certainly look for an activity report; however, everything in my file counsel has in his file.
+THE COURT: —all right, chief judge tomorrow morning, 6/27/96.
+MR. KUSATZKY: Your Honor—
+THE COURT: 10:00.
+MR. KUSATZKY: I would request leave to withdraw in regards to this matter, the reason being, Number 2, Your Honor, I was not prepared to go to a jury trial in regards to this matter tomorrow in regards to scheduling. I understand if the Court so orders with regards to this matter, I will be here, but I am just making a request of this Court. Mr. Abudallauh is filing his Appearance today. He is capable and willing to do the jury trial tomorrow, Your Honor.
+THE COURT: But he is going to have to do that with you; not at this juncture. We have a date set for trial. I will allow the defendant to bring in a second lawyer.
+MR. ABUDALLAUH: Will you pass this and let me speak with counsel and defendant and maybe we can resolve this.
+MR. KUSATZKY: That is fine.
+íjí >Ji
+THE CLERK: Tracy Hardin.
+MR. KUSATZKY: Mark Kusatzky.
+The other attorney will not be filing an Appearance, and considering that the buy officer has a problem tonight, Your Honor, and considering that he is raising the specter of some other reports, I would be requesting a continuance of about two weeks for a bench trial, Your Honor.
+MR. KUSATZKY: July 10th.
+THE COURT: Tracy Hardin, is that date all right with you, Officer, July 10th?
+OFFICER: Yes.
+MR. KUSATZKY: July 10th. Thank you.
+THE COURT: July 10th.”
+On July 10, 1996, the trial court presided over a bench trial in this matter. The State presented the testimony of Chicago police officers Clarence Junkins and Robert Finn. Officer Junkins testified that, on October 5, 1995, he was working undercover in order to make controlled purchases of narcotics in the area of 3800 West Van Burén, Chicago, Illinois. At approximately 8:40 a.m., he was driving a covert vehicle on the 3800 block of West Van Burén and observed defendant standing on the sidewalk at 3818 West Van Burén. Officer Junkins parked his vehicle and approached defendant. As he got closer to defendant, defendant asked him, “How many?” Officer Junkins responded, “One dime bag of blow.”
+Defendant handed Officer Junkins a tinfoil packet of powder heroin. Officer Junkins gave defendant a $10 bill bearing a prerecorded serial number. He then returned to his covert vehicle and drove away.
+Junkins notified members of his enforcement team viá his radio that he had made a successful purchase of narcotics. He also radioed a general address where defendant could be found and a description of defendant’s clothing and appearance.
+Officer Junkins testified that, approximately five minutes after he had purchased the heroin from defendant, he returned to the scene to ensure that the enforcement team had apprehended the proper person. Back at the scene, he noticed that the enforcement team had two people in custody: defendant and Lawson Green. Officer Junkins was able to distinguish defendant from Green because Green was taller, heavier, and had facial hair.
+Officer Finn stated that he was working as a member of the enforcement team on the date before defendant was arrested. Finn testified that, at approximately 8:40 a.m., he received a radio message from Officer Junkins. Junkins radioed that he had just made a purchase of narcotics and described defendant’s location, clothing, and physical appearance.
+Officer Finn stated that, when he arrived at 3818 West Van Burén, he saw defendant standing with four other individuals. He stated that he approached defendant because he matched the description that Junkins had given. After defendant was taken into custody, a pat-down search of Lawson Green was performed and he was found to be in possession of the prerecorded money. Defendant was placed under arrest after Officer Junkins positively identified him.
+The State then rested. Defendant rested without presenting any evidence. After hearing closing arguments, the trial court found defendant guilty as charged and sentenced him to six years in the Illinois Department of Corrections.
+Defendant appeals. For the following reasons, we reverse and remand.
+ANALYSIS
+Defendant contends that the trial court’s denial of his request to substitute counsel violated his constitutional right to be represented by the counsel of his choice. In contradistinction to defendant’s contention, the State contends that defendant was not denied his right to counsel of his choice where the trial court gave leave to his second attorney to file his appearance. We agree with defendant’s contention on this issue.
+A principal case relied upon by defendant is People v. Green, 42 Ill. 2d 555 (1969). In Green, our supreme court held that the defendant was denied his constitutional right to counsel of his choice where he was represented at trial by the public defender appointed that same morning after the trial court had denied his request for a continuance to enable his private counsel, who had actually been retained by a church, to return to town and “come through.” Green, 42 Ill. 2d at 556. Other cases relied upon by defendant include: People v. Childress, 276 Ill. App. 3d 402, 657 N.E.2d 1180 (1995); People v. Young, 207 Ill. App. 3d 130, 565 N.E.2d 309 (1990); People v. Washington, 195 Ill. App. 3d 520, 552 N.E.2d 1067 (1990); and People v. Koss, 52 Ill. App. 3d 605, 367 N.E.2d 1040 (1977). Our examination of Childress, Young, Washington, and Koss indicates that these cases are relevant and instructive.
+In Koss, the reviewing court held that a trial court’s denial of a defendant’s motion for a continuance to obtain new counsel is not an abuse of discretion where new counsel is not specifically identified or does not stand ready, willing, and able to make an unconditional entry of appearance. Koss, 52 Ill. App. 3d at 607-08, 367 N.E.2d at 1041. Thus, Koss enunciated some crucial factors for consideration in determining whether a court commits an abuse of discretion by denying an accused a continuance to obtain new counsel. These factors are: (1) whether new counsel has been specifically identified and (2) whether new counsel stands ready, willing, and able to make an unconditional entry of appearance. Koss, 52 Ill. App. 3d at 607-08, 367 N.E.2d at 1041.
+In Childress, the reviewing court held that the defendant was denied his constitutional right to counsel of his choice where the defendant claimed that he did not know the case had been scheduled for trial. Also, on the trial date, an attorney who had been retained by the defendant’s family was present and willing to file an appearance but was not aware that the trial was scheduled for that day; therefore, the attorney was unprepared to begin trial. The trial court denied his request for a continuance. Childress, 276 Ill. App. 3d at 410, 657 N.E.2d at 1186. The Childress court noted that “[a] court does not abuse its discretion where new counsel is unidentified or does not stand ready, willing, and able to make an unconditional entry of appearance on defendant’s behalf.” Childress, 276 Ill. App. 3d at 411, 657 N.E.2d at 1186, citing People v. Jones, 269 Ill. App. 3d 925, 932, 647 N.E.2d 612, 617 (1995). However, the appellate court in Childress noted that the trial court in that case found that the defendant’s request was not a delay tactic and that counsel had been present in court, ready to represent the defendant, and retained and paid a fee. Childress, 276 Ill. App. 3d at 411-12, 657 N.E.2d at 1187.
+We also note that, in Childress, the reviewing court wrote:
+“[W]e find defendant’s right to counsel outweighed the State’s interest. At issue is not merely a trial court’s discretion in whether to grant a continuance. At stake is defendant’s constitutional right to be represented by counsel of choice. The right is absolute and limited only where abuse exists[,] such as attempts to thwart justice, delay, or embarrass the effective administration of justice, or where a conflict of interest is clear from the record. Also, because the issue is right to counsel of choice, we reject the State’s contention that a showing of prejudice is necessary.” Childress, 276 Ill. App. 3d at 413, 657 N.E.2d at 1188.
+Thus, other factors that a court may consider in determining whether a motion should be granted when a defendant requests a continuance to obtain counsel are whether the defendant is attempting to thwart justice, delay, or embarrass the effective administration of justice, or is engaged in a clear conflict of interest. Childress, 276 Ill. App. 3d at 413, 657 N.E.2d at 1188. We note that neither the State nor the trial court in the instant case asserts that defendant was seeking to thwart justice or was engaged in delaying tactics. Likewise, the record before us reveals no conflict of interest.
+In Washington, 195 Ill. App. 3d 520, 552 N.E.2d 1067, the transcript of the report of proceedings established that the following pertinent discussion occurred in court after the clerk called the case:
+“ ‘MR. ROZENSTRAUCH [the Public Defender]: Present before your Honor is Mr. William Washington. The matter was set for trial today. Mr. Washington informs me he, his family has retained an attorney for him who asked that the case be set for April 9th. I am ready to proceed.
+MR. LEVY: State’s ready to proceed today, too, Judge.
+THE COURT: Motion for continuance denied.
+MR. ROZENSTRAUCH: We are ready.
+THE COURT: No one has filed an appearance. This is just some statement that somebody wants something continued. The family — .
+MR. ROZENSTRAUCH: They have given me the name of the attorney.
+THE COURT: Well, that is all very well. He is competently represented at this time. Motion for continuance denied. State ready?
+MR. LEVY: We are ready to proceed today, Judge.
+THE COURT: Pass it for trial.’ ” Washington, 195 Ill. App. 3d at 522, 552 N.E.2d at 1068.
+In Washington, the court wrote: “We believe that People v. Green, [42 Ill. 2d 555 (1969)], People v. Willis, [6 Ill. App. 3d 980, 286 N.E.2d 72 (1972)], and People v. Ritchie, [66 Ill. App. 2d 417, 213 N.E.2d 306 (1966)], are instructive ***.” Washington, 195 Ill. App. 3d at 526, 552 N.E.2d at 1071. We have already addressed Green. We have also read Willis and Ritchie and also consider those cases relevant and instructive regarding our analysis in this case.
+In Willis, the court held that the defendant was denied his constitutional right to counsel and wrote:
+“The testimony of the defendant, the affidavit and testimony of Sanders, is uncontradicted and is to the effect that the defendant desired Sanders’ services as an attorney, did all that he could do considering his incarceration to contact Sanders as soon as practicable after Sanders returned from his vacation, and that Sanders would have undertaken to represent the defendant and that the defendant called him a day or so after he returned from his vacation. Sanders, in fact, had previously undertaken to obtain information as to this proceeding upon hearing of the same by news media and called the county jail to make certain inquiry.” Willis, 6 Ill. App. 3d at 982, 286 N.E.2d at 73-74.
+In Ritchie, the reviewing court held that, on the date the matter was set for trial, the circuit court improperly denied the defendant’s request for a continuance, which was intended to enable counsel other than the public defender to be obtained. Ritchie, 66 Ill. App. 2d at 422, 213 N.E.2d at 308. The facts showed that the defendant had been in custody for four months, the public defender had stated that an attorney by the name of Berkus had contacted him and indicated that he might enter his appearance in the case, and the defendant had informed the court that his family had hired a lawyer. Even so, the court ordered the trial to proceed and allowed the defendant to conduct his case himself. The court ordered the public defender to sit in the courtroom and to be available to represent the defendant if the defendant chose to make use of the public defender’s services. Ritchie, 66 Ill. App. 2d at 419-20, 213 N.E.2d at 306-07.
+Relative to the case of People v. Young, 207 Ill. App. 3d 130, 565 N.E.2d 309 (1990), cited by defendant in the case sub judice, the defendant and codefendant in Young were both arrested and charged with offenses that were perpetrated on July 24, 1989. Separate counsel were appointed for them. After denying a motion for severance, the court set October 30, 1989, as the trial date for both defendants. On the morning of the trial date, the defendant’s attorney informed the court that the defendant wished to replace him with an attorney of his own choice and advised the court that the defendant had received bail money in excess of $1,500 four days earlier and intended to use it to hire his lawyer. However, the trial court summarily denied the motion for a continuance to seek other counsel. After the luncheon recess, attorney John McFetridge appeared in open court and stated that the defendant had contacted him for the purpose of representation. In support of McFetridge’s entry of appearance for the defendant, the public defender representing the defendant argued that the defendant had only recently become financially able to retain private counsel, who was now “available and willing” to enter his appearance, and that the only previous continuance in the case had been primarily for the benefit of the codefendant. Young, 207 Ill. App. 3d at 132-33, 565 N.E.2d at 310-11. The trial court in Young denied the motion, stating, inter alia:
+“ ‘There are a hundred Jurors out there. There’s a co-Defendant that wishes to have a trial, and based on all those I don’t believe it would be appropriate to allow an entry of appearance or substitution of Counsel. Bring 30 people in, and we’ll start picking a Jury.’ ” Young, 207 Ill. App. 3d at 133, 565 N.E.2d at 311.
+In Young, the reviewing court wrote:
+“From the record before this court, attorney McFetridge apparently stood willing and able to make an entry; the only reason we do not know if he was ready to do so unconditionally is because the court never asked. Thus, McFetridge never discussed how prepared he was for trial, if he would need a continuance, and how lengthy that might have to be.” (Emphasis in original.) Young, 207 Ill. App. 3d at 134, 565 N.E.2d at 312.
+Finally, after its analysis, the reviewing court in Young held that the trial court’s decision to deny the defendant counsel of his choice was an abuse of discretion. Young, 207 Ill. App. 3d at 135, 565 N.E.2d at 312.
+While, on the one hand, the trial court in the case sub judice did not refuse to allow attorney Abudallauh to appear, the trial court did, on the other hand, refuse to allow attorney Kusatzky to withdraw. Attorney Abudallauh indicated that he wanted a jury trial. He also informed the court that the activity report had not been provided through discovery. After attorney Kusatzky requested leave to withdraw, he advised the court: “Mr. Abudallauh is filing his appearance today. He is capable and willing to do the jury trial tomorrow.” The following discussion then occurred between the court and the attorneys:
+“THE COURT: But he is going to have to do that with you; not at this juncture. We have a date set for trial. I will allow the defendant to bring in a second lawyer.
+MR. ABUDALLAUH: Will you pass this and let me speak with counsel and defendant and maybe we can resolve this.
+* * ❖
+MR. KUSATZKY: Mark Kusatzky. The other attorney will not be filing an appearance, and considering that the buy officer has a problem tonight, your honor, and considering that he is raising the specter of some reports, I would be requesting a continuance of about two weeks for a bench trial.”
+The State contends that the record is clear that the trial court never denied defendant’s request that Abudallauh be allowed to represent him. Thus, the State argues, the trial court never denied defendant’s right to be represented by counsel of his choice, and there is no abuse of discretion to review. We do not agree with the State’s contention that this record shows that the trial court never denied defendant’s right to be represented by counsel of his choice.
+The State further argues that defendant did not request a continuance to obtain counsel of his choice; rather, defendant had two attorneys in court on June 26, 1996. The State contends, therefore, that the trial court was not required to balance defendant’s due diligence in obtaining counsel with his constitutional right to counsel of his choice. We agree that defendant did not request a continuance to obtain counsel. However, in our view, although defendant did not request a continuance to obtain counsel, the reasons for granting his request to substitute counsel are more compelling rather than less compelling.
+In our view, although the trial court did not refuse to allow attorney Abudallauh to file his appearance as an additional attorney for defendant, the trial court’s refusal to allow attorney Kusatzky to withdraw denied defendant his right to be represented by counsel of his choice. Defendant requested to be represented by one attorney, not two. The right of the defendant to have an attorney of his choice is an unfettered and unconditional right. See Young, 207 Ill. App. 3d at 133, 565 N.E.2d at 311. There is a proverbial saying that “Too many hands may spoil the broth.” Potential problems are obvious and manifold. It is obvious that, where the court dictates that a defendant will have two rather than one counsel, the court may be inviting potential problems involving the trial strategy to be adopted in the case. Attorney Abudallauh had indicated that he intended to proceed to trial by jury, whereas Mr. Kusatzky intended to and did have defendant waive the jury trial and proceed with a bench trial. Also, defendant should not be burdened in the instant case with the potential responsibility for paying fees to two attorneys.
+Based on the record in the case at bar, it appears that attorney Abudallauh stood ready, willing, and able to make an unconditional entry. It further appears that the reason that attorney Abudallauh did not file his appearance after the discussion with the court was due to the trial court’s denial of attorney Kusatzky’s request to withdraw. We hold that the court’s qualification of defendant’s right to counsel was a denial of the unconditional right to counsel. Therefore, defendant’s first contention must be stistained.
+Based on our examination of the record, the evidence presented at trial was sufficient to prove defendant’s guilt beyond a reasonable doubt. However, because we remand, we do not address defendant’s other issues.
+Reversed and remanded.
+RAKOWSKI and TULLY, JJ, concur.
