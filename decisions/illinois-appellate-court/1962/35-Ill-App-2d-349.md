@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,514"
+decided: "1962-05-09"
+citations: ["35 Ill. App. 2d 349"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FRIEND, P. J. and BURKE, J., concur."]
+parties: ["In the Matter of the Estate of Beatrice Miller, Deceased. Paul R. Skala, Petitioner-Appellant, v. Elaine Jancik, Administratrix of the Estate of Beatrice Miller, Deceased, Respondent-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/35/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5263820
+cites_cases: ["305 NY 148", "31 USC §§ 123", "322 Ill App 90", "366 US 187", "54 NE2d 58"]
+---
+
+# Skala v. Jancik
+
+## Majority (MR. JUSTICE BRYANT)
+
+MR. JUSTICE BRYANT
+delivered the opinion of the court.
+This appeal involves the distribution of the estate of Beatrice Miller, who died intestate on March 19, 1958, a resident of Cook County. Nine heirs were designated to receive sums ranging from $694.17 to $8,-537.42. The record shows that the amount due each distributee is definitely fixed and approved by the Probate Court of Cook County. However, the Probate Court refused to order distribution of the proportionate shares of the estate to the plaintiff, Paul Skala, who is the assignee of seven heirs of the decedent and who are residents of Czechoslovakia. One distributee, Julia Blaha, was a resident of the United States and her interest is not involved in this appeal. One of the remaining eight heirs in Czechoslovakia had a daughter in Cleveland to whom she assigned her interest in the estate, as to which distribution was ordered, and that interest is not involved in this appeal.
+The remaining seven heirs made an assignment of their interest to the plaintiff, who is President of the Berwyn National Bank, Berwyn, Illinois, and it is from the denial of his petition to have these seven distributive shares paid to him by reason of the assignments that the present appeal is taken. No evidence was introduced at the hearing below. The trial judge being called from another county to assist, stated that he thought he should abide by the policy of Judge Dunne of the Probate Court, and refused to order distribution.
+Petitioner’s theory is that since the final account was approved and since the distributees made a valid assignment to the petitioner, and no question was raised as to the validity of the assignments by the answers required by order of the Probate Court, that petitioner was entitled as a matter of law to receive and receipt for the distributive shares assigned to him. He argues that the Probate Court itself accepted said assignments and ordered them spread of record and the Court was without authority to order payment to one assignee and deny payment to the other assignee.
+An amicus curiae brief entered by the State’s Attorney in this case contends that the Czechoslovakian heirs are not automatically entitled to immediate distribution, since the Probate Court has discretionary power to withhold distribution when it is apparent that the distributees will not receive the inheritance, and that any assignment cannot convey a greater interest than that of the assignors.
+Initially it should be observed that the truth of this assertion is not so apparent, since no evidence was introduced to the effect that the Czechoslovakian distributees would not receive the inheritance. We cannot assume in this area that the assignment is invalid because any distribution would be, as the amicus curiae brief asserts, “confiscated by an unfriendly government, for this is not what the decedent would intend had she been aware of the circumstances involved. It is a known fact that nationals of Czechoslovakia, living under the tyranny of Communist principles, cannot have the benefit, use or control of private property.” Counsel for petitioner states that he had in court on the day of the hearing two American citizens who had just returned from Czechoslovakia after a lengthy visit and who had talked to several of these heirs and knew the conditions in Czechoslovakia, bnt he did not place them on the stand since there was no contest and no question was raised as to conditions in Czechoslovakia.
+But our decision rests on stronger grounds. There, simply is no statutory authority for the Probate Court to refuse, as a discretionary matter, to order distribution under the circumstances presented here. Such authority is not contained in Section 291 of the Probate Act, Ill Rev Stats 1961, ch 3, § 291, as it now exists. Nor does Rankin v. Rankin, 322 Ill App 90, 54 NE2d 58, cover the problem presented here. That the legislature did not intend to confer such authority on the Probate. Court is shown by the fact that a Bill providing for the investment of property of a distributee residing outside the United States, who cannot have the use of such property because of circumstances, was tabled by the legislature on June 26,1961. HB 584, Legislative Synopsis & Digest, 1961, p 465. Therefore, the State’s Attorney’s reliance on In re Braier’s Estate, 305 NY 148, Ill NE2d 424, is misplaced since Illinois has no provision similar to Section 269 of the New York Surrogate’s Court Act.
+Whether the state legislature could now grant discretionary authority depending on what treaties or agreements are in force between the United States and Czechoslovakia, is not a question presented here. See, Kolovrat v. Oregon, 366 US 187. It is clear that such authority has not been granted by the Illinois Legislature.
+Finally, it should be noted that the assets of the estate are not blocked by Executive Order #8389 as amended. The petition for distribution included part of a letter from the Department of Justice, Office of Alien Property, Washington, D. C., signed by Sidney Cross, Legal and Legislative Counsel, which stated:
+“In the matter of the Czechoslovakian heirs mentioned in yonr letter, yon are advised that if the decedent died a resident of the United States subsequent to December 7, 1945, the effective date of General License. No. 94, as it applies to Czechoslovakia, the assets of the estate were not blocked by the provisions of Executive Order 8389, as amended. Accordingly, the funds may be distributed without reference to this Office.”
+Since the decedent died on March 19,1958, the distribution should be ordered.
+Nor does Treasury Department Circular No 655, Supplement No 8, as amended April 17, 1951 [31 CFR 211.3(a) (1959), 16 Fed Reg 3479 (1951), issued under authority of the act approved October 9, 1940, 54 Stat 1086-7, 31 USC §§ 123, 127], which restricts the delivery of checks drawn against funds of the United States, apply to the instant case. This regulation does not govern private funds in inheritance matters and does not provide a sufficient basis, by some sweeping analogy or characterization of political conditions, for prohibiting distribution of the assets under the valid assignment presented here.
+The order of the Probate Court is reversed and the cause remanded with directions to enter an order for the payment of the distributive shares assigned to the petitioner.
+Reversed and remanded with directions.
+FRIEND, P. J. and BURKE, J., concur.
