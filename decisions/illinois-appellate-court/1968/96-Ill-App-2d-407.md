@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 10,651"
+decided: "1968-07-09"
+citations: ["96 Ill. App. 2d 407"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. William Hemphill, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/96/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2535350
+cites_cases: ["18 L Ed2d 1323", "197 NE 844", "209 Ind 1", "212 Ala 266", "217 NE2d 17", "217 P 545", "218 NE2d 489", "27 Mont 135", "32 P 504", "388 US 465", "62 Cal App 465", "69 P 709", "7 NM 89", "71 Ill App2d 146", "73 Ill App2d 85", "87 S Ct 2128"]
+---
+
+# People v. Hemphill
+
+## Majority (SMITH, P. J.)
+
+SMITH, P. J.
+We review this appeal for the second time. (People v. Hemphill, 71 Ill App2d 146, 217 NE2d 17.) It reaches us under a mandate of the Illinois Supreme Court to follow the directions contained in an order of the United States Supreme Court remanding the cause “with instructions to appoint counsel and hear the appeal.” 388 US 465, 18 L Ed2d 1323, 87 S Ct 2128. In the first appeal, we did not appoint counsel, but we did an in-depth study of the issue presented by it as to whether § 33 of Article VI of the Constitution of 1870 requiring that all indictments commence “in the name and by the authority of the People of the State of Illinois” and conclude “against the peace and dignity of the same” remains in full force and effect. We adhered to the conclusions then reached when the same issue was presented in People v. Haynes, 73 Ill App2d 85, 218 NE2d 489. We have appointed counsel and now again consider the question.
+The new Article VI effective January 1, 1964, does not contain old § 33. The present indictment was returned after the effective date of the new Article and does not contain the language previously required. We need not reiterate what we have previously said in the two previous opinions. The earnestness with which this appeal has been prosecuted, however, has impelled us to reconsider the issue and to reiterate that the quoted language is no longer required in indictments in Illinois.
+However, arguments not previously considered require comment.
+It is urged that If 2 of the Schedule enacted with the new Article VI provides “except to the extent inconsistent with the provisions of this Article, all provisions of law and rules of court in force on the effective date of this Article shall continue in effect until superseded in a manner authorized by the Constitution.” It is urged that since § 33 is not inconsistent with any of the provisions of the new Article, it must necessarily remain in force and in effect until superseded. Thus, since it was not specifically repealed in the new Article, it ought not be repealed by implication or judicial construction. It is urged that even if it may be said that the new Article opens the gate for a change in the form of indictments, it is not self-executing and absent supplemental action either by legislation or rule of court, it is still in full force and effect.
+The basic issue is what proposition was submitted to and voted on by the electorate. We noted in Hemphill that five successive joint resolutions of the Senate and House of Representatives provided for the submission of the “proposition to amend Article VI of the Constitution, to read as follows: . . . .” As we stated in Hemphill and in Haynes, a plain reading of the resolution reflects a purpose and an intent to adopt a complete and new constitutional amendment known as the Judicial Article. This conclusion is supported by the view taken by other courts construing the words “to read as follows.” Such language operates to repeal all of the Section amended not again set forth in the new amended Section, provides a substitute for the old provision, operates exclusively in its place and reenacts or continues in force only that which is reenacted and repeals that which is omitted. State ex rel. Nicely v. Wildey, 209 Ind 1, 197 NE 844; Cortesy v. Territory, 7 NM 89, 32 P 504; City of Helena v. Rogan, 27 Mont 135, 69 P 709; Byrd v. State, 212 Ala 266, 102 So 223; Pierce v. Solano County, 62 Cal App 465, 217 P 545. We have found no cases otherwise construing the words “to read as follows.”
+It therefore seems clear that new Article VI is a substitute in toto for old Article VI. Unless, therefore, the exception in 2 of the Schedule resurrects § 33, it is now departed. If that Section has a statute now asserted, it seems strange that the Legislature did not specifically reenact it in the new Article or specifically preserve it in the Schedule. We would further observe that under Ill Rev Stats 1961, c 38, § 716, the language of § 33 here in issue was included in the legislatively prescribed form of indictment. The new Code of Criminal Procedure, Ill Rev Stats 1963, c 38, § 101-1 et seq., was adopted by the Legislature after the People had approved the new Judicial Article and both became effective on the same date. It specifically repealed old § 716 and supplanted it with § 111-3. This Section does not contain the old constitutional language for the beginning and conclusion of indictments. Thus, if action of the Legislature was required to implement the new Judicial Article as to indictments, the Legislature has acted and has eliminated the magic words. Judicial restoration of § 33 would stand on feet of clay. We therefore conclude that the indictment in question is without fault and the judgment of the circuit court should be affirmed.
+Affirmed.
+CRAVEN and TRAPP, JJ., concur.
