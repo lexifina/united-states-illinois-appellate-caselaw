@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-05-25"
+citations: ["28 Ill. App. 552"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Illinois Central Railroad Company v. Blanche Latimer."]
+source_url: "https://static.case.law/ill-app/28/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4963659
+cites_cases: ["43 Ill. 368"]
+---
+
+# Illinois Central Railroad v. Latimer
+
+## Majority (Conger, P. J.)
+
+Conger, P. J.
+The principal facts in this case are as follows :
+Blanche Latimer, the appellee, aged six years, resided with her parents at Clinton, Illinois, but had been visiting for a . few days her friends at Wapella, a village of some three hun-1 dred inhabitants, situated about four and a half miles north of Clinton, on appellant’s railway.
+On the 14tli of June, 1887, she went to the depot at Wapella for the purpose oí returning home on the fqur o’clock train. She had with her a large paper hat box and its contents, making it quite heavy for so small a child to carry. At the depot she met her uncle, who resided in the village, who led her to the rear car and placed her in a seat.
+After the train had gotten under way, the conductor, Finch, proceeded to take up the tickets and collect the fares. When he reached appellee he asked her for her ticket and she replied she had none. He then asked her to pay her fare in money, and she told him she had none. He then asked her where she was going, but he says he could not understand her answer. He 'then asked her whose child she was and she said she was going to Clinton. Finch told her, then, he would have to put her off, signaled the train to stop, walked back to the rear end of the car, motioned to the little girl to come to him, which she did. Finch says that he got down on the ground and lifted her, with her bundle, to the ground and led her around on to the track in the rear of the train, when the child immediately started to run up the track toward the station and he called to her not to run. She obeyed him and slackened her pace to a walk, while the conductor signaled the train to start' and left her. The brakeman of the train, Keefer, says he thinks Finch stood on the step of the coach and lifted the child by her arm to the ground at the side of the car, and she went around on the track by herself.
+The place where appellee was thus put off was about 1,700 feet from the platform at the depot, where passenger trains stopped to take on and put off passengers.
+While within the corporate limits of Wapella, it was about 240 feet south of the last street of the village in that direction, and the track at that place was fenced.
+In going north from the point where appellee was put off the train, she would have to go about 240 feet, where the fencing of the track ended, and where was a cattle guard between thirty and thirty-four inches deep, and immediately beyond it a culvert twelve feet long and six deep, with ties upon it eight inches wide and eighteen inches from center to center.
+Appellee was met between the point where she was pnt oil and the depot, by her uncle, and he testifies that she was crying and seemed frightened.
+Evidence was given to the jury tending to show that she seemed to suffer for some time from fright and nervousness, and that she manifested a disinclination and fear of talking about going upon the cars, which had not been the case before. There was also medical testimony given to the jury, both to sustain and overthrow the theory that the child, at the time of the trial below, was suffering from some functional derangement of the heart, caused by the fright occasioned by her being expelled from the train. The jury returned a' verdict for §2,000, upon which judgment was rendered.
+The suit was commenced by appellee, who sued by her mother, as her next friend, without previous authority of the court, and without in the first instance giving a bond for costs.
+Appellant moved to dismiss the suit for this reason, and the court permitted appellee to file a cost bond, and thereupon refused to dismiss the suit, and this is urged as error, and the proviso of See. 18, of the act as amended and in force July 1, 1881, is relied upon to sustain this view. It is as follows:
+11 Provided, that any suit or proceeding may be commenced and prosecuted by any minor, by his next friend, without any previous authority or appointment by the court, on such next friend entering into bond for costs, and filing the same in the court in which, or with the justice of the peace before whom such suit or proceeding, is instituted.”
+We think the court rightly exercised its discretion in the matter, and that a fair and reasonable construction of this section does not make the filing of the bond prior to the bringing of this suit necessary for the jurisdiction of the court, but that if a bond is filed afterward by permission of the court, it is sufficient.
+The object of the law, which is both to protect the minor’s estate and the officers, and adverse parties, is fully satisfied, and it would be a harsh and unreasonable construction to say that when, perhaps by inadvertence or mistake, a bond is not filed, that it can not be remedied, but a minor’s suit must be dismissed.
+The objection to the declaration that there was a misjoin" der, is not, as we think, well taken. The first count charges that the appellant, as a corporation, assaulted her; the second, that she was a passenger upon appellant’s train, and that one Finch, the conductor of the train, in the employment of appellant, did with force, etc., remove appellee from said train, etc., at a place other than a regular station, etc. The second count is substantially a charge that the appellant, by its conductor and agent, did the vTong to appellee, and is sufficient.
+Appellee was permitted to prove, over the objection of appellant, that Finch’s train carried a flag which indicated that a wild train was following his, and that such wild train did pass Wapclla about twenty or twenty-five minutes after the passenger train had left.
+We see no objection to this evidence, for it was one of the circumstances which the jury had a right to know and take into consideration in determining the character of the expulsion.
+The fact that the conductor knew that a wild train was following him, and might be expected in a few moments, might well be regarded as important when a little child but six years old was to be left upon the track, with a cattle guard and culvert, of the character already described, to be crossed.
+Had appellee been a grown woman, the fact that a train might pass before she could get back to the depot would be of no consequence, as it would be presumed she would be able to avoid the danger.
+Neither does the fact that the child had reached' the depot and left the track before the wild train passed, make the evidence improper.
+The jury had aTight to know the condition of affairs, as it appeared to the conductor at the time of the expulsion, and from that characterize his action.
+Instructions holding that the word “ station,” as used in the statute, included the limits or inhabited portions of cities and villages in which the depot building is situated, and that a passenger may be lawfully removed from trains for non-payment of fare anywhere within the inhabited portion of such limits, were presented by appellant to the court, and refused. In thus holding the court committed no error.
+A regular station, as used in the statute, means the point or place where passenger trains usually receive and discharge passengers — where persons would have a riglit to have trains stopped for entering upon or leaving them. Chicago & Alton v. Flagg, 43 Ill. 368.
+Objection is made to some of the other instructions, but when they are all considered together, we can not say that appellant has not had a substantial presentation of the law applicable to the case. Some of them are not quite accurate, but, taken as a whole, fairly present the law of the case.
+It is urged that the damages are excessive. Under ordinary circumstances this objection would be well taken. Had appellee been of sufficient age to justify the belief that she could have returned to the depot without harm or danger to herself, no one, we presume, would insist that she ought to recover any such sum as she did. But the circumstances of this case are so unusual that it is easy to believe that the conductor acted with a wanton disregard of the rights of appellee. When it is remembered that appellee was a delicate little girl, only six years old, taken off the train — no matter how gently —suddenly left alone upon the track, and the train speeding away, it is a wonder that, in her fright and agony, she had presence of mind enough to know the way back to the depot.
+Just how much a railroad company ought to pay for such treatment is difficult to measure by any exact standard, and the jury having determined it without prejudice or passion, so far as we can discover from a careful inspection of the record? we do not feel justified in interfering with their conclusions. A majority of the court are of opinion that the judgment should be affirmed.
+Judgment affirmed.
