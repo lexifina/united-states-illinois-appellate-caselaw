@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-01-19"
+citations: ["26 Ill. App. 33"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John M. Reticker v. Katzenstein & Wachtel."]
+source_url: "https://static.case.law/ill-app/26/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4946734
+cites_cases: ["13 Ill. App. 81", "16 Ill. App. 418", "18 Ill. App. 341", "4 Scam. 97", "70 Ill, 72"]
+---
+
+# Reticker v. Katzenstein & Wachtel
+
+## Majority (Wbloh, P. J.)
+
+Wbloh, P. J.
+This was suit in replevin brought by the appellees to recover possession of certain merchant tailoring goods, which had been seized by appellant to satisfy certain judgments confessed by one Williard G. ¡Nickerson in favor of L. S. McCabe and William Meyers. Appellees sought to avoid the salo of these goods to ¡Nickerson and recover possession of them on the ground of alleged fraud and deception practiced by him in inducing the sale.
+Pleas: 1st. Won cepit/ 2d. Property in stranger; 3d and 4th. Justification by defendant as Sheriff. Replications: 1st. To second ¡dea, denying property in stranger; 2d. To third plea, denying execution; 3d. To third plea, alleging property in plaintiffs; 4th. To third plea, denying judgment; 5th. To fourth plea, denying execution; 6tli. To fourth plea, alleging property in plaintiffs; 7th. To fourth plea,' denying judgment.
+Trial, verdict finding property in the appellees, and assessing damages at one cent. Motion for new trial; motion overruled. Judgment on verdict. From which judgment this anpeal is taken. Various errors are assigned.
+In the view we take of the case, we only deem it necessary to notice the third error assigned—the giving of appellees’ 6th and 7th instructions. These instructions are as follows:
+6th. “If the jury believe, from the evidence, that the witness, at the time of his purchase of the goods in controversy from the plaintiffs, was insolvent and unable to pay his liabilities then existing, or, by the use of ordinary diligence in the conduct of his business might have known that he was insolvent, and knowingly concealed the fact from the plaintiffs, and thereby the plaintiffs were induced to make the sale of goods, then this was such fraud as to warrant the plaintiffs to rescind the sale and recover the goods. Fraud may be committed by knowingly suppressing the truth from one who is not informed, as well as by stating what is absolutely untrue.”
+7th., “You are instructed, as a matter of law, that if one obtains goods by way of purchase by means of false representations of facts, or by any deception, or with the design not to pay for them, or knowing himself at the time to be insolvent and unable to pay for them, or who, by the use of ordinary diligence, might have known himself tobe insolvent and unable to pay for them, and the seller is, by any such means, deceived into parting with his goods, no title passes to the buyer, and the seller has the right to reclaim his good-:. And if you believe, from the evidence, that the sale in this case was induced by any such- means you must find for the plaintiffs.”
+These instructions are clearly erroneous, and are in conflict with the rule uniformly announced by our Supreme Court. The rule was first announced in case of Henshaw v. Bryant, 4 Scam. 97, 108. The court through Catón, Justice, declares the law as follows: “Should we establish a rule that would declare all sales void where the purchaser does not disclose to the seller his real circumstances, many contracts, made with the most upright intentions, would be annulled for fraud. While a man is really struggling against adversity with an honest intent to retrieve his fortunes, the law will not declare him incapable of purchasing goods on a credit, although he does not disclose to the vendor the extent of his embarrassments. In such a case there is wanting that essential ingredient in fraud, a design never to pay.” The rule here announced has been followed by the Supreme Court in Patton v. Campbell, 70 Ill, 72; and by the Appellate Court in Morril v. Corbin, 13 Ill. App. 81; Catlin v. Warren, 16 Ill. App. 418; Preston v. Spaulding, 18 Ill. App. 341. These instruction's informed the jury, that if, at the time Hickerson made the purchase of the goods in controversy, he knew himseif to be insolvent and nnable to pay for them, or if he, by the use of ordinary diligence, might have known himself to be insolvent and unable to pay for them, and knowingly concealed the fact from the-appellants, and thereby they were induced to make the sale, then this was such fraud as to warrant a rescission of the contract of sale and a recovery of the goods; that the sale was fraudulent even if the purchaser did not, at the time of the purchase, know he was insolvent; yet if he, by ordinary diligence, could have known that he was insolvent and concealed the fact, that was sufficient.
+The 7th instruction recites various means that would render the sale fraudulent and the jury are told that if they believe from the evidence that the sale in this case was induced by any such means they must find for the appellees. The undisclosed insolvency of Nickerson, known to him, or which he by ordinary diligence could have known at the time of the purchase, was stated as one of the grounds that would render the sale void.
+The 6th and 7th instructions.in this respect are alike. We hold under the rule announced by the Supreme Court, that it is not enough to maintain fraud that the vendee is insolvent and.knows himself to be so at the time of the purchase and conceals the fact from the seller, and that he has no reasonable expectations that he can pay the debt.
+The only intent that renders the sale fraudulent'is a positive and predetermined intention, entertained and acted upon at the time of going through the forms of an apparent sale, never to pay for the goods. For the error herein indicated the judg. ment is reversed and cause remanded.
+Reversed and remanded.
