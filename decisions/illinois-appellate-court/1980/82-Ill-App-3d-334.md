@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-923"
+decided: "1980-03-19"
+citations: ["82 Ill. App. 3d 334"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONALD GELLER, Plaintiff-Appellant, v. BROWNSTONE CONDOMINIUM ASSOCIATION et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/82/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3221961
+cites_cases: ["100 Ill. App. 2d 6", "100 N.E. 942", "191 N.E. 321", "228 N.E.2d 881", "241 N.E.2d 697", "243 Ill. App. 562", "257 Ill. 491", "269 Ill. App. 99", "318 Mass. 601", "328 U.S. 256", "356 Ill. 584", "37 Ill. 2d 473", "63 N.E.2d 898", "84 F.2d 755"]
+---
+
+# Geller v. Brownstone Condominium Ass'n
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court:
+Plaintiff, Donald Geller, appeals from an order of the circuit court of Cook County dismissing his amended complaint in which he had sought injunctive relief and damages from defendants.
+Plaintiff is the owner of real estate located at 1448 North State Parkway in Chicago on which he is constructing a three-story residence. Defendant Brownstone Condominium Association is the owner of a highrise condominium immediately south of plaintiff’s property; defendant American Invesco Co. is manager of the condominium. The amended complaint recited in two counts that during construction of his residence workmen would be on plaintiff’s property, and that after construction plaintiff and his family would reside there. Paragraphs 4 and 5 of count I charged as follows:
+“4. In performing any maintenance or other work on the North wall of its building, Defendants have, and if not prohibited will continue to encroach and trespass upon Plaintiff’s property to perform work on its own property, either by erecting and operating a movable scaffolding or any other structure on its own property and extending over Plaintiff’s property to the irreparable injury and great damage to the Plaintiff, for which Plaintiff has no adequate remedy at law.
+5. The aforesaid structure and extensions have and will continue to interfere with Plaintiff’s use of light and air and constitute a continuing and illegal trespass of Plaintiff’s air rights.”
+Paragraphs 5 and 6 of count II charged as follows:
+“5. Either defect of the scaffolding or negligence in construction, use or maintenance thereof would cause the scaffolding which Defendants erect over Plaintiff’s property, or any object on the scaffolding, to fall on Plaintiff’s building and work site causing serious injury or death to workmen or others on the property.
+6. Maintenance of extensions by Defendants over Plaintiff’s property constitutes encroachment by Defendants upon Plaintiff’s property, light and air and exposes Plaintiff, his family, and others, to great hazard upon the malfunction or negligent use of said scaffolding for any reason or from objects falling from said scaffolding.”
+The complaint asked that defendants be permanently enjoined from installing or operating any scaffolding upon the north wall of their building. Plaintiff also asked that he be awarded damages for the unlawful trespass and taking of property and air rights.
+Defendants filed a motion to dismiss the amended complaint. They argued that the complaint failed to state a cause of action, and that the court was without authority to enjoin future negligence. After considering the pleadings, memoranda, and arguments of counsel, the trial court dismissed the action.
+A motion to dismiss a complaint admits only facts well pleaded, not conclusions of law. (Gouker v. Winnebago County Board of Supervisors (1967), 37 Ill. 2d 473, 228 N.E.2d 881.) Here, the well-pleaded facts and the threatened harm which plaintiff sought to enjoin were set forth in the paragraphs above. Pointing out that defendant’s condominium was erected with its north wall on defendants’ property line, plaintiff sought to prevent defendants from using temporary scaffolding on that wall. Plaintiff maintains that scaffolding on that wall extends into his air space and constitutes a continuing trespass. Plaintiff also urges that sometime in the future, defendants’ workmen may be negligent while on the scaffolding, thus causing objects to fall on plaintiff’s family or property. We do not believe that the well-pleaded facts are legally sufficient to state a cause of action, and we believe the trial court properly dismissed the amended complaint.
+In United States v. Causby (1946), 328 U.S. 256, 90 L. Ed. 1206, 66 S. Ct. 1062, the Supreme Court held that a landowner owns at least as much of the space above the ground as he can occupy or use in connection with the land. In that case, the court ruled that planes in a flight pattern regularly flying over plaintiff’s farm at a height of 83 feet above the ground came so close as to affect plaintiff’s actual use of the land and thus constituted an intrusion. In Hinman v. Pacific Air Transport (9th Cir. 1936), 84 F.2d 755, the plaintiff landowner sought to enjoin the defendant airline from operating its planes across plaintiff’s land at a height of approximately 150 feet. In affirming the dismissal of the complaint, the court stated at page 758:
+“We own so much of the space above the ground as we can occupy or make use of, in connection with the enjoyment of our land. This right is not fixed. It varies with our varying needs and is coextensive with them. The owner of land owns as much of the space above him as he uses, but only so long as he uses it. * ° *
+# # O
+Any use of such air or space by others which is injurious to his land, or which constitutes an actual interference with his possession or his beneficial use thereof, would be a trespass for which he would have remedy. But any claim of the landowner beyond this cannot find a precedent in law, nor support in reason.”
+The fundamental principle to be gleaned from Causby and Hinman is that a property owner owns only as much air space above his property as he can practicably use. And to constitute an actionable trespass, an intrusion has to be such as to subtract from the owner’s use of the property. In the present case, plaintiffs complaint does not even allege use of the air space above the residence under construction. Defendants’ use of temporary scaffolding in the air and space above that residence cannot be deemed actionable. The trial court correctly dismissed the matter.
+Cases cited by plaintiff are distinguishable from the present case. In each case cited, there was an actual intrusion on the landowner’s property interfering with the owner’s use. In Checkley v. Illinois Central R.R. Co. (1913), 257 Ill. 491, 100 N.E. 942, the landlord’s agent went on the tenant’s property to bum grass and weeds, and the ensuing fire went out of control and damaged a building on the property. In Miller v. Simon (1968), 100 Ill. App. 2d 6, 241 N.E.2d 697, the property owner had trees and topsoil taken from his land. In Scioscia v. Iovieno (1945), 318 Mass. 601, 63 N.E.2d 898, on which plaintiff places heavy reliance, defendants ran clothes reels with laundry onto plaintiff’s property and actually interfered with plaintiff’s use of the premises. In Maton Bros. v. Central Illinois Public Service Co. (1933), 269 Ill. App. 99, aff'd (1934), 356 Ill. 584, 191 N.E. 321, gas pipes maintained by defendant leaked onto plaintiff’s property and destroyed plants. And in Gerrard v. Porcheddu (1927), 243 Ill. App. 562, defendant caused a fire on plaintiff’s property by discharging fireworks. In the present case, the complaint alleged no such intrusion.
+Running through the complaint is the suggestion that plaintiff is attempting to enjoin future acts of negligence by defendants’ employees. Plaintiff insists that his complaint addresses itself to a present trespass rather than future negligence. In any event, the elements of a negligence action are absent, and the complaint is insufficient to state a cause of action in negligence.
+For the reasons stated, the judgment of the circuit court of Cook County dismissing plaintiff’s amended complaint is affirmed.
+Judgment affirmed.
+McGILLICUDDY, P. J., and RIZZI, J„ concur.
