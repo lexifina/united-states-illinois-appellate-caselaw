@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 64-19"
+decided: "1964-07-07"
+citations: ["50 Ill. App. 2d 458"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SCHEINEMAN and ROETH, JJ., concur."]
+parties: ["People ex rel. Russell V. Wright, County Collector, etc., Plaintiff, v. John Doe, et al., Defendants. Myrna Brandow, et al., Petitioners-Appellants, v. Interstate Bond Company, a Corporation, and The John Allan Company, a Corporation, Respondents-Appellees, and Lorine J. McMichael, et al., Husband and Wife and Joint Tenants, Subsequent Ostensible Grantees."]
+source_url: "https://static.case.law/ill-app-2d/50/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5275492
+cites_cases: ["163 NE2d 518", "165 NE2d 294", "177 NE2d 227", "18 Ill2d 502", "18 Ill2d 94", "187 NE2d 222", "194 NE2d 294", "23 Ill2d 96", "26 Ill2d 446", "29 Ill2d 542"]
+---
+
+# People ex rel. Wright v. Doe
+
+## Majority (CULBERTSON, P. J.)
+
+CULBERTSON, P. J.
+This is an appeal from an order of the County Court of LaSalle County, Illinois, denying the request of petitioners to set aside a tax deed. A petition was filed under section 72 of the Civil Practice Act to set aside the tax deed. The cause was heard by the court following a remandment by the Illinois Supreme Court for a hearing on the merits (People ex rel. Wright v. Doe, 26 Ill2d 446, 187 NE2d 222). In the remanding order the Supreme Court pointed out that the petition alleged, among other things, that the affidavit filed in the tax deed proceeding to the effect that notice had been served upon Myrna Brandow was false and fraudulent, and that no service was had upon either petitioner on a certain date or at any time, was a sufficient allegation under the section of the Civil Practice Act to entitle petitioners to a hearing on the merits. As a result of a full hearing before the Trial Court it was found that respondent had committed no fraud in procuring the tax deed in question, and an order was entered by the Trial Court denying petitioners’ request to set aside the tax deed.
+The basic contentions of petitioners were: (1) that no notice had been served on the husband of petitioner, who was alleged to be a lessee of the property in question; (2) that the property was misdescribed in the petition for a deed, as originally filed in the proceeding; (3) that no notice was served upon petitioners in the tax deed proceeding; and (4) that the ultimate purchaser was not a bona fide purchaser.
+The Trial Court found, under the evidence, that there was no lease on the property and that the husband was simply farming the property as the husband of petitioner, Myrna Brandow, and since he was not a lessee, no service upon him was required. On the question of the description there was a mistake of one numeral in one of the pleadings in which the property which is located in Township 34 was in the petition for deed, referred to as Township 24. Township 24 was not in LaSalle County. In the same proceeding, in the sale certificate, the proper numbers were set forth, and the court found that the property was readily ascertainable even if there had been no other pleading in the cause. All other descriptions of the property in the entire record clearly described the premises as being located in Township 34. A witness who testified for the petitioners had no difficulty in identifying the parcel even with the incorrect numeral in the description. The Court concluded that no one could have been misled by such numeral and that the actual order directing the issuance of the tax deed clearly described the property in all particulars.
+At the hearing in the Circuit Court, petitioner admitted on the witness stand she had notice of the proceeding during the redemption period, and had asked the County Clerk to prepare an estimate of the cost of redemption. She did not state that she was in any way prejudiced by the alleged failure to receive notice under the Revenue Code. The Court found she was not in fact prejudiced in any manner by the alleged failure to receive notice. The Trial Court specifically found that petitioners failed to discharge the burden of proof that respondent did not serve notice upon them, and there was no support for. the allegations of fraud on the part of respondent. The Court also found that there was no evidence that the ultimate purchaser, The John Allan Company, was not a bona fide purchaser, and the Court also found that there was no fraud.whatsoever involved in the transfer from Interstate Bond Company, holder of the tax deed, to such Company. All of these findings were amply supported by the evidence.
+The burden of proof in a case of this type is imposed on the petitioners (Brockmeyer v. Duncan, 18 Ill2d 502, 505, 165 NE2d 294). The remanding order from the Supreme Court indicated that the basic, and apparently the sole, question to be considered, was whether there was fraud in the proceeding (People ex rel. Wright v. Doe, supra, at page 453; Urban v. Lois, Inc., 29 Ill2d 542, 547, 194 NE2d 294). In view of the record, the petitioners have failed to discharge the burden of proof and established no fraud in the case justifying the relief requested by petitioners (Brockmeyer v. Duncan, supra; Brown v. Zimmerman, 18 Ill2d 94, 102, 163 NE2d 518). Petitioners’ knowledge of the tax deed proceeding, as well as the failure of petitioners to establish allegations of fraud, was clearly sustained by the record (Urban v. Lois, Inc., supra; People ex rel. Wright v. Doe, supra).
+Under all equitable principles, in light of the record, we must therefore conclude that the order of the County Court of LaSalle County was proper (People v. Melidones, 23 Ill2d 96, 177 NE2d 227). Such order will, therefore, be affirmed.
+Order affirmed.
+SCHEINEMAN and ROETH, JJ., concur.
