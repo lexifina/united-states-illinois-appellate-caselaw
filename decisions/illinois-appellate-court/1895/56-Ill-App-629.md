@@ -1,0 +1,53 @@
+---
+court: "Illinois Appellate Court"
+decided: "1895-02-11"
+citations: ["56 Ill. App. 629"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hartford Fire Ins. Co. v. Abner Orr, Assignee of Willis B. Cauble."]
+source_url: "https://static.case.law/ill-app/56/cases/0629-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5783980
+cites_cases: ["119 Ill. 335", "121 Mass. 439", "123 Ill. 356", "124 Ill. 354", "125 Ill. 361", "125 Ind. 84", "127 Ill. 364", "127 Ill. 372", "128 Ind. 25", "13 Gray (Mass.) 79", "132 Ind. 360", "145 Ill. 469", "149 Ill. 513", "15 Neb. 494", "26 App. 228", "26 Ill. App. 228", "26 Iowa 9", "3 Dak. 80", "33 N. E. Rep. 417", "33 N. J. L. 487", "38 N. E. Rep. 417", "39 Wis. 111", "42 N. W. Rep. 462", "55 Mich. 141", "62 Ill. 458", "63 N. Y. 531", "65 N. Y. 6", "66 N. Y. 274", "67 Tex. 325", "73 Ill. 230", "73 N. Y. 5", "74 Mass. (3 Gray) 32", "77 Ind. 203", "77 la. 685", "83 Ill. 453"]
+---
+
+# Hartford Fire Ins. v. Orr
+
+## Majority (Mr. Presiding Justice Wall)
+
+Mr. Presiding Justice Wall
+delivered the opinion op the Court.
+This action was two policies of insurance, one for $3,000 on a two-story brick building used for business purposes, the other for $1,000 on chairs, carpets, scenery, opera boxes and piano contained in the second story of the building.
+The insured made an assignment for the benefit of creditors on the 4th of August, 1893, and the fire occurred on the 9th of the same month, as stated in the three preceding cases.
+Each policy contained a clause to - the effect that it should be void, unless otherwise provided by agreement indorsed thereon or added thereto, “if the interest of the assured be other than sole and unconditional ownership, or if any change other than by the death of the insured take place in the interest, title or possession of the subject of insurance (except change of occupants without increase of hazard) whether by legal process or judgment or by voluntary act of the insured or otherwise.” The plaintiff recovered the amount of both policies. We are disposed to hold here, as in the preceding case of the National Insurance Company against Orr, that the first condition as to the sole and unconditional ownership was satisfied if such was the character of ownership when the policy was issued, but that the second condition that there should be no change in the'interest, title or possession of the subject of insurance was broken by the deed of assignment and possession thereunder.
+It is insisted, however, that notwithstanding this objection the company may be held on another ground, to wit, the demand and receipt from the assignee of the unpaid premium on the renewal.
+It appears that these policies (and others in other companies covering the dwelling house of said Cauble) were issued by C. H. Hathaway, who was an agent for the appellant company at Ridge Farm. His agency was known “ as a recording agency, and he had authority to issue, accept risks, fix rates and sign policies of insurance for said defendant, to collect premiums, to issue renewal receipts, to cancel insurance and renewals thereof, and generally to transact insurance business for said company in said town of Farm Ridge, Illinois, and vicinity, and to perform all the duties incident to a recording agency,” as is stated in a stipulation of facts which was offered in evidence.
+The policy for §3,000, numbered 839, was issued May 12, 1892, for one year, and on the 12th of Hay, 1893, the said Hathaway, as such agent, issued to Cauble a renewal thereof for one year, and received from him the premium therefor. The policy for $1,000, numbered 883, was issued the 21st of July, 1892, for one year, for which the premium was paid, and on the 21st of July, 1893, the said agent issued to said Cauble a renewal receipt, Ho. 613, for one year, the premium for which was not then paid. After the fire, and with knowledge of the same, the said Hathaway wrote to the assignee as follows :
+Bidge Farm, Ill., Sept. 8, 1893.
+Original Hotice.
+To Hr. Ab. Orr, Assignee of Dr. Cauble :
+You are hereby notified that payment has not been made at this office of the premium, $63, for policies 424, 948, 883, „ 613, renewal upon dwelling and contents of opera house, issued in the Hartford Fire Insurance Co., of Hartford, Conn., and that unless the premium shall be paid on or before the 11th day of September, 1893, we shall cancel the insurance under said policies upon the books, for nonpayment of premium.
+Yours respectfully,
+C. H. Hathaway,
+Agent for Ins. Co. of Hartford, Conn.
+On the next day the assignee paid to said agent the sum of $13.50 due on said renewal, and thereupon said agent gave Mm the following receipt: .
+Bidge Farm, Ill., Sept. 9, 1893.
+Beceived of Ab. Orr, assignee of Dr. Cauble, $13.50, on policy Ho. 883, renewal 613, Hartford Insurance Co.
+C. H. Hathaway,
+Agent.
+This money was, as we infer, transmitted to the company. On the 30th day of January, 1894, some two weeks after this, suit was commenced and process thereon served upon its agent. The company sent its check for $13.50 to the assignee, inclosed in the following letter:
+Chicago, January 30, 1894.
+Abner II. Orr, assignee of Dr. W. B. Cauble, Sidell, Ill.
+Deab Sib :• Inclosed find check for §13.50, payable to your order, repaying" to you the amount of premium improperly collected from you, as assignee, by Agent Hathaway, of Ridge Farm, for policy No. 883, issued to Dr. Cauble a few days after his assignment and fire. Our attorney, Fir. Bates, having just notified us of it, we therefore hasten to return the same to you, and remain,
+Tours very truly,
+P. J. Hobbs, Adjr.
+Two days later the assignee returned the check, saying he could not receive it, and that he had paid the money on the order of the County Court, after notice from the agent, Fir. Hathaway, that such payment must be made. So far as shown by the record, nothing further was said or done on either side as to this matter. The question arises, what was the legal effect of this transaction ? -
+It appears that Hathaway had general authority to issue policies and renewals; to fix rates; to accept risks; to collect premiums; to cancel insurance for the company, and perform all the duties incident to a recording agency. He might be termed a general agent for that locality. Flay on Ins., Sec. 126; Continental Ins. Co. v. Ruckman, 127 Ill. 364.
+He had power to make a new contract of insurance, and to waive errors and irregularities in reference to an old one. We think his act, after knowledge of the fire and that Orr was the assignee of Cauble, in demanding payment from Orr of the unpaid premium on the renewal, with the declaration that unless paid by the day named the policy would be declared canceled, coupled with the payment made and accepted in pursuance of such demand, was equivalent to a waiver of all objections growing out of the transfer and change of title, interest and possession by means of the assignment. It seems that this demand by the agent was made with no little deliberation, for the letter was sent by registered mail, so that the proof of its delivery to the assignee might be easily established, and that, although the money was paid to him on the 9th of September, and presumably transmitted to the company without delay, it Avas retained by the company until January 30th, more than four months after its payment.
+There is no proof that this demand Avas in violation of any instruction from the company to its agent, or even that it was Avithout authority, or that in receiving it from the agent the executive officers of the company did not knoAV Avhat it Avas. The attempt by the company to obviate the effect of Avhat had been done by offering to return the money, can not avail. Having demanded and received the money, and having held it for a substantial period of time, it can not be permitted thus to undo its own action and thereby place itself in statu quo Avithout the consent of the other party.
+The Avaiver thus established amounts also to consent to the assignment of the policy which Avas involved, and included in the general assignment of all the property of the assured to Orr. By accepting from Orr, as assignee, the amount of unpaid premium, the assignment to Orr was distinctly recognized, and he having, in pursuance of the demand and of the order of the County Court, appropriated a part of the funds of the estate to the payment, the company can not be heard to say that the policy Avas assigned without its consent. Indeed, since by the statute, Sec. 11 of the act in relation to voluntary assignments, the assignee may sue in his oavu name for anything appertaining to the estate, the assignment of the property is, perhaps, of itself, a sufficient transfer of the policy thereon, and when the company, Avith full knoAvledge of the facts, recognizes the character of the assignee and receives money from him in that capacity, and thereby Avaives all right of objection to such assignment of the property, such action of the company may be treated as equivalent to consent to the assignment of the policy.
+Perhaps a more accurate statement is that as there is a waiver of all objection to the change in title, interest or possession growing out of the assignment, thereby continuing, the policy as a valid and subsisting contract, the enforcement of which is by the statute vested in the assignee, nothing more is necessary.
+We are of opinion that as to this policy for §1,000, the plaintiff had a good cause of action, but we are unable to agree with counsel that the same is true as to the other policy.
+The mere fact that the two policies were issued by the same company through the same agency can not render the company liable alike upon both policies. There was nothing whatever done with regard to the policy upon the building which was renewed in May when the premium was paid. Whatever was done by the agent or the company after the assignment, related wholly to the policy for §1,000, wdiicb was upon the contents of the building.
+It follows that in our opinion the judgment ivas right so far as it enforced liability on policy No. 883, for §1,000, biit that it was erroneous so far as it included also the other policy No. 839 for §3,000. The judgment will therefore be reversed and judgment will be entered in this court for the appellee against the appellant for §1,060.50, being the amount of the policy for §1,000, and interest thereon. The appellant will pay the costs below and one-half the costs in this court; the appellee will pay the residue. Reversed, and judgment in this court.
