@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-111"
+decided: "1980-03-21"
+citations: ["82 Ill. App. 3d 710"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GALE HARRIS et al., Petitioners-Appellants, v. REGIONAL BOARD OF SCHOOL TRUSTEES OF UNION COUNTY et al., Respondents-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/82/cases/0710-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3224782
+cites_cases: ["183 N.E. 636", "350 Ill. 641", "372 N.E.2d 129", "56 Ill. App. 3d 387"]
+---
+
+# Harris v. Regional Board of School Trustees
+
+## Majority (Mr. JUSTICE KASSERMAN)
+
+Mr. JUSTICE KASSERMAN
+delivered the opinion of the court:
+This is an appeal from the dismissal of petitioners’ complaint for administrative review of the action of the Regional Board of School Trustees of Union County (hereinafter referred to as the Union County Board) and the Regional Board of School Trustees of Jackson County (hereinafter referred to as the Jackson County Board).
+Petitioners in this case are residents of Grand Tower Township, Jackson County, Illinois. Grand Tower Township is in Shawnee Unit School District No. 166, which lies in Union, Jackson and Alexander Counties. Petitioners sought to have that portion of Shawnee Unit School District which was located in Grand Tower Township detached from Shawnee Unit School District and attached to the Mississippi Valley School District No. 166 in Jackson County. The petitioners filed their petition for detachment, pursuant to section 7 — 2 of the School Code (Ill. Rev. Stat. 1977, ch. 122, par. 7 — 2) with the Union County Board, the county in which the greatest portion of the school district was situated. A copy of the petition was also filed with the Jackson County Board, the Mississippi Valley School District being in that county.
+On April 4, 1978, a hearing was held on the petition. The Union County Board dismissed the petition on motion of the Shawnee Unit School District on April 19,1978, and sent a copy of the order dismissing the petition to the Jackson County Board. Demand was made on the Jackson County Board by petitioners that they conduct a hearing based on the transcript of the Union County proceedings, pursuant to section 7 — 6 of the School Code (Ill. Rev. Stat. 1977, ch. 122, par. 7 — 6). The Jackson County Board entered an order on July 6, 1978, stating that in view of the action taken by the Union County Board there was no need for a hearing on the transcript and that no action would be taken by them.
+Petitioners filed a complaint for administrative review on August 4, 1978, in the Circuit Court of Union County requesting that the action of the Union County Board be reversed and that the Jackson County Board be required to hold a hearing on the transcript.
+Respondents, the Union and Jackson county boards, appeared and moved to dismiss the complaint on three grounds. Respondents contend that the complaint for administrative review was not filed within 35 days of the Union County Board’s order and that all the necessary parties to the action had not been joined. The Jackson County Board further contends that it was not required to hold a hearing on the transcript. The circuit court granted the motions to dismiss, and petitioners appealed.
+Our reading of the pertinent sections of the School Code in conjunction with the Administrative Review Act (Ill. Rev. Stat. 1977, ch. 110, par. 264 et seq.) leads us to conclude that the Jackson County Board was required to hold a hearing on the petition for attachment regardless of the fact that the Union County Board previously had denied the petition for detachment.
+Section 7 — 2 of the School Code provides for a change in the boundaries of existing school districts by detachment and annexation upon the “concurrent action” of the county in which the detachment is sought and the county in which the attachment is sought. The phrase “concurrent action” has been interpreted to mean the independent action of each board acting separately, each agreeing to the change. Heppe v. Mooberry (1932), 350 Ill. 641, 183 N.E. 636.
+Section 7 — 6 of the School Code sets out the procedural aspects of filing a petition for a change in school district boundaries, and provides in part:
+“When more than one county board of school trustees must act, the one hearing the petition shall after entering its final order send forthwith a certified copy of the transcript of the hearing and rehearing, if any, to the other county board who shall within 30 days conduct a hearing as provided in this section on the transcript and either grant or deny the request in the petition.” (Ill. Rev. Stat. 1977, ch. 122, par. 7 — 6).
+Section 7 — 6 of the Code when considered in conjunction with section 7 — 2 indicates that a decision denying or granting the petition must be made by both the detaching and attaching school districts. A subsequent hearing by the attaching school district is imperative when the detaching district grants the petition for detachment, but respondents contend that there is no need for a subsequent hearing when the detaching district denies the petition.
+Section 7 — 7 of the School Code (Ill. Rev. Stat. 1977, ch. 122, par. 7 — 7) provides for review of county board of school trustees’ decisions and incorporates the Administrative Review Act’s definition of a final administrative decision. Section 7 — 7 of the Code further provides that application for administrative review may be made within 35 days after a copy of the decision sought to be reviewed was served on the party affected thereby. Section 7 — 7 also makes special provision for situations involving two county boards of school trustees. It provides in part:
+“If the transcript of the hearing is required to be presented to another county board of school trustees the time within which a complaint for review must be filed shall not begin to run until the decision of the county board of school trustees hearing the complaint has been granted or denied by the county board of school trustees conducting a hearing on the transcript.” (Ill. Rev. Stat. 1977, ch. 122, par. 7 — 7.)
+The respondents contend that in light of the detaching district’s denial of the petition, a subsequent hearing by the attaching district would have been a needless act because the agreement of both districts is required by statute to effectuate a change in school district boundaries. Respondents further argue that the denial of the detachment petition effectively terminated the proceedings before the Union County School Board, constituting a final administrative order from which the appeal should then have been taken.
+Section 1 of the Administrative Review Act defines an administrative decision as:
+° * any decision, order or determination of any administrative agency rendered in a particular case, which affects the legal rights, duties or privileges of parties and which terminates the proceedings before the administrative agency.” Ill. Rev. Stat. 1977, ch. 110, par. 264.
+The decision of each county board of school trustees is necessary to constitute an administrative decision subject to review. The Jackson County Board has refused to hold a hearing as required by section 7 — 6 of the School Code; therefore, there is no final administrative decision which can be reviewed by this court. Rather than filing a complaint for administrative review, petitioners’ proper remedy would have been to petition the circuit court for a writ of mandamus to compel the Jackson County Board to hold a hearing. Mandamus is an extraordinary remedy to compel officials to perform a duty which the petitioner is entitled to have performed. Cf. Taylor v. State Board of Education (1978), 56 Ill. App. 3d 387, 372 N.E.2d 129.
+Having concluded that there is no reviewable final decision by the administrative agencies, due to the Jackson County Board’s refusal to hold a hearing, we find it unnecessary to address the other issues raised on appeal.
+The Jackson County Board was under a statutory duty to hold a hearing on the petition and did not. Therefore, we affirm the dismissal of petitioners’ complaint by the trial court for the reasons stated in this opinion.
+Affirmed.
+JONES, P. J., and KARNS, J., concur.
