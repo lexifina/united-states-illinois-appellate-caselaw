@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-03-03"
+citations: ["69 Ill. App. 163"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cleveland, C., C. & St. L. Ry. Co. v. Edwin Capoot."]
+source_url: "https://static.case.law/ill-app/69/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5203484
+cites_cases: ["111 Ill. 114", "31 Ill. App. 190", "63 Ill. App. 642", "89 Ind. 596"]
+---
+
+# Cleveland, C., C. & St. L. Ry. Co. v. Capoot
+
+## Majority (Hr. Justice Scofield)
+
+Hr. Justice Scofield
+delivered the opinion of the Court.
+Appellant’s track runs north and. south on the west side of Allendale, an unincorporated village having a population of nearly 500, and Hill and Oak streets, which are 315 feet apart, run east and west across the track. The right of way between these two streets is not fenced on either side.
+There is a strip of unoccupied ground ten feet in width on the east side of the right of way, and east of and adjacent to this strip is Railroad street, which is thirty feet wide and runs north and south, connecting with Oak and Hill streets at its extremities. Railroad street is the western boundary of the lots and blocks of the village.
+A sow and four pigs, belonging to appellee, went upon the railroad track from the east at a point about midway between Oak and Hill streets, and were killed by one of appellant’s trains. Appellee sued for the value of these animals. After the evidence had been heard, the jury was discharged by agreement, and the cause was submitted to the court for decision. The court rendered judgment in favor of appellee.
+It was admitted upon the trial that the convenience of the public demanded that the right of way should not be fenced on the west side of the track where the company’s land was used for storing ties and lumber which were to be shipped on appellant’s road. C., B. & Q. R. R. Co. v. Hans, 111 Ill. 114; T., St. L. & K. C. R. R. Co. v. Franklin, 159 Id. 99; C., C., C. & St. L. Ry. Co., v. Umphenour, 63 Ill. App. 642.
+The question before us is whether or not, under the circumstances, a fence should have been built on the east side of the right of way.
+The statute is as follows:
+“That every railroad corporation shall, within six months after any part of its line is open for use, erect and thereafter maintain fences on both sides of its road or so much thereof as is open for use, suitable and sufficient to prevent cattle, horses, sheep, hogs or other stock from getting on such railroad, except at the crossings of public roads and highways, and within such portions of cities and incorporated towns and villages as are or may hereafter be laid out and platted into lots and blocks.” Starr & Curtis’ Ann. Stat. (1896), Ch. 114, Par. 68. The remainder of this paragraph provides for the construction of gates or bars at farm crossings, and of cattle-guards at road crossings.
+It is manifest that there is no exception in the foregoing statute which would exempt appellant from building a fence between Oak and Hill streets on the east side of its right of way. But it is argued that the courts have made one excep-. tion by construction, and should now take another step forward and create another exception; that if the spirit of the statute does not require fencing where the public would be discommoded thereby, neither does it require fencing where the fence would not prevent stock from getting upon the track.
+The fallacy of this proposition lies in the assumption that where only one side of the track is fenced, the fence is altogether useless. But a fence on one side may have the effect of stopping animals and turning them away from the track. A spirited horse may be driven more safely along a highway which adjoins and is parallel to the right of way, if a good fence intervenes between the animal and a passing train. In case the horse should become frightened and run, the fence might prevent it from dashing upon the track to its own destruction and the injury or death of its driver. Where it can be seen that such a fence might be useful in preventing animals from getting on the track, this court will not, by construction, put into the statute an exception which has not been mentioned by the legislature.
+In I. C. R. R. Co. v. Trowbridge, 31 Ill. App. 190, the railroad track was laid for some distance on, in and along the south side of a public higliAvay, by the license and permission of the public authorities, and it was held that the railroad company should have built a fence between its track and the remainder of the public highway. Mr. Justice Conger, in delivering the opinion of the court, says: “ The object to be attained by the law in requiring railroads to be fenced, is to protect persons and property upon the railroad, and animals running at large, from being injured. In this case the ordinary dangers are greatly increased. For a mile and a half the highway and railroad run side by side, but a few feet apart, exposing persons passing along the highway with teams to the danger of collision with passing trains when such teams should become frightened and unmanageable.”
+Would the railroad company in the Trowbridge case have been relieved from the necessity of fencing on the side next to the public highway if the public convenience had in fact required that the right of way should be left open on the other side % Certainly not.
+By the same process of reasoning, we conclude that appellant’s right of way should have been fenced on the east side between Oak and Hill streets.
+The statute of Indiana requires the railroad track to be “ securely fenced in; ” and hence the opinion in I., B. & W. Ry. Co. v. Leek, 89 Ind. 596, which is based upon the Indiana statute, is not a controlling authority in the construction of the Illinois statute, which is differently worded, requiring the erection of fences on both sides of the road suitable and sufficient to prevent certain animals from getting upon the track. There is no intimation in the Illinois statute that if the object of the statute can not be fully accomplished, partial compliance with the mandate to fence will not be required.
+The decision in the Leek case is based upon the railroad’s convenience and the interest of the public.
+But it has been held in this State that a railroad is not relieved from fencing its track on the ground of its own convenience and the safety of its employes. T., St. L. & K. C. R. R. Co. v. Franklin, supra. And it is difficult to see how the public interest demands that a railroad track should not be fenced on one side because it can not be fenced on the other. The reason assigned in the Leek case is, that animals crossing the track from the unfenced side would be caught, as if in a trap, by the fence on the other side, and perhaps be killed while endeavoring to reoross the track.
+But how can this court say that more, or more valuable animals would be killed with a fence on one side of the track only, than with no fence at all ? This is not a matter of common knowledge, but of opinion or speculation merely. It is not a fact of which a court can take judicial cognizance. The question belongs to the legislature, and no exception of this sort should be engrafted upon the statute by construction.
+The other errors assigned have not been argued, and will not be considered. The judgment is affirmed.
