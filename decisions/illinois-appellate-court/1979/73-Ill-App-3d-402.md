@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-1208"
+decided: "1979-06-18"
+citations: ["73 Ill. App. 3d 402"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LITTLE ROCK MISSIONARY BAPTIST CHURCH et al., Plaintiffs-Appellants, v. IRVING OLEX et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/73/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3266057
+cites_cases: ["123 N.E.2d 731", "152 N.E. 587", "157 N.E.2d 801", "180 N.E.2d 36", "21 Ill. App. 2d 290", "236 Ill. 349", "288 N.E.2d 520", "321 Ill. 480", "33 Ill. App. 2d 477", "360 Ill. 518", "384 Ill. 112", "398 Ill. 442", "4 Ill. 2d 570", "415 Ill. 360", "7 Ill. App. 3d 760"]
+---
+
+# Little Rock Missionary Baptist Church v. Olex
+
+## Majority (Mr. JUSTICE McGLOON)
+
+Mr. JUSTICE McGLOON
+delivered the opinion of the court:
+Plaintiffs Little Rock Missionary Baptist Church and Emanuel Tyson appeal from an order dismissing their complaint against defendants Irving Olex, Merchandise National Bank, and Midwest Bank & Trust. Plaintiffs alleged that they were the owners of a parcel of real estate conveyed to Olex and subsequently, to the other defendants. The trial court dismissed the complaint on the basis of res judicata and laches. Plaintiffs appeal.
+On appeal, plaintiffs argue that res judicata does not apply since plaintiff Little Rock Missionary Baptist Church was not a party or privy to earlier lawsuits involving the real estate between Tyson and Olex.
+We affirm.
+In 1957, plaintiff Little Rock Missionary Baptist Church (hereinafter referred to as Little Rock) acquired title to a parcel of real estate. In 1962, Little Rock conveyed title to the property to plaintiff Emanuel Tyson by way of quit-claim deed. On April 20,1965, plaintiff Tyson conveyed title to defendant Irving Olex as security for certain improvements made on the property by Olex and worth *21,500. Tyson and Olex agreed that Tyson would pay Olex *150 a month until the indebtedness was paid off, at which time Olex would reconvey title back to Tyson. Plaintiff Tyson continued making the monthly installments to Olex from April 20,1965, to May 17, 1968, at which time Olex agreed to accept a lump sum payment of *8,942.30.
+In order to make the lump sum payment to Olex, Tyson secured a loan from defendant Merchandise National Bank. In the interim, Olex allegedly conveyed title to the real estate to defendant Merchandise National Bank, although this fact is disputed by said bank. Subsequently, Tyson repaid both Olex and Merchandise National Bank in full, though title was never conveyed back to Tyson.
+In 1977, Little Rock and Tyson filed the present suit against Olex, Merchandise National Bank and Midwest Bank & Trust. Little Rock claimed that its original conveyance to Tyson was void because it was made without authority under its corporate bylaws. According to Little Rock, all subsequent conveyances were thus also void and therefore, it was the sole owner of the real estate. Tyson claimed that having repaid both Olex and Merchandise National Bank, he was the equitable owner of the real estate and should have been reconveyed title.
+Defendants filed a motion to dismiss, arguing laches and res judicata. Res judicata was premised on two 1976 cases between Tyson and Olex involving the same parcel of real estate. In the first suit, which was an eviction proceeding brought by Olex, Olex was awarded possession. The second suit, which was a suit for specific performance brought by Tyson, was dismissed on the basis of res judicata, based on the adjudication of the previous eviction proceeding in Olex’ favor. Consequently, in the instant case, the trial court granted defendants’ motion to dismiss, again on the basis of res judicata and also laches. Plaintiffs appeal.
+On appeal, plaintiffs argue that res judicata does not bar the present suit because Little Rock was not a party or privy to the two earlier cases adjudicating ownership of the property.
+Because plaintiffs have failed to present adequate argument on the issue of res judicata, particularly as it applies to their case, we decline to consider it. Plaintiffs have failed to present any analysis of the two prior suits between Tyson and Olex concerning the real estate in question. Without a clear presentation of the issues actually resolved in those suits, we are incapable of determining whether res judicata applies. In In re Estate of Kunz (1972), 7 Ill. App. 3d 760, 288 N.E.2d 520, we held that reviewing courts are entitled to have the issues clearly defined, with pertinent authorities cited. We noted that we are not depositories in which an appealing party may dump the burden of argument and research.
+Though we cannot review the trial court’s granting of defendants’ motion to dismiss on the issue of res judicata, we note that it was also granted on the basis of laches. We believe there is sufficient evidence presented in the record to support the trial court’s decision to dismiss the complaint on the basis of laches.
+In Holland v. Richards (1955), 4 Ill. 2d 570, 123 N.E.2d 731, our Supreme Court defined laches as follows:
+“Laches has been defined as such neglect or omission to assert a right as, taken in conjunction with lapse of time of more or less duration, and other circumstances causing prejudice to the adverse party, will operate as a bar in a court of equity. (Curtis v. Curtis, 398 Ill. 442, 447; Brunotte v. DeWitt, 360 Ill. 518, 534; Venner v. Chicago City Railway Co., 236 Ill. 349, 368.) Unlike limitations, laches is not a mere matter of time but principally a question of the inequity of permitting the claim to be enforced, — an inequity founded upon some change in the condition or relation of the property and the parties. Laches depends on whether, under all the circumstances of the particular case, plaintiff is charged with want of due diligence in failing to institute proceedings before he did. Where there is such a change in the relations of the parties or such a change in the subject matter of the suit as to render it inequitable to grant relief, it will be refused without reference to the statutory period of limitation. Freymark v. Handke, 415 Ill. 360; McKey v. McKean, 384 Ill. 112.” 4 Ill. 2d 570, 577-78, 123 N.E.2d 731, 735.
+In the present case, Little Rock admits that it sat on its hands for 15 years. From 1962, when it conveyed title to Tyson, to 1977, when plaintiffs filed the present action, Little Rock was in possession of the real estate. Though there were two lawsuits involving ownership of the property during this time, Little Rock failed to assert any claims it had until after two adjudications adverse to Tyson. In Illinois, the law is well settled that one challenging title to real property must be diligent in discovering facts avoiding title and diligent in his application for relief. (Capper v. Poulsen (1926), 321 Ill. 480, 152 N.E. 587; Daulton v. Walsh (1959), 21 Ill. App. 2d 290, 157 N.E.2d 801; Holt v. Duncan (1962), 33 Ill. App. 2d 477, 180 N.E.2d 36.) Based on the facts in this case, there was more than sufficient evidence for the trial court to dismiss the complaint on the basis of laches.
+Accordingly, for the foregoing reasons the order of the circuit court of Cook County is affirmed.
+Order affirmed.
+GOLDBERG, P. J., and O’CONNOR, J., concur.
