@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-06-08"
+citations: ["89 Ill. App. 457"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Calvin T. Bogar v. Josephine A. Walker."]
+source_url: "https://static.case.law/ill-app/89/cases/0457-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5281063
+cites_cases: ["24 Ill. App. 451"]
+---
+
+# Bogar v. Walker
+
+## Majority (Mr. Justice Dibell)
+
+Mr. Justice Dibell
+delivered the opinion of the court.
+Bogar sued Mrs. Walker in the City Court of Aurora and got judgment, which was reversed in this court on Mrs. Walker’s appeal, and she had judgment here against Bogar for her costs in this court. The cause was again tried in the-city court, and Bogar recovered judgment against Mrs. Walker for $160 and his costs. Bogar assigned this judgment to his attorneys to apply on the attorney fees he owed them for their services in that litigation. Execution was issued on said last named judgment against Mrs. Walker to the sheriff of Kendall county, where Mrs. W alker resided. The execution was for $160 damages awarded, and for $63.65, plaintiff’s costs. Mrs. Walker then took out an execution to the sheriff of Kendall county from this court for the costs here adjudged to her against Bogar, which included $116.85 costs advanced by her. Mrs. Walker then entered a motion in said cause in the City Court to recall the execution issued therein, and the court ordered execution stayed until a further order. A hearing was had and the court ordered “ that the execution be stayed perpetually, except as to the sum of $69.50, and upon the payment of said sum of $69.50, judgment and costs in this case will be fully satisfied.” The proof heard upon the motion was preserved by bill of exceptions. Bogar appeals from that order.
+Nothing in the order or in the bill of exceptions discloses how plaintiff’s execution for $160 damages and $63.65 costs, total $223.65, was reduced to $69.50. It is a matter of inference that the court first set off against said execution the $116.85 due Mrs. Walker on the execution from this court, and then reduced the costs of the city court b}^ $37.30. Such set-off and reduction would leave only $69.50 due Bogar upon his execution. But this is mere inference as the record does not show what was allowed or rejected. The execution from the city court included §63.65 as costs, awarded plaintiff in that court. Tío bill of plaintiff’s costs accompanied said execution, and the clerk testified the costs in the cause had never been taxed, but that he inserted §63.65 as his estimate of what plaintiff’s taxable costs were. Section 25 of our statute upon “ Costs ” requires the clerk to tax costs. It was improper to include in the execution a gross sum for costs which had not been taxed. The court might well have quashed the execution as to costs, or recalled it. The court seems to have gone further and made some estimate of the' costs properly taxable, and allowed some items and rejected others, and embodied the net result in the order above quoted. This was improper, even if the proof had shown what costs were properly taxable, which it did not, except as to witness fees. The court should have directed the clerk to tax the costs. The judgment was in favor of Bogar for $160 and his costs. He should not lose his costs merely because the clerk neglected to tax them. The orders of court' were of record, and the papers filed by the clerk and the sheriff’s return of fees earned by him on summons and subpoenas must be presumed to be on file, and the statute then in force fixed the taxable fee for each item of service. The witness’ affidavits furnished the basis for taxing their fees. After the clerk had taxed the costs, any one aggrieved had a remedy by motion to retax any particular item supposed to be incorrect. It was error to make a gross estimate of plaintiff’s costs which had never been taxed, and on the face of the record before us it would seem as if plaintiff’s costs had been reduced below the sum which legally followed the judgment in his favor. This requires a reversal of the order.
+Section 58 of our statute upon judgments and executions authorizes executions between the same parties to be set off against each other; section 59 prescribes how the set-off may be effected; section 50 provides:
+“ Such set-off shall not be allowed in the following cases: * * * Fifth. Tior shall it be allowed as to so much of the first execution as is due to the attorney in that suit for his fees and disbursements therein.”
+The language is plain. It forbids the execution in favor of Mrs. Walker being set off against the execution in favor of Bogar as to so much of the execution in favor of Bogar as is due to his attorneys in that suit for his fees and disbursements therein. Upon another hearing fuller proof should he made as to whether Bogar’s attorneys acted under an express or implied contract, what has been paid to them and what is still due them for their fees and disbursements in said cause.
+Bogar was the party of record, entitled to prevent a set-off of executions not authorized by statute, and therefore he was entitled to this appeal, as well as because of the action of the court in reference to the costs of the city court; and his attorneys could use his name to appeal to protect their assignment.
+The order is reversed and the cause remanded.
