@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 16,389"
+decided: "1912-03-12"
+citations: ["168 Ill. App. 32"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Harris F. Williams, Plaintiff in Error, v. Elton Lower et al., Defendants in Error."]
+source_url: "https://static.case.law/ill-app/168/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5349774
+---
+
+# People ex rel. Williams v. Lower
+
+## Majority (Mr. Justice Clark)
+
+Mr. Justice Clark
+delivered the opinion of the court.
+The plaintiff in error has brought up for review a judgment entered in a mandamus proceeding, which judgment reads as follows:
+“This day again come the parties, by their respective attorneys, and thereupon there coming on to be heard the amended demurrer of the defendants to the petition of the relator herein and the court having heard the arguments of counsel and being now duly advised in the premises, it is ordered by the court that the said demurrer be and the same is hereby overruled.
+“Thereupon the said defendants having elected to stand by their said demurrer, it is ordered by the court that a writ of mandamus issue out of and under the seal of this court, commanding said defendants Elton Lower, M. L. McKinley and H. D. Fargo, as civil service commissioners of the City of Chicago, to hold or cause to be held within ninety days from the date hereof a promotional examination in said City of Chicago for the office of superintendent of streets, limited to assistant superintendents of streets of said City of Chicago, unless they shall be prevented from so doing by the fact that none or not more than one of said assistant superintendents of streets shall register for such promotional examination, and, in case such examination shall be successfully passed by one or more of said assistant superintendents of streets, to make an eligible list composed of such of said assistant superintendents of streets as shall have successfully passed said examination, to the end that from such eligible list there may be certified to the commissioner of public Works, in accordance with law, the names of persons eligible to appointment as superintendent of streets, and that thereafter said defendants proceed in the premises in accordance with law.
+“It is further ordered by the court that nothing herein contained shall be construed as a determination by the court as to the steps to be taken by said defendants in case none or not more than one of said assistant superintendents of streets shall register for such promotional examination, or in case more than one of said assistant superintendents of streets register for such promotional examination and none of them shall pass the same, but that the course to be pursued by said defendants in such case shall be open to determination hereafter in any proper suit brought for that purpose in any court of competent jurisdiction, to the same extent as if this order had not been entered.”
+In Ms petition the relator, plaintiff in error, in addition to the relief that was accorded in the judgment, asked the following:
+“that in case none or not more than one of said assistant superintendents of streets shall register for such promotional examination, or in case more than one of said assistant superintendents of streets register for such promotional examination and none of them shall pass the same, said civil service commissioners hold or cause to be held a promotional examination in said City of Chicago for the office of superintendent of streets which shall be open to all ward superintendents of the City of Chicago who may apply to be examined thereat, and that, in case said examination shall be successfully passed by one or more of said ward superintendents, said civil service commissioners make an eligible list composed of such of said ward superintendents as shall have successfully passed said examination and from such eligible list certify names to the commissioner of public works for appointment of superintendent of streets according to law and also commanding said civil service commissioners, in case thereafter an original examination is held for the office or place of superintendent of streets, to admit no person to the same who has not been an actual resident of the City of Chicago for at least one year next preceding the date of the examination.”
+From the judgment above set forth it will appear that the court declined to provide what course the civil service commissioners should pursue in case none or not more than one of the assistant superintendents of streets should register, or in case two or more of them registered and none passed, except to provide that they should comply with the law, which was of course unnecessary to be stated.
+It is a well known principle that mandamus is never granted in anticipation of a supposed omission of duty, however strong the presumption may be that the persons whom it is sought to coerce by the writ will refuse to perform their duty when the proper time arrives. High on Extraordinary Legal Remedies, Sec. 12.
+It is apparent from the judgment that was entered in the case now under consideration that if the provisions thereof were carried into effect and the civil service commissioners held or caused to he held a promotional examination for the office of superintendent of. streets, and at such examination more than one of the assistant superintendants of streets registered for such promotional examination, and one of such assistant superintendents so registering passed the examination, then nothing more need have been done by the commissioners than to certify to the commissioner of public works the name of the successful candidate.
+If thus a superintendent of streets were provided for the city (as probably was the result) no good purpose could be subserved by the rendering of an opinion by this court upon the other questions involved. Our opinion upon these hypothetical questions would not he controlling upon the commissioners who might happen to be in office at the time of its rendition nor upon their successors. The Supreme Court of the state, rendering its decision in a case properly before it, is the only tribunal which can establish an effective and controlling precedent.
+The judgment of the Circuit Court is affirmed.
+Affirmed.
