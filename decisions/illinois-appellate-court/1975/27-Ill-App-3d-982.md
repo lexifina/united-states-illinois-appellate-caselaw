@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "59909"
+decided: "1975-04-09"
+citations: ["27 Ill. App. 3d 982"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois et al., Plaintiffs-Appellees, v. Arturo Mota, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/27/cases/0982-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2864903
+cites_cases: ["116 U.S. 616", "281 N.E.2d 776", "334 U.S. 699", "342 U.S. 48", "380 U.S. 693", "4 Ill.App.3d 780", "92 L.Ed. 1663", "96 L.Ed. 59"]
+---
+
+# People v. Mota
+
+## Majority (Mr. JUSTICE JOHNSON)
+
+Mr. JUSTICE JOHNSON
+delivered the opinion of the court:
+Arturo Mota, the defendant, was charged with keeping a gambling place in violation of section 28 — 3 of the Criminal Code (Ill. Rev. Stat. 1973, ch. 38, par. 28 — 3), and keeping or patronizing gambling premises in violation of section 2 of the Municipal Code (Chicago, Ill. Mun. Code 1939, ch. 193, par. 2), and possession of an unregistered firearm, unrelated to this appeal. At a hearing held on October 10, 1973, the court granted the defendant’s motion to suppress evidence illegally seized so the. criminal charges were dismissed. The court ordered, however, that defendant’s $600, seized at the time of his arrest, be forfeited to the Cook County treasury.
+Defendant appeals from the court’s order of forfeiture and presents the following issues for review:
+1. Whether an order of forfeiture can be entered on the basis of evidence which is the .fruit of an entry and search in violation of the fourth amendment to the United States constitution; and
+2. Whether an order of forfeiture can be entered when there has not been compliance with the statutory prerequisites of forfeiture of money involved in gambling.
+There was a hearing held on defendant’s motion to suppress evidence seized at the time of his arrest. At the hearing, Officer Maduga, assigned to the vice control division, testified that he went to 914 South Walton, in the city of Chicago, to investigate a card game in apartment 402, in response to a call from a concerned citizen. The officer proceeded to the premises and stood, in the hallway. He observed a man leave the apartment and heard money hitting the table. When the door was opened, the officer was able to look inside and witness a card game in progress. Officer Maduga knocked on the door and entered the apartment where he encountered Mota and others sitting around a table. The police searched Mota’s apartment and seized a weapon, cards, six $100 bills and $3 in United States currency.
+After granting the defendant’s motion to suppress, there was some additional testimony received by the court. Officer Maduga testified, when questioned by the judge, that in his opinion there was gambling going on; that there was money on the table and floor; and that no money was taken from any individual. The defendant testified, however, through an interpreter, that there were $3 on the table and six $100 bills under his mattress — the $600 was going to be sent to Mexico. The court, at this time, ordered all money forfeited to the county treasury, and criminal charges against the defendant were stricken with leave to reinstate.
+The litigants only appeal from that part of the court’s order that involves the forfeited money. Consequently, we do not consider the legality of the search and seizure of the money. The defendant contends that the forfeiture order violated his fourth amendment rights. The law is clear that the exclusionary rule of the fourth amendment applies to forfeiture suits arising out of prosecutions for criminal activity. (Boyd v. United States (1885), 116 U.S. 616, 29 L.Ed. 746, 6 S.Ct. 524; One 1958 Plymouth Sedan v. Pennsylvania (1965), 380 U.S. 693, 14 L.Ed.2d 170, 85 S.Ct. 1246.) In Boyd, at pages 633-34, the court states:
+“We are also clearly of opinion that proceedings instituted for the purpose of declaring the forfeiture of a man’s property by reason of offenses committed by him, though they may be civil in form, are in their nature criminal. * * * As, therefore, suits for penalties and forfeitures, incurred by the commission of offenses against the law, are of this quasi-criminal nature, we think that they are within the reason of criminal proceedings for all the purposes of the Fourth Amendment of the Constitution, and of that portion of the Fifth Amendment which declares that no person shall be compelled in any criminal case to be a witness against himself * *
+In One 1958 Plymouth Sedan v. Pennsylvania (1965), 380 U.S. 693, 14 L.Ed.2d 170, 85 S.Ct. 1246, the court was faced with the question of whether the exclusionary rule applied to forfeiture proceedings. The court concludes:
+“* * # [T]he nature of a forfeiture proceeding, so well described by Mr. Justice Bradley in Boyd, and the reasons which led the Court to hold that the exclusionary rule of Weeks v. United States, supra, is obligatory upon the States under the Fourteenth Amendment, so well articulated by Mr. Justice Clark in Mapp, support the conclusion that the exclusionary rule is applicable to forfeiture proceedings such as the one involved here.” (380 U.S. 693, 702.)
+In light of the holdings in Boyd and One 1958 Plymouth Sedan, we feel that it would be anomalous to hold that the exclusionary rule should be applied in criminal proceedings where evidence is illegally seized, but not be applied in forfeiture proceedings requiring a determination that the criminal law has been violated, like the one we are presently reviewing.
+We feel that it is important to determine if the money seized in this case is a contraband per se or a derivative contraband since the former will be forfeited even when illegally seized. Per se contrabands are objects the possession of which, without more, constitutes a crime (Trupiano v. United States (1948), 334 U.S. 699, 710, 92 L.Ed. 1663, 68 S.Ct. 1229; United States v. Jeffers (1951), 342 U.S. 48, 54, 96 L.Ed. 59, 72 S.Ct. 93), while a derivative contraband is forfeitable only because of its use in criminal activity. (One 1958 Plymouth Sedan v. Pennsylvania (1965), 380 U.S. 693, 699, 14 L.Ed.2d 170, 85 S.Ct. 1246.) There is nothing criminal about possessing money, and its return would not frustrate public policy against the possession of such items.
+The next question arises as to whether the money was a derivative contraband. To answer this question we must examine the forfeiture statute (Ill. Rev. Stat. 1973, ch. 38, par. 28 — 5(b)), in the instant case, which requires proof that the money was integrally related to gambling in order to characterize it as a derivative contraband. Section 28 — 5(b) of the statute provides as follows:
+“Every gambling device shall be seized and forfeited as contraband to the county wherein such seizure occurs. Any money or other thing of value integrally related to acts of gambling shall be seized and forfeited as contraband to the county wherein such seizure occurs.”
+This statute presumes that the search and seizure which resulted in a discovery of contrabands are legal. The State can only establish that the money was integrally related to the alleged gambling if it can use the evidence discovered during the search, but, in the instant case, the trial court granted the defendant’s motion to suppress. Consequently, the money unlawfully obtained in the illegal search in this case not only cannot be used in the forfeiture proceedings we are presently reviewing, but cannot be used at all. People v. One 1968 Cadillac Automobile (1972), 4 Ill.App.3d 780, 788, 281 N.E.2d 776.
+Since the search was illegal, there was no competent evidence to show that the money was integrally used in the crime of gambling. The decision of the trial court as to the forfeiture must therefore be reversed.
+For the foregoing reasons, the judgment of the circuit court is reversed.
+Reversed.
+DIERINGER, P. J„ and ADESKO, J., concur.
