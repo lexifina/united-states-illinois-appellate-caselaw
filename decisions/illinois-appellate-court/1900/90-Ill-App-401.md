@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-07-16"
+citations: ["90 Ill. App. 401"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Zoa D. Moorhouse v. James F. Moorhouse."]
+source_url: "https://static.case.law/ill-app/90/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1673396
+cites_cases: ["122 Mass. 423", "14 Wend. 636", "19 Ill. 334", "48 N. J. Eq. 364", "73 Ill. 497"]
+---
+
+# Moorhouse v. Moorhouse
+
+## Majority (Mr. Justice Sears)
+
+Mr. Justice Sears
+delivered the opinion of the court.
+Assuming, as counsel for the respective parties do, that the evidence is sufficient to establish that defendant in error was guilty of adultery as charged in the bill of complaint, the only question presented is as to the effect of con-donation. The evidence is conclusive that on October 4, 1897, there was a complete condonation by plaintiff in error of offenses of adultery committed by defendant in error prior to that time. This condonation was the result of a course of investigation upon the part of plaintiff in error into the past conduct of defendant in error, in the course of -which she employed a lawyer and detectives. Upon confronting defendant in error with charges, he made admissions which are treated by the parties hereto as admissions of the offense of adultery. Ho specific acts were proved, or charged, or confessed. But in general it was charged that he had been guilty of adultery, and he confessed. Thereupon plaintiff in error forgave, and the parties agreed to live together as man and wife, and did thereafter so live and cohabit. Shortly thereafter defendant in error lost his position as a railroad employe, and was obliged to return to a, farm, owned by him. Plaintiff in error refused to accompany him, giving as reasons therefor the lack of comfort and convenience in the house upon the farm. Defendant in error thereafter left her with only $5 in money for her support.
+After the condonation plaintiff in error learned of alleged instances of infidelity, committed before the condonation, but not specifically known to plaintiff in error at the time of the condonation. Shortly after the separation she filed her bill of complaint, praying for a decree of divorce upon the ground of adultery committed before the time of the condonation.
+It is contended by counsel for plaintiff in error that from these uncontroverted facts it must be concluded, first, that the condonation did not operate to forgive offenses committed prior thereto, except such as were definitely known to or disclosed to plaintiff in error; and, second, that there was such cruelty in the conduct of defendant in error in leaving plaintiff in error at the time of his return to his farm as operated to revive the offense of adultery and annul the act of condonation. We are of opinion that neither of these contentions can be sustained. It is doubtless true that the act of condonation only operates to forgive the specific acts condoned, when the forgiveness is applied to specific acts. 2 Bishop on Marriage, Div. and Sep., Sec, 299; Alexander v. Alexander, L. R., 2 P. & D. 164; Shackleton v. Shackleton, 48 N. J. Eq. 364.
+But where no specific acts of offense are known or disclosed, and where no inquiry is made as to specific acts and there is no concealment or denial upon inquiry, but the confession is of general infidelity, without specification, then a condonation, also general, applies as well to one precedent offense as to another, and includes them all. Keats v. Keats, 1 Swab, and Tr. 334; Rogers v. Rogers, 122 Mass. 423.
+It is undoubtedly the established doctrine that condonation is a forgiveness with the implied condition that the condoning party shall thereafter be treated with conjugal kindness, and that when this condition is afterward violated, the right to a remedy for adultery condoned is revived. 2 Greenleaf on Ev. (13th Ed.), Sec. 53; 2 Bishop on Marriage, Div. and Sep., Sec. 308, et seq.; Davis v. Davis, 19 Ill. 334; Farnham v. Farnham, 73 Ill. 497; Durant v. Durant, 1 Hag. Eccl. Rep., 733; Bromwell v. Bromwell, 3 Hag. Eccl. Rep. 618; Johnson v. Johnson, 14 Wend. 636; Shackleton v. Shackleton, supra.
+It has been also held in the ecclesiastical courts of England that subsequent cruelty may operate to revive a remedy for adultery previously condoned, and that the cruelty necessary in this behalf may be less than the degree necessary to constitute an affirmative ground for divorce. Durant v. Durant, supra: Bromwell v. Bromwell, supra.
+And in Illinois the same doctrine is approved in Davis v.Davis, supra.
+If there were evidence here from which a jury might reasonably conclude that defendant in error had been guilty of cruelty after the act of condonation, or if reasonable minds might fairly differ upon the question, then we would hold that the issues of fact should have been submitted to the jury.
+But in this case there is no evidence of cruelty on the part of defendant in error. The evidence shows that when he was obliged to return to his farm in order to earn a livelihood, the plaintiff in error, whose duty it was to accompany her husband, refused to go with him, and, so far as the record here discloses, without any sufficient reason. Hnder such circumstances, it could not be said that his going and leaving her with only §5 in money was an act of cruelty. Mor was it necessary to submit such question to a jury. We agree with the learned chancellor in his conclusion that reasonable minds could not differ as to the established fact of a condonation, and therefore the peremptory direction to the jury did not prejudice any rights of plaintiff in error. Mo other and different result of the trial could be permitted to stand. The decree is affirmed.
