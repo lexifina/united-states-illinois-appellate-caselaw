@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1882-05-09"
+citations: ["10 Ill. App. 626"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick Eberlein v. Minnie Abel."]
+source_url: "https://static.case.law/ill-app/10/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 852720
+cites_cases: ["39 Ill. 578"]
+---
+
+# Eberlein v. Abel
+
+## Majority (McAllister, J.)
+
+McAllister, J.
+This action was brought in a justice’s court by appellee, Minnie Abel, against appellant, Frederick Eberlein, to recover a balance of rent alleged to be due from the latter to the former. The case was taken by appeal to the circuit court, where it was tried before the court and a jury, resulting in a verdict and judgment for the plaintiff, Lfor nineteen dollars and seventy-one cents, and the defendant brings the case to this court by appeal. The evidence tended to show that in July, 1879, the plaintiff rented certain premises to the defendant from month to month, no time being fixed by the contract when the tenancy was to commence or to terminate, and the evidence was conflicting as to the time when defendant actually took possession. The defendant occupied two months for which he paid the stipulated rent. The action was brought to recover for the third month, on the ground that the defendant had not legally terminated the tenancy by giving a month’s notice in writing. The defendant gave evidence tending to show that he gave the plaintiff a verbal notice of such termination, in proper time. The court, however, instructed the jury that “ in order to terminate a tenancy from month to month, the law requires a written notice of thirty days to be given either by the tenant or landlord, of the election so to terminate the tenancy; and if said notice be not given, then the tenant is liable for the rent to the landlord, whether said tenant occupies the premises or not, unless the tenancy he terminated by some other act or consent of the respective parties.” To the giving this instruction the defendant excepted, and assigns it for error. We are of opinion the instruction was wrong. At common law a verbal notice even by the landlord, was sufficient to terminate a tenancy at will or sufferance, unless a written notice was made necessary by agreement of the parties. Taylor’s Landlord & ' Tenant, § 482, and other authorities cited by appellant’s counsel. The only provision of the statute applicable to such a tenancy as is here shown, is section 6 (R. S. 1874, p. 638), which is as follows: “In all cases of tenancy by-the month, or for any other term less than one year, where the 'tenant holds over without special agreement, the landlord shall have the right to terminate the tenancy by thirty days’ notice in writing, and to maintain an action of forcible detainer or ejectment.” This section has no reference to the right of the tenant to terminate such tenancy^ of the manner in which it might be done; but is expressly limited to that of the landlord. The only provision contained in our Landlord and Tenant Act, which specifically relates to the termination of a tenancy at will, by a notice on the part of the tenant, is embraced in section three of that act, thus: ‘‘ If any tenant shall give notice of his intention to quit the premises by him holden, at a time mentioned in such notice at which the tenant would have a right to quit by the lease, an d shall not accordingly deliver up possession thereof, such tenant shall pay to landlord or lessor double the rent or sum which would otherwise have been due, to be collected in the same manner as the rent otherwise due should have been collected.”
+This section is taken from the Landlord and Tenant Act contained in the Revised Statutes of 1845, and when originally adopted in this State, was evidently copied from 11 Geo. 2. C. 19. We find that as early as 1765, the King’s Bench in Timmins' v. Rowlinson, 3 Burrows, 1603, gave a construction of it, holding that the notice given by the tenant need not be in writing, but that a verbal one was all the act required.
+Such being the case, the presumption is that our legislature adopted the provision, with the construction which had thus been given to it. Our conclusion is, that when the tenancy is from month to month, as in this case, the tenant may terminate it by a month’s notice. Prickett v. Ritter, 16 Ills. 96, and that such notice may be verbal, as at common law.
+The defendant below asked the court to give to the jury this instruction: “If the jury believe from the evidence that defendant rented the premises in question from plaintiff from month to month, and that no express agreement was made as to the date when said tenancy should commence, then the just must conclude that the tenancy commenced at the date when defendant received possession of the premises.” This the court refused to give, which refusal was likewise excepted to, and is assigned for error. «
+The letting here, being merely verbal, and the evidence tending to show that no time was agreed upon when the tenance should commence, we think it is clear that the law would regard the time when the defendant entered into the possession, as the coinmencement of his tenancy. Taylor on Land. & Ten. § 68.
+Such being the circumstances, the instruction asked should have been given, and it was error to refuse it.
+The judgment of the court below will be reversed and the cause remanded.
+Reversed and remanded.
