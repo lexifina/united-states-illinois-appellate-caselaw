@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-784"
+decided: "1979-03-28"
+citations: ["69 Ill. App. 3d 756"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. MICHAEL LEE, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/69/cases/0756-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3241891
+cites_cases: ["290 N.E.2d 251", "370 N.E.2d 537", "392 U.S. 1", "435 U.S. 975", "53 Ill. 2d 207", "56 L. Ed. 2d 69", "69 Ill. 2d 73", "98 S. Ct. 1624"]
+---
+
+# People v. Lee
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court:
+Defendant, Michael Lee, was charged with five counts of armed robbery. After a jury trial, defendant was found guilty on four counts of that crime, and the court sentenced him to concurrent terms of six to eighteen years. On appeal defendant contends that the trial court committed reversible error in denying his motion to quash the arrest and to suppress evidence, and that the court committed reversible error in excluding certain impeachment testimony.
+Prior to trial, a hearing was held on defendant’s motion to quash the arrest and to suppress certain evidence recovered at the time of defendant’s arrest. At the hearing, Officer Luis Caesar of the Chicago Police Department testified that on September 8,1975, at about 6:30 p.m. he was riding in a marked squad car driven by his partner. They were proceeding eastbound on Roosevelt Road in Chicago. Caesar saw defendant, with two other men, walk in front of the squad car at Homan Avenue. As defendant began walking westbound on Roosevelt Road, Caesar observed defendant turn around and look at the squad car about five times and at the same time make motions toward his waistband. Pulling on the waistband alone was not a suspicious movement, but defendant appeared to be concealing something under his jacket. Believing defendant to be carrying a gun, the officers made a U-tum and pulled up next to the three men. Defendant then sped up and walked faster. Caesar’s partner, Officer Moore, emerged from the squad car and ordered defendant to stop.The three men seemed to be confused as to whom Moore was calling. Defendant asked if Moore meant him and, when Moore replied affirmatively, defendant came to the squad car. The other two men departed. While Moore frisked defendant for a weapon, Caesar ran a name check which took two or three minutes. The frisk disclosed no weapon, but the name check revealed an outstanding warrant for defendant on a burglary charge. Caesar was unaware of the arrest warrant at the time of stopping defendant.
+Defendant testified at the hearing that the police officers stopped him, asked his name, and frisked him. When the police asked if he had any weapons, defendant replied negatively, unbuttoned his jacket, and turned around to show that he had no weapons. He denied looking at the squad car or making any movement toward his waistband. After defendant was frisked, he sat in the squad car. He believed the police officers would shoot him if he attempted to leave after being stopped.
+Defendant argues that the trial court erred in denying his motion to quash the arrest and suppress the evidence. He urges that his stop by the police was unjustified and unlawful.
+The test in determining the reasonableness of the officers’ action in stopping and frisking defendant is whether specific and articulable facts and circumstances exist to lead the officers to believe that the defendant is committing, is about to commit or has committed an offense. Terry v. Ohio (1968), 392 U.S. 1, 20 L. Ed. 2d 889, 88 S. Ct. 1868; People v. McGowan (1977), 69 Ill. 2d 73, 370 N.E.2d 537, cert. denied, 435 U.S. 975, 56 L. Ed. 2d 69, 98 S. Ct. 1624 (1978); Ill. Rev. Stat. 1977, ch. 38, pars. 107-14 and 108-1.01.
+We believe that, under the facts and circumstances of the present case, the police officers were reasonable in their belief that defendant was committing a crime, to wit, the unlawful use of weapons. (Ill. Rev. Stat. 1977, ch. 38, par. 24—1(a) (4).) The police officers observed defendant, while walking with two other men, turn and look at the officers several times. Defendant then made several motions toward his waistband, and walked faster when the police approached. Defendant appeared to be concealing something under his jacket. Caesar believed defendant was carrying a weapon, and the actions of the police in making a brief inquiry of defendant and a limited pat down search of his person were reasonable. (See People v. McGowan.) We conclude that the trial court properly denied defendant’s motion to quash the arrest and suppress the evidence.
+Defendant also contends that the trial court erred in sustaining the prosecutor’s motion in limine to exclude the testimony of a defense witness which was to be offered as impeachment of a State witness. Defense counsel wished to impeach Monzola Harris, the owner of the shop in which the robbery occurred, as to the description of the robber she gave the police, but the trial court did not permit it because defense counsel had not laid a proper foundation.
+In the present case, defendant was convicted of being one of three men who robbed a beauty shop on August 29,1975. Five witness testified concerning the robbery, and three of them, including Harris, identified the defendant as the robber who carried a razor. A fourth victim identified various identification cards recovered from defendant by Caesar as belonging to the witness and as having been taken in the robbery.
+In order to admit into evidence prior inconsistent statements for purpose of impeachment, a proper foundation must be laid during cross-examination of the witness; part of the foundation is to ask the witness whether he made contrary statements at the earlier conversation. (People v. Rodgers (1972), 53 Ill. 2d 207, 290 N.E.2d 251.) The defense here never confronted Harris with a prior inconsistent description. Indeed the record is unclear as to whether the witness had ever given a prior inconsistent statement. Consequently the trial court properly excluded the profered testimony. Moreover, even if the court had erred in excluding the impeachment evidence, we would view the error as harmless in light of the positive identification of defendant by two other eyewitness.
+For the reasons stated, the judgment of the circuit court of Cook County is affirmed.
+Judgment affirmed.
+SIMON, P.J., and RIZZI, J., concur.
