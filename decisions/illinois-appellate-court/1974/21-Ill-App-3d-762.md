@@ -1,0 +1,73 @@
+---
+court: "Illinois Appellate Court"
+docket: "57907"
+decided: "1974-07-26"
+citations: ["21 Ill. App. 3d 762"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Johnnie Miller, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/21/cases/0762-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5378587
+cites_cases: ["101 Ill.App.2d 414", "103 Ill.App.2d 209", "15 Ill.App.3d 746", "182 N.E.2d 698", "220 N.E.2d 297", "224 N.E.2d 266", "24 Ill.2d 558", "24 L.Ed.2d 507", "242 N.E.2d 208", "243 N.E.2d 259", "243 N.E.2d 551", "245 N.E.2d 771", "278 N.E.2d 762", "282 N.E.2d 129", "305 N.E.2d 212", "35 Ill.2d 311", "36 Ill.2d 483", "371 U.S. 868", "396 U.S. 1016", "41 Ill.2d 177", "42 Ill.2d 91", "50 Ill.2d 280", "51 Ill.2d 239", "83 S. Ct. 131", "90 S.Ct. 578", "91 L.Ed 2d 105"]
+---
+
+# People v. Miller
+
+## Majority (Mr. JUSTICE BARRETT)
+
+Mr. JUSTICE BARRETT
+delivered the opinion of the court:
+Johnnie Miller, Eddie Ligón and Edward Dell Hooks were charged in a multiple-count indictment with the murder of Gilbert Burns and the aggravated battery of Robert Burns, in violation of sections 9 — 1 and 12 — 4 of the Criminal Code (Ill. Rev. Stat. 1969, ch. 38, pars. 9 — 1, 12 — 4). The jury found all three men guilty of aggravated battery, and found Miller and Ligón guilty of murder; the murder charge as to Edward Hooks was dismissed for violation of the 120-day statute. The trial court sentenced Johnnie Miller to concurrent terms of 30 years to 60 years on the murder conviction and 7 to 10 years on the aggravated-battery conviction.
+All three defendants prosecuted an appeal under a single general number. In People v. Ligon, 15 Ill.App.3d 746, 305 N.E.2d 212, this court affirmed the convictions of Ligón and Hooks and modified the sentences imposed on the aggravated-battery convictions to conform to the Unified Code of Corrections.
+In his appeal, defendant Miller contends that he was denied the right to a speedy trial; that he was denied the right to a fair trial by reason of the introduction of incompetent and prejudicial evidence and the improper comment of the prosecutor; that the trial court improperly refused to instruct the jury on the elements of self-defense and manslaughter; and that the sentence imposed upon the murder conviction was excessive. The evidence adduced at trial is set forth at length in People v. Ligon and need not be repeated here.
+OPINION
+Defendant Miller contends that he was denied the right to a speedy trial because more than 120 days elapsed between the date of his incarceration and the date of his motion for discharge, without any delay having been caused by him in the proceedings, and that consequently the trial court erred in denying his motion for discharge filed pursuant to section 103 — 5 of the Criminal Code (Ill. Rev. Stat. 1971, ch. 38, par. 103 — 5). Defendant alleges that he was arrested and charged with the instant offenses on August 13, 1971, from which date he was held without bond; that at a hearing held on August 16, 1971, the matter was transferred to another branch of the Cook County felony court because the matter initially was improperly assigned to a branch that did not hear the type of felony here involved; that at the August 16 hearing his mother requested time to secure him an attorney; that the matter was continued to September 2, 1971; and that the continuance from August 16 to September 2 was not due to his mothers request for time to secure counsel but rather was due to the State’s improper assignment of the case to the wrong court, necessitating reassignment to the proper court.
+We hold this contention is without merit. The following colloquy occurred at the hearing on August-16, 1971, resulting in the continuance to September 2, 1971:
+“THE CLERK: Willie Caldwell, Johnny Miller. James Griffen, complainant.
+COURT SERGEANT: Two defendants.
+THE COURT: Yes, Willie Caldwell and Johnny Miller. Who is Willie Caldwell?
+THE DEFENDANT CALDWELL: I am.
+THE COURT: Johnny Miller?
+THE DEFENDANT MILLER: Yes.
+THE COURT: Do you have a lawyer, fellows?
+A BYSTANDER: No. I would like to—
+THE COURT: Who are you?
+A BYSTANDER: I’m his mother.
+THE COURT: Whose mother?
+A BYSTANDER: Johnny Miller’s mother.
+THE COURT: What do you want to say?
+A BYSTANDER: I would like to have it continued to give me a chance to get a lawyer.
+A BYSTANDER: Your Honor, I’m asking for the same opportunity. I’m Willie’s mother.
+THE COURT: You want a continuance to get your boy a lawyer?
+A BYSTANDER: Yes. .
+THE COURT: Both boys are seventeen years old, is that correct?
+A BYSTANDER: Yes.
+A BYSTANDER: Yes.
+THE COURT: The charge is murder. No bail. What date do you want?
+A POLICE OFFICER: 23rd of September, your Honor?
+THE COURT: Why don’t we put this in Branch 66? Do you have a date in Branch 66? Area 4.
+A POLICE OFFICER: Yes, your Honor. How about 2 September?
+THE COURT: September 2, Branch 66.
+A POLICE OFFICER: Thank you, your Honor.
+THE COURT: Explain to the parents what that is.
+A POLICE OFFICER: Yes, I will.
+(Whereupon, said cause was continued to September 2, 1971.)”
+A continuance that is granted upon the request of a defendant for the purpose of retaining counsel will constitute such a delay in the proceedings chargeable to him as will toll the running of the 120-day statute. (People v. Jenkins, 101 Ill.App.2d 414, 417-420, 243 N.E.2d 259.) The questions that arise concerning the instant request for time to retain counsel — that the request was made by someone other than defendant and that defendant himself did not expressly join in that request or accede to the continuance — are obviated by the fact that defendant was a minor at the time and by the fact that the person making the request was his mother. In light of the foregoing, the continuance must be attributed to defendant and the trial court was correct in denying defendant’s motion for discharge. Merely because the matter had been assigned to one branch of the circuit court and then transferred to another in no manner delayed the proceedings nor worked to defendant’s prejudice; he desired time to secure private counsel in any event, and he succeeded in doing so. In fact, had the matter not been reassigned, defendant’s request for a continuance would have extended the proceedings another 3 weeks, since the record discloses that the date of September 23, 1971, was suggested for advancement of the matter before the September 2 date was settled upon.
+Defendant further contends that during final summation to the jury, the prosecutor made a covert reference to defendant’s election not to testify at trial, and that the comment violated his right against self-incrimination and denied him a fair trial.
+During the State’s opening argument, the prosecutor commented that the jury should consider the testimony of the eyewitnesses “who have not been impeached, have not been rebutted” in light of the defendants’ theories of the case, and in final summation he commented that when the jury considers the variations and “twists” in the testimony of the State’s witnesses they should also consider that the testimony of those witnesses went unrebutted. Later during final summation the prosecutor commented that the State’s witnesses were not the “caliber of people out on the street to witness crimes,” and that the State was “stuck” with them. He told the jury that they should “[k]eep in mind you did not hear from anybody who told you what happened that night except our witnesses.”
+Defendant attacks the last comment as a covert reference to the fact that he did not take the stand in his own behalf. No objections to the statements were raised at trial, so any irregularities are deemed waived. (People v. Dailey, 51 Ill.2d 239, 282 N.E.2d 129.) Although this court will consider prejudicial arguments made without objection of counsel if as a result thereof the parties litigant cannot receive a fair trial, we do not consider the comments of counsel to fall within that rule. (People v. Dailey, 51 Ill.2d 239, 282 N.E.2d 129.) The State’s closing argument was not calculated to direct the jury’s attention to defendant’s failure to testify. Rather, it revolved around the allegedly uncontradicted nature of the State’s case, which provided overwhelming evidence of guilt.
+Defendant also contends that he was denied a fair trial by the introduction of photographs of the scene, which allegedly improperly depicted bloodstains on the sidewalk. He argues that the photographs were introduced into evidence ostensibly to show where the offense had occurred, but in reality to show “the gruesomeness of the killing in graphic form.”
+The photographs in question clearly do not support defendant’s contention. As noted by the trial court in overruling the defense objection to the introduction of the photographs, one cannot tell that the marks on the sidewalk are in fact bloodstains; there are not, as alleged by defendant, “pools of blood” on the pavement. Testimony had been elicited from the State’s witnesses prior to the introduction of the photographs that two buildings were involved in the incident and that the victims had been backed up against the wall of one of the buildings when the shooting started. It was within the discretion of the trial court to permit the introduction of the photographs of the scene to clarify that testimony. People v. Nicholls, 42 Ill.2d 91, 245 N.E.2d 771, cert, denied, 396 U.S. 1016 24 L.Ed.2d 507, 90 S.Ct. 578; People v. Speck, 41 Ill.2d 177, 242 N.E.2d 208; People v. Myers, 35 Ill.2d 311, 220 N.E.2d 297.
+The testimony of State’s witness Janie Howell regarding the specific location of the bloodstains on the sidewalk was elicited after the photographs had been introduced into evidence and had been viewed by the jury. It did not render the photographs improper as evidence for the purpose for which they had been originally introduced. We note also that the photographs were submitted to the jury after defendant’s counsel specifically stated “no objection” thereto.
+Defendant attacks the propriety of Charlotte Howell’s testimony that she had refused to speak to police and had left town after the incident because she was afraid. This testimony was elicited by the State in an attempt to rehabilitate the witness, after the defense had questioned her on cross-examination concerning the fact that she had refused to hold telephone conversations with the police after the incident. The defense opened this matter by attacking the credibility of the witness, and it was proper for the State to attempt to dispel any adverse connotation that it had created in the minds of the jury by establishing the true basis underlying the seemingly impeaching testimony. People v. Hampton, 24 Ill.2d 558, 561, 182 N.E.2d 698, cert, denied, 371 U.S. 868, 91 L.Ed 2d 105, 83 S. Ct. 131.
+Defendant next contends that it was improper for the court to have refused his tendered instruction on self-defense, and that it was also error for the court not to have given, sua sponte, an instruction on manslaughter.
+Where there is no evidence to support a particular defense, it is not error for the court to refuse to instruct the jury on that defense. (People v. Allen, 50 Ill.2d 280, 278 N.E.2d 762.) The only evidence that even remotely supports a theory of self-defense was the testimony of defense witness Easton, to the effect that a larger youth was wrestling with a youth dressed in yellow, when a third youth stepped from the crowd and fired a gun. Bastón also testified that at that point he fled the scene and observed nothing further. The jury could not have found from that evidence that defendant had in any manner acted in self-defense. The other evidence that connects defendant with the shootings clearly cannot be said to support a theory of self-defense, since it demonstrates that after the verbal confrontation between the Burns brothers and defendant had ceased, defendant attacked Gilbert Bums from behind and later shot him in the chest while the Bums brothers were backed against a wall and unarmed. The trial court properly held that there was no evidence tp support the instruction, on self-defense tendered by defendant,.
+There was likewise no error in the failure of the court to give a manslaughter instruction. In the absence of a tender by the defense of such instruction the trial court is not required to so instruct the jury. People v. Taylor, 36 Ill.2d 483, 224 N.E.2d 266.
+The final point raised by defendant is that the sentence imposed is excessive under the Unified Code'of Corrections. He limits his contention only to the minimum term imposed upon the murder conviction. The Code provides that “for murder, the minimum term shall be 14 years unless the court, having regard to the nature and circumstances of the offense and the history and character of the defendant, sets a higher minimum term." Ill. Rev. Stat. 1973, ch. 38, par. 1005 — 8 — 1(c)(1).
+Although defendants young age and his unblemished past record weigh in his favor, such factors have been held by this court not to be sufficient of themselves to warrant a reduction in the penalty imposed by the trial court. (People v. Jackson, 103 Ill.App.2d 209, 243 N.E.2d 551.) Rather, weighing heavily against defendant are his active participation in the commission of the offenses, the senselessness of the crime, and the apparent coldness with which he acted. The evidence discloses that defendant deliberately took the life of Gilbert Bums, who had been attempting to leave the scene of the confrontation, after voicing his intention to do so. Defendant shot Bums not once, but a second time as the victim fell to the ground. Upon sentencing defendant the trial court found that he had been “the shooter,” and the nature and circumstances of the offense support the court’s decision to sentence defendant to a 30-year minimum term.
+Although defendant does not raise this contention on appeal, the sentence of 7 to 10 years imposed upon the aggravated-battery conviction is improper and should be reduced to conform to the requirements of the Unified Code of Corrections. (Ill. Rev. Stat. 1973, ch. 38, pars. 12 — 4(d), 1005 — 8 — 1(c)(4).) Accordingly, the minimum sentence on the aggravated-battery conviction is reduced from 7 years to 3 years and 4 months, and, as so modified, the sentence is affirmed. Defendant’s murder sentence of 30 to 60 years is also affirmed.
+In part affirmed.
+In part affirmed as modified.
+DRUCKER and LORENZ, JJ., concur.
