@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-05-28"
+citations: ["27 Ill. App. 634"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Porter E. Chamberlain v. John Bain."]
+source_url: "https://static.case.law/ill-app/27/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4950501
+cites_cases: ["21 Ill. 110"]
+---
+
+# Chamberlain v. Bain
+
+## Majority (Lacey, J.)
+
+Lacey, J.
+The appellant brought suit against the appellee in an action of assumpsit to recover the purchase price of twenty-four steers bid off by appellee at the former’s auction sale for the sum of something over 825 per head. The c^use was tried by a jury and resulted in a judgment in favor of appellee. It is claimed by appellant that the cattle were knocked off to appellee by the auctioneer to be paid for in one year at six per cent, interest, the appellee giving his note with approved security for the amount.
+It is claimed by the appellee that by agreement at the sale he was only to give his own note without security. The time of credit given by the terms of the sale had expired before the suit was commenced. The note not having been given or the money paid for the cattle, the suit was instituted to recover their purchase price. The following Saturday after the sale appellee went to appellant’s premises after the cattle, but had no signer for the note, and the appellant refused to let him have the cattle without security on the note, which he refused to give, and did not give it, or his individual note. On the following Monday appellant went to appellee’s house and offered to let him have the cattle on his own note, but the latter refused to give the note on the grounds that the appellant had refused to take his note at first. There is some evidence tending to show that appellant refused to let appellee have the cattle because they had risen in price, when called for, and the want of security was not the reason. The evidence also tends to show that the parties by mutual consent rescinded the sale soon after it was made, the appellant saying, “ If you don’t want the cattle I will dispose of them, as I can not handle them,” the appellee replying, “All right, sir, you can;’’ again, appellee saying, “I have bought more cattle and I don’t want them,” the appellant replying, “ Well, then I will dispose of them to somebody else.” It is claimed that appellant can not recover under his declaration for cattle sold, as he had rescinded the sale and sold the cattle.
+The evidence fails to show whether the appellant still had the cattle at the time the suit was commenced or not.
+The "appellant assigns for error the modification of the court of the instructions Nos. 3 and 5, as follows:
+No. 3. “ If the jury finds .from the evidence that the bargain for the sale of the cattle in controversy was complete, and that a term of credit was to be given by the terms of the sale and that such terms of credit had expired, then the court instructs the jury that the plaintiff has the right to sue for the price agreed to be paid for such cattle at such sale without a delivery or offer to deliver such cattle.”
+No. 5. “ The court further instructs the jury that if they believe from the evidence that John Bain purchased from Porter E. Chamberlain, the plaintiff, at public sale, the cattle in controversy in this suit, and by the terms of the said sale a credit of one year’s time with approved security was to be given, and the said Bain has not given his note with approved' security for the price agreed to be paid for the cattle, or otherwise satisfied the price agreed to be paid for them, and that such term of credit has expired, that then said Chamberlain has a right to recover in this suit of said Bain the price agreed to he paid for said cattle.” The court refused to give the instructions as ashed, but modified each of them by adding the words to each, “ This is so ,if you believe from the evidence that the plaintiff kept the cattle for the defendant, and still holds them ready to be delivered to the defendant,” and gave them as modified.
+The instructions were erroneous as asked, as being injurious to the appellee, in that they wholly ignored the issue presented to the jury, whether or not there had been a rescission of the contract of sale by mutual consent. If that had been done there would have been no right of recovery, but as modified the instructions instead of aiding the appellant were turned into a weapon against him. There was no evidence tending to show that the appellant still kept the cattle for the appellee, ready to deliver them or otherwise.
+The evidence was silent on that subject, and the effect was to throw the burden of proof on the appellant to show that fact.
+We think the court misapprehended the nature of - the transaction. This was not an executory sale of cattle where the vendor agrees to sell and the vendee to purchase and pay for one delivery, but an executed contract, completed when the cattle were knocked down to appellee, with nothing to do on his part but to give the note and take the cattle. According to the well established rules of the law the cattle were simply held by the vendor as bailee at the vendee’s request. Under the circumstances it was appellee’s duty to show that the cattle had been disposed of by appellant if such was the case and the value of them if he desired recoupment.
+This rule of law is well recognized in Wade v. Moffitt, 21 Ill. 110. Instructions ÜSTos. 1, 2 and 3, offered by appellant and refused by the court, were properly refused as having a tendency to mislead.
+The form of the question propounded to appellee, as follows, “Were you ready and willing to perform your part of the contract at that time? ” was erroneous. It called for a conclusion and was immaterial. It mattered not what he was ready and willing to do if he did not do it, or offer to perform. It involved a construction of what he understood the contract to be. The witness should have been confined to a statement of the facts. We will not notice any other assignment of error. For the foregoing errors noted the judgment is reversed and the cause remanded.
+Reversed and remanded.
