@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-12-07"
+citations: ["42 Ill. App. 33"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Jenks v. F. M. Nobles."]
+source_url: "https://static.case.law/ill-app/42/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5044889
+---
+
+# Jenks v. Nobles
+
+## Majority (Harker, J.)
+
+Harker, J.
+Appellant was the owner of a piece of real estate, situated in Aurora, known as the “ Holbrook Mill ” property, and, desiring to sell, on or about the 2éth of May, 1890, agreed to pay appellee, who is a real estate agent of that city, $300 to sell the property for $7,500, or find him a customer who would give that for it. In pursuance of the agreement,' appellee took appellant to the office of White & Todd, dealers in lumber and real estate, in Aurora, and introduced him to Mr. Todd, and made an offer to sell the property at the above mentioned price. An examination of the property was made by Todd, but he declined to take it without the concurrence of his partner, who had just left home, temporarily, for Michigan. He promised, however, that as soon as he could ascertain the whereabouts of his partner, he would telegraph him the offer, and, on receiving a reply, would notify appellee. This was on Monday, May the 26th, or the Tuesday following; the evidence leaves it uncertain as to which. Appellant, who is a non-resident of the State, was very anxious to dispose of the property’at an early day and before leaving Aurora; he also placed the matter of its sale in the hands of William George, an attorney and real estate agent of Aurora, on like terms as had been made with appellee. Quite a sharp contest ensued for the $300 prize, between appellee and George in the race for a customer. Appellant claims that on the 27th of May, he told appellee of his own efforts to sell the property as wrell as those of George, and that unless he, appellee, could sell by Wednesday night, the 28th, the field would be open to any one to sell. On Thursday, Todd received a telegram from his partner instructing him to buy the property, and started to the office of appellee to notify him of an acceptance of the offer. Hot finding him at his office and seeing appellant at George’s office, he repaired there and through George a sale of the property was made for the sum of $7,500. Appellant paid the $300 commission to George. Refusing to pay appellee, this suit followed, resulting in a judgment and verdict in favor of appellee for $300.
+Although appellant claims the court erred in giving and refusing instructions, his chief contention is that the verdict is not supported by the evidence. He insists that inasmuch as appellee did not produce a customer within the time limited— by Wednesday night May 28th— ready, willing and able to buy on the terms proposed, he is not entitled to compensation.
+The sale of the property was not taken out of the hands of appellee, but his exclusive right to sell terminated on the night of May 28th. Such being the case we are clearly of the opinion that if the sale had been made to any other purchaser at the time it was made, the judgment should be reversed. The fact is, however, that White & Todd, the purchasers, were induced to buy through the effort of appellee and were his customers in the sale, under the agreement to pay $300 commission if appellee would find a customer for the property. These customers were found by him. He took appellant to Mr. Todd, proposed the sale, had Todd make a careful examination of the property, presented the matter in such favorable light as to secure a promise to take the property if his partner would concur, and left him with the assurance that he would telegraph the proposed sale to his partner, and on receiving a response would notify appellee. In pursuance of the arrangement made, the partner was apprised of the offer and at once telegraphed to Todd to accept. Todd immediately went to notify appellee of the acceptance and complete the purchase. Unable to find him he sought the owner of the property. He found him at the office of a rival broker and there the purchase was completed. It makes no difference, so far as the rights of appellee are concerned, that Todd, on that occasion, tried to buy the property of the rival broker for less than $7,500. Before he went there his mind and that of his partner had been brought to an acceptance — brought to it by the efforts of appellee, we unhesitatingly say. Appellant well understood by what means and through whose efforts White & Todd had been induced to purchase.
+We do not care to discuss the alleged errors of the court in giving, refusing or modifying instructions.
+Under the evidence the finding made by the jury was correct. Substantial justice has been done, and the judgment should be affirmed.
+Judgment affirmed.
