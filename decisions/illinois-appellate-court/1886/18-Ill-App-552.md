@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-05-05"
+citations: ["18 Ill. App. 552"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William A. Stanton, Receiver, etc., v. A. H. Andrews & Co."]
+source_url: "https://static.case.law/ill-app/18/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 865024
+---
+
+# Stanton v. A. H. Andrews & Co.
+
+## Majority (McAllister, J.)
+
+McAllister, J.
+This is a peculiar case. All the funds that could be realized from the insolvent judgment debtor have been distributed in pursuance of a stipulation entered into by all the parties interested; and no one of the creditors or claimants is here to complain. The only person taking this appeal or assigning error, is the receiver. The judgment debtor, the several creditors and claimants, are all content with what has been done, and the receiver has no case showing that he personally and in his office of receiver has not been fairly dealt with. He makes no complaint that he did not receive just compensation for his services. He comes here, not as the representative of the judgment debtor, or of any party interested in its funds, but on his own behalf, to contest the order of the court as respects the judgment of the A. H. Andrews & Co.’s claim, which the master, which the court below, and which this court, on the former appeal, found to be just and right.
+A receiver is an officer of the court, and has been figuratively styled the hands of the court. With that figure in mind, this case appears very much like a mild rebellion of the hands against the head. The funds of the judgment debtor’s estate having heen distributed among all creditors and claimants by the agreement of all the parties in interest, and, by the same agreement, sixteen hundred dollars set apart for the purpose of satisfying appellee’s claim, the question naturally arises, how is it that the receiver takes it upon himself to regulate the court and contest the allowance of appellee’s claim? It is apparent to us that this action on his part is dictated by that provision of the order of January4,1886, which constructively gave the receiver a contingent interest in the sixteen hundred dollars set apart for appellee’s claim. We can not but regard that part of said order as injudicious. It placed the receiver in a position where his interest was in direct conflict with his duty. If he had such an interest, thus inconsistent with the impartial performance of his duty at the time of his appointment, he would have been ineligible. If so, was it not clearly improper to place him in such a position after his appointment? We think it was; because it would naturally induce him to use his best endeavors to either defeat the claim of A. H. Andrews & Co. altogether, or reduce it to the lowest amount possible. That being the case, he has no right to com plain of the action of the court in afterward exercising its proper functions by fixing the amount which was due appellee and peremptorily ordering the receiver forthwith to pay it. The receiver’s contingent interest in the sixteen hundred dollars was one which we can not recognize and which the court below was at liberty to disregard, because it should never have been created. We have fully considered the matter of the alleged set-off, or the receiver’s right to damages against A. H. Andrews & Co., arising out of the refusal of the latter to have the receiver go on with the performance of the contract which the Booth <fc Osgood Manufacturing Company had at the time of their failure, to furnish the former with 30,000 desk woods. If A. H. Andrews & Co. had not, under the peculiar terms of that contract, been discharged from the performance of it, by the failure of the Booth & Osgood Manufacturing Company to comply with its terms, the latter by its failure in business became utterly incapacitated to perform, and that relieved AII. Andrews & Go. from all its obligations in the future. The performance by the manufacturing company was of a personal character and the other contracting party was under no obligation to accept performance by the receiver or anybody else. Hobson & Sharp v. Drummond, 2 Barnw. & Add. 303.
+We are of opinion that there was no merit in the receiver's claim of set-off on the ground of appellee’s refusal to go on with that contract, and there is no error of which be has any j ight to complain. The order appealed from will be affirmed.
+Affirmed.
