@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "58331"
+decided: "1973-11-19"
+citations: ["16 Ill. App. 3d 224"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Interest of Charles Whittenburg, a Minor—(The People of the State of Illinois, Petitioner-Appellee, v. Charles Whittenburg, Respondent-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/16/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2524916
+cites_cases: ["12 Ill.App.3d 783", "232 N.E.2d 716", "263 N.E.2d 490", "264 N.E.2d 177", "276 N.E.2d 721", "279 N.E.2d 8", "283 N.E.2d 259", "292 N.E.2d 361", "294 N.E.2d 269", "294 N.E.2d 288", "299 N.E.2d 99", "3 Ill.App.3d 308", "38 Ill.2d 535", "4 Ill.App.3d 1093", "46 Ill.2d 200", "47 Ill.2d 50", "49 Ill.2d 565", "53 Ill.2d 460", "53 Ill.2d 585", "54 Ill.2d 51"]
+---
+
+# People v. Whittenburg
+
+## Majority (Mr. JUSTICE GOLDBERG)
+
+Mr. JUSTICE GOLDBERG
+delivered the opinion of the court:
+A petition for adjudication of wardship alleging delinquency was filed regarding Charles Whittenburg, a minor some 13 years of age (defendant). An adjudicatory hearing was held by the court without a jury. (See In re Presley, 47 Ill.2d 50, 55, 264 N.E.2d 177 and cases therein cited.) The court found the defendant delinquent and committed him to the Department of Corrections with provision that this be stayed pending this appeal.
+In his appeal, the defendant raises three issues:
+1. The evidence was insufficient to prove him guilty beyond a reasonable doubt;
+2. The petition was void for failure to allege the nature and elements of the offense of aggravated battery; and
+3. There was no infliction of great or permanent bodily harm sufficient to sustain a conviction for aggravated battery. The second point will be considered first.
+The petition alleged that the defendant was delinquent in that he committed the offense of aggravated battery and “* * * he knowingly and intentionally without justification committed a battery on William Vickers which caused bodily harm by tying the said William Vickers with a rope and burning the said William Vickers under the eyes with matches, in violation of Ch. 38, Sec. 12 — 4a, Illinois Revised Statutes.”
+The gist of defendant’s second point is the lack of an allegation in the petition of infliction of “great bodily harm” or “permanent disability or disfigurement” which is the language used in the statutory definition of aggravated battery (Ill. Rev. Stat. 1971, ch. 38, par. 12— 4(a).) Based upon this omission, the point is raised that the petition is void. Authorities are cited bearing upon the sufficiency of indictments brought under the Criminal Code. The Juvenile Court Act provides its own requirements for the sufficiency of the petition. (See Ill. Rev. Stat. 1971, ch. 37, par. 704 — 1.) We find that the petition before us meets all of the requirements of the statute.
+The basic test is whether the petition sets forth facts sufficient to bring the defendant within the statutory definition of delinquency. In this regard, the statutory definition is quite broad and includes any minor who has violated or even attempted to violate “° * * any federal or state law or municipal ordinance # (Ill. Rev. Stat. 1971, ch. 37, par. 702 — 2.) On that basis, the simple language of the petition that the minor “* * * committed a battery on William Vickers * # *” was sufficient to charge delinquency for violation of the included offense of battery which is a sufficient basis for the finding of delinquency. People v. Cato, 4 Ill.App.3d 1093, 1095, 283 N.E.2d 259.
+Even proceeding" on the assumption that the petition would be considered in the light of the legal requirements for an indictment, we find it sufficient for these reasons:
+1. Since the point was not raised in the trial court, the issue of sufficiency of the petition may be raised for the first time in this court only if it failed completely to charge commission of a crime, so that it would be void. People v. Bradley, 12 Ill.App.3d 783, 786, 299 N.E.2d 99.
+2. The requirement would be that the petition should inform the defendant “* * * of the nature of the charge, thus allowing him to prepare a defense and to serve as a bar to a future prosecution for the same offense." (People v. Harney, 53 Ill.2d 585, 588, 294 N.E.2d 269.) We find that the petition is amply sufficient to comply with these requirements.
+3. Even if the petition were deficient in this regard, it could be amended by adding the aUegations which the defendant now claims it lácks. For a complete exposition of this “trend away from the formalism which characterized criminal pleading in the past” see People v. Jones, 53 Ill.2d 460, 292 N.E.2d 361 and People v. Coleman, 49 Ill.2d 565, 569, 570, 276 N.E.2d 721.
+4. In addition, the words “which caused bodily harm” could be deemed deleted from the petition as surplusage which would leave the petition stand as alleging commission of battery. People v. Adams, 46 Ill.2d 200, 204, 263 N.E.2d 490.
+The above statement is also sufficient to justify rejection of the third and last point raised by the defendant. This contention is that the acts allegedly performed upon the person of the complaining witness did not constitute aggravated battery. As above shown, this argument fails because the commission of any battery constitutes a sufficient ground for a finding of delinquency.
+The remaining issue is the sufficiency of the evidence. The defendant is correct in his contention that the finding of delinquency can be sustained only if the evidence is sufficient to prove the charge beyond reasonable doubt. (In re Urbasek, 38 Ill.2d 535, 232 N.E.2d 716.) The grandmother of the complaining witness testified that she saw him playing with some “bigger boys.” His eyes were normál at that time. When he returned home about two hours later, the area outside of his left eye was red and swollen as was the “inside of his eye.” She washed his eye with boric acid and applied vaseline and a patch. Next morning she took the boy to the hospital. He ivas given “a shot”, the eye was washed and some salve and another patch were applied. The boy was in the hospital for about four hours.
+Next dáy she complained to the principal of her grandson’s school. The principal summoned a group of 25 or 30 boys. The complaining witness identified the defendant and another boy as the ones who had injured him.
+The complaining witness was six years old. The court permitted him to testify after a competency hearing. (See People v. Jackson, 3 Ill.App.3d 308, 279 N.E.2d 8.) He told the court that although he hollered and screamed the defendant tied his hands, put a scarf over his mouth, struck some matches, put two lighted matches in the area of his left eye and burned him. He identified the defendant in open court and said that he had previously seen him in the neighborhood. Defendant testified in his own behalf. He stated that he did not bum the other boy’s eye at any time and did not see him on the day in question. He did not know the complaining witness before the date of the alleged occurrence but he had “seen him before.”
+Defendant points out alleged discrepancies in the testimony. For example, at one point, the question was put to the complaining witness as to whether a different boy named Michael Hayes or the defendant burned him with the matches. To this disjunctive question the witness answered, “Yes.” The court described this response as ambiguous and struck the answer.
+In our opinion, this record presents a question of credibility of the witnesses. The testimony of the grandmother was positive and definite in establishing the abnormal condition of the complaining witness’ eye. It was then a question of the credibility of the complaining witness as opposed to the general denial interposed by the defendant.
+The identification of defendant by the complaining witness at school serves to corroborate the subsequent in-court identification. This in turn is supported by the fact that the complainant had previously seen the defendant in the neighborhood. Defendant himself testified that he knew the complainant but did not know his name. Upon a careful review of the entire record, we cannot say that the evidence is so improbable as to raise a reasonable doubt of guilt. The mere fact that the evidence is conflicting does not by itself justify reversal of a finding made by the trier of fact. People v. Reese, 54 Ill.2d 51, 58, 294 N.E.2d 288.
+Judgment affirmed.
+BURKE, P. J., and EGAN, J., concur.
