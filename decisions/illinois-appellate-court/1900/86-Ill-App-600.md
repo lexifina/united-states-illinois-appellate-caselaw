@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1900-01-16"
-citations: ["86 Ill. App. 600", "86 Ill. App. 604"]
+citations: ["86 Ill. App. 600"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Allegretti Chocolate Cream Co. v. B. F. Rubel et al."]
 source_url: "https://static.case.law/ill-app/86/cases/0600-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5271284
-cites_cases: ["177 Ill. 129", "76 Ill. App. 581", "77 Fed. Rep. 869", "80 Fed. Rep. 889", "85 Fed. Rep. 643", "99 Ill. 418"]
+cites_cases: ["177 Ill. 129", "76 Ill. App. 581", "77 Fed. Rep. 869", "80 Fed. Rep. 889", "85 Fed. Rep. 643"]
 ---
 
 # Allegretti Chocolate Cream Co. v. Rubel
