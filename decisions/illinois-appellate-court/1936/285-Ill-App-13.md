@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 9,021"
+decided: "1936-04-13"
+citations: ["285 Ill. App. 13"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bernice Welty, Appellee, v. Wilbur Laurent, Appellant."]
+source_url: "https://static.case.law/ill-app/285/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3355811
+cites_cases: ["143 Ill. 358", "245 Ill. 148", "253 Ill. App. 190"]
+---
+
+# Welty v. Laurent
+
+## Majority (Mr. Presiding Justice Huffman)
+
+Mr. Presiding Justice Huffman
+delivered the opinion of the court.
+This is an action brought by appellee against appellant and one Thomas C. Young to recover for personal injuries received by appellee as a result of a collision between an automobile operated by appellant and an automobile operated by the said Thomas C. Young. Appellee was riding as a guest in appellant’s car. The action was commenced by appellee against appellant and the said Young as joint tortfeasors. After the cause was set for trial, a severance was granted. A jury was called and impaneled to try the cause as against the defendant Young. On motion of appellee, - the suit against Young was dismissed. Subsequently the cause as against appellant came on for trial. A verdict in favor of appellee and against appellant for $1,000 was returned, and judgment entered upon the verdict. It is from this judgment appellant, appeals.
+It developed upon the trial of this case and by the testimony of appellee herself, as a witness called by the appellant, that she had settled the action against the said defendant Young for the sum of $806.50, and signed a release and receipt therefor. This evidence was introduced without any objections, and stands in the record uncontradicted and unexplained. Appellant filed his motion to direct a verdict and tendered, instruction thereon, both at the close of the plaintiff’s evidence and at the close of all the evidence in the case. These motions were denied by the trial court. It is insisted by appellee that the motions did not preserve the question of satisfaction and accord because they were general. Motions of this character coming at the proper time have been held sufficient to raise the question of accord and satisfaction. Wallner v. Chicago Consolidated Traction Co., 245 Ill. 148, 151. Furthermore, the rule is definitely established that the release of one of several joint tortfeasors is a release of all, and that an accord and satisfaction with one of them is a bar to an action against the others. City of Chicago v. Babcock, 143 Ill. 358; Wallner v. Chicago Consolidated Traction Co., supra. A covenant not to sne is a different instrument than a release or an accord and satisfaction for unliquidated damages and the legal effect of such instruments is not the same. City of Chicago v. Babcock, supra, at page 366; Scharfenstein v. Forest City Knitting Co., 253 Ill. App. 190, 202.
+This trial between appellant and appellee was had upon the same pleadings as filed by the appellee against appellant and the said Young. Appellee’s complaint is to the effect that the two defendants were operating their automobiles at a time and place described, and because of the combined wrongful acts of said defendants, the cars they were then operating collided, resulting in appellee’s injuries. The question of release and satisfaction by appellee was raised by the evidence. No objection was interposed thereto. Appellee testified to such facts, as a witness for appellant. This manner of defense was accepted by appellee and the trial proceeded accordingly. The attorney for appellee, in his closing argument to the jury, stated to them that in fixing the amount of damages for appellee in this case, they should take into consideration the $806.50 already received by appellee from the defendant Young, and “take off” this sum from the amount arrived at as damages in this case; with the further comment that “I think that is the law and that is what the court will instruct you. ’ ’ Following this, the court in its narrative instructions to the jury with reference to this matter and the' fixing of appellee’s damages, stated among other things: “By the evidence it is shown that plaintiff has already received $806.00 to apply on the damages she claims to have suffered as a result of the accident in question, the same being paid to her on behalf of Thomas C. Young, one of the original defendants in this suit, and, even.though you may find the defendant guilty in this case, and you should consider and determine the amount of damages plaintiff is entitled to recover, you should take into consideration in arriving at any verdict fixing’ such amount, the amount of money already received by plaintiff on account of her damages . . . .”
+There is nothing in the record to indicate that the instrument signed by appellee with reference to the defendant Young was anything other than a release and satisfaction of damages claimed as a result of the injuries received because of the collision of the two automobiles operated by the two defendants. The instrument itself was not introduced in evidence; however the evidence of appellee indicates that the same was a release and not a covenant not to sue. Under the circumstances it was error to instruct the jury in the manner as above indicated.
+For the foregoing* reasons, this cause is reversed and remanded.
+Reversed and remanded.
