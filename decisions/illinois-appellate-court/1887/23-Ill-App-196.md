@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-06-09"
+citations: ["23 Ill. App. 196"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Wm. Curley v. Harrison Porter and Wife."]
+source_url: "https://static.case.law/ill-app/23/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 863707
+cites_cases: ["26 Kan. 650", "32 Ohio St. 299", "61 Iowa, 199"]
+---
+
+# People ex rel. Curley v. Porter
+
+## Majority (Baker, P. J.)
+
+Baker, P. J.
+This was a proceeding under the Habeas Corfrus Act, the petition alleging that Emma Lena Gurley is detained and unjustly deprived of her liberty by Harrison Porter and Mary Jane Porter, his wife. The Porters made return to the writ, and upon a hearing the court found the issues in their favor, and remanded the said Emma Lena Curley to their custody.
+From thejudgment of the Circuit Court the relator, William Curley, prosecuted this appeal.
+In 1877, the relator, having recently lost his wife, and being himself an invalid and unable to perform manual labor, placed his infant child, Emma Lena Curley, then two years old, in charge of Mr. and Mrs. Porter, to be cared for and nurtured. He contributed to her support until about 1883. He had then removed to the State of Kansas, and was stricken with inflammatory rheumatism, so as to wholly incapacitate him from earning a living, and was so reduced in circumstances as to prevent him from paying anything for the support of his daughter.In that state of the case he wrote to the Porters, stating his inability and suggesting that he would And a place for her in Kansas where she could be supported without' any expense to him. This led to a correspondence, the result of which was that an arrangement was made whereby the Porters agreed to take care of and support the child until she was grown up without making any charge therefor; and the father agreed to leave her with them until that time and say nothing more about taking her away.
+Under this agreement the child remained with the Porters for more than two years, and at the time of the hearing she was eleven years of age, and had lived with them and been treated as one of the family for over nine years. In the latter part of Kovember, 1885, the relator was married to a lady in Kansas, worth some §15,000, and shortly thereafter he requested that the child might be returned to him. Mr. and Mrs. Porter, who are quite advanced in years, were very strongly attached to the little girl and refused to comply with the father’s request.
+In controversies of this character, three matters are to be regarded: the fights of the parent, the rights and interests of the person or persons to whom the care and custody of the infant child has been given by the parent, and the welfare of the child; and of these three the last, mentioned is the matter of primary and paramount importance. The father is prima fa&e entitled to the custody of' his minor child, but he may forfeit the right by misconduct or voluntarily relinquish it. If he, by agreement, surrenders the custody of his child to another, such surrender is not absolute and irrevocable; but, if a contention .arises in the courts with reference to such relinquishment, much will depend upon the characters and habits of the contending parties, the fact whether the reclamation is sought within a short time” or after the lapse of years, and the circumstances of the particular case. All other considerations, however, will be subordinated to the interest and welfare of the child.
+It appears from the evidence in the record before us that Mr. and Mrs. Porter are-very worthy people and have taken excellent care of the little girl, and have great affection for her and are unwilling to part with her. The affections of the little girl are attached to them by bonds equally strong; she is happy and contented where she is, is desirous of remaining there, and to tear her away and send her to a distant State, and among strangers, would be a severe shock to her feelings, and might and probably would be a sacrifice of her future happiness.
+We do not agree with counsel for appellant that the wishes of the child, on account of her tender years and immature judgment, should not he considered by the court; she is a bright, intelligent girl eleven years of age, and is the person whose welfare is most deeply involved in the litigation, and it is but just that her wishes and feelings should be consulted, although, as a matter of course, not necessarily allowed to prevail.
+Where she is, her wants are all provided for, and her education is not .neglected. It is true that the relator is her father, and the ties of blood should not bo disregarded. It must be remembered, however, that she has been separated from her father since she was two years old, has seen him but seldom for many years, and that he is almost a stranger to her. It is intimated that the step-mother is a. woman of some means, and is desirous that the child should live with her and her husband, and that in that event, she intends leaving her property to the child.-
+These are matters of mere surmise, and the result depends upon too many contingencies, and they should not, in justice to the child, be given any controlling effect. The new wife may give birth to children of her own; she has never met her step-daughter, is a stranger to her and may never become attached to her; and the risk is great that the girl, becoming an unwilling and unhappy inmate of the new home, this Litter thing might occur.
+The father, while in much better health than he at one time was, has not fully recovered from the rheumatism. By his own showing he has but little property of his own. He voluntarily gave the custody of his daughter to another, and even if this was more from necessity than choice, yet the facts remain that he has been separated from her for years, and that through his procurement, new ties, affections and interests have arisen, and his parental rights should not now' outweigh all the other weighty considerations at stake.
+We may repeat what was said by Brewer, J., in Chapeky v. Wood, 26 Kan. 650: “It is a serious question, always to he considered, whether a change should be advised. 6 Let well enough alone,3 is an axiom founded on abundant experience.”
+The conclusion that we have reached in this case is fully sustained by Clark v. Bayer, 32 Ohio St. 299; Bonnett v. Bonnett, 61 Iowa, 199; Chapeky v. Wood, supra, and numerous other authorities.
+The judgment and order of the Circuit Court is affirmed.
+Affirmed.
