@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-306"
+decided: "1978-04-26"
+citations: ["59 Ill. App. 3d 621"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOLDIE LANE et al., Plaintiffs-Appellees, v. ROBERT J. BAUSCHER et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/59/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3356573
+cites_cases: ["133 Ill. App. 2d 206", "17 Ill. App. 3d 146", "218 N.E.2d 891", "272 N.E.2d 855", "308 N.E.2d 118", "33 Ill. App. 3d 810", "338 N.E.2d 255", "353 N.E.2d 295", "40 Ill. App. 3d 1028", "71 Ill. App. 2d 342"]
+---
+
+# Lane v. Bauscher
+
+## Majority (Mr. JUSTICE NASH)
+
+Mr. JUSTICE NASH
+delivered the opinion of the court:
+Defendants, Robert J. Bauscher and Ruth M. Bauscher, appeal from a declaratory judgment entered on the pleadings in favor of plaintiffs, Goldie Lane and Lawill Enterprises, Inc.
+The complaint alleged that in 1966 Alex G. Angelos, the owner of certain real estate located in Freeport, Illinois, entered into a lease with plaintiff Goldie Lane for the property within which she conducted a beauty shop business. A rider attached to the lease purported to give Lane an option, at term, to extend it for an additional five years and an option to purchase the property for *30,000 extending to September 30,1976. In 1971 Lane exercised the option to extend the lease. In 1972 the First National Bank of Freeport, then the conservator of the estate of Alex G. Angelos, pursuant to court authorization, sold the property to defendants for *27,500 cash. The conservator’s deed recited that the conveyance was made subject to the option to purchase that property held by plaintiff Lane. At this same time, defendants also purchased the adjoining property from the Angelos estate under an agreement for deed entered into with the conservator and approved by the court. Defendants had been tenants of the adjoining property for. a long time and conducted their floral shop business there. In May 1976 Lane exercised the option to purchase the property she was leasing (now from the defendants) and made the initial *5,000 payment to defendants required by the option agreement she had originally entered into with Angelos. In September 1976 Lane assigned all of her interest in the property and rights under the option to plaintiff, Lawill Enterprises, Inc., whereupon defendants returned the *5,000 payment to Lane and notified plaintiffs of their refusal to recognize the option to purchase the property.
+Defendants’ answer essentially admitted all material allegations of the complaint. While they denied plaintiffs entered into their contractual relationship with one another in good faith, defendants’ answer either admitted or stated they “neither admit or deny” all other allegations of the complaint and must be considered as admitting those allegations (Ill. Rev. Stat. 1975, ch. 110, par. 40(2)). It prayed the complaint be dismissed.
+Defendants, however, subsequently filed certain affirmative defenses to the complaint in which they alleged they had inquired of both Lane and the conservator before purchasing the property whether Lane’s option to purchase would be exercised and were told by them it would be waived and not exercised. They allege they would not have purchased the property except for the inducement to do so by Lane and the conservator and that Lane knew defendants purchased the property only because it adjoined their place of business and was required for the expansion of the floral shop. Another defense alleged by defendants stated that Lane falsely and fraudulently represented to them she would not exercise the option knowing defendants’ purpose in purchasing the building and intending that they should act upon her representations. A further affirmative defense alleged that the rider attached to the 1966 lease between Lane and Angelos was not dated and that the purported signature of Alex G. Angelos appended to it was not made by him.
+Plaintiffs did not reply to defendants’ affirmative defenses but filed their motion for judgment on the pleadings. After a nonevidentiary hearing, of which no record has been furnished to us, the trial court entered an order granting plaintiffs’ motion and finding all material allegations of the complaint were true and that the option to purchase was valid and binding on the parties. Defendants appeal.
+A motion for a judgment on the pleadings raises the question of whether the pleadings present a triable issue of fact. (Maywood Sportservice, Inc. v. Maywood Park Trotting Association, Inc. (1976), 40 Ill. App. 3d 1028, 1030, 353 N.E.2d 295, 297.) If one or more issues of fact are shown then evidence must be taken and a judgment on the pleadings may not be entered. Affiliated Realty & Mortgage Co. v. Jursich. (1974), 17 Ill. App. 3d 146, 149, 308 N.E.2d 118, 121; Habada v. Graft (1975), 33 Ill. App. 3d 810, 812, 338 N.E.2d 255, 256.
+While defendants admit they purchased the property with knowledge of the existing option to purchase held by Goldie Lane, they allege that they were induced to make the purchase by false representations by the seller and the option holder that it would be waived and not exercised. This is a sufficient allegation to raise a factual issue of whether defendants were fraudulently induced to purchase the property and requires an evidentiary hearing. (Bresler Ice Cream Co. v. Millionaires Club, Inc. (1966), 71 Ill. App. 2d 342, 344, 218 N.E.2d 891, 892; Czerewajko v. Schewtschenko (1971), 133 Ill. App. 2d 206, 209, 272 N.E.2d 855, 857.) Similarly, the undenied allegation of defendants’ affirmative defense that the document upon which Goldie Lane’s option right is based is false and forged cannot be overlooked.
+We do not by this opinion suggest what the judgment of the trial court will be after the factual issues have been considered, determined and applied. The judgment is reversed and the cause is remanded with directions that plaintiffs’ motion for judgment on the pleadings be denied and for further proceedings not inconsistent with this opinion.
+Reversed and remanded with directions.
+RECHENMACHER and WOODWARD, JJ., concur.
