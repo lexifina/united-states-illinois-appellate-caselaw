@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "53857"
+decided: "1971-11-02"
+citations: ["2 Ill. App. 3d 354"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jan Prochotsky, Plaintiff-Appellant, v. The Union Central Life Insurance Company, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/2/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2747200
+cites_cases: ["161 F.2d 695", "162 N.E. 119", "218 N.E.2d 814", "223 N.E.2d 865", "331 Ill. 80", "332 Ill.App. 637", "73 Ill.App.2d 208", "76 N.E.2d 514", "79 Ill.App.2d 479", "94 U.S. 351"]
+---
+
+# Prochotsky v. Union Central Life Insurance
+
+## Majority (Mr. JUSTICE SCHWARTZ)
+
+Mr. JUSTICE SCHWARTZ
+delivered the opinion of the court:
+This is a suit in equity in which plaintiff seeks to recover commissions alleged to be due in connection with an insurance policy issued on the life of one Abraham Cooper which plaintiff avers that he as agent procured for the defendant. The court held that the suit was barred by a prior judgment rendered in a suit at law between the same parties. Plaintiff on appeal contends that the issues presently raised were not disposed of in the earlier proceeding and hence the doctrine of res judicata is not applicable.
+With respect to the first suit which was filed on May 17, 1967, plaintiff alleged that he had procured a life insurance policy in the sum of $100,000 on the life of Cooper, that the policy was written with the name Joseph R. Stercl as the agent of record and that plaintiff had an oral contract with the defendant by the terms of which he was entitled to all commissions, including renewal commissions, on policies procured by him. The plaintiff further alleged that Stercl had in writing assigned to him any right that he (Stercl) had to the commission on the Cooper policy and that the assignment was duly delivered to defendant. Plaintiff sought a judgment holding defendant hable for the unpaid commission earned and the renewal commissions to become due on the Cooper policy. A motion by defendant for summary judgment was granted by the court on October 15, 1968, “all issues being found in favor of the defendant.” Plaintiff then presented to the trial court a motion for leave to file an amended complaint in chancery. The trial court denied the motion.
+With respect to the suit now before us, on the same day that defendant’s motion for summary judgment was allowed in the first suit and plaintiff’s action at law was dismissed, plaintiff filed this suit in chancery in which he seeks an accounting, injunctive relief and the declaration of a constructive trust on the assets of defendant. He alleges that there was an oral contract between defendant and himself under which the defendant promised to honor all assignments of commissions presented by him where he had solicited and investigated the assured and where, at defendant’s request, the insurance contract was written in the name of another agent. Defendant moved to dismiss on the ground of res judicata, which motion was granted by the trial court on December 20, 1968. The sole issue presented on appeal is whether the trial court in the first suit erred in sustaining the defense of res judicata.
+Plaintiff argues that the action at law was based on an alleged breach of a practice in the insurance business while the suit in chancery was based on defendant’s alleged breach of an oral agreement and hence the doctrine of res judicata is not applicable. The issue involved both in the law suit and in the chancery action was plaintiff’s right to recover commissions due on the policy in question. The oral agreement alleged in chancery could have been alleged in the action at law. The issues are identical in substance.
+The law requires that both in law and in equity a plaintiff must present all grounds of recovery he may have. He cannot preserve the right to bring a second action after loss of the first merely by limiting the theories of recovery opened by the pleadings in the first action. (F. L. Mendez & Co. v. General Motors Corp. (1947), 161 F.2d 695; Ernest Freeman & Co. v. Robert G. Regan Co., 332 Ill.App. 637, 76 N.E.2d 514; Setliff v. Reinbold, 73 Ill.App.2d 208, 218 N.E.2d 814; Pratt v. Baker, 79 Ill.App.2d 479, 223 N.E.2d 865; Phelps v. City of Chicago, 331 Ill. 80, 85, 162 N.E. 119, 122.) In Phelps, supra, the court said (p.85):
+“The rule of res judicata embraces not only what actually was determined in the former case between the same parties or their privies, but it extends to any other matters properly involved which might have been raised and determined.”
+In Freeman, supra, the court explicitly clarified the doctrine set down in Phelps and held that where a demand or right of action is in its nature entire and indivisible, it cannot be split up into several causes of action and sued piecemeal or made the basis of many separate suits. The court said (p. 615):
+“A judgment on the merits as to one part will bar a subsequent action for the whole, the residue, or another part. It is immaterial that the form of the second action is different from the first. [Wjhether or not a judgment is a bar to a subsequent action under the rule against splitting causes of action depends on whether the entire amount claimed to be due plaintiff arises out of one and the same act or contract, or whether the several parts arise from distinct acts or contracts.”
+Plaintiff argues that the action at law in the instant case was based on an insurance industry practice and hence the proof would be restricted to evidence of custom and usage, whereas the chancery action was based on an oral agreement and the proof would necessarily be entirely different from that required to sustain an action at law. Plaintiff could have presented both theories in his first action. Merely alleging that one action is based on an oral contract while the other is based on an industry practice is not sufficient to show a distinct cause of action.
+Plaintiff relies on Cromwell v. County of Sac, 94 U.S. 351, but in that case the court said (pp. 352-53) that there was a difference between the effect of a judgment as a bar or estoppel against the prosecution of a second action upon the same claim and its effect as an estoppel in another action between the same parties upon a different claim or cause of action. The court said:
+“In the former case, the judgment, if rendered upon the merits, constitutes an absolute bar to a subsequent action. It is a finality as to the claim or demand in controversy, concluding parties and those in privity with them, not only as to every matter which was offered and received to sustain or defeat the claim or demand, but as to any other admissible matter which might have been offered for that purpose.” (Emphasis added.)
+It is clear that the suit before us is based on the same claim as that sued on in the first, action. The judgment is accordingly affirmed.
+Judgment affirmed.
+LEIGHTON, P. J., and STAMOS, J., concur.
