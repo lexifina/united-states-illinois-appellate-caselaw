@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1899-06-22"
-citations: ["83 Ill. App. 519", "83 Ill. App. 523"]
+citations: ["83 Ill. App. 519"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Simon L. Elzas v. Ada Elzas."]
 source_url: "https://static.case.law/ill-app/83/cases/0519-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5256976
-cites_cases: ["100 Ill. 576", "100 U. S. 226", "114 Ill. 611", "122 Ill. 286", "154 Ill. 581", "171 Ill. 632", "19 Vt. 219", "22 Ill. 363", "3 Gil. 2", "3 Gil. 541", "32 Miss. 89", "55 Ill. 458", "55 Ill. 459", "72 Ill. App. 94", "75 Ill. 255", "77 Fed. Rep. 512", "89 Ill. 425", "91 Ill. 167", "93 Ill. 271", "93 Mich. 308", "99 U. S. 80"]
+cites_cases: ["100 U. S. 226", "114 Ill. 611", "122 Ill. 286", "154 Ill. 581", "171 Ill. 632", "19 Vt. 219", "22 Ill. 363", "3 Gil. 2", "3 Gil. 541", "55 Ill. 458", "55 Ill. 459", "72 Ill. App. 94", "75 Ill. 255", "77 Fed. Rep. 512", "89 Ill. 425", "93 Ill. 271", "93 Mich. 308"]
 ---
 
 # Elzas v. Elzas
