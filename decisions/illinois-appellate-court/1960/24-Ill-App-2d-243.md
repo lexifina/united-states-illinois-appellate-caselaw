@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Term No. 59-O-2"
+decided: "1960-02-04"
+citations: ["24 Ill. App. 2d 243"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SCHEINEMAN, P. J. and HOPPMAN, J., concur."]
+parties: ["Tadeusz Okai, Administrator of the Estate of George Venorsky, Deceased, Plaintiff-Appellee, v. United Roofing and Siding Company, and Durwood Hurst, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/24/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5208004
+cites_cases: ["16 Ill.App.2d 91", "21 Ill.App.2d 163", "271 Ill. App. 259", "6 Ill.App.2d 412"]
+---
+
+# Okai v. Roofing
+
+## Majority (JUSTICE CULBERTSON)
+
+JUSTICE CULBERTSON
+delivered the opinion of the court.
+The action before us results from a judgment in a wrongful death case in the amount of $20,000 entered in favor of plaintiff, Tadeusz Okai, Administrator of the Estate of George Yenorsky, Deceased, as against United Roofing & Siding Company, a Corporation, and Durwood Hurst, defendants.
+On appeal in this Court it is the theory of defendant, United Roofing & Siding Company, that there is no evidence in the record which could justify a finding that defendant was negligent in a manner which contributed to the death of plaintiff’s intestate, and also the contention is made by both defendants that plaintiff’s intestate was guilty of contributory negligence which prevents a recovery. There are further contentions that the cause should be remanded for new trial on the ground that the verdict was against the manifest weight of the evidence, and for the reason that the Court gave erroneous instructions to the jury.
+The plaintiff’s intestate, George Venorsky, who was the owner of a building in which two businesses were operated, individually owned and operated a cafe and tavern and leased the easterly part of the building for use as a filling station. On January 17, 1952, between 5:00 and 6:00 p. m., the building caught fire and despite efforts of a number of individuals, including plaintiff’s intestate, the building was entirely destroyed. While the building was in flames plaintiff’s intestate entered it on two or more occasions but on the last time of his entry the roof collapsed by reason of weakening of supporting members resulting from the fire and George Venorsky was burned to death.
+A month previous to the fire the plaintiff’s intestate had contracted with the defendant, United Roofing & Siding Company for major repairs and renovation of the structure. United Roofing & Siding Company in turn sub-contracted the carpentry work to the defendant, Durwood Hurst. Hurst was doing the carpentry work and the Roofing Company was to apply the roof and siding. On the day of the fire (which occurred after employees of both contractors had left the premises for the day), scraps of-wood, cardboard, and other debris, which had been piled near the building were burned in a trash fire. The trash fire was out in the open ground about 25 to 30 feet from the corner of the building. Men employed by the contractors were seen putting material on the trash fire and burning it during the day. Men who were working on the carpentry work apparently put pieces of wood, and wood shavings, on the fire; and there was evidence that a man or men threw cardboard on the trash fire which they brought from the corner of the building where siding and roofing paper were stacked. There was evidence that these men would take the brown cardboard that was wrapped around the siding and shingles and burn it, and also put weather boards, window facings, and cardboard on the trash fire. There was also evidence that embers were blowing from the trash fire in the middle of the afternoon to such an extent that one witness was required to move his car, and that later, heavy smoke from the trash fire and embers were blowing toward the restaurant when the building caught on fire. It was a very windy day. There was evidence that the fire developed in the cardboard wrapping on the roofing and siding materials and then spread to the building. There was some evidence that the plaintiff’s intestate was attempting to get fire extinguishers and aid in putting out the fire at the time he was trapped and burned to death. There was no fire in the portion of the building which the plaintiff’s intestate entered but at the time the fire was in the northwest corner of the premises outside the storeroom entered by George Yenorsky. A gust of wind apparently caused the roof to cave in on the weakened supports and trapped deceased.
+Under the evidence before us there was substantial evidence of negligence on part of both defendants. The evidence that a person or persons, apparently agents of defendant United Roofing & Siding Company, participated in placing materials on the fire and also near the building, leaving the fire when it was not completely extinguished, was sufficient to justify a recovery as against both parties whose agents had participated in such actions.
+On the question of contributory negligence it cannot be said as a matter of law, that plaintiff’s intestate was guilty of contributory negligence under the evidence before us. The question of due care is a question of fact to be submitted to the jury when there is any evidence which, with any legitimate inferences that may he reasonably drawn therefrom tends to show the exercise of dne care (Pinkerton v. Oak Park Nat. Bank, 16 Ill.App.2d 91, 110).
+Contentions made as to error in the giving of instructions are presented without an abstract of all of the instructions. The Courts of Appeal in this State have repeated the principle that alleged errors in instructions will not be reviewed where all of the instructions are not set out in the abstract (Pantlen v. Gottschalk, 21 Ill.App.2d 163). In that case the Court rightly pointed out that there may have been other instructions given which would have cured the errors assigned. Similar conclusions were set forth in Griggas v. Clauson, 6 Ill.App.2d 412, and in this Court in the case of Votrian v. Quick, 271 Ill. App. 259, 263.
+Prom the record it appears that the verdict is not contrary to the manifest weight of the evidence. Under the circumstances we believe that the judgment of the Circuit Court of St. Clair County as against defendant should be affirmed.
+Judgment affirmed.
+SCHEINEMAN, P. J. and HOPPMAN, J., concur.
