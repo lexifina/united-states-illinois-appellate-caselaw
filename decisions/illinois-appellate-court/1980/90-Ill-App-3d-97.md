@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-527"
+decided: "1980-11-13"
+citations: ["90 Ill. App. 3d 97"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAMUEL D. ASHE, Plaintiff-Appellee, v. SUNSHINE BROADCASTING CORP., Defendant-Appellant.—(WILLIAM VARECHA et al., Defendants.)"]
+source_url: "https://static.case.law/ill-app-3d/90/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3161094
+cites_cases: ["104 Ill. App. 2d 247", "131 N.E.2d 544", "14 Ill. App. 2d 430", "144 N.E.2d 791", "163 N.E.2d 568", "176 N.E.2d 10", "196 Ill. 133", "201 N.E.2d 127", "212 N.E.2d 508", "219 N.E.2d 588", "221 N.E.2d 121", "23 Ill. App. 2d 467", "244 N.E.2d 412", "250 Ill. 128", "286 N.E.2d 501", "31 Ill. App. 2d 372", "310 Ill. 585", "356 N.E.2d 565", "358 N.E.2d 922", "364 N.E.2d 683", "367 N.E.2d 549", "375 N.E.2d 118", "387 Ill. 592", "408 Ill. 336", "42 Ill. App. 3d 668", "44 Ill. App. 3d 740", "49 Ill. App. 3d 675", "51 Ill. App. 2d 289", "52 Ill. App. 3d 328", "56 N.E.2d 825", "57 Ill. 180", "65 Ill. App. 2d 155", "7 Ill. App. 3d 10", "71 Ill. 2d 306", "74 Ill. App. 2d 249", "76 Ill. App. 2d 88", "8 Ill. App. 2d 243", "95 N.E. 73", "97 N.E.2d 264"]
+---
+
+# Ashe v. Sunshine Broadcasting Corp.
+
+## Majority (Mme JUSTICE SPOMER)
+
+Mme JUSTICE SPOMER
+delivered the opinion of the court:
+This is an appeal by Sunshine Broadcasting Corporation from a judgment of the Circuit Court of Jackson County in favor of plaintiffappellee Samuel D. Ashe. Ashe’s cause of action was based upon the wrongful termination of his employment contract as sales manager of radio station WTAO in Murphysboro. The written contract, entered into on November 1,1976, provided in pertinent part that Ashe would be paid a 15-percent commission on all sales of advertising at WTAO and would be entitled to 10 percent of the stock in the corporation upon completion of two years in the position.
+The trial court, sitting without a jury, found in favor of the individual defendants (president and secretary of the corporation) and against the corporation. Damages were assessed at $61,573. No appeal is taken from the finding that Ashe was wrongfully discharged. Rather, the appellant seeks a new trial limited to the question of damages. The principal issue raised is that the court erred in excluding evidence that the parties agreed, subsequent to execution of the written contract, that Ashe’s commissions would be based, not on all sales, but on amounts actually collected on sales of advertising. Other errors in ascertaining the amount of the plaintiff’s damages are also raised.
+On cross-examination by counsel for the defendants, Ashe was asked the following question:
+“Isn’t it true that in December, 1976, you and Varecha [president of the corporation] agreed that sales that you would be paid on would only be on collected sales?”
+The plaintiff’s objection based upon the parol evidence rule was sustained, the court stating “you are apparently attempting to modify the contract by statements that they made during the formulation of the contract.”
+The following exchange took place during the direct examination of defendant William Varecha:
+“Q. Now Mr. Varecha, during the time Mr. Ashe — strike that. Did Mr. Ashe during the period of time that he worked there at your radio station ever say anything to you with regard to the compensation that he was receiving for his employment?
+A. Yes, that was discussed at great length.
+Q. When was the first discussion?
+A. Immediately upon his arrival.
+Q. Where was that discussion and who was present?
+A. I believe the discussion took place at home. We reiterated it again on other occasions.
+Q. Where was that discussion, who was present and what was the substance of the conversation?
+A. My wife and I think my children were around, and I think Mr. Ashe and myself, and there was a serious qualification on the contractual agreement, and it was paramount in my mind that this be clarified.”
+Another objection by plaintiff’s counsel based on the parol evidence rule was sustained by the court. The following exchange then occurred:
+“Q. Did your corporation pay Mr. Ashe funds during the period of time he was working?
+A. Yes.
+Q. On what basis was he paid?
+A. 15% of collections.”
+Upon objection, the trial judge stated that he was going to stay with his previous ruling that evidence as to modification of the agreement would not be admitted.
+The plaintiff urges that the issue of the allegedly improper exclusion of evidence may not be raised here because of the defendant’s failure to make offers of proof after the court sustained the objections. We must agree with the appellant, however, that no offer of proof was necessary to preserve the issue for appeal. It is clear from the record before us that the trial court understood the nature of the objection and the character of the evidence which the defendants were seeking to introduce. In such a situation, no offer of proof is necessary. (2 Ill. L. & Prac. Appeal & Error §259, at 302 (1953); Cunningham v. Central & Southern Truck Lines, Inc. (1968), 104 Ill. App. 2d 247, 244 N.E.2d 412, 418; Schusler v. Fletcher (1966), 74 Ill. App. 2d 249, 219 N.E.2d 588, 590; Falejczyk v. Meo (1961), 31 Ill. App. 2d 372, 176 N.E.2d 10, 12.) As the supreme court said in Creighton v. Elgin (1944), 387 Ill. 592, 606, 56 N.E.2d 825:
+“It is not necessary that an offer of proof be made where the question shows the purpose and materiality of the evidence. It is not necessary that counsel state what the answer would be. If a question is in proper form and clearly admits of an answer relative to the issues, the party by whom the question is propounded is not bound to state facts proposed to be proved by the answer unless the court requires him to do so.” See also Mack v. Davis (1966), 76 Ill. App. 2d 88, 94, 221 N.E.2d 121, 124.
+We also agree with the appellant that the court’s exclusion of the proffered evidence was error. A written contract of employment is of course within the parol evidence rule, and thus cannot be contradicted by evidence of prior or contemporaneous oral agreements between the parties. However, parol evidence is admissible to show a subsequent agreement between the parties to a written contract, even though such subsequent agreement may modify the writing or establish a new and independent agreement, or to show that a provision of a written contract has been waived. 18 Ill. L. & Prac. Evidence §286, at 410 (1956), and authorities cited; Robar v. Isham (1924), 310 Ill. 585, 589; Hartford Fire Insurance Co. v. Wilcox (1870), 57 Ill. 180, 184; Franklin Grain & Supply Co. v. Ingram (1976), 44 Ill. App. 3d 740, 358 N.E.2d 922, 924; Katz v. Brooks (1965), 65 Ill. App. 2d 155, 212 N.E.2d 508, 511; Mandell v. Miller (1957), 14 Ill. App. 2d 430, 144 N.E.2d 791, 795.
+What the defendants sought to prove by the excluded evidence was that the parties had, subsequent to execution of their written contract, modified its terms as to the basis of Ashe’s compensation. Although of course we cannot determine whether or not they would have been able to prove such a modification, we note that all parties agreed that Ashe never complained about his commissions during the period that he was employed. Exclusion of the proffered evidence was error requiring a new trial limited to the question of damages.
+Although we need not reach the other issues raised, the following comments may be helpful on retrial. The measure of damages for wrongful termination of an employment contract is the amount that the plaintiff would have earned absent the breach, less what he actually earned or could have earned by the exercise of reasonable diligence during the contract period after his termination. (Doherty v. Schipper & Block (1911), 250 Ill. 128, 95 N.E. 73.) The so-called avoidable consequences doctrine requires one injured by a breach of contract to use all reasonable means to minimize his damages. (See, e.g., Smiley v. Manchester Insurance & Indemnity Co. (1977), 49 Ill. App. 3d 675, 364 N.E.2d 683, aff'd (1978), 71 Ill. 2d 306, 375 N.E.2d 118.) However, contrary to the appellant’s contention, Illinois law places the burden of proof on the issue of a plaintiff’s alleged failure to mitigate his damages on the defendant. New York, Chicago & St. Louis R.R. Co. v. American Transit Lines, Inc. (1951), 408 Ill. 336, 97 N.E.2d 264; Williams v. Board of Education (1977), 52 Ill. App. 3d 328, 367 N.E.2d 549; Decatur Cemetery Land Co. v. Bumgarner (1972), 7 Ill. App. 3d 10, 286 N.E.2d 501; Claude Southern Corp. v. Henry s Drive-In, Inc. (1964), 51 Ill. App. 2d 289, 201 N.E.2d 127; Compton v. School Directors of District No. 14 (1955), 8 Ill. App. 2d 243, 131 N.E.2d 544.
+Finally, as to the alleged failure of proof as to the value of the stock of defendant corporation, it is true, of course, that a party seeking damages must supply a reasonable basis for the computation of those damages. (See, e.g., Brewer v. Custom Builders Corp. (1976), 42 Ill. App. 3d 668, 356 N.E.2d 565.) When dealing with the stock of a close corporation, which has no ascertainable market value, it becomes necessary to prove the value by the next best evidence. (McDonald v. Danahy (1902), 196 Ill. 133, 135.) In such situations, it is proper for a court to consider all the circumstances of the corporation and attempt to fix the value of the stock in some rational way from such elements as are attainable. Flynn v. Zimmerman (1960), 23 Ill. App. 2d 467, 163 N.E.2d 568.
+For the reasons stated, the judgment of the Circuit Court of Jackson County in favor of William Varecha and Debbie Varecha is affirmed; the judgment as to the liability of Sunshine Broadcasting Corporation is also affirmed, but the cause is remanded for a new trial limited to the question of damages sustained by the plaintiff as a result of the corporation’s wrongful termination of his employment contract.
+Affirmed in part, reversed and remanded in part.
+JONES, P. J., and KARNS, J., concur.
