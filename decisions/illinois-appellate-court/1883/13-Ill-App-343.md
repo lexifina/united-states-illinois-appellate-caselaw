@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-06-27"
+citations: ["13 Ill. App. 343"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Henry v. Samuel F. Hall."]
+source_url: "https://static.case.law/ill-app/13/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4871110
+cites_cases: ["1 Cow. 238", "10 Wend. 595", "109 Mass. 286", "13 Gray, 546", "16 Vt. 230", "20 Ill. 346", "22 Ill. 298", "22 Penn. 261", "23 Ill. 385", "25 Ohio St. 86", "40 Ill. 223", "41 Ill. 85", "42 Ill. 514", "47 Ill. 79", "49 Ill. 146", "49 Ill. 70", "49 Ill. 84", "50 Ill. 268", "52 Ill. 420", "52 Ill. 517", "53 Ill. 509", "55 Ill. 152", "57 Mo. 589", "67 Ill. 142", "68 Penn. 168", "69 Ill. 219", "70 Ill. 208", "70 Ill. 297", "71 Ill. 100", "74 Ill. 232", "77 Ill. 217", "79 Ill. 408", "8 Black. 32", "81 Ill. 150", "82 Ill. 379", "83 N. Y. 464", "84 Ill. 408", "85 Ill. 194", "86 Ill. 62", "87 Ill. 274", "88 Ill. 411", "88 Ill. 441", "88 Ill. 90", "89 Ill. 152", "89 Ill. 62", "9 Cush. 255", "90 Ill. 218", "91 Ill. 142", "91 Ill. 406", "91 Penn. 362", "94 Ill. 475", "95 Ill. 25", "98 Ill. 610"]
+---
+
+# Henry v. Hall
+
+## Majority (Higbee, J.)
+
+Higbee, J.
+This suit was brought by appellee against appellant as a practicing surgeon for alleged malpractice in treating appellee for a fracture of the internal malleolus and both bones, tibia and fibula, of the right leg. The trial resulted in a verdict and judgment in favor of the plaintiff below, to reverse which appellant brings the case to this court.
+After appellee had testified at great length to the nature and character of his injuries and the manner of their treatment by appellant for a period of several months, and examined several other witnesses in reference thereto, and caused to be read by a short-band reporter the evidence of appellant given in a former trial betweeh the same parties in reference to, the same subject-matter,‘in which a very different statement is given of many important particulars in the character and treatment of the injuries from that given by appellee, Dr. Yancey was called and examined by appellant as an expert, and after he had testified that he had heard the evidence of appellee in chief, but not his cross-examination, the court, against the objections of appellant, permitted the following question to be asked and answered by said witness:
+“I will ask you whether or not, from what you have heard in evidence, in your opinion, the treatment that Dr. Henry gave to the injury of Mr. Hall was such treatment as a physician and surgeon possessed of the ordinary knowledge and skill should give such an injury?”
+Answer—“I do not.”
+By the court—“ That is based upon the supposed state of facts? ”
+Answer—“Yes sir.”
+This question and answer involved and determined the very issue the jury were sworn to toy. If the treatment of appellant was not such as a surgeon possessed of ordinary skill should give a similar injury under like circumstances then the defendant was guilty of malpractice. The witness was allowed to draw his conclusions from the entire range of appellee’s evidence in chief, occupying eleven pages of closely printed matter in the abstract, and to declare that from the evidence he finds appellant substantially guilty. This mode of examination we think violates the rule as announced in the case of Hoener v. Kock et al. 84 Ill. 408.
+Heither the answer to the question of the court nor the subsequent exclusion of the evidence could remove the evil effects of such evidence from the mind of the jury. L. F. Ins. Co. v. Rubin, 79 Ill. 408; L. B. & M. R. Rd. v. Winslow et al. 69 Ill. 219.
+But the testimony of Dr. McDavit, which was not excluded, is not less objectionable. It was as follows:
+“How Doctor, from the testimony in the case, could the bone have been kept in proper position? The question is this, Doctor: whether the treatment bestowed by Dr. Henry upon the injuries of Mr. Hall,- as testified to in this case, were, in your opinion, such treatment as a physician of ordinary skill and knowledge should bestow on injuries of the character that his are shown to be.
+Answer—“As far as I heard the evidence, I should prefer to have kept these parts in position.”
+Question—“Howr,in the treatment of the limb as you heard it detailed here, I will ask you -whether or not the bone, the fragments of the bone, could have been kept in proper position; I speak of the whole treatment? ”
+Answer—“ 1 think it was very difficult to move the limb as stated hereby the witnesses—very difficult to keep it in position by moving it with unskilled hands.”
+Question—“How, you heard the testimony of Mr. Hall, testified as to the manner he was directed to use it; was it proper treatment on the part of the surgeon possessed of ordinary skill and knowledge to direct his patient to walk upon it, and bear such weight, upon the fractured limb as he could at the time when the malleolus was not united, and when he knew the fact? ”
+Answer—“I would think not, sir.”
+This witness had stated that he had heard all of the testimony of Mr". Hall, but did not say whether he had heard the rest of the testimonjr jn the case, or not. When the question of science or skill to be determined arises upon an agreed or undisputed state of facts, the opinion of the expert may often be received although it determines the very question at issue; but when, as in the case at bar, the facts are disputed and the evidence conflicting, care must be taken in framing the questions to the expert so as to leave no occasion for him to decide upon the evidence or mingle his own opinion of the facts as shown by the evidence, with the supposed facts upon which he is to express an opinion. He can not look to the evidence to determine just what facts are established, and then give his opinion upon the facts so found by him. This was precisely what these questions required him to do. They asked him to express his opinion of the treatment from the facts which he found to exist by the testimony of some one or all of the1 witnesses. His assumption in his answer of the facts established by a single witness may be as injurious to the rights of the opposite party as if based upon the whole evidence. The question may often be, whether the single witness from whom he draws his conclusion is worthy of credit; but when he testifies from a hypothetical state of facts, no such injury can resultas his evidence is valueless unless the jury find his hypothesis sustained by the proof. Hence, it is usual to ask his opinion upon a hypothetical statement of facts. In Dickenson v. Fitchburg, 13 Gray, 546, Mr. Chief Justice Shaw states the rule as follows: “In order to obtain the opinion of a witness on matters not depending on general knowledge, but on facts not testified to by himself, one of two modes is pursued; either the witness is present and hears all the testimony or the testimony is summed up in the question put to him, and in either case the question is put to him hypothetically, whether, if certain facts testified to are true, he can form an opinion, and what‘that opinion is.”
+Counsel, in framing the hypothetical question, may base it upon the truth of the hypothesis of all the evidence, or on an hypothesis assumed, it not being essential that he should state the facts as they actually exist. Cowley v. The People, 83 N. Y. 464.
+But it is insisted by appellee that these objections come too late, because this specific objection was not made in the trial court. This was not necessary. The objection is not such as could have been removed by other evidence. The testimony called for was not proper in any view, and the general objection was sufficient, and should have been sustained.
+Judgment reversed and cause remanded.
+Beversed and remanded.
