@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-137"
+decided: "1976-06-29"
+citations: ["39 Ill. App. 3d 725"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SANDRA A. BLAKE, Plaintiff-Appellant, v. CHARLES A. DELHOTEL et al., Defendants-Appellees.—(THOMAS V. MAHAFFEY, Defendant.)"]
+source_url: "https://static.case.law/ill-app-3d/39/cases/0725-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5380759
+cites_cases: ["110 Ill. App. 2d 95", "121 N.E.2d 348", "134 N.E.2d 249", "199 N.E.2d 618", "203 N.E.2d 460", "222 N.E.2d 144", "240 N.E.2d 358", "249 N.E.2d 120", "3 Ill. App. 2d 223", "334 Ill. App. 313", "49 Ill. App. 2d 354", "77 Ill. App. 2d 67", "79 N.E.2d 632", "8 Ill. 2d 293", "98 Ill. App. 2d 380"]
+---
+
+# Blake v. Delhotel
+
+## Majority (Mr. JUSTICE STENGEL)
+
+Mr. JUSTICE STENGEL
+delivered the opinion of the court:
+Plaintiff Sandra Blake brought a negligence action to recover for personal injuries resulting from a three-car automobile collision. Plaintiff was driving a short distance behind defendant Thomas Mahaffey on a two-lane highway when Mahaffey turned left in front of an oncoming car driven by defendant Charles Delhotel. Delhotel pulled to his left to avoid Mahaffey but nevertheless collided with the right rear of Mahaffey’s car and then crossed the center line and collided head-on with plaintiffs car. Delhotel defended the suit on the theory that Mahaffey made an improper left turn, failing to yeld the right-of-way to oncoming traffic. Mahaffey’s defense was that Delhotel was driving at 11:45 p.m. without headlights on until a moment before the accident. Following a jury trial, a verdict was returned in favor of plaintiff against Delhotel for *45,000. The trial court granted the post-trial motions of both Delhotel and plaintiff and ordered a new trial for all parties.
+The trial court very helpfully set out the reasons for granting a new trial. Foremost was the failure of plaintiff and Mahaffey to introduce proof of prior inconsistent statements with which they impeached Delhotel’s chief witness Kent Biederstedt. Because Delhotel suffered amnesia as a result of a head injury, his defense rested primarily on the testimony of Biederstedt who was following Delhotel at the time of the accident. The trial court found that Biederstedt’s credibility was seriously affected by the impeachment and that the failure to introduce those statements was prejudicial to Delhotel.
+As additional cause for ordering a new trial, the court found that Delhotel was unfairly prejudiced when plaintiff suggested, without any proof, that Delhotel had been drinking. The court also found that Delhotel was prejudiced further by plaintiff’s closing argument when plaintiff in effect asked the jury to put themselves in plaintiffs position. The court concluded that Delhotel did not have a fair trial, that the errors affected the jury’s judgment in regard to both defendants, and therefore, that the entire case should be retried. We granted plaintiff leave to appeal from the new trial order in this case (No. 75-137), and also granted Mahaffey’s petition for leave to appeal from the same order in a companion case (No. 75-136).
+The determinative issue in the case at bar is plaintiffs failure to follow through with proof after asking Biederstedt about prior inconsistent statements made when he was interviewed by Glen Matheson. If counsel has laid a foundation for impeachment by a prior inconsistent statement, he has the duty to offer proof of the alleged impeaching statement. (See Miller v. Chicago Transit Authority (1st Dist. 1954), 3 Ill. App. 2d 223, 121 N.E.2d 348.) This identical question was succinctly disposed of in Reese v. Crain (1st Dist. 1968), 98 Ill. App. 2d 380, 240 N.E.2d 358, 359, as follows:
+“In Schoolfield v. Witkowski, 54 Ill. App. 2d Ill, 203 N.E.2d 460 (1964), this court said:
+‘Once the foundation for impeachment by prior inconsistent statements has been laid, it is incumbent upon counsel, having laid such foundation to offer proof of the alleged impeaching statements. Miller v. Chicago Transit Authority, 3 Ill. App. 2d 223, 228, 121 N.E.2d 348; Gordon v. Checker Taxi Co., 334 Ill. App. 313, 318, 79 N.E.2d 632. * * ° [I]t was highly prejudicial for counsel * ° 6 to lay a foundation to impeach plaintiffs testimony on this material point and then to fail to offer proof of the allegedly impeaching statements.’
+A motion for a new trial is addressed to the discretion of the trial judge and his judgment thereon will not be reversed except for a clear abuse of discretion, which must affirmatively appear in the record. Potter v. Ace Auto Parts & Wreckers, Inc., 49 Ill. App. 2d 354,199 N.E.2d 618 (1964). There was no abuse of discretion in this case. The record substantiates the judge’s explanation for granting the motion for a new trial.” See also Ramseyer v. Illinois Central R.R. Co. (1st Dist. 1969), 110 Ill. App. 2d 95, 249 N.E.2d 120.
+The testimony which plaintiff attempted to impeach concerned whether Delhotel had been driving with his lights on shortly before the accident. The question of Delhotel’s lights was a material issue directly related to the question of fault, and the failure to produce evidence that the conflicting statement was actually made allowed plaintiff to sow suspicion in the minds of the jurors. See People v. Irish (1st Dist. 1966), 77 Ill. App. 2d 67, 222 N.E.2d 144.
+Plaintiff contends that Delhotel waived any error because he failed to object during the trial. We do not agree in this instance. When severely improper conduct and seriously prejudicial statements of counsel occur, it may be the duty of the trial court to act promptly to stop the misconduct so that the litigants are not prevented from receiving a fair trial. (Belfield v. Coop (1956), 8 Ill. 2d 293, 134 N.E.2d 249.) Although objections were not made and no ruling preserved, the Supreme Court in Belfield nevertheless considered the errors in argument to the jury on appeal and ordered a new trial. Similarly, when the improper conduct and trial stratagem of opposing counsel are raised in a motion for a new trial, we believe the trial court may, in a clear case, properly order a new trial if the errors complained of were so pervasive as to prevent the litigants from receiving a fair trial. We find no abuse of discretion in granting the motion for a new trial.
+Because of our holding on the impeachment issue, we need not consider the other issues argued. Accordingly, we affirm the order granting Delhotel’s motion for a new trial.
+Affirmed.
+ALLOY, P. J., and STOUDER, J., concur.
