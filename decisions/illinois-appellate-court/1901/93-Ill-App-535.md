@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-13"
+citations: ["93 Ill. App. 535"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joliet Railway Co. v. W. D. B. Linn."]
+source_url: "https://static.case.law/ill-app/93/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5287486
+---
+
+# Joliet Railway Co. v. Linn
+
+## Majority (Mr. Justice Dibell)
+
+Mr. Justice Dibell
+delivered the opinion of the court.
+On January 13,1898, a horse owned by W. D. B. Linn was struck by an electric car operated by the Joliet Railway Company on Collins street in the city of Joliet, and was fatally injured. Linn sued the railway company therefor before a justice of the peace and recovered judgment. Upon the first trial of an appeal to the County Court the jury disagreed, and upon a second trial Linn obtained a verdict and a judgment for $65, the undisputed value of the horse, from which judgment the railway company prosecutes this further appeal. The errors assigned upon the rulings of the court relating to evidence and instructions are not argued, and are therefore waived. The only questions argued are whether the motorneer in charge of the car exercised due care to ascertain the presence of the horse upon the track ahead of him and to avoid striking him; whether he ran the car at a speed which was negligent in view of all the conditions then existing; and whether Christ Pauli, a servant of Linn, then riding the horse, exercised due care to avoid the injury.
+Collins street lies north and south. The car was bound south and Pauli was ahead of the car riding the horse south on the right hand or west side of the street. The railway had a single track and it was west of the center of the street, leaving a narrower way for travel west of -the track than east of it. The street was lighted by electricity and the car had an electric headlight, throwing a light a considerable distance ahead and also to each side. The car had stopped at a switch about two blocks north of the place of the accident, and had waited there a little time for a northbound car which did not come, and then had started ahead to make the next switch, which was around a corner on another street. The time was about 6:15 p. m., and the .street was one much traveled by the public. The evidence ¡'for plaintiff tended to show that the horse was feeling good ■ and¡began to prance back and forth over the traveled way •■west of theitrack and on and off the track; that a buggy •passed on the west side of him and made him more uncontrollable, and-that the same effect was produced by the approach of the car. The evidence for plaintiff tended to show the horse was several times on and off the track in going a distance of sixty or seventy feet; that his rider was unable to control him or direct his course or keep him off the track; and that the horse and his several movements on and off the track, and the lack of control by his rider, were seen by a passenger riding on the front end of the car in time so that if the motorneer had then seen it he could have stopped or very greatly checked the speed of the car; and that its speed was fifteen or twenty miles per hour. Witnesses for defendant saw the horse go upon the track only at the instant he was struck, but part of them, at least, did not claim to have been looking ahead or noticing the horse till that instant, and would not swear he had not been back and forth upon and off the track before. The motorneer did not see him until an instant before he was struck, and then used the appliances for stopping the car, but too late to perceptibly reduce the speed till after the car struck the horse. Defendant’s proof tended to show the speed of the car was only from eight to fifteen miles per hour.
+Defendant urges that the preponderance of the evidence upon the question whether its motorneer was negligent is with defendant. We conclude the evidence is so close upon the subject that a verdict either way, approved by the trial ■judge, should not be set aside by this court, where it is conceded that the rules of law governing the conduct of defendant and the traveling public were correctly laid down to the jury.
+We find no reason for attributing to Pauli any lack of due care. He seems to have done all he could to keep the horse off the track. He was riding from his home to his employer’s livery stable by a direct route. There is nothing to indicate he had any reason to expect the horse would become unmanageable, and therefore it does not appear due care required him to take some other street, upon which there wras no street car line. Linn did not regard the animal as a ladies’ horse, or gentle enough to let out to ladies, but that furnished no reason why he should be required to avoid the streets upon which the cars ran.
+We can not say that this jury ought to have rendered a different verdict or that it is probable another jury would find another way.
+The judgment is therefore affirmed.
