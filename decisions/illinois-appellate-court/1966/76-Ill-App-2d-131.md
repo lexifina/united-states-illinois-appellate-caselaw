@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,703"
+decided: "1966-11-04"
+citations: ["76 Ill. App. 2d 131"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Leon Stepheny, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/76/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2574714
+cites_cases: ["12 Ill2d 418", "134 NE2d 315", "147 NE2d 80", "153 NE 389", "212 NE2d 7", "31 NE2d 795", "322 Ill 295", "375 Ill 330", "403 Ill 69", "64 Ill App2d 248", "8 Ill2d 431", "85 NE2d 34"]
+---
+
+# People v. Stepheny
+
+## Majority (MR. PRESIDING JUSTICE BRYANT)
+
+MR. PRESIDING JUSTICE BRYANT
+delivered the opinion of the court.
+This is an appeal from a judgment of the Circuit Court of Cook County which found the appellant, Leon Stepheny, guilty of the crime of voluntary manslaughter and sentenced him to the penitentiary for a term of from ten to twenty years. Appellant’s sole contention on this appeal is that he was not proven guilty of the crime of voluntary manslaughter beyond a reasonable doubt.
+The facts of the case are as follows: Appellant and four other men, Lee Phillip Coleman, the deceased, Richard Coleman, deceased’s brother and appellant’s brother-in-law, Buck Field, and Willie Harris, were shooting craps at the home of Richard Coleman on the night of October 16, 1964. Both Richard Coleman and Buck Field testified that during the course of the game the appellant and the deceased became involved in an argument over their earnings and over the fact that the deceased had not accepted a bet in the sum which the appellant had accepted when the deceased was shooting the dice. Appellant informed the deceased that if the deceased ever offered to bet the appellant at any time, one of the two of them would have to be carried out of the place. Deceased then asked the appellant for a five-dollar bet, and the appellant, after repeating his previous warning, shot the deceased in the chest with a .45 caliber revolver.
+Appellant, Leon Stepheny’s testimony was essentially the same as that of the two witnesses for the People. However, his testimony did differ in one essential matter. Appellant testified at the trial that he shot the deceased when the deceased turned on him with a .22 caliber revolver in his hand, at which time the appellant drew his revolver and shot the deceased. Stepheny further testified that he had seen the .22 caliber revolver earlier in the deceased’s pocket. However, no such gun as described by the appellant was ever found by investigating officers at the scene of the crime. The deceased’s brother-in-law contradicted the appellant on the possession of the gun, saying that he had not seen the deceased with a revolver on the night of the shooting.
+Appellant was indicted for murder, but was found guilty of voluntary manslaughter. It is well established in Illinois that a verdict of guilty of voluntary manslaughter may be returned on an indictment charging murder, provided there is evidence to support the lower grade of homicide. People v. Lewis, 375 Ill 330, 31 NE2d 795. The sum and substance of appellant’s argument on this appeal is that the court should have found him guilty of murder or of nothing, that there was insufficient evidence to establish the provocation necessary to reduce a killing from murder to manslaughter. Appellant puts forth two propositions to support this contention. One is that mere words are not sufficient provocation to reduce a murder charge to voluntary manslaughter. The other is that the appellant was found guilty on the basis of a misconception of the trial court as to the relative deadliness of a .45 caliber revolver.
+On the first point, it is clear that mere words are insufficient provocation to reduce a killing from murder to voluntary manslaughter. People v. Russell, 322 Ill 295, 153 NE 389; People v. Marrow, 403 Ill 69, 85 NE2d 34; People v. McMurry, 64 Ill App2d 248, 212 NE2d 7. We have searched the record in this case and find the deceased and the appellant did not only exchange harsh words, but engaged in a quarrel of some duration both during and after the crap game broke up over the betting in the game and over the amount of money the appellant and deceased were making. After the two men had been arguing for some time, appellant told the deceased that if the deceased ever tried to bet with the appellant again one of the two of them would end up being carried out of the place. At this point the deceased offered to make a bet with the appellant and was shot. On the basis of the facts in this case, we cannot say that there was lacking the provocation necessary to reduce a charge of murder to one of voluntary manslaughter.
+On his second point, the appellant claims that the court convicted him on the basis of certain gratuitous comments regarding the size and relative deadliness of the gun which appellant was carrying and which he used to shoot the deceased. We do not feel that these remarks of the trial court were of any relevance in reaching a decision in this case. But, in any event, this contention is without merit. The Illinois Supreme Court has stated that where a record may disclose facts sufficient to sustain a conviction of murder as well as manslaughter, and the trier of fact returns a finding on the lesser charge, such a conclusion will not be disturbed, unless palpably contrary to the evidence presented. People v. Harris, 8 Ill2d 431, 134 NE2d 315; People v. Wiggins, 12 Ill2d 418, 147 NE2d 80. In view of the testimony of the two witnesses for the People and the admissions of the appellant it cannot be said that the conviction of the appellant rested on irrelevant remarks of the trial court, nor can it be said that the conclusion reached by the trial court was clearly contrary to the evidence.
+For the above reasons the judgment is affirmed.
+Judgment affirmed.
+LYONS and BURKE, JJ., concur.
