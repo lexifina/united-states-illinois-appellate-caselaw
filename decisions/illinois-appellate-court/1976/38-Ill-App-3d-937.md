@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "62909"
+decided: "1976-05-14"
+citations: ["38 Ill. App. 3d 937"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BETTY GARDIAKOS et al., Plaintiffs-Appellants, v. VANGUARD COMMUNICATIONS, INC., et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/38/cases/0937-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2803344
+cites_cases: ["103 Ill. App.2d 197", "122 Ill. App. 2d 347", "123 Ill. App. 2d 335", "133 N.E. 711", "147 N.E.2d 887", "16 Ill. App. 2d 317", "189 N.E.2d 97", "19 Ill. App. 3d 579", "235 N.E.2d 857", "243 N.E.2d 31", "259 N.E.2d 328", "260 N.E.2d 99", "28 Ill. App. 3d 1022", "286 N.E.2d 74", "301 Ill. 102", "312 N.E.2d 27", "329 N.E.2d 518", "39 Ill. App. 2d 352", "403 Ill. 218", "6 Ill. App. 3d 785", "85 N.E.2d 733", "92 Ill. App. 2d 163"]
+---
+
+# Gardiakos v. Vanguard Communications, Inc.
+
+## Majority (Mr. JUSTICE DRUCKER)
+
+Mr. JUSTICE DRUCKER
+delivered the opinion of the court:
+This is an appeal from an order of the trial court dismissing plaintiffs’ amended complaint. Plaintiffs brought suit for damages, alleging that defendant, Vanguard Communications, Inc., had breached the terms of a contract it had executed by refusing to sell the assets of radio station WVVX-AM to Betty Gardiakos. Plaintiffs’ amended complaint prayed for damages against Vanguard and its president, James Hoffman, and against Hamilton-Landis & Associates who acted as brokers in the sale. After a hearing the trial court granted defendants’ motion to dismiss, ruling that there was an unambiguous contract for purposes of the motion but that the contract was unenforceable since it lacked mutuality in that it gave plaintiffs an unrestricted right to cancel the agreement.
+Plaintiffs submitted their offer to acquire the assets of the radio station in the form of a letter of intent setting forth the terms and conditions of the purchase in substantial detail. The pertinent terms provided that plaintiffs were to “loan” Vanguard *12,000 within 15 days after the acceptance of the offer in order for Vanguard to meet obligations owed to the previous owners of the station. This loan was to be applied towards the purchase price of *147,500 at the time of sale. One of the requirements of the offer was that Vanguard would submit various documents to plaintiffs for their inspection within five days of acceptance. After listing these documents, the letter provided that:
+“Buyer may, at its option, within 5 days of receiving said documents, withdraw its offer set forth in this letter and its obligations hereunder shall be null and void.”
+The letter concluded by requesting that a copy be signed and returned if the offer was acceptable to Vanguard and was signed by Betty Gardiakos as buyer and her brother Sam Gardiakos as guarantor. The offer was accepted by James Hoffman for Vanguard and dated June 10, 1974. On June 20, 1974, Vanguard’s attorneys informed the Gardiakoses that it was cancelling the agreement due to possible difficulties in fulfilling certain conditions such as obtaining approval by the Federal Communications Commission of an “assignment” of the station’s license. None of the terms of the agreement have been performed.
+Opinion
+Construing the letter of intent without the aid of extrinsic evidence, it is clear that the agreement lacked mutuality. Mutuality of obligation is lacking, and neither party is bound to an executory contract where one of the parties has the right to arbitrarily terminate it. (Snyder v. Hamilton, 39 Ill. App. 2d 352, 189 N.E.2d 97; Hodorowicz v. Szulc, 16 Ill. App. 2d 317, 147 N.E.2d 887; Schoen v. Caterpillar Tractor Co., 103 Ill. App.2d 197, 243 N.E.2d 31.) The provision of the agreement which allowed plaintiffs five days to withdraw without establishing conditions for such a withdrawal rendered the contract unenforceable.
+Although conceding that the letter of intent apparently gives them an unconditional right to cancel, plaintiffs contend that it was the intention of the parties to the agreement that the power to withdraw was conditioned upon the discovery of misrepresentations which might be disclosed by an inspection of the documents listed in the letter. Plaintiffs urge that the court erred in dismissing the complaint since the contract was ambiguous and that at a trial parol evidence would have been admissible to show that it was the intention of the parties that the right to withdraw was to be exercised only if there were misrepresentations in the submitted documents.
+The law is well settled in Illinois that if a written contract between parties is clear and the language unequivocal, then parol evidence may not be received to explain or expand upon its terms. (Armstrong Paint & Varnish Works v. Continental Can Co., 301 Ill. 102, 133 N.E. 711; Mertke v. Kracik, 122 Ill. App. 2d 347, 259 N.E.2d 328; Farnsworth v. Lamb, 6 Ill. App. 3d 785, 286 N.E.2d 74.) The intention of the parties must be ascertained, if possible, from the language employed in the instrument itself and where there is no ambiguity, from such language alone. (Industrial Commodity Corp. v. E. J. Brack & Sons, 92 Ill. App. 2d 163, 235 N.E.2d 857; World Insurance Co. v. Smith, 28 Ill. App. 3d 1022, 329 N.E.2d 518.) As was stated by our supreme court in Saddler v. National Bank, 403 Ill. 218, 228, 229, 85 N.E.2d 733, 740:
+“What the parties to a written contract may have understood as to the meaning of the language used is not admissible in evidence. The intention or understanding of the parties, when there is a written contract in evidence, must be determined not from what the parties thought but from the language of the contract itself. [Citation.]
+An agreement, when reduced to writing, must be presumed to speak the intentions of the parties who signed it. It speaks for itself, and the intention with which it was executed must be determined from the language used to express its intention. It is not to be changed by extrinsic evidence, as to how it was understood or what was intended. [Citations.]”
+Whether a contract is ambiguous is a question of law for the court to determine. (Farnsworth; Storybrook Homes, Inc. v. Carlson, 19 Ill. App. 3d 579, 312 N.E.2d 27.) “An ambiguous contract is one capable of being understood in more senses than one; an agreement obscure in meaning, through indefiniteness of expression, or having a double meaning.” First National Bank v. Victor Comptometer Corp., 123 Ill. App. 2d 335, 341, 260 N.E.2d 99.
+The present case presents a situation where the language of the agreement was clear and unequivocal as to the right of a party, the buyer, to withdraw from the contract. The sole condition imposed was that withdrawal occur within five days after receipt of certain enumerated documents. Therefore, since the agreement lacked mutuality, the court’s ruling dismissing the plaintiffs’ amended complaint is affirmed.
+Affirmed.
+BARRETT and SULLIVAN, JL, concur.
