@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 53,544"
+decided: "1970-02-11"
+citations: ["126 Ill. App. 2d 9"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Thomas D. Ball, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/126/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1576572
+cites_cases: ["14 NE2d 494", "143 NE 440", "171 NE2d 623", "194 Ill 506", "20 Ill 430", "21 Ill2d 232", "210 NE2d 587", "213 NE2d 765", "252 Ill 29", "312 Ill 63", "368 Ill 455", "384 Ill 455", "51 NE2d 548", "59 Ill 68", "62 Ill App2d 97", "62 NE 902", "67 Ill App2d 292", "96 NE 573"]
+---
+
+# People v. Ball
+
+## Majority (MR. JUSTICE LEIGHTON)
+
+MR. JUSTICE LEIGHTON
+delivered the opinion of the court.
+In a three-count indictment, defendant Thomas D. Ball, and a Richard Collier who is not in this appeal, were charged with rape and indecent liberties with a child. Prior to trial, defendant moved to dismiss count three of the indictment on the ground that it failed to charge an offense. The motion was denied. A jury trial followed. Collier was acquitted of all charges. Defendant was acquitted of rape charged in count one and of indecent liberties by sexual intercourse with a child under sixteen years charged in count two; but the jury returned a verdict of guilty of indecent liberties with a child charged in count three. Defendant was admitted to three years’ probation, the first six months to be served in the House of Correction of the City of Chicago. He appeals; and in support of reversal submits four issues for review. Disposition of this appeal requires discussion only of defendant’s contention that the trial court erred in overruling his motion to dismiss count three of the indictment because it did not charge an offense.
+Count three of the indictment alleged that:
+Thomas D. Ball and Richard Collier, each a person of the age of seventeen years and upwards, committed the offense of indecent liberties with a child, in that they, with the intent to arouse and satisfy the sexual desires of himself and Sandra Gaydos, a child under the age of sixteen years, in violation of Chapter 38, section 11-4(1-3) , of the Illinois Revised Statutes 1965, ....
+The relevant parts of the statute in question provide that:
+(a) Any person of the age of 17 years and upwards who performs or submits to any of the following acts with a child under the age of 16 commits indecent liberties with a child:
+(1) Any act of sexual intercourse; or
+(2) Any act of deviate sexual conduct; or
+(3) Any lewd fondling or touching of either the child or the person done or submitted to with the intent to arouse or to satisfy the sexual desires of either the child or the person or both.
+Ill Rev Stats 1965, c 38, § 11-4 (a) (1), (2), (3).
+A material element of every offense is a voluntary act. Ill Rev Stats 1965, c 38, § 4-1. The kind of voluntary act which is a material element of indecent liberties with a child is described in paragraph (a) of section 11-4 (performs or submits) and in subsections (1), (2) or (3). To satisfy constitutional and statutory requirements, an indictment must allege the commission of an offense by “[S]etting forth the nature and elements of the offense charged; . . . .” Ill Rev Stats 1965, c 38, § 111-3 (a) (3). An indictment that does not allege the material elements of an offense will not support a conviction. People v. Moore, 368 Ill 455, 14 NE2d 494; People v. Trumbley, 252 Ill 29, 96 NE 573; People v. Billingsley, 67 Ill App2d 292, 213 NE2d 765.
+Count three of the indictment failed to allege the act or acts by which defendant allegedly committed the offense of indecent liberties with a child, but set forth only the necessary statutory intent. Therefore, the indictment did not allege the commission of an offense. Although the jury found defendant “[g]uilty of the offense of indecent liberties — lewd fondling and touching . . . ,” the indictment did not allege that defendant by “. . . lewd fondling and touching . . .” committed the offense of indecent liberties with a child.
+Defendant cannot be lawfully convicted of a crime not charged in the indictment. People v. Brown, 312 Ill 63, 143 NE 440; People v. Edward Martin, 62 Ill App2d 97, 210 NE2d 587. The trial court erred in overruling defendant’s motion to dismiss count three of the indictment. Judgment is reversed.
+Judgment reversed.
+ENGLISH and DRUCKER, JJ., concur.
+SUPPLEMENTAL OPINION ON REHEARING
+To consider a question which appeared to have substance, we granted the State a rehearing and allowed its motion to file supplemental reports of proceedings. The question concerns the correctness of the record.
+From the papers now before us it appears that in contrast with the language of the indictment that was the subject of our opinion, count three of the indictment returned by the grand jury and filed in the clerk’s vault, alleged that:
+Thomas D. Ball and Richard Collier, each a person of the age of seventeen years and upwards, committed the offense of indecent liberties with a child, in that they, with the intent to arouse and satisfy the sexual desires of himself and Sandra Gaydos, lewdly fondled and touched the said Sandra Gaydos, a child under the age of sixteen years, in violation of Chapter 38, section 11-4 (a) (3), of the Illinois Revised Statutes 1965, ....
+It is obvious that this count charged an offense. The indictment certified in the record on appeal and the typewritten copies of the indictment furnished to defendant and to the trial court omitted .the crucial words “lewdly fondled and touched the said Sandra Gaydos.” We are now informed that this omission was a clerical error. Defendant was arraigned, and he pled not guilty to the copy of the indictment which, because of the omitted words, was fatally defective.
+Prior to trial defendant moved to quash count three of the indictment furnished him (and which constituted the court file) because its language failed to charge an offense. The supplemental reports of proceedings we now have disclose that the Assistant State’s Attorney who appeared for the State saw the difference between the copy of the indictment that was part of the court file and the indictment returned by the grand jury. The State asked leave to correct the court file either by furnishing a correct copy of the indictment or by obtaining a new indictment. Defendant’s motion to quash was denied. The cause was continued to allow the State an opportunity to make the correction. The correction was never made.
+Thereafter, defendant went to trial on the erroneous copy of the indictment. It was this copy of the indictment that was read to the jury by the trial judge in his preliminary remarks during voir dire. Defendant was convicted of the offense sought to be charged in count three of the defective indictment. Throughout the proceedings in the trial court, the original of the indictment remained locked in the vault of the clerk.
+After this conviction, defendant moved to arrest the judgment. His motion to quash was allowed to stand as his motion in arrest. The motion was denied. Defendant was sentenced. Now the State asks us to withdraw our opinion, “correct” the record to show the indictment returned by the grand jury, and review this appeal as if defendant had pleaded to and was convicted on what obviously was an adequate indictment.
+We cannot do this. The reason is a simple one: defendant was arraigned, tried and convicted on a count of an indictment that was not returned by the grand jury. The conviction cannot stand. Gardner v. The People, 20 Ill 430; Sattler v. The People, 59 Ill 68. Thus, the record as “corrected,” rather than showing a basis for withdrawal of our opinion, reveals at an untimely moment a more glaring defect in the proceedings below.
+In Collins v. The People, 194 Ill 506, 62 NE 902 the trial court was confronted with the same kind of clerk error. Before trial, the court was apprised of the fact that the indictment was defective or imperfect. The court set aside the order of arraignment and plea and “so much of the record as showed that a true copy of .the indictment had been furnished, . . . .” The court then allowed the State’s Attorney to serve defendant with a true copy and defendant was again arraigned. The Supreme Court found no error or prejudice in this procedure and affirmed .the conviction. A similar procedure could have been followed in the instant case, but was not.
+As our opinion holds, the indictment on which defendant was arraigned, to which he pled not guilty, which he moved to quash and attacked by his motion in arrest of judgment, and which was read by the court to the jury at trial, contained a count that failed to charge an offense. We adhere to that opinion.
+There is no section 11-4(1-3) of Chapter 38. Conjecture may-lead to the guess that the language in Count Three of the indictment refers to chapter 38, section 11-4(a)(3), Ill Rev Stats 1967, c 38, §11-4(a)(3). However, in construing an indictment we are not at liberty to depart from the words in the indictment itself and speculate on what is possibly intended nor to supply matters of substance which have been omitted. People v. Fore, 384 Ill 455, 458, 51 NE2d 548; People v. Sullivan, 21 Ill2d 232, 237, 171 NE2d 623.
