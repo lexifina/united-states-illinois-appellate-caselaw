@@ -1,0 +1,72 @@
+---
+court: "Illinois Appellate Court"
+docket: "63098"
+decided: "1977-07-22"
+citations: ["51 Ill. App. 3d 149"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. MELVIN BULLOCK, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/51/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3382585
+cites_cases: ["12 Ill. App. 3d 18", "127 Ill. App. 2d 272", "22 Ill. App. 3d 758", "240 N.E.2d 226", "262 N.E.2d 243", "277 N.E.2d 866", "281 N.E.2d 638", "297 N.E.2d 206", "318 N.E.2d 24", "344 N.E.2d 239", "350 N.E.2d 205", "36 Ill. App. 3d 355", "360 N.E.2d 436", "361 N.E.2d 736", "364 N.E. 511", "38 Ill. App. 3d 932", "45 Ill. App. 3d 1040", "47 Ill. App. 3d 242", "49 Ill. App. 3d 493", "50 Ill. 2d 104", "51 Ill. 2d 262", "97 Ill. App. 2d 338"]
+---
+
+# People v. Bullock
+
+## Majority (Mr. JUSTICE LORENZ)
+
+Mr. JUSTICE LORENZ
+delivered the opinion of the court:
+Following a jury trial defendant was convicted of armed robbery in violation of section 18 — 2 of the Criminal Code of 1961 (Ill. Rev. Stat. 1973, ch. 38, par. 18 — 2) and sentenced to two years of periodic imprisonment. On appeal he contends: (1) he was not proved guilty beyond a reasonable doubt, and (2) he was denied effective assistance of counsel.
+Bobby R. Flowers was tried and convicted along with defendant, however, his case is not on appeal. At trial the following pertinent evidence was adduced.
+For the State:
+Tsfelson J. Dowell
+He is a bus driver for the Chicago Transit Authority. On September 28, 1973, at about 9 p.m., defendant and Flowers boarded his bus at the intersection of Homan and Franklin. Defendant carried a shotgun and wore a black knee length coat, platform shoes, a large black hat, and blue “shades.” Flowers carried a pistol and wore a tan leather jacket and a blue tam. His hair was braided up under the tarn. The men wore nothing to hide their faces.
+Defendant demanded his money. He gave him his wallet which contained his identification, but no money. Meanwhile, two unidentified men, who Flowers let in through the rear door, “ransacked” the other passengers. After about five minutes the men exited and ran east on Franklin.
+He flagged down a police car about four blocks away and described the offenders to the officers. Ten to 15 minutes later the police returned with defendant and Flowers, both of whom he identified.
+On cross-examination he admitted that when questioned three days earlier he could not recall what defendant wore other than a black hat and blue shades. Further, he acknowledged that he identified defendant and Flowers through the window of a squad car, illuminated by a street light. However, on redirect. examination he said he had no trouble seeing their faces.
+John Schwartz — Chicago Police Officer
+At about 9 p.m. on September 28, 1973, he was stopped by Dowell. After talking with Dowell, he proceeded south on Homan Avenue. At the Franklin Street intersection (500 North) he observed four black males walking eastbound on Franklin, approximately 100 feet east of Homan. In the process of making a U-tum south of Franklin he lost sight of the men for a few seconds. Going east on Franklin he spotted defendant and Flowers at the intersection of Spaulding and Franklin. They were approximately 75 yards from where he had just seen the four men. Defendant wore a long dark coat, sunglasses, and a black and white brim hat. Flowers’ hair was braided up. He stopped and frisked them. Neither man had a weapon.
+Later at the police station Dowell’s wallet was found in Flowers’ right back pocket.
+On cross-examination he acknowledged that although he noted Dowell’s description of the offenders on a piece of scratch paper he did not put it in his police report. He further admitted that the description in the police report does not indicate that either defendant or Flowers was wearing a brown leather coat, a blue tarn, platform shoes, a black brim hat, a black coat or sunglasses.
+He also acknowledged that he erroneously stated on direct examination that Dowell’s wallet was found on Flowers. It was found on defendant.
+He stated further that he lost sight of the four men he originally spotted for 30 to 60 seconds. He also admitted that he did not arrest defendant and Flowers at Franklin and Spaulding (500 North). Rather, as his police report reflects, he arrested them at 615 to 617 North Spaulding, a block and a half north of Franklin. Defendant and Flowers were walking down the street.
+On redirect examination he testified that the description in the police report is of defendant and Flowers as they appeared in the police station after being told to take off their hats and coats.
+For defendant:
+Melvin Bullock, on his own behalf
+He denied committing this crime. On the evening of September 28, 1973, he played basketball at Morris Playground with several friends including Bobby Flowers, Rory Hawkins, Keith Hawkins, and Carl Lester. The playground is located at 621 North Spaulding. They began playing at about 8 or 8:30 p.m. He wore a blue corduroy jacket, blue jeans, and mixed colored shoes, which were “low, flat like sneakers.” He did not have a long black coat with him and was not wearing a hat, or “shades.”
+He and Flowers left to go home about “9:00, 10:00, 9:15 — something like that.” They both lived in the 600 block of Homan Avenue. As they left the playground, he found Dowell’s wallet next to a mobile school building a few feet from the playground gate. He picked it up, saw Dowell’s driver’s license, and proceeded toward the gate intending to mail it. Before he could cross the street the police stopped and arrested them.
+The police drove them to the bus located at Chicago and Homan. Dowell came over to the car, bent his head down, looked in the window, and walked away. An officer told them that Dowell had identified them.
+On cross-examination he stated that before he found the wallet he had seen a man run in back of a mobile school building and drop it.
+Bobby Flowers
+He substantially corroborated defendant’s testimony. In addition, he stated that he was wearing a blue shirt, blue jean pants, tan coat, and tan shoes when arrested. His hair was braided, but he was not wearing a hat.
+On cross-examination, he stated that he could tell he arrived at the playground at 8 or 8:30 because it started getting dark about that time. He played basketball for an hour and a half to two hours.
+Otha Anderson and Rory Hawkins
+They played basketball with defendant the evening of September 28, 1973. Defendant arrived at 7 p.m. and left with Flowers at 9:30 or 10 p.m.
+On cross-examination Hawkins stated he knew that defendant left at 9:30 p.m. because defendant asked Keith Hawkins what time it was just before he left. Hawkins left at about 10 p.m. to iron his clothes for school the next day. After it was pointed out that the following day was Saturday, Hawkins said, “it was a long time [ago]” and he did not know what day it was.
+Charles Mixon
+He was a passenger on the bus. Four adults and three children were also on the bus. He sat about three seats behind the rear door of the bus. One of the men stood two to three feet away from him. However, he could not identify either defendant or Flowers as participants in this robbery.
+Ón cross-examination he stated that he could probably only identify one of the four offenders. He denied telling Dowell at a line-up that he would not identify anyone because he was “sick of coming to court.”
+For the State in rebuttal:
+Nelson Julian Dowell
+When he identified the defendants in the squad car, Mixon did also. On April 15,1974, he attended a lineup in the Civic Center courtroom. Mixon was also present. Mixon told him he could identify defendants, however, he indicated he would not, because he would lose money by returning to court.
+Gregory Me Hugh — Chicago Police Investigator
+On September 28, 1973, he saw defendants at the 11th District Police Station. Bullock was wearing a black hat, blue tinted sunglasses, a white T-shirt, blue jeans and multicolored platform shoes. He had a blue corduroy jacket next to him.
+Opinion
+Defendant first contends he was not proved guilty beyond a reasonable doubt. He asserts that had he committed this robbery and fled, it is unbelievable that he would return to the scene of the crime 10 to 20 minutes later carrying the victim’s wallet and identification. Moreover, he notes, he had no other items taken in the robbery; nor did he have a weapon. When the improbability of these facts is considered in light of (1) the testimony of his two alibi witnesses, (2) the lack of a lineup identification, and (3) the failure of the State to call as witnesses other passengers on the bus, he argues that it raises a reasonable doubt as to his guilt.
+When arrested, defendant had in his possession Dowell’s wallet. The recent, exclusive and unexplained possession of stolen property by defendant in and of itself gives rise to an inference of guilt, which may be sufficient to sustain a conviction for armed robbery in the absence of facts and circumstances which leave in the mind of the trier of fact a reasonable doubt of guilt. People v. Lindsey (1976), 38 Ill. App. 3d 932, 935, 350 N.E.2d 205, 208-09.
+This inference put the burden of going forward with the evidence upon defendant. (People v. Hanson (1968), 97 Ill. App. 2d 338, 342, 240 N.E.2d 226, 228.) Here, defendant offered an explanation for his possession of Dowell’s wallet. However, defendant’s explanation was properly submitted to the jury (People v. Hanson (1968), 97 Ill. App. 2d 338, 240 N.E.2d 226) and it chose to reject it.
+It is well settled that the identification testimony of a single witness is sufficient to convict if it is positive and the witness is credible. (People v. Clarke (1971), 50 Ill. 2d 104, 277 N.E.2d 866.) Here, Dowell’s testimony meets this standard. Defendant, whose face was not hidden, stood near Dowell during this entire incident. Twenty minutes later he identified defendant as one of the offenders. In addition, the description of defendant’s clothing he gave Officer Schwartz matches that which Officers Schwartz and Me Hugh testified defendant was wearing when arrested. Admittedly the police report did not refer to defendant’s hat, coat or sunglasses. However, Officer Schwartz explained that defendant had removed these items before the report was filled out.
+Defendant complains about the lack of a lineup identification. However, a one man showup to the victim of a crime, held immediately after the arrest of a suspect, has been approved as proper police procedure. People v. Bey (1972), 51 Ill. 2d 262, 281 N.E.2d 638.
+Defendant argues that the testimony of Anderson and Hawkins proves he was playing basketball at the time of the robbery. However, the jury obviously chose to believe Dowell and not Anderson and Hawkins. The trier of fact is not required to accept alibi testimony over the positive identification of defendant even if the alibi testimony is given by a greater number of witnesses. People v. Whitley (1977), 49 Ill. App. 3d 493, 364 N.E. 511.
+Defendant suggests that the failure of the State to call other witnesses indicates they may have helped his defense. Although such an inference is sometimes proper “it has not been invoked where as here an eyewitness testified directly as to the event, and his testimony was ‘clear and convincing’ and ‘complete in all respects.’ People v. Graham (1970), 127 Ill. App. 2d 272, 277, 279, 262 N.E.2d 243, 246.” (People v. Rowe (1977), 45 Ill. App. 3d 1040, 1046, 360 N.E.2d 436, 439.) Moreover, we note that Mixon, the other passenger who did testify, was impeached when he claimed he could not identify defendant or Flowers.
+Defendant maintains that it is unbelievable that he would return to the scene of the crime. However, simply because the evidence depicts two rather daring and foolish criminals does not by itself render the State’s evidence unbelievable. (People v. Henderson (1976), 36 Ill. App. 3d 355, 365, 344 N.E.2d 239, 249.) Nor is it improbable that they would have no items taken in the robbery (other than the wallet) and no weapon. Between the time of the robbery and his arrest defendant may have disposed of these items. Moreover, all of defendant’s alleged improbabilities were before the jury and were properly a matter for their consideration. People v. Kriston (1973), 12 Ill. App. 3d 18, 22, 297 N.E.2d 206, 209.
+Having reviewed all of defendant’s arguments in support of his first contention and finding them without merit we conclude that defendant was proved guilty beyond a reasonable doubt.
+Defendant also contends he was denied effective assistance of counsel because he and co-defendant Flowers were represented by the same attorney. The right to separate counsel is not automatic. Representation by a single attorney is allowable provided it does not appear that a conflict of interest between defendants is anticipated. (People v. Husar (1974), 22 Ill. App. 3d 758, 762, 318 N.E.2d 24, 28.) We will not disturb a judgment on the basis of speculative conflicts of interests of co-defendants where there is no showing that a single attorney’s representation of two defendants caused prejudice to either defendant or that a different result might have occurred had separate counsel been appointed. People v. Craig (1977), 47 Ill. App. 3d 242, 247, 361 N.E.2d 736, 741.
+In the instant case, both defendant and Flowers presented alibi defenses, which were consistent, corroborative, and mutually exculpatory. Although defendant in his brief suggests that “other divergent and unhampered defenses” might have been employed, had he and Flowers been represented by different counsel, this is mere speculation. We find no prejudice to either defendant from the lack of separate counsel.
+Defendant also complains that he was not advised of the possible hazards of joint representation, pursuant to the American Bar Association Standards (ABA Standards, Function of the Trial Judge §§3.4(b), 3.5 (1971)). However, because there was in fact no conflict of interest here, we fail to see the prejudice to defendant in not making such an inquiry prior to trial.
+For the foregoing reasons the judgment of the circuit court is affirmed.
+Affirmed.
+SULLIVAN, P. J., and WILSON, J., concur.
