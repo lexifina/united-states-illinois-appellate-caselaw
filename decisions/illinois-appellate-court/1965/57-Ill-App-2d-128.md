@@ -1,0 +1,21 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,075"
+decided: "1965-01-26"
+citations: ["57 Ill. App. 2d 128"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Lee Raynor, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/57/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2598383
+---
+
+# People v. Raynor
+
+## Majority (JUSTICE BURKE.)
+
+Opinion by
+JUSTICE BURKE.
+Not to be published in full.
