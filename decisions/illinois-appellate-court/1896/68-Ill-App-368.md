@@ -1,0 +1,65 @@
+---
+court: "Illinois Appellate Court"
+decided: "1896-12-09"
+citations: ["68 Ill. App. 368"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alice F. Fritzsche et al. v. Frederick Herb."]
+source_url: "https://static.case.law/ill-app/68/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5200383
+---
+
+# Fritzsche v. Herb
+
+## Majority (Mr. Justice Lacey)
+
+Mr. Justice Lacey
+delivered the opinion of the Court.
+This was an action of assumpsit by the appellants against appellee seeking to collect rents and profits for the use and occupation of a certain eighty-acre tract of land.
+The case was tried on an agreed state of facts, and evi-. dence introduced as follows:
+Plaintiff’s Case.
+Stipulation as to facts offered in evidence, that John Jobst died intestate October 1, A. D. 1873, and left surviving him Amelia Jobst, now Amelia Herb, his widow, who married defendant May 3, 1887, and ^Mary T. Jobst, Alice F„ Jobst, now Alice F. Fritzsche, Franklin 0. Jobst, who died June 5, A. D. 1889, Lewis F. Jobst, Lydia J. Jobst and Minnie L. Jobst, now Minnie L. Franklin, his only sons and daughters. That since the marriage of the said widow and the defendant there has been born to them Frederick Herb, Jr., and Eosa Herb, who are minors. That, John Jobst died seized in fee of the premises described in the declaration, and resided on the same at the time of his-death, with his wife and family. That the said defendant and his wife, and the children of his wife that remained at home, resided on said land until March 12, A. D. 1883, and on that day moved to Wessington, South Dakota.
+From that time until November, A. D. 1893, said premises' were occupied by a tenant, at which time defendant and wife and minor children moved back upon said farm and occupied it until same was sold under a decree in a suit in partition on August 24, A. D. 1894. That after marriage of defendants until said sale, his wife permitted defendant to receive and he did receive the rents and profits from said land as head of the family. That said farm consisted of eighty acres. That the reasonable rental value of that land was $3.50 per acre, per annum. That Amelia, Eosa, and Frederick Herbert, Jr., were made plaintiffs, because other-plaintiffs were advised it was necessary. That the dower of Amelia Jobst, now wife of defendant, was never assigned until after partition suit was commenced on April 1, A. D. 1893, final decree being entered June 25, A. D. 1894. Parties reserve right to introduce all other competent testimony they may desire on trial of said cause. Plaintiffs-rest their case in chief.
+In addition to this, the papers in a partition suit wherein Minnie L.Franklin was plaintiff were introduced in evidence, showing that the partition suit in question was for the purpose, among other things, of assigning the dower of Amelia Herb, formerly Jobst.
+The petition, among other things, set up the dower interest had never been assigned to the widow of John Jobst and asked its assignment, and the petition prayed that Amelia Herb Tie required to bring into court all the proceeds of the said premises received by her since the death of her husband to be distributed among the parties according to their interest.
+The master’s report showed the correctness of the various allegations of the petition and that the said lands were the homestead of the said John Jobst, deceased, at the time of his death; that his wife lived with him at the time and that she continued to occupy the premises as a homestead and had the exclusive use of it after her husband’s death and took care of the family, they being nearly all minors, and lived with her until March, 1883, and that she received all rents from the date of the death of her husband until 1893.
+She says Garvin paid her $3.60 per acre for years and the .rent was worth $3 per acre per annum the balance of the .time; that her doAver in the land had never been set off.
+The bill in partition was then amended with the additional allegation that Amelia Herb had the entire use of the premises described from the death of John Jobst to the time •of filing of the bill.
+Amelia Herb, widow of John Jobst, ansivered and denied .the plaintiff’s right to relief with regard to the part which ...asked that the rents received by Amelia Herb be brought ¡into court for distribution.
+The evidence introduced in that case showed that all the • children of John Jobst were above the age of twenty-one years and that after his death his Avidow married Frederick Herb May 3, 1877, and had lived with him ever since, and that two children were born after the said marriage, Eosa IE. and Frederick C., both minors, then residing with their .mother.
+After 1883, the evidence showed that Amelia Herb and .her husband, the defendant in the case, lived off the premises and received the rents thereon during the time of their absence, and that they moved back on the premises March, 1891, and then resided there, at the time the evidence was taken.
+She had moved a house on the land and also built a stable on it and laid tile on it.
+The court in the partition suit rendered a decree of partition and appointed commissioners to make the partition, which commissioners set off dower therein to Amelia Herb and reported the remainder indivisible and valued it at $60 per acre.
+The Circuit Court rendered a decree confirming the report of the commissioners and ordered the sale of the land subject to the dower interest of the widow. The master in chancery made a sale of the premises to Frederick Herb for the sum of $3,910.
+There was a decree confirming master’s report of sale and ordering a distribution of the money.
+The court took no account of the question raised as to the rents and profits, and Amelia Herb’s alleged quarantine interest. Frederick Herb, the defendant, received the rents and profits on the land after his marriage with Mrs. Jobst as her husband, by her permission, and the proceeds were used in the support of the family.
+Formal pleadings were waived, except the general issue, and that all defenses might be made under that issue that could be made under any.
+The case was tried by the court without a jury and the court found the issues for the defendant.
+The plaintiff excepted, and moved the court for a new trial, which was overruled, and then rendered judgment against appellants for costs, to which overruling the motion and rendering the judgment the plaintiff excepted.
+This suit is brought by the heirs of John Jobst to recover the proceeds of the land since the same has been occupied and managed by him. The widow of John Jobst, Amelia Herb, and the children of Frederick Herb and his wife were also joined as plaintiffs because they each inherited a fraction of the undivided one-seventh interest of Franklin C. Jobst, deceased, son of John Jobst and half-brother to Herb’s children,, the latter thereby becoming tenants in common with the full brothers and sisters of Franklin C.
+The position of the appellants as stated by counsel is that they, as the owners in fee of the land, are entitled to the rents and profits arising from its use, subject only to the widow’s dower.
+The appellees contended in the court below for two propositions as a defense to the action.
+First, that the partition proceedings already mentioned, the papers of which were introduced in evidence, amounted to a former adjudication of the rights of the parties to this suit in regard to the matters in controversy herein.
+Second, that section 27 of chapter 34, Revised Statutes, 1845, gave to the widow a vested right to retain the possession and use, rent free, of the entire estate until dower was assigned.
+The appellants deny the correctness of these propositions.
+As to the question first raised, while it is a serious one, we do not think that it is necessary for us to consider and determine whether the partition proceedings were a bar to this action or not, for the reasons which we will note hereafter.
+We will now proceed to consider the second proposition, to wit:
+Whether the appellees have a right to claim the rents and profits in question under the widow’s quarantine act of 1845.
+Section 27 of the dower act of 1845 reads as follows: “ The widow in all cases may retain the full possession of the dwelling house in which her husband most usually dwelt, together with the outhouses and plantation thereto belonging, free from molestation and rent until her dower be assigned.”
+Appellants’ counsel admit that unless the quarantine act was repealed, the right existed as contended for by the appellees to enjoy the rents and profits; therefore it will not be necessary for us to discuss that question or cite any authorities in its support.
+The appellants insist that section 27 of the quarantine act above cited was repealed by the general revision of 1874, which went into force the July following the death of John Jobst. Counsel assume that such act was absolutely and unconditionally repealed as far as the rights of Jobst’s widow were concerned; that unless it was beyond the power of the legislature to so repeal such act as to affect the widow’s rights in this case then the statute was rendered null as to such rights.
+And counsel contend that unless a widow’s right to quarantine in the homestead after the death of her husband is what is termed in law to be a vested right, then her rights ceased under the act of 1845, and she had no further claim for a quarantine use of the premises. Then an exhaustive argument is entered into to prove that such rights are not vested rights but are liable to be repealed and annulled at any time the legislature may see proper.
+Counsel for appellee combats such argument in his brief and tries to show that appellees’ rights are, in law, what are known as vested rights.
+In the view we take of the case we do not think it necessary for us to discuss or determine that question, that is, as to whether the widow’s, rights, under the facts of the case, were vested beyond the powers of the legislature to repeal when the repealing act of 1874 was passed.
+We understand from the second section of that act existing rights, whether vested or not, were saved, and the statute did not attempt to affect them.
+By section 1, chapter 131, entitled “ An Act to Repeal Certain Acts ” therein named, the act in which the quarantine act was made a law, among others, was repealed, and in force July 1, 1874.
+The act mentioned as being repealed is as follows: “ An Act for Revising and Consolidating the General Statutes of the State of Illinois,” approved March 3,1845; except chapter 104, entitled “ Trespass.”
+This is the title to the revision of 1845, and repeals all of the revised statutes of 1845, except the chapter entitled “ Trespass.”
+Section 2 of said act of 1874, has the following saving clause: “ Section 2. The repeal of the acts and parts of acts mentioned in the preceding section shall not affect suits pending or rights existing at the time this act takes effect. * * * Hor shall such repeal as above mentioned betaken, construed or held to avoid or impair any grant made or right acquired or cause of action now existing under any such acts or the amendments thereto, but as to all grants made or rights acquired or cause of action now existing said laws shall be continued in full force and effect.”
+The last part of the section provides that repeal of a former limitation law should not be construed to stop the running of any statute but the time shall be construed as if such repeal had not been made. Revised Statutes of 1S74, Hurd’s Revision, page 1381.
+It will be seen from the agreed state of facts that Amelia Herb acquired the right of quarantine October 1, 1873, and retained possession of the homestead and premises of her husband, John Jobst, deceased, from that time on until 1874, and she had acquired the right of quarantine long before the repealing act of 18¡T4 was passed. By section 2 above quoted, her right to the quarantine in her former husband’s homestead and premises had been acquired and was then subsisting, and the legislature refused to repeal the quarantine act so as to affect that class of rights, no difference whether legally vested or not, in such a way that the legislature was without power to repeal. Her rights were acquired and are clearly covered by the saving clause.
+By section 2 a number of rights were saved from the effect of the repealing act other than vested rights; among them the former limitation acts repealed were saved so far as cases had arisen under it, and where the limitations had commenced to run.
+It therefore follows that the widow, Amelia Herb, had a right to claim the rents and profits of the land in question until her dower should be assigned, which was not done until 1894, when the land was sold under the partition proceedings.
+There being no error in the record the judgment of the court below is affirmed.
