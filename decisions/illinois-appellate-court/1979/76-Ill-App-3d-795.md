@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-315"
+decided: "1979-09-24"
+citations: ["76 Ill. App. 3d 795"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re CAROL STREAM FIRE PROTECTION DISTRICT.—(KENNETH B. DE JONG et al., Petitioners-Appellants, v. CAROL STREAM FIRE PROTECTION DISTRICT, Respondent-Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/76/cases/0795-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3281829
+cites_cases: ["47 Ill. App. 3d 158", "58 Ill. App. 3d 897"]
+---
+
+# De Jong v. Carol Stream Fire Protection District
+
+## Majority (Mr. JUSTICE WOODWARD)
+
+Mr. JUSTICE WOODWARD
+delivered the opinion of the court:
+This is an appeal from an order denying disconnection of petitioners’ properties from a fire protection district. In 1975, a group of property owners petitioned for annexation of certain territory to the Carol Stream Fire Protection District (hereinafter FPD). This territory included property owned by the petitioners in the instant action. The trial court ordered the annexation following approval by a majority of the voters in the territory. This court affirmed the annexation in In re Carol Stream Fire Protection District (1977), 47 Ill. App. 3d 158. The petitioners now seek disconnection from the FPD pursuant to section 15 of “An Act in relation to fire protection districts” (Ill. Rev. Stat. 1977, ch. 127)2, par. 35), and as required by said section they allege that the property described in the petition does not have the requisite territorial qualifications to create another district and that the property would receive a greater benefit of service from another district. A hearing was held, and the trial court denied the petition, concluding that section 15 was not designed to allow disconnection where the property would not subsequently be included in another district.
+Section 15 allows property owners or voters within a fire protection district to petition for disconnection whenever the property does not meet the requisite territorial qualifications described in section 1 of the Act (Ill. Rev. Stat. 1977, ch. 127/á, par. 21), or where the property could receive better benefits of service from another district, provided that the district has not incurred any bonded indebtedness, the disconnection will not impair the operation of the remaining territory, and the disconnection will not cause the remaining territory to be noncontiguous. The parties stipulated that the disconnection would not seriously impair the operation of the district and that no bonded indebtedness has been incurred by the district since the annexation of the subject property, although bonded indebtedness did exist prior to the annexation. This debt was outstanding at the time the disconnection petition was filed. Furthermore, the evidence showed that disconnection would not cause the remaining territory in the district to be noncontiguous.
+Thus there are two issues on appeal, namely (1) whether section 15 is an appropriate vehicle for disconnection where the petitioners do not intend to annex to another district, and (2) whether the existing bonded indebtedness which was incurred .prior to annexation of petitioners’ property is a bar to disconnection under section 15.
+There is no explicit statutory requirement that the disconnected territory be subsequently included in another district. The trial court apparently concluded that the policy of the statute would not be met in the instant cause where the petitioners intend to provide for their fire protection service by contract with adjacent districts rather than by annexation. However, a section 15 disconnection was implicitly approved under similar circumstances in In re Petition to Create Emmett-Chalmers Fire Protection District (1978), 58 Ill. App. 3d 897. In that case, the court concluded that disconnection was proper as to some of the property although the property would not then be included in any existing district. The petitioners in that case also intended to provide fire protection service on a contract basis with adjacent districts.
+This result is further supported by the statutory language since section 15 provides that disconnection may be proper where the territory “would receive greater benefit of service from another such district or other municipal corporation * ° (Ill. Rev. Stat. 1977, ch. 127%, par. 35.) This language clearly contemplates that the territory might be serviced without being added to another district. Furthermore, the subsequent provisions of the Act provide for disconnection and annexation in a single procedure (Ill. Rev. Stat. 1977, ch. 127%, pars. 37 and 37a). Thus, section 15 must serve a distinct purpose, such as disconnection where annexation to another district is not contemplated. We conclude, therefore, that section 15 is appropriate even though the property sought to be disconnected will not be included in an existing district.
+Respondent next contends that the petitioners’ request for disconnection is barred by the fact that the FPD, as an existing district, has already incurred bonded indebtedness. Respondent notes that once a territory is annexed it automatically assumes its proportionate share of the district’s financial obligations, and thus is barred from disconnecting. The statutory language supports this position in that it states that disconnection may be allowed “at any time before such district has incurred any bonded indebtedness * * (Ill. Rev. Stat. 1977, ch. 127%, par. 35.) In our view, the fact that the FPD had incurred bonded indebtedness and that petitioners share that debt by virtue of the annexation precludes a disconnection by means of section 15, as that section does not contemplate disconnection where there is an existing bonded indebtedness.
+The decision of the trial court is accordingly affirmed.
+Affirmed.
+GUILD, P. J., and SEIDENFELD, J., concur.
