@@ -1,0 +1,66 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-03-10"
+citations: ["81 Ill. App. 154"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oscar Williams, Adm’r, v. J. H. Kirby."]
+source_url: "https://static.case.law/ill-app/81/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5208844
+cites_cases: ["54 Ill. 190", "78 Ill. App. 248"]
+---
+
+# Williams v. Kirby
+
+## Majority (Mr. Justice Bigelow)
+
+Mr. Justice Bigelow
+delivered the opinion of the court.
+This was a suit in assumpsit by appellant against appellee and three others upon a promissory note as follows:
+“ $300.
+Lick Obeek, Union Co., III.
+Twelve months after date, we or either of us promise to pay Peter F. Williams the sum of three hundred dollars, value received, with interest at 7 per cent from date until paid, this the 4th day of March, 1898.
+H. S. Jolly,
+J. F. Wilson, Maby C. J olly,
+J. H. Kirby.”
+The instrument sued on is a promissory note for the payment of money on which the makers were severally liable, and all the parties whose names appear to the note were included in the one suit and declared against as makers of said note. They were all duly served with process, and all but appellee were defaulted. He filed a plea, duly verified, denying that he had executed the note. Issue was joined on appellee’s plea and the cause was tried by a jury, resulting ip a verdict as follows:
+■ “We, the jury, find the issues for all the defendants.”
+Appellant filed a motion for a néw trial which the court; sustained as to all the defendants except, appellee, and overruled as to him, and rendered judgment in his favor for costs to be paid in due course of administration.
+Appellant excepted, brings the case to this court by appeal, and urges as grounds for reversal that the court erred in overruling his motion for a new trial as to appellee and rendering judgment in appellee’s favor for costs, and that, the court erred in rendering any judgment as to ajipellee which did not include all his co-defendants.
+It is contended that the verdict as to appellee is against the weight of the evidence. The only issue in the case was as to whether appellee had signed the note, and the only witness who claimed to have been present, and saw him sign it, was his co-defendant U. F. Jolly, the principal maker of the note. He testified that appellee signed the note on the 1st day of May aftér its date, “ yon side of Lick Creek in the big road,” where the witness met him; that he wrote “ J. H.” standing up, then put it down on his thigh and wrote the rest of his name. There was also some evidence tending to show that appellee had admitted he signed the note, but as it appears -in the record it does not impress us as entitled to any considerable weight. On the other hand appellee unqualifiedly and unequivocally denied the execution of the note, and his testimony was corroborated by the testimony of several disinterested witnesses, and the substantial testimony of one of these was that he had known appellee for years; knew his handwriting when he used to write; that he had a spell of sickness in 1888, which left him in bad condition, after which he could not write his name, and witness at times wrote it for him. That appellee never wrote as well as the signature to the note was written, and never used a capital “ H,” and never spelled his name “ Kirby,” but always spelled it “ Kerby,” and that witness did not think that the signature to the 'note was appellee’s handwriting.
+The question as to whether or not appellee had signed the note was a disputed question of fact upon which the evidence was conflicting. That issue was fairly submitted to the jury.
+■ It is insisted, and a number of authorities are cited to show that where judgment is rendered against two or more, on a joint contract, and a new trial is granted as to one, the judgment must be vacated as to all.
+That such is the well settled rule of the common law is not doubted, but this rule was entirely abrogated as to suits on joint and several bills of exchange and promissory notes for the payment of money by the statute of 1895, entitled “An act to amend section 7 of ‘An act to revise the laws in relation to promissory notes, bonds, due bills, and other instruments in writing,’ approved March 18, 1874, and to regulate the conduct of suits for enforcing payment of certain negotiable instruments on which parties are jointly or severally liable.” Sections 2 and 3 of the statute are as follows :
+Section 2. “ Persons severally liable upon bills of exchange or promissory notes, payable in money, may all or any of them severally be included in the same suit, at the option of the plaintiff, and judgment rendered in said suit shall be without prejudice to the rights of the several defendants as between themselves.”
+Section 3. “ In any suit mentioned in the preceding section a separate judgment may be entered by default against any defendant or defendants severally liable who have been duly served with summons and against whom plaintiff would have been entitled to judgment, had the suit been against such defendant or defendants only. The suit shall thereby be severed and shall proceed to trial against the other party or parties in the same manner as if it had been commenced against such other party or parties only, and if the plaintiff recover, judgment shall be entered against such one or more of the defendants as are found liable to him, but in no event shall the plaintiff be entitled-to more than one satisfaction.” Laws óf 1895, page 262; Hurd’s Revision of 1895, Chap. 98, Secs. 7a and 7b.
+It would seem that language could not make plainer the intent of the law makers to completely abrogate the rule of the common law requiring judgments to be rendered against all who are sued on joint and several undertakings of the character named in the act, or against none.
+The severance of the case is a rule of practice to be followed by the courts tor the proper conduct and dispatch of business, and is of the same character of legislation as Sec. 4 of the Practice Act of 1827, which has, in substance, ever-since been continued in force, and is now Sec. 9 of the present Practice Act, and also is of the same character as Sec. 11 of the present Practice Act, all of which laws were enacted to soften the rigidity and partially remove a common law rule of practice which had been found often to work injustice to suitors.
+When appellee filed his plea and his- co-defendants were defaulted the suit became severed.
+Under the law as it now is, the only question before us lies between appellant and appellee, and should be determined in the same manner and by the same rules as if appellee had not been joined with his co-defendants but had been sued alone in the first instance.
+In Deatherage v. Rohrer, 78 Ill. App. 248, the court says:
+“This statute applies to cases where a suit is brought against two or more persons severally liable on a promissory note or bill of exchange and one or more "of0 the defendants make default and the plaintiff proceeds to trial against the other party and fails ; he still could have damages assessed, and, upon the finding, have judgment against the defendant or defendants not putting in a defense.”
+True, appellant’s motion for a new trial was a unit as to all of the defendants, and as he had not sufficient grounds for a new trial as to appellee, the court might have overruled his motion as to all. As he was not entitled. to have it granted as a unit, it could not be error for the court to overrule it. The court saw fit to sever his motion and allow it in part and overrule it in part, and to render judgment, accordingly. Of this appellant can not complain, although he had not so moved the court, since by this course on the part of the court appellant obtains all that in any case he could be entitled to under the state of record, issues and evidence in this case.
+There being in the opinion of the majority of the court no substantial error in the record, the judgment of the Circuit Court is affirmed.
+
+## Dissent (Justice Worthington)
+
+Justice Worthington
+dissenting.
+While not disagreeing with the majority of the court as to the construction of the amendment of 1895, where it applies, I do not concur in their conclusion that it applies in the case at bar. It is said in Faulk v. Kellums, 54 Ill. 190 : “ The rule is inflexible that in actions on contract against two or more, judgment must go against all or none, for as a contract is indivisible, so is the judgment thereon, * * * and such is the universal rule at common law.” In construing this amendment, the Appellate Court of the Third District say, in Deatherage v. Eohrer, quoted in the opinion, supra: “ When a statute is clear in meaning and purpose, it is not within the power or province of the court to extend its application to a case not within its terms, and especially when such extension would work a repeal of a well established principle of the common law.”
+In this State, previous to the passage of the amendment of 1895, all makers of promissory' notes were liable, both severally and jointly. Section 2 of the amendment then did not change the law in this respect. But previous to the amendment, all the makers had to be included in one suit, except that a single maker might be sued separately. Any number of makers less than the whole number could not be • sued together as several promisors. Section 2 of the amendment changes the law in this respect, and authorizes the plaintiff at his option, to include “ all or any (of the makers) severally,” in the same suit. But this is an option to be exercised by the plaintiff. In the present case he has not used that option. He declares against the makers jointly only, not jointly and severally. The averment in the declaration is, “ that the defendants made their promissory note * * * and thereby promised to pay, * * * by means whereof the defendants became liable to pay * * * according to the tenor and effect thereof, * * * and being so liable the defendants in, consideration thereof promised, ” etc.
+Section 3 of the amendment provides that “in any suit mentioned in the preceding ■ section, a separate judgment may be entered,” etc. It applies only to such suits as are-embraced in section two—that is, to suits where the plaintiff lias exercised the option to include any or all of the makers severally. The plaintiff not'having included the makers severally as well as jointly, section three does not apply in this case.
+It will be observed, too, that section three is not mandatory or self-acting. It is not an autocrat or an automobile. It does not declare that separate judgments shall be entered, but it does provide that they may be entered. In practice, some party moves the court to enter a judgment and moves for such judgment as he desires, or thinks himself entitled to. There is nothing in this record to show that any one asked for separate judgments.
+It is correctly said in the opinion, supra, that the motion to set aside.the verdict and for a new trial was a unit. If it was a unit,- it should have been treated as a unit. It should have been decided in bulk and not in parcels.
+Plaintiff was entitled to have the action of the court upon his motion as made, and then to a review of the decision of the court if adverse to him, in a court of review.
+In the case at bar, the court .gave to the jury the following instructions:
+“ 11. If you find from all the evidence that defendant Kirby did not sign the note in question, then it will be your duty to find in favor of said Kirby, but that will not preclude your finding for the plaintiff against the other defendants, for the amount the evidence shows is due as principal and interest on the note introduced in evidence.
+12. Tour verdict may be in one of the following forms :
+We, the jury, find the issues for the plaintiff and assess his damages at-dollars—;—cents.
+We, the jury, find the issues for -the defendant Kirby, and. we find for the plaintiff against the defendants W. S. Jolly, J. F. Wilson and Mary C. Jolly, and assess plaintiff’s damages at-dollars---cents.
+We, the jury, find the issues"for all the defendants.”
+The jury returned a verdict:
+“We, the jury, find the issues for all the defendants.”
+’ Whéreúpon the plaintiff moves to set aside the verdict and far a new trial. The court denied the motion as to Kirby, and granted it as to the other defendants, and then gave judgment for defendant Kirby, against plaintiff, for costs, leaving the case undisposed of as to the other defendants. The jury rendered a verdict for all the defendants. If the jury found that Kirby did not execute the note, their verdict was a true one, under the declaration, for in such case it was not a joint note of the four alleged makers as declared on.
+If the court was satisfied as to the finding of the jury that Kirby did not execute the note, and that it was not a joint note, the motion to set aside the verdict and for a new trial should have been overruled as a unit. Then a general judgment, entered upon the verdict for costs against the plaintiff, would have been a logical and correct legal entry.
