@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 8,989"
+decided: "1936-06-03"
+citations: ["286 Ill. App. 6"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["First-Trust Joint Stock Land Bank of Chicago, Appel-lee, v. Luella Cutler et al., Appellants. Elmer Cutler, Appellee."]
+source_url: "https://static.case.law/ill-app/286/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5617134
+cites_cases: ["336 Ill. 203", "341 Ill. 628", "342 Ill. 27"]
+---
+
+# First-Trust Joint Stock Land Bank v. Cutler
+
+## Majority (Mr. Justice Allaben)
+
+Mr. Justice Allaben
+delivered the opinion of the court.
+This was an action brought by the First-Trust Joint Stock Land Bank of Chicago, an Illinois corporation, to foreclose a mortgage executed by the defendants appellants on December 21, 1922. At the time the mortgage was signed one of the appellants, Elmer Cutler, who owned an undivided one-fourth interest in the mortgaged premises, was a minor. The mortgage was signed on behalf of the minor by Alvin R. Cutler, his guardian, pursuant to a petition and order of the county court of Shelby county so to do. The mortgage note was payable in instalments, the last instalment maturing on May 1, 1957.
+After the institution of this suit the minor defendant, Elmer Cutler, entered his special and limited appearance in the case for the sole purpose of making a motion to quash the service and return of process, and to dismiss the suit. Later an amendment was filed to said motion. The other defendants also filed motions to dismiss, all assigning as their reasons for granting the motion that at the time the note and mortgage were executed Elmer Cutler was a minor ,• that the signature of the guardian on the mortgage was void, being made without the court’s authority; that the note and mortgage by their terms mature in 1957, this being beyond the time when the minor reached his legal majority; and that the note and mortgage, therefore, were void under the statute; that the circuit court has no jurisdiction to grant the relief sought, since the mortgage itself showed that it involved the interest of a minor; finally, that the matter involved in this suit was involved in a suit covering the same matter, and the identical parties, in the county court; that, therefore, the action is barred.
+After a hearing on the motions to dismiss, the trial judge filed a written opinion, in which he found that he had jurisdiction of the proceedings; that the mortgage was not enforceable as against the minor defendant; that the statute in reference to the maturity of the note and mortgage was not followed, but that the unauthorized execution of the mortgage by the guardian did not render the mortgage invalid as to the other defendants.
+The trial court on January 20,1936, entered a docket order dismissing the cause as to the defendant, Elmer Cutler, on his motion. The motion filed by the other defendants for dismissal was denied. A rule was entered ordering the said defendants to answer the petition within 10 days from the date of the order. From this order defendants appellants appealed to this court, notice of appeal being filed on January 20, 1936. On February 11,1936, an order of the trial court was filed, containing the same findings as set forth in the court’s written opinion, including the same order as was entered on January 20,1936, and, in addition, appointing a receiver for the premises involved in this suit.
+On February 24, 1936, the plaintiff appellee filed a notice of appearance and cross appeal. Neither the order from which the original appeal in this case was taken, nor the draft order, filed on February 11, 1936, finally disposed of the rights of all the parties to this suit.
+While it is argued to the contrary, it seems perfectly clear to this court that when an order was entered ruling certain of the defendants to answer within 10 days it left the complaint standing without any answer being filed. Such a situation of the pleadings is not a final disposition of the case in the trial court in so far as it concerns the defendants who were ordered to answer. From such portion of the order appeal will not lie.
+In Miller v. Bunn, 336 Ill. 203, in which a demurrer was filed, overruled, and an appeal taken, the court said: “The only order or decree rendered was one overruling the demurrer, but no final disposition of the bill was made by any order. Overruling the demurrer left the bill standing without any answer to it. Such an order was not a final disposition of the case and an appeal will not lie from such a decree.” The same situation pertains in the instant case. The order in this case did not terminate the litigation between the plaintiff and those parties who were ordered to answer. (Free v. Successful Merchant, 342 Ill. 27; People ex rel. Englum v. Curtis, 341 Ill. 628.)
+It is contended by plaintiff appellee that the portion of the order of February 11, 1936, dismissing the complaint as to the minor defendant, Elmer Cutler, was a final disposition of the case, as to it in the trial court. It was from this portion of the order that the plaintiff appellee sought to prosecute its cross appeal. Rule 35 of the Illinois Civil Practice Act, Ill. State Bar Stats. 1935, ch. 110, ¶ 259, recites, in part, as follows: “Each appellee who desires to prosecute a cross appeal from all or any party of the judgment, decision, order or decree, and each co-party who did not join in the notice of appeal but who desires to join as appellant or to prosecute a separate appeal, shall, within 10 days after service of notice of appeal, serve a notice upon each party or attorney or firm of attorneys who signed the notice of appeal, and upon each appellee, or in case of a cross appeal upon each co-appellee, and file a copy thereof in the trial court.” Inasmuch as this rule is mandatory and not directory, and since the notice of cross appeal in this case was not filed until more than 10 days after the appellant’s notice of appeal, we are constrained to hold that such cross appeal is not effective.
+For the reasons heretofore stated the appeal and cross appeal are hereby dismissed.
+Appeal and cross appeal dismissed.
