@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "55501"
+decided: "1973-11-01"
+citations: ["15 Ill. App. 3d 702"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Meyer Gorbatkin, Plaintiff-Appellee, v. Richard MacAndrews, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/15/cases/0702-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461310
+cites_cases: ["15 Ill.App.3d 706"]
+---
+
+# Gorbatkin v. MacAndrews
+
+## Majority (Mr. PRESIDING JUSTICE DEMPSEY)
+
+Mr. PRESIDING JUSTICE DEMPSEY
+delivered the opinion of the court:
+This litigation arose from an automobile accident which occurred at the intersection of St. Paul and Wells streets, Chicago, on March 6, 1966, between vehicles driven by the plaintiff, Meyer Gorbatkin, and the defendant, Richard MacAndrews. Exactly two years after the accident Gorbatkin filed a complaint against MacAndrews for $200. The ad damnum was increased from $200 to $5,000 in February 1970 and on March 1st MacAndrews was served with an alias summons. The return day was March 18th; MacAndrews did not appear and five days later a default judgment was entered against him for $2,750. Two months after the default a garnishment summons was served on MacAndrews’ insurer. Gorbatkin was represented in the garnishment proceeding by Sherman Dickholtz, the same attorney who secured the default judgment.
+MacAndrews’ attorney learned of the default and on May 29, 1970, filed a petition to vacate the judgment. A copy of the petition and notice of the motion were served upon Dickholtz. The petition was granted and the cause was returned to the jury calendar. On July 9th MacAndrews served interrogatories upon Dickholtz who responded by filing a special appearance and a motion to set aside the order vacating the default judgment. Dickholtz’ contention was that the court lacked jurisdiction to enter the order because MacAndrews’ motion of May 29th pertained to a judgment entered more than 30 days prior to that date and notice of the motion should have been served on Gorbatkin, the judgment creditor, instead of on his attorney. The court agreed with Dickholtz and reinstated the judgment.
+MacAndrews filed an amended petition to set aside the reinstated judgment and this time served notice of the motion upon Gorbatkin as well as Dickholtz. Gorbatkin made a motion to strike and dismiss the amended petition on the grounds that it showed neither diligence nor a meritorious defense and that it was not supported by the affidavits of persons competent to testify to the facts alleged. The court allowed this motion.
+MacAndrews’ appeal contests the order which reinstated the vacated default judgment and the order which dismissed his amended petition. His principal contention is that the court erred in reinstating the judgment on the ground that notice of Dickholtz was not notice to Gorbatkin. His second contention is that on the basis of equity, the history of this litigation and the petition itself, it was error for the court to dismiss the amended petition. We will only consider the propriety of the order reinstating the default judgment for our resolution of this issue will be dis-positive of the appeal.
+MacAndrews was defaulted on March 23, 1970, and the judgment entered on that date became final after 30 days had elapsed. His motion to vacate, having been filed on May 29, 1970, was correctly treated as a motion brought under section 72 of the Practice Act. (Ill. Rev. Stat. 1969, ch. 110, par. 72.) Section 72(2) states that, “All parties to the petition shall be notified as provided by rule.” The rule referred to is Supreme Court Rule 106, which states:
+“Notice of the filing of a petition for relief from a final judgment after 30 days from the entry thereof shall be given by the same methods provided for the giving of notice of additional relief to parties in default.” Ill. Rev. Stat. 1969, ch. 110A, par. 106.
+The requirements for additional relief to parties in default are found in Rule 105 which provides for three methods of service: personal, by prepaid registered mail addressed to the party with return receipt requested, and by publication. Ill. Rev. Stat. 1969, ch. 110A, par. 105.
+MacAndrews did not serve notice on Gorbatkin by any of these methods. Instead, the notice was directed to his attorney. If the service on Dickholtz was valid, the court had jurisdiction to vacate the default judgment; if the service was invalid, the court’s jurisdiction had not been properly invoked and reinstating the judgment was the only course open to the court. MacAndrews’ argument in support of the validity of the service consists of several points, the most cogent of which is that such service is legally sufficient when the motion to vacate is made during the pendency of garnishment proceedings and the plaintiff-garnishor is before the court.
+A similar point was reviewed by this court in Public Taxi Service, Inc., v. Ayrton (1973), 15 Ill.App.3d 706. In Ayrton we held that service upon a judgment creditor’s attorney is valid if the same attorney represents the judgment creditor during the trial proceedings and in the post-trial collection process. The Ayrton and Gorbatkin cases parallel each other in many respects: in both, there was a collision between two vehicles; in both, the complaints were not filed until two years had gone by; in both, four to five years after the filing of the complaints, the small damage claims were increased manifold times the original amount; in both, default judgments were taken, one under questionable circumstances, the other in great haste; in both, no effort was made to obtain payment until the judgments became final; in both, garnishment proceedings were started more than 30 days after the defaults, and in both, the same attorney represented the plaintiffs in the default proceedings and the garnishment actions.
+Th is case comes within the exception outlined in Ayrton to the general rules governing notices of section 72 petitions. Dickholtz was Gorbatkin’s attorney throughout the case. He had filed the complaint, amended it, took the default and defended the judgment. He was authorized to collect the judgment and was attempting to obtain satisfaction when he received MacAndrews’ notice to vacate. Under these circumstances notice to Dickholtz was notice to Gorbatkin and was sufficient to invoke the trial court’s jurisdiction over his person. The court had the power to vacate the default judgment and having done so should have adhered to its decision.
+The order reinstating the judgment is reversed. The case, therefore, reverts to the position it was in when the judgment was vacated. All motions after that date should not have been entertained and all subsequent rulings are set aside.
+Reversed and remanded with directions.
+McNAMARA and McGLOON, JJ., concur.
