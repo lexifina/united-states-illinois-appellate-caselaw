@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-01-07"
+citations: ["47 Ill. App. 561"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Merchants Dispatch Transportation Company v. Frederick Furthmann."]
+source_url: "https://static.case.law/ill-app/47/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2438787
+cites_cases: ["106 N. Y. 206", "45 N. Y. 712", "87 Ind. 1", "91 Ill. 268"]
+---
+
+# Merchants Dispatch Transportation Co. v. Furthmann
+
+## Majority (Mr. Justice Waterman.)
+
+Mr. Justice Waterman.
+The contract of shipment having been made in Hew York, is to be governed, as to its nature and interpretation, by the law of that State. Mich. Cent. R. R. Co. v. Boyd, 91 Ill. 268.
+Proceeding upon this principle, appellant claims that the evidence introduced by it upon the trial of this cause, shows that the law of that State is that when a receipt, such as was offered in this case, is received without objection, it becomes the contract of the parties; that all prior oral negotiations are merged therein, and that it is not necessary for the carrier, in order to avail himself of the exemptions contained therein, to show that the shipper had knowledge thereof or assented thereto.
+We are disposed to agree with counsel for appellant in this contention, and if the receipt had remained the only written evidence of the contract of shipment, we should be disposed to hold appellee bound by its conditions, although the shipper was ignorant of its terms.
+The undisputed evidence in this case is, that in accordance with the custom of business, and as Oelsener was a frequent shipper, it must be said the understanding of the parties, the receipt was surrendered and a bill of lading issued in its stead. This having been done, we do not think that the receipt can be considered as expressing the contract of the parties.
+Oelsener retained no copy of the receipt he surrendered, and it would be a most violent presumption to hold that after, in accordance with the custom of business, he surrendered it and took a bill of lading in its stead, it still continued to be the written expression of the contract between the parties. The acts of the parties unmistakably show that nothing of the kind was understood by either. Had the receipt been a plain, unconditional agreement to carry the goods to Chicago, and had Oelsener, before the goods had been taken out of the station house, surrendered this and taken the bill of lading given to him, we can not believe that appellant would have contended that the receipt constituted the contract of shipment.
+The fact that the receipt and the bill of lading contain substantially the same limitations of liability on the part of the carrier, does not tend to show that the receipt remained the contract between the parties. Other circumstances and conduct show that the appellant never expected that the receipt was to be the contract of shipment, but that it, in accordance with the custom of business, tendered the bill of lading as a statement of the contract it wished to be bound by. Where it is the custom and understanding that the receipt given upon the arrival of goods at a freight house is to be surrendered, and a bill of lading issued in its stead, and such course is pursued, we do not think that, under the law of the State of Hew York, the receipt is treated as amounting to a contract of shipment, but rather as a mere acknowledgment of a receipt of goods for shipment upon terms implied, or theretofore or thereafter to be. agreed upon.
+In the present case, the verdict of the jury must be taken as establishing that prior to the reception of the goods the carrier agreed with the shipper to transport them in <e cold service,” and before any bill of lading was made, had shipped the goods. The case therefore comes within the rule announced in Bortwick v. The Baltimore and Ohio R. R. Co., 45 N. Y. 712, and Swift v. Pacific Mail Steamship Co., 106 N. Y. 206.
+In the first mentioned case an oral agreement had been made to carry by “ all rail.” After this the goods were delivered at the depot, and depot receipts taken; the goods were then shipped by the carrier; two days subsequent to this, bills of lading were sent to and received by the owner. The goods were lost while being transported by steam from Baltimore to New York. The Court of Appeal in that case said:
+“ The goods were shipped under this verbal agreement, before any written contract or bill of lading had been tendered to the plaintiff. The verbal agreement had been acted upon, and under it the plaintiff had parted with all control over his goods. The rule that prior negotiations are merged in a written contract, does not apply to sucha case as this.”
+In the case of Swift v. Pacific Mail Steamship Co. supra, a verbal contract of shipment was made in New York. After the goods had been shipped, bills of lading variant from the verbal arrangement were given. It was held that the carrier could not, after the carriage had been entered upon, alter the verbal agreement by sending bills of lading, although it was the expectation when the goods were delivered that bills of lading would be given.
+So in the present case, the failure to object to limitations contained in bills of lading delivered two days after the goods had been shipped can not, under the New York rule, be held to be a waiver of the oral contract of shipment, because to then object would have been useless. As is said in Swift v. Pacific Steamship Co., supra, “ It was doubtless expected that bills of lading would be executed, but it could not have been expected that by them the contract so made should be in any way modified.”
+The agreement made with Oelsener is not necessarily inconsistent with anything contained in either the receipt or the bill of lading. The agreement with him was to ship “ in cold service;” he might have been quite willing, if this were done, to absolve the company from liability for loss occasioned by the state of the weather. The agreement with him was upon a subject not mentioned in either of the written documents.
+Stephen, in his Digest of the Law of Evidence, Art. 90, mentions as one of the exceptions to the rule concerning the inadmissibility of parol evidence to vary the terms of a written contract, and as to what under the rule is admissible—“ The existence of any separate oral agreement as to any matter on which a document is silent, and which is not inconsistent with its terms, if from the circumstances of the case the court infers that the parties did not intend the document to be a complete and final statement of the vdiole of the transaction between them.” See also Greenleaf on Ev., Vol. 1, Sec. 284a, and Sec. 286; and Welz v. Rhodius, 87 Ind. 1.
+This aspect of the case, not having been discussed by counsel, we express no opinion upon.
+The instructions given fairly presented the law of the case, and we find no error requiring a reversal of the judgment of the court below; it is therefore affirmed.
+Judgment affirmed.
+Me. Justice Gary. I think under the Mew York law as proved, the receipt given when the goods were delivered, is the whole contract of the parties.
