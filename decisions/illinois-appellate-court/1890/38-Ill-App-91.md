@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-05-27"
+citations: ["38 Ill. App. 91"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. B. M. Kehler v. Fred Einstman."]
+source_url: "https://static.case.law/ill-app/38/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2424647
+---
+
+# Kehler v. Einstman
+
+## Majority (Pleasants, P. J.)
+
+Pleasants, P. J.
+Appellant brought this suit in assumpsit, on the common counts. Pleas, general issue and set-off under common counts. Trial by court without a jury, and judgment for defendant for $307.38.
+The case as shown by plaintiff was substantially as follows: He was a grain dealer and miller of St. Louis, Mo., but not a commission man or dealer on the Board of Trade, and defendant was a buyer and shipper of grain at Chapin, Illinois. September, 1888, defendant telegraphed plaintiff inquiring if he would “ give eighty-eight cents for ten cars wheat, Ho. 3, East St. Louis,” to which he answered, “ eighty-seven and one-lialf is the best we can do,” and defendant replied, “ Accept your offer for ten cars, Ho. 3.” His buyer and agent in the grain business, who made the contract by telegraph, as stated, testified that the usual time for filling such a contract is thirty days, at seller’s option during that time; that defendant delivered only three of the ten cars; that plaintiff demanded the wheat during the thirty days, and rendered defendant a statement of his account on October 4th, when wheat was worth in St. Louis $1.02§; that on September 20th it was worth eighty-six cents, and on the 21st, eighty-seven and one-tenth.
+Defendant testified that he asked the bid on the strength of a report from his agent at Arenzville that he could buy ten carloads there at eighty cents and forward it to East St. Louis for five; but two days afterward, and after the contract with plaintiff was made, he was informed by said agent that another miller had paid eighty-five cents for the lot, and he could not get a bushel of it. ' He had two carloads at Concord, which he sent to plaintiff on this contract, with a request to buy in for him the other eight carloads, which plaintiff neglected to do. Two days later he got another carload, which he also sent on to plaintiff, and again wrote to him on September 20th, as follows : “ Since our last advice we have shipped you from Concord, car Ho. 2505, wheat on our sale, and we would now ask you to buy in the seven short on our last sale to you, if you have not already done so on our order of the — inst.”
+He further testified as follows : “ At the time of sale they were indebted to me in a balance of $325. If they had bought in the wheat for me September 21st, I would have owed them a commission of $17.50; ” and the amount allowed him by the court seems to be this balance less the commission. The commission, however, was not earned and should' not have been credited to plaintiff.
+Hone of the testimony above stated was contradicted. The question made hereby appellant is all about the rulings of the court in admitting evidence on the part of apq>cllee to the effect, in brief, that long before this contract was made, it had been verbally agreed between defendant and plaintiff, by his agent referred to, that if upon sales made to plaintiff he should be unable to obtain the grain and deliver it, plaintiff would, on his request, buy it in for him at a commission of one-half of one per cent and that this had been done in the case of a preceding contract. It is argued and authorities are cited to show that this was in violation of the rule against the admission of parol evidence to add to, change or modify, a contract in writing.
+We do not concede the point, hut decline to discuss it, because it seems immaterial in this case. Appellant was not prejudiced by it. Without that evidence he would be entitled to no more than nominal damages, and he was allowed more. The contract price of the wheat was eighty-seven and one-half cents a bushel. The day for delivery was any day within thirty days from the date of the contract, at the option of appellee. We understand it followed that he couldalsofix the day, within that time, when he would abandon all effort to perform the contract, or admit its breach. He fixed the-time by his letter of September 20th, if not before, and gave due notice. The contract was broken when that notice was received, and defendant was liable therefor; but the damages would be no more than the difference between the contract price and its value at the time of breach,. and there being no difference, the amount would be only nominal. This result is not due in- aiy part to the evidence complained of. Indeed the only effect of that evidence seems to have been to deprive defendant of about 817 to which he was justly entitled. But he assigns no cross-error and plaintiff should be satisfied with the finding.
+Judgment affirmed.
