@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,323"
+decided: "1961-10-25"
+citations: ["32 Ill. App. 2d 454"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCOEMICK, P. J. and DEMPSEY, J., concur."]
+parties: ["William H. Sullivan, Plaintiff-Appellant, v. Maude Myers, Chairman, Saul A. Epton and Warren D. Moyer, Members of and Constituting the Illinois State Civil Service Commission, Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-2d/32/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5232763
+---
+
+# Sullivan v. Myers
+
+## Majority (MR. JUSTICE SCHWARTZ)
+
+MR. JUSTICE SCHWARTZ
+delivered the opinion of the court.
+The Illinois State Civil Service Commission discharged plaintiff on November 24, 1958 from his civil service position as Institution Fire Chief at Chicago State Hospital. As this occurred before the effective date on which the Administrative Review Act became applicable to decisions of the Civil Service Commission, plaintiff instituted a certiorari proceeding for a review of the decision on April 23,1959. The trial court heard the matter and sustained the Commission’s decision. Thereupon plaintiff appealed.
+Charges filed against plaintiff were absence on six occasions without authorization, falsification of official timekeeping records, falsification of other official records, failure to be present at a fire, and falsification of an official fire report. The Commission found him guilty of two charges of absence without authorization, to-wit: April 19-20,1958, and April 22-23,1958, after a hearing and findings by a hearing officer. Also included in the findings was failure of plaintiff to cooperate with his immediate supervisor and with the administration of the hospital in not notifying them or requesting permission before absenting himself. This appears to be a characterization of the charge of absence without leave. All other charges were found to “have not been proven and supported by the manifest weight of the evidence.” Why the standard of manifest weight should have been used by the hearing officer is not apparent. Such a standard applies to courts upon review of an issue of fact, not to an original hearing.
+The hearing officer recommended that plaintiff be discharged as of May 22, 1958. This recommendation was adopted by the Illinois State Civil Service Commission, and thereafter this proceeding was instituted. The only question before us is whether the two absences by plaintiff without authorization, as found by the Commission, constituted sufficient basis for discharge.
+The evidence in the record sustains the Commission’s finding that plaintiff did actually absent himself from his duties. Plaintiff argues that he was not absent because he had made arrangements for another competent officer to take his place, and that this was common custom in fire departments throughout the country. The record reveals that plaintiff had been cautioned against such absence without the approval of either the superintendent or assistant-superintendent of the hospital. His arranging with another to substitute for him and the fact that this is customary practice in fire departments is not a defense.
+The record reveals, however, that Rule 21 of the Rules of the Department of Personnel, in force and effect at the time of plaintiff’s suspension and removal, provides that so-called minor infractions, among wMch is unexcused absence, should be subject to disciplinary suspension without pay, such suspension not to exceed three working- days. It further provides that the employing agency shall have issued previous written notices of warning within a six month period. The rule was made pursuant to the Personnel Code governing the employment of civil service personnel of the state, Ill Rev Stats c 127, § 63 bl03 (1959). The code directs the Director of Personnel to prepare rules for all positions subject to the act and provides (§63 bl08) that “such rules . . . shall have the force and effect of law ... if not disapproved by the Commission prior thereto.” Habitual absenteeism is listed as an offense under the rules and is made the basis for discharge. No specific charge of habitual absenteeism was made, nor is it contended that the two absences of which plaintiff was found guilty constitute habitual absenteeism.
+Under the rules, before even a three day suspension may be inflicted there must be at least two occasions of unexcused absence within six months of each other, and it must appear that the first had been followed by written warning. The answer made to this in defendant’s brief is that the two acts occurred within two days of each other and consequently the Department had no time to give notice after the first infraction. Nevertheless, the rule is clear that in the absence of notice plaintiff could not even have been suspended, and he could not have been discharged for such so-called minor infractions unless yet another occurred within six months of suspension. The only other argument made to sustain the discharge is that plaintiff had the responsibility for the safety of helpless mental invalids immured behind locked doors and barred windows. This is true, and in such a position it is especially important that discipline should be maintained and that employees observe the rules and obey their superiors, which the record shows plaintiff did not do. A responsibility also rests upon the department, however, to present a case which meets legal requirements and conforms to legally adopted rules. It is for the hearing officer to make proper findings and for the Commission to approve proper findings. In the absence of such presentation and such findings, a court cannot affirm the order of the Commission.
+Judgment reversed.
+McCOEMICK, P. J. and DEMPSEY, J., concur.
