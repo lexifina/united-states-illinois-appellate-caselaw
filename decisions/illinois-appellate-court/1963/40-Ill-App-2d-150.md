@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,788"
+decided: "1963-02-21"
+citations: ["40 Ill. App. 2d 150"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Edmund Hauser, Deceased. Marie Hauser, Executor Under the Last Will and Testament of Edmund Hauser, Deceased, Petitioner-Appellant, v. Edward R. Hauser, Respondent-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/40/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5252224
+cites_cases: ["163 NE2d 201", "173 NE 77", "174 NE2d 233", "194 NE 246", "2 NE2d 135", "209 Ill App 516", "248 Ill App 174", "282 Ill App 1", "285 Ill App 463", "30 Ill App2d 243", "311 Ill App 280", "329 Ill App 537", "33 NE2d 877", "334 Ill App 347", "341 Ill 119", "35 NE2d 811", "359 Ill 148", "376 Ill 354", "390 Ill 610", "62 NE2d 456", "69 NE2d 916", "79 NE2d 762"]
+---
+
+# Hauser v. Hauser
+
+## Majority (MR. PRESIDING JUSTICE BRYANT)
+
+MR. PRESIDING JUSTICE BRYANT
+delivered the opinion of the court:
+This case involves a citation proceeding in the Probate Court to recover $11,113.59 which constituted the corpus of an inter vivos trust established by the decedent who named his favorite grandson as the beneficiar y.
+In 1934 the decedent executed a will in which he devised 88% of his estate to his wife and the remainder to other designated persons. In 1956 he established a trust account at the Taiman Federal Savings and Loan Association with an initial deposit of $7100. His grandson, Edward R. Hauser, was designated as the beneficiary. From time to time he added various sums of money to this account and on one occasion he withdrew from it the sum of $5.00. At the time of his death the corpus of the account had increased to the amount claimed in this proceeding. The evidence is undisputed that at the time this trust was established the defendant, Edward R. Hauser, promised his grandfather that subsequent to the death of the latter he would distribute the proceeds of the trust fund in the following manner; 10% to the decedent’s son, 10% to each of two grandsons and 70% to himself.
+The complaint of Marie Hauser, the surviving spouse and executor under the will of Edmund Hauser, sounds in the proposition that the agreement between the deceased and his grandson constituted the transaction a colorable or illusory one designed to circumvent the Statute of Wills and to deprive the spouse of her marital rights and statutory protections. She admits that a husband may divest himself of all of his property and establish a trust account that may ultimately result in the disinheriting of his spouse, but claims that in the case at bar, the gift of her deceased husband was, in effect, a sham in that it was not to take effect until after his death.
+The Probate Court held that the trust was valid and effective in law and in fact to vest the beneficial interest of the subject matter in the defendant and discharged him from the citation. This appeal is taken from that order.
+It is our opinion that the order of the Probate Court, whereby the defendant was discharged, was correct because said court, in a citation proceeding, like the one at bar, is empowered only to determine the legal issues of title and right of property under the applicable rules of trust and property law and may not act as a court of general equitable jurisdiction and go beyond “the four corners of a trust” to determine the equitable rights of the parties involved.
+Citation proceedings are governed by the provisions of sections 183 and 185 of the Probate Act. (Ill Rev Stats 1961, c 3, §§ 183 and 185.) Those sections provide as follows:
+“Section 183. Citation:
+. . . the probate court shall order a citation to issue for the appearance before it of any person whom the petitioner believes (1) to have concealed, converted, or embezzled or to have in his possession or control any personal property, books of account, papers, or evidences of debt or title to lands which belonged to a person Avhose estate is being administered in that court ... or (2) to have information or knowledge Avithkeld by the respondent from the executor . . . and needed by the executor . . . for the recovery of any property by suit or otherwise.”
+“Section 185. Power of court:
+. . . the court may examine the respondent on oath whether or not the petitioner has proved the matters alleged in the petition, may hear the evidence offered by any party, may determine all questions of title, claims of adverse title, and the right of property, and may enter such orders and judgment as the ease requires. If the respondent refuses to answer proper questions put to him or refuses to obey the court’s order or judgment to deliver any personal property . . . the court may commit him to jail until he complies with the order or judgment of the court ... or the court may enforce its order or judgment by execution against the respondent’s real and personal property. The court may tax the costs of the proceeding against the respondent and enter judgment therefor against him.”
+The purpose of a citation proceeding is merely to provide a summary method of recovering property belonging to the decedent at the time of his death. Johnson v. Nelson, 341 Ill 119, 173 NE 77; Wilson v. Prochnow, 359 Ill 148, 194 NE 246; In re Estate of Miller, 311 Ill App 280, 35 NE2d 811. The Supreme Court of Illinois in Keshner v. Keshner, 376 Ill 354, 33 NE2d 877 described the nature of these proceedings in the following manner at page 359:
+“The proceeding is purely statutory and is neither at law nor in equity. It bears the equitable aspects of a bill of discovery, while at the same time providing for an optional jury as at law on demand of the parties, where questions arise concerning claims of adverse title or interest, and this provision is valid. (Hansen v. Swartz, 345 111 609.) The court is given power to determine all questions of adverse title or of right of property, and it may enforce its judgments by execution or by proceedings in contempt. The proceeding may be merely for the purpose of obtaining information with no adversary aspects, or it may develop into an out and out suit for the recovering of money. We have thus anomalous proceeding . . . .”
+See also Storr v. Storr, 329 Ill App 537, 69 NE2d 916; Skidmore v. Johnson, 334 Ill App 347, 79 NE2d 762; In re Estate of Baumgarth, 23 Il App2d 319, 163 NE2d 201; In re Estate of Hill, 30 Ill App2d 243, 174 NE2d 233.
+Even though, probate courts conduct “anomalous proceedings” in citation cases, it is quite clear that they are not empowered with general chancery jurisdiction. As expressed in In re Estate of Miller, 311 Ill App 280, 286, 35 NE2d 811:
+“The remedy provided by these statutory provisions is for the recovery of specific personal property, books of account, papers or instruments of title and the obtaining of information concerning any indebtedness or evidences of indebtedness, or property, titles or effects belonging to any deceased person . . . and does not purport to confer upon probate courts general equity jurisdiction which general equity jurisdiction probate courts do not possess.”
+See also Sims v. Powell, 390 Ill 610, 62 NE2d 456; In re Estate of Bennett, 248 Ill App 174; In re Estate of Shanks, 282 Ill App 1; Dixon v. Nefstead, 285 Ill App 463, 2 NE2d 135.
+In short, it appears that the probate court in a citation proceeding is empowered to resolve any adverse claims pertaining to assets which it is attempting to recover on behalf of the estate of the decedent and although the court does not possess general equity jurisdiction it may enforce its decrees and orders by chancery proceedings. Hicks v. Monahan, 209 Ill App 516.
+In the ease at bar if the court had found that a trust had not, in fact, been created it is clear that it could have ordered the funds in question to be delivered to the executor and could have enforced that order by any chancery process which it chose to avail itself of. However, it is admitted by the plaintiff that a trust, in proper form, was established. Therefore the probate court made the only determination which it was empowered to make under these circumstances, i. e., that the defendant was entitled to the assets as against the estate.
+The order is therefore affirmed.
+Order affirmed.
+BURKE and FRIEND, JJ., concur.
