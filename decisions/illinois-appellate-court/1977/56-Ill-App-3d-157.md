@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-988"
+decided: "1977-12-27"
+citations: ["56 Ill. App. 3d 157"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY KOHLER et al., Plaintiffs-Appellants, v. SEARS, ROEBUCK & COMPANY et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/56/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3414730
+cites_cases: ["190 N.E.2d 348", "228 N.E.2d 177", "236 N.E.2d 719", "27 Ill. 2d 609", "28 Ill. App. 962", "329 N.E.2d 506", "357 N.E.2d 518", "39 Ill. 2d 464", "65 Ill. 2d 304", "84 Ill. App. 2d 318"]
+---
+
+# Kohler v. Sears, Roebuck & Co.
+
+## Majority (Mr. JUSTICE O’CONNOR)
+
+Mr. JUSTICE O’CONNOR
+delivered the opinion of the court:
+Plaintiffs, Mary Kohler, Robert Kohler and Gloria Dickson, filed their complaint for damages against the defendants, Sears, Roebuck & Company, Kenmore, Inc., and Whirlpool Corp., on June 4, 1973. Defendants Sears and Whirlpool filed an answer and served interrogatories on plaintiffs Mary Kohler and Gloria Dickson on August 4, 1973. On October 9, 1973, plaintiffs were ordered to answer the interrogatories within 28 days. Plaintiffs Mary Kohler and Gloria Dickson filed answers to the interrogatories on November 19,1973. On February 1, 1974, on defendants’ motions, plaintiffs Gloria Dickson and Mary Kohler were each ordered to re-answer many of defendants’ interrogatories within 28 days. On March 22, 1974, and May 3, 1974, plaintiffs Mary Kohler and Gloria Dickson were again ordered to re-answer defendants’ interrogatories within 28 days. The May 3,1974, order also provided that the case would appear on the June 3, 1974, compliance call. On June 4, 1974, Judge Jiganti struck plaintiff Mary Kohler’s and plaintiff Gloria Dickson’s complaint and dismissed their cause of action for failure to file their re-answers.
+On January 29, 1976, defendants’ attorney responded to a motion by plaintiffs’ attorney to present a section 72 petition. On that date, plaintiffs’ attorney failed to appear and the matter was stricken. On February 9, 1976, plaintiffs’ attorney filed a written unverified section 72 petition with amended answers to the interrogatories attached. Plaintiffs’ petition alleged that a number of reassignments of the file and the fact that a number of attorneys had left the law firm of plaintiffs’ attorneys had caused the failure to re-answer defendants’ interrogatories. It further alleged the “file was lost and not found until now.” On February 19,1976, the attorney appearing for plaintiffs stated that he was not prepared to argue the section 72 petition and that the attorney who was prepared to argue was on trial. The argument was continued to March 11, 1976, at which time, after arguments of counsel, the circuit court denied plaintiffs’ petition. On April 5,1976, plaintiffs filed a motion to vacate the March 11, 1976, order, together with an amended verified section 72 petition. This petition also alleged that the failure to re-answer defendants’ interrogatories was due to a large turnover of attorneys in the offices of plaintiffs’ attorneys and that the time lapse between the dismissal order and the filing of the motion for section 72 relief was due to the loss of the file. Plaintiffs’ amended petition was denied on April 5, 1976.
+Plaintiffs appealed from the March 11, 1976, and the April 5, 1976, orders. Plaintiffs argue that the trial court abused its discretion in denying the petition for section 72 relief (Ill. Rev. Stat. 1975, ch. 110, par. 72) and that justice requires a reversal. They assert that their failure to re-answer the interrogatories and to attack the dismissal with due diligence resulted from inadvertence on the part of plaintiffs’ counsel.
+This court will reverse a section 72 determination only if there is an abuse of discretion by the trial court. (Taylor v. City of Chicago (1975), 28 Ill. App. 962, 329 N.E.2d 506; Goldman v. Checker Taxi Co. (1967), 84 Ill. App. 2d 318, 228 N.E.2d 177.) The burden is on the petitioner to demonstrate facts warranting section 72 relief and he must demonstrate due diligence in seeking that relief. (Diacou v. Palos State Bank (1976), 65 Ill. 2d 304, 357 N.E.2d 518.) Inadvertent failure to follow the case is not a ground for relief. (Diacou; Esczuk v. Chicago Transit Authority (1968), 39 Ill. 2d 464, 236 N.E.2d 719.) Some fraud or fundamental unfairness must be shown in order to invoke the court’s equitable powers. Elfman v. Evanston Bus Co. (1963), 27 Ill. 2d 609, 190 N.E.2d 348.
+On this record, the trial court’s ruling on the section 72 petition was correct. The inadvertent failure to follow the case before the dismissal is no ground for relief from the dismissal order (Diacou; Esczuk); and, even if it were, the plaintiffs have failed to show due diligence. Plaintiffs’ re-answers to the interrogatories were dated December 4, 1975, but no petition for relief was sought to be filed until late January 1976, more than 19 months after the dismissal of plaintiffs’ complaint. When an unverified petition was filed in February 1976, no attorney appeared to argue it. The matter was continued to March 11, 1976, and, after a hearing, it was denied on that date. Plaintiffs for the first time submitted a verified petition in April, 1976, four months after the signing of the re-answers to the interrogatories. Clearly, the section 72 relief was not pursued with due diligence.
+Plaintiff Robert Kohler has filed an appearance in this court and joined in the briefs of the other plaintiffs. Our review of the record indicates that no interrogatories, motions to re-answer, motions for sanctions or orders of the circuit court were directed to Robert Kohler. In our opinion, Robert Kohler’s cause of action has remained alive, if not active, since the filing of plaintiffs’ complaint. His complaint still pends against defendants.
+The orders of the circuit court denying relief to plaintiffs Mary Kohler and Gloria Dickson are affirmed.
+Affirmed.
+GOLDBERG, P. J., and McGLOON, J., concur.
