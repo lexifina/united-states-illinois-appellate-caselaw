@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-659"
+decided: "1977-10-13"
+citations: ["53 Ill. App. 3d 983"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL CARTWRIGHT et al., Plaintiffs-Appellees, v. WEXLER, WEXLER AND HELLER, LTD., et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/53/cases/0983-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3394012
+cites_cases: ["201 Ill. 47", "218 N.E.2d 775", "282 N.E.2d 452", "347 N.E.2d 242", "365 N.E.2d 1191", "38 Ill. App. 3d 42", "4 Ill. App. 3d 962", "50 Ill. App. 3d 1033", "66 N.E. 377", "71 Ill. App. 2d 424"]
+---
+
+# Cartwright v. Wexler, Wexler & Heller, Ltd.
+
+## Majority (Mr. JUSTICE LINN)
+
+Mr. JUSTICE LINN
+delivered the opinion of the court:
+This appeal arises from the refusal of the trial court to dismiss all of the counts of plaintiffs’ amended complaint alleging a cause of action against the defendants-appellants for abuse of process. We reverse in part since we find that all of the counts should be dismissed.
+Plaintiffs filed their amended complaint against defendants in three counts, each count alleging an abuse of process arising from a previous suit instituted against plaintiffs. Count I of the complaint alleged the following: Plaintiffs had executed an apartment lease with defendant Catalpa Properties. The term of the lease was one year, terminating May 31, 1975, with rent at *334 per month. A security deposit equal to one month’s rent was also required. Plaintiffs complied with the security deposit provision and made monthly rent payments until they vacated the apartment in November 1974.
+Upon plaintiffs’ failure to pay rent, Catalpa assigned the lease to defendant DiCom Corporation, who filed suit against plaintiffs on March 26, 1975. The complaint was verified by defendant Steward, as agent of DiCom. Steward is an employee of the defendant law firm of Wexler, Wexler & Heller. A default judgment was entered on April 25, 1975, for *l,485.30.The judgment was entered two days after the sheriff’s return of summons. DiCom then garnished plaintiffs’ bank accounts in the amount of *1,526.90. Meanwhile, on December 26, 1974, Catalpa had relet the apartment vacated by plaintiffs for *355 per month for a one-year term commencing January 1, 1975.
+The complaint further alleged that Wexler, Wexler & Heller owed a duty to properly advise DiCom, and having negligently failed to do so, brought suit for rent against plaintiffs. This was done even though they possessed knowledge of all relevant facts. Plaintiffs alleged that defendants joined together to further their monetary interests by wrongfully depriving plaintiffs of their money and reputation through an abuse of process and therefore sought compensatory and exemplary damages.
+Count II realleged the facts set forth in count I, but substituted an allegation that Wexler, Wexler & Heller had wilfully and wantonly failed to properly advise DiCom.
+Count HI alleged that the defendants conspired together to further their monetary interests by depriving plaintiffs of their money and reputation through an abuse of process. The acts which were alleged to be in furtherance of the conspiracy were as follows: That Catalpa assigned plaintiffs’ lease to DiCom, then relet the premises at a higher rental; that three months later, Wexler, Wexler & Heller, at a time when they knew or should have known that the premises had been relet through Steward, brought suit on behalf of DiCom against plaintiffs; that summons was never served on plaintiffs and that the sheriff’s return was violative of supreme court rules; that defendants obtained judgment, knowing that the judgment was void and contrary to law, and then garnished plaintiffs’ bank, causing plaintiffs a deprivation of money and reputation.
+Upon a motion to strike the complaint by defendants Steward and Wexler, Wexler & Heller, the trial court struck count II as to Steward and counts I and II as to Wexler, Wexler & Heller. Defendants bring this appeal, contending that all counts should have been dismissed as to them.*
+We note at the outset that the allegations of the existence of a conspiracy in count III of plaintiffs’ amended complaint do not, standing alone, constitute an allegation of an actionable wrong upon which liability for damages may be predicated. Rather, it is the wrongful act sought to be accomplished by the alleged conspiracy, in this case an abuse of process, which may result in liability. (Skolnick v. Nudelman (1966), 71 Ill. App. 2d 424, 218 N.E.2d 775.) Thus, our task will be to examine the complaint to determine whether sufficient facts are alleged to set forth the elements of an abuse of process.
+In order to properly plead a cause of action for abuse of process, the pleadings must allege (1) the existence of an ulterior purpose or motive; and (2) some act in the use of the legal process not proper in the regular prosecution of the proceedings. (Bonney v. King (1903), 201 Ill. 47, 66 N.E. 377; Holiday Magic, Inc. v. Scott (1972), 4 Ill. App. 3d 962, 282 N.E.2d 452.
+“The purpose of such an action is to accomplish some result which could not be accomplished through the suit itself. [Citations.] This must be something other than the successful completion of that particular lawsuit. [Citations.] The mere filing of a lawsuit, even with a malicious motive, does not constitute an abuse of process. [Citations.]” Kurek v. Cavanaugh, Scully, Sudow, White & Frederick (1977), 50 Ill. App. 3d 1033, 1038, 365 N.E.2d 1191, 1194.
+The test to be applied in determining the sufficiency of the allegations pertaining to the second element of the action is whether process has been used to accomplish some end which is beyond the purview of the process, or which compels the party against whom it is used to do some collateral thing which he could not legally and regularly be compelled to do. Ewert v. Wieboldt Stores, Inc. (1976), 38 Ill. App. 3d 42, 347 N.E.2d 242.
+In the present case, plaintiffs have not alleged facts which would indicate that defendants did anything more than institute a lawsuit and, after a default judgment was entered, obtain satisfaction of their judgment through the regular procedures for garnishment. The complaint fails to allege an act by defendants in the use of legal process which was not proper in the prosecution of their action.
+For the foregoing reasons, the order of the trial court striking and dismissing count II as to Steward and counts I and II as to Wexler, Wexler & Heller, is affirmed. That portion of the order allowing the remaining counts to stand against them is reversed and the remaining counts as to these defendants are likewise stricken and dismissed.
+Affirmed in part; reversed in part.
+DIERINGER, P. J., and JOHNSON, J., concur.
+At oral argument, plaintiffs-appellees informed this court that they had cross-appealed in this ease. An examination of the record does not disclose that a notice of appeal had been entered by plaintiffs. Furthermore, in its brief, plaintiffs merely designate themselves as “plaintiffs-appellees.” However, since plaintiffs arguments are addressed to the contention that the trial court erred in striking any counts of the complaint, a disposition of defendants’ appeal will serve to dispose of the issues raised by plaintiffs.
