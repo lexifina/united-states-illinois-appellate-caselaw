@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-10-17"
+citations: ["48 Ill. App. 305"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Graybeal et al. v. Gardner et al."]
+source_url: "https://static.case.law/ill-app/48/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5131689
+cites_cases: ["1 Nev. 405", "101 Ill. 411", "107 Ill. 210", "115 Ill. 623", "115 Ill. 630", "117 Ill. 213", "117 Ill. 322", "12 Brad. 531", "12 Kan. 539", "12 Pick. (Mass.) 496", "120 Ill. 166", "121 Ill. 385", "121 Ill. 566", "124 Ill. 136", "125 Ill. 262", "13 Brad. 653", "13 Mass. 218", "13 N. E. Rep. 145", "13 Tex. 168", "130 Ill. 146", "15 Neb. 330", "16 N. H. 139", "17 Ill. App. 250", "18 Ga. 40", "19 Ill. 77", "2 Sumn. 83", "20 Mo. 397", "21 Vt. 168", "23 Brad. 643", "23 La. 146", "23 Minn. 325", "24 Ill. 189", "27 Iowa, 494", "28 Ark. 155", "29 Penn. St. 398", "3 Wash. C. C. 385", "31 Ill. 485", "35 Ind. 496", "36 Miss. 121", "38 N. H. 108", "4 Wash. C. C. 262", "41 Wis. 312", "44 Iowa, 42", "45 Ill. 37", "45 Iowa, 546", "48 Ill. 55", "53 Miss. 368", "57 Iowa, 748", "6 Fed. Rep. 844", "61 Cal. 164", "70 Ill. 318", "70 N. C. 471", "72 Ill. 518", "79 Ill. 303", "8 Gratt. (Va.) 637", "80 Ill. 416", "82 Ill. 162", "86 Ill. 161", "88 Ill. 246", "90 Ill. 250"]
+---
+
+# Graybeal v. Gardner
+
+## Majority (Hon. Carroll C. Boggs, Judge.)
+
+Opinion of the Court, the
+Hon. Carroll C. Boggs, Judge.
+This was a bill in chancery filed by the appellants to contest the will of Harrison Putnam, deceased. Probate of the will had been refused by the County Court but was granted by the Circuit Court on appeal.
+The bill alleged that the appellants were grandchildren of the testator but not named as legatees or otherwise in the will, and charged that the deceased was not of sound mind or memory when the will was executed. The issue as to the mental capacity of the testator was made by the pleading and submitted to a jury, tried, and a verdict that the deceased was of sound and disposing mind, returned; a decree dismissing the bill followed, from which this appeal.
+The admission in evidence of the decree of the Circuit Court admitting the will to probate is assigned as for error; that the Circuit Court did so adjudicate is averred by the appellants in their bill. Without an averment of -the probate of the will the bill would have had no standing in court. The decree showing its probate did-not prove more than the appellants admitted to be true.
+We perceive nothing in the wording of the decree bearing upon the issue of fact submitted to the jury, and think its admission harmless, whether proper or not.
+The testimony as to the mental capacity of the deceased is voluminous, and of course conflicting. We are satisfied from an examination of the record that there is sufficient proof to support the finding of the jury. .
+It is complained that the instruction given for the appellees assumes that the testator signed the will. The bill alleges that the deceased executed the instrument claimed to be his will. That he signed it, w%s proven by the two attesting Avitnesses, Walker and Kriske, and that fact is in no wise disputed or questioned. The assumption of fact conceded by the pleading and established by proof, Avithout contradiction, can not be regarded as erroneous or hurtful.
+The jury were, we think, correctly instructed as to the mental capacity and soundness of mind requisite to the making of a valid will,- and also as to upon Avhom the burden of proof rested.
+The modification of instructions No. 4 and 5, asked by ■appellants, Avas proper, and the instruction that was refused ought not, we think, have been given. It is argumentative and suggestive, and contains nothing that ought to have been given that is not found, substantially, in other given instructions.
+One of the grounds upon which a new trial was asked, and which is urged as ground of reversal, is the alleged misconduct of íavo of the jurors. The misconduct charged is that two of the jurors, at times when court stood adjourned at the noon hour or over night, upon one or more of the several days during which the trial of' the case was in progress, drank spirituous liquors furnished by relatives of some of the appellees. It is not claimed that liquor was drunk by any juror in the court or jury room, or while deliberating upon a verdict, or that either juror was at any time intoxicated to any noticable extent, or oven to any extent.
+The suspected jurors denied, under oath, the charge against them, and many affidavits pro and con were presented and read to the court.
+It is manifest from the number of these affidavits that the court encouraged a thorough investigation and that the parties Avere diligent in searching for and producing affidavits. The unsatisfactory nature of proofs made by ex parte affidavits is universally recognized, and is well exemplified in the case by the second affidavit of XL L. Bocock, taken by the appellees, in Avhich he states that there are in his first affidavit, presented by the appellants, quite a number of errors and mistakes of facts, and recitals directly to the contrary of Avhat he intended to state.
+The presiding judge patiently heard and considered all that Avas presented, and arrived at the conclusion that the offense charged against the jurors was not proven.
+We have also carefully read these affidavits and are fully satisfied that neither of the jurors drank liquor in sufficient quantity or at such time during the progress of the trial as to at all affect the verdict. Such liquors as they did drink were drunk at times when the court stood adjourned upon one or more of the several days during which the trial was in progress, and not at a time the effect of the liquor could have been felt by the jurors when considering of the Aerdict.. There is no ground for a reasonable suspicion that the drinking clouded or in the least affected the mind of either of the jurors. The proofs as to who furnished the liquor, and whether the jurors knew from whence it came, was contradictory and by no means satisfactory. The trial judge held that the alleged misconduct was not proven.
+Upon a question of this kind we think the discretion of the trial judge is largely involved. His opportunities for arriving at a correct conclusion as to the acts and motives of the jurors and the parties are so much better than ours can be that we do not feel warranted in saying that he was wrong. We think it clear from the evidence that the will in question was the will and wish of the testator and that he was competent to make a valid will. And in short, that the decree is right upon the merits, and we find no error of law which seems to us to demand its reversal. It is affirmed.
