@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "12211"
+decided: "1974-03-07"
+citations: ["17 Ill. App. 3d 785"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellant, v. Orman Dorney, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/17/cases/0785-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2515993
+cites_cases: ["263 N.E.2d 7", "347 F.2d 697", "389 U.S. 347", "441 F.2d 749", "46 Ill.2d 311"]
+---
+
+# People v. Dorney
+
+## Majority (Mr. JUSTICE SIMKINS)
+
+Mr. JUSTICE SIMKINS
+delivered the opinion of the court:
+This is an appeal pursuant to Supreme Court Rule 604(a)(1) from an order of the Macon County circuit court suppressing evidence in an arson prosecution.
+On August 23, 1972, a mobile home, occúpied and being financed on contract by defendant, Orman Dorney, and his wife, was ravaged by fire forcing the Dorneys to seek alternative refuge. Although the damage to their home was extensive, certain salvagable items of personal; property remained in the gutted trailer, and. defendant returned to the trailer on at least one occasion to retrieve some of these items. However, when defendant returned on August 30, 1972; he found thatJ his former" domicile had been removed, and neither he nor his wife had anyknawl-: edge of its new location.
+The record indicates that a Mr. Turner, the local fire inspector, had authorized the removal of the mobile home to a different location),so he could more easily conduct his investigation' into the sóurce of' the’ fire. In the course of his investigative fervor, however, Turner-neglected' to ask the Dorneys for permission to remove their trailer*-and" failed to inform, them of the trailer’s new location. Nevertheless, on August' 30, Turner discovered in the Domey’s bedroom in the trailer a soldering) iron lying between two mattresses connected to an' extension cord plugged into the wall. Believing this to constitute evidence of arson, Turner notified the local police authorities who immediately dispatched two officers to the trailer. The officers observed the soldering iron and the extension cord and took pictures of the inside of the trailer. The same officers returned the next day and seized the soldering iron and other miscellaneous items. These searches and seizures by the police authorities on August 30 and 31, 1972, were made without the consent of either the defendant or his wife and without a search warrant.
+On August 31, 1972, the. defendant was arrested and subsequently indicted for the offense of arson in violation of Ill. Rev. Stat. 1971, ch. 38, sec. 20 — 1 “in that by means of fire, he knowingly damaged personal property having a value of $150 or more, of another, 9 * * without their consent, to-wit: a trailer # On December 14, 1972, the defendant filed a motion to suppress evidence pursuant to Ill. Rev. Stat. 1971, ch. 38, sec. 114 — 12, alleging that the police officers had wrongfully entered defendant’s mobile' home and searched and seized various items without a warrant in violation of defendant’s Fourth Amendment rights. After a hearing on the motion to suppress, the trial court found the search of defendant’s trailer and the seizure of various items therefrom to have been unreasonable and ordered any such evidence obtained therein suppressed.
+The position of the parties before this court may be quite simply stated. The State argues that defendant abandoned his trailer and thereby obviated the necessity on the part of the police authorities to secure a warrant before searching the trailer. The defendant argues that his conduct did not constitute an abandonment and he therefore had a reasonable expectation of privacy in the trailer which was compromised by the State when they searched the property and seized items therein without a warrant. The sole issue before this court on review, then, is whether the trial court’s finding of fact that defendant did not intend to abandon his trailer is clearly erroneous.
+It is well established that when the police act without a search warrant the burden shifts to the State to establish the reasonableness of the search and the legality of the officers’ actions. (United States v. Edwards, 441 F.2d 749.) Furthermore, the Fourth Amendment protects people, not places, and when property is abandoned by an individual, that property is no longer within the zone of protection offered by the Fourth Amendment and can be searched and seized without a warrant. Katz v. United States, 389 U.S. 347.
+Whether an abandonment has occurred is a question of fact requiring an examination of the intent and actions of the defendant by the trier of fact. (Friedman v. United States, 347 F.2d 697.) “An abandonment must be made to appear affirmatively by the party relying on it, and an intention to abandon must not ordinarily be presumed, and this is particularly true if the conduct of the owner can be explained consistent with a continued claim. Proof of abandonment must be made by the one asserting it by clear and unequivocal and decisive evidence.” (Friedman at 704.) Furthermore, the findings of fact made by the trial court may not be overturned on review unless they are clearly unreasonable or erroneous. People v. Holloman, 46 Ill.2d 311, 263 N.E.2d 7.
+On the record before this court we cannot say that the trial court’s finding of non-abandonment was clearly erroneous. Although the trailer was rendered uninhabitable by the fire, defendant returned on at least one occasion to pick up salvagable items of personal property. When the defendant returned a second time for similar reasons, the trailer had been removed by the authorities without his permission and without notice to defendant of its new location. These facts certainly do not warrant the inference that defendant intended to abandon his trailer. Furthermore, the State did not meet its burden of proving abandonment by anything remotely approaching the “clear and unequivocal and decisive evidence” required by the Friedman case in establishing the abandonment exception to the general rule mandating the obtaining of a judicial warrant before conducting a search.
+This rule requiring the obtaining of a search warrant is especially meaningful in the instant situation where 7 days elapsed between the fire and the warrantless searches and seizures.
+For the reasons herein stated the order of the circuit court suppressing evidence should be affirmed.
+Order affirmed.
+CRAVEN, P. J., and KUNCE, J., concur.
