@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-278"
+decided: "1980-04-15"
+citations: ["83 Ill. App. 3d 125"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WAYNE KEITH SPARLING, Plaintiff-Appellant, v. THE CITY OF LA SALLE et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/83/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5553558
+cites_cases: ["162 N.E. 99", "248 N.Y. 339", "256 N.E.2d 838", "301 N.E.2d 307", "308 N.E.2d 617", "357 N.E.2d 682", "43 Ill. App. 3d 878", "45 Ill. 2d 19", "54 Ill. 2d 539", "56 Ill. 2d 372"]
+---
+
+# Sparling v. City of La Salle
+
+## Majority (Mr. JUSTICE STENGEL)
+
+Mr. JUSTICE STENGEL
+delivered the opinion of the court:
+Plaintiff Wayne Keith Sparling and a companion were arrested without a warrant in the village of Ladd in Bureau County, Illinois, by two undercover police officers from the city of La Salle, Illinois. Both arrestees were charged with possession and delivery of cannabis as the result of a transaction which occurred in the officers’ presence, and both were taken first to the Ladd jail and then to the Bureau County jail.
+Plaintiff filed suit for damages in La Salle County alleging in count I that the city of La Salle falsely arrested him and subjected him to false imprisonment and in count II that the County of Bureau falsely arrested and imprisoned him. Upon motion of the county, count II was severed, and venue of that cause was transferred to Bureau County. Count II of plaintiff’s amended complaint alleged that, without plaintiff’s knowledge or participation, his companion delivered a package of cannabis to two police officers who they had met earlier that night in a tavern in La Salle County; that the two officers took delivery of the cannabis in Ladd and then drew their guns, searched plaintiff, handcuffed him and forced him to go to the Ladd police station; that plaintiff was transferred to the Bureau County jail where he was detained without a valid arrest warrant and without probable cause; that county employees and agents knew plaintiff was innocent but refused to release him; and that plaintiff suffered great injury.
+Defendant county filed a motion for summary judgment, setting forth as grounds, inter alia, that an intentional refusal to release a person from confinement does not constitute the tort of false imprisonment where, as here, there was no legal duty to release him. Defendant’s only duty, as defined by statute, was to receive and confine all persons committed to jail by any competent authority “until discharged by due course of law * * * .” (Ill. Rev. Stat. 1977, ch. 75, par. 4.) The trial court granted the county’s motion for summary judgment, and this appeal followed.
+Plaintiff argues that summary judgment was improper because there are disputed issues of fact which should be tried by a jury. However, defendant has not denied any of plaintiff’s allegations; therefore, all well-pleaded facts have been admitted, and summary judgment was appropriate. (Roth v. Roth (1970), 45 Ill. 2d 19,256 N.E.2d 838.) Plaintiff also complains that defendant failed to file any affidavits in support of its motion for summary judgment. However, since facts were not disputed, there was no need for defendant to file an affidavit. The Civil Practice Act expressly permits a motion for summary judgment to be filed without supporting affidavits. Ill. Rev. Stat. 1977, ch. 110, par. 57(2).
+The sole question presented by the motion for summary judgment was whether the complaint stated a cause of action for false imprisonment. The tort of false imprisonment consists of the unlawful restraint of an individual’s personal liberty against his will. (Karow v. Student Inns, Inc. (1976), 43 Ill. App. 3d 878, 357 N.E.2d 682.) While plaintiff argues that his restraint in the Bureau County jail was unlawful because defendant’s officers knew he was innocent of the crime charged, we conclude that this contention is without merit. Defendant took custody of plaintiff from a police officer for confinement pursuant to a criminal complaint. According to the law of Illinois, defendant was required to keep plaintiff confined in jail until released by court order. These circumstances do not amount to false imprisonment.
+Plaintiff cites section 107 — 6 of the Code of Criminal Procedure of 1963 (Ill. Rev. Stat. 1977, ch. 38, par. 107 — 6) as giving defendant the power to release plaintiff. Section 107 — 6 provides:
+“A peace officer who arrests a person without a warrant is authorized to release the person without requiring him to appear before a court when the officer is satisfied that there are no grounds for criminal complaint against the person arrested.”
+This section has no bearing here. First the statute grants authority to release a prisoner but does not impose a duty. Since tort liability requires the breach of a duty, this section cannot be the basis for a cause of action for false imprisonment.
+In Cunis v. Brennan (1974), 56 Ill. 2d 372, 374, 308 N.E.2d 617, the court said:
+“A complaint for negligence must set out: the existence of a duty owed by the defendant to the plaintiff, a breach of that duty and an injury proximately resulting from the breach. (Mieher v. Brown, 54 Ill. 2d 539, 541, 301 N.E.2d 307.) The character of the duty of the defendant which must be established was described in Prosser, Handbook of the Law of Torts (4th ed. 1971), section 53: ‘In other words, “duty” is a question of whether the defendant is under any obligation for the benefit of the particular plaintiff * * ° .’ This question, i.e., whether the defendant and the plaintiff stood in such a relationship to one another that the law imposed upon the defendant an obligation of reasonable conduct for the plaintiff’s benefit, is one of law for determination by the court. Mieher v. Brown, 54 Ill. 2d 539, 541, 301 N.E.2d 307; Palsgraf v. Long Island R.R. Co. (1928), 248 N.Y. 339,162 N.E. 99; see also Prosser (4th ed. 1971), sec. 52.” (Emphasis added)
+Second, the statute gives authority to release a prisoner to the officer who made a warrantiess arrest. The Bureau County jailers were not the arresting officers in the case at bar. Plaintiff does suggest that defendant’s officers falsely arrested plaintiff when they escorted him to the Ladd police station, detained him there and then placed him in the Bureau County sheriff’s car which transported him to the county jail. None of these facts were alleged in the complaint or otherwise appear in the record, and the amended complaint does not allege a false arrest by defendant. Consequently this argument is totally irrelevant to this appeal.
+Taken with this case is a motion by defendant to strike those parts of plaintiff’s brief which contain facts and issues not in the record and not raised in the trial court. We deny that motion and, in the exercise of our judicial discretion, we have elected to consider the merits of this appeal.
+We have concluded that the trial court did not err, and we affirm the judgment of the Circuit Court of Bureau County in favor of defendant.
+Affirmed.
+ALLOY and SCOTT, JJ., concur.
