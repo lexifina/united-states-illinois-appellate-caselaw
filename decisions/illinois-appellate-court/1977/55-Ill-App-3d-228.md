@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-296"
+decided: "1977-12-14"
+citations: ["55 Ill. App. 3d 228"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM B. WOOD, Local Liquor Commissioner of the City of Geneva, Plaintiff-Appellee, v. ILLINOIS LIQUOR CONTROL COMMISSION et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/55/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3405484
+cites_cases: ["370 N.E.2d 1", "38 Ill. App. 3d 565", "54 Ill. App. 3d 408"]
+---
+
+# Wood v. Illinois Liquor Control Commission
+
+## Majority (Mr. JUSTICE WOODWARD)
+
+Mr. JUSTICE WOODWARD
+delivered the opinion of the court:
+This is an appeal from a decision of a circuit court sitting in administrative review. Defendant Sills owned and operated the Geneva Liquor Store, Inc., and held a valid liquor license for its operation. When he learned he was to lose his lease, Sills contracted to pinchase another building in Geneva and applied for a transfer of the liquor license to the new location. The mayor, as local liquor control commissioner, denied the transfer. Defendant Sills appealed the denial to the Illinois Liquor Control Commission, hereinafter referred to as State Commission, which granted a hearing de novo.
+The evidence before the State Commission showed, inter alia, that the new location was zoned to allow the sale of liquor, but that a different city ordinance prohibited sale of liquor in this area because the ordinance deemed the area “residential” although it was zoned business; that in the same area four other establishments sell liquor, and that two of these were granted licenses by the present local commissioner; that prior to his application for transfer of license, Sills had signed a contract to purchase the new location, but the deal never closed; that prior to his application, Sills had entered into a four-month lease and option contract to buy the new location, but that at the time of application he neither owned the premises nor had a lease for the period of the proposed license.
+State Commission specifically found only that there was a license available, that the applicant was equally qualified with other applicants, and that the local commissioner should have allowed the transfer. The action of the local commissioner was therefore reversed. The local commissioner filed a complaint in the circuit court of Kane County for administrative review, and that court reversed the Commission, finding that the State Commission had no jurisdiction to hear the appeal, and in the alternative, that the State Commission’s order was against the manifest weight of the evidence.
+We must consider first whether the State Commission had jurisdiction to hear appeals from the granting or denial of transfers of local liquor licenses. Section 8 of article VII of the Dramshop Act (Ill. Rev. Stat. 1975, ch. 43, par. 153), grants the State Commission appellate jurisdiction over “any order or action of a local liquor commissioner granting or refusing to grant a license, revoking or suspending or refusing to revoke or suspend a license ” ° The local commissioner contends that because the statute fails to mention transfers of licenses, the State Commission had no jurisdiction to hear appeals in such cases. We disagree. Because a license to sell alcohol attaches both to the person licensed and the premises for which the license is issued (Alpern v. License Appeal Com. (1976), 38 Ill. App. 3d 565), a local liquor commission must consider the same factors in allowing a license to be transferred to a new premises as it did in initially granting the license. The actual effect is the granting of a new license since both the applicant and the new location must be approved. We hold, therefore, that a transfer of license falls within the meaning of granting or refusing to grant a license, and that the State Commission therefore had jurisdiction to hear the appeal.
+We consider next whether the decision of the State Commission was against the manifest weight of the evidence. The findings of an administrative agency on questions of fact are prima facie correct and are not to be disturbed on review unless they are against the manifest weight of the evidence. (Ulrey v. Department of Registration and Education (1977), 54 Ill. App. 3d 408, 370 N.E.2d 1.) For a judgment to be against the manifest weight of the evidence, it must appear that conclusions opposite to those reached by the trier of fact are clearly evident. (Ulrey v. Department of Registration and Education.) We note first that the existence of the city ordinance which prohibited sale of liquor in the area, and which we must presume to have been valid, was sufficient ground on which to deny transfer of the license. Further, no license of any kind issued by the State Commission or any local commission shall be issued to a person who does not beneficially own the premises for which a license is sought, or does not have a lease thereon for the full period for which the license is to be issued. (Ill. Rev. Stat. 1975, ch. 43, par. 120.) There is no question that defendant Sills did not own the new location when he applied for the transfer. He did later have an option to purchase and a four month lease, but this neither constitutes ownership nor a lease for a sufficient period of time for the license to issue. Because conclusions opposite to those reached by the trier of fact are clearly evident, we hold that the circuit court was correct in reversing the decision of the Illinois Liquor Control Commission as being against the manifest weight of the evidence.
+We accordingly affirm the decision of the circuit court.
+Affirmed.
+BOYLE and NASH, JJ., concur.
