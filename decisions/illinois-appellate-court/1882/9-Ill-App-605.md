@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1882-01-04"
+citations: ["9 Ill. App. 605"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Illinois Central Railroad Company v. Michael Frelka."]
+source_url: "https://static.case.law/ill-app/9/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2409253
+cites_cases: ["19 Ill. 499", "25 Mich. 277", "40 N. Y. 19", "43 Ill. 338", "44 Pa. St. 375", "46 Ill. 74", "47 Pa. St. 303", "55 Ill. 367", "58 Ill. 300", "63 Ill. 436", "70 Ill. 211", "71 Ill. 500", "72 Ill. 235", "72 Ill. 347", "75 Ill. 106", "83 Ill. 510", "86 Ill. 161", "86 Ill. 309", "86 Ill. 501", "87 Ill. 454", "87 Ill. 541", "88 Ill. 431", "89 Ill. 482", "91 Ill. 35"]
+---
+
+# Illinois Central Railroad v. Frelka
+
+## Majority (MoAlltsteb, J.)
+
+MoAlltsteb, J.
+The right-of-way and grounds of appellant, south of its Chicago depot, lie upon the west shore of Lake Michigan; so that they have never been used by people going back and forth, as might have been the case, had they been located differently, and more within the city. They were intersected by no public street or alley, or the tracks of any other railroad. So far as the evidence shows, they were not even practically open to any public or quasi public use for the people to travel thereon, as upon public .grounds. Nor was there any evidence of even an implied license on the part of appellant to appellee, to go upon such grounds for any purpose of business not connected with appellant’s railroad. And the evidence is that, at the time in question, appellee went upon said grounds and right-of-way of appellant for his own convenience, and a purpose of business connected solely with the Michigan Central Bailroad Company, another and distinct corporation. The evidence in this case was not applicable to, and did not tend to support either the second or third count of appellee’s declaration, but was applicable to, and tended to support the first count only; and that charged specific negligence, viz: the running the engine in question, without ring, ing a bell, or sounding a whistle, and without having any headlights thereon. By the appellee’s third instruction, asked by his counsel and given to the jury by the court, the jury were told, that if they believe from the evidence, that plaintiff, Frelka, was on the defendant’s railroad track, and that the engine driver by the use of ordinary skill and .'prudence, could have seen him, or, that he did see the plaintiff on said track, and that he might, without danger, by the use of ordinary care, have stopped the engine before striking the plaintiff, and did not, this would be negligence on the part of the defendant.
+This instruction was obnoxious to several fatal objections. By the first branch of it, the jury were told that a bare failure, without regard to circumstances, by the engine driver to use ordinary skill and prudence to discover whether plaintiff was on the track, was negligence, that is, negligence per sef and it was so irrespective of any hypothesis, as to whether plaintiff was there lawfully, or as a ttespasser and wrong-doer; or whether the engine driver had any reason or not to apprehend that any person would be likely to be upon the track at the time, and under the circumstances in question.
+If there were no reason to apprehend the presence on the track of the plaintiff or some other person, there could arise no legal duty requiring such engine driver to use precautions to discover such presence. Phil. & Reading R. R. Co. v. Hummel, 44 Pa. St. 375; Illinois Central R. R. Co. v. Godfrey, 71 Ill. 500, where the former case is cited with approval; Ill. Cent. R. R. Co. v. Hetherington, 83 Ill. 510.
+By the second branch of the instruction, the court told the jury that if the engine driver did see the plaintiff on the track, and that if he might without danger, by the use of ordinary care, hare stopped the engine before striking the plaintiff, and did not, that this also was negligence on the part of the defendant. This likewise was erroneous, for the lack of necessary hypotheses. If, from what the engine driver saw, he had good reason to believe that the plaintiff" could not or was not likely to get off the track in time, or to believe that he was not aware of his danger, and for that reason was making no effort to get off, or avoid the danger, then his failure .to use such care to stop his engine, and avoid striking plaintiff, if it was reasonably practicable to do so, might constitute negligence and be treated as the proximate cause of the injury. Lake Shore R. R. Co. v. Miller, 25 Mich. 277; Wharton on Neg. Sec. 389a, and cases in notes.
+But beyond these objections, the kind of negligence supposed by the instruction, is not embraced within that specified in the first count of the declaration, that being the only count which the evidence in the case tended to support.
+The court also erred in giving the fifth instruction on behalf of plaintiff below. By it the court left it to the jury to allow plaintiff, for expenses incurred in endeavoring to get cured. There was no evidence tending" to show he incurred any. It was therefore the submission to the jury of a question of fact, to prove which there was no evidence.
+For the errors indicated, the judgment of the court below will he reversed and the cause remanded.
+Reversed and remanded.
