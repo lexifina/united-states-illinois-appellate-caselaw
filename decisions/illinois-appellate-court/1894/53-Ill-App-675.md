@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-06-23"
+citations: ["53 Ill. App. 675"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John H. Kuhlenbeck v. George Hotz."]
+source_url: "https://static.case.law/ill-app/53/cases/0675-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 858598
+cites_cases: ["1 Scam. 298", "104 U. S. 543", "105 Ill. 285", "115 Mass. 507", "118 Ill. 334", "121 Ill. 359", "121 Ill. 366", "121 Ill. 564", "130 Ill. 583", "16 Ill. 435", "2 Scam. 36", "20 Ill. 93", "21 Ill. App. 181", "21 Ill. App. 228", "21 Ill. App. 230", "21 Ill. App. 334", "21 Ill. App. 335", "29 Ill. App. 471", "3 Scam. 417", "30 Ill. App. 617", "36 Ill. 472", "37 Ill. App. 382", "50 Ill. 383", "59 Miss. 80", "66 Ill. 538", "7 Wheat. 556", "75 Ill. 145", "84 Ill. 169", "89 Ill. 482", "92 Ill. 115", "96 Ill. 63", "98 U. S. 510"]
+---
+
+# Kuhlenbeck v. Hotz
+
+## Majority (Mr. Justice Scofield)
+
+Mr. Justice Scofield
+delivered the opinion of the Court.
+Fred C. Metz, while engaged in the dry goods business at Collinsville, became largely indebted to many creditors.
+The Hargadine and McEnttrick Dry Goods Company of St. Louis, Missouri, held a claim against Metz for $804.51, and was pressing him for the payment of this claim. Under these circumstances, Metz sold his stock of goods to appellant for $5,903.20, the amount of certain notes theretofore givén by Metz, and on which appellant, who was his father-in-law, was surety. As a consideration’ for the property so sold to him, appellant agreed to pay these notes within ninety days, and to cause the same to be canceled, and to release his son-in-law from all liability thereon. Within the time agreed upon, appellant paid all of these notes. After the sale of the property to appellant, the Hargadine and McKittrick Dry Goods Company obtained a judgment for their claim, and caused a part of the property which had been bought by appellant, as above stated, to be levied upon by Sheriff Hotz, the appellee, for the satisfaction of said judgment. Appellant replevied the property. Appellee pleaded non detinet, property in Metz, and property in himself as sheriff, by virtue of the levy. The two special pleas were traversed by appellant. Upon the trial of the case a verdict was returned and a judgment was rendered in favor of appellee.
+It was alleged by appellee at the trial that the sale to appellant was fraudulent as against creditors, and that the possession of the property was never transferred to appellant.
+It was claimed by appellant that the sale to him was a bona fide sale for the full value of the property and for the payment of an honest indebtedness; also that immediate and open possession of the property was taken by appellant, and due notice of the change of ownership given.
+There was evidence supporting the contention of each of the parties. In fact the conflict of the evidence was such as to require accuracy in the instructions to the jury. Among the instructions given at the request of appellee were the following:
+“ 2. If the jury believe from the evidence that the facts and circumstances surrounding and connected with the so-called sale of this stock of goods from Metz to Kuhlenbeck are such that they are not consistent with an honest purpose, then the sale is fraudulent in law.”
+“ 3. If the jury, in reviewing the questions as to whether the sale of the stock of goods by Metz to Kuhlenbeck is fraudulent as to creditors, should take into consideration all the facts and circumstances surrounding the transaction and give the same due weight, and if, after so doing, they believe that such facts and circumstances are not consistent with an honest purpose, then they should find said sale to be fraudulent as to creditors.”
+“ 6. The law is that a sale or conveyance of property made with the intent on the part of the vendor to delay, hinder or defraud a particular creditor of his debts, is void, as against all the creditors of the vendor, if the intent be known to or participated in by the vendee, although the sale is made for a good and valuable consideration.”
+Instructions Eo. 2 and 3 directed the jury to find that the sale was fraudulent, provided they believed that the facts and circumstances' surrounding the transaction were not consistent with an honest purpose. An honest purpose on whose part ? Is a sale fraudulent as against creditors, simply because there is fraud on the part of the vendor ? The phrase “ not consistent with an honest purpose,” would authorize the jury to find the sale to be fraudulent even though the vendee may have paid for the property all it was worth, and may have been entirely ignorant of any improper motive on the part of the vendor. Even if this verbiage could be approved as far as it goes, it should certainly have been made more specific by qualifying words showing that a participation on the part of the vendee in the vendor’s dishonest purpose was necessary in order that the sale might be condemned as fraudulent.
+The use of the word " so-called” in instruction Eo, 2 was improper as being calculated to advise the jury that the transaction was regarded with suspicion from the bench.
+Instruction Eo. 3 is open to the criticism that it did not require the jury to base their verdict upon the evidence admitted on the trial. The same criticism applies to instruction No. 7.
+Instruction Ho. 6 renders the sale void, although made for a good and valuable consideration, provided the vendor’s fraudulent intent was known to the vendee. The language is not “ known to and participated in,” but “ known to or participated in.” Let it be borne in mind that this was not a sale by one largely indebted to one who was not his creditor, but that it was a sale to pay debts which had been contracted in good faith, or what is practically the same thing, it was a sale to indemnify a surety who was responsible for the payment of the debts, and by the terms of the sale undertook to pay such obligations absolutely and as if they were his own. In such case mere knowledge of the vendor’s fraudulent purpose will not defeat the sale. To render the sale void the vendee must participate in the fraud in some manner. It is not enough that the stream takes its rise in a corrupt source; it must also flow into a corrupt receptacle. Myers v. Kinzie, 26 Illl. 36; Gridley v. Bingham, 51 Id. 153; Bowden v. Bowden, 75 Id. 143; Welsch et al. v. Werschem, 92 Id. 115; Wood v. Clark et al., 121 Id. 359.
+For the errors indicated, the judgment is reversed and the cause is remanded.
