@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "80-1480"
+decided: "1981-07-27"
+citations: ["98 Ill. App. 3d 543"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CAMPBELL, P. J., and GOLDBERG, J., concur."]
+parties: ["T. J. FOX et al., Plaintiffs-Appellants, v. INDUSTRIAL CASUALTY INSURANCE COMPANY, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/98/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8499649
+cites_cases: ["166 Ill. 400", "204 N.E.2d 310", "208 N.E.2d 29", "216 N.E.2d 113", "34 Ill. 2d 438", "360 N.E.2d 126", "371 N.E.2d 373", "375 N.E.2d 873", "376 N.E.2d 1073", "379 N.E.2d 1206", "393 N.E.2d 1171", "404 Ill. 136", "406 N.E.2d 105", "410 N.E.2d 525", "45 Ill. App. 3d 705", "45 N.E. 130", "55 Ill. App. 2d 277", "56 Ill. App. 3d 111", "58 Ill. App. 2d 341", "59 Ill. App. 3d 563", "60 Ill. App. 3d 469", "62 Ill. App. 3d 623", "75 Ill. App. 3d 57", "84 Ill. App. 3d 1003", "88 Ill. App. 3d 406", "88 N.E.2d 477"]
+---
+
+# Fox v. Industrial Casualty Insurance
+
+## Majority (Mr. JUSTICE McGLOON)
+
+Mr. JUSTICE McGLOON
+delivered the opinion of the court:
+Plaintiffs filed a class action complaint against Northwest Insurance Brokers, Inc., and Industrial Casualty Insurance Company alleging, inter alia, violations of the Consumer Fraud Act. The trial court dismissed count IV of the complaint directed at Industrial. Plaintiffs appeal from this dismissal and argue that count IV adequately alleged a principal-agent relationship between Industrial and Northwest.
+We reverse and remand.
+Due to the nature of this appeal, we need only summarize the pertinent allegations of counts I and IV of the complaint.
+In count I, plaintiffs alleged that Northwest Insurance Brokers, Inc., (Northwest), engaged in the sale of credit automobile insurance. When plaintiffs purchased the automobile insurance, Northwest sold and charged for accidental death policies which plaintiffs said they neither requested nor ordered. Northwest failed to advise plaintiffs of the additional cost of accidental death insurance.
+The automobile policies provided coverage for six months. The accidental death policies provided coverage for one year. When some plaintiffs renewed the automobile policies, Northwest, without plaintiffs’ knowledge or consent, renewed and charged for overlapping one-year accidental death policies.
+Plaintiffs charged that Northwest violated the Consumer Fraud Act by failing to advise plaintiffs of the following facts:
+(1) plaintiffs were purchasing accidental death policies at an additional cost;
+(2) plaintiffs could have obtained better and less expensive death and/or accident insurance;
+(3) the term of the accidental death policy was six months longer that the term of the automobile policy;
+(4) renewal of the automobile policy would result in an increased cost because of the addition of a second overlapping accidental death policy.
+Also alleged as Consumer Fraud Act violations were Northwest’s failure to refer to the accidental death policies in the wage assignment agreements and to disclose the cost of said insurance in the installment contracts. Plaintiff contended that the foregoing acts and omissions created a likelihood of confusion and misunderstanding.
+In count IV, plaintiffs realleged those facts in count I which are summarized above. They additionally alleged in their complaint that the accidental death policies were issued by Industrial; that Industrial authorized Northwest to act as its agent for the purpose of selling accidental death policies; that Industrial ratified the manner and form of the fraudulent sales; that Industrial had actual knowledge of the overlapping policies; and that Industrial owed a duty to plaintiffs pursuant to the Illinois Consumer Fraud Act and breached that duty.
+Northwest and Industrial moved for dismissal of the complaint on the grounds that it failed to state a cause of action. The trial court granted only Industrial’s motion and dismissed count IV of the complaint.
+Plaintiffs contend on appeal that the allegations contained in count IV stated a cause of action against Industrial on an agency theory of liability. Industrial counters this contention by stating that count IV is devoid of factual allegations of fraud on its part and therefore legally insufficient.
+The thrust of count IV is not fraudulent conduct by Industrial. Rather, it is as plaintiffs state, that Industrial, the issuer of several accidental policies and Northwest’s principal, is liable for the misleading acts of its agent for the reason that Industrial knew and approved of its agent’s actions. Hence, allegations of fraudulent or deceptive conduct are not essential.
+A motion to dismiss should be granted only if it is clear that no set of facts can be proved entitling plaintiffs to relief. (Powell v. Village of Mt. Zion (1980), 88 Ill. App. 3d 406, 410 N.E.2d 525; Rudnick v. Vokaty (1980), 84 Ill. App. 3d 1003, 406 N.E.2d 105.) In ruling on such a motion, allegations of the complaint and matters appended thereto must be taken as true. Huebner v. Hunter Packing Co. (1978), 59 Ill. App. 3d 563, 375 N.E.2d 873.
+Here, the complaint is factually sufficient. The allegations of knowledge, consent, authorization and ratification when considered with the documents appended to the complaint indicating that Industrial issued many of the accidental death policies are sufficient to state a cause of action against Industrial. As noted in Browder v. Hanley Dawson Cadillac Co. (1978), 62 Ill. App. 3d 623, 629, 379 N.E.2d 1206, 1211:
+“Although there is support for the proposition that an insurance broker is by definition an agent of the insured (Ross v. Thomas (1977), 45 Ill. App. 3d 705, 360 N.E.2d 126), whether a broker is an agent for the insured, the insurer or both is actually a question of fact. (Lumbermens Mutual Insurance Co. v. Bell (1896), 166 Ill. 400, 45 N.E. 130.) While a broker usually represents the insured (Budget Premium Co. v. Inter-Insurance Exchange (1965), 55 Ill. App. 2d 277, 204 N.E.2d 310), he may become the agent of the insurer or even of both parties. (City of Chicago v. Barnett (1949), 404 Ill. 136, 88 N.E.2d 477.) Accordingly, the court must closely examine the facts in each case to determine whether a seller of insurance is an agent or broker and to whom he may owe a duty. See, e.g., Budget Premium Co. v. Inter-Insurance Exchange Insurance Co. and Zak v. Fidelity-Phenix Co. (1965), 58 Ill. App. 2d 341, 208 N.E.2d 29, aff'd in part, rev'd in part on other grounds (1966), 34 Ill. 2d 438, 216 N.E.2d 113.”
+The court further held that the question of agency is not a question of law to be decided on the pleadings. We therefore believe that the issue of agency in this case, as well as Industrial’s liability, should have been decided after a hearing on the merits.
+Industrial argues that no private remedy exists for alleged wrongful conduct of an insurer outside the remedies specifically enumerated in the Insurance Code (Ill. Rev. Stat. 1979, ch. 73, par. 613 etseq.) regardless of whether the insurer’s conduct is violative of the Code itself or any other law of the State. As support for this proposition, it cites the following cases: Tobolt v. Allstate Insurance Co. (1979), 75 Ill. App. 3d 57, 393 N.E.2d 1171, Urfer v. Country Mutual Insurance Co. (1978), 60 Ill. App. 3d 469, 376 N.E.2d 1073, and Debolt v. Mutual of Omaha (1978), 56 Ill. App. 3d 111, 371 N.E.2d 373.
+However, these cases declared only that the remedies available to an insured in actions against an insurer for the latter’s refusal to pay a claim are limited to those enumerated in section 155 of the Insurance Code (Ill. Rev. Stat. 1979, ch. 73, par. 767). Section 155 deals with the insurer’s unreasonable and vexatious delay or refusal to pay claims. In Tobolt, the court reasoned that the legislature, by enacting this legislation, intended to limit remedies available to an insured in this particular area. But we do not read these cases to hold that an insured is limited to filing actions against insurers based only on violations of the Insurance Code, nor does a careful reading of the Code warrant this conclusion. As aptly noted in plaintiffs’ brief, Industrial’s interpretation of the Insurance Code would deprive consumers of a meaningful remedy in many instances.
+On the other hand, the Consumer Fraud Act is designed to protect consumers from unfair or deceptive acts and practices. (Ill. Rev. Stat. 1979, ch. 12112, par. 262.) The Act itself defines a consumer as “any person who purchases or contracts for the purchase of merchandise * 0 (Ill. Rev. Stat. 1979, ch. 12112, par. 261(e).) The Act defines merchandise as including “any objects, wares, goods, commodities, intangibles, real estate situated outside the state of Illinois, or services.” (Emphasis added.) (Ill. Rev. Stat. 1979, ch. 12112, par. 261(b).) The sale of insurance is clearly a service and insureds are thus consumers and within the protection of the Consumer Fraud Act. Private causes of actions are also authorized under the Act. Ill. Rev. Stat. 1979, ch. 12112, par. 270a.
+For the foregoing reasons we reverse the order of the circuit court of Cook County dismissing Industrial under count IV of the complaint, and remand the cause for further proceedings.
+Order reversed; cause remanded.
+CAMPBELL, P. J., and GOLDBERG, J., concur.
