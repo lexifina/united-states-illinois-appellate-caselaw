@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-01-22"
+citations: ["35 Ill. App. 300"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Maxwell and Henry B. Maxwell v. Henry Koeritz."]
+source_url: "https://static.case.law/ill-app/35/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5004340
+cites_cases: ["103 Ill. 321", "109 Ill. 188", "50 Ill. 561"]
+---
+
+# Maxwell v. Koeritz
+
+## Majority (Garnett, J.)
+
+Garnett, J.
+Appellee filed in the court below a petition to enforce a lien for the price of brick, which he furnished for a building of appellants situated in Chicago.
+The petition alleges that the building was on lots 25, 26, 27, 28 and 29 in sub-block one (1) of David B. Lee’s subdivision of block 15, in Johnson & Lee’s subdivision, and the decree awarded a lien for $1,154.25 in favor of appellee against the five lots.
+The evidence shows that the lots are each twenty-five feet front, making a total of 125 feet, and that the building is only 100 feet front. But whether the building is erected wholly on lots 25, 26, 27 and 28, or wholly upon lots 26, 27, 28 and 29, or upon part of each of lots 25 and 29 and all of the other three lots, is left wholly uncertain by the evidence. We can not guess that it is situated one way or the other, but as all the evidence is preserved in the record, it should appear affirmatively that the decree is against the right property and no other. Preston v. Hodgen, 50 Ill. 561; Carne v. Truman, 103 Ill. 321; Secrist v. Petty, 109 Ill. 188.
+The original contractor with appellants was one Hayes, and appellee made his contract with Hayes, thus becoming a subcontractor.
+Appellants contend that Sec. 4, Chap. 82, R. S., as amended by act approved Hay 31, 1887, and in force July 1, 1887, applies to subcontractors, and therefore appellee can not have a lien as he did not file with the clerk of the Circuit Court a statement or account of his demand. The section enacts that “every creditor or contractor who wishes to avail himself of the provisions of this act shall file with the clerk of the Circuit Court of the county in which the building, etc., to be charged with the lien, is situated, a just and true statement or account or demand due him, etc. Any person having filed a claim for a lien, as provided in this section, may bring a suit at once to enforce the same,” etc. The word “ creditor,” as used here, is somewhat ambiguous. It might be used to describe a subcontractor, or it might mean one who has agreed with the owner of the premises to furnish material only, without performing any labor on the improvement; one who sells building materials but does nothing else toward the erection of the improvement, is commonly regarded as a merchant or dealer, and not as a contractor.
+The first twenty-eight sections of Chap. 82, apart from some provisions therein regulating pleading and practice, relate to persons known as original contractors. Subcontractors are not mentioned before Sec. 29, and the word “ creditor ” is not used in the act after Sec. 28. But comparison of Sec. 4, as amended, with other sections of Chap. 82, makes it quite certain that“ creditor ” in Sec. 4, does not mean subcontractor.
+By Sec. 28 no creditor is allowed to enforce a lien to the prejudice of any other creditor, incumbrancer or purchaser^ unless a claim for a lien shall have been filed with the clerk of the Circuit Court, as provided in Sec. 4, within four months after the last payment shall have become due, and unless suit shall be commenced within two years after filing such claim the lien is to be vacated. Sec. 31 requires the subcontractor to give notice of bis lien within forty days from the completion of his contract or within forty days after payment should been made to him. By Sec. 37, if the money due the subcontractor shall not be paid within ten days after such notice is given or within ten days after the money shall have become due, and any money shall then be due from the owner to the original contractor, the subcontractor may file his petition and enforce his lien. And by Sec. 47, no petition shall be filed or suit commenced to enforce the lien created by Sec. 29 unless the same is commenced within three months from the time of the performance of the subcontract; but any delay in commencing suit, caused in consequence of the amount not being due the original contractor, shall not be reckoned.
+To simplify the matter we will suppose that the improvement is finished at the same time that the subcontractor completes his part of the work, and that the contract price for the wholé work then becomes due to the original contractor, and the contract price for his part of the work becomes due at the same time to the subcontractor. How can the latter proceed so as to protect his lien? If Sec. 4 applies to subcontractors he might at once file with the circuit clerk his account and immediately thereafter begin suit. But the express provisions of Secs. 30, 31 and 37 require him, first, to give notice of his lien and then to wait ten days before bringing suit. Then by Sec. 28 a “creditor” is given four months' after the last payment becomes due to him within which he may file his account with the clerk of the Circuit Court and two years thereafter for bringing his suit, while Sec. 47 provides that no suit shall he commenced to enforce a subcontractor’s lien unless it is filed within three months after the performance thereof. What, is required of a subcontractor by Sec. 47 is manifestly incompatible with the privileges given to a “creditor” by Sec. 4.
+We think, therefore, that there is no difficulty in saying that the word “ creditor ” in that section does not mean subcontractor. Ho error is found in the record other than that pointed out.
+The decree is reversed and the cause remanded for further proceedings in conformity with this opinion.
+Reversed and remanded.
