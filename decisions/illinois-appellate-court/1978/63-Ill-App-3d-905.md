@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-1626"
+decided: "1978-08-18"
+citations: ["63 Ill. App. 3d 905"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. FRANKIE L. BOLHAR et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/63/cases/0905-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3338459
+cites_cases: ["132 Ill. App. 2d 697", "270 N.E.2d 461", "295 N.E.2d 1", "32 Ill. App. 3d 255", "335 N.E.2d 437", "336 N.E.2d 190", "344 N.E.2d 456", "356 N.E.2d 537", "365 N.E.2d 337", "53 Ill. 2d 572", "61 Ill. 2d 335", "63 Ill. 2d 23", "64 Ill. 2d 473", "64 Ill. 2d 598", "67 Ill. 2d 107"]
+---
+
+# People v. Bolhar
+
+## Majority (Mr. JUSTICE MEJDA)
+
+Mr. JUSTICE MEJDA
+delivered the opinion of the court:
+Defendants, Frankie L. Bolhar and Michael Smith, were charged by information with the robbery of Charles D. Woods. (Ill. Rev. Stat. 1975, ch. 38, par. 18 — 1.) After a jury trial, they were found guilty as charged and each defendant was sentenced to a term of 2 to 6 years in the penitentiary.
+Defendants present two issues for review: (1) whether the information was defective in that it contained no allegation of specific intent to deprive the victim of his property; and (2) whether reversible error was committed because the trial court did not instruct the jury that intent to deprive the victim permanently of his property is a necessary element of the crime. The pertinent facts follow.
+On September 19,1976, at about 12:30 a.m., defendants hailed a taxicab on Rush Street which was driven by Woods. They stated that they wanted to go to 1159 North Larrabee. Woods drove west on Division Street and stopped near Larrabee. He then told defendants that he would not drive into “the project” which was known as Cabrini Green.
+Woods testified. When the cab stopped, defendant Smith said “we might as well do it here.” He grabbed Woods around the neck and demanded “Where is the f_money?” Smith then removed about *42 from Woods’ shirt pocket and ordered Woods to drive into a parking lot and extinguish the car lights. Smith threatened to kill Woods if he did not reveal where the rest of the money could be found. Defendant Bolhar searched Woods’ jacket which was on the front seat and removed *3.28 in change. He also searched Woods’ wallet which was empty. After being in the parking lot three or four minutes, a police car pulled in back of the cab. Woods heard Bolhar state “We’re busted” and felt his neck released. Bolhar threw the change on the front seat. Smith attempted to stuff money into his sock. Defendants had not paid the fare or given Woods any money.
+Police Officer Obas testified that when he stopped directly behind the cab, Woods jumped out and said the defendants had robbed him. He observed Smith in the cab putting money into a sock and Bolhar in the front seat. The officer arrested defendants and recovered *37 from Smith’s sock and *8 from his pocket. He observed a jacket and change on the front seat.
+Both defendants testified and denied committing the offense. According to their testimony, they had eaten at a restaurant on Rush Street and hailed a cab to go home. When the driver told them he would not go to their destination, Bolhar told Smith not to pay the fare. The driver then stopped at the parking lot and got out of the cab. Subsequently, the police arrested them and recovered the money Smith was about to put back in his sock and the money he had in his jacket.
+Opinion
+Defendants’ first contention is that the information charging them with robbery was fatally defective in that it contained no allegation of specific intent to deprive the victim of his property. The State argues that the information sufficiently charged the offense of robbery where the defendants were not prejudiced in the preparation of their defense and are not vulnerable to double jeopardy.
+The information charged that defendants committed the offense of robbery “in that they, by the use of force and by threatening Charles D. Woods with the imminent use of force took a wallet and an amount of United States currency from the person and presence of Charles D. Woods, in violation of Chapter 38, Section 18 — 1 Illinois Revised Statutes
+e * # ”
+In the recent case of People v. White (1977), 67 Ill. 2d 107, 365 N.E.2d 337, which was decided after defendants’ trial, the supreme court held that the intent to deprive the person from whom the property is taken permanently of its use or benefit is an element of the crime of robbery. The court found that at the time of the enactment of the Criminal Code of 1961, intent was an element of the crime of robbery. It further concluded that the General Assembly upon enactment of section 18 — 1 of the Criminal Code of 1961 intended no change in the existing law.
+Defendants did not file a pretrial motion to dismiss the charge (Ill. Rev. Stat. 1977, ch. 38, par. 114 — 1) or a motion in arrest of judgment (Ill. Rev. Stat. 1977, ch. 38, par. 116 — 2). It is well settled that when an information is challenged for the first time on appeal, it is sufficient if it apprises the accused of the precise offense charged with sufficient specificity to prepare his defense and allow the pleading of a resulting conviction as a bar to future prosecution arising out of the same conduct. People v. Rege (1976), 64 Ill. 2d 473, 356 N.E.2d 537; People v. Gilmore (1976), 63 Ill. 2d 23, 344 N.E.2d 456; People v. Pujoue (1975), 61 Ill. 2d 335, 335 N.E.2d 437.
+The defendants argue that the information should be judged on whether or not a pretrial motion to dismiss would have been granted and not by the standards set out in Pujoue for reviewing an information challenged for the first time on appeal. They maintain that because robbery was not previously considered a crime of intent, that, therefore, defendants should not be penalized for failing to challenge the information at their trial which antedated the White decision. We find this argument without merit. Although opinions of this court before White held that intent was not an element of robbery (e.g., People v. Berlin (1971), 132 Ill. App. 2d 697, 270 N.E.2d 461), we do not think that this serves to render appropriate objections at trial unnecessary.
+Judging by the standard enunciated in Rege, Gilmore and Pujoue, we find that the information was sufficient. Defendants do not suggest in what manner their defense was prejudiced by the failure of the information to charge the mens rea of the crime of robbery. The defense presented by defendants at trial was that they did not perform the acts necessary to convict them of robbery. Their mental state was not made an issue. It is apparent that the failure to allege intent did not prejudice their defense. People v. Pujoue.
+We are also convinced that the convictions could be pleaded in bar of another prosecution. The information alleged the date of the offense and the victim’s name. Resort to the record would further show the time of the offense, place and the proceeds. See People v. Gilmore.
+Defendants’ second contention is that the trial court committed reversible error in failing to instruct the jury that intent was an element of robbery. The State argues that the failure to so instruct was harmless error. It is to be noted that defendants did not object to the instructions tendered by the State which omitted intent as an element of robbery and additionally they did not request an instruction on intent.
+It has been held that when the defendant’s intent is proved beyond a reasonable doubt, failure to instruct the jury on this issue is harmless. (People v. Chupich (1973), 53 Ill. 2d 572, 295 N.E.2d 1; People v. Litterio (1975), 32 Ill. App. 3d 255, 336 N.E.2d 190.) In the instant case, the State’s evidence makes it clear that the defendants took Woods’ money with the intent to permanently deprive him of it. We find no reversible error in the failure of the trial court to instruct the jury on this element.
+For the reasons stated, the judgment of the circuit court of Cook County is affirmed.
+Affirmed.
+SULLIVAN, P. J., and LORENZ, J., concur.
+We note that the Illinois Supreme Court granted leave to appeal in People v. White during its November 1976 term (64 Ill. 2d 598). Defendants’ trial occurred in the latter part of December 1976.
