@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "73-443"
+decided: "1975-10-27"
+citations: ["32 Ill. App. 3d 886"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Estate of Marie Truman, Deceased.—(Philip V. Scanlon, Ex’r of the Estate of Marie Truman, Deceased, Petitioner-Appellee, v. Josephine Gentz, Respondent-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/32/cases/0886-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2797182
+cites_cases: ["109 Ill.App.2d 283", "12 Ill.2d 616", "126 Ill. 58", "130 Ill.App.2d 755", "24 Ill.2d 288", "251 Ill. 603", "27 Ill.2d 221", "315 Ill. 385", "40 Ill.2d 492", "8 Ill.2d 24"]
+---
+
+# Scanlon v. Gentz
+
+## Majority (Mr. JUSTICE THOMAS J. MORAN)
+
+Mr. JUSTICE THOMAS J. MORAN
+delivered the opinión of the court:
+Defendant, Josephine Gentz, was ordered to convey her interest as joint tenant in certain real property to the estate of her sister, Marie Truman.
+Marie Truman died in September 1972, leaving a will dated December 30, 1971, which named her brother, Philip V. Scanlon, executor of her estate, made certain bequests, and left the residue of the estate equally to Scanlon, decedent’s three sisters (including defendant), and a niece. Prior to decedent’s death, her attorney, on July 27, 1972, prepared two quitclaim deeds, one to decedent’s home in Freeport, and one to a cottage in Wisconsin. The property was deeded to Scanlon and defendant as joint tenants. On April 10, 1973, Scanlon, as executor, filed a petition seeking to have the court declare that the two parcels of property were the corpus of a resulting trust, and that he and defendant were holding the property as trustees. At the hearing on the petition, the attorney who had prepared decedent’s quitclaim deeds (and who represented the executor in the instant action as well as in the probate proceeding) testified, over defendant’s objection, that decedent intended the properties to be held in trust by Scanlon and defendant for the residuary beneficiaries of her will. According to defendant’s testimony, it was decedent’s desire that she [defendant] and Scanlon hold unconditional title to the parcels because of her enjoyment of the Wisconsin property. The court found that Scanlon and defendant took title to the property only as trustees of a resulting trust.
+On appeal, defendant contends that the court did not have jurisdiction to determine title to property located in Wisconsin, that where the terms of the deed were unambiguous the court could not use parol evidence to declare a resulting trust on properties deeded to her, and that by virtue of the Dead Man’s Act the attorney was incompetent to testify as to decedent’s intent in deeding the properties.
+Without merit is defendant’s argument that the court did not have jurisdiction to determine title to property located outside of Illinois. Compelling a conveyance of property by a resulting trustee is an action in equity. The relief sought may be effected by acting directly on the trustee when she is found within the jurisdiction of the court, irrespective of the location of the subject matter of the controversy. In the instant case, the court had in personam jurisdiction of defendant and thereby had authority to compel her to reconvey the property to the estate. Bevans v. Murray, 251 Ill. 603, 623-26 (1911); In re Estate of Hansen, 109 Ill.App.2d 283, 291-92 (1969).
+Defendant next contends that parol evidence was inadmissible to engraft a resulting trust upon the properties deeded to defendant and the executor, when such testimony contradicted provisions of the deeds. This position stems from two premises: that the intention of the grantor must be gathered from the language of the deed and not from any unexpressed purpose which the grantor may have had, and that a valid trust is created only where the subject real estate, beneficiaries, nature and extent of the beneficiaries’ interest, and the manner of administering the estate are clearly described. Although these statements of law are accurate, they are not applicable to a case involving a resulting trust. A resulting, trust is created by operation of law and arises out of a presumed intention of the parties as evidenced by their acts and conduct. (Suwalski v. Suwalski, 40 Ill.2d 492, 495 (1968); Tilley v. Shippee, 12 Ill.2d 616, 622 (1958).) Parol evidence may be used to determine the intent of the trustor, and the trust need not be in writing. (Ill. Rev. Stat. 1971, ch. 59, § 9; Reynolds v. Sumner, 126 Ill. 58, 70 (1888).) Because a resulting trust does not depend on a document but rather upon the presumed intention arising out of the acts of the parties, a court must admit parol evidence to determine the parties intent, although such evidence may be contrary to absolute and unambiguous provisions in a deed. (Prassa v. Corcoran, 24 Ill.2d 288, 291-92 (1962); also see Warner v. Gosnell, 8 Ill.2d 24, 30 (1956), where the rulé seems settled that parol evidence is permitted to establish intent even though the deed was absolute in its form.) We hold that the court properly admitted parol evidence to determine the intent of the decedent at the time of the conveyance.
+Relying upon what is commonly referred to as the Dead Man’s Act (Ill. Rev. Stat. 1971, ch. 51, §2), defendant maintains that because die attorney for the executor in die present suit also drew the deeds for decedent, he was incompetent to testify to decedent’s intent at the time of execution of the deeds. The interest which renders a witness incompetent must be such that pecuniary gain or loss will come to the witness as the immediate result of the decree. (Britt v. Darnell, 315 Ill. 385, 392 (1925); In re Estate of Fordyce, 130 Ill.App.2d 755, 756-57 (1971).)
+“The interest sought to be shown here falls short of such a standard. The fact that as a result * * * [of his testimony] his chances might be better of enjoying continued employment * * * shows at best only a remote and indirect interest.” In re Estate of Wolfner, 27 Ill.2d 221, 224 (1963).
+For these reasons the judgment is affirmed.
+Judgment affirmed.
+RECHENMACHER, P. J., and DIXON, J., concur.
