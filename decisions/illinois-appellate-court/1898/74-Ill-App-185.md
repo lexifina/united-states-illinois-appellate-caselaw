@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-02-28"
+citations: ["74 Ill. App. 185"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commissioners of Highways of the Town of Elmira v. Commissioners of Highways of the Town of Osceola."]
+source_url: "https://static.case.law/ill-app/74/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5236453
+---
+
+# Commissioners of Highways v. Commissioners of Highways
+
+## Majority (Mr. Presiding Justice Crabtree)
+
+Mr. Presiding Justice Crabtree
+delivered the opinion of the Court.
+This was an action of mandamus. On August 24, 1897, appellants filed their petition for a writ of mandamus against appellees, to compel them as commissioners of highways of the town of Osceola, in said Stark county, to meet with appellants as commissioners of highways of the town of Elmira, in said county, for the purpose of allotting to each of said towns a portion of the road described in the petition, which is alleged to be a public highway, and which extends for a distance of one mile on the line between the two towns of which appellants and appellees were, respectively, the highway commissioners. The petition alleges the laying out of the road by the joint action of the commissioners of the two towns, on April 13,1880, setting out the proceedings and the final order of the commissioners bearing the date last mentioned, the payment or release of all damages, and the opening of the road, and averring that it has ever since been used and traveled as a public highway, and that the commissioners of both towns have recognized it as such and repaired the same and kept it in condition for public travel. It is further alleged that no allotment of said road between the two towns has ever been made as required by t law; that the petitioners have frequently requested appellees to meet with them and allot the road according to law, but that they have always refused so to do. The petition sets out proper notices to appellees to meet and allot the road, and the refusal of the latter to do so.
+The petition further alleges that said road is one of the main lines of public travel, is badly out of repair, and that it is necessary that a portion thereof be allotted to each town, that each may repair the part so allotted to it, “ or be responsible for damages for its non-repair.”
+There was a demurrer to the petition, which was sustained, and appellants prosecute an appeal to this court.
+The contention of appellees is, that the highway was never legally laid out, and that this fact appears upon the face of the petition. But whether this be so or not, it appears, by the petition, that the road was opened by the joint action of the commissioners of highways of the two towns more than seventeen years ago, after a payment of damages to the land owners, or a release obtained from them therefor, and that the road has ever since been traveled by the public as a highway and recognized as such by the highway authorities of both towns. We do not feel called upon to decide whether or not the road was legally laid out originally, because, upon the other facts alleged in the petition, admitted by the demurrer, we are of the opinion it is now a legal highway by prescription and user.
+Section 1 of the road and bridge law provides: “ That all roads * * * which have been established by dedication, or used by the public as a highway for fifteen (15) years, * * * are hereby declared to be public highways.” 3 Starr & Curtis, 1085.
+This statute makes the road in question a legal highway, and upon the facts we do not think the commissioners of highways of the town of Osceola should be permitted to raise the question as to its legality. It is their duty rather to maintain the highway for the use of the public than to overturn it. They, or their predecessors, united in laying out this road, and it is not for them to say it was never legally laid out. Hence, their contention that the law for the allotment of roads only applies to such as are regularly laid out with all the formalities required by law, ought not to avail them, even if the position itself is tenable. But we are not disposed to take so narrow a view of the law, or the duty of appellees. Here is'a road upon a town line, which, we have seen, is a public highway. The necessity for its allotment is just as great as though all the formalities for laying it out according to the statute had been fully complied with. It must be kept in repair, and each town has a right to know what portion of it must be maintained by such town. We think it is the duty of appellees to meet with appellants and allot the road as provided by the-statute. It is argued by counsel for appellees that the court can not, by mandamus, compel them to act contrary to their judgment and discretion, the intimation seeming to be that if the commissioners should meet they would not agree. As to that question we have now nothing to say. We hold it to be their duty to meet and make an honest effort to agree upon an allotment. What the remedy may be if they should meet, and fail or refuse to agree, we are not now called upon to determine. What we hold now is that the demurrer to the petition should have been overruled.
+We think the point made as to the statute of limitations having run so as to be a bar to this proceeding is not well taken.
+The judgment will be reversed and the cause remanded, with directions to overrule the demurrer to the petition.
+Reversed and remanded with directions.
