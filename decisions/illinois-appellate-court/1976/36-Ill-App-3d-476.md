@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-147"
+decided: "1976-03-15"
+citations: ["36 Ill. App. 3d 476"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. JOHN R. KELLY, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/36/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2633875
+cites_cases: ["1 Ill. App. 3d 1096", "12 Ill. 2d 462", "13 Ill. App. 3d 974", "147 N.E.2d 49", "21 Ill. App. 3d 839", "238 N.E.2d 196", "275 N.E.2d 771", "30 Ill. App. 3d 176", "301 N.E.2d 319", "31 Ill. App. 3d 990", "316 N.E.2d 14", "33 N.E.2d 872", "332 N.E.2d 173", "334 N.E.2d 366", "376 Ill. 364", "95 Ill. App. 2d 193"]
+---
+
+# People v. Kelly
+
+## Majority (Mr. PRESIDING JUSTICE ALLOY)
+
+Mr. PRESIDING JUSTICE ALLOY
+delivered the opinion of the court:
+Defendant John R. Kelly appeals from a judgment and sentence of the Circuit Court of Kankakee County by the terms of which he was found guilty of robbery following a guilty plea and thereafter was sentenced to a term of from 2 to 6 years in the penitentiary. Defendant contends on this appeal that the trial court improperly considered, for sentencing purposes, evidence of prior arrests which had been nolle pressed as a result of plea negotiations.
+From the record it appears that John R. Kelly was indicted on December 18, 1974, by a Kankakee County grand jury for the offense of robbery. He initially pleaded not guilty, but as a result of plea negotiations, on February 18, 1975, moved to withdraw the plea of not guilty and to enter a plea of guilty. In exchange for defendant’s plea of guilty to the robbery charge, the State agreed to nolle prosse a separate unrelated felony charge of aggravated battery and two misdemeanor charges, one on an unrelated battery and the other an aggravated assault relating to defendant’s resistance of police officers following his arrest. There was no agreement as to a recommended sentence. Defendant’s counsel, however, stated he would asl< for a sentence of probation or periodic imprisonment.
+After proper admonition by the court in accordance with Supreme Court Rule 402, the trial court accepted defendant’s plea and entered judgment thereon. A sentencing hearing was held on March 4, 1975. The State presented two witnesses. Irvin Hodges testified over defendant’s objection that defendant shot him after an argument in a local tavern. The charge resulting from that incident was one of the charges which was to be nolle pressed as part of the plea agreement. Police Officer Charles Nolte also testified that defendant had assaulted him after he arrested defendant on the charge pending in this case. That alleged assault was the basis for another of the charges which was to be nolle pressed as a result of the plea agreement. Defendant took the stand in the sentencing hearing and denied that he shot Hodges and claimed that the incident with Officer Nolte resulted from his attempts to defend himself from police brutality. At the conclusion of the hearing, the trial court sentenced defendant to a term of imprisonment of not less than 2 nor more than 6 years. On appeal in this court, defendant contends that the trial court erred in considering the evidence from Hodges and Officer Nolte as to the charges which were nolle pressed since such evidence concerned arrests which did not result in convictions.
+The rule is well established that prior arrests not followed by convictions are not ordinarily admissible during a hearing in aggravation and mitigation. (People v. Gaines, 21 Ill. App. 3d 839, 316 N.E.2d 14; People v. Jackson, 95 Ill. App. 2d 193, 238 N.E.2d 196; People v. Riley, 376 Ill. 364, 33 N.E.2d 872.) A distinction is made, however, between actual sentencing and probation. In the case before us, defendant indicated at the time he entered his plea of guilty that probation would be requested. In considering a request for probation, it is proper for the court to consider all matters in the record, including the incidents involving prior arrests, even though not resulting in convictions. (People v. Young, 30 Ill. App. 3d 176, 332 N.E.2d 173; People v. Taylor, 13 Ill. App. 3d 974, 301 N.E.2d 319.) In granting probation, the trial court assumes a responsibility to the public as well as the defendant, and the court is entitled to as broad a base of relevant information as is possible in making the decision of whether or not to grant probation. (People v. Pope, 31 Ill. App. 3d 990, 334 N.E.2d 366.) It was, therefore, permissible, for the trial court to hear and consider testimony of Hodges and Officer Nolte on the question of whether or not probation should be granted.
+The evidence is not, however, properly considered in determining the sentence to be imposed. It is assumed that the trial judge disregards all evidence except that which is competent and relevant to the determination being made, in absence of any indication to the contrary. (People v. Grabowski, 12 Ill. 2d 462, 147 N.E.2d 49; People v. Sawyer, 1 Ill. App. 3d 1096, 275 N.E.2d 771.) It appears from the record that the trial court heard the testimony of Hodges and Officer Nolte for the purpose of determining whether probation should be granted, and when it became time to make a determination as to the sentence to be imposed, it is assumed, in absence of any evidence to the contrary, that the trial judge considered only evidence with respect to the particular crime to which the guilty plea was entered. We find no reversible error in this cause on the basis of the record.
+The judgment and sentence of the Circuit Court of Kankakee County is, accordingly, affirmed.
+Affirmed.
+STENGEL and BARRY, JJ., concur.
