@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1880-06-29"
+citations: ["6 Ill. App. 466"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Selz, Schwab & Co. v. E. T. Evans; M. D. Worrall. v. John H. Stewart."]
+source_url: "https://static.case.law/ill-app/6/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4750511
+cites_cases: ["14 Wis. 528", "15 N. Y. 131", "16 N. Y. 484", "20 Ill. 448", "22 Ill. 46", "22 Ill. 661", "26 Ill. 36", "28 Ill. 495", "29 Ill. 11", "29 Ill. 444", "3 N. H. 475", "35 Ill. 222", "39 Ill. 264", "4 N. H. 176", "42 N. H. 510", "421 N. H. 510", "5 Cow. 548", "50 Ga., 214", "50 Ill. 444", "51 Ill. 153", "6 Hill, 438", "6 Hill. 438", "6 Wall. 78", "60 Ill. 93", "63 Ill. 61", "66 N. Y. 382", "75 Ill. 143", "8 Barb. 124", "8 Kan. 574", "80 Ill. 553", "81 Ill. 310", "86 Ill. 225", "86 Ill. 229", "91 Ill. 148", "93 Ill. 587"]
+---
+
+# Selz, Schwab & Co. v. Evans
+
+## Majority (McCulloch, P. J.)
+
+McCulloch, P. J.
+These two cases were tried by the court below upon the same evidence, andaré now submitted to this court upon the same briefs and arguments. Selz, Schwab & Co. sued out an attachment, against E. T. Evans, alleging as the grounds thereof, that Evans had within two years fraudulently conveyed or assigned his effects, or part thereof, so as to hinder and delay his creditors, and that within two , years he had fraudulently concealed or disposed of his property for a like purpose. The denial of Evans of the facts so alleged, raised the issue tried by the court in the first case.
+The attachment writ was placed in the hands of Worrall, as an officer of the law, who levied it upon a stock of goods, claimed by Stewart, who thereupon sued out a wri t of replevin and regained possession of the same. Stewart claimed to have purchased 'these goods from Evans, which purchase was alleged on the part of Selz, Schwab & Co. to have been fraudulent as to them, they being creditors of Evans" at the time of the alleged sale. This was the issue tried by the court in the second case.
+Stewart was the uncle of Evans, and some time before the transaction in question had loaned him money with which to begin business. It does not appear from the evidence, that Evans had any other property than the stock of goods in question, and no attempt seems to have been made to show that he had any other. After continuing in business for a short time, Evans informed Stewart that he was not succeeding very well in business, whereupon a transfer of the stock of goods in question was made from Evans to Stewart, by means of an instrument in writing of the following tenor:
+“ Whereas, heretofore, July 1, 1877,1 executed and delivered to J. H. Stewart, my note for the sum of two thousand dollars, with interest at nine per cent per annum, interest payable semi-annually, and default has been made in the payment of said interest, whereby both interest and principal became due, and I am unable to pay the same; I hereby sell and convey to J. H. Stewart, my stock of boots and shoes, fixtures and property in my store, at Gibson City, Ford county, Ill., and agree to deliver full possession thereof on demand, to said Stewart, his agent or attorney, and to deliver the invoices thereof, lately made, or permit new ones to be made at the time of delivery; and the said J. H. Stewart, on his part hereby agrees that should he realize more out of the sale of said stock of goods than the amount of said note and interest up to this date, and his expenses in disposing of said property, to repay the surplus, if any, to E. T. Evans, when all the said property has been sold and expenses ascertained in full; the said note to be surrendered and canceled when the said stock of goods and property shall be delivered.
+“ January 9, 1880. “ E. T. Evans.
+“ J. H. Stewart.”
+This instrument recites an indebtedness which had become due by reason of the inability of Evans to pay the interest thereon, and that he was unable to pay the same, thereby confessing his insolvency upon the face of the paper; it then recites a sale to Stewart of the stock of goods, fixtures and property in his store, and agrees, on demand, to deliver possession thereof, with proper invoices, to said Stewart, his agent or attorney. Stewart, on his part, agrees that when the goods are disposed of, if he realizes more out of the same than big debt and interest up to that date, and the expenses of disposing of the same, he will repay the surplus to Evans. The value of the stock is not fixed by, nor is the amount that Stewart was to pay for them named in the instrument. It is simply a transfer of the stock to Stewart to ■ sell, and out of the proceeds, having first paid himself, he was to repay the balance to Evans. This is nothing more than an assignment for the benefit of a particular creditor. Burrill on Assignments, 29; Beers v. Lyon, 21, Conn. 604. This being so, the clause reserving a benefit to Evans renders the same fraudulent and void as to existing creditors. Burrill on Assignments, 252. Power v. Alston, 93 Ill. 587; Hardin v. Osborne, 60 Ill. 93; Goodrich v. Downs, 6 Hill, 438; Coolidge v. Melvin, 42 N. H. 510.
+The instrument relied on as a conveyance being void upon its face, because it contains in itself evidence of á fraudulent intent on the part of the seller, it was error in the court below to find the issues raised upon the affidavit in attachment for the defendant. Finley v. Dickerson, 29 Ill. 11; McCrosky v. Leach, 63 Ill. 61.
+The foregoing reasons are also decisive of the second case, for the instrument being void upon its face, Stewart was bound to take notice of that fact, and could not, in good faith, acquire any rights under it as against creditors, whether he knew of there being any or not. Hardin v. Osborne, supra; Jones v. King, 86 Ill. 225.
+Stewart, therefore, proved no title good in the law, as against the attaching creditors, and the finding of the court should have been for the defendant.
+In the case of Selz, Schwab & Co. v. Evans, so much of the judgmentof the circuit court as finds for the defendant in the attachment, dismisses the writ, and renders judgment for the defendant for the costs incurred in the defense of the attachment, is reversed.
+In the case of Worrallv. Stewart, the judgment is reversed, and both causes will be remanded for further proceedings not inconsistent with this opinion.
+Reversed and remanded.
