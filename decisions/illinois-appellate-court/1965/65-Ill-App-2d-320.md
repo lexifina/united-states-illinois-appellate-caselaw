@@ -1,0 +1,53 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen No. 50,018"
+decided: "1965-12-13"
+citations: ["65 Ill. App. 2d 320"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MURPHY, J., concurs."]
+parties: ["People of the State of Illinois, Appellee, v. William Jones, Appellant."]
+source_url: "https://static.case.law/ill-app-2d/65/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5293403
+cites_cases: ["116 NE 764", "158 NE2d 596", "16 Ill2d 603", "185 NE2d 154", "193 NE2d 777", "194 NE 545", "194 NE2d 230", "2 NE2d 80", "25 Ill2d 416", "279 Ill 70", "29 Ill2d 210", "29 Ill2d 315", "359 Ill 363", "363 Ill 270"]
+---
+
+# People v. Jones
+
+## Majority (MR. PRESIDING JUSTICE BURMAN)
+
+MR. PRESIDING JUSTICE BURMAN
+delivered the opinion of the court.
+The defendant, William Jones, was indicted on the charge of rape. He pleaded not guilty, waived a jury, was found guilty by the trial judge and was sentenced to the penitentiary for a term of 10 to 25 years. On appeal, he contends that there was a complete failure to identify him by direct evidence as the person guilty of the crime; that the State based its case upon purely circumstantial evidence and failed to exclude every reasonable hypothesis as to his innocence; and that circumstantial evidence may be overcome by testimony of the defendant’s good reputation, which testimony cannot be disregarded.
+The complaining witness testified that on January 10, 1964, between the hours of 4:45 and 6:00 a. m., she was raped by two men in her home where she lived alone. She awoke to find a figure standing over her and a sheet was thrown over her head. Thereafter, she could not see the two men well enough to identify them, but testified that she could distinguish their forms. Struggling and screaming, she freed one hand, touched the head of the assailant then holding her, and found his hair to be, “cropped and very curly and kinky.” She then said, “Is—Bill, is this you? If it is, why?” At which point the man then holding her withdrew himself very quickly, and she was grabbed by the other man. She was raped first by a man whom she described as being of average height and stocky, and then by a man whom she described as about six feet three inches in height and very thin. (At the trial, she described the defendant as being of “average height and stocky.”) After both men had raped her, the stocky man held her while the other man searched the kitchen cabinet, where a cash box had been kept by the previous owner, and then searched a linen closet where he found her billfold and took $30 from it. The tall, thin man, then tied her legs and said to her in a muffled voice, “Don’t move and we won’t hurt you. If you do, we will.” This was the only occasion upon which either of the men spoke. The men then left, and as soon as she freed herself she called the police. Shortly thereafter she was examined at a hospital.
+The prosecutrix owned and operated a dog kennel at the same address as her home, and testified that on the evening in question there were approximately 24 dogs on the premises. Two dogs, a little poodle and a Doberman pinscher, were in her apartment that evening, but she had not heard either of them bark. She subsequently learned that entry to her apartment had been gained through the kennel run door, and that the dogs in her apartment had been given ether under a door jamb.
+On the following night, while cleaning the room where the crime had been committed, the prosecutrix found various papers, some of which bore the name of the defendant, lying on the floor next to her bed. These papers included a traffic ticket issued October 13, 1963, a Passenger Car Transfer Identification Card issued May 10, 1963, a notice of federal income taxes due, an owner’s manual for a 1959 Chevrolet, and some bills, all of which admittedly were the property of the defendant. After the papers were turned over to the police, the defendant was arrested.
+For a period prior to the purchase of the dog kennel by the prosecutrix on July 15, 1963, she and the defendant had both been employed by the former owner of the kennel. After the purchase, the prosecutrix had employed the defendant at the kennel for a number of weeks. The trial court inquired as to the witness’s use of the term “Billy,” and she testified that during the time the defendant had been employed at the kennel “. . . everyone called him Billy.” She also testified that during his employment the defendant never became “fresh” with her, and that she had considered him a gentleman. After defendant left his employment at the kennel in July or August of 1963, mail addressed to him continued to be delivered at the kennel. The prosecutrix testified that he.had visited the kennel to pick up his mail about three times, and that the latest such visit was around August 25,1963.
+The defendant denied entering the prosecutrix’s apartment, and denied raping her. He testified that he had put all of the papers which were found in the bedroom of the complaining witness into the glove compartment of his 1959 Chevrolet, and that the traffic ticket was still there as late as November 8, 1963. He said that on that date he went to court and obtained a continuance, and when he returned to his car he put the continued date on the back of the ticket and put it back in the glove compartment along with the other papers in question; and that he had not removed them prior to the repossession of his car.
+In rebuttal, the State called a representative of a finance company, who testified that when he repossessed the defendant’s car on November 27, 1963, he examined the glove compartment and found nothing left in it.
+The only issue raised by the defendant on this appeal is the identity of the person committing the crime. No contention has been made that the circumstances surrounding its commission differed in any respect from the account given by the prosecutrix. The defendant points out that the State offered only circumstantial evidence in the attempt to identify him as the person guilty of the crime. The cases are clear that the identity of the accused may be established by circumstantial evidence, People v. Fitzpatrick, 359 Ill 363, 194 NE 545. But it is also true, as defendant points out, that a conviction can be based on purely circumstantial evidence only if the guilt of the accused is so thoroughly established as to exclude every reasonable hypothesis of his innocence, People v. Ahrling, 279 Ill 70, 116 NE 764; People v. Dougard, 16 Ill2d 603, 158 NE2d 596.
+Of the several incriminating items of circumstantial evidence in this case, the defendant has offered an explanation for only one: the presence of his papers in the bedroom of the prosecutrix. He testified that he had never removed those papers from the glove compartment of his car prior to its repossession in November of 1963, and suggests that they were removed and deposited at the scene of the crime by someone else in order to cast suspicion upon the defendant.
+The trial judge, who heard and saw the witnesses, apparently did not view this hypothesis in support of the defendant’s innocence as reasonable, for he stated that it “. . . would stretch the imagination here no question to say somebody would steal—get these papers out of his car and end up having a forcible rape with a lady that he formerly worked for.” Where a case is tried without a jury the determination of the credibility of the witnesses and the weight to be given to t their testimony is for the trial judge, and this court will not substitute its judgment on such matters for that of the trial judge who saw and heard the witnesses. People v. Mack, 25 Ill2d 416, 185 NE2d 154; People v. Henson, 29 Ill2d 210, 193 NE2d 777. Thus, it was within the province of the trial court to pass upon the reasonableness of the defendant’s hypothesis as to the presence of the papers in the bedroom of the prosecutrix.
+Furthermore, this was not the only incriminating circumstantial evidence in the case. The testimony of the prosecutrix indicates that she suspected the defendant who was formerly employed by her to be one of her assailants even as the crime was being committed. The sudden withdrawal of her assailant when she said, “Is . . . Billy, is this you?” is significant. The men were also careful not to speak during the entire period they were in the prosecutrix’s apartment, so that the prosecutrix could not identify their voices. Finally, the assailants evidenced a prior knowledge of the premises in that they anticipated the presence of dogs in the apartment, as well as in the kennel, and took pains to search a kitchen cabinet where a former owner had kept a cash box.
+The fact that the circumstantial evidence relied upon must not give rise to any reasonable hypotheses under which the defendant could be innocent of the crime charged, does not mean that the trier of fact is required to search out a series of potential explanations compatible with innocence, and elevate them to the status of a reasonable doubt. From a review of the entire record, we are of the opinion that the trial court did not err in holding that there was sufficient evidence to establish the defendant’s guilt beyond a reasonable doubt. People v. Huff, 29 Ill2d 315, 194 NE2d 230.
+The defendant’s final contention is that circumstantial evidence may be overcome by testimony as to the good reputation of the defendant, and that such testimony cannot then be disregarded, People v. Buchholz, 363 Ill 270, 2 NE2d 80. The testimony in this case to which the defendant refers occurred during the cross-examination of the prosecutrix, and is as follows, (R 17):
+Q. Mr. Jones never made any pass at you, anything like that ?
+A. No, he did not.
+Q. Would you consider him a good employee?
+A. I considered him at the time a good employee. To a point, yes, I would consider him a good employee.
+Q. He never became fresh or anything in any way with you, did he ?
+A. No, he didn’t.
+Q. All the time he worked for you you would consider him as a gentlemen, is that right ?
+A. Yes.
+The reviewing court must presume that the trial court, in reaching its decision, took into account all of the testimony in the record. The defendant has offered nothing to show that the trial judge in this case did anything less.
+The judgment of the Circuit Court, Criminal Division, is therefore affirmed.
+Judgment affirmed.
+MURPHY, J., concurs.
+
+## Dissent (KLUCZYNSKI, J.,)
+
+KLUCZYNSKI, J.,
+dissenting:
+There is a reasonable doubt regarding the identification of the defendant with the crime. The judgment should be reversed.
