@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-03-10"
+citations: ["35 Ill. App. 430"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lake Shore & Michigan Southern Railway Company v. Swan A. Johnson."]
+source_url: "https://static.case.law/ill-app/35/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5008762
+cites_cases: ["111 Ill. 219", "129 Ill. 132", "20 Ill. 390", "58 Ill. 272"]
+---
+
+# Lake Shore & Michigan Southern Railway Co. v. Johnson
+
+## Majority (Gary, P. J.)
+
+Gary, P. J.
+On the evidence the verdict of the jury for the appellee ought not to be disturbed.
+Twenty-fifth street in the city of Chicago is an east and west street and the north sidewalk thereon is crossed by eight railway tracks. The most eastern of them going north trends to the east, and enters a coal yard, through gates, and a fence coming south along the west side of the coal yard to the north line of the sidewalk, separates that track from the one next west. The latter, called in the plat in evidence Ho. 3, is the one on which the appellee was hurt. It also, in crossing the sidewalk, runs parallel to the first, so that in going south, it trends to the west, and about six feet south of the south sidewalk of the street, enters by a switch the next track to the west, Ho. 2, which runs due north and south. Considerable distance south of the street, Ho. 2 connects by a switch with another due north and south track, Ho. 1.
+Before the appellee arrived upon the ground, the appellants had brought a lot of cars south from Twenty-fourth street on track Ho. 3, run south to Twenty-sixth street, and on the track Ho. 1, and then “kicked ” (that is, giving the cars a start by pushing, and then letting them loose) some of them north on track Ho. 1 and kicked others north on track Ho. 3.
+The grade there was slightly a down grade to the north, so that with a little start'the cars would run. Necessarily, after kicking cars down No. 1, the switch connecting No. 2 with No. 1 must have been shifted before cars could be sent on No. 3. The appellee testified to coming to the tracks from the east, looking south and seeing nothing to excite apprehension of danger, and stepping upon No. 3 and waiting there for trains to pass and leave the tracks west of him bear, before he went on his way. The experience of some, and the observation of many, teach that there is danger in crossing, and more in standing upon railway tracks. Under the law of comparative negligence, however, of the wisdom of adopting which this case furnishes an illustration, an injured plaintiff is not always barred of his remedy because of his own want of care. If, with impunity, railways may, without warning or precaution, send cars under no control^ across public streets of a great city, it may reasonably be expected that they will not discontinue the practice. It can be predicted almost with the certainty of an astronomical calculation, that such a course of conduct will result in mayhem and death of citizens. It is, therefore, wanton and reddest negligence to pursue it. Railways have no right to create perils so “that the slightest indiscretion on the part of the employe will prove fatal.” C., B. & Q. v. Gregory, 58 Ill. 272. Much less so that persons unconnected with their service are unnecessarily exposed to danger.
+In passing upon the question of the negligence of the appellee, the jury had before them a plat which showed that the track No. 3, on which he stood, stopped six feet south of the south side-walk of the street. A very slight knowledge of railway construction would tell him that it there connected with track No. 2, but it was yet a circumstance which they might consider in connection with his testimony as to looking south and seeing no danger.
+The jury were instructed in such manner that the conduct of both parties, as shown by the evidence, was fairly presented for their consideration as to the negligence of each, and the degrees of negligence respectively. The first count, alleging that the defendants “so improperly and carelessly drove, pushed and managed the said locomotive engine and train of cars, that by and through the negligence and improper conduct of the defendant, by its said servants, the said train of cars ran and struck with great force and violence upon and against the said plaintiff,” is sufficient to admit evidence of all the circumstances under which the cars were pushed or “ kicked ” across the street. See forms, 2 Ch. Pl., 708; C., B. & Q. v. Carter, 20 Ill. 390; 8 Went. Pl., 400; Mitchell v. Tarbutt, 5 D. & E. 649.
+A practice has grown up here of pleading with unnecessary particularity the manner of the negligence in actions of this kind, by which the admissibility of evidence is narrowed, and the field for variance widened. The appellants asked that the jury be instructed, peremptorily, that the appellee ' could not recover under the 2d, 3d and 4th counts, and by another instruction that he could not recover under them unless certain facts were proved. The court could not be expected to give inconsistent instructions, and gave the latter.
+One of the counts was based upon the alleged absence of any flagman, as required by a city ordinance. There was no proof that the place was within the district in which the ordinance required a flagman.
+And it is now objected that submitting to the jury whether the appellants were guilty, as charged in the declaration, was submitting a hypothesis of which there was no evidence.
+The same question was presented in H. & St. J. R. R. v. Martin, 111 Ill. 219, and the second answer to it, there given, is an answer here.
+It must be admitted that some of the instructions for the appellee are subject to criticism on the score of assuming the existence of facts in dispute, if tried by the strict rules laid down in some of the reported cases. Those cases impute to the jury a degree of philological astuteness with which they are not to be credited in a case in which the court is entirely satisfied with the verdict.
+All questions made upon the special questions to the jury, are answered by the case of C. & N. W. Ry. v. Dunleavy, 129 Ill. 132. On the whole record the result is right. Nothing of which the appellants complain affected the decision of the main question in the case, and the judgment must he affirmed.
+Judgment affirmed.
