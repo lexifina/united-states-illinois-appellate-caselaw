@@ -1,0 +1,53 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,624"
+decided: "1967-09-06"
+citations: ["86 Ill. App. 2d 374"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elizabeth Hoffmann, Plaintiff-Appellant, v. Eugene V. Hoffmann, Defendant-Appellee. Eugene V. Hoffmann, Counter-Plaintiff-Appellee, v. Elizabeth Hoffmann, Counter-Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/86/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2551043
+cites_cases: ["109 NE 259", "136 NE2d 812", "187 NE2d 460", "193 NE2d 105", "194 NE2d 508", "197 NE2d 736", "206 NE2d 756", "208 NE2d 579", "214 NE2d 236", "238 Ill App 92", "264 Ill App 433", "268 Ill 416", "273 Ill App 121", "38 Ill App2d 446", "43 Ill App2d 214", "44 Ill App2d 355", "47 Ill App 2d 177", "57 Ill App 2d 362", "59 Ill App2d 459", "66 Ill App2d 295", "9 Ill2d 83"]
+---
+
+# Hoffmann v. Hoffmann
+
+## Majority (GOLDENHERSH, J.)
+
+GOLDENHERSH, J.
+Plaintiff appeals from the decree of the Circuit Court of Cook County granting a divorce to her husband, on his counterclaim. This case has been before this court on a prior occasion. (Hoffmann v. Hoffmann, 59 Ill App2d 459, 208 NE2d 579.)
+Plaintiff contends, inter alia, that the court erred in denying her petition for change of venue. Defendant argues that the petition was not timely filed, that it was filed solely for the purpose of obtaining a further continuance, and was properly denied. Consideration of the issues presented requires a chronological review of the proceedings prior to trial.
+Plaintiff filed her complaint for divorce and other relief on April 13, 1964. On September 16, 1964, after various proceedings and pleadings, her husband, hereinafter referred to as defendant, filed a counterclaim for divorce. On the same date, plaintiff filed her answer to the counterclaim. On October 2, 1964, defendant gave notice of presentation of a motion for immediate trial, and on that date an order was entered setting the case for trial before Judge Robert L. Hunter on October 26, 1964. Plaintiff gave notice of presentation of a motion to remove the case from the trial calendar and on October 26, 1964, Judge Hunter removed the case from the calendar and entered the following order:
+“It is hereby ordered that the above entitled cause be set for trial on December 1, 1964 at 9:30 A. M., final continuance.”
+On November 27, 1964, Judge George Fiedler entered an order setting for hearing, on January 20, 1965, petitions for arrearage in temporary support payments and for attorney fees.
+On December 1, 1964, plaintiff filed a motion for continuance. The supporting affidavit recites the pendency of the prior appeal, and the petitions, and plaintiff’s inability, because of actions of the defendant, to complete discovery procedures. The record does not reflect the disposition of this motion, but the parties are in agreement that it was denied, and Judge Hunter entered an order assigning the case to Judge Felt.
+When the case was called for trial before Judge Felt, late in the morning of December 1, 1964, plaintiff renewed her motion for continuance. Judge Felt denied the motion, and at plaintiff’s request, postponed the proceedings until 2:30 p. m.
+At 2:30 p. m. plaintiff’s counsel presented a petition for change of venue, in which plaintiff stated that the case had been assigned for trial to Judge Felt, that she feared she would not receive a fair trial because the judge is prejudiced against her, and she learned of this prejudice on December 1, 1964. The petition asked that a judge other than Judge Felt be designated to hear the case. Defendant has not pointed out any deficiency in the petition nor does he contend that it fails to comply with the provisions of the statutes.
+Plaintiff’s counsel stated to the court that plaintiff had suggested the filing of the petition and concluded his remarks:
+“Now, I think it is well taken, it is properly presented. It is the first opportunity I have had to present it.”
+Thereupon the following colloquy ensued:
+“THE COURT: You say you think it is well taken. Will you state the reasons why you think it is well taken?
+“MR. JARES: By reason of my client’s insistence that there be a change of venue, because of the sudden assigning of this case, your Honor, and the fact we are on trial. We are not ready, we have asked for a continuance and we do not feel we can get a fair and impartial trial.
+“MR. ABRAHAM: That statement alone—
+“MR. JARES: I am not making this, your Honor, and if you wish to question Mrs. Hoffmann, of course you can.
+“THE COURT: Well, counsel, you present a petition, say you will not receive a fair and impartial trial in this court, and I would like to hear the reason why she believes she would not receive a fair and impartial trial.
+“MR. JARES: Would you like to call Mrs. Hoffmann?
+“THE COURT: Yes.
+“MR. JARES: Mrs. Hoffman, will you come forward?
+“Swear the witness.”
+It is apparent from plaintiff’s testimony that plaintiff had no knowledge of prejudice on the part of the court, and the purpose of the petition for change of venue was to obtain a further continuance.
+In Miller v. Miller, 43 Ill App2d 214, 193 NE2d 105, this court said, “The statute gives an absolute right to a change of venue to a petitioner, when his petition asserting the prejudice of the trial judge is duly made, verified, and filed in accordance with the statute. A change of venue is not a matter of practice but is a substantial right of a litigant.”
+As to the question of whether the petition was timely filed, the record shows the assignment to Judge Felt on the morning of December 1, 1964, and the filing of the petition at 2:30 p. m. At that stage of the proceedings Judge Felt had not ruled on any substantive issue in the case, but had merely denied plaintiff’s motion for continuance. Under the circumstances here shown, the petition was timely filed. People v. Cohen, 268 Ill 416, 109 NE 259; People v. Chambers, 9 Ill2d 83, 89, 136 NE2d 812; Steiner v. Steiner, 44 Ill App2d 355, 194 NE2d 508.
+This brings us to the question of whether, in view of the fact that the petition was clearly filed for the purpose of delay, the trial court erred in its ruling. In Gates v. Gates, 38 Ill App2d 446, 187 NE2d 460, the court, at page 448, said “The judge may not inquire into or determine whether or not the allegation of prejudice is true. Mockler v. Thomas & Co., 273 Ill App 121. It is sufficient that the charge is made. The reason, philosophy and policy justifying the rule has been succinctly stated as follows: ‘It is unthinkable under our system of laws a defendant may be required to submit his liberty and his estate to the disposal of a trial judge who is solemnly charged with prejudice against the accused.’ Daniel Boone Woolen Mills v. Laedeke, 238 Ill App 92 at 100; Wendt v. City of Elgin, 264 Ill App 433 at 441. This record is wholly devoid of the slightest intimation that the instant petition was not made in good faith. We can only conclude that the proceedings here reviewed are abortive of accepted judicial procedures and must be reversed.”
+Unlike the record in Gates, this record is not “wholly devoid” of evidence that the petition is not made in good faith. This evidence, however, is in the record because the judge, albeit at the suggestion of plaintiff’s counsel, (not present counsel) inquired into whether the allegation of prejudice was true.
+We are of the opinion that situations such as the one here presented evoked the following statement by Mr. Justice McCormick in Howarth v. Howarth, 47 Ill App 2d 177, 180, 197 NE2d 736, “It is well recognized that there is and has been in this County a considerable abuse in the use of petitions for change of venue, particularly in criminal cases. In many lawsuits — and we are not referring to the one before us — the trial judge has had the experience of having a petition for a change of venue presented to him, alleging under oath that the party cannot obtain a fair trial before him because he is prejudiced against such party. The judge before whom the petition is presented is certain in his own mind that he has never heard of the petitioner. The petitioner has sworn falsely to a material fact. Under the statute in the controlling cases the hands of the judge are tied and he must forthwith grant the change of venue.”
+We are here confronted with the choice of permitting a litigant to vitiate the proceedings subsequent to the denial of the petition for change of venue, which, in our opinion was filed solely for purposes of delay, or adhering to the long established rule that if the petition for change of venue meets the statutory requirements, the right to a change of venue on account of prejudice of the trial court is absolute. Roherty v. Green, 57 Ill App 2d 362, 206 NE2d 756. We must also give consideration to the rule enunciated in People v. Chambers, 9 Ill 2d 83, 136 NE2d 812, wherein at page 87, the Supreme Court said: “The courts, in construing the venue provisions, have reiterated that they should receive a liberal rather than a strict construction and should be construed to promote rather than to defeat the right to a change of venue, particularly where prejudice on the part of the judge is charged.”
+Our choice is dictated by the quotation from Gates v. Gates (supra) “ ‘It is unthinkable under our system of laws a defendant may be required to submit his liberty and his estate to the disposal of a trial judge who is solemnly charged with prejudice against the accused.’ ”
+The alternatives presented are to permit a judge “solemnly charged with prejudice” to hear a case, or permit the litigant, by improper means, to obtain a delay. Fortunately, the statute (c 146, § 8, Ill Rev Stats 1965) precludes any repetition of the latter, and the delay, by virtue of immediate reassignment to another judge, might well be a short one.
+The proper administration of justice requires not only that a judge be impartial and without prejudice, but also the appearance of such impartiality and freedom from prejudice: This is best maintained by the application of the rule that where the petition is proper in form, no inquiry be made as to the truth of the allegation of prejudice.
+For the reasons set forth we hold that the trial court erred in denying the petition for change of venue. All proceedings subsequent to the denial being void, (Johnson v. United Motor Coach Co., 66 Ill App2d 295, 214 NE2d 236,) the decree must be reversed and the cause remanded.
+Decree reversed, cause remanded for a new trial.
+MORAN and EBERSPACHER, JJ., concur.
