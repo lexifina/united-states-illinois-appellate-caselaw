@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "59935"
+decided: "1975-02-20"
+citations: ["26 Ill. App. 3d 776"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellant, v. Cleotha Hunt, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/26/cases/0776-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2789631
+cites_cases: ["16 Ill.App.3d 989", "295 N.E.2d 710", "295 N.E.2d 724", "307 N.E.2d 172", "54 Ill.2d 161", "54 Ill.2d 165", "60 Ill.2d 117"]
+---
+
+# People v. Hunt
+
+## Majority (Mr. JUSTICE DEMPSEY)
+
+Mr. JUSTICE DEMPSEY
+delivered the opinion of the court:
+Cleotha Hunt was arrested on September 10, 1972, and charged with theft. The complaint filed against him alleged the theft of property having a value less than $150, but it also alleged, “Felony: prior convictions for petty theft.” At the preliminary hearing, which was not held until November 14,1972, the court found probable cause and Hunt was bound over to the grand jury. The grand jury returned an indictment charging him — upon the same set of facts — with burglary from a motor vehicle and theft of property having a value greater than $150.
+Hunt filed a motion to dismiss the indictment on the grounds that he was not given a prompt preliminary hearing as required by section 7 of article I of the Illinois Constitution of 1970 and that he was not afforded a preliminary hearing whatsoever on the offenses charged in the indictment because those offenses differed in substance from the offenses charged in the complaint.
+The trial court held that Hunt was entitled to a preliminary hearing on the charges of burglary and theft of property in excess of $150 and dismissed the indictment.
+The State contends that by its indictment the grand jury found probable cause and therefore no preliminary hearing was required as to the offenses for which he was indicted. The State also seems to contend that the delay between Hunt’s arrest and his preliminary hearing on the lesser offense is inconsequential in view of his direct indictment for the greater offenses.
+The trial court incorrectly held that Hunt was entitled to a preliminary hearing on the charges contained in the indictment. The primary purpose of the second paragraph of section 7 of article I is to secure a determination of probable cause by either the grand jury or a judge. (People v. Kent (1972), 54 Ill.2d 161, 295 N.E.2d 710; first footnote, Bill of Rights Committee Report, 7 Record of Proceedings, Sixth Illinois Constitutional Convention, at 2600).) The trial court determined probable cause as to the charge of theft contained in the criminal complaint and the grand jury determined probable cause as to the charges of theft and burglary contained in the indictment. This was permissible even though both determinations were based upon the same facts.
+The second paragraph of section 7 of article I provides that no person shall be held to answer for a crime punishable by death or imprisonment in the penitentiary unless either the initial charge has been brought by indictment or the person has been given a prompt preliminary hearing to establish probable cause. The commentary relating to the constitutional provision recites:
+“The second paragraph of Section 7 guarantees persons the right to a prompt preliminary hearing to establish probable cause for a crime punishable by death or by imprisonment in the penitentiary unless the initial charge has been brought by a grand jury indictment. This right is new in the 1970 Constitution. According to the Bill of Rights Committee Report, which proposed the language adopted in substantial part by the Convention, the provision seeks To assure that no person will be held to answer for serious crimes without prompt conformity with these important rights, unless they are understandingly waived.’ * * * The right guarantees that unless an initial charge is brought by grand jury indictment there will be a prompt judicial determination of the issue of probable cause.” Ill. Ann. Stat. Constitutional Commentary, art. I, § 7, at 372-73. (Smith-Hurd 1971).
+An unexplained lapse of time of. more than 2 months between an arrest and a preliminary hearing is a violation of the constitutional mandate that there be a prompt hearing to determine probable cause. Nonetheless, it does not appear that the dismissal of the charge is always the appropriate sanction for violation of the mandate. In People v. Hendrix (1973), 54 Ill.2d 165, 295 N.E.2d 724, the court held that the constitutional provision does not provide a grant of immunity from prosecution as a sanction for its violation; the court further stated that it would not “make sense” to permit the dismissal of a pending charge as a sanction for such violation, only to be followed by a recharge and a rearrest of the accused on the same charge.
+In a case parallel to the present one (People v. Howell (1974), 16 Ill.App.3d 989, 307 N.E.2d 172; affd, 60 Ill.2d 117, - N.E.2d -,) there was a 65-day interval between the defendant’s arrest and the preliminary hearing. The reviewing court held that this delay violated the defendant’s constitutional right to a prompt hearing but felt, under the rationale of People v. Hendrix, that it was obliged to hold that the error did not invalidate the defendant’s conviction. We are relunctantly impelled to reach the same conclusion. Hunt was charged with stealing a stereo tape player from a Chicago Police Department squad car. The police officer who saw him commit the act signed the complaint against him. There were no other witnesses. The record is devoid of explanation for the 66-day delay in holding a preliminary hearing. No postponement was necessary for an injured victim to recover his health; none was necessary for an absent witness to return to the jurisdiction; none was necessary for the defendant to be in court. Under these circumstances setting the time for the hearing was entirely under the control of the prosecuting áuthorities. Instead of the defendant having to show that he was prejudiced by the long delay, the burden rested on the prosecution to produce a reasonable explanation for not giving him a prompt hearing. However, under the holding in Hendrix, we must conclude that the deprivation of the defendant’s constitutional right to a prompt preliminary hearing did not entitle him to the dismissal of the charges against him.
+The judgment is reversed, and the cause is remanded for further proceedings not inconsistent with this opinion.
+Judgment reversed and cause remanded.
+McGLOON, P. J., and McNAMARA, J., concur.
