@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-04-11"
+citations: ["46 Ill. App. 174"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George A. Ballou v. Michael Hushing and James Dees."]
+source_url: "https://static.case.law/ill-app/46/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5148725
+cites_cases: ["2 Scam. 36", "57 Ill. 36", "62 Ill. 412", "83 N. Y. 552"]
+---
+
+# Ballou v. Hushing
+
+## Majority (Mr. Justice Boggs.)
+
+Mr. Justice Boggs.
+“ Under the plea of property in a defendant or in a stranger in an action of replevin, with denial of the right of property in the plaintiff, the only issuable fact is the right of property in the plaintiff, and under such issue the plaintiff must recover on the strength of his own title, and the burden of proof is on him to establish his right.” Constantine v. Foster, 57 Ill. 36; Reynolds v. McCormick, 62 Ill. 412. The appellant introduced the bill of sale in evidence, which, standing alone, established ownership in him. The appellees produced in evidence the agreement set out in the statement of the case. These two instruments executed by the parties at the same time, and concerning the same subject-matter, i. e., the transfer of the property in question to the appellant, are to be considered together and construed as though both had been combined in one writing. So considered, the transaction is found to have been not in fact a sale of the property by Bowman to the appellant, as appears from the bill of sale, but rather the creation of a trust for the purpose of securing the application of the proceeds of a sale of the property to certain creditors of Bowman, with preferences as to the order of payment of such creditors. Appellant did not by force of these instruments become the owner of the property, but, upon the contrary, ivas vested at most with a right to its possession for the purpose of making disposition of the same by sale “ at fair and reasonable prices ” only, and to this end the appellant expressly agreed to devote “ the best of his skill and ability.” The proceeds of any sale thus made would not become the property of the appellant, but he would hold it in trust, or as an assignee, for distribution, according to tire terms of the instrument creating the trust. This instrument, or the instruments, contained no provision for the disposition of a surplus, should any remain after the claims of the creditors, named were satisfied, but the law would imply that such surplus, if any existed, was to be returned to Bowman. Cross v. Bryant, 2 Scam. 36; Am. and Eng. Ency. of Law, Yol. 1, page 860, note J, and page 861, note 1. The evidence, therefore, did not sustain the appellant’s claim that he was the owner of the property, and that issue was properly decided against him. The appellant, by his pleading, disavowed a trust capacity and asserted individual and exclusive ownership of the property, and the truth of this assertion was, under the pleadings, the only real matter in controversy. The Circuit Court regarded the transaction between Bowman and1 the appellant as an assignment for the benefit of creditors, and as such, fraudulent in law, because it attempted to secure to the claims of certain creditors a preference over the claim of others. Appellant’s counsel argue that if that view is correct the only remedy of contesting creditors is by a bill in chancery or an application in the County Court for process against the appellant requiring him to proceed under the statute as in cases of voluntary assignments by insolvent debtors, and that if the appellant holds as an assignee under the statute the property of the goods in question and a right to their possession vested in him as assignee, he ought to have recovered.
+As to this, it is sufficient to say that appellant asserted by his pleading sole individual ownership of the property? which was in effect a denial and repudiation of the existence of a trust or that he held as assignee. He sought to recover in the Circuit Court as the individual owner of the property and properly failed. A judgment in his favor upon the issues as made by him would have conclusively established his individual ownership of the property. Black on Judgment, Sec. 671. He sought such advantage and failed, and can not be allowed to shift Ms ground in the Appellate Court, and ask a reversal of the judgment on the theory that though not the owner he is entitled to the possession as assignee or holder of a lien. Hudson v. Swain, 83 N. Y. 552; Cobbey on Replevin, Sec. 601.
+If he is so entitled he may take such steps as may be lawful to assert such rights. Ho question of that kind arises upon this record.
+The judgment must therefore be affirmed.
+Judgment affirmed.
