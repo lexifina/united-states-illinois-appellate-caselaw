@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 49,523"
+decided: "1964-07-27"
+citations: ["51 Ill. App. 2d 391"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Defendant in Error, v. Robert Jones, Plaintiff in Error."]
+source_url: "https://static.case.law/ill-app-2d/51/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5277972
+cites_cases: ["103 NE2d 363", "162 NE 2d 256", "163 NE2d 812", "163 NE2d 814", "17 Ill2d 373", "177 NE2d 211", "18 Ill2d 260", "188 NE2d 1", "22 Ill2d 534", "26 Ill2d 557", "411 Ill 118", "9 Ill2d 83"]
+---
+
+# People v. Jones
+
+## Majority (MR. JUSTICE BURMAN)
+
+MR. JUSTICE BURMAN
+delivered the opinion of the court.
+The defendant, Robert Jones, was indicted on the charges of obtaining money and goods by means of a confidence game. The defendant waived a jury, was found guilty as to count two of the indictment, and was sentenced to a term of not less than three nor more than six years in the penitentiary.
+On this writ of error, which was transferred to this court by the Supreme Court, the defendant contends that the trial court erred in indictment #60-3188 by not granting him a change of venue, and in appointing a public defender over his objections and over his specific request for a Bar Association attorney.
+The defendant was arraigned on October 21, 1960, before Judge Richard B. Austin, the Chief Justice, and when it appeared that he had no counsel and was without funds, the court appointed the Public Defender to represent him before the plea of not guilty was entered. This case, together with another indictment, was then assigned for trial before Judge David A. Canel who continued the cases to November 22, 1960, for trial. On the latter date when the instant ease was called for trial, the public defender, at the request of the defendant, presented a written motion for a bill of particulars which was denied. Thereupon the defendant presented an unverified petition for a change of venue which was denied. The defendant then requested that the court appoint a Chicago Bar Association lawyer which request was also denied. Afterwards a jury was impaneled. A mistrial was ultimately declared which was prompted by the defendant’s erratic and belligerent court room behavior. At a sanity hearing held on November 28, 1960, before another jury, the defendant was found sane and the case was ordered for trial on the following day.
+On November 29, 1960, the defendant was given leave to waive a jury after being properly advised of his right to a trial by jury. He was represented by the public defender and the cause proceeded to a bench trial which resulted in defendant being found guilty on Count two of the indictment and the post-trial motions were subsequently denied. The defendant thereafter withdrew his plea of not guilty to the charge in indictment #60-3189 in which he was also charged with obtaining money and goods by means of a confidence game by another complainant, and upon his plea of guilty he was sentenced to a term of three to six years in the penitentiary to run concurrently with the same sentence given in the other indictment. Immediately after being sentenced the defendant stated, “Your Honor, I would like to apologize for the former proceedings I conducted in this court room.”
+The record is clear that the motions for a change of venue and for the appointment of a different counsel were both made after the trial judge denied a preliminary motion made by the defendant for a bill of particulars. These motions were made after the case came on for trial. Such motions must be presented at the earliest practical moment; a motion for a change of venue which is not timely may be denied. People v. Wilfong, 17 Ill2d 373, 162 NE 2d 256.
+We hold first that the defendant’s request for a Bar Association attorney came too late. The statute upon which defendant relies is chapter 34, sec 5604 of the Illinois Revised Statutes. Paragraph 2 of that section provides:
+Any court, may with the consent of the defendant, appoint counsel, other than the public defender, and shall so appoint if the defendant shall so demand.
+The defendant interprets this section to mean that at any time in the proceedings the accused may interrupt the trial with a demand that the court appointed counsel be dismissed and a Bar Association attorney be substituted in his stead. We feel that chapter 34, section 5604 must be read as applying solely to the rights of the accused at the time the court appoints his counsel or where cause is shown to the court’s satisfaction that he be replaced. This would then he a matter of discretion by the court. To hold otherwise would he to advance no theory of public policy while causing chaos to reign in the courtroom. We hold that an indigent defendant may not accept the appointment of a public defender and then, on the day of the trial demand that his defense be undertaken by another appointed attorney or public agency. People v. Cox, 22 Ill2d 534, 177 NE2d 211. The indigent defendant has a right to be represented by counsel, but he does not have a right to experiment with various supplied counsel to the detriment of the orderly processes of the law. People v. Woods, 26 Ill2d 557, 188 NE2d 1; People v. Ephraim, 411 Ill 118, 103 NE2d 363. It has been held that an indigent accused may not select his appointed counsel. People v. Woods, 26 Ill2d 557, 188 NE2d 1. From an examination of the record we are of the opinion that the defendant was represented by competent counsel.
+We also find that the trial court, under the circumstances, committed no error in denying defendant’s motion for a change of venue. The defendant cannot first probe the attitude of the court as was done here and then move for a change of venue. People v. Chambers, 9 Ill2d 83, 163 NE2d 812. The trial judge further concluded that this motion was made solely to avoid trial and in place of a request for a continuance. The motive behind this petition and the defendant’s pro se motion for a change of attorneys on the trial date was made evident by the defendant’s repeated remark that, “I am not ready for trial.” The trial court properly ordered the cause to proceed.
+Furthermore, when the defendant withdrew his jury demand in the case at bar, which occurred about a week after the motions were made, and when he afterwards plead guilty in the other indictment, he did not renew the foregoing motions. By so doing, he may have been deemed to have waived any error which might have arisen from the denial of his prior motions. People v. Rankins, 18 Ill2d 260, 163 NE2d 814.
+Our review of the record discloses no reversible error and therefore the judgment of the Criminal Court is affirmed.
+Judgment affirmed.
+MURPHY, P. J. and KLUCZYNSKI, J., concur.
