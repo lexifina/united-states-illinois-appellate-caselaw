@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Term No. 53-O-8"
+decided: "1954-01-11"
+citations: ["1 Ill. App. 2d 181"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Kabureck, Plaintiff-Appellee, v. Menard C. Stookey and Ruth M. Schmidt, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/1/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5114755
+cites_cases: ["101 N.E.2d 845", "218 Ill. App. 260", "247 Ill. App. 170", "258 Ill. App. 262", "340 Ill. App. 423", "344 Ill. App. 630", "92 N.E.2d 802"]
+---
+
+# Kabureck v. Stookey
+
+## Majority (Mr. Justice Bardens)
+
+Mr. Justice Bardens
+delivered the opinion of the court.
+The plaintiff filed his verified complaint and petition for a temporary injunction in the circuit court of St. Clair county alleging that defendants were interfering with his tenancy of defendants’ farm premises. The trial court heard arguments in support of plaintiff’s complaint and defendants’ motion to dismiss and entered a temporary restraining order, conditioned upon plaintiff’s furnishing bond in the penal sum of $8,000 with sureties to be approved by the court. Plaintiff’s bond was thereafter furnished in pursuance to the condition.
+Plaintiff’s complaint charged substantially the following: That since 1948 plaintiff had been a tenant from year to year on defendants’ farm premises, had never received the statutory termination notice, and had not surrendered possession; that defendants were presently interfering with his farming operations by plowing and planting crops, and that such conduct would cause plaintiff irreparable injury. Defendants’ motion to dismiss simply charged that plaintiff had an adequate remedy at law and that he would not sustain irreparable damages if denied injunctive relief. In answer to Count II of the complaint, an action at law for damages on account of the trespass of defendants, defendants alleged a surrender of the farm land to them in November 1952, and possession of the premises by them since that date. The decree entered on May 25, 1953, after arguments of counsel found that defendants’ action “could necessarily cause plaintiff to suffer irreparable damage by reason of repeated trespasses, the uncertainty of his lease, the time involved in a final determination of the issues involved, and consequently would not give him an adequate remedy at law; that the present status quo should be maintained; . . .” and enjoined defendants from further interference with plaintiff’s tenancy.
+The rule is clear that in reviewing the action of a trial court in issuing a temporary injunction, the allegations of the verified complaint are to be taken as true. Quinn v. Fountain Inn, 218 Ill. App. 260. The question thus presented is simply whether or not plaintiff’s complaint states a cause of action requiring the temporary intervention of a court of equity. This being the case, defendants’ allegation in their answer, repeated in their brief, that they were, in fact, in possession of the land, was properly rejected by the trial court, and can have no bearing on the issues as presented on this appeal. It is likewise clear from an examination of the cases cited by both plaintiff and defendant that there is no absolute or inflexible rule governing the right of a court of equity to enjoin trespass. Among the several elements treated as significant in any case are a concern with the adequacy of the remedy at law, and the maintaining of the status prevailing before the dispute arose. Levy v. Rosen, 258 Ill. App. 262; Scholz v. Barbee, 344 Ill. App. 630, 101 N.E.2d 845. In his evaluation of the issues in the light of these factors, the trial judge is allowed a wide measure of discretion in granting or denying the relief prayed. McDougall Co. v. Woods, 247 Ill. App. 170. On a petition for a temporary injunction, the trial judge would be warranted in ascertaining the last peaceful or agreed status of the parties and preserving such until the issue of- right to possession could be determined in a court of law. Northern Illinois Coal Corp. v. Langmeyer, 340 Ill. App. 423, 92 N.E.2d 802. Any other conclusion places a premium upon seizing and establishing possession in fact by force rather than by altering the status by legal procedure. In the Langmeyer case we said, at page 429 :
+“Thus the instant complaint comes within the type governed by the fundamental rule pertaining to the granting of temporary injunctions, namely, that the purpose of a temporary injunction or restraining order is the preservation of the status quo. (Cases cited.)
+In 43 C. J. S., supra, Injunctions, § 17, at page 428, status quo is defined as follows: ‘The status quo which will be preserved by a preliminary injunction is the last, actual, peaceable, noncontested status which preceded the pending controversy.’ The necessity of the temporary injunction is usually made apparent by allegations showing that a change in the status would cause irreparable injury.”
+As the issues were presented to the trial court, it could properly assume an existing landlord-tenant status and the desirability of its peaceful preservation pending further proceedings.
+As has been said, the gauging of the adequacy of the remedy at law as preventing a resort to equity lies largely within the discretion of the trial judge. In the instant case, it would be difficult, indeed, to fix, with any degree of exactness, the damage resulting in being prevented from farming the land in dispute. The end result of farming operations depends to such a large extent upon a group of variable factors (e. g., weather, farming equipment available, soil treatment, individual skill) that plaintiff’s damage in being prevented from farming the land could never be precisely determined. Further, we conclude that the trial court had a right to consider the other factors detailed in its decree, as partially set out above, as going together to make plaintiff’s remedy at law inadequate. Therefore, we cannot say, as a matter of law, that the trial judge abused his discretion in this finding.
+The interlocutory order is, therefore, affirmed.
+Decree affirmed.
+Scheineman, P. J. and Culbertson, J., concur.
