@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 13,531"
+decided: "1908-02-14"
+citations: ["139 Ill. App. 81"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary J. Rafter v. Chicago City Railway Company."]
+source_url: "https://static.case.law/ill-app/139/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2610384
+cites_cases: ["9 Gray, 245"]
+---
+
+# Rafter v. Chicago City Railway Co.
+
+## Majority (Mr. Justice Smith)
+
+Mr. Justice Smith
+delivered the opinion of the court.
+Plaintiff in error brought this action against defendant in error to recover for injuries sustained on or about October 10, 1902. The declaration, consisting of three counts, avers in the first count that the defendant in error operated a certain electric car at the corner of Sixty-seventh street and Wentworth avenue in the city of Chicago; that it was the duty of the defendant in error to exercise care and diligence in the management of the car and that it failed in this behalf and carelessly and negligently ran its car into the plaintiff in error, who was crossing Wentworth avenue in the exercise of all due care for her own safety, and injured her.
+The second count avers that defendant in error failed in its duty to ring a bell or otherwise give warning to the plaintiff in error. The third count avers that defendant in error ran its car over the street intersection at an unreasonable rate of speed.
+Issues were formed on the declaration by a plea of general issue. On the trial the jury returned a verdict of not guilty, and judgment was entered on the verdict.
+It appears from the evidence that about 6:30 in the evening on October 10, 1902, plaintiff in error, a lady past sixty years of age, accompanied by Mr. McGuffin, was walking east on Sixty-seventh street. When she reached a point about a half block west of Wentworth avenue, Mr. McGuffin left Mrs. Baiter and walked ahead of her for the purpose of hailing a northbound car on Wentworth avenue, if one should be approaching. Mr. McGuffin passed safely over the Wentworth avenue tracks and hailed a north-bound car which stopped on the north side of Sixty-seventh street. Mrs. Rafter proceeded to the southwest corner of Sixty-seventh street and Wentworth avenue. She there stepped from tlic curb and proceeded in a northeasterly direction toward the northeast corner of the street intersection. As she stepped from the curb she says she looked north for an approaching south-bound car, but did not see any car, and as she came to the west rail of the south-bound track, she again looked to the north, but saw nothing, she says. She continued across the south-bound track in the direction of the north-bound car which was waiting; and when she was nearly across the track a south-bound car struck her and threw her to the ground. She says no bell was rung or other warning given of the approach of the car.
+From the testimony of other witnesses it appears that the south-bound car was lighted and the gong was sounded; that when the car passed the north cross-walk it was going about seven miles an hour. The motorman testifies that he first saw Mrs. Rafter when she stepped from the curb, and that his car was then at the north cross-walk. He was then ringing his bell, the power having been turned off seventy-five feet north of the north cross-walk; and he applied the brakes at once; his car was going about two miles an hour "when it struck Mrs. Rafter, and it went twelve or fifteen feet after striking her. When the car stopped she was lying on the ground under the front step.
+Two grounds only are urged for the reversal of the judgment: First, that the court erred in rulings on evidence, and second, in prohibiting counsel from arguing proper matter to the jury.
+The second reason assigned by counsel for reversing the judgment is without merit, in our opinion. Counsel for plaintiff in error in his argument to the jury said: “If the car "went, at the lowest estimate, from the middle of the street to a point ten or fifteen feet from the other curb— call it ten or twelve feet if you like—if that car was going as slowly as that motorman said it was going at the time this accident occurred, you know and I know that that car would have been stopped instantly. You know how those cars are stopped; you know7 it would not take—”
+Objection was made that counsel had the right to argue upon the evidence, not upon what he or any juror knew; and the court sustained the objection, .restricting counsel to the evidence. The ruling was not erroneous. That jurors may test the truth and the weight of the evidence by their knowledge and experience is settled, but their verdict must be based on the evidence, not on what they know outside of the evidence.
+The witness Haddon, called by the defendant in error, testified to having a conversation with Mr. McGuffin in the drug store on the corner of Wentworth avenue and Sixty-seventh street on the evening of October 10, 1902, after the accident, in the presence of Mrs. Rafter. He was then asked: “Q. Did Mr. McGuffin say to you at that time in her presence that—speaking of Mrs. Rafter that if she had done as he had told her, the accident would not have happened?” The question was objected to on the ground that it was “not competent, and not binding on Mrs. Rafter, and not tending to illustrate any conditions in this case.”
+The court overruled the objection and the witness answered : “A. He said that if Mrs. Rafter had done as he told her to, the accident would not have happened, and that she was to blame herself for what happened.”
+Thereupon counsel for plaintiff in error moved to strike out the whole answer. The court struck out the latter part of the answer and allowed the first part to stand. This ruling was properly excepted to.
+The conclusion of Mr. McGuffin, that if Mrs. Rafter had done as he told her the accident would not have happened, was not competent or material. Mrs. Rafter was not bound by McGuffin’s conclusion upon the subject, and was not called upon to deny it or pay any attention to it. Her silence, therefore, when such a conclusion or opinion was expressed in her presence and hearing was not the admission of a fact by her, and cannot be competent on that ground, as urged by counsel for defendant in error. Furthermore, it was a mere conclusion upon a subject regarding which McGuffin was not competent or qualified to give an opinion or conclusion. It was for the jury alone to form conclusions upon the facts in evidence, under the instructions of the court. It does not seem to he necessary to cite authorities upon the proposition, but Saunders v. City & Suburban R. Co., 99 Tenn. (15 Pickle), 130; and Lane v. Bryant, 9 Gray, 245, are in point, and the reasons given in the opinions in those cases are conclusive. The admission of the evidence was material and harmful error.
+For this error the judgment must be reversed and the cause remanded.
+Reversed and remanded.
