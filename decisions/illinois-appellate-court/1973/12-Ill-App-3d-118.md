@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "57059"
+decided: "1973-05-24"
+citations: ["12 Ill. App. 3d 118"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Tex Sterling, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/12/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2854121
+cites_cases: ["131 Ill.App.2d 163", "188 N.E.2d 22", "2 Ill.App.3d 264", "215 N.E.2d 229", "229 N.E.2d 320", "26 Ill.2d 599", "266 N.E.2d 395", "276 N.E.2d 480", "34 Ill.2d 229", "85 Ill.App.2d 240"]
+---
+
+# People v. Tex Sterling
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court:
+Defendant was charged with the offenses of gambling and keeping a gambling place. Prior to trial, the gambling charge was dismissed. After a bench trial, defendant was found guilty of keeping a. gambling place. (Ill. Rev. Stat. 1969, ch. 38, par. 28 — 3.) He was sentenced to serve 30 days in jail and fined $500. On appeal defendant contends that tire trial court erred in admitting certain telephone conversations into evidence, and that he was not proved guilty beyond a reasonable doubt of keeping a gambling place.
+At trial, the arresting officer testified that he went to the premises located at 951 North Ashland Avenue in Chicago with another officer to execute a search warrant. The witness knocked at the apartment door, but no one answered. The police gained entry into the apartment and saw a flash of fire near defendant, the only person in the room. The police recovered a copy of the Illinois Sports News for that day and a black dish in which paper had recently been burned. The witness stated that he had been a vice officer for two and a half years, and that, in his opinion, the burnt remains found in the dish were ashes from flash paper, a paper which is chemically treated to burn quickly and is used for recording bets. Both the dish and the paper were introduced into evidence.
+The arresting officer also testified that the telephone had rung several times while he was in tire apartment and that he had answered it twice. He stated that on both occasions the caller placed bets. Over defense objection, the officer was permitted to testify as to the substance of those conversations. The callers had placed wagers on certain horses and specified races at specific locations. The State was not permitted to introduce into evidence the notes which the officer had taken concerning these calls and which he had used to refresh his recollection.
+Defendant first contends that the trial court committed reversible error in admitting into evidence the contents of the telephone conversations between the police officers and the unknown persons who called the premises during the course of the search. Defendant maintains that the conversations were inadmissible because the receipt of the telephone calls by the officer was an unlawful search and seizure in that the receipt of telephone calls was not described in the search warrant, and because the testimony concerning the contents of the telephone conversations was too general and lacking in specificity.
+Defendant’s argument that the receipt of the telephone conversations by the arresting officer went beyond the scope of a search warrant and thereby violated defendant’s right to be free from unlawful search and seizure is not properly before this court. The search warrant has not been made part of the record on appeal. We are, therefore, neither authorized nor obligated to consider this contention. People v. Rogers, 26 Ill.2d 599, 188 N.E.2d 22.
+In a gambling prosecution, police testimony as to the receipt of telephone calls concerning wagers during a valid search of premises has been held by this court to be relevant, proper and admissible into evidence. (People v. Mamolella, 85 Ill.App.2d 240, 229 N.E.2d 320.) The case cited by defendant to support his contention, People v. Russo, 131 Ill.App.2d 163, 266 N.E.2d 395, is not applicable to the instant case. In Russo, one of the police officers testified that he answered the telephone several times during the course of executing a search warrant and that he had conversations with three of the callers. However, the trial court struck the contents of these conversations from the evidence on the ground that the testimony was too general and lacked specificity. We do not, therefore, know what the contents of those conversations were.
+In the instant case, the arresting officer testified that he spoke with two different persons during the course of his search. He testified that both persons placed bets on horse races of specified numbers at specified places for specific amounts. We cannot say, therefore, that the testimony of the officer was general in nature or lacked specificity. The trial court properly admitted into evidence the arresting officer’s testimony as to the contents of the telephone conversations.
+Defendant also contends that the evidence adduced was insufficient to prove him guilty beyond a reasonable doubt. In order to support a conviction for keeping a gambling house, the State must prove that the defendant owned, occupied or controlled the premises; that the building was used for the purposes of gambling; and that defendant knowingly permitted such gambling. Ill. Rev. Stat. 1969, ch. 38, par. 28 — 3; People v. Perry, 34 Ill.2d 229, 215 N.E.2d 229.
+Although the evidence was circumstantial, the State proved that the premises in question were controlled by the defendant at the time of the arrest. Mere presence on the premises is insufficient to establish control, but the fact that defendant was present by himself in a locked apartment at the time the police gained entry would be sufficient to establish control under the statute. See People v. Roti, 2 Ill.App.3d 264, 276 N.E.2d 480.
+The evidence presented at trial also sufficiently established that the premises were used for the purposes of gambling. The arresting officer testified that the residue in the black pan was the burned remains of “flash paper,” and that flash paper was a chemically treated paper which would burn quickly and was used for the purpose of recording bets. A copy of an Illinois Sports News for that day was also recovered in the premises. This evidence, together with the testimony of the officer of the telephone conversations concerning the placing of wagers, was sufficient to establish that the premises were being used for the purposes of gambling.
+The evidence was also sufficient to show that the defendant knowingly permitted such use. Since defendant was the only party present on the premises and since the evidence was sufficient to show that the premises were being used for gambling, defendant cannot claim lack of knowledge. Defendant was proved guilty beyond a reasonable doubt.
+For the reasons stated, the judgment of the circuit court of Cook County is affirmed.
+Judgment affirmed.
+DEMPSEY, P. J., and McGLOON, J., concur.
