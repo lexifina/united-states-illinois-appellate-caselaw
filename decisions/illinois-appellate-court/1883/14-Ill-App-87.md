@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-12-21"
+citations: ["14 Ill. App. 87"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George S. Poppers v. Letitia Miller."]
+source_url: "https://static.case.law/ill-app/14/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4876810
+cites_cases: ["43 Ill. 64", "77 Ill. 38", "77 Ill. 603", "78 Ill. 147", "78 Ill. 415", "79 Ill. 563", "83 Ill. 116"]
+---
+
+# Poppers v. Miller
+
+## Majority (Wilsoh, J.)
+
+Wilsoh, J.
+The first and second instructions given by the court at the plaintiff’s request, were defective in not embracing as a part of their hypothesis that the prosecution in which the plaintiff was arrested had terminated. But as such, fact was not controverted, and was shown by undisputed evidence, the jury were not misled by the omission, and no injury to appellant was occasioned thereby. In other respects, the instructions given for the plaintiff are unobjectionable.
+It appears from the bill of exceptions that the plaintiff claimed on the trial, and offered evidence tending to show that she had paid the mortgage indebtedness in full, prior to her arrest on the charge of secreting the property, and among other payments she testified to having paid certain sums to appellant’s wife. To disprove these alleged payments to the wife, appellant offered the latter as a witness. The learned judge'being of opinion that she was not a competent witness for her husband, rejected her testimony, and the defendant excepted.
+The position taken by the counsel for appellee is that the statute allowing the wife to testily as a witness for or against her husband in matters of business, where the transaction was had or conducted by her as the agent of her husband, applies only to cases where the cause of action grows out of a transaction conducted by the wife; and that the present action does not grow out of any transaction had or conducted by the wife, as her husband’s agent, but arises out of the husband’s tort in wrongfully causing appellee’s arrest. We do not think the statute is to be so limited. Its language is general and comprehensive, “ in all matters of business transactions, where the transaction was had and conducted by such married woman as the agent of her husband.” It places a married woman, when transacting business as agent for her husband on the same footing, as respects her competency to testify as to the particular transaction, as if she were a feme sole. Suppose the entire business in making the loan, taking the mortgage and receiving such payments as were made, had been transacted by appellant’s wife, as his agent, could it be justly claimed that because the transaction is drawn in question, in a collateral proceeding in which it becomes material to prove the facts, the wife may not be called as a witness? "We think not. Such a construction would be in violation of the plain language of the statute.
+If a transaction consists of several parts, and the wife acts as agent only in respect to some particular part, she can be called only to such parts.
+It is true, in the present case there is no direct proof that appellant’s wife was acting as the agent of her husband. But appellee can not be heard to say that she was not so acting.
+Appellee is claiming the benefit of a payment she testifies she made to the wife, to apply on the mortgage debt. ■ There being no proof of the actual receipt of the money by the plaintiff, it results that if the payments made to the wife were not payments to her, as the agent of her husband, they were not payments upon the mortgage debt, and appellee can, therefore, take nothing by them. But appellee assumed to treat the wife as the agent of her husband, to receive the alleged payments. And if, acting upon this assumption, the court properly admitted proof of such payments, the wife was a competent witness to disprove them.
+So far as the payment of the money to, and its receipt by, the wife of appellant was concerned, it was a transaction in a matter of business, in which the wife was acting as the agent of her husband, in respect to which particular transaction she was a competent witness. The case falls directly within the principle stated by Mr. Justice Sheldon in Robertson v. Brost, 83 Ill. 116. There the plaintiff’s wife had been sent by her husband to the defendant to get the money claimed to be due to the husband on an alleged sale of coal, made by him to the defendant, which sale the defendant disputed. It was held that as the agency of the wife was merely to go for the money, she was not a competent witness to testify to admissions made by the defendant, tending to show a sale of the coal. But the court said: “ Had the wife, as the agent of her husband, made the sale of the coal, then under the statute she would have been competent to testify to the transaction. But she was not. Brost himself made the sale, with which she had no connection. * * * Had it been material to the issue, which it was not, to prove the facts of demand of payment and refusal of payment, then the wife might have been an admissible witness to prove these facts as matters of a business transaction, where the transaction was had and conducted by a married woman, as the agent of her husband.”
+In the case of Keep v. Griggs, 12 Bradwell, 512, cited by appellee, the wife was held to be an incompetent witness, but the decision was placed upon the express ground that in the transaction there called in question, the wife was acting in her own right, and not as the agent of her husband.
+Being of opinion that the court below erred in rejecting the testimony of appellant’s wife, the judgment is reversed, and the cause remanded for a new trial.
+Beversed and remanded.
