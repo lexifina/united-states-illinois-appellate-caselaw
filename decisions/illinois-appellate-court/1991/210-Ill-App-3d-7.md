@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "4-90-0432"
+decided: "1991-02-28"
+citations: ["210 Ill. App. 3d 7"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ROBERT D. EWALD, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/210/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2533331
+cites_cases: ["1987 Ill. Laws 4710", "1988 Ill. Laws 200"]
+---
+
+# People v. Ewald
+
+## Majority (JUSTICE GREEN)
+
+JUSTICE GREEN
+delivered the opinion of the court:
+On April 26, 1990, the circuit court of Macon County entered judgment on jury verdicts finding defendant Robert D. Ewald guilty of two counts of aggravated criminal sexual assault (Ill. Rev. Stat. 1989, ch. 38, par. 12 — 14), and one count of aggravated criminal sexual abuse (Ill. Rev. Stat. 1989, ch. 38, par. 12 — 16). On June 1, 1990, defendant was sentenced to terms of 25 years of imprisonment for each count of aggravated criminal sexual assault to run consecutively, and a concurrent term of. seven years’ imprisonment for the aggravated criminal sexual abuse conviction. Defendant appeals, contending the trial court erroneously believed that consecutive terms of imprisonment were mandatory under the circumstances. We affirm.
+The sole issue on appeal is whether section 5 — 8—4(a) of the Unified Code of Corrections (Code) (Ill. Rev. Stat. 1989, ch. 38, par. 1005 — 8—4(a)) mandates a consecutive sentence in the case of multiple convictions on a multicount indictment when one of the offenses is criminal sexual assault or aggravated criminal sexual assault. In the instant case, defendant was charged with and convicted of two counts of aggravated criminal sexual assault. The victims were sisters, ages 8 and 12. The acts occurred on separate occasions and were against each victim individually.
+The pertinent language of section 5 — 8—4(a) of the Code provides:
+“The court shall not impose consecutive sentences for offenses which were committed as part of a single course of conduct during which there was no substantial change in the nature of the criminal objective, unless, one of the offenses for which defendant was convicted was a Class X or Class 1 felony and the defendant inflicted severe bodily injury, or where the defendant was convicted of a violation of Section 12 — IS or 12 — 1U of the Criminal Code of 1961, in which event the court shall enter sentences to run consecutively. Sentences shall run concurrently unless otherwise specified by the court.” (Emphasis added.) (Ill. Rev. Stat. 1989, ch. 38, par. 1005 — -8—4(a).)
+The defendant argues the emphasized language cannot be read to require consecutive sentences when defendant was convicted of violations of section 12 — 14 of the Code, and the offenses were separate and distinct. He contends this language makes a violation of either section 12 — 13 or section 12 — 14 only an exception to the rule against imposing consecutive sentences for offenses committed as part of a single course of conduct and, therefore, since his convictions did not arise from a single course of conduct, he does not fall within the scope of this section.
+Based solely on the language of section 5 — 8—4(a) of the Code, it is arguably unclear what the legislature intended, and, apparently, no Illinois court of review has interpreted this section with respect to this issue. However, the comments made at the pertinent legislative debates indicate that the legislature intended this language to require consecutive sentences in the case of multiple felony convictions when one of the offenses is criminal sexual assault or aggravated criminal sexual assault.
+Section 5 — 8—4(a) of the Code was originally amended by Public Act 85-1003 (Pub. Act 85-1003, §2, eff. July 1, 1988 (1987 Ill. Laws 4710, 4712)), which added the language requiring mandatory consecutive sentences if one of the offenses is in violation of sections 12 — 13 or 12 — 14 of the Code. Public Act 85 — 1003 also changed the prior permissive language, “the court may enter” (see Ill. Rev. Stat. 1987, ch. 38, par. 1005 — 8—4(a)), to the mandatory language “the court shall enter” (Pub. Act 85-1003, §2, eff. July 1, 1988 (1987 Ill. Laws 4710, 4715)) sentences to run consecutively. Subsequently, Public Act 85 — 1003 was recodified in Public Act 85 — 1030 (Pub. Act 85 — 1030, §3, eff. July 1, 1988 (1988 Ill. Laws 200, 203) (amending Ill. Rev. Stat. 1987, ch. 38, par. 1005 — 8—4(a))) due to incorrectly numbered sections of the Code; apparently, however, there was no change in the substantive language of the Public Act 85 — 1003.
+The legislative debates on Public Act 85 — 1030 contain no comments in regard to the amendatory language requiring a consecutive sentence in cases of a violation of sections 12 — 13 or 12 — 14; however, the debates on Public Act 85 — 1003 do contain some helpful comments. In the House debates, Representative Brunsvold stated the bill (Senate Bill 1376) required consecutive sentences “where a defendant is convicted of multiple felony offenses” (85th Ill. Gen. Assem., House Proceedings, June 30, 1987, at 241 (statements of Representative Brunsvold)). At the Senate debates, the sponsor of the bill, Senator Degnan, stated the bill incorporated a prior Senate bill which “requires the court to impose consecutive sentences where a defendant is convicted to multiple felony offenses and one of those offenses is a criminal sexual assault or aggravated . . . criminal sexual assault” (85th Ill. Gen. Assem., Senate Proceedings, Nov. 6, 1987, at 50 (statements of Senator Degnan)).
+The language of section 5 — 8—4(a) could arguably be interpreted as authorizing a mandatory consecutive sentence in cases only where a -violation of sections 12 — 13 or 12 — 14 arises from a single course of conduct; however, the comments made at the legislative debates do not support such a narrow interpretation. If the legislature intended to limit the scope of section 5 — 8—4(a), the comments would have reflected such an intent. Furthermore, any other interpretation would be difficult to reconcile since it is unlikely the legislature intended to authorize a mandatory consecutive sentence in cases where a section 12 — 13 or section 12 — 14 violation stems from a single course of conduct, and not, as in the instant case, when a defendant sexually assaults two young girls on separate occasions.
+Accordingly, the trial court interpreted the legislation correctly. We affirm.
+Affirmed.
+STEIGMANN and McCULLOUGH, JJ., concur.
