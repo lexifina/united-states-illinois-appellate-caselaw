@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 46,516"
+decided: "1955-02-23"
+citations: ["5 Ill. App. 2d 181"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mae Slater, Appellee, v. Chicago Transit Authority, and Herman Dreyer, Appellants, and Safeway Truck Lines, Inc., and William H. Stallings, Defendants."]
+source_url: "https://static.case.law/ill-app-2d/5/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5137314
+cites_cases: ["279 Ill. App. 633", "342 Ill. App. 443", "70 Ill. App. 275"]
+---
+
+# Slater v. Chicago Transit Authority
+
+## Majority (ME. PRESIDING JUSTICE KILEY)
+
+ME. PRESIDING JUSTICE KILEY
+delivered the opinion of the court.
+This is a personal injury action arising from a collision between a streetcar and tractor. Safeway Truck Lines and Stallings, driver of the tractor, were found not guilty. Verdict and judgment were against Dreyer, the motorman, and the Chicago Transit Authority for $7,500. The CTA and Dreyer have appealed.
+On November 21,1949 about 6:45 p. m., plaintiff was a passenger on a northbound Halsted streetcar. North of 43rd street, Safeway’s leased tractor was parked on the east side of Halsted street. While being driven out of this parking place, the tractor collided with the streetcar. Plaintiff was thrown from one side of the streetcar to the other and was injured.
+The verdict in favor of Safeway Lines and Stallings is not before us. The CTA and Dreyer contend that the verdict against them is against the manifest weight of the evidence and that the damages are excessive.
+Plaintiff was a passenger to whom the OTA, through its servants, owed the highest degree of care. She did not see the collision. She heard a “loud crash” and was thrown from her seat on the east side of the car. The force propelling her could have come from the tractor running into the' car, as the motorman says the collision occurred, or from the car running up and over the rear left wheel of the tractor, the Stallings’ version. Presumably the jury believed Stallings. The first question is whether the jury’s finding that the motorman was guilty of negligence contributing to plaintiff’s injury was against the manifest weight of evidence.
+The only witnesses to the accident were the motorman and Stallings. The motorman said that when he was about 150 feet north of 43rd street and about 30 feet from the tractor he shut off the power, “hit the gong,” applied the brakes and the right side of the car collided with the left rear wheel of the tractor and that at the speed he was going he could stop in 30 feet. Stallings said he was parked at the curb, looked in the rearview mirror, saw an automobile coming and the streetcar a block away; that after the automobile passed he looked again, saw the streetcar half a block away, started the tractor, went ahead 40 feet or so and was proceeding with the left wheels of the tractor “about one brick” east of the northbound rail; that he felt a slight jar as though he had driven over a small stone; and that the car came up on the left rear tire and “sort of veered off to the left.”
+Defendant’s witness Gorman was seated about four seats from the rear on the right side of the “old” car. He felt brakes being applied, looked out the window and saw the tractor about 15 feet away pulling away from the curb. Gorman testified the brakes were applied a second time; the car traveled 5-7 feet and the car and tractor “came together”; and that the truck “hooked” to the car. A watchman for the CTA said he heard the crash at 43rd street.
+The motorman and watchman are employees of CTA and Stallings was a defendant. We think that though Stallings and the motorman contradicted each other there was other testimony which the jury could find to corroborate Stallings. Reinowski v. Richardson, 279 Ill. App. 633, is not applicable. There plaintiff was not corroborated and was contradicted by five eyewitnesses and “attending circumstances” reflected doubt on the verdict. In Mareno v. Chicago Transit Authority, 342 Ill. App. 443, there were no probabilities which supported plaintiff. Incidentally the court in the Mareno case said “The motorman might have had an interest.”
+If the car could be stopped in 30 feet and the tractor had moved 40 feet and the motorman applied his brakes when he saw the tractor 30 feet away, the jury might have wondered how the collision occurred. Gorman said with some contrariety that the brakes were applied twice and. the collision occurred after the car traveled 5-7 feet after the second application of brakes. The body of the streetcar was facing northwest after the collision and the trucks were according to the testimony, either not off or slightly off the tracks. This could have occurred either by the tractor running into the front right side of the streetcar or by the streetcar running up on the left rear wheel of the tractor. It is improbable that the rear wheel of the tractor would be under the right front of the car, if the tractor going in a northwesterly direction “knocked” the streetcar off the tracks. The front step of the car could be damaged under either version of the collision.
+There are contradictions and improbabilities in the telling of details, more or less important, which we deem unnecessary to discuss. We think this was a case specially suited to determination by a jury and that the verdict is not against the manifest weight of the evidence. Defendant concedes that plaintiff was not guilty of any negligence proximately causing the injury.
+The remaining contention is that the verdict is excessive since plaintiff did not exercise reasonable care to minimize the damages. The rule imposing that duty on an injured person is not disputed. Both parties cite North Packing & Provision Co. v. Western Union Tel. Co., 70 Ill. App. 275, where the rule was stated and where at p. 281 the court said the negligent party had the burden of proving that a different line of conduct would have reduced damages.
+The personal injury was to plaintiff’s left shoulder. At the time of the accident her doctor “unfortunately minimized it as of small consequence.” Severe shoulder pains developed about three months later. He treated her until May 1950 when she complained of the arm, said he could do no more for her and advised “passive motions of the shoulder, and to use occasional heat” and if she should be “troubled a lot more, to come back.” The night before the trial he found that she could raise her arm only to shoulder height. The opinion was that the disability was permanent.
+January 18,1954 plaintiff was examined by an orthopedic specialist who found “bursitis and capsulitis” of the left shoulder structure, limited motion, tenderness and spasm. X-rays showed decalcification of bone and a small bone fragment or calcium formation striking into the soft tissues. His opinion was that trauma could cause the condition and that it was permanent.
+There was testimony that plaintiff applied hot applications to her left arm and shoulder, from the summer of 1950 up to the time of trial two or three times a week.
+We think that there is no evidence of a different line of conduct plaintiff could have pursued to reduce damages. She returned to her doctor in December 1953 and he repeated what he said in 1950, that he could do no more for her, and she followed his advice. There is no merit to the contention that the verdict is excessive.
+We have disposed of the two contentions raised. For the reasons given the judgment is affirmed.
+Judgment affirmed.
+LEWE and FEINBERG, JJ., concur.
