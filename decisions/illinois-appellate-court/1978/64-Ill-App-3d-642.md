@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-221"
+decided: "1978-10-06"
+citations: ["64 Ill. App. 3d 642"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re APPLICATION OF COUNTY COLLECTOR.—(RON BINGEL, Petitioner-Appellant, v. LELA LINK, Respondent-Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/64/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3330019
+cites_cases: ["16 Ill. App. 3d 385", "306 N.E.2d 743"]
+---
+
+# Bingel v. Link
+
+## Majority (Mr. JUSTICE WOODWARD)
+
+Mr. JUSTICE WOODWARD
+delivered the opinion of the court:
+On December 9, 1974, petitioner, Ron Bingel, purchased delinquent taxes for 1973 on two lots in McHenry County. On August 16,1976, Bingel filed a petition stating that the period of redemption for both lots would expire on December 9, 1976; he requested that the court order that tax deeds issue if redemption were not timely made. Notice of the filing of the petition, notice of the date for the hearing on the petition, and notice of the expiration of the period of redemption were received by the landowner, Lela Link, by the end of August 1976. On December 14,1976, petitioner appeared to apply for an order issuing the tax deeds. The same day his attorney was sworn and he proved by testimony, exhibits and affidavits that the necessary compliance with statutes to entitle plaintiff to a tax deed had been made. The court continued the matter to December 28 solely for the preparation of a required transcript. On that date the landowner appeared, informed the court that she knew of the date on which the period of redemption had expired, but wished additional time to redeem. The court continued the .cause for consideration of extension of time for redemption and for ruling on the issuance of tax deeds to January 7,1977, at which time 30 additional days were granted to redeem. Redemption was made within that time and the petition for tax deeds was denied. Petitioner appeals.
+The ostensible authority for the extension of time was section 253 of the Revenue Act of 1939 (Ill. Rev. Stat. 1975, ch. 120, par. 734), which provides:
+“On all real property sold under the provisions of this Act, after July 1, 1971, if such real property is improved with a structure consisting of at least one and not more than 4 dwelling units and one or more of said dwelling units is occupied by the owner or owners thereof as his principal place of residence at the date of the expiration of the period of redemption, upon written or oral application made at the first court hearing held pursuant to Section 266 of this Act, the court shall grant such owner the right to redeem within 30 days after the date of such court hearing * 9
+It is undisputed that the property in question is improved with a structure consisting of at least one and not more than four dwelling units and was occupied by the owner as her principal place of residence at the date of expiration of the period of redemption. The only issue regarding the landowner’s ability to qualify for an extension under this section is therefore whether she complied with the statute by making application for an extension of time for redemption at the first court hearing on the petition, held pursuant to section 266 of the Revenue Act (Ill. Rev. Stat. 1975, ch. 120, par. 747).
+In its order granting the extended period of redemption, the court specifically found that the first court hearing on the application for tax deed was held December 14, 1976; that at that hearing petitioner presented proof of compliance with the relevant sections of the Revenue Act; that the landowner did not appear at that hearing; and that the petition was continued to December 28, 1976, for filing a report of proceedings and entering of an order to issue a tax deed. The court also found that the landowner’s appearance and request for extension of the redemption period on December 28, 1976, was timely.
+This court has held that redemption from tax foreclosure sales is favored and unless injury will result to the tax purchaser, a liberal construction will be given to redemption laws. (In re Application of County Treasurer (1973), 16 Ill. App. 3d 385, 306 N.E.2d 743.) In the same case, however, this court stated that redemption is a statutory privilege and must be exercised in substantial compliance with the statute. It is our view that the trial court’s findings are conflicting and that the landowner did not substantially comply with the statute. For the landowner’s request to be timely it would, in terms of Section 253, have to be made at the first hearing on the petition. This cannot be the case where the court specifically made findings that the first hearing was held on December 14, and that the landowner did not appear until December 28, the petition (not the hearing) being continued for the ministerial purpose of preparation of the transcript. The court therefore erred in finding that the landowner’s request was timely.
+In our opinion no other conclusion may be reached under the specific terms of section 266:
+9 9 If the time of redemption expires 9 9 9 and the petitioner has complied with all the provisions of law entitling him to a deed, the court shall so find and shall enter an order directing the county clerk on the production of the certificate of purchase and a certified copy of the order, to issue to the purchaser or his assignee a tax deed.” (Ill. Rev. Stat. 1975, ch. 120, par. 747.)
+The facts of the present cause fall directly within the requirements of the statute: the time of redemption expired and petitioner complied with all the provisions entitling him to a deed. Under these circumstances the statute requires the court to enter an order directing the county clerk, on completion of certain ministerial acts, to issue the purchaser a tax deed. No liberal construction of the statutes involved changes the fact that the landowner was simply too late in requesting an extension of the redemption period, especially since she was personally served with written notice that the period of redemption from the tax sale would expire on December 9, 1976.
+We accordingly reverse the decision of the trial court and remand the cause with directions that the circuit court enter an order directing the county clerk, on the production of the certificate of purchase and a certified copy of the order, to issue the purchaser a tax deed for the property in question.
+Reversed and remanded with directions.
+SEIDENFELD, P. J., and BOYLE, J., concur.
