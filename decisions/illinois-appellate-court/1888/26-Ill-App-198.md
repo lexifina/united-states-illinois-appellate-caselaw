@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-03-20"
+citations: ["26 Ill. App. 198"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marseilles Manufacturing Company v. Rockford Plow Company."]
+source_url: "https://static.case.law/ill-app/26/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4943625
+cites_cases: ["123 Mass. 557", "2 Cow. 195", "2 R. I. 298", "21 Ill. 148", "23 Ill. 26", "25 Gratt. 448", "30 La. Ann. 618", "31 Ill. 174", "33 Ill. 481", "37 Ill. 164", "4 Ala. 425", "41 Ill. 158", "5 Bush. 174", "51 Ill 415", "54 Ill. 413", "58 Ill. 163", "6 Gray, 564", "6 N. E. Rep. 900", "6 Wend. 410", "61 Ill. 126", "67 Ill. 274", "81 Ill. 436", "81 Ill. 439", "92 Ill. 305"]
+---
+
+# Marseilles Manufacturing Co. v. Rockford Plow Co.
+
+## Majority (Bakee, J.)
+
+Bakee, J.
+1. If a power be given to the donee and his assigns, it will pass by assignment, if the power be annexed to an interest in the donee. 4 Kent’s Com. 327. In case of a power to sell or take possession of property and sell, given by a mortgagor to the mortgagee and his assignee, and the mortgage is to secure a promissory note or notes, the power is appendant to the estate and coupled with an interest, and part of the mortgage security, and passes by the assignment of the mortgage debt and vests in the assignee, and such assignee may execute the power. In the case at bar we will waive the question whether or not the power donated by Morris in the mortgage to the appellant corporation was divisible, whether or not the assignments of the third note, in the series of four notes, carried with them a corresponding portion of the power to appellee, the second assignee of said note. Wilson v. Troup, 2 Cow. 195; 4 Kent’s Com. 147. The powers given in this chattel mortgage to take possession of the mortgaged property and make sale thereof, were expressly conferred upon the mortgagee, but they were not given to its assignee or assignees. The only authority vested by the instrument in that behalf in the assignee of the mortgagee, was the right to make an election in respect to the mode and manner in which the donee of the powers should exercise the power of making sale. The conclusion must be, that the sale of the mortgaged property by appellee as assignee of the third note, was not authorized by the mortgagor and donor of the power, and was null and void; and that its possession of such property as purchaser at said sale was unlawful. Pardee v. Lindley, 31 Ill. 174; Hamilton v. Lubukee, 51 Ill 415; Strother v. Lord, 54 Ill. 413; Mason v. Ainsworth, 58 Ill. 163.
+2. The trial court erred in not holding as law, and as applicable to the case in hand, the two written propositions submitted by appellant. The doctrine is, that where several notes maturing at different dates are secured by a chattel mortgage and the condition of the mortgage is broken on default in payment of any of the notes, it is, nevertheless, optional with the mortgagee to take possession on the first default, or to await the maturity of the last note and then take possession. Barbour v. White, 37 Ill. 164; Cleaves v. Herbert, 61 Ill. 126; McConnell v. Scott, 67 Ill. 274.
+So, also, whatever may be held elsewhere, the established rule in this State is, that where there is a mortgage securing several notes due at different times, and there is no special provision or agreement to the contrary, the notes have priority of lien, and are entitled to payment, from the proceeds of the mortgaged ¡property, in the order in which they become due and payable, the note first maturing having preference. Vansant v. Allmon, 23 Ill. 26; Funk v. McReynolds, 33 Ill. 481; Gardner v. Deiderichs, 41 Ill. 158; Koester v. Burke, 81 Ill. 439; 2 Jones on Mortgages, sections 1939 and 169, and cases cited in notes.
+3. Appellee can take nothing by the suggestion that in any event he was a joint owner or tenant in common with, appellant in the property, and that therefore appellant could not maintain replevin. In the first place, appellant alone, as mortgagee, was given the right of possession under the power in the mortgage; and appellee, a mere assignee of a part of the indebtedness secured by the mortgage, was given no legal right of possession either in severalty or jointly with appellant. The rights of appellee, as such assignee, were equitable rights and were in the proceeds to be derived from a sale of the property. In the second place, appellee was in the exclusive possession of the entire property, assuming and claiming exclusive and absolute ownership in severalty, by virtue of the pretended sale under the power, and denying and repudiating any property or possession, joint, or otherwise, in appellant, and insisting appellant had no right, title or interest whatsoever therein. Appellee should lie in the bed it selected, and should not Jflow both liot'and cold with the same breath.
+The judgment of the court below was erroneous. It is reversed. The cause is remanded.
+Reversed a/nd remanded.
