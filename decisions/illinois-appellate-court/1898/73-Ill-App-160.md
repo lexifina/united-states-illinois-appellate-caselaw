@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-01-17"
+citations: ["73 Ill. App. 160"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Buck v. Emma Dupee Coy."]
+source_url: "https://static.case.law/ill-app/73/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5238158
+cites_cases: ["1 Gilm. 187", "16 Ill. 306", "27 Ill. 358", "27 Ill. 509", "3 Ill. App. 345", "37 Ill. App. 385", "41 Ill. 45"]
+---
+
+# Buck v. Coy
+
+## Majority (Mr. Justice Adams)
+
+Mr. Justice Adams
+delivered the opinion of the Court.
+The defendant in error sued plaintiff in error in attachment. The writ issued February 19, 1896, was returnable to the March term, 1896, of the court, and directed to the sheriff of Cook County, commanding him to summon plaintiff in error, and also to summon Edward Hudenburg and M. C. Glover as garnishees. The writ was returned March 16, 1893, not found as to each of said persons, and no property found.
+On February 19, 1896, another writ of attachment, also returnable to the March term, was issued in the suit, directed to the sheriff of McHenry County, which was returned by the sheriff of that county, showing a levy by him of the writ on real property of the defendant in McHenry County, the defendant not found. A certificate of mailing notice to the defendant in attachment was filed March 17, 1896, and on the same day the defendant, by his attorney, entered a special appearance, for the purpose of moving to quash the writ of attachment, and so moved.
+March 16, 1896, an alias writ of attachment issued, directed to the sheriff of Cook County, returnable to the April term of the court, and commanding him, among other things, to summon C. M. G-lover and William Hudenburg as garnishees, which writ was returned the same day it was issued, the return showing service on William Hudenburg, the other not found. The next day, March 19, 1896, the plaintiff filed interrogatories to William Hudenburg, which he answered the same day, admitting indebtedness of $10, to the defendant in attachment. March 28, 1896, the defendant’s motion to quash the attachment was overruled.
+April 21, 1896, a certificate of publication of notice of the pendency of the suit was filed, and May 2, 1896, judgment by default was rendered against the defendant, and special execution ordered to issue to the sheriff of McHenry County for the sale of the property attached in that county. The special execution was issued May 5, and returned September 24, 1896, the return showing a levy May 7, 1896, and satisfaction in full.
+The question presented by the record is whether the court had jurisdiction to render a judgment in rein against the property of plaintiff in error in McHenry County.
+Section 13 of Chap. 11 of the Attachment Act provides: “The creditor may, at the same time, or at any time before judgment, cause an attachment writ to be issued to any other county in the State where the debtor may have property liable to be attached, which shall be levied as other attachment writs, that if no property, rights or credits of the debtor are found in the county in which the suit is brought, and no defendant is served with summons or makes appearance, the creditor shall not be entitled to judgment.”
+The writ issued February 19, 1896, to the sheriff of Cook County, not having been personally served on the defendant, or either of the persons named in it as garnishees, and no property having been attached by virtue of it, the court did not, by virtue of that writ, acquire jurisdiction to render any judgment against the property of the defendant in McHenry County. Hinman v. Rushmore, 27 Ill. 509; Fuller et al. v. Langford et al., 31 Ib. 248; Martin v. Dryden, 1 Gilm. 187, 212.
+The question, therefore is, whether the court acquired such jurisdiction by virtue of the alias writ of attachment issued March 18, 1896, the service thereof on the garnishee, William Hudenburg, and his admission of an indebtedness of $10 to the defendant. This court has held in Dennison v. Blumenthal, 37 Ill. App. 385, and American Trust & Savings Bank v. Pack et al., 70 Id. 177, that an alias writ of attachment is unauthorized by the statute, and, therefore, if such writ is issued it is void. In both cases the court hold that the statute, being in derogation of the common law, must be strictly construed, and so, also, has held the Supreme Court. Cariker v. Anderson, 27 Ill. 358; Haywood v. Collins et al., 60 Ib. 328, 333.
+The Practice Act, Section 9, provides, in reference to ordinary actions, that if it appears from the return of the summons that the defendant is not found, another summons may issue, and so on until service is had; but the statute in relation to attachments contains no such provision. In the present case the alias writ was issued twenty-eight days after the issuance of the original writ, and the ground for the attachment stated in the affidavit sworn to and filed February 19, 1896, namely, that the defendant was not a resident of this State, may have ceased to exist March 18,1896, when the alias writ issued. The filing the affidavit is the commencement of a suit in attachment, and the affidavit is the foundation of the suit. Eddy v. Brady, 16 Ill. 306; Pullian v. Nelson, 28 Ib. 112.
+In Foster v. Illinski, 3 Ill. App. 345, the court held that the intervention of eleven days between the time of swearing to the affidavit and the filing it, was unreasonable, because in that interval of time the ground for attachment stated in the affidavit may have ceased to exist. See, also, Campbell v. McCahan, 41 Ill. 45.
+In American Trust & Savings Bank v. Pack et al., supra, the plaintiff filed an additional affidavit in support of the alias writ, yet the court held the writ void, while here the only support the alias writ has, is an affidavit filed nearly a month before it issued.
+It does not appear from the record that any judgment was rendered against the garnishee, William Hudenburg, for his admitted indebtedness to the defendant, which indebtedness is relied on in support of the jurisdiction of the court to render the judgment in question. It is certainly not 'within the spirit or intention of the statute, that the mere finding of property or credits in the county in which the suit is brought, without any judgment for the application of the same or the proceeds thereof, to the discharge of the indebtedness of the defendant, shall, of itself, authorize a judgment for the sale of the defendant's property attached in another county.
+We hold that the issuing of the alias writ of attachment was unauthorized by the statute, and that the writ and all proceedings under it were and are void.
+The judgment is reversed.
