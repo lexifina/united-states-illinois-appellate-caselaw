@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 47,993"
+decided: "1960-07-26"
+citations: ["26 Ill. App. 2d 480"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURKE, P. J., and BRYANT, J., concur."]
+parties: ["City of Chicago, a Municipal Corporation, Plaintiff-Appellee, v. Fred Mandoline, Defendant-Appellant, and Ulysses Powe, Defendant."]
+source_url: "https://static.case.law/ill-app-2d/26/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5214380
+---
+
+# City of Chicago v. Mandoline
+
+## Majority (MR. JUSTICE FRIEND)
+
+MR. JUSTICE FRIEND
+delivered the opinion of the court.
+The City of Chicago brought a quasi-criminal suit against the two defendants, Mandoline and Powe, because of their alleged violation of municipal ordinances. Pursuant to trial by the court without a jury, Powe was found not guilty; Mandoline was found guilty, and a fine was assessed against him in the sum of $1000.00 and costs, from which he appeals.
+From the essential facts it appears that on August 1, 1958 Mandoline was the owner of improved premises located at 3331 West Maypole Avenue in Chicago, which he sold to Powe under articles of agreement for a warranty deed. The sale price was $13,400.00, payable $400.00 upon the execution of the contract, and the balance of $13,000.00 payable $150.00 on the first day of September 1958, and $150.00 on the first day of évery month thereafter until the entire sum, and interest thereon, had been fully paid. Powe moved into the premises shortly after the execution of the agreement.
+On September 23, 1958, a so-called team of inspectors from various departments of the City of Chicago visited the premises and found numerous ordinance violations. Thereafter, on December 31, 1958, the city filed a statement of claim against both Mandoline and Powe charging some twenty-four separate violations of the Municipal Code and alleging that defendants owned, maintained, operated, or controlled the building.
+Mandoline takes the position that when Powe moved into the premises during the first week of August 1958 he assumed exclusive control thereof, that thereafter Mandoline was neither in possession nor control of the premises, that consequently he had no duty to comply with the ordinances in question, and that the court found the wrong defendant guilty. The determination of the controversy rests upon the provisions of section 39-2 of the Municipal Code of Chicago and paragraph (5) of the written articles of agreement for the sale and purchase of the property; they are not set forth in Mandoline’s brief but are supplied by the city.
+Section 39-2 of the Municipal Code reads:
+“Unless otherwise specifically provided, the owner, his agent for the purpose of managing, controlling or collecting rents and any other person managing or controlling a building or premises, in any part of which there is a violation of the provisions of this code enumerated in section 39-1 of this chapter, shall be liable for any violation therein, existing or occurring, or which may have existed or occurred, at or during any time when such person is or was the person owning or managing, controlling, or acting as agent in regard to said buildings or premises. Wherever used in said provisions of this code, the ‘owner’ shall include any person entitled under any agreement to the control or direction of the management or disposition of the building or premises or any part of the building or premises where the violation-in question occurs.
+“The liabilities hereunder imposed on an owner shall attach to a trustee under a land trust, holding title to such building, structure or premises without the right of possession, management or control, unless said trustee in a proceeding under said provisions of this code discloses in a verified pleading or in an affidavit filed with the conrt, the name and last known address of each person who was a beneficiary of the trust at the time of the alleged violation and of each person, if any, who was then acting as agent for the purpose of managing, controlling or collecting rents, as the same may appear on the records of the trust.”
+Paragraph (5) of the articles of agreement states:
+“That no right, title or interest, legal or equitable, in the premises aforesaid, or any part thereof, shall vest in the Purchaser until the delivery of the deed aforesaid by the Seller, or until the full payment of the purchase price at the time and in the manner herein provided.”
+It was admitted on trial that Mandoline had not delivered a deed for the premises to Powe and retained title thereto.
+The gist of Mandoline’s contention is that he is not an owner within the purview of the ordinance, and that he did not own, maintain, operate, or control the premises in question. The above-quoted provisions of section 39-2 of the code make “the owner, his agent for the purpose of managing, controlling or collecting rents and any other person managing or controlling a building or premises” liable for violations, and such liabilities attach as well to “a trustee under a land trust, holding title . . .” Furthermore, the articles of agreement do not give the contract purchaser, Powe, any control of the premises; in fact, the contract is so restrictive that Powe is not permitted, under penalty of forfeiture of his interest in the premises, to record the contract to show his interest, nor can he sublet the premises without Mandoline’s permission. Actually, all that Powe received under the agreement was the right to occupy the premises as long as he made the specified monthly payments. He could not obtain control until he received the deed. Moreover, the articles forbid him to make any repairs that would constitute a lien on the premises, and he is required to submit to Mandoline every contract, together with the plans, etc., for any improvement to the premises. Paragraph (5) of the contract specifically provides that no right, title or interest, legal or equitable, shall vest in Powe until he receives the deed from Mandoline. It thus appears that Mandoline was not only the owner of the property and thus liable under the ordinances for any violations, but that under the articles of agreement he had complete control of the property to the exclusion of the contract purchaser, Powe. Cases cited by Mandoline are not in point since, as we view the controversy between the parties, Mandoline’s liability was established and governed by the contract and the ordinances. Inasmuch as Mandoline was not only the owner but the party in complete control of the property, we think the judgment of the trial court was correct, and it is therefore affirmed.
+Judgment affirmed.
+BURKE, P. J., and BRYANT, J., concur.
