@@ -1,0 +1,21 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-11-24"
+citations: ["20 Ill. App. 557"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Deimel v. George Obert."]
+source_url: "https://static.case.law/ill-app/20/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4908284
+cites_cases: ["11 Wend, 46", "11 Wend. 46"]
+---
+
+# Deimel v. Obert
+
+## Majority (Pillsbury, J.)
+
+Pillsbury, J.
+This action was brought by the appellee to recover damages resulting from the act of the appellant in removing his portion of a division fence between the lands of the parties. After the removal of the fence the crops of the appellee were damaged by domestic animals coming upon his premises, until by rebuilding the division fence he protected his crops. He claimed to recover for crops destroyed and also for rebuilding the fence, and on the trial below was allowed both items. The appellant had a notice prepared, informing the appellee that at the expiration of a year he would remove such fence, and on election day, 1884, employed a constable to read it to appellee. That the constable read the notice to the appellee seems to be conceded, but the evidence is véry conflicting upon the point whether he gave it to him. The appellee and the constable both testify that it was read only and was not handed to him, while the appellant and some others who were near them say that Obert took it from the constable. The jury saw proper to give credit to the officer and the appellee in preference to the others, and we do think that their finding is so clearly against the weight of the evidence as to call upon us to interfere with the verdict upon this ground. Before a person can remove a division fence or any part thereof, owned by him, he must first give the adjoining owner one year’s notice, in writing, of his intention so to do, otherwise he is made responsible for all damages that may accrue to such adjoining owner. R. S., Chapter 55, Sections 14, 15. This statute requires something more than the mere reading of a notice to appellee to give the appellant the right to remove the fence. To “give one year’s notice in writing” we think means a delivery of the original notice, or a true copy of it. Judge Story said, in Hart v. Gray, 3 Sumner, 339, “ I believe no case can be produced where a notice, required to be served and given in writing, has been held valid unless the service has been by the delivery of the paper or a copy in writing.” Wade, in his work on the Law of Notice, section 1342, says: “It seems to be settled both upon principle and authority, that a written notice can only he served by delivery of the original or an authenticated copy.” The statutory notice not being given by the appellant, he was clearly in the wrong in removing the fence and thereby subjecting the appellee to a loss and injury by having his crops destroyed. It is objected that the cost of rebuilding the fence was not a proper element of damage to be recovered in the cause. The removal of the fence was wrongful and the duty still remained with the appel'ant to build and maintain his portion of it as he had previously done. This duty he owed to the appellee for the protection of his crops, and for a violation thereof must respond in damages for any loss of the crops appellee might sustain, yet the appellee would not he obliged to lie quietly by and suffer such loss, but had the right to protect himself from injury by rebuilding the fence at the expense of appellant. This conclusion is sustained by the case of Richardson v. McDougall, 11 Wend, 46, where, under a statute similar to ours, such damages were allowed and such construction of the statute was said to be the only reasonable and consistent one. Some objections have been taken to the instructions, hut our attention having been, directed to the record we find that no exceptions were taken and preserved to the action of the court in either giving or refusing instructions, consequently we can not notice the assignment of error upon this point made in argument. Finding no substantial error in the record the judgment will be affirmed.
+Judgment affirmed.
