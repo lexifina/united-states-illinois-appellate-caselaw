@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "1—92—4146"
+decided: "1994-04-25"
+citations: ["263 Ill. App. 3d 39"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK HAUSER, Plaintiff-Appellant, v. CHICAGO PARK DISTRICT, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/263/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5366909
+cites_cases: ["143 Ill. 2d 425", "147 Ill. 2d 627", "195 N.E.2d 751", "232 Ill. App. 3d 877", "370 N.E.2d 499", "45 Ill. App. 2d 425", "574 N.E.2d 659", "596 N.E.2d 1254", "606 N.E.2d 1227", "69 Ill. 2d 108"]
+---
+
+# Hauser v. Chicago Park District
+
+## Majority (JUSTICE O’CONNOR)
+
+JUSTICE O’CONNOR
+delivered the opinion of the court:
+On January 27, 1988, defendant, Chicago Park District, fired plaintiff, Frank Hauser, after 61h years of employment. On July 2, 1990, plaintiff filed a petition for a writ of mandamus in the circuit court alleging that his discharge was contrary to law because defendant did not conduct a civil service board hearing prior to the discharge. Plaintiff sought to compel defendant to grant him a hearing before the civil service board, td reinstate him to his civil service position, and to award him back pay. Defendant successfully moved for summary judgment, arguing that the doctrine of laches precluded plaintiffs action.
+We affirm.
+Plaintiff began his employment with defendant as an electrician on August 19, 1981. In March 1983, defendant temporarily appointed plaintiff as its stadium foreman at Soldier Field. By accepting the Soldier Field job, plaintiff knew that he was moving from a "civil service job” to a "temporary appointment job.” Accordingly, plaintiff took an unpaid leave of absence from his electrician position in order to accept the appointment. Later that year, plaintiff became the stadium manager at Soldier Field. Plaintiff’s name was added to defendant’s "civil reemployment eligibility” list in order to preserve his seniority on the civil service list.
+In January 1988, defendant fired plaintiff from his Soldier Field job. Within a month of learning of the discharge, plaintiff retained an attorney because plaintiff believed that since he was entitled to a civil service board hearing before he could be fired from his electrician position, he must, likewise, have been entitled to one for the Soldier Field job. In any event, plaintiff became employed in the private sector in March 1988.
+On March 16, 1988, defendant’s counsel, Nancy Kaszak, wrote to plaintiff after speaking with plaintiff’s attorney. Kaszak detailed the reasons for plaintiff’s discharge and stated that defendant would "afford” plaintiff a hearing "following the procedure of the Civil Service Board” at which plaintiff could contest the truth of the charges. The offer was to "expire” on March 26, 1988. Plaintiff did not respond to the letter. A second letter was sent to plaintiff in August 1988. Defendant again offered plaintiff a hearing, and, again, plaintiff did not respond. At the end of September 1988, defendant removed plaintiff’s name from the civil service reemployment list.
+In July 1990, plaintiff filed his petition for a writ of mandamus. In the petition, he maintained that defendant’s 1988 hearing "offer” confused both him and his attorney because defendant acted as though it did not "have to” afford plaintiff a hearing. It was not until December 1989, when plaintiff retained new counsel, that plaintiff received a "full explanation” of his rights, including his right to seek relief in a court of law. In response, defendant asserted the affirmative defense of laches and sought summary judgment. The circuit court granted the motion on October 28, 1992, and this appeal followed.
+Laches is an equitable doctrine which precludes the assertion of a claim by a litigant whose unreasonable delay in raising that claim has prejudiced his opponent. (Tully v. State of Illinois (1991), 143 Ill. 2d 425, 574 N.E.2d 659.) The doctrine evolved from the idea that courts should use restraint in aiding a party who has knowingly "slept on” his rights to the detriment of the opposing party. (Tully, 143 Ill. 2d at 432.) In order to invoke laches, the court must find a lack of diligence by the party asserting the claim and prejudice to the opponent resulting from the delay. Tully, 143 Ill. 2d at 432.
+Our courts have held that the unreasonable delay in bringing suits against public agencies results in prejudice to the agency:
+"[I]n civil service cases, where prolonged delay may easily prejudice governmental bodies, impair orderly procedures and work to the disadvantage of third parties, time is an essential factor. The most stringent requirement timewise is in those cases brought by civil service employees to compel reinstatement and payment of back salaries after discharges alleged to be illegal. A rule had been established that if these actions are not brought within six months of the discharge, they will be barred on the ground of laches, unless a reasonable explanation can be given for the delay.” (Kadon v. Board of Fire & Police Commissioners (1964), 45 Ill. App. 2d 425, 430, 195 N.E.2d 751.)
+Our supreme court has emphasized this point by noting that
+"if the employee succeeds in securing accrued back pay, the employer must pay him for services rendered by a third person and for which that third person had already been compensated. Thus, the longer the delay, the greater the burden on the employer. We recognize this risk and agree that the defense of laches should be available to an employer when sued by a discharged public employee.” (People ex rel. Casey v. Health & Hospitals Governing Comm’n (1977), 69 Ill. 2d 108, 115, 370 N.E.2d 499.)
+As a result, in civil service cases, prejudice is presumed if the delay has been longer than six months and cannot reasonably be explained. Casey, 69 Ill. 2d at 115.
+In the present case, the record establishes that plaintiff knew that he could not be discharged from his position as an electrician without a hearing. At his deposition, plaintiff stated that he knew about his right to a hearing, with regard to his civil service position, as early as January 1988. The record also reveals that plaintiff knew that, upon his appointment to the Soldier Field jobs, he was moving from a civil service job to a temporary assignment. However, he claims that despite this knowledge, he was "confused” by defendant’s insistence that it did not owe him a hearing. Even if we were to give plaintiff the benefit of the doubt on the issue of this "confusion” and its bearing on plaintiff’s diligence, still unexplained is why, after admittedly securing new counsel who "fully explained” plaintiffs rights in December 1989, plaintiff waited an additional seven months to file his petition. The record is silent as to this period of inaction, and plaintiff has failed to offer a reasonable explanation for this delay.
+In reviewing a grant of summary judgment, this court’s function is to determine whether the circuit court correctly entered judgment as a matter of law. (John v. City of Macomb (1992), 232 Ill. App. 3d 877, 596 N.E.2d 1254, appeal denied (1992), 147 Ill. 2d 627, 606 N.E.2d 1227.) Given the facts of this case, the circuit court correctly invoked the doctrine of laches against plaintiff. Accordingly, the entry of summary judgment for defendant must be affirmed.
+Affirmed.
+CAMPBELL, P.J., and BUCKLEY, J., concur.
+The position of electrician is considered a civil service job. As a result, seniority, eligibility, and discharge procedures are governed by statute. See 70 ILCS 1210/9, 1210/12 (West 1992).
