@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-01-27"
+citations: ["18 Ill. App. 232"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William T. Hixon et al. v. Charles H. Mullikin."]
+source_url: "https://static.case.law/ill-app/18/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 865105
+cites_cases: ["19 Ill. 594"]
+---
+
+# Hixon v. Mullikin
+
+## Majority (Wilson, J.)
+
+Wilson, J.
+One Casterline being indebted to’appellee in the sum of $776, executed to him his judgment promissory note, dated December 6, 1883, for the sum of $775, payaVc January 15, 1884, also a note for $1, due one year after date, and to secure payment of both notes executed a chattel mortgage upon a stock of monuments which he was manufacturing and selling in the city of Chicago, as also upon “all other material in, or that may he npon the premises in future during the term of this instrument.”
+The evidence tends to show that after the execution of the mortgage the mortgagor remained in possession of the mortgaged property and continued to manufacture and sell the monuments in the usual- course of business, openly and without concealment, and with the knowledge of appellee, down to July 17, 1884, a period of about six months after the maturity of the note for $775. On that day appellant Hixon recovered a judgment in the Superior Court of Cook county against Casterline for $237.92, upon which he sued out a writ of fi. fa. against the defendant and placed the same in the hands of appellant Hanchett, as sheriff of Cook county, to execute, who levied the same upon Casterline’s stock of goods, then in the latter’s possession. Appellee replevied the goods by bringing the present suit, claiming them under his mortgage. The jury found the property to be in the plaintiff and he had judgment accordingly; and the defendant appealed to this court.
+The mortgage provided that it should be lawful for the mortgagor to retain possession of the goods at his own expense, and keep and use them until default should be made in the payment of the debt; and also that the mortgagee might at any time take possession of the same if he should feel insecure or fear a diminution, etc.
+In the view we take of the case it is unnecessary to express any opinion as to the validity of the mortgage upon its face, or to inquire whether the business was conducted by Caster-line, the mortgagor, after the execution of the mortgage, by selling the goods at retail with the knowledge and consent of the mortgagee, in such manner as to render the mortgage invalid as against the rights of Casterline’s other creditors.
+The statute in relation to chattel mortgages provides that a chattel mortgage duly executed, acknowledged and recorded, shall, if Iona fide, be good and valid from the time it is tiled for récord until the maturity of the debt or obligation, provided such time shall not exceed two years. In Cass v. Perkins, 23 111. 382, it is held that a mortgagee in order to preserve his lien must take possession promptly on default in the payment of his debt; and in Reed v. Eames, 19 Ill. 594, the court decided that permitting the goods to remain with the mortgagor after default is a fraud per se, not susceptible of explanation, the reason being that suffering the possession to remain in the mortgagor makes him the ostensible owner, and thereby gives him a false credit.
+It was therefore necessary for appellee, if he desired to preserve his lien upon the goods as against the judgment creditors of Casterline, to have taken possession of the same promptly upon the maturity of his debt; and the question is, when did such maturity take place ? The debt was §776, for which he gave his judgment note for §775, payable January 15,1884, or about forty days after date, and a note for §1 due one year after date. Such a division it seems to us is susceptible of but a single inference, and that is, that the making of the one dollar note was a mere device to keep the creditors of the mortgagor at arm’s length and prevent their seizing the goods for the period of a year, or thereabouts, after appellee’s debt had matured. It was wholly incompatible with a iona fide arrangement to give the mortgagor the benefit of an extension of time on a portion of his indebtedness. We do not question the right of a flebtor, with the consent of his creditor, to divide up his indebtedness by making it payable in installments and securing it by a chattel mortgage which would be binding until the maturity of the last installment, not exceeding two years, if the division is made in such manner as to comport with a iona fide business transaction. But where, as in this case, a debt of §776 is divided into sums of §775, evidenced by a note payable in forty days, with a power of attorney to confess a judgment, and a note for §1 payable in a year, and this is made the basis of a chattel mortgage giving the possession of the goods to the mortgagor for that time, the inference is very plain that the design was to save the goods from seizure by other creditors, and the transaction was in fraud of their rights. It follows that as the goods were not reduced to possession by the mortgagee until six months after the maturity of his debt, they were subject to appellants’ execution and the jury should have found the property in appellants.
+The judgment will be reversed and the cause remanded for a new trial.
+Reversed and remanded.
