@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-271"
+decided: "1979-09-25"
+citations: ["76 Ill. App. 3d 878"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. MICHAEL MITCHELL, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/76/cases/0878-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3277516
+cites_cases: ["19 Ill. App. 3d 779", "280 N.E.2d 723", "312 N.E.2d 659", "354 N.E.2d 911", "368 N.E.2d 882", "385 N.E.2d 184", "389 N.E.2d 670", "4 Ill. App. 3d 291", "41 Ill. App. 3d 914", "67 Ill. App. 3d 911", "68 Ill. 2d 149", "71 Ill. App. 3d 267"]
+---
+
+# People v. Mitchell
+
+## Majority (Mr. JUSTICE EARNS)
+
+Mr. JUSTICE EARNS
+delivered the opinion of the court:
+The defendant, Michael Mitchell, appeals from his sentence of not less than three years nor more than nine years in the Department of Corrections after revocation of probation on a burglary conviction.
+On June 1, 1977, defendant was sentenced to two years probation after entering a plea of guilty to the charge of burglary. On July 15,1977, the State filed a petition to revoke, and after a hearing on the petition, the court revoked defendant’s probation and sentenced Mm on August 19, 1977, to not less than three years nor more than nine years in the Department of Corrections. On January 24, 1979, this court, pursuant to Supreme Court Rule 23 order, vacated the sentence because certain requirements of section 5 — 4—1 of the Unified Code of Corrections (Ill. Rev. Stat. 1977, ch. 38, par. 1005 — 4—1) were not complied with and remanded the cause for a new sentencing hearing. On April 16, 1979, defendant was resentenced.
+The defendant raises three issues on appeal, the first of which is that the trial court, who was predisposed to impose a sentence of three to nine years, should have been substituted, or have recused himself from this hearing. Defendant assumes the court was predisposed to impose a three-to nine-year sentence, because the defendant was warned at the time he was sentenced to probation that his sentence would be three to nine years if he violated probation. Defendant contends that the trial court herein was prejudiced in that in granting probation to the defendant he warned him of the consequences if he were to violate his probation. This court recognizes that this is a common practice in trial court proceedings where probation is granted and is done to exhort the probationer not to violate the terms of probation. We find that a defendant is not automatically entitled to substitution of judge for cause under section 114 — 5(c) of the Criminal Code of Procedure of 1963 (Ill. Rev. Stat. 1977, ch. 38, par. 114 — 5(c)) on the ground that the trial judge has warned the defendant of the consequences of his violation of the terms of probation. (People v. Malone (1976), 41 Ill. App. 3d 914, 354 N.E.2d 911.) Further, defendant did not make a motion for substitution of judges. Where no motion is made by a defendant for substitution of judges, there is no abuse of discretion if the judge does not recuse himself on his own motion. (People v. Gaynor (1974), 19 Ill. App. 3d 779, 312 N.E.2d 659 (abstract).) The trial court did not have the burden of justifying its retention of the case; defendant could obtain substitution of judge by showing actual prejudice. Yet, he took no steps so to do; therefore, this issue is waived for purposes of appeal. On the record before us, we do not believe that counsel was incompetent for failure to move for substitution of judge.
+Defendant’s second contention is that he was denied a fair sentencing hearing where he was not permitted to elect to be sentenced under the new Illinois sentencing act. (Ill. Rev. Stat. 1978 Supp., ch. 38, par. 1001 — 1—1 et seq.) Defendant stated at the sentencing hearing that he wished to be sentenced under the new act; however, the court stated he did not have an election of sentencing laws because he had been originally sentenced prior to the effective date of the new act.
+Section 8 — 2—4(b) of the new act provides in pertinent part:
+“If the defendant has not been sentenced before the effective date of this amendatory Act of 1977, he shall have the right to elect to be sentenced under the law as it existed at the time of his offense or under the law in effect on and after the effective date of this amendatory Act of 1977. If a sentence has been imposed before the effective date of this amendatory Act of 1977, the defendant shall not have the right of election even though his case has not been finally adjudicated on appeal.” (Ill. Rev. Stat. 1977 Supp., ch. 38, par. 1008 — 2—4(b).)
+Defendant argues that he should have been permitted to exercise the election and, alternatively, that to deny him the election violates due process and equal protection.
+Under the Unified Code of Corrections, probation is a sentence. (Ill. Rev. Stat. 1977, ch. 38, par. 1005 — 5—3(d)(1).) Defendant was therefore sentenced on June 1, 1977. Section 8 — 2—4(b) of the new act provides that one sentenced prior to February 1, 1978, “shall not have the right of election.” No error occurred, therefore, in not permitting defendant to elect as to sentencing upon revocation of his probation. People v. Perkins (1979), 67 Ill. App. 3d 911, 385 N.E.2d 184.
+Lastly, defendant contends that he has rebutted the presumption that a three- to nine-year sentence was proper. Defendant committed the burglary soon after becoming an adult. He has an extensive juvenile record. Within five weeks of being placed on probation defendant committed another burglary, which can be used by the court to reassess defendant’s rehabilitative potential. (People v. Ford (1972), 4 Ill. App. 3d 291, 280 N.E.2d 723.) The foregoing does not spark hope of defendant’s early rehabilitation. Evidence was presented that defendant was working toward, but not yet attained, his GED and was working in a prison industry. Defendant was also participating in a Bible study class. The foregoing are all commendable steps toward defendant’s rehabilitation. For the foregoing reasons, we find the sentence imposed was neither an abuse of discretion (People v. Perruquet (1977), 68 Ill. 2d 149, 368 N.E.2d 882), nor has the defendant rebutted the presumption that the sentence was proper (People v. Choate (1979), 71 Ill. App. 3d 267, 389 N.E.2d 670).
+The judgment of the Circuit Court of St. Clair County is affirmed.
+Affirmed.
+JONES, P. J., and KUNCE, J., concur.
