@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "61100"
+decided: "1975-06-19"
+citations: ["30 Ill. App. 3d 285"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Warren F. Spencer, M.D., Plaintiff-Appellant, v. The Community Hospital of Evanston et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/30/cases/0285-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2623847
+cites_cases: ["128 N.E.2d 645", "13 Ill.App.3d 846", "130 Ill.App.2d 906", "15 Ill.App.3d 769", "266 N.E.2d 165", "28 Ill.App.3d 671", "282 N.E.2d 728", "301 N.E.2d 67", "305 N.E.2d 270", "409 U.S. 1007", "51 Ill.2d 389", "6 Ill.App.2d 477"]
+---
+
+# Spencer v. Community Hospital
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court:
+An action seeking injunctive relief and damages was brought in the circuit court of Cook County by plaintiff, Dr. Warren F. Spencer, against defendants, Community Hospital of Evanston (hereinafter the Hospital) and individual members of the Hospital’s Board of Directors (hereinafter the Board). The complaint alleged that certain defendants wrongfully conspired to deny plaintiff medical and staff privileges at the Hospital; that the Board unlawfully initiated disciplinary action against the plaintiff without regard to pertinent Hospital bylaws; and that the Board purported to amend the procedures set out in the bylaws for disciplinary hearings so as to abridge plaintiff’s right to procedural due process. The complaint further charged that plaintiff had been given an inadequate time to prepare his defense and that a certain Board meeting, scheduled for October 2, 1974, was clearly calculated to deny him procedural due process. Plaintiff moved for injunctive relief to prevent defendants from holding any hearings to review the charges against him. On October 2, 1974, the trial court ordered postponement of the Board proceedings pending a hearing on plaintiffs motion.
+On October 18, 1974, an evidentiary hearing on the motion for a preliminary injunction was held. After hearing testimony and argument of counsel, the trial court denied plaintiffs motion for a preliminay injunction and authorized the Board hearing to proceed. The court, however, ordered that the proposed hearings should not commence until November 5, 1974, and directed the Hospital to make certain medical and administrative records available to plaintiff. Plaintiff now appeals from the order denying his motion for a preliminary injunction.
+Upon filing notice of his appeal, plaintiff petitioned this court for an order staying the Board hearings pending the outcome of this appeal. We denied that petition.
+In addition to their briefs, defendants have filed a memorandum suggesting that the issue raised in this appeal has become moot. Plaintiff has filed his brief and a response to the memorandum. Defendants state and plaintiff concedes that Board hearings commenced on November 11, 1974, and thereafter were conducted over the course of 25 sessions. Hearings concluded on February 18, 1975, and plaintiff was served with a notice of decision March 31, 1975. In view of the limited scope of the trial court’s order allowing defendants to conduct the hearings and in light of the conclusion of those hearings, defendants urge that the issue on appeal is moot and that the appeal should be dismissed.
+A reviewing court will only decide actual controversies in which the interests or rights of the parties to the litigation can be effected. (Shoal Creek Drainage District v. Gulf Interstate Engineering Co. (1971), 130 Ill.App.2d 906, 266 N.E.2d 165.) Where there are changed circumstances which render the issue on appeal moot, the appeal will be dismissed. (Save-At Builders Products Co. v. American Federation of State, County & Municipal Employees (1973), 13 Ill.App.3d 846, 301 N.E.2d 67.) The present appeal is from an order denying a preliminary injunction, and the sole question for review is whether the trial court abused its discretion by allowing the Board hearings to go forward. (Amber Automotive, Inc. v. Illinois Bell Telephone Co. (1973), 15 Ill.App.3d 769, 305 N.E.2d 270.) Since the filing of this appeal, the hearings have been concluded and a decision has been rendered. This court cannot grant plaintiff the relief he originally sought. We, therefore, have decided to dismiss the appeal on the ground that it is moot.
+Moreover, it is not necessary to remand this cause to the trial court since the case is still pending in that court. The finding of the trial court denying the preliminary injunction is not dispositive of the merits of the case, and plaintiff is not foreclosed from a full and complete hearing on all the issues contained in the complaint. (Nationwide Advertising Service, Inc. v. Kolar (1975), 28 Ill.App.3d 671; United Mail Order, Warehouse & Retail Employees Union, Local 20 v. Montgomery Ward & Co. (1955), 6 Ill.App.2d 477, 128 N.E.2d 645.) All questions relating to the propriety of the Board’s actions and the conduct of the hearings must await presentation to the trial court and adjudication at a future date.
+Plaintiff, however, is concerned that the trial judge, by virtue of certain remarks made at the hearings on the motion for an injunction, has indicated that he is without jurisdiction in matters concerning the internal operation of a private hospital board. Plaintiff’s concern is belied by certain aspects of the record. The proscriptions included in the order-denying a preliminary injunction indicate that the trial judge recognized and exercised his jurisdiction over the subject matter of this case. Additionally, the trial court expressed willingness to schedule further hearings on the matter. Moreover, defendants have conceded in this court that the trial court has jurisdiction over the subject matter of this cause. See Van Daele v. Vinci (1972), 51 Ill.2d 389, 282 N.E.2d 728, cert. denied (1972), 409 U.S. 1007.
+Finally, at oral argument, counsel for plaintiff has requested this court to stay the effect of the notice of decision served by the Hospital upon plaintiff until the respective rights and duties of the parties can be determined. The decision of the Board is not within this record and cannot properly be brought before us in this appeal.
+Accordingly, the appeal from the order of the circuit court of Cook County is dismissed.
+Appeal dismissed.
+DEMPSEY and MEJDA, JJ., concur.
