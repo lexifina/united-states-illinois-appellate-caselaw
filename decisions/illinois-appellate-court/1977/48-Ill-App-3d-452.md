@@ -1,0 +1,44 @@
+---
+court: "Illinois Appellate Court"
+docket: "13368"
+decided: "1977-05-16"
+citations: ["48 Ill. App. 3d 452"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. JOSEPH L. BRICKER, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3371524
+cites_cases: ["133 Ill. App. 2d 299", "18 Ill. App. 3d 995", "195 N.E.2d 180", "23 Ill. App. 3d 394", "26 Ill. App. 3d 613", "273 N.E.2d 37", "28 Ill. App. 3d 237", "29 Ill. App. 3d 825", "290 N.E.2d 209", "30 Ill. 2d 94", "311 N.E.2d 282", "319 N.E.2d 255", "325 N.E.2d 446", "328 N.E.2d 49", "397 U.S. 436", "53 Ill. 2d 114", "58 Ill. 2d 598"]
+---
+
+# People v. Bricker
+
+## Majority (Mr. JUSTICE TRAPP)
+
+Mr. JUSTICE TRAPP
+delivered the opinion of the court:
+Defendant appeals his conviction of armed robbery entered upon a jury verdict. A sentence of 5 to 10 years was imposed, but is not an issue here.
+Upon appeal it is argued that there was a failure to prove guilt beyond a reasonable doubt because the identification by the victim of the robbery was uncertain, that the trial court erred in admitting certain rebuttal testimony because the ultimate fact of defendant’s whereabouts was estopped by a prior verdict and because of the improper closing argument of the prosecution.
+Initially defendant was tried for two unrelated armed robberies. At such trial he was acquitted of the armed robbery of a filling station, but was convicted of the armed robbery of a hotel. Upon appeal, this court reversed and remanded the former conviction for a new trial because the trial court refused to sever the trial of the unrelated offenses. People v. Bricker (1974), 23 Ill. App. 3d 394, 319 N.E.2d 255.
+The opinion upon the prior appeal was not required to consider the evidence in detail. The principal witness for the prosecution, Wayne Wilkinson, was the night clerk at a hotel. At about 3:30 a.m. on July 14, 1972, a man approached Wilkinson as he stood in the front of the hotel. They went into the hotel where the man made inquiry about trivial business concerning change, and as Wilkinson opened the cash register the man drew a gun and committed the robbery. The witness testified that the lighting was good and the man was in his presence for about five minutes.
+Wilkinson notified the police at the earliest opportunity and within about 15 minutes defendant was apprehended through inquiry at a second hotel and was brought into the presence of Wilkinson who promptly identified the defendant as the robber. The next morning the witness identified defendant in a lineup of six individuals. The witness made positive identification of the defendant at each of the trials. Defendant argues that there is a reasonable doubt as to the identification because his initial description given to the police varied as to defendant’s height and weight from that shown at trial, and because Wilkinson failed to recall observing defendant’s mustache and the tattoos prominent on his forearms. The initial description was by telephone.
+The argument relating to the failure to observe or recall tattoos was raised upon the prior appeal and this court held that the discrepancy was insufficient to interfere with the finding of guilt. Such determination of the issue is the law of the case here. That opinion also determined that the identification by the one witness was sufficient to support the jury’s verdict of guilty.
+It is now argued that Wilkinson did not notice that defendant was wearing a mustache. The premise seems to be founded upon a question and answer in cross-examination:
+“Q. But, just answer this question yes or no, if you can. Do you remember seeing a mustache on the individual when the gun was pointed at you?
+A. No. * * * ”
+At this trial Wilkinson testified that defendant had short hair and a mustache, but that he had not particularly recalled it at the prior trial. The record includes a police report furnished upon discovery wherein the description given by Wilkinson included a mustache. The record also shows that at the lineup at about 10 a.m. on July 14 the six individuals in the lineup, including the defendant, all had mustaches.
+While there is some variation in the witness’s estimate of the height and weight of defendant, the record shows that the witness was a smaller man, that he described the robber as “hefty,” not fat but large in bone structure. Such variations in physical description which may be said to exist are elements for the jury to consider in the weight to be given the testimony. People v. Guyton (1972), 53 Ill. 2d 114, 290 N.E.2d 209; People v. Winston (1975), 28 Ill. App. 3d 237, 328 N.E.2d 49.
+The argument that the admissibility of the testimony of a prosecution’s rebuttal witness was estopped by the verdict of acquittal at the prior trial arises from the following facts: Defendant tendered the testimony of witnesses as to his presence at the Paramount Bar throughout the early evening until closing at 1 a.m. There were no witnesses other than defendant as to his whereabouts from such time until the robbery.
+In rebuttal the prosecution offered the testimony of a witness, Murphy, that defendant was at a Skelly gasoline station at 12:30 a.m. Defendant was acquitted of a charge of robbing Murphy at that time and place. It appears that none of such evidence by either the defendant or the prosecution is of actual significance as to this armed robbery.
+It is not contended here that Murphy’s testimony before the jury introduced evidence of another crime. (See People v. Butler (1971), 133 Ill. App. 2d 299, 273 N.E.2d 37; People v. Whitley (1974), 18 Ill. App. 3d 995, 311 N.E.2d 282.) Defendant’s argument is in the context that the “verdict of acquittal is res judicata to all issues in the case” (the robbery of the Skelly station). At the hearing upon the post-trial motion, the trial court pointed out that the jury might have concluded from the evidence “that this defendant and Mr. Murphy were jointly involved in the loss of funds from that place rather than it being an armed robbery.”
+In Ashe v. Swenson (1970) 397 U.S. 436, 25 L. Ed. 2d 469, 90 S. Ct. 1189, the court stated that the test is “whether a rational jury could have grounded its verdict upon an issue other than,that which the defendant seeks to foreclose from consideration. ° ° ° ” 397 U.S. 436, 444, 25 L. Ed. 2d 469, 475-76.
+In Ashe, the court concluded that the rule of collateral estoppel should be applied for the reason that in that case a rational jury could not have found that a robbery did not occur, or that the prosecuting witness had not been a victim of the robbery, so that the sole issue decided by the jury was whether defendant was one of the robbers.
+In People v. Ulrich (1964), 30 Ill. 2d 94, 195 N.E.2d 180, the court said that estoppel by verdict requires that it conclusively appear that a specific fact was so in issue that it was necessarily determined by the verdict, but that if there is any uncertainty as to such fact estoppel does not apply. Upon this record the acquittal of defendant upon the charge of robbery is not an estoppel making the testimony of Murphy inadmissible in rebuttal.
+Defendant argues that the closing argument of the prosecution was so prejudicial as to deny defendant a fair trial. We find that defendant’s argument made comment upon the identification made by Wilkinson as that of a “scared” young man who didn’t know what was happening and that “he can make that mistake, and that one mistake can ruin a man’s life.” In rebuttal, the State’s Attorney pointed out that Wilkinson’s identification had been positive upon each occasion, that he was then a seminarian, and said:
+“You ask yourselves whether Wayne Wilkinson, the God-fearing person we know he is, whether Wayne Wilkinson would take that witness stand knowing he may be making a mistake, or the possibility of a mistake?”
+It is now argued that the statements were “actually attestations to the truth and veracity of the State’s witness.” The record shows that such argument was in response to the argument of defendant’s counsel critical of the weight to be given to Wilkinson’s identification. The argument actually requests the jury to consider the background of the witness and the degree of certainty in his testimony. We do not find a personal vouching for the truth of Wilkinson’s testimony by counsel as in the cited People v. Martin (1975), 29 Ill. App. 3d 825, 331 N.E.d 311. The argument here is of the nature of closing argument held to be proper as comment upon the credibility of a witness as in People v. Oden (1975), 26 Ill. App. 3d 613, 325 N.E.2d 446, appeal denied, 58 Ill. 2d 598.
+The judgment is affirmed.
+Affirmed.
+GREEN, P. J., and MILLS, J., concur.
