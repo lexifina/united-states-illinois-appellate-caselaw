@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 51,716"
+decided: "1967-10-27"
+citations: ["88 Ill. App. 2d 38"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LYONS, P. J. and MURPHY, J., concur."]
+parties: ["The Metropolitan Sanitary District of Greater Chicago, a Municipal Corporation, Plaintiff-Appellant, v. Ernst J. Rieck, Charles E. Rieck, William C. Rieck and Marie C. Rieck, Co-Partners, Doing Business As the Grand Salt Company, Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-2d/88/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8498957
+cites_cases: ["120 NE 826", "285 Ill 423", "82 NY 476"]
+---
+
+# Metropolitan Sanitary District of Greater Chicago v. Rieck
+
+## Majority (MR. JUSTICE BRYANT)
+
+MR. JUSTICE BRYANT
+delivered the opinion of the court.
+This is an appeal from a decree of the Circuit Court of Cook County dismissing the complaint for a declaratory judgment.
+The Metropolitan Sanitary District of Greater Chicago (“plaintiff” herein) is the lessor under a lease of October 1, 1953, of a tract of approximately ten acres. The Riecks (“defendants” herein) are the lessees. The land which is the subject of the lease is District land adjacent to the District Sanitary ship canal. The term of the lease is fifty years beginning October fifteenth, 1953. According to the lease, the premises were to be used by the lessees for the purpose of warehousing salt and other commodities. The lessees agreed to improve the premises within five years from the date of the lease by the construction of a warehouse and clusters for a barge terminal. The lease required the lessees to submit all plans for the grading and drainage of the premises and for the erection of all buildings, “or any other construction” to the District’s Chief Engineer for his approval.
+When the sanitary ship canal was built before the turn of the century, soil, gravel and rocks were excavated. This material was deposited along the banks of the channel and placed on the premises involved in this suit. This material formed what is referred to as the “spoil bank.” In 1964 the defendants-lessees entered into an agreement with Edmier, Inc. for the removal and sale of the spoil bank which Edmier wished to use as fill in highway construction. Plaintiff objected to that agreement. In April, 1964, plaintiff and defendants entered into an escrow agreement which provided that Edmier, Inc., for and in behalf of defendants, would deposit in the escrow account all monies paid by it for the purchase of the spoil. The fund thus deposited was to be held in the account for the benefit of the judicially determined owner of the spoil bank.
+Suit for declaratory judgment was brought by the Sanitary District. The cause was referred to a Master in Chancery. His Report finding defendants entitled to the funds held in the escrow account was approved by the Chancellor. The Chancellor’s decree directed payment of the escrow funds to defendants.
+On appeal plaintiff argues that the lease indenture did not authorize the lessees to remove or sell the spoil bank; that it would have been an act ultra vires for the District to have so sold the spoil bank; that it would be an unjust enrichment of defendants to allow them to retain the spoil bank money; and finally, that defendants’ sale of the spoil bank constitutes waste. We consider the first of these arguments to be dispositive of this case.
+It is clear that the spoil bank was realty. The Illinois Supreme Court squarely faced this issue in Sanitary Dist. of Chicago v. Young, 285 Ill 423, at 425, 120 NE 826 (1918), and speaking in reference to the canal involved in this suit stated:
+“The spoil banks are clearly a part of the real estate upon which they were placed when the excavation for the canal was made. The material comprising the spoil banks was part of the soil when excavated, and its character as land was not changed by reason of its displacement from the bed it originally occupied. It became incorporated with and a part of the soil where it was deposited. (Lacustrine Fertilizer Co. v. Lake Guano and Fertilizer Co., 82 NY 476.)”
+It is also clear that the agreement between the parties of October, 1953, was a lease and not a sale of the premises. Appellees contend that the lease must be construed against the appellant because sound rules of construction require a lease to be construed most strongly against the lessor and against the party drafting the lease. These, no doubt, are sound rules of construction and are applicable where a lease is vague or ambiguous in its language. We do not find language in this lease indenture, however, which requires their application.
+Defendants point to the provisions of the lease requiring lessees to undertake certain specified improvements upon the property, and contend that the contemporaneous construction placed upon this requirement by the parties demonstrates their right to sell the material. We do not agree. The testimony showed that removal of the spoil bank material was not necessary for construction of the warehouse and barge facilities. Only about five truckloads, a very small amount of spoil bank, were actually removed preparatory to this construction. The large scale sale to Edmier occurred after the completion of the construction. The removal of spoil bank incident to the construction was merely a leveling of the area to be occupied by the warehouse with the excess soil being removed to another area of the premises. These facts, coupled with the fact that the District was unaware that even the five loads had been carried away from the premises, do not indicate a contemporaneous construction of the parties requiring or allowing removal of spoil from the premises. On the contrary, these facts suggest that even defendants did not suppose large scale removal of spoil bank material from the premises to be a necessary implication of the construction requirements, but found removal to another area of the premises to be adequate.
+Defendants contend that the plaintiff’s argument on appeal denying the right of defendants to remove spoil from the premises is contrary to the argument advanced by plaintiff at trial. Defendants’ contention is that at trial plaintiff conceded defendants’ right to carry away the spoil and that plaintiff may not alter its theory on appeal. Plaintiff’s counsel’s statements at trial were to the effect that defendants could be required to remove spoil from the construction site at their own expense. We do not understand counsel’s remarks to have meant a complete removal from the premises but rather a removal from the site to be occupied by the warehouse to adjacent areas upon the premises.
+For the reasons stated the decree is reversed and the Circuit Court is instructed to enter a decree for the plaintiff.
+Reversed and remanded with instructions.
+LYONS, P. J. and MURPHY, J., concur.
