@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "62734"
+decided: "1978-03-22"
+citations: ["58 Ill. App. 3d 750"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOTTIE A. ZAGAR, Plaintiff-Appellant, v. FIELD ENTERPRISES EDUCATIONAL CORPORATION et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/58/cases/0750-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5627954
+cites_cases: ["176 Ill. 608", "244 N.E.2d 809", "25 Ill. App. 3d 606", "311 N.E.2d 138", "323 N.E.2d 582", "348 N.E.2d 474", "38 Ill. App. 3d 747", "41 Ill. 2d 468", "428 F.2d 531", "52 N.E. 924", "57 Ill. 2d 120"]
+---
+
+# Zagar v. Field Enterprises Educational Corp.
+
+## Majority (Miss JUSTICE McGILLICUDDY)
+
+Miss JUSTICE McGILLICUDDY
+delivered the opinion of the court:
+The plaintiff, Lottie A. Zagar, a nonlawyer who appeared pro se in the trial court and in this court, filed a two-count complaint in the Circuit Court of Cook County. Count I of her amended complaint alleged that Field Enterprises Educational Corp., William Phillips, its employee-relations manager, and Betty Bennett, the plaintiff’s supervisor, breached the plaintiff’s contract with Field. Count II alleged that Betty Bennett maliciously interfered with the plaintiff’s performance under the contract causing her dismissal from Field. The defendants moved for judgment on the pleadings alleging that neither count stated a cause of action. After a hearing, the trial court granted the motion. The plaintiff sought to vacate the court’s dismissal order and to reinstate the amended complaint, or in the alternative, the plaintiff moved that she be allowed to file a second amended complaint. After a hearing, the trial court denied the motion. The plaintiff has appealed from the order granting the defendant’s motion for judgment on the pleadings.
+The plaintiff contends that the trial court erred in dismissing both counts of her amended complaint. However, she no longer asks that she be given leave to file a second amended complaint as urged in the trial court. Rather, she stands on her amended complaint and asks that the trial court’s order be reversed and the cause remanded to allow the defendants to answer.
+The well-pleaded allegations of count I of the amended complaint essentially show that on August 28, 1972, the plaintiff began working for Field as a beginning micro-typist in the keypunch department at a salary of $99 per week. The plaintiff alleges that she is unable to state the exact terms of her employment, in which case we may assume for purposes of rilling on the propriety of the dismissal order, that the employment relationship was terminable at the will of either party, with or without cause. Roemer v. Zurich Insurance Co. (1975), 25 Ill. App. 3d 606, 323 N.E.2d 582.
+The plaintiff further alleges that on January 12, 1973, she, Arlene Mehnke, department manager, and Phillips entered into a “memorandum.” A copy of this memorandum appears as an exhibit attached to the complaint. This “Interoffice Correspondence” provides in pertinent part:
+“SUBJECT: Final Warning.
+A meeting was held today in my [Phillips’] office among Lottie Zagar, Arlene Mehnke and myself to discuss a problem regarding Miss Zagar’s work progress. Miss Zagar feels that her many errors and low production rate are because of the amount of training she has had to date. It has been agreed that one more hour of individual training by Kevin Foster should be sufficient to throughly [sic] allow Miss Zagar basic fundamentals of the Logic Machine. We will then watch Miss Zagar’s work through January 18th for errors and speed. We expect by that time that her work will be comparable to others at the same stage of development.
+If at the end of one week, things do not work out, we will see what other openings there are at night and transfer her. Should there be no openings available, we will have to terminate her.”
+The plaintiff alleges that Field and the other defendants breached the agreements contained in this memorandum because she was not given one full week, but was terminated summarily before the work day of January 19, 1973, and because the defendants made no effort to locate another opening for her as promised. As a result of this breach, the plaintiff alleges that she was damaged. The plaintiff makes other allegations in count I, some of which relate to the supposed reasons for which she was fired. However, the memorandum is the foundation of count I and other allegations which seek to explain, modify or interpret this memorandum are not controlling.
+We find that the trial court did not err in dismissing count I of the amended complaint. The interoffice correspondence is not a contract. The so-called promises which the plaintiff asks the corporation to perform are not supported by consideration and are, therefore, unenforceable. (Bank of Marion v. Robert “Chick” Fritz, Inc. (1974), 57 Ill. 2d 120, 311 N.E.2d 138.) The plaintiff has not promised to do anything in addition to her usual duties. She has furnished no consideration which would bind the corporation to perform the obligations that she claims it owes her. Her continuance as an employee is not consideration. J & R Electric Division v. Skoog Construction Co. (1976), 38 Ill. App. 3d 747, 348 N.E.2d 474.
+The plaintiff has not alleged that she was not given an extra hour of instruction as agreed to in the memorandum. The other statements therein appear to be immaterial to any promise of continued employment for the plaintiff, their performance being optional with the promisor. (Restatement of Contracts §2 (1932).) In any event, the so-called promise that the plaintiff’s supervisors would watch her work through January 18 for errors and speed seems to have been fulfilled, for the plaintiff was not discharged until January 19. The other language to the effect that her supervisors would “see” what other openings there were at night and transfer her, does not alter the otherwise customary employment relationship which was terminable at will. Buian v. J. L. Jacobs & Co. (7th Cir. 1970), 428 F.2d 531.
+We also find that the trial court properly dismissed count II of the amended complaint. In this count, Zagar attempts to set out a cause of action against Betty Bennett for the malicious interference with the contractual relationship between Zagar and Field. In paragraph 6 of count II, Zagar specifies that the contract which forms the basis of the action is the memorandum of January 12, 1973:
+“6. Defendant maliciously interfered with the breaking of the written memorandum, and is hable for making things impossible for plaintiff to perform her obligations in the proper manner of said memorandum. ” * *”
+Illinois recognizes an action for the tortious interference with a contract (Herman v. Prudence Mutual Casualty Co. (1969), 41 Ill. 2d 468, 244 N.E.2d 809; Doremus v. Hennessy (1898), 176 Ill. 608, 52 N.E. 924.) We have already determined that the memorandum is not a contract. Therefore, since the memorandum is not a contract, there can be no cause of action for malicious interference with a contract.
+Since neither count of Zagar’s amended complaint properly states a cause of action, we affirm the order of the Circuit Court of Cook County dismissing the amended complaint.
+Affirmed.
+McNAMARA and SIMON, JJ., concur.
