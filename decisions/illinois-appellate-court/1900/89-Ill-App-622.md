@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-06-12"
+citations: ["89 Ill. App. 622"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Town of Grafton v. Elizabeth Mooney."]
+source_url: "https://static.case.law/ill-app/89/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5279260
+cites_cases: ["111 Ill. 27", "158 Ill. 155", "159 Ill. 284", "168 Ill. 68", "177 Ill. 225", "180 Ill. 477", "48 Ill. App. 643"]
+---
+
+# Town of Grafton v. Mooney
+
+## Majority (Mr. Justice Burroughs)
+
+Mr. Justice Burroughs
+delivered the opinion of the court.
+This was an action on the case by appellee against appellant to recover damages for injuries received by her in consequence of the negligence of the municipal authorities of appellant in suffering a certain sidewalk, in the corporate limits of the town, to become and remain out of repair, by reason whereof appellee was injured while walking thereon, when in the exercise of due care for her safety.
+Appellant pleaded not guilty, and the case was tried by jurv, resulting in a verdict and judgment for appellee for the sum of $500 damages and costs. Appellant brings the case to this court by appeal, and urges us to reverse the judgment, claiming (1) that the verdict is contrary to the evidence; (2) the court admitted improper evidence; (3) the court refused to give proper instructions requested by appellant, and (4) the court improperly adjudged costs against appellant. Other errors than those urged are assigned upon the record by appellant, but not being noticed in the brief and argument of appellant in this court are waived, and need not, therefore, be considered. Strodtmann, for use, etc., v. County of Menard, 158 Ill. 155; and Dorn v. Ross, 177 Ill. 225.
+It appears by the evidence that appellee, a woman with one arm, was walking along and on a certain sidewalk of one of the principal streets in the town of Grafton, Illinois, and in the exercise of due care, when a man, walking alongside of her, stepped upon a loose board of the sidewalk, causing it to raise upward and the end thereof to strike appellee on the ankles, tripping and causing her to fall and break her arm. Several of the boards of the sidewalk where appellee was injured, were loose from the stringers by reason of the nails which held them having rusted and broken or come loose from the decayed stringers, and from the appearance of this walk at the time of the accident the condition stated had existed for a considerable time before then. The evidence, we think, warranted the jury in concluding the town authorities of appellant, by exercising reasonable diligence, ought to have discovered the unsafe condition of the sidewalk and repaired it before the accident, and in not so doing, were guilty of negligence.
+The court did improperly permit appellee to show, over objections of counsel for appellant, that the town authorities put a new sidewalk at the place in question a short time after the accident; it improperly refused to give appellant’s refused instruction telling the jury to disregard that testimony; it improperly refused to give appellant’s refused instruction telling the jury to consider the evidence and find a verdict in this case as though each of the parties were real persons, inasmuch as one was a woman, and the other a municipal corporation; and it also improperly refused appellant’s refused instruction telling the jury to disregard certain testimony which had been improperly admitted in evidence, but which on motion of appellant had been excluded from the consideration of the jury in their presence during the trial; but inasmuch as the evidence properly admitted warranted the finding of the jury that appellant was guilty as charged, and the damages assessed are reasonable in view of the injuries appellee received, we are unable to say that appellant had been prejudiced by those errors.
+Finally, appellant insists it was error for the court to allow costs against appellant, and in support thereof we are cited to the following cases: Holmes v. City of Mattoon, 111 Ill. 27; People ex rel. v. Village of Chapin, 48 Ill. App. 643; City of Carrollton v. Bazzette, 159 Ill. 284; and City of Decatur v. Hiedermeyer, 168 Ill. 68.
+These cases do hold that municipal corporations such as cities, towns and villages in this State, when sued or suing in the capacity of agents of the State in the enforcement of local government, such as prosecutions for the violation of their ordinances and the like, are exempt from paying costs, but the case at bar is not of that nature; here appellant is sued for negligence in not keeping a sidewalk in its corporate limits in a reasonable safe condition, a duty with which it is charged, not as an agency of the State, but in its private corporate capacity, and therefore is not exempt from paying costs. In the case of City of Chicago v. English, 180 Ill. 477, our Supreme Court not only affirmed a judgment for costs against the city of Chicago, where it was held liable in its capacity as a private corporation, as distinguished from its capacity as an agent of the State, but also, in that case on appeal, entered a judgment for costs against the city of Chicago.
+Inasmuch as the Circuit Court committed no reversible error in this case, we affirm its judgment. Judgment affirmed.
