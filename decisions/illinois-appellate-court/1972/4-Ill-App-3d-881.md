@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-1"
+decided: "1972-03-10"
+citations: ["4 Ill. App. 3d 881"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patricia Palmeri, Plaintiff-Appellee, v. Lloyd C. Adams, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/4/cases/0881-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2914938
+---
+
+# Palmeri v. Adams
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+Defendant appeals the trial court’s entry of summary judgment on plaintiff’s motion, and its assessment of damages against him in the sum of $3423.50.
+The complaint alleges that the plaintiff filed an action against Frawley Dodge, Inc., on January 24, 1969, which she prosecuted from that date until the 17th day of October, 1969, when judgment was entered in her behalf and against Frawley Dodge, in the amount of $3500 and costs of the suit. To date, the plaintiff has been able to collect only $210.03 on that judgment for which there remains due her $3423.57. It further alleges that defendant in the instant case, Lloyd C. Adams, acted in behalf of Frawley Dodge, Inc., in defending the suit. On the 25th of March, 1969, defendant Adams negotiated an agreement for the sale of assets to Lou Brock Dodge, Inc. As required by the Bulk Sales Act (Ill. Rev. Stat. 1969, ch. 26, par. 6), defendant executed an affidavit stating that there were no creditors of the seller who had or might have claims against the buyer because of said transfer. The complaint further alleges that the defendant executed said affidavit “at a time when he was personally aware of the claim being litigated in this court by the plaintiff against the seller and wherein defendant was actively resisting said claim.” In his answer, defendant admitted all the above allegations.
+The complaint further alleges that the moneys received by virtue of the above-described transfer have been apparently utilized by Frawley Dodge, Inc., for some other purpose and are not available for payment of the judgment in behalf of plaintiff. Defendant neither admitted nor denied this allegation.
+The complaint further alleges that because of the affidavit which defendant executed, the plaintiff did not receive a notice of the transfer of the assets and moneys by defendant to Lou Brock Dodge and the payment for those assets was not tendered to her in satisfaction of her claim against defendant, nor were they escrowed pending judgment. Defendant denied this allegation.
+The complaint was filed on May 7, 1970, being almost one year and two months after the alleged transfer of assets by defendant to Lou Brock Dodge, and approximately five and one-half months after the judgment out of which the debt arose.
+Subsequent to the filing of defendant’s answer, plaintiff moved for summary judgment on the grounds that there was no genuine issue as to any material facts with respect to defendant’s liability to the plaintiff for damages and the plaintiff was entitled to a judgment as a matter of law. In support of her motion, plaintiff asserted that the defendant admitted the allegations of the first four and seventh paragraphs of the complaint and that the defendant neither admitted nor denied the allegations of paragraphs 5 and 6, which, pleading under the laws of the State of Illinois, is to be considered as an admission of the allegations therein. Plaintiff also asserted that defendant denied the allegations of paragraph 8, but asserted affirmatively that denial was based upon the plaintiff being an employee and being aware of the transfer of said assets, wherein, by fact, in accordance with the affidavit which the plaintiff attached to her motion for summary judgment asserting that she was not an employee of the defendant at the time of the transfer and had no knowledge of any transfer of moneys nor to what extent the moneys traded hands.
+Defendant filed a motion and brief in opposition to plaintiff’s motion for summary judgment. Therein, defendant argued that plaintiffs action was barred by the statute of limitations. (Ill. Rev. Stat. 1969, ch. 26, par. 6 — 110.) That section, found in the Bulk Sales Act of the Uniform Commercial Code adopted by Illinois, states:
+“No action under this article shall be brought nor levy made more than six months after the date on which the transferee took possession of the goods unless the transfer has been concealed. If the transfer has been concealed, actions may be brought on levies made within six months after its discovery.”
+Defendant’s motion further alleges that more than six months have elapsed from the time transfer of possession of goods from Frawley Dodge, Inc. to Lou Brock Dodge, Inc. was made and the filing of the above lawsuit.
+The trial court denied defendant’s motion to withdraw his answer and file a motion to dismiss on the grounds that the statute of limitations contained in the Bulk Sales Act barred plaintiff’s action. On October 8, 1970, the trial court entered an order granting plaintiff’s motion for summary judgment, which defendant appeals.
+The issue presented for appellate review is whether the trial court properly refused to grant leave to defendant to withdraw his answer and file a motion to dismiss on the grounds of limitation. We find that the trial court committed no error, and thus we affirm.
+It is clear from the reading of the Bulk Sales Act, cited supra, that its purpose is to regulate the rights and liabilities of the transferor’s creditor and the transferee, each with respect to the other. The instant action was brought by the transferor’s creditor against defendant, an agent of the transferor, for damages occasioned by the former on account of a fraudulent affidavit knowingly executed by the latter. Although it is true that the Bulk Sales Act imposes certain duties and obligations on the transferor in connection with a bulk sales transfer (see, for instance, section 6 — 104), nevertheless it would be inconsistent with the purposes of the Act to apply the short statute of limitations set oiit in section 6 — 110 as a bar to actions other than those brought against the subsequent transferee. Therefore, it was not error for the trial court to refuse to allow defendant to amend his answer in order to set up section 6 — 110 as a limitation on plaintiff’s action.
+Judgment affirmed.
