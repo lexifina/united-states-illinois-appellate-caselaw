@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-03-18"
+citations: ["51 Ill. App. 128"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["World’s Columbian Exposition Co. v. Brennan."]
+source_url: "https://static.case.law/ill-app/51/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5112856
+cites_cases: ["1 Md. Ch. 97", "102 Ill. 379", "104 Ill. 639", "131 Ill. 552", "136 Ill. 407", "2 Bland, 461", "3 Bland, 63", "40 Ill. 481", "50 Ill. 459", "53 Pa. St. 224", "63 Pa. St. 224", "68 Ill. 121", "68 Pa. St. 370", "80 Ill. 85", "83 Ill. 146", "92 Ill. 170"]
+---
+
+# World's Columbian Exposition Co. v. Brennan
+
+## Majority (Me. Justice Waterman)
+
+Me. Justice Waterman
+delivered the opinion of the Court.
+Appellee filed in the Circuit Court a bill alleging that he is the lessee of fifty feet on the southeast corner of Stony Island avenue and 68th street, and has thereon commodious buildings, in which he carries on the saloon and restaurant business, and also rents to lodgers rooms above those in which his saloon and restaurant is situated; that for more than fifteen years last past, 68th street has been an open public highway, and that Stony Island avenue is one of the leading north and south public thoroughfares; that the greater portion of his business is derived from- persons who pass along 68th street in front of his premises; that on the 23d of January, 1893, the common council of the city of Chicago passed an ordinance-by which an attempt is-made to close up 68th street, and prevent its enjoyment by him, the said complainant, and that thereupon the World’s Columbian Exposition Company,proceeded to,and did obstruct said 68th street, by erecting across the same a tight board fence eight feet high, about twenty-four feet from his, complainant’s, said premises; whereby his business has been greatly injured and his property greatly depreciated in value. The complainant therefore prayed that the city of Chicago and the World’s Columbian Exposition Company be perpetually enjoined and restrained from further obstructing the said 68th street by the continuance of said fence or otherwise, and that they be commanded to remove said fence, to the end that 68th street shall be and remain an open and free public highway.
+The Columbian Exposition Company answered the bill, admitting that it had temporarily closed up 68th street, as alleged; that the same was done in pursuance of an ordinance of the city of Chicago, whereby it, said Exposition Company, was given leave, temporarily, to close up the said street, such closing being necessary for the proper carrying on of a great public enterprise in which it is engaged, and essential to the safety of the public.
+Upon the coming in of the answer, the court entered an interlocutory order, enjoining the city of Chicago and the World’s Columbian Exposition Company, until the further order of the court, from obstructing 68th street between Stony Island avenue and the waters of Lake Michigan, “ with the fence now there, or any other illegal obstructions,” and from preventing the use of 68th street by the general public.
+The control over the streets of a city to open, close or permit obstructions of them in the interest of the public, for Avhose use they exist, is, under certain regulations, in this State, vested in the city government. Cairo & V. Ry. Co. v. People, 92 Ill. 170; Chicago and Union Bldg. Assn., 102 Ill. 379; Meyer v. Village of Teutopolis, 131 Ill. 552; Carney v. Marseilles, 136 Ill. 407.
+If the property owner sustains special damage by reason of the acts of the city authorities in vacating or obstructing a street, the statute provides a means by which such damages may be ascertained, and he obtain compensation therefor. An owner has not a right to the perpetual maintenance of a street upon which his property abuts, although he may be entitled to recover damages because of the vacation of the street by the municipal authorities. Meyer v. Village of Teutopolis, supra; Dillon on Municipal Corporations, See. 666.
+In the present case the obstruction complained of, it appears, is designed by all the defendants to be only of a temporary character, and such obstruction also appears, from a consideration of the bill, answer and affidavits presented to the court, to have been necessary to the safety of the public.
+Without reference to what relief the complainant might have been entitled to on a final hearing, his bill presented no case for an interlocutory injunction. The obstruction complained of was already existing, and the court had no power by an interlocutory order to compel its removal. The sole object of an interlocutory injunction, is to preserve the subject in controversy in the condition it then is; it can not be used for the purpose of compelling the defendant to undo what he has already done. High, Injunctions, Sec. 4; Murdock’s Case, 2 Bland, 461; Bosley v. Susquehanna Canal, 3 Bland, 63; Farmers’ R. Co. v. Reno, O. C. & P. R. Co., 63 Pa. St. 224; Washington University v. Green, 1 Md. Ch. 97; Audenried v. Philadelphia & R. R. Co., 68 Pa. St. 370; Blakemore v. Glamorganshire, etc., 1 Myl. & K. 154.
+The appropriate function of an injunction is to afford preventive relief, not to restore parties to that' of which they have already been deprived. High on Injunctions, Sec. 23; Wangelin v. Goe, 50 Ill. 459; 2 Story’s Eq. Jurisprudence, Sec. 861; Dunning v. City of Aurora, 40 Ill. 481; Menard et al. v. Hood, 68 Ill. 121; Fisher v. Board of Trade, 80 Ill. 85; Baxter v. Board of Trade, 83 Ill. 146; Clark v. Donaldson, 104 Ill. 639; Atty. Genl. v. New Jersey R. R. Co., 2 Green’s Ch. 136.
+The order of the court below, enjoining the defendants, is reversed.
