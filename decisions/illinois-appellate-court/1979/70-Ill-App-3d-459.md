@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-1564"
+decided: "1979-03-30"
+citations: ["70 Ill. App. 3d 459"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v. PEPE THOMAS et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/70/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5575928
+cites_cases: ["20 L. Ed. 2d 883", "22 Ill. App. 3d 720", "221 N.W.2d 441", "227 F. Supp. 73", "237 N.E.2d 193", "273 F. Supp. 428", "290 F. 2d 51", "318 N.E.2d 80", "336 F. Supp. 214", "342 N.E.2d 800", "35 Ill. App. 3d 807", "359 N.E.2d 1147", "365 U.S. 834", "391 U.S. 969", "45 Ill. App. 3d 544", "5 L. Ed. 2d 744", "528 P. 2d 386", "81 S. Ct. 749", "88 S. Ct. 2043", "94 Ill. App. 2d 421"]
+---
+
+# People v. Thomas
+
+## Majority (Mr. JUSTICE PERLIN)
+
+Mr. JUSTICE PERLIN
+delivered the opinion of the court:
+Following a search by police of an apartment at 5846 South King Drive in Chicago, defendants Pepe Thomas, Elizabeth Williams and Marion Daniels were arrested and charged with possession of a controlled substance. The apartment was leased to Thomas who was charged also with possession of marijuana, unlawful possession of firearms and failure to produce a firearms registration. At a hearing held April 26, 1977, defendants moved to quash the search warrant which had authorized the search of Thomas’ apartment. The court granted defendants’ motion, finding that the warrant did not sufficiently describe the place to be searched because three bedrooms in the apartment were leased by Thomas to other persons. The State appeals.
+The sole issue for review is whether the court erred in sustaining defendants’ motion to quash the search warrant.
+We reverse.
+On January 31, 1977, Chicago police officer William Schwartz obtained a search warrant for a man named Pepe and a third-floor apartment located at 5846 South King Drive in Chicago. The complaint for the warrant alleged the following: An unnamed reliable informant told Officer Schwartz that at 1 a.m. on January 31, 1977, the informant had purchased a *50 bag of cocaine from a man named Pepe in a third-floor apartment at 5846 South King Drive. Officer Schwartz had known the informant for one year, and in the two months previous the informant had provided information to Schwartz which resulted in arrests and the recovery of narcotics on three separate occasions. The complaint also alleged that utility company records established that the utilities for the apartment were registered to Pepe Thomas.
+After serving the warrant on February 1,1977, Chicago police officers searched the third-floor apartment and arrested defendants for possession of a controlled substance. Thomas was charged also with possession of marijuana, unlawful possession of a firearm and failure to produce firearms registration.
+At a hearing held April 26, 1977, defendants moved to quash the warrant, alleging that the warrant was insufficient because it did not describe with sufficient particularity the premises to be searched. In support of the motion Daniel Myers testified that on February 1,1977, he was renting a room in Thomas’ third-floor apartment, which apartment consisted of seven rooms including four bedrooms and two bathrooms. He paid Thomas *22 a week for a private bedroom and the common use of the kitchen and a bathroom.
+Pepe Thomas testified that on February 1, 1977, he was living in a third-floor apartment at 5846 South King Drive. He leased the entire four-bedroom apartment but “rented out” three of the bedrooms to other occupants at *22 a week. Thomas stated that the landlord had knowledge that “I would have people living in with me.” Thomas testified that he was present when police officers searched the apartment on February 1,1977.
+Officer Schwartz testified that after he had entered the third-floor apartment he was advised by defendants that three bedrooms had been sublet to other persons by Thomas. Officer Schwartz searched the entire apartment, including all four bedrooms.
+The court sustained defendants’ motion to quash the search warrant, finding that it “should have been specified in the affidavit, probable cause for each apartment.”
+The State contends that the court erred in sustaining defendants’ motion to quash the search warrant. The State argues that the warrant was sufficient to describe with particularity the premises to be searched. The warrant authorized the search of a male Negro known as Pepe and the third-floor apartment in the building at 5846 South King Drive. The warrant noted that according to utility company records Thomas was the registered lessee of the apartment.
+A search warrant is sufficiently descriptive if it enables a police officer executing the warrant to identify with reasonable effort the place intended to be searched. It is not necessary that the description in the warrant be technically correct; rather the warrant must identify the place to be searched to the exclusion of all others. People v. Edwards (1st Dist. 1976), 35 Ill. App. 3d 807, 808, 342 N.E.2d 800.
+In People v. Szymanski (1st Dist. 1974), 22 Ill. App. 3d 720, 318 N.E.2d 80 (abstract), police officers executed a search warrant for a one-story house with a basement. After completing a search of the first floor, the officers searched the basement which was found to be rented and occupied by another family. The court found the warrant sufficiently described the place to be searched because the description in the warrant was in accord with the outward appearance of the building. The court noted, citing United States v. Poppitt (D.C. Del. 1964), 227 F. Supp. 73, that the officers had no reason to believe that the house was subdivided.
+In the instant case the record shows that the apartment was not structurally subdivided. We find nothing in the record that would have put the officers on notice that other persons lived in the apartment.
+Additional authority indicating that the search warrant in the case at bar was sufficient to describe the place to be searched can be found in other Illinois cases. In People v. Collins (2nd Dist. 1977), 45 Ill. App. 3d 544, 359 N.E.2d 1147, and in People v. Hartfield (5th Dist. 1968), 94 Ill. App. 2d 421, 237 N.E.2d 193, the courts upheld the validity of the warrants because the “multi-unit character” of the apartments was not apparent to the officers.
+Defendants attack the validity of the search in the instant case because after serving the warrant and learning that others shared Thomas’ apartment, Schwartz continued to search the entire apartment and did not restrict his search to Thomas’ bedroom or the common areas.
+In United States v. Esters (D.C. Mich. 1972), 336 F. Supp. 214, the court stated that the test to be applied in these circumstances is not whether the officers had actual knowledge of the character of the apartment but whether the officers should have known that the apartment was more than a one-family unit when they applied for the warrant, citing Owens v. Scafati (D.C. Mass. 1967), 273 F. Supp. 428, cert, denied (1968), 391 U.S. 969, 20 L. Ed. 2d 883, 88 S. Ct. 2043.
+In United States v. Santore (2d Cir. 1964), 290 F. 2d 51, cert, denied (1961), 365 U.S. 834, 5 L. Ed. 2d 744, 81 S. Ct. 749, the agent or affiant had no knowledge and was not warned that others lived in the apartment until after officers had entered the apartment and had shown a copy of the warrant to defendant. The court upheld the warrant and search of the entire apartment, finding that it was too late, consistent with the success of the agent’s mission, to require the agent to withdraw and obtain a new warrant. The court ruled that the warrant described the place to be searched with the necessary degree of practical accuracy.
+At the time the warrant was issued in the instant case, Schwartz had no knowledge that rooms were sublet to other persons. Thus it would have been unreasonable to have required Schwartz to abandon his search and to obtain additional warrants. (See People v. McGill (Colo. 1974), 528 P. 2d 386; People v. Franks (Mich. App. 1974), 221 N.W.2d 441.) We conclude that the search of the entire apartment, even after Schwartz was informed that rooms were sublet, did not render the warrant invalid.
+For the foregoing reasons we find that it was error to quash the search warrant.
+Reversed.
+DOWNING and HARTMAN, JJ., concur.
+The record does not indicate the rooms in which the police allegedly found drugs or a gun.
