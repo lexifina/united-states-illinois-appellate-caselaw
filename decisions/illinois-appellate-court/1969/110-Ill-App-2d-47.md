@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 52,269"
+decided: "1969-04-24"
+citations: ["110 Ill. App. 2d 47"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American National Bank and Trust Company, as Trustee Under Trust No. 18373, Plaintiff-Appellee, v. City of Chicago, a Municipal Corporation, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/110/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1594028
+cites_cases: ["10 Ill2d 178", "107 Ill App2d 90", "139 NE2d 270", "181 NE2d 175", "190 NE2d 717", "196 NE2d 498", "208 NE2d 323", "221 NE2d 323", "24 Ill2d 348", "246 NE2d 42", "28 Ill2d 157", "46 Ill App2d 1", "60 Ill App2d 82", "76 Ill App2d 62"]
+---
+
+# American National Bank & Trust Co. v. City of Chicago
+
+## Majority (MR. PRESIDING JUSTICE SULLIVAN)
+
+MR. PRESIDING JUSTICE SULLIVAN
+delivered the opinion of the court.
+Defendant appeals from a judgment declaring the Chicago Zoning Ordinance unconstitutional as applied to property located at 5253-65 South Cicero Avenue, Chicago, and declaring that the plaintiff has a clear legal right to erect four buildings, each containing three dwelling units, on four individual lots located in a B4-1 Restricted Service District. The defendant contends that the plaintiff failed to properly exhaust the local administrative or legislative remedies available to it and that the plaintiff failed to show by clear and convincing evidence that the Chicago Zoning Ordinance is arbitrary and unreasonable and, therefore, plaintiff has failed to rebut the presumption of validity in favor of the ordinance.
+The plaintiff has failed to file an appearance or brief in this court and this cause on appeal could be reversed and remanded or this court could summarily reverse the judgment of the trial court. (541 Briar Place Corp. v. Harman, 46 Ill App2d 1, 196 NE2d 498; Ogradney v. Daley, Mayor, 60 Ill App2d 82, 208 NE2d 323.) On the other hand, this court may examine the points raised by appellant to see if they merit reversal. Perez v. Janota, 107 Ill App2d 90, 246 NE2d 42.
+The property involved is located at 5253-65 South Cicero Avenue. It has a frontage of 153 feet on the east side of Cicero Avenue and a depth of 108 feet. It contains 16,524 square feet of lot area and is vacant. The property is zoned B4-1, Restricted Service District, Chicago, Ill., Zoning Ordinance, Map 12-K (1967).
+On August 18, 1965, the plaintiff filed an application for an amendment to the Chicago Zoning Ordinance to rezone the subject property. It requested that the property be rezoned B4-2, Restricted Service District. The City Council of the City of Chicago denied this request. Both a B4-2 zoning classification and a B4-1 classification are business district classifications. Chicago, Ill., Zoning Ordinance, art 4, § 4.1.
+In the complaint for declaratory judgment, the plaintiff requested the right to erect four buildings, each containing three dwelling units on the ground floor. The proposed use would require an R-4, General Residence District zoning classification which is residential in nature, Chicago, Ill., Zoning Ordinance, art 4, § 4.1 (1967) and which allows dwelling units below the second floor, Chicago, Ill., Zoning Ordinance, art 7, § 7.5-4 (1967).
+The defendant’s answer sets forth that the plaintiff had not properly exhausted its local remedies by applying for an amendment to the zoning ordinance and points out that plaintiff had requested in its petition for amendment that the subject property be rezoned B4-2, Restricted Service District while the relief sought in the action for declaratory judgment would in effect result in a reclassification to R-4, General Residence District.
+The defendant is correct in asserting that the plaintiff’s petition before the City Council for amendment to the existing ordinance, even if granted, would not have given the plaintiff the relief it later sought to obtain by the declaratory judgment action since, as stated before, both BA-2 and B4-1 zoning classifications prohibit dwelling units on the ground floor. However, dwelling units on the ground floor of an improvement located in a Restricted Service District are permitted special uses, Chicago, Ill., Zoning Ordinance, art 8, § 8.4-4 (3) (1967). Special uses cannot be granted by the City Council, but must be sought by applying to the Zoning Board of Appeals of the City of Chicago, Chicago, Ill., Zoning Ordinance, art 8, §§ 8.3-4A(l), 8.A-4(3), art 11, § 11.10-2 (1967). The plaintiff never attempted to secure such relief.
+In Bright v. City of Evanston, 10 Ill2d 178, 139 NE2d 270, the Supreme Court established by judicial policy that a property owner is first required to exhaust all administrative remedies before challenging a zoning ordinance as it applies to his property. In that case, it was pointed out that zoning matters are peculiarly local in nature and should, if possible, be locally resolved. In the later case of Reilly v. City of Chicago, 24 Ill2d 348, 181 NE2d 175, the court said on page 349:
+“The requirement for seeking relief at the local level is equally cogent whether the appropriate remedy be through the board of appeals or the local legislative body, and has been so recognized by this court.”
+It is our opinion that the plaintiff in this case has failed to exercise the local remedies available to it as contemplated in the Bright case, supra, and in subsequent decisions. The City of Chicago was never given an opportunity to correct the specific errors and individual hardships allegedly imposed by the present zoning ordinance. It should again be noted that the relief sought by the plaintiff in the application for amendment which it presented to the Chicago City Council would also have precluded the development of dwelling units below the second floor. The right to utilize the ground floors for dwelling units in either a B4-1 or a B4-2 district can only be obtained by initially requesting a special use from the Zoning Board of Appeals as heretofore mentioned. The very purpose of the judicial doctrine of Bright, supra, requiring exhaustion of local remedies before seeking judicial relief is to give to the local authorities an opportunity to correct any error in the zoning classification or to remedy any unreasonable hardships imposed thereby before the aggrieved party enters into litigation. Bright v. City of Evanston, supra; Van Laten v. City of Chicago, 28 Ill2d 157, 190 NE2d 717; Fiore v. City of Highland Park, 76 Ill App2d 62, 221 NE2d 323.
+Since the plaintiff failed to afford the local authorities an opportunity to correct the alleged errors and hardships, it has not exhausted its available local remedies and judgment should have been entered for the defendant.
+It will not be necessary to discuss the second point raised by the defendant since we have concluded that this case must be reversed upon consideration of defendant’s first point.
+Judgment reversed.
+SCHWARTZ and DEMPSEY, JJ., concur.
