@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 10,529"
+decided: "1964-07-21"
+citations: ["50 Ill. App. 2d 462"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYE, P. J. and WRIGHT, J., concur."]
+parties: ["Agnes Virginia Willoughby, Administrator of the Estate of Ralph Willoughby, Deceased, Plaintiff-Appellant, v. John F. Moyer, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/50/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5276414
+cites_cases: ["12 Ill2d 532", "125 NE2d 77", "129 NE2d 286", "147 NE2d 376", "161 NE2d 150", "179 NE2d 40", "188 NE2d 890", "22 Ill App2d 433", "33 Ill App2d 280", "39 Ill App2d 345", "5 Ill2d 135", "7 Ill App2d 276"]
+---
+
+# Willoughby v. Moyer
+
+## Majority (REYNOLDS, J.)
+
+REYNOLDS, J.
+This action was brought by plaintiff as administrator of her deceased husband’s estate under the Wrongful Death Act to recover damages for his death occasioned by the alleged negligence of defendant in the operation of a truck on the highway.
+The cause arose out of a collision between a State truck driven by John E. Moyer and a semitrailer driven by the decedent Ralph Willoughby. The semitrailer crashed into the rear of the State truck and Willoughby died in the crash. Both the semitrailer and the State truck left the highway and into a small ditch to the west of the lane in which the collision occurred. From the testimony of the photographer and the State Trooper who investigated the accident and from the pictures taken, the collision occurred in the west or outer lane of the two southbound lanes of U.S. 66 north of Springfield, Illinois. The State truck had been engaged in putting blacktop mix into cracks in the pavement. Moyer was in charge of the work gang. He had decided that the mix was not doing the job properly and he would use some other method. He called his men together and he drove the State truck from the west shoulder onto the pavement. The road was posted for some distance to the north with signs warning traffic that there were men at work ahead.
+Fred Foote and his wife Bose Foote were driving south on U.S. 66 just north of the point of collision. They were behind the truck driven by Willoughby and were gaining on it. They estimated the speed of their car at 70 miles per hour and the speed of the Willoughby vehicle at about 50. They saw a blue car pull to the east on the two lane southbound highway, partly off on the shoulder on the east side, and pass the truck. They observed a cloud of dust and as they slowed down, they came upon the wrecked vehicles. They did not see the accident. They did not see the blue car again. Before the accident, the truck driven by Willoughby was in the west or outer lane.
+The defendant was called as a witness under section 60 of the Civil Practice Act and testified he decided to use some other method of patching other than the cold mix blacktop and called his men together and drove the State truck from the shoulder on to the outer southbound lane, the west lane. There being no competent eyewitnesses, the plaintiff put into evidence the careful driving habits of the decedent.
+At the close of the plaintiff’s evidence, the defendant moved to direct the jury to find the defendant not guilty on the grounds that the plaintiff had failed to introduce any evidence tending to prove negligence or wilful or wanton conduct on the part of the defendant. The court allowed the motion and the jury was so instructed. Judgment in favor of the defendant and against the plaintiff was entered. Plaintiff appeals.
+The sole question before this court on appeal is whether the trial court correctly allowed the motion for a directed verdict. The general rule in Illinois and the Federal Courts has been held to be that a motion for judgment notwithstanding the verdict or a directed verdict presents only a question of law as to whether, when all the evidence is considered, together with all reasonable inferences therefrom, in its aspect most favorable to the plaintiff, there is a total failure or lack of evidence to prove any necessary element of plaintiff’s case. Hall v. Chicago & N. W. Ry. Co., 5 Ill2d 135, 125 NE2d 77; Tucker v. New York C. & St. L. R. Co., 12 Ill2d 532, 147 NE2d 376. The issue is whether the trial court should enter a directed verdict and in this connection it must be borne in mind that the right to a jury trial is a fundamental right. A party should not be deprived of his right to a jury trial if he has produced any evidence which proves or tends to prove his claim, or from which reasonable inferences can be drawn which tend to support his claim. The questions of preponderance of evidence or the credibility of witnesses, are not involved. Busser v. Noble, 22 Ill App2d 433, 161 NE2d 150.
+On motion for directed verdict for defendant, the trial court must consider all of the evidence in its aspect most favorable to the plaintiff, together with all reasonable inferences to be drawn therefrom, and if, when so considered, there is any evidence standing alone and considered to be true, together with the inferences that may legitimately be drawn therefrom which fairly tends to support the plaintiff’s case, the court should not direct a verdict in favor of the defendant. Johnson v. Skau, 33 Ill App2d 280, 179 NE2d 40. As long as a question remains whether either party had observed that degree of care and caution imposed upon him by law, and the determination of the question involves the weighing and consideration of the evidence, the question must be submitted as one of fact. Cloudman v. Beffa, 7 Ill App2d 276, 129 NE2d 286; Lowe v. Gray, 39 Ill App2d 345, 188 NE2d 890.
+In this case the testimony showed the decedent proceeding along the highway at a legal rate of speed, in his proper lane. Whether he was driving too fast for conditions at the time, whether he was driving too fast in a zone marked for men working, or whether he was in due care and caution for his own safety are questions of fact for the jury. His reputation for careful driving was admitted in evidence. While there is no evidence as to what actually happened at and immediately prior to the collision, there is evidence in the record sufficient to warrant the submission of the matter to a jury.
+The judgment will be reversed and the cause remanded for a new trial.
+Reversed and remanded.
+DOYE, P. J. and WRIGHT, J., concur.
