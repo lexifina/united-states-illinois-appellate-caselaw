@@ -1,0 +1,58 @@
+---
+court: "Illinois Appellate Court"
+docket: "13202"
+decided: "1976-06-17"
+citations: ["39 Ill. App. 3d 484"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARTHUR C. DONART, Plaintiff-Appellant, v. THE BOARD OF GOVERNORS, WESTERN ILLINOIS UNIVERSITY et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/39/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5381819
+cites_cases: ["23 Ill. App. 3d 137", "240 N.E.2d 699", "25 Ill. App. 3d 423", "28 Ill. App. 3d 225", "318 N.E.2d 722", "323 N.E.2d 475", "327 N.E.2d 541", "99 Ill. App. 2d 146"]
+---
+
+# Donart v. Board of Governors
+
+## Majority (Mr. JUSTICE SIMKINS)
+
+Mr. JUSTICE SIMKINS
+delivered the opinion of the court:
+Plaintiff was a college instructor at Western Illinois University (hereinafter W.I.U.) from 1970 through 1974. He was offered and accepted a terminal contract for the 1973-74 school year and was not rehired after that. He filed a five-count complaint against defendants for breach of contract and also for violation of his constitutional rights of freedom of speech, freedom of association, and due process. On motion of defendants, the trial court entered summary judgment against plaintiff on Counts I, II, III and V. The trial corut found, pursuant to Supreme Court Rule 304 (111. Rev. Stat. 1973, ch. 110A, par. 304) that there was no just reason for delaying enforcement or appeal. Plaintiff contends on appeal that the trial corut erred in granting summary judgment. We affirm in part and reverse in part. Each count will be treated separately.
+Count I
+Count I of the complaint alleged that defendants violated plaintiffs contract by refusing to transmit for the consideration of the Board of Governors of State Colleges and Universities (not named as defendants) the recommendation of the Western Illinois University Committee on Personnel that plaintiff be offered a regular teaching contract for the year 1973-74. Defendants admitted that it was a requirement of the By-Laws of the Board of Governors and a part of plaintiffs contract that the involuntary release of a faculty member who has served two years or more (as plaintiff had) must, upon the member’s request, be appealed to the University Committee on Personnel and its recommendation be reported to the Board of Governors.
+Attached to defendants’ motion for summary judgment were numerous affidavits and exhibits. John Bernhard, who was president of Western Illinois University during the pertinent period, swore that, as president, he advised the Board of Governors on September 12, 1973, of the recommendation of the University Personnel Committee that plaintiff be awarded a regular teaching contract as well as his own recommendation of a terminal teaching contract. Ben Morton, who was the executive officer and secretary of the Board of Governors, swore and deposed that Dr. Bernhard advised the Board of both his recommendation and the University Personnel Committee’s recommendation at a meeting on September 12, 1973, at which Morton was present. Plaintiff filed a counteraffidavit stating that he had searched the official minutes of the Board of Governors for the week including the date of September 12, 1973, and found therein no reference to the recommendation of the University Personnel Committee and in addition, that there was no reference in the minutes to a meeting on September 12, 1973.
+Civil Practice Act section 57(3) (Ill. Rev. Stat. 1973, ch. 110, par. 57(3)) provides that summary judgment is proper
+“* * * if the pleadings, depositions, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment or decree as a matter of law.”
+The moving party’s right to summary judgment must be free and clear from doubt: The pleadings and affidavits must be construed most strictly against the moving party and most liberally in favor of the opponent. (Ruby v. Wayman, 99 Ill. App. 2d 146, 240 N.E.2d 699.) Summary judgment is a procedure to be encouraged, but it should be awarded cautiously so as not to preempt the right to a trial by jury where a material dispute may exist. (Anderson v. Dorick, 28 Ill. App. 3d 225,327 N.E.2d 541.) Plaintiff s' complaint was a verified one and therefore should be considered along with the affidavits. In Count I, he alleges that the president of W.I.U. refused to transmit the recommendation of the University Committee on Personnel. Defendants, by affidavit, said that this was done. There exists a dispute as to a material fact. Accordingly it was error to grant summary judgment on Count I.
+Count II
+In Count II of plaintiff s complaint, he alleged that, on July 18,1972, he was offered and accepted a contract which stated, in part, that:
+“If all of the requirements for 30 semester horns beyond the Master’s Degree have been completed by September 18, 1972, with official evidence being filed in the academic personnel office by that date, the salary rate will be increased by $20.00 per month and the academic rank will be changed to Assistant Professor.”
+Plaintiff alleged that the By-Laws and Governing Policies of the Board of Governors were part of the contract between plaintiff and defendant, that he complied with the contract conditions and the By-Laws, but notwithstanding this defendants refused to promote plaintiff. Defendants’ answer denied that plaintiff had complied with the By-Laws and Policies of the Board of Governors. An affidavit of James Connor, provost of W.I.U. stated that it was the Board’s policy and more specifically W.I.U.’s policy that graduate credits earned at W.I.U. may be counted only up to one-half of the graduate credits required for promotion. The affidavit, supported by plaintiff s transcript attached as an exhibit, revealed that all of plaintiffs graduate credits had been earned at W.I.U.
+Two sections of the By-Laws and Policies of the Board appear relevant.
+“3.1 Criteria for Faculty Ranks
+# * #
+Assistant Professor — Appointment or promotion to this rank requires the completion of a minimum of 60 semester hours or the equivalent (beyond the bachelor’s degree) of study toward an advanced degree in an institution which offers sixth year or doctoral programs.
+Another section provides:
+“In the case of a faculty member with a master’s degree, any credits which he may earn in a deiartment which does not offer a sixth year or doctoral program may not be included in a one-year of graduate work beyond the master’s (or sixty hours beyond a bachelor’s) required for tenure and promotion to the rank of assistant professor except when such courses are acceptable and transferrable to an institution offering sixth year and doctoral work as a part of the approved program. Such graduate credits which may be earned in a department as a part of a program leading to a sixth year or doctoral degree in an appropriate academic discipline may not exceed more than one-half of the credits in the one year graduate work requirement.”
+The policy of Western Illinois University, attached as an exhibit, is that only half of any graduate credits earned there are counted in the one-year requirement. This appears to go beyond the Board’s By-Laws and Policies except in those departments where W.I.U. does not offer a sixth year or doctoral program. Neither the affidavits or pleadings indicate whether, in fact, W.I.U. offers such programs in plaintiff s academic field. Nor does anything in the record reveal under what authority W.I.U. would be permitted to issue policies more stringent than the Board’s. Further, the W.I.U. policy on its face was issued subsequent to the offer and acceptance of the employment contract. It therefore appears that a genuine issue of material fact exists as to whether plaintiff had satisfied the requirements for promotion to assistant professor.
+Count III
+In Count III of his complaint, plaintiff alleges that Dr. Castle, the chairman of English Department at the time plaintiff was hired, promised ■ plaintiff that plaintiffs program was necessary and useful to the W.I.U. English Department, and that plaintiff was assured of tenure upon satisfactory performance. Plaintiff aUeged Dr. Castle was defendants’ agent and had real and apparent authority to bind defendants. Plaintiff aUeged he had satisfactorily performed but nevertheless was not recommended for tenure.
+In support of their motion for summary judgment, defendants submitted the affidavit of James Connor, provost, and certain exhibits. The essence of these documents was that Donart did not have an approved program leading to a doctorate which program was needed by the English Department and therefore he was offered a terminal contract. Plaintiff was informed by the Provost by letter on August 23,1972, that his terminal degree program could not be endorsed by the provost until plaintiff had received the approval of his department. Dr. Jacobs, chairman of the English Department, informed plaintiff on January 15, 1973, that he would be offered a terminal contract because plaintiff did not have a degree program of which the English Department was in need.
+Plaintiff submitted an affidavit stating:
+«444
+3. That my proposed Degree Program was originally approved by Dr. Castle, Department of English, Chairman on or about August fifteenth, nineteen-hundred and seventy.
+4. That subsequently said program was approved by the Department Senate and Personnel Committee.
+5. That I was told by Dr. Castle that his approval of my Degree Program, if accompanied by successful teaching and academic performance and if said Program were successfuUy completed, would assure me of tenure.
+6. That I never received detailed professional reasons for the refusal of Defendants John T. Bernhardt, or A. Walter Olson to follow the decisions of the English Department Chairman Dr. Castle or of the Department Personnel Committees.
+7. That from 1970 until March 1972 when he ceased his position as Department Chairman all teachers assured by Dr. Castle of tenure were in fact awarded tenure upon successful completion of the terms of their agreement with Dr. Castle.
+8. That I was told on numerous occasions by both Defendants Connor and Bemhadt that they relied solely on the Departmental Chairman’s decision in all tenure decisions.
+4 4 4”
+Plaintiff would be competent to testify to the admissions alleged in paragraph 8 on the English Department chairman’s authority as agent since a statement of a party which tends to establish a material fact is admissible. (Jones v. DeWig, 25 Ill. App. 3d 423, 323 N.E.2d 475.) Plaintiff was competent to testify to the representations of Dr. Castle as contained in paragraphs 3 and 5, as representations of an agent. The counteraffidavit is sufficient to raise the issue of promissory estoppel, a doctrine recognized in Illinois. (S. M. Wilson & Co. v. Prepakt Concrete Co., 23 Ill. App. 3d 137, 318 N.E.2d 722.) Summary judgment should not have been granted on Count III.
+Count IV is not before us.
+Count V
+Count V realleges the first four counts and asserts that plaintiff s right to due process has been violated. Count V is not argued or even mentioned in plaintiffs brief.
+It is a truism to say that points not argued are waived. Accordingly summary judgment for defendants on that count is affirmed. Summary judgment on Counts I, II and III are reversed and the cause remanded for further proceedings consistent with this opinion.
+Affirmed in part; reversed and remanded in part.
+TRAPP, P. J., and CRAVEN, J., concur.
