@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-12-12"
+citations: ["45 Ill. App. 481"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mathias P. Schuster v. James W. Martin."]
+source_url: "https://static.case.law/ill-app/45/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5076400
+cites_cases: ["28 Ill. App. 169"]
+---
+
+# Schuster v. Martin
+
+## Majority (Mr. Justice Cartwright.)
+
+Mr. Justice Cartwright.
+This suit was commenced by appellant against appellee before a justice of the peace, to recover for services rendered appellee as a broker in an exchange of real estate between appellee and one Fuchs. Appellant recovered judgment before, the- justice, and on appeal to the Circuit Court, there was a trial by the court without a jury, resulting in a finding and judgment for appellee. The evidence showed that Fuchs had called on appellee in February, 1890, concerning the purchase of appellee’s house and lot in Joliet, but was told by appellee that it was not for sale and would not be until after the death of his wife, which was then expected, after which it would be for sale and that Fuchs would then have a chance with others. There was no negotiation at that time, nor were any terms talked of. The property was not then for sale, and the matter was dropped entirely by both parties. Appellee’s wife died May 10, 1890, and about the last of that month, appellee employed appellant as a broker to make a sale or exchange of the property. Fuchs was named between them as the person likely to take the property by exchanging some land in the trade. Appellant testified that appellee stated about §1,500 as the amount of money that he would take for the property in addition to the eighty acres of Fuchs, and that appellant was to have $75 if a trade was made, but that after going over the eighty acres and examining it, appellee said that he thought he ought to have 83,000 in money, and if a trade was made on that basis lie would pay appellant §100. Appellee testified that the agreement as to commissions was, that if appellant sold the property for $5,000 cash, the commission was to be $75; that the amount of money to be secured in a trade with Fuchs was $3,000, and that if appellant effected a trade on that basis the commission was to be $100. Appellant opened negotiations with Fuchs which were continued through appellant until about J une 10th, and after that were carried on directly between appellee and Fuchs until June 30th, when the negotiations were closed and an exchange was effected. The deeds were finally exchanged August 1, 1890, and the basis of the trade was the exchange of land, the payment of $1,800 cash by Fuchs, and the hay crop cut that year, which Fuchs testified that he could have got $300 for, and which appellee afterward sold for $140. Appellee testified that he discharged appellant from further employment about June 10th, on being informed by appellant that he could not get $3,000 in money in the trade, and this appellant in his testimony denied. However that may be, the evidence shows that although appellant had not brought the parties to an agreement, the negotiations were still pending and there had been no ultimatum from Fuchs. The nea:otiation pending went right along to a completion in about ten days. If, as appellee says, he told appellant that he was discharged, he simply took the management of the negotiation out of appellant's hands, and taking all the benefit of the services rendered, continued the negotiation and in a few days closed it up on substantially the terms proposed. It is not questioned that if there had been a failure of appellant and the deal had been abandoned, appellee might have opened a negotiation himself without liability to appellant; but here the negotiation was not closed or suspended, and we think the evidence shows that the trade made resulted from the negotiation opened by appellant. The trade was finally consummated on substantially the same terms fixed for appellant, appellee taking some property in place of a minor portion of the money. The making of the exchange by appellee himself under these circumstances should not deprive appellant of remuneration for his services. McConaughy v. Mahannah, 28 Ill. App. 169.
+The judgment will be reversed and the cause remanded.
+.Reversed a/nd remanded.
