@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-09-20"
+citations: ["71 Ill. App. 632"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago & North Western Ry. Co. v. Charles H. Patrick, Adm’r."]
+source_url: "https://static.case.law/ill-app/71/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2453414
+---
+
+# Chicago & North Western Ry. Co. v. Patrick
+
+## Majority (Mr. Justice Wright)
+
+Mr. Justice Wright
+delivered the opinion of the Court.
+On the night of May 26,1895, Axel Peterson and another were returning to Belvidere- from Rockford in a buggy, when on reaching Cherry Valley, a village on their route, and a station on the railroad of the appellant, for some unknown cause, instead of proceeding "east on the road to Belvidere they turned north on Cherry street, in said village, across the Belvidere road and over the railroad tracks of appellant, proceeded about four rods north of the crossing, where they faced about, returned to the crossing, where they were struck and killed by an engine connected with a freight train, coming from the west. Appellee, as the administrator of the estate of the deceased, brought this action against appellant, charging it with negligently causing such death, demanding damages therefor. Upon the trial, the jury returned a verdict of guilty, assessing the damages at §3,000, for which the court gave judgment against appellant, after having overruled its motion for a new trial, to reverse which this appeal is prosecuted. Appellant insists the verdiet is contrary to the evidence, and that the court erred in refusing, on its motion, to direct a verdict for the defendant at the close of the evidence in the case.
+We have carefully examined all the evidence in the abstract, and considered the briefs and arguments of the counsel on both sides. The material questions now to be determined are, whether the appellant is guilty of any negligence whereby the death of Axel Peterson was produced, and whether the deceased himself, at the time he was killed was in the exercise of ordinary care for his own safety.
+The train did not stop at Cherry Talley unless signaled, and on this occasion there being no such signal, it was running with no purpose of stopping. The train appears to have been well equipped, and in charge of a proper crew. By a fair preponderance of the evidence we think it may be well believed the usual signals for the station and highway crossing were given. Besides this, the engine had a bright head-light, in good order and burning, that some of the witnesses say could be seen two miles away. It would seem the train was running at no greater speed than was common under such circumstances. The night was moonless, but without clouds. In passing over a neighboring bridge the rumble of the train could be heard in all the vicinity where the accident occurred. In all these conditions, it would be natural that the engineer, reasoning as an ordinary man, would presume all persons, if in the right use of the faculties common to man, would gain intelligence of the approaching train and avoid its track. He swears he did not see the buggy until it appeared upon the track in front of the engine, and so near to it he could not stop by any possible means before the collision. From these facts and circumstances, with others that could be recited, proved on the trial, we conclude appellant was guilty of no negligence producing the death of appellee’s intestate.
+Was the deceased in the exercise of ordinary care for his own safety at the time he was killed \ Shortly before his death he had driven north over the railroad tracks and knew, if in the exercise of ordinary care, that the railroad was there; that it was a crossing, and that a train or trains, were liable at any time to pass over the crossing; and that under such circumstances it was a place of danger. An ordinary man in the exercise of ordinary care, knowingly, about to cross a railroad, would, we think, generally be cautious. Independently of this, however, all the witnesses who have testified to any knowledge of being in the vicinity of the accident when it occurred, heard the noise of the train or saw its lights. If the deceased was possessed of the natural senses of hearing and seeing, and it is presumed he was, and in the proper use of them, as an ordinary man is supposed to be in a known place of danger, it seems to us difficult and unreasonable to believe he did not know of the approaching train. He, either from heedlessness, did not know- the train was near, or knowing it, recklessly took the chances of danger in crossing the track; which, in either case, would prevent a recovery by the appellee in this action.
+We are compelled to the conclusion the intestate of the appellee was not in the exercise of ordinary care for his own safety at the time he was killed.
+Inasmuch as the evidence fails to prove actionable negligence against the appellant, to cause the death of Axel Peterson, and for the further reason that the evidence has established that he was not in the exercise of ordinary care for his own safety at the time of the collision, it was error to deny the motion of the appellant to direct a verdict in its favor; and for this error the judgment of the Circuit Court will be reversed, and the clerk of this court directed to recite, in the final order of this court, the finding of facts hereto appended.
+Judgment reversed.
+Crabtree, P. J., took no part.
+Finding of Facts.
+And the court finds that the appellant is not guilty of the negligence charged in the declaration of the appellee, or any count thereof; and the court also finds that the said Axel Peterson was not in the exercise of ordinary care for his own safety at the time he was killed.
