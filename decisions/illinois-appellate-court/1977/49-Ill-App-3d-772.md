@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "14093"
+decided: "1977-06-13"
+citations: ["49 Ill. App. 3d 772"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re MARK A. MILLER, a Minor.—(THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. MARK A. MILLER, Defendant-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/49/cases/0772-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5637078
+cites_cases: ["343 N.E.2d 569", "343 N.E.2d 573", "344 N.E.2d 517", "36 Ill. App. 3d 227", "36 Ill. App. 3d 234", "360 N.E.2d 1202", "362 N.E.2d 1024", "37 Ill. App. 3d 10", "46 Ill. App. 3d 574", "66 Ill. 385"]
+---
+
+# People v. Miller
+
+## Majority (Mr. PRESIDING JUSTICE CRAVEN)
+
+Mr. PRESIDING JUSTICE CRAVEN
+delivered the opinion of the court:
+On June 2, 1976, a petition to declare respondent, Mark Miller, a ward of the court was filed in the circuit court of De Witt County. The petition alleged he had committed two batteries. On August 3, 1976, an amended petition for adjudication of wardship was filed alleging that respondent had committed disorderly conduct as well as the two batteries set forth in the original petition.
+At the August 12, 1976, adjudicatory hearing, respondent made an admission to the allegations in the petition. The court found respondent to be a delinquent and that it would be in his and the public’s best interest that he be declared a ward of the court. He was then declared a ward of the court. It was later learned that respondent had not at the time received a copy of the amended petition alleging disorderly conduct. His attorney informed him that he could brick up, but the respondent informed his attorney of his desire to plead guilty to that count as well. Thus, on August 18, 1976, prior to the dispositional hearing, defendant admitted the allegations pertaining to the disorderly conduct charge. The court accepted respondent’s admission and proceeded to conduct the dispositional hearing. After considering several written reports and testimony from Mark Miller’s mother and two counselors from social agencies who had had contact with him, the court ordered commitment to the juvenile division of the Department of Corrections.
+On appeal, respondent raises two issues. First, he argues that the adjudication of wardship must be reversed because prior to accepting his admission to the charges, the court failed to admonish him in compliance with Supreme Court Rule 402 (Ill. Rev. Stat. 1975, ch. 110A, par. 402). As authority for the proposition that Rule 402 applies to juvenile proceedings, respondent cites In re Chatman (1976), 36 Ill. App. 3d 227, 343 N.E.2d 569. However, while Chatman and In re Butler (1976), 36 Ill. App. 3d 234, 343 N.E.2d 573, did extend the requirements of Rule 402 to juvenile proceedings, those cases were reversed by the supreme court in In re Beasley (1977), 66 Ill. 385, 362 N.E.2d 1024, in which both the Chatman and Butler appeals were consolidated. In Beasley, the supreme court held Rule 402 inapplicable to admissions by minors in juvenile proceedings. The court said that due process requires that the juvenile be made aware of the consequences of his admissions; that is, that he understands his rights regarding self-incrimination, the right to confront accusers and his right to a trial; that by admission he waives these rights, thus conferring upon the court the authority to deal with him as provided in the Juvenile Court Act (Ill. Rev. Stat. 1975, ch. 37, par. 701.1 etseq.). Respondent here was represented by counsel and was admonished by the court of each of these rights. Under these circumstances, we conclude that the admissions here were voluntary and in accord with the requirements of due process according to the supreme court’s most recent pronouncement in Beasley.
+Next,.defendant contends that there was inadequate evidence on which the court could determine that it was in his best interest and the best interest of the public that he be declared a ward. There is no question but that a finding of best interest is jurisdictional and a prerequisite to an adjudication of wardship. (In re Barr (1976), 37 Ill. App. 3d 10, 344 N.E.2d 517.) The court made both required findings — that Miller was a delinquent, and that it would be in his and the public’s best interest to declare him a ward. The question is simply whether there was adequate evidence to support the latter finding.
+In the recent case of In re Driver (1977), 46 Ill. App. 3d 574, 360 N.E.2d 1202, we reversed an adjudication of wardship because the trial court prevented the minor from introducing evidence pertaining to his best interests. Reversal for this reason prevented us from reaching the question of whether evidence of the offense resulting in delinquency could, standing alone, provide the court with a basis to make a finding of best interest. We conclude that evidence of the offense alone can in many cases provide the court with adequate information to make a reasoned judgment concerning the best interests of the minor and the public. While there may be those cases' where the minor’s conduct makes him a delinquent under section 2 — 2 of the Juvenile Court Act (Ill. Rev. Stat. 1975, ch. 37, par. 702 — 2), the nature of the offense will not indicate that court supervision is necessary.
+Here the minor’s conduct consisted of two counts of battery and a count of disorderly conduct committed at a time when a delinquency petition based on the two batteries was already pending. We find that, due to the nature, number and timing of these offenses, the evidence adduced at the adjudicatory hearing was sufficient to support the court’s finding that it was both in the best interest of the respondent and the public that he be declared a ward of the court.
+For the foregoing reasons, the judgment of the circuit court of DeWitt County is affirmed.
+Affirmed.
+GREEN and REARDON, JJ., concur.
