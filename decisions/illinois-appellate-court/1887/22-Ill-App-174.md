@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-01-08"
+citations: ["22 Ill. App. 174"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G. G. Fuller, v. Thomas Brady."]
+source_url: "https://static.case.law/ill-app/22/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4918480
+---
+
+# Fuller v. Brady
+
+## Majority (Baker, P. J.)
+
+Baker, P. J.
+This suit was commenced before a Justice of the Peace by Brady against Fuller to recover commissions for selling a farm containing fifty-two acres of land owned by Fuller. On appeal to the Circuit Court there was a trial by the court without a jury, and the finding and judgment were against Fuller for $42.
+It is clear from the letters in evidence that full authority was given Brady to sell the farm for not less than $50 an acre, net, to the owner; and that appellee was to have all he could get over and above that, as compensation for his services. It is also shown that on January 5, 1884, he secured a purchaser at $51 an acre, payable as follows: $350 cash and $350 on the first cf September after date of sale, the residue of purchase money in four equal annual installments with eight per cent, interest, secured by mortgage on the place.
+The contentions of Fuller, the appellant, are three: first, that there was no authority to sell with so small a cash payment without security in addition to the land itself; second, that the letter of appellee dated December 8, 1883, and the fact it was not answered, worked a revocation of the power ' and authority given; and third, that the agreement of appellee to furnish an abstract of title to the vendee was unauthorized and invalidated the contract.
+We think the correspondence between the parties should be read in the light of the long and intimate acquaintance and confidence existing between them. On the 25th of July, 1883, appellant wrote: “Should you meet with a chance to sell the farm, and the parties should want deferred payments, that will be all right with me, so that there is enough paid down to guarantee a sale.” August 1st, following, he wrote further directions with reference to the proposed sale, in which he said, “ payments to suit, with interest; ” and in his letter of November 27,1883, he said: “Whether it is cash now or March first, it matters not, or five years.” The letters that passed between them tend strongly to indicate that it was left to a considerable extent to the discretion of appellee to settle with the vendee the details in respect to the times and amounts of the payments and the security to be- given, the only restrictions being that there should be a cash payment; that the time of complete payment should not be extended beyond five years, and that the deferred purchase money should draw interest. This view is very greatly confirmed by the fact that when the arrangement of January 5th was made and appellant notified a sale had been effected at his price, he, without either knowing or inquiring with reference to the amount of the cash payment, security agreed upon, or times of the other payments, approved of what had been done by appellee by offering to execute a deed at once, and otherwise by his letters and acts. It would seem from the testimony that confidence was reposed by appellant in appellee to determine what was a sufficient amount paid down, in view of the mortgage and of the circumstances and surroundings of the purchaser, to render the sale secure. We can not say from the evidence that the conclusion of the court that the authority conferred was sufficient to justify the sale now in question, was erroneous.
+The fact that appellee did not understand that the statement in his letter of December 8th that unless the proposition contained therein of §48 or possibly §49 was acceptable then there was no use of further correspondence on the sub-' ject, combined with the failure of appellant to reply to that communication, had the effect to revoke his agency and power to sell, is indicated by the services he subsequently performed in securing a buyer at the price demanded by appellant. And the conduct of appellant after he was advised of the sale, and the tenor of his communications of January 10th and 12th, sufficiently show he recognized the agency of appellee and the fact that the authority given him had not been withdrawn. The circumstance that appellee agreed with the purchaser to furnish an abstract of title, made no sort of difference to apjDellant. The matter of an abstract was not suggested when lie repudiated the sale, and his refusal to carry out the contract was placed wholly upon other grounds. All that appellant asked or expected was §50 net, an acre — and that he might have got; and if appellee paid the §10 that the abstract cost, thereby reducing his commissions from §52 to §42, it was a fact immaterial to appellant, and that worked him no injury.
+The judgment is sustained by the evidence, and it is affirmed.
+Affirmed.
