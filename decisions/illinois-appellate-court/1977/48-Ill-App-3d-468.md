@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-391"
+decided: "1977-05-09"
+citations: ["48 Ill. App. 3d 468"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOROTHY DENNIS, Plaintiff-Appellant, v. LOIS SILZER et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3373775
+cites_cases: ["100 N.E. 166", "118 Ill. App. 2d 348", "166 Kan. 496", "169 Kan. 205", "171 Kan. 430", "237 N.E.2d 745", "255 N.E.2d 36", "256 Ill. 593", "78 Ill. App. 117", "96 Ill. App. 2d 82"]
+---
+
+# Dennis v. Silzer
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court:
+This appeal is from the judgment of the circuit court of Peoria County dismissing the plaintiff’s amended complaint upon the defendants’ motion.
+The subject of this litigation involves real estate located in Grant County, Kansas. Plaintiff, Dorothy Dennis, is a resident of Missouri and the defendants, Lois Silzer, Rachael Sheperdson, and Carol Blake, are residents of Illinois. Each of the defendants and the plaintiff originally owned an undivided one-twelfth interest in the Grant County real estate.
+On October 17, 1972, the defendants in this action initiated a partition suit in the District Court of Grant County, Kansas, and the plaintiff here was made a party defendant. On December 1, 1972, Dennis filed suit in the circuit court of Peoria County alleging that the real estate in Kansas was the subject of a valid contract between herself and the defendants and petitioned the court to enjoin the defendants from proceeding with the Kansas partition suit. After granting the petition of the plaintiff for a temporary restraining order, the circuit court of Peoria County denied plaintiff’s request for a preliminary injunction and refused to enjoin the defendants from proceeding with their Kansas partition suit. No review of this order was sought.
+Dennis answered the Kansas partition petition and admitted she owned an undivided one-twelfth interest in the surface of the real estate. Her answer prayed that said land be appraised and sold and that the proceeds therefrom be divided according to the respective rights of the parties. At no time during the Kansas action was the existence of a real estate contract between the parties to that action brought to the attention of the Kansas court. On February 6,1973, the Kansas court granted the partition petition and ordered the property sold at public auction and the proceeds divided according to the interests of the parties. No appeal of the Kansas proceeding was perfected by any of the parties thereto. On March 4,
+1975, plaintiff filed an amended complaint in Peoria County based on the same alleged real estate contract. On this occasion, the only relief sought by Dennis was monetary damages. The defendants responded by filing a motion to dismiss the amended complaint which was granted by the Peoria County court on March 3,1976. This appeal is from that dismissal order. In light of our decision as will appear in succeeding paragraphs, it is unnecessary to set forth the particulars of the alleged real estate contract.
+The only issue we need decide today is whether this action is barred by the judgment of the Kansas court in the partition suit.
+Generally speaking, in all cases where the second suit is based upon the same issues and between the same parties as those in earlier suit, the doctrine of res judicata extends to all grounds of recovery or defenses which might have been presented in the first action. (Kuehner v. Melliere, 118 Ill. App. 2d 348, 255 N.E.2d 36.) If Kansas law would have allowed the plaintiff here to allege and prove in a partition action the existence of a real estate contract between the parties, then we believe plaintiff is barred by the Kansas judgment from maintaining this action.
+Generally, any matter with either bears upon the state of the title of the land subject to the partition action or which affects the manner in which the proceeds of a partition sale will be distributed, is a matter which should be raised in a partition action, for each is necessary if the court is to make a correct determination of all the issues. (See Chapman v. Chapman, 256 Ill. 593, 100 N.E. 166; Pollack v. Kuhn, 96 Ill. App. 2d 82, 237 N.E.2d 745; Rhodes v. Rhodes, 78 Ill. App. 117.) Kansas law does not appear to differ substantially from Illinois law in this regard. (See Jones v. Anderson (1951), 171 Kan. 430, 233 P.2d 483; Knutson v. Clark (1950), 169 Kan. 205, 217 P.2d 1067; Hurst v. Brown (1949), 166 Kan. 496, 203 P.2d 246.) The existence or nonexistence of a valid real estate contract between the parties to a partition action affected both the title to the property as well as the relative proportions to be distributed subsequent to a partition sale. If a party alleges and proves he is a purchaser of the property under a valid real estate contract, and insists on specific performance, the parties who are sellers no longer have an interest in the land and cannot insist on partition of the real estate. If this same party only demanded monetary damages from the sellers, the relative amounts distributed by the court after a partition sale would alter. An examination of Kansas authority and precedent reveals that plaintiff should have asserted under any rights she might have under the real estate contract in the Kansas action.
+In Knutson v. Clark (1950), 169 Kan. 205, 217 P.2d 1067, the court held it was proper in a partition suit for a defendant who claimed an interest in the land to allege and prove that he was entitled to recover the value of improvements he had made on that land. In Jones v. Anderson (1951), 171 Kan. 430, 233 P.2d 483, the court held that a tenant who had been a party to a partition action and had failed to claim an interest in a growing wheat crop, was barred from bringing a subsequent action to recover the value of the wheat crop against the purchaser of the land at a partition sale. We believe these cases establish that plaintiff should have asserted the existence of a real estate contract dining the Kansas partition suit. Since plaintiff should have presented to the Kansas court any and all claims founded upon the alleged real estate contract, the circuit court of Peoria County was correct in dismissing plaintiff’s amended complaint.
+For the foregoing reasons the judgment of the circuit court of Peoria County is affirmed.
+Judgment affirmed.
+STENGEL, P. J., and SCOTT, J., concur.
