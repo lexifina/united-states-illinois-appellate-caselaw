@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "80-141"
+decided: "1980-12-31"
+citations: ["91 Ill. App. 3d 943"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JANET L. THOMPSON, Plaintiff-Appellant, v. DAVID J. THOMPSON, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/91/cases/0943-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3147494
+cites_cases: ["14 Ill. 2d 295", "152 N.E.2d 582", "161 N.E.2d 832", "17 Ill. 2d 439", "256 N.E.2d 838", "26 Ill. App. 3d 241", "280 N.E.2d 444", "325 N.E.2d 19", "350 N.E.2d 103", "39 Ill. App. 3d 457", "4 Ill. App. 3d 411", "45 Ill. 2d 19"]
+---
+
+# Thompson v. Thompson
+
+## Majority (Mr. JUSTICE SCOTT)
+
+Mr. JUSTICE SCOTT
+delivered the opinion of the court:
+This action was commenced seeking relief from the property settlement provisions included in a decree of divorce. The Circuit Court of Peoria County denied the relief sought by petitioner and this appeal followed.
+Janet L. Thompson and David J. Thompson were married on December 19,1969, at Laura, Illinois. On December 21,1976, the Putnam County court entered a decree of divorce which dissolved the Thompson marriage and made provisions as to child custody, child support, maintenance and property division. More precisely, the decree made reference to a written agreement of the parties and incorporated that agreement in the final judgment, concluding that the division of marital property set forth in the agreement was “fair, reasonable and equitable in all respects and supported by adequate consideration.” Both Mr. and Mrs. Thompson were represented by counsel in the divorce proceeding and in the negotiation of the property agreement.
+Subsequently, on August 9, 1977, the plaintiff in the divorce proceeding, Janet L. Thompson, petitioned the court pursuant to section 72 of the Civil Practice Act (Ill. Rev. Stat. 1977, ch. 110, par. 72), to vacate the prior order of the court incorporating and approving the settlement agreement. In her petition Mrs. Thompson alleges that the division of property as ordered by the court is so favorable to the defendant as to be characterized as “manifestly inequitable, unfair and in contravention of public policy.” In sworn testimony below Mrs. Thompson stated that she had not studied or read the settlement agreement before testifying at the prove-up hearing below, and she further stated that the contents of that agreement were misrepresented to her. Moreover, the petitioner testified that within a week after the entry of the judgment incorporating the allegedly unfair agreement, she expressed her dissatisfaction and disapproval of her property rights but was advised that nothing could be done. Upon learning that there was an avenue which could be employed to challenge the agreement, Mrs. Thompson retained other counsel and filed her petition pursuant to section 72.
+We are urged to find that this petition presents an appropriate circumstance for the invocation of the court’s power to set aside judgments. Petitioner points to the disparity of values in the division of property ordered by the court as alone justifying the request for relief, and then adds the existence of misrepresentation and misadvice as compounding reasons for vacatur.
+The law governing vacatur of property settlements incorporated in divorce decrees was set forth in Garmisa v. Garmisa (1972), 4 Ill. App. 3d 411, 422-23, 280 N.E.2d 444, 452:
+“The law looks with favor upon the amicable settlement of property rights and is reluctant to disturb decrees based thereon. [Citations.] It has long been settled that parties to a divorce suit may voluntarily adjust their property interests and the amount, if any, to be paid as alimony; and that when such agreements are made a part of the decree the parties are concluded thereby. [Citations.]
+A consent decree will be set aside and vacated where it has resulted from fraud or coercion by either party, and we have recently decided that inequity and unfairness in the terms of the settlement, at least where its execution has been accompanied by some element of coercion or misrepresentation, is enough to call for relief. [Citations.] (Emphasis added.)
+We do not believe the facts of the instant case, as proved or as alleged by petitioner, warrant vacatur pursuant to section 72. Nowhere is there testimony, or even the allegation, that either Mr. Thompson or his attorney or anyone on his behalf misrepresented, misadvised or coerced the plaintiff at the time the settlement agreement was executed. The petitioner may have received bad advice, but there is no reason to attribute that advice to the defendant. The fraud, coercion, or misrepresentation necessary to vacate a judgment of this genre must be attributable to a party in interest. Garmisa v. Garmisa; Guyton v. Guyton (1959), 17 Ill. 2d 439, 161 N.E.2d 832.
+We believe the cases relied on by petitioner, while correct statements of the law, are distinguishable from the case before us today. While Mrs. Thompson seeks to rely on both James v. James (1958), 14 Ill. 2d 295, 152 N.E.2d 582, and Crawford v. Crawford (1976), 39 Ill. App. 3d 457, 350 N.E.2d 103, neither is a controlling precedent. Mrs. Thompson’s motion to vacate was filed more than 30 days after the entry of the original judgment below. In contrast, while both the James and Crawford cases dealt with motions to vacate, those motions were both filed within 30 days after entry of the original judgment. The trial court has full control over all matters filed within 30 days after entry of judgment and may, upon any terms or conditions that seem reasonable or just, set aside final orders, judgments, and decrees. (James v. James.) The rule application to section 72 proceedings, those attempts to vacate filed more than 30 days after entry of the final order, follow the rule in Garmisa.
+Likewise, two other cases relied on by the petitioner, Leach v. Leach (1975), 26 Ill. App. 3d 241, 325 N.E.2d 19, and Roth v. Roth (1970), 45 Ill. 2d 19, 256 N.E.2d 838, present differing circumstances than are present in the instant case. Both Leach and Roth involved active fraud attributable to one of the parties to the proceeding. The Roth case dealt with a misrepresentation of a material fact, known to be false by the party making it, made to induce the other party into acting, and on which the other party relied in acting. Mrs. Thompson’s petition contains no allegation of wrongdoing attributed to Mr. Thompson. A section 72 petition is not intended to relieve a party from consequences of his own mistake or negligence. (Leach v. Leach.) We agree with the circuit court that, considering all the facts in the record, the cited authorities do not permit the vacatur sought.
+We affirm the circuit court’s decision as entered below.
+Affirmed.
+ALLOY, P. J., and HEIPLE, J., concur.
