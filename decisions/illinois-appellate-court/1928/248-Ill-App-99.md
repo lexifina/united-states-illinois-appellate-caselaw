@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 32,175"
+decided: "1928-02-27"
+citations: ["248 Ill. App. 99"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. Espy Curtis, Appellee, v. William M. LeMoyne, Appellant."]
+source_url: "https://static.case.law/ill-app/248/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12253338
+cites_cases: ["114 Ill. 118", "127 Wash. 285", "157 N. Y. 657", "194 N. W. 321", "220 Pac. 789", "234 Ill. 215", "269 Ill. 491", "296 Ill. 209"]
+---
+
+# Curtis v. LeMoyne
+
+## Majority (Mr. Presiding Justice Matohett)
+
+Mr. Presiding Justice Matohett
+delivered the opinion of the court.
+The complainant filed a bill in equity praying an accounting, that the rights of the parties with reference to certain real estate might be ascertained, and for general relief. The bill was afterwards amended, whereupon defendant demurred, setting up in addition to other causes-that it appeared “that the remedy of complainant, if any there be, is at common law.” The demurrer was overruled and defendant answered denying certain averments of the bill, admitting others but denying that complainant was entitled to the relief prayed.
+The cause was put at issue and referred to a master, and by a later order this reference was limited to taking the testimony, proofs and evidence of the parties “solely upon the question as to whether complainant is entitled to an accounting,” and reporting the master’s conclusions of law and fact thereon, together with the basis of such accounting in case complainant was entitled thereto. After some evidence had been taken an order likewise limited wras entered, re-referring the cause to another master with directions to use and consider the testimony theretofore taken.
+The master took the evidence and reported in favor of the complainant. The defendant filed objections before the master which were overruled, and these objections stood as exceptions upon the hearing before the chancellor. The chancellor denied a motion of the defendant for re-reference, overruled the exceptions to the report, except as to the amount of interest found due by the master from the defendant to complainant, and entered a decree denying the motion of defendant for leave to amend his answer and approving the report of the master except as to the item of interest. This decree was entered at the December term. At the March term the court entered a further decree finding another reference to a master to settle the. accounting was unnecessary and that the court could and would state and settle the accounting without such reference.
+The court found that there was due to the complainant from the defendant the principal sum of $10,000 together with interest thereon from April 7, 1920, amounting to $4,180, making a total sum due of $14,180. The master’s fees of $245 and other costs were taxed against the defendant and the complainant was awarded execution therefor.
+There is practically no dispute as to the facts. The transaction out of which the controversy between the parties arises occurred on April 12, 1912. The complainant was a manufacturer. The defendant was and is a lawyer, devoting most of his time to business rather than to professional transactions. The defendant at thó time in question had a contract with the Chicago City Railway Company which gave him the option to purchase from that company certain real estate known as the “Car Barn” property. The parties had been brought together by one Forrest, and from time to time prior to the transaction here in controversy the complainant Curtis loaned various sums of money to LeMoyne, for which LeMoyne -gave his notes with collateral security. The notes drew interest at six per cent.
+At the time in question LeMoyne told Forrest that he had to raise $5,000 in connection with this contract for an option on the car barn property, and he asked Forrest to see Curtis, which Forrest did and requested Curtis to go to LeMoyne’s office, and Curtis did so. LeMoyne asked him for a loan of $5,000: Curtis asked LeMoyne what he had to offer and LeMoyne replied: “If you will get me this $5,000, I will give you a twentieth interest in the deal.” LeMoyne began to write the statement, but before finishing it said to Curtis, “I find this will complicate matters, giving you an undivided interest in the property. In lieu of that I will execute a note for $10,000; this will represent a one-twentieth interest and the note will come due when the deal is consummated. ’ ’ Curtis then replied that he would go to the hank and try to get the $5,000. He got it and gave it to defendant. The defendant gave his note therefor, which has since been paid. At the same time LeMoyne executed and delivered to complainant the following document:
+‘Chicago Ills. April 12, 1912.
+“10,000#
+“On or before June 1, 1914 after date I promise to pay to the order of W. Espy Curtis
+“The liability and payment of this note is contingent on the consummation by me of the purchase of certain property on 39th Street near Wabash Avenue now under negotiation by me.
+Wm. M. LeMoyne.”
+It is admitted that the transaction for the purchase of the car barn property was consummated between LeMoyne and the Chicago City Railway Company, and the deed to said property was issued to the defendant in March, 1920.
+The master found (his finding is approved by the decree and it is not argued here that the finding is against the weight of the evidence): “That the note for $10,000 was given by the defendant as evidencing one-twentieth interest in prospective profits”; that when the deal for the real estate was consummated in March, 1920, the $10,000 payment was then specifically due and payable.
+It is urged that defendant was entitled on a final hearing to the advantage of the defense that complainant had an adequate remedy at law, and, further, assuming that the superior court had jurisdiction, it was lost when upon final hearing it developed that complainant was without special ground for equitable relief. Gordon v. Reynolds, 114 Ill. 118, and other cases following the rule there announced are cited.
+If the defendant wished to take advantage of that defense, it should have been set up in the answer.' The subject matter of the suit was not wholly foreign to a court of equity, and the rule that equity will not take jurisdiction where a complete and adequate remedy exists at law is intended for the protection of the court and not for the purpose of shielding defendants from their just obligations. Hart v. Oliver, 296 Ill. 209. The court did not abuse its discretion in this respect.
+It is next complained that the decree for the complainant was given under the prayer for general relief and that this was not justified upon the case made by the bill. VanZanten v. VanZanten, 269 Ill. 491, is cited to this point, which seems to he that the hill asked for an accounting as to the car barn property, whereas relief was given only as to the $10,000 note. We think, however, the allegations of the hill are sufficient to cover both items.
+It is next urged that the defense of usury should have been sustained. We do not think so. LeMoyne and Curtis became joint adventurers in so far as the purchase of the car barn property was concerned. The adventure was highly speculative and not unlike transactions in mining districts, where what is known as “grub-staking” contracts are often made. In the last analysis the question of whether a contract is tainted by usury must depend upon the intention of the parties. No such intention appears here. Clemens v. Crane, 234 Ill. 215; Orvis v. Curtiss, 157 N. Y. 657; Embola v. Tuppela, 127 Wash. 285, 220 Pac. 789; Ordway v. Price, 194 N. W. 321, are cited and are, we think, in point.
+It is next urged that the defendant should have been permitted to amend his answer on the coming in of the master’s report. This was more than five years after the bill was filed, and we think the court did not abuse its discretion in refusing to permit the amendment.
+It is next contended that the master’s fees are excessive. This point seems to be raised for the first time in this court. The master’s fees were fixed at $245 in the decree of December 17th; an appeal was then prayed but not perfected. However, we do not think the fees are excessive.
+The decree is just and is affirmed.
+Affirmed.
