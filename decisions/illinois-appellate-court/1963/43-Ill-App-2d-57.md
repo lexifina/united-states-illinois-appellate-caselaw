@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 63-0-4"
+decided: "1963-09-13"
+citations: ["43 Ill. App. 2d 57"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CULBERTSON, PJ and SCHEINEMAN, J, concur."]
+parties: ["Harold Liddell, Plaintiff, v. Noel Smith, Sherwood Land Company, a Corporation, Midwest Construction Company, Ltd., and Burns Smith, Defendants."]
+source_url: "https://static.case.law/ill-app-2d/43/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5246713
+cites_cases: ["105 Ill App 445", "110 Ill App 150", "23 NE2d 936", "302 Ill App 229", "311 Ill App 543", "37 NE2d 355", "404 Ill 143", "88 NE2d 473", "97 Ill App 460"]
+---
+
+# Liddell v. Smith
+
+## Majority (HOFFMAN, JUSTICE.)
+
+HOFFMAN, JUSTICE.
+The defendants appeal from an order of the trial court, entered March 27, 1963, appointing a receiver, pendente lite, to take charge of the assets of defendant Sherwood Land Company, a corporation.
+Plaintiff Harold Liddell filed a verified complaint alleging fraudulent conduct of defendant Noel Smith and praying for the liquidation and dissolution of the corporation in which he and Noel Smith owned the stock. In his suit, he also asked for an injunction restraining the transfer of the property of the Sherwood Company and restraining certain of the defendants from foreclosing mortgages against property of the Sherwood Company. Further, he asked for an accounting by defendant Noel Smith and for the appointment of a receiver to take charge of the assets of the Sherwood Company. In addition, he requested that defendant Noel Smith be directed to convey a 320-acre tract of land to the Sherwood Company.
+The plaintiff separately filed his petition for the appointment of a receiver to take charge of the assets pending the suit, and after hearing testimony, including testimony of plaintiff and of defendant, and considering exhibits, the court allowed the petition and appointed a receiver. It is this action of the trial court that is complained of on appeal.
+The factual background giving rise to the litigation starts with the formation of a corporation under the name of Sherwood Land Company. James Castle, Noel Smith and Harold Liddell, in the summer of 1959, entered into an agreement to form the corporation for the purpose of purchasing timberland in Wayne County, Illinois and clearing the same for farming. Midwest Construction Company, Ltd., which is a corporation owned by defendant Noel Smith, was to loan the money for the purchasing and clearing of the property and was to take a mortgage as security until later financing could be arranged.
+The corporation first purchased 960 acres of land in Wayne County. Later, an opportunity to purchase a 320-acre tract adjoining, came to the attention of plaintiff Liddell. He, in turn, took it up with defendant Noel Smith for the purpose of discussing the purchase for the Sherwood Land Company. The contract to purchase was entered into between Sherwood Company and the owner. Defendant Noel Smith, however, took title to this 320-aere tract in his own name, claiming that he paid for it.
+Plaintiff here argues that the evidence before the court showed that defendant Noel Smith acted with fraudulent intent in trying to completely eliminate the plaintiff from the Sherwood corporation. He refers to the contents of one letter written by defendant Noel Smith, dated May 28, 1962, which stated as follows: “I have this deal under full control except can-celling out Liddel. This will be done in a length of time.” He points to the various schemes of Smith made in an effort to get his stock.
+Plaintiff’s complaint and proof also refer to defendant Smith’s acquiring the 320-acre tract in his own name, rather than in the name of Sherwood Land Company, a fact admitted by Smith but claimed to be justified.
+The defendant argues that though the matter of appointing a receiver pendente lite is a matter of judicial discretion, it should not be ordered arbitrarily and should be done only when there is no other adequate means of doing justice. This is undoubtedly the rule. He cites the cases of Simpson v. Adkins, 311 Ill App 543, 37 NE2d 355, Klass v. Yavitch, 302 Ill App 229, 23 NE2d 936, Lemker v. Kalberlah, 105 Ill App 445, Schack v. McKey, 97 Ill App 460 and Larson v. West, 110 Ill App 150. Due to factual differences, these cases are not decisive to this appeal. In these cases, the receiver was appointed either without notice or without supporting proof other than the complaint. In the Schack case, the court held that plaintiff’s remedy was at law and not in equity.
+We find the applicable principles involved quite well stated in the ease of Firebaugh v. McGovern, 404 Ill 143, 88 NE2d 473. That was an action to restrain the defendants from acting as directors of a corporation. The superior court of Cook County had appointed a receiver to operate the corporation apartment hotel pending the litigation to determine who were the qualified officers.
+In approving this action, the Supreme Court used the following language on pages 149 and 150 of 404 Ill, page 476 of 88 NE2d:
+“Thus, it is generally regarded as grounds for the appointment of a receiver that the directors are so managing or disposing of the corporate business or assets in their own interest that such assets will probably be lost or destroyed before a decree can be rendered, that internal dissensions are deadlocking the corporation so as to frustrate or threaten its purposes and objects, that a failure or refusal of directors to meet and transact business is jeopardizing the interests of the stockholders, or that other conditions of dissension, dispute, fraud or mismanagement exist which make it impossible for the corporation to carry on its business or preserve its assets until a settlement is reached.”
+The Court continues:
+“While the remedy is a drastic one and is not properly employed even for the purpose of preservation, except in cases of urgent necessity where there is a present danger to the interests of the stockholders, consisting of a serious suspension of the corporate business and a threatened depreciation in the value of its assets, it is nevertheless an inherent part of the general equity power of the court where the ultimate relief requested in the complaint is within the scope of its jurisdiction.”
+In the present case, it is clear that the only stockholders in the Sherwood Corporation are the plaintiff Harold Liddell and the defendant Noel Smith. It is clear, too, that there is a great deal of dissension between them and that the plaintiff accuses defendant of fraudulent conduct to eliminate his interest in the corporation. Further, plaintiff accuses defendant Smith of acting in certain matters on his own behalf rather than for the best interests of the corporation. While these accusations were denied, the trial court heard evidence and based thereon, decided to appoint a receiver to handle the affairs pending the outcome of the litigation. A review of the evidence convinces us that there is ample support in the evidence for the court to have taken the action it did. The strained relationship between the two main stockholders, the mistrust evidenced for some period of time, the supporting evidence of the charges of fraudulent conduct, all combined would require a receiver to maintain an impartial conduct of the corporation affairs pending the outcome of the litigation.
+The order appealed from was proper, and it is affirmed.
+Affirmed.
+CULBERTSON, PJ and SCHEINEMAN, J, concur.
