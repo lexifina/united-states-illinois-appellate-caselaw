@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-09-26"
+citations: ["78 Ill. App. 111"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ebin J. Ward, Mayor, etc., v. I. J. Cook."]
+source_url: "https://static.case.law/ill-app/78/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5787035
+cites_cases: ["11 Ill. App. 383", "110 Ill. 577", "118 U. S. 425", "12 Ill. 248", "121 Ill. 483", "13 Ill. 554", "130 Ill. 482", "139 Ill. 101", "139 Ill. 669", "151 Ill. 24", "16 Ill. 257", "19 Ill. 37", "2 Mich. 187", "20 Mich. 176", "21 Minn. 440", "22 Pick. (Mass.) 263", "25 Pa. St. 23", "26 Ohio St. 109", "29 Ill. App. 52", "31 Minn. 440", "37 Wis. 275", "45 Miss. 151", "46 Ill. 415", "46 N. J. L. 276", "46 N. Y. 383", "5 Nev. 244", "50 Ill. 453", "53 Ill. 428", "53 Miss. 314", "53 Miss. 715", "56 Iowa, 698", "56 N. Y. 466", "57 Ill. 316", "61 Mich. 373", "61 Miss. 548", "63 Cal. 127", "66 Ala. 184", "66 Ill. 507", "68 N. Y. 274", "70 Ill. 232", "74 Ill. 27", "8 Mich. 378", "85 Ill. 396", "87 Ill. 182", "93 Ill. 133", "93 Ill. 180", "96 Ill. 467"]
+---
+
+# Ward v. Cook
+
+## Majority (Mr. Justice Wright)
+
+Mr. Justice Wright
+delivered the opinion of the court.
+On May 7, 1896, appellee was appointed city marshal of the city of Marseilles, La Salle county, by George L. Smith, then mayor of the city, and his appointment was confirmed by the city council. He then qualified as such officer by giving bond and taking the oath of office. He was paid for his services from that time to the first of May, 1897, by warrants, drawn by order of the city council upon the city treasurer, at the rate of $50 per month. Appellant having been elected mayor of said city, was installed in said office in the month of May, 1897, and thereafter the city council, from time to time, ordered warrants to issue to appellant for his alleged salary, at $50 per month, for May, June, July, August and September, 1897, which warrants appellant as such mayor refused to sign. Appellant at no time appointed appellee as marshal. Appellant introduced in evidence an ordinance passed and approved May 7, 1897, for the appointment by the mayor, to be confirmed by the council, of a city marshal, and a repeal ..thereof on August 2, 1897. Ho appointment or confirmation of a marshal appears from the evidence to have ever been made thereunder.
+Petition was filed by appellee against appellant for a writ of mandamus to compel him, as such mayor, to sign the warrants above mentioned, to which appellant filed answer; and on the hearing, the facts above stated, and others which we regard as immaterial to this decision, appeared from the pleading and evidence. The court found the issues for the appellee, and gave judgment against appellant awarding the peremptory writ of mandamus requiring him to sign the warrants, from which judgment he prosecutes this appeal.
+Before the appellee was entitled to the writ of mandamus he was required by the well settled and elementary rules of the law to show a clear right to it. He was therefore required to prove that he was either de fare or defacto the city marshal of Marseilles, before he would be entitled to the emoluments thereof. To make this proof it was necessary that he should produce in evidence an ordinance passed by a two-thirds vote of the city council of the city of Marseilles, providing for the election or appointment of a city marshal as required by section 2 of article 6, chapter 24, Revised Statutes. This he has failed to do. ' In truth there is no claim such ordinance was ever in existence, except during the interval between May 7, 1897, and August, 2, 1897, under which appellee neither claims title nor authority. Under the section of the statute to which we have referred, there can be no such office as city marshal in the city of Marseilles until the passage of the ordinance therein provided. At the time of, his appointment and confirmation, May 7, 1896, there could be ho de jure city marshal because there was no such office to fill, and where there is no office to fill, there can be no officer either de jure or de facto. Norton v. Shelby County, 118 U. S. 425, and cases cited.
+The city council therefore exceeded their powers by appropriating money and. ordering warrants to pay the salary of an officer having no legal existence, and the mayor could not properly be required to sign treasury warrants for services performed by an acting officer when' there could be no real officer. The judgment of the Circuit Court will be reversed.
+Finding of Facts to Be Recited in the Final Order of the Court.
+The court finds as facts from the evidence in this case that at the time appellee claims he was appointed city marshal of the city of Marseilles, no such officer was in existence in said city, nor has he ever been appointed or confirmed under any ordinance passed by the city council creating said office; that at no time during the period of time for which he claims salary was there any ordinance in force creating said office, except from May 7, 1897, to August 2, 1897, and appellee claims neither title nor authority thereunder.
