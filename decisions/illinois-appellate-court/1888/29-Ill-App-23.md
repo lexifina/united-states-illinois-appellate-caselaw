@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-05-25"
+citations: ["29 Ill. App. 23"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John P. Dunsworth v. Walter A. Wood Machine Company."]
+source_url: "https://static.case.law/ill-app/29/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4971514
+cites_cases: ["19 Pick. 217", "2 Ill. App. 55", "22 Ill. 258", "4 Gilm. 409", "47 Ill. 349", "54 Ill. 147", "61 Ill. 327", "67 Ill. 469", "7 Ill. App. 201", "70 Ill. 24", "73 Ill. 560", "8 Ill. App. 188", "93 Ill. 265"]
+---
+
+# Dunsworth v. Walter A. Wood Machine Co.
+
+## Majority (Pleasants, J.)
+
+Pleasants, J.
+It appears from this record that appellant and his brother gave appellee two orders, each for one machine and otherwise alike in terms and signed by both, promising to. pay therefor in notes of the tenor specified. The machines were delivered accordingly and appellant gave the notes for his, but refusing to give them for the one delivered to his brother, who died before they were demanded, appellee thereupon, and before the time when they were to be due, brought this suit before a justice of the peace. On appeal there was a judgment on verdict for plaintiff for $175, the aggregate amount for which they were to be given.
+Appellant offered no evidence on the trial below, nor does he here suggest any merit, unless it appears from the foregoing statement. His appeal is based on grounds purely technical. It seems that, on his motion, the Circuit Court ordered the plaintiff to file a bill of particulars, under which it filed the following:
+“To one mowing and reaping machine sold to John P. Dunsworth and Jas. W. Dunsworth, the said
+Jas. W. having since departed this life........ .$185.00
+To interest.................................... 20.00
+To one mowing and reaping machine............ 185.00
+To interest on same............................. 20.00”
+From the limit of jurisdiction of the court in which the action was commenced, it may be inferred that this bill was so made to present the claim upon one machine in two aspects, to meet either view that might be taken of his liability, if any, as sole original or surviving joint contractor.
+When the orders were offered in evidence the defendant objected to tlieir admission for reasons not quite clear from the statement in the record, but which are understood to be (1) that the bill of particulars gave no notice of anything the orders could tend to prove; (2) that it was ambiguous on its face (or perhaps that the orders, being two, and alike, were ambiguous); and (3) that they were variant from the bill—they stating the price at 8175 and in notes, and it at §185. They were admitted over these objections, and then plaintiff’s agent testified to the delivery and that defendant gave the notes promised for one, but refused to give them for the other of the machines. The death of James W. Dunsworth, as stated, was admitted.
+Upon the conclusion of plaintiff’s evidence, defendant moved the court to strike it all out, which motion was denied; and on these rulings the questions here are made.
+Appellant insists that the suit was for the price, as such, of the machine sold; that the bill of particulars conclusively so shows; that therefore the plaintiff’s right of proof was limited to that cause of action in all its technical strictness; and that the evidence admitted entirely failed to prove it, since it showed that, by the contract of purchase, a credit was to be given which had not expired when the suit was commenced.
+This argument would not be entitled to much consideration if it were sound. It is built on a very nice technicality, not touching the merits; and this does not seem to be a case in which such a point should be allowed to defeat substantial justice. If plaintiff could not recover the price, eo nomrne, he could recover damages for the breach of the special contract for payment in notes, and the measure of damages would be the amount for which they should have been given. Manton v. Gammon, 7 Ill. App. 201. The result being the same. the naming of it as the price, if it had been so named, instead of damages, though it were proper, should not prevent his reaching it. In the court where this action was commenced, written pleadings are unknown. In a court of record the items in an account or bill filed under the common counts, which furnish no particulars of the cause of action, are not treated with the strictness applicable to a declaration on a special contract. It is sufficient if it indicates with reasonable clearness the facts on which the plaintiff relies to sustain any claim recoverable under such counts. In a justice’s court, where the summons stands for a good count, common ox-special, as the case xxpon the proof may require, the rule should be no less liberal. And if, in this case, the statement had been in terms, “for the price of one mowing and reaping machine,” it would have indicated with reasonable clearness a claim arising xxpon the sale of such a machine and the nonpayment of the price as promised. Whether the right turned out upon the evidence to be to the price, eo nomine, or to damages for breach of a special promise as to pávment, should make no difference as to the sxxfficiency of the notice.
+But is the position of appellant technically sound? Does the bill indicate a claim for the pi-ice, as such? The statement of the item in question, as here made, would have different meanings, according to the form of action. If in debt, it-would doubtless signify a claim for the px-ice. But assumpsit is framed for the recovery of damages only. And yet this same form of statement is universally followed for accounts ox-bills of particulars, in actions of assumpsit for goods sold and delivered. And it is alike appropriate wherever the price has not been paid according to the contract, express or implied, whether it were for cash on delivery, or upon a credit which had expired, or for specific articles on delivex-y or xxpon a like credit, though neither is indicated by it. We perceive no reason why it is not as proper where the contract was to pay in notes on delivery, though that be not indicated. It is enough that the promise in consideration of which the article was sold and delivered by the plaintiff, has been broken without legal excuse ox- justification, and the mere charge for the article as here made, £:to one mowing and reaping machine,” clearly implies a claim that it has not been paid for according to the promise.
+The orders tended to prove the promise and the measure of damages for its breach, which was otherwise shown, and under this notice were properly admitted. Since the plaintiff did not claim that the possession of the machine was fraudulently or tortiously obtained, or that the credit was procured by fraud, nor treat the contract as rescinded, the rule declared in Kellogg v. Turpie, 93 Ill. 265, does not apply.
+The judgment will be affirmed.
+Judgment affirmed.
