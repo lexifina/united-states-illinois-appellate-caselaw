@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1890-02-14"
-citations: ["32 Ill. App. 455", "32 Ill. App. 460"]
+citations: ["32 Ill. App. 455"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["C. C. Bedford et al. v. Lettie L. Bedford, Administratrix."]
 source_url: "https://static.case.law/ill-app/32/cases/0455-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4978746
-cites_cases: ["100 Ill. 360", "109 Ill. 535", "11 Ill. 386", "13 Ill. 484", "13 Ill. App. 564", "18 Ill. 46", "18 Ill. App. 386", "19 Ill. 347", "2 So. 426", "20 Ill. 621", "21 Ill. 203", "21 Ill. 623", "23 Barb. 464", "23 Ill. 81", "23 Ill. 83", "29 Wis. 278", "3 Scam. 179", "39 Ill. 77", "4 Johns. Ch. 104", "44 Ill. 259", "50 Ill. 263", "6 Johns. 566", "63 Ill. 54", "64 Ill. 383", "78 Ill. 229", "78 Ill. 443", "9 A. 623", "9 Ill. App. 495", "91 Ill. 549", "95 Ill. 519", "95 Ill. 530"]
+cites_cases: ["100 Ill. 360", "11 Ill. 386", "13 Ill. 484", "13 Ill. App. 564", "18 Ill. 46", "18 Ill. App. 386", "19 Ill. 347", "2 So. 426", "21 Ill. 203", "21 Ill. 623", "23 Barb. 464", "23 Ill. 81", "23 Ill. 83", "3 Scam. 179", "39 Ill. 77", "4 Johns. Ch. 104", "44 Ill. 259", "50 Ill. 263", "6 Johns. 566", "63 Ill. 54", "64 Ill. 383", "9 A. 623", "9 Ill. App. 495", "91 Ill. 549", "95 Ill. 519", "95 Ill. 530"]
 ---
 
 # Bedford v. Bedford
