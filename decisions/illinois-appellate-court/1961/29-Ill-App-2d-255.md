@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 60-O-33"
+decided: "1961-03-08"
+citations: ["29 Ill. App. 2d 255"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CULBERTSON, P. J. and HOFFMAN, J. concur."]
+parties: ["Mollie Meredith, Plaintiff-Appellee, v. Glenwood E. Dailey and Julia Dailey, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/29/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5221012
+cites_cases: ["37 N.E. 2d 186", "377 Ill. 562"]
+---
+
+# Meredith v. Dailey
+
+## Majority (SCHEINEMAN, J.)
+
+SCHEINEMAN, J.
+The plaintiff in this case filed an action of forcible detainer in the Circuit Court. She alleged that she was entitled to possession of certain described real estate, that defendants had acquired possession of the real estate by contract for deed from plaintiff dated January 16, 1954, that the defendants thereafter filed an action for specific performance of that contract, but the circuit court denied specific performance for the reason that the contract was incapable of being specifically performed, that plaintiff tendered defendants a refund of the total amount received under the contract, but the defendants refused to accept it and that as a result of the order denying specific performance the defendants are unlawfully withholding possession of the property.
+The decree which denied specific performance of the contract does not state why the contract could not be specifically enforced, but it is stated in the briefs in this case that it was because the description of the real estate was vague and indefinite.
+The forcible detainer action was heard by the circuit court upon motion for summary judgment, supported by affidavits of the plaintiff and her attorney, and the answer of the defendants denying the allegations. The affidavits accompanying the motion for summary judgment merely repeated the allegations of the complaint. The court entered a summary judgment that plaintiff recover possession of the property, and this appeal followed.
+It is conceded that the defendants are not in default under their contract so that the forcible detainer action cannot be based upon the statute pertaining to defaults in contracts. However, the plaintiff contends that the action is based upon that part of the Forcible Entry and Detainer Act which provides that: “Second, when a peaceable entry is made and the possession unlawfully withheld.”
+It is the contention of the plaintiff that the denial of specific performance of the contract makes the possession of the defendants unlawful and brings it within the terms of the quoted section of the statute. The defendants assert that the denial of specific performance did not rescind the contract and that the defendants’ possession is lawful.
+The plaintiff relies upon Sullivan v. Culp, 260 111. App., 443, as authority sustaining her position. There was a contract involved in that case in which the buyer paid $1,000 down, took possession of the property, and made improvements. Thereafter the seller notified the buyer that he was unable to give clear title in accordance with the contract. The buyer' demanded the return of his downpayment, plus $1600 which he had expended on improvements. Later he obtained refund of the $2600 by virtue of a set-off or credit in another matter. Thereafter the judgment was given plaintiff in a forcible detainer action, which was sustained by the Appellate Court.
+In the cited case it is apparent that the buyer had abandoned his contract and had demanded and received the payments he had made thereunder. The holding of the court is in accordance with the rule that when a contract for sale is abandoned or rescinded, the seller is entitled to maintain an action of forcible detainer. It does not bear upon the case before this court in which the buyers stand upon their rights under the contract, and refuse to accept any refund of the payments.
+The Illinois Reports disclose no decision directly in point upon the effect of denial of specific performance of a contract. However, the law is well settled, and there is no conflict therein, as considered by other courts of competent jurisdiction, and the principles are here stated:
+There are several types of relief which equity may grant with respect to contracts for the sale of real estate. One form of relief is to grant rescission of the contract for fraud or other good reason, and the effect of such decree is that the contract cannot be enforced at law or in equity. On the other hand, in determining whether a contract should be specifically enforced, the Court usually considers only the question of enforceability in equity, leaving rights at law undisturbed. There are cases in which rescission or cancellation of the contract has been decreed when specific performance was refused, especially in cases involving fraud, but the mere fact of denial of specific performance does not give the right of cancellation. 49 Am. Jur. Specific Performance, Sec. 4. The following is quoted from 9 Am. Jur. Cancellation of Instruments, Sec. 14.:
+“A recission or cancellation of a contract necessarily involves a determination that the contract in question should not be enforced either at law on in equity, whereas the only point concluded by a refusal of specific performance is that the complainant is not entitled to enforcement in equity by means of specific execution. It does not necessarily follow, therefore, that one as against whom equity has refused specific performance is entitled to the cancelation or recission of the contract in question; on the contrary, there are many cases in which courts have refused to order cancelation of contracts, notwithstanding that they have refused to decree specific performance.”
+It is fundamental that, to obtain specific performance, the contract must be clear, definite, certain, and complete. 49 Am. Jur. Specific Performance, Sec. 22. If the description is uncertain and requires parol evidence to locate the property, specific performance cannot be decreed. People ex rel., Beedy v. Regnier, 377 Ill. 562, 37 N.E. 2d 186.
+In this case no reason is shown in any of the pleadings why the description could not be made certain by a survey. The buyer under the contract has now been in possession for seven years and there must be some basis for observing what property is thus possessed.
+We do not pass upon the question of sufficiency of the description to authorize a decree for specific performance, since the decree on that subject was not appealed and is not before us. But this complaint in forcible detainer described property held by the defendants, under the contract, so that the plaintiff, as well as the defendants, knew what the contract purported to sell, and the judgment pertains to that property.
+From the principles of law above stated this court holds that, even though the extraordinary remedy of specific performance may not be available to the buyer in the contract, this fact is not sufficient to treat the contract as rescinded or cancelled and a forcible entry and detainer action cannot be maintained against the buyers merely because the description of the real estate was insufficient to justify specific performance. Accordingly, the judgment appealed from is reversed.
+Judgment reversed.
+CULBERTSON, P. J. and HOFFMAN, J. concur.
