@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,941"
+decided: "1963-06-26"
+citations: ["42 Ill. App. 2d 80"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCORMICK and DEMPSEY, JJ, concur."]
+parties: ["In the Matter of the Estate of Marie Lundmark, Also Known as Mary Lundmark, Incompetent. James F. Pixius, Petitioner-Appellant, v. Agnes V. Morris and John L. Robinson, Respondents-Appellees."]
+source_url: "https://static.case.law/ill-app-2d/42/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5248314
+cites_cases: ["29 NE2d 251", "374 Ill 248"]
+---
+
+# Pixius v. Morris
+
+## Majority (MB. PRESIDING JUSTICE SCHWARTZ)
+
+MB. PRESIDING JUSTICE SCHWARTZ
+delivered the opinion of the court.
+Petitioner-appellant James F. Pixius appeals from an order entered by the Probate Court of Cook County on June 15, 1962, striking and dismissing his petition challenging fees paid to the conservator and her attorney. The principal issue in the case is whether the petition comes within the provisions of the Illinois Revised Statutes, c 3, § 183 (1961) entitled “Citation to Recover Property and Discover Information.”
+The substance of the petition is that Marie Lundmark was declared incompetent on October 30, 1959; that she died on February 16, 1962; that in 1958 she had signed a will which was admitted to probate on March 26, 1962; that while petitioner is not a beneficiary under the will, he has engaged attorneys to prosecute a will contest and that therefore he has an interest in the estate of the incompetent and in the proper administration thereof. He further charges that an order was entered by the Probate Court on April 26, 1962, denying petitioner the right to file his appearance and to have notice of proceedings in the estate of the incompetent, but granting him the right, without prejudice, to renew his motion; that on April 26, 1962 the conservator presented, without notice to Pixius, her third and final account as conservator and obtained approval thereof by the assistant to the probate judge. The petition further charged that the final account showed payment, without previous order of court, of attorney’s fees in the sum of $2000 on January 6, 1962, $1800 on April 9, 1962, and $2100 in earlier payments. It further charged that the conservator paid herself, without previous order of court, the sum of $2100, and that the charges for attorney and conservator were excessive and unreasonable. He prayed that a rule be entered, requiring the conservator and her attorney to justify the payments made and to make such return of any funds as the court may determine to be proper.
+The probate court properly took notice of the will of Marie Lundmark which was on file before it and which left a bequest of $500 to the St. Alphonsus Roman Catholic Church of Chicago; directed suitable inscriptions on a tombstone over the grave of her late husband; and left the remainder of her property to her sister Elizabeth Nann “and in the event that she predeceases me, then I leave my estate to her two daughters, Louise Nann and Eleanor Moore, to share and share alike.” Thus, petitioner did not inherit under that will. His averment that he is an heir-at-law is therefore still in the wishful stage and will not be realized unless he succeeds in his will contest. The order of the judge of the probate court undoubtedly denied petitioner’s motion to intervene in the probate of the estate because it appeared that he had no interest therein. He was given leave to renew his motion, which he did not do, but instead filed the petition in question.
+Petitioner contends that he may challenge the payments in question under Section 183, supra. The payments were included in three accounts filed by the conservator, successively, on December 14, 1960, December 22, 1961 and April 26, 1962. Thus, the probate court had before it a full disclosure of the payments which had been made, or were about to be made if the court approved the account. This is common practice in that court. Sometimes such an account is no more than a proposed tentative allocation of attorney’s and conservator’s fees. It by no means follows that no attention was paid to the accounts filed herein. The probate court is an administrative court, and by far the greatest part of its business does not assume the proportions of adversary litigation. Reliance is placed on the court’s personnel to check expenditures. Guide schedules of fees are provided, from which there may be variances according to the work and time expended. In the instant case the amount of the estate was approximately .$80,000 and the total fees paid, $8755. Whether, considering the work done over a period of several years, this was reasonable cannot be determined by us and is not properly before this court.
+It is under these circumstances that we approach the interpretation of Section 183, supra, which reads as follows:
+“Upon the filing of a verified petition therefor, the probate court shall order a. citation to issue for the appearance before it of any person whom the petitioner believes (1) to have • concealed, converted, or embezzled or to have in his possession or control any personal property, books of account, papers, or evidences of debt or title to lands which belonged to a person whose estate is being administered in that court. . . .”
+Is this intended to apply to what petitioner claims was the payment of excessive fees? The uniqueness of this attempted application of citation proceedings is evident from the inability of either the appellant, appellees or the court to find any case on this issue. The purpose of the citation proceeding is to discover assets of the estate involved and to determine title and ownership when adverse claims arise. There is no language in any of the sections governing citation proceedings from which it can be inferred that such proceedings can be used for the purposes of the petition in the instant case. In Horner, Probate Practice and Estates, vol 2, § 1072, at 367, it is said:
+“In order to bring himself within the operation of the statute the petitioner must set up such facts as will bring the cause within the prescribed requirements, which statement is a condition attached to the right to be heard. In addition to the prayer for the issuance of the citation the petition should contain prayers for the relief sought by the petitioner as in other cases. . . .”
+As a matter of fact, petitioner nowhere prays for the issuance of a citation.
+The case of Nonnast v. Northern Trust Co., 374 Ill 248, 29 NE2d 251, cited by petitioner in support of his position, involved the denial of fees to a trust company which, first acting as conservator and then as executor of an estate, lent money without authority to a failing corporation. It is of no relevancy to the issue here presented.
+The court properly struck the petition.
+Order affirmed.
+McCORMICK and DEMPSEY, JJ, concur.
