@@ -1,0 +1,53 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-12-06"
+citations: ["79 Ill. App. 201"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. B. Gaines v. E. J. McAdam."]
+source_url: "https://static.case.law/ill-app/79/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5788343
+cites_cases: ["14 How. 446", "2 Gray, 567", "55 la. 416", "56 Ill. 231", "69 N. Y. 118", "78 Ill. 124", "82 Ill. 311", "9 Pick. 112", "96 Pa. St. 182", "98 Mass. 500"]
+---
+
+# Gaines v. McAdam
+
+## Majority (Mr. Justice Adams)
+
+Mr. Justice Adams
+delivered the opinion of the court.
+It being agreed that the statute of frauds of the State of Arkansas is substantially the same as the like statute in this State, the question is whether there is any memorandum or note in writing of the contract sued on, signed by appellee, within the meaning of section 2 of our statute of frauds, which is as follows:
+“ No action shall be brought to charge any person upon any contract for the sale of lands, tenements or hereditaments, or any interest in or concerning them, for a longer term than one year, unless some memorandum or note thereof shall be in writing and signed by the party to be charged therewith, or some other person thereunto by him lawfully authorized in writing, signed by such party,” etc.
+It is admitted in the stipulation that each of the agents, Corrington and Maurice, ivas duly authorized to do what he did “ in the renting of the store building of A. B. Gaines, situated in the city of Hot Springs, in the State of Aricansas.” What each did in the matter appears from the stipulation to be that Corrington, appellant’s agent, some days prior to November 11, 1893, offered to rent the premises to McAdam, the appellee, for one year for $900, payable in monthly installments of $75 each, payable on the first of each month in advance, and that Maurice, appellee’s agent, November 11, 1893, accepted the offer for one year from November 15,1893. Each agent having “ been duly authorized ” to do what he did in the premises, there was thus created an oral contract, good at common law, and not void, but merely non-enforcible, by virtue of the statute, in the absence of some note or memorandum thereof in writing, signed by the party sought to be charged, or by his lawful authorized agent. Browne on Statute of Frauds, 4th Ed., Sec. 344; Wheeler v. Frankenthal, 78 Ill. 124.
+Was there such note or memorandum ?
+“ Maurice communicated what was said at the interview between himself and Corrington to E. J. McAdam,” the appellee. He therefore communicated to appellee, among other things, that Corrington offered to rent “ a certain store belonging to A. B. Gaines, the plaintiff, to E. J. McAdam, * * "x" for one year at $900, payable in monthly installments of $75 each, said installments payable on the first of each month in advance.”
+The communication from Maurice to appellee was necessarily either by letter or telegram, probably the former, because the stipulation shows that Maurice, the agent, was in Hot Springs, Arkansas, and appellee in Chicago, Illinois.
+Appellee, after receiving the communication from Maurice, and with the same before him, sent to Maurice this telegram:
+“ Chicago, Nov. 11; 1893.
+To W. G. Maurice, Hot Springs :
+Take Gaines’ store six months, if can’t lease one year.
+E. J. McAdam.”
+Maurice received the telegram November 11, 1893, the day it was sent, and immediately showed it to Corrington, appellant’s agent, and rented the store on the terms proposed by Corrington, for one year from November 15, 1893.
+November 13, 1893, after Maurice had rented the store, he received another telegram from McAdam, as follows:
+“ Oak Park, III., 11-13, ’93.
+To W. G. Maurice :
+Yes, lease it; re-rent half if possible—sent you check.
+E. J. McAdam.”
+It thus appears that appellee, having before him the written communication of his agent, in which was stated what occurred at the interview between him and the appellant’s agent, in which interview the names of the parties, “ the store room belonging to A. B. Gaines,” and the terms on which such store room was offered to be rented, are all fully stated, accepted the offer by written telegrams signed by him.
+Appellee’s counsel objects, “ There is nothing in the record whatever to show that Gaines’ store room, mentioned in the agreed statement of facts, was the land mentioned in the declaration.” This objection is based on the fact that the premises alleged to have been leased are described in the declaration as “ lot 42, in block 89, in the city of Hot Springs,” etc. But, as stated by appellee’s counsel, in their argument, “ The case was tried by the judge, a jury being waived,, upon an agreed statement of facts.” The statement contains no reservation of the right of objection or exception. This being the case, the objection can not prevail.
+In Kimball v. Preston, 2 Gray, 567, the court say: “ It is a well-settled rule of practice that when parties agree upon a statement of facts embracing the merits of the controversy, upon the decision of which judgment is to be rendered, all objections as to forms of proceeding are waived, unless expressly reserved.” Citing Haven v. Foster, 9 Pick. 112, and Ellsworth v. Brewer, 11 lb. 316.
+In Esty v. Currier, 98 Mass. 500, the court say: “But an agreed statement of facts waives all defects in the pleadings, even if the pleadings are referred to as part of the statement, and authorizes a judgment on the merits as if they were duly presented by proper pleadings.” To the same effect are Bixler v. Kunkle, 17 S. & It. (Penn.) 298; and Perry v. Murray, 55 la. 416.
+The telegram from appellee to his agent, Maurice, of date Kovember 11, 1893, “ take Gaines’ store six months, if can’t lease one year,” manifestly referred to the written communication from Maurice to appellee, which the latter had before him, and which, as we think, must be taken in connection with the telegram, in determining whether there was a sufficient memorandum signed by appellee to charge him. The fact that the telegram was addressed to appellee’s agent and not to appellant is immaterial, because “ letters addressed to a third party, stating and affirming a contract, may be used against the writer as a memorandum of it.” Browne on Stat. of Frauds, Sec. 854a.
+The telegram signed by appellee and exhibited, as it was, by his agent to appellant’s agent, taken in connection with the written communication to which it referred, was, as we think, a sufficient memorandum in writing of the oral contract.
+In Wood v. Davis, 82 Ill. 311, which was assumpsit to recover damages for a failure to perform a contract for the sale of land, the statute of frauds was pleaded, and it was objected, among other things, that there was no writing containing a description of the land. The negotiations for the purchase were wholly between the plaintiff and the defendant’s agent, and it does not appear that in any communication between them the land had been described, or that reference had been made to any advertisement; but it appeared that the land had been advertised for sale by description, and the court held that the plaintiff might rely on the advertisement, saying : “ The advertisement of the land for sale by Gillespie, in which it was properly described, may be regarded as a part of the transaction, upon which appellee can rely.” The present case is much stronger in support of the proposition that the written communication from Maurice to appellee is to be regarded as a part of the transaction and read in connection with appellee’s telegram, than was the case cited in support of regarding the advertisement as a part of the transaction.
+See also Salmon Falls Man. Co. v. Goddard, 14 How. 446, in which the court held that a bill of parcels made by the plaintiff, subsequently to the making of the memorandum in question, and not referring to it, could be resorted to for the purpose of explaining ambiguities in the memorandum.
+Appellee’s telegram of November 13th may well be regarded as an acceptance of Corrington's proposal, which had been previously communicated to appellee in writing by Maurice. The fact that this telegram was sent after the contract had been made by the agents, can not aifect its sufficiency as a memorandum or acceptance to charge appellee. “As to the time when the memorandum must be executed, it is settled that it may be at any time subsequent to the formation of the contract by the parties, and before action brought.” Browne on Stat. of Frauds, Sec. 352a.
+In Cossitt v. Hobbs, 56 Ill. 231, the court say: “Any writing from which the intention can be gathered, as in other contracts, will be sufficient.” See also Browne on Stat. of Frauds, Sec. 354.
+The intention of appellee to accept the offer of appellant’s agent, and his actual acceptance of it, is, we think, clearly shown by the agreed statement of facts.
+Appellee’s counsel contend that the leaving the key of the premises with a clerk, in Corrington’s office when appellee removed from the premises, and the subsequent unsuccessful efforts of Corrington to rent the premises, are evidence of a surrender of the premises to appellant.
+These facts were not sufficient to constitute a surrender. The landlord’s consent to a surrender can not be inferred from the unsuccessful attempt of his agent to rent the premises. Woodfall on Landlord and Tenant, Sec. 303; Thomas v. Nelson, 69 N. Y. 118, 121.
+“ The declaration of a landlord that his tenant had given up his lease, accompanied by an unsuccessful attempt to lease to another, is not conclusive evidence that their relation had ceased. There must be an agreement to rescind, or the agreement continues in force,” etc. Milling v. Becker, 96 Pa. St. 182.
+In Humiston et al. v. Wheeler, Chicago Legal News, of date November 5, 1898, not yet reported, the court held: “In case of an abandonment without fault of the landlord, or in consequence of his act, he may re-enter and again rent the premises and credit the lessee with the proceeds, and his so taking possession does not relieve from the payment of rent.” Citing Wood on Landlord and Tenant, Sec. 477, and 12 Am. and Eng. Eney. of Law, 751. The suit was commenced November 1, 1894; the stipulation is that the rent was paid up to April 15,1894; so that at the time of commencing suit there was due appellant the rent for seven months, or $525.
+The judgment will be reversed, and the cause having been tried by the court without a jury, judgment will be entered here in favor of appellant and against appellee for the sum of $525 and his costs of this court. Reversed, and judgment here.
