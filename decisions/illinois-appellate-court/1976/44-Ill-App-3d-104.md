@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "13481"
+decided: "1976-12-02"
+citations: ["44 Ill. App. 3d 104"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. RICKY BROWN, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/44/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2810899
+cites_cases: ["10 Ill. App. 3d 786", "13 Ill. 2d 63", "147 N.E.2d 316", "278 N.E.2d 771", "295 N.E.2d 246", "302 N.E.2d 20", "309 N.E.2d 1", "32 Ill. App. 3d 305", "32 Ill. App. 3d 926", "322 N.E.2d 819", "336 N.E.2d 511", "337 N.E.2d 291", "340 N.E.2d 9", "50 Ill. 2d 296", "55 Ill. 2d 62", "56 Ill. 2d 493", "60 Ill. 2d 1", "62 Ill. 2d 146"]
+---
+
+# People v. Brown
+
+## Majority (Mr. JUSTICE REARDON)
+
+Mr. JUSTICE REARDON
+delivered the opinion of the court:
+A Champaign County jury found the defendant, Ricky Brown, guilty of battery in violation of section 12—3 of the Criminal Code of 1961 (Ill. Rev. Stat. 1973, ch. 38, par. 12—3), of aggravated battery in violation of section 12—4 of the Code (Ill. Rev. Stat. 1973, ch. 38, par. 12—4) and of intimidation in violation of section 12—6 of the Code (Ill. Rev. Stat. 1973, ch. 38, par. 12—6). The court entered judgment on all three verdicts and defendant was sentenced to concurrent 4-year terms of probation for intimidation and aggravated battery with the first 6 months to be served in the county jail. Defendant was sentenced on the battery conviction to 6 months in the county jail, this sentence being concurrent with the sentences imposed for intimidation and aggravated battery.
+The conduct addressed herein occurred on the evening of December 27, 1974, at the Douglas Recreation Center in Champaign, Illinois. The essential facts are that Victor Jones purchased a pistol from defendant while the two were at the center. After taking possession of the pistol, Jones handed it to his brother and Jones then attempted to walk to his car. Defendant and Charles Williams stopped Jones on the Douglas Center parking lot and defendant demanded the pistol’s return. Jones refused to return the weapon unless the defendant refunded the purchase price.
+Defendant then brandished a gun and struck Jones on the head. Jones tried to explain that he no longer had the gun, but defendant wrestled and pushed Jones onto the adjoining blacktop lot of Washington School. Defendant then cocked his gun, stated, 9 s I ought to kill you * ° and resumed striking Jones. Defendant’s brother eventually broke up the fight and Jones went home before the police arrived.
+The single question raised in this appieal is whether it was proper for the court to enter judgment and sentence defendant on the battery and aggravated battery verdicts despite the fact that those offenses arose in the course of a series of closely related acts penalized by defendant’s conviction and sentence for intimidation.
+Section 12 — 3(a) of the Criminal Code provides:
+“(a) A person commits battery if he intentionally or knowingly without legal justification and by any means, (1) causes bodily harm to an individual or (2) makes physical contact of an insulting or provoking nature with an individual.” (Ill. Rev. Stat. 1973, ch. 38, par. 12—3(a).)
+Section 12 — 4(b) of the Code defines aggravated battery as conduct in which:
+“(b) A person who in committing a battery either:
+(1) Uses a deadly weapon;” (Ill. Rev. Stat. 1973, ch. 38, par. 12—4(b)(1)).
+_ Section 12 — 6(a) of the Code provides that the offense of intimidation is committed when a person:
+“* * * with intent to cause another to perform or to omit the performance of any act, he communicates to another a threat to perform without lawful authority any of the following acts:
+(1) Inflict physical harm on the person threatened or any other person or on property; or
+” # ° (3) Commit any criminal offense.” Ill. Rev. Stat. 1973, ch. 38, par. 12—6(a)(1), (3).
+The State concedes that defendant’s conviction and sentence for battery should be reversed for the reasons expressed in People v. Williams (1975), 60 Ill. 2d 1, 322 N.E.2d 819. In Williams, our supreme court restated its position that a defendant may be convicted and sentenced for more than one offense arising from a series of closely related acts if the crimes are clearly distinct and require different elements of proof, although a defendant cannot be convicted and sentenced for more than one crime in cases where two or more crimes arise from the same facts and require identical elements of proof. (See also People v. Green (1975), 62 Ill. 2d 146, 340 N.E.2d 9; People v. Johnson (1973), 55 Ill. 2d 62, 302 N.E.2d 20; People v. Harper (1972), 50 Ill. 2d 296, 278 N.E.2d 771; People v. Schlenger (1958), 13 Ill. 2d 63, 147 N.E.2d 316.) Since the elements of the offense of battery are encompassed by the elements of aggravated battery and since defendant is alleged to have committed both offenses in the course of a series of closely related acts motivated by a desire to recover his pistol, we reverse defendant’s conviction for battery as required by Williams.
+We turn next to the State’s contention that defendant’s conduct in committing aggravated battery and intimidation involved separate and distinct incidents requiring affirmance of the convictions for those offenses.
+The testimony presented at trial clearly reflected that Victor Jones was attacked by the defendant on the Douglas Center parking lot and was struck several times with a pistol. This conduct constituted the offense of aggravated battery. The testimony of Oliver Brize, Jr., reflected that defendant then pushed Jones onto the Washington School blacktop where defendant cocked his pistol, threatened to kill Jones and struck him about the head.
+In People v. Beason (1975), 32 Ill. App. 3d 305, 336 N.E.2d 511, the court stated:
+* * The rule is well established that where different offenses arise out of the same actions of a defendant, only one conviction and sentence may be imposed. (People v. Lilly, 56 Ill. 2d 493, 309 N.E.2d 1.) A review of the facts adduced at trial demonstrates that defendant’s actions which constituted the offense of aggravated battery were the means by which defendant committed the crime of attempt rape. Under these circumstances, defendant’s conviction and sentence on both charges was improper. (People v. Cochran, 10 Ill. App. 3d 786, 295 N.E.2d 246.) Accordingly, defendant’s conviction for aggravated battery must be vacated.” (32 Ill. App. 3d 305, 308, 336 N.E.2d 511.)
+A similar statement is made in People v. Clark (1975), 32 Ill. App. 3d 926, 337 N.E.2d 291:
+“Defendant’s final contention is that she was improperly found guilty and sentenced on both counts of aggravated battery, since both charges arose out of the same course of conduct. Defendant was convicted of aggravated battery for committing a battery which resulted in great bodily harm and for committing a battery using a deadly weapon. (Ill. Rev. Stat. 1971, ch. 38, pars. 12—4(a) and 12—4(b)(1).) The State, in its brief, concedes that defendant’s single act resulted in both crimes. We concur that defendant’s single course of conduct resulted in her conviction on both charges of aggravated battery. Accordingly, defendant’s conviction for aggravated battery, using a deadly weapon, must be vacated. People v. Lilly (1974), 56 Ill. 2d 493, 309 N.E.2d 1.” 32 Ill. App. 3d 926, 932, 337 N.E.2d 291.
+In the instant case, we find that defendant perpetrated a single, although prolonged attack on Victor Jones. Defendant commenced this attack on the Douglas Center parking lot and continued to beat and bully his victim until after he cocked the pistol and threatened to kill Jones on the Washington School blacktop. Defendant’s motivation throughout this entire incident was to recover the revolver which he, only minutes before, had sold to Jones.
+Two of the offenses for which the defendant has been found guilty, namely intimidation and aggravated battery, are both classified in the Criminal Code of 1961 as Class 3 felonies with identical penalties. Since we have determined that both of these offenses arose out of the same conduct and because we must follow the teaching of Schlenger and the many cases which proscribe separate sentences for the same conduct, we conclude that the conviction and sentence for intimidation should stand and that the conviction and. sentence for aggravated battery should be reversed.
+Although the acts necessary to establish both offenses have been proved beyond a reasonable doubt, we are persuaded that the defendant intended to intimidate his victim in order to recover the pistol. The acts constituting the offense of aggravated battery were merely the means employed by the defendant to intimidate the victim. Considered together, the acts and intent proved in the instant case establish defendant’s guilt of the offense of intimidation beyond a reasonable doubt.
+On the authority of People v. Lilly (1974), 56 Ill. 2d 493, 309 N.E.2d 1, Beason and Clark, we reverse defendant’s convictions and sentences for aggravated battery and battery. We affirm defendant’s conviction and sentence for intimidation. Cause is remanded to circuit court with directions to issue an amended mittimus.
+Affirmed in part, reversed in part and remanded with directions.
+CRAVEN, P. J., and SIMKINS, J„ concur.
