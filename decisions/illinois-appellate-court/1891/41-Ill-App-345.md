@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-07-30"
+citations: ["41 Ill. App. 345"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pennsylvania Company v. Albert Versten."]
+source_url: "https://static.case.law/ill-app/41/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5034954
+cites_cases: ["111 Ill. 219", "131 Ill. 283", "133 Ill. 248", "17 Ill. App. 47", "27 Ill. App. 518", "33 Ill. App. 317", "35 Ill. App. 163", "38 Fed. Rep. 865", "40 Ill. App. 382", "40 Ill. App. 438", "81 Ill. 432"]
+---
+
+# Pennsylvania Co. v. Versten
+
+## Majority (Gary, J.)
+
+Gary, J.
+The verdicts of juries in actions for negligence, especially where railroads are defendants, often present the question whether they ought to be sustained upon the evidence. The theory of the legislation of this State upon the subject of jury trials, is that the jury are to be trusted rather than the court.
+The court shall instruct only as to the law of the ease, and in writing. All summing of the evidence, all exposure of the sophistry of counsel, which in the old practice was deemed so important to the administration of justice, is prohibited. It does not become the courts to thwart the will of the people, expressed through their representatives, established as the policy of this State forty-four years, by carrying the exercise of the power of granting new trials, on the ground that the evidence does' not justify the verdict, farther than was the practice when the court shared the duty, and therefore the responsibility, of a right result upon the facts.
+On the third day of December, 1886, the appellee took passage on the cars of the appellant, at Englewood, a station nearly six miles south of 18th street in Chicago, .with a ticket in his possession entitling, him to ride to Archer avenue, nearly half a mile south of 18th street, intending to ride without paying any other fare to the latter place.
+He testifies that he told the conductor that he wanted to stop at 18th street, and his testimony implies that the conductor assented; that approaching 18th street, the tiain slowed up, he went upon the lower step of the platform to be prepared to step off, the train gave a jerk which threw him off, and went on without stopping, and by falling under the wheels his leg was cut off. For that injury he sues.
+The appellant endeavored to convince the jury that the train on which the appellee was riding only stopped at 18th street on notice to the conductor, and that the appellee gave no notice. As to the notice there is a preponderance of the evidence in its favor; but as to the stopping without notice, many witnesses for the appellee testified to it, and time tables of the appellant, one of July, and the other December, 1886, stating that that train did so stop, were put in evidence.
+Standing alone, it is quite possible that both the appellee and conductor could be honest in their testimony, one affirming, and the other denying, the notice, for the appellee is a foreigner without a perfect command of English, and the trip was after dark; but the appellant supports the denial of the conductor by the testimony of the conductor, and two other of their employes, to a conversation with the appellee while he was in the hospital, in which he acknowledged that he did not tell the conductor that he wanted to get off at 18th street.
+Another employe testified that he, with another man, picked the appellee up at 17th street, one street north of 18th, and carried him to a shanty and called the patrol to take him to the hospital. If this were true, it would refute the claim of the appellee that he was jerked off at 18th street.
+The appellee could have had no notice "of this defense, and therefore no preparation to meet it. The appellant, however, must have known that it intended to make it, and therefore might have had the corroborating testimony of the other man, if not of the police on the patrol wagon. The latter taking the appellee from the shanty, would not know from that only, where he was hurt. It is probable that the visit to the hospital was induced by some information the appellant had of the claim made by the appellee, and may imply that the claim now made is not an afterthought of the appellee. The witness who picked him up testified that when he picked him up, he didn’t seem to like to tell how it happened, sort of bodging about the accident, and that there was no blood, which rather taxed the credulity of the jury.
+Many witnesses testified that .on tickets to Archer avenue, the appellant carried to 18th street without objection. Whether the appellee gave a true account of the manner in which he got hurt, whether the stopping of the train was dependent upon notice, whether he was rightfully a passenger after passing Archer avenue, were all questions of fact, upon which the appellee pnt in abundance of evidence to sustain the verdict, if there had been none to the contrary. Thez'e is no intrinsic improbability in any part of the story of appellee; wto have no means of knowing that it is not true in all Its parts.
+It is not an argument that we can heed, that a jury will
+generally find against a railroad; the law requires us to respect their verdict as their honest conviction of • what the truth is. We agree with the counsel of the appellant as to the absurdity of referring the j ury, by the instructions, to a declaration of twelve verbose counts, to find out what the issues were; but we are not empowered to reform that practice. It stands upon higher authority. See cases cited in North C. C. Ry. Co. v. Gatska, 27 Ill. App. 518. And if some of the counts were without evidence to support them, the appellant might ask instructions as to those particular counts. Han. & St. J. R. R. Co. v. Martin, 111 Ill. 219.
+The appellants complain of the refusal of an instruction as to the credibility of the appellee as a witness. If, as of right, they were entitled to an instruction on that subject, the one asked seems objectionable. No full equivalent for it was given. But is that subjects part of the law of the case to which, by statute, instructions are limited ? We have, before this case, hesitated upon that point. Trott v. Wolfe, 35 Ill. App. 163; Central Warehouse Co. v. Sargeant, 40 Ill. App. 438; Johnson v. People, 40 Ill. App. 382.
+“ The court can not instruct who to believe and who to disbelieve. There is no artificial rule of belief to control the minds of a jury.” Clevenger v. Curry, 81 Ill. 432.
+The court instructed the jury that “ if at the time of the accident, the plaintiff was exorcising ordinary care,” etc. By itself this is wrong, as the appellant urges, and excludes from the jury the question whether he was negligent in going out to the lower step. C., M. & St. P. R. R. Co. v. Halsey, 133 Ill. 248.
+But in terms the jury were told that “ if the plaintiff did not exercise ordinary care in going out and standing on the platform, that is, if he was guilty of negligence, then he can Lot recover.” Practically, that was a definition that “ the time of the accident ” was not limited to the instant of the casualty. P., D. & E. R. R. Co. v. Berry, 17 Ill. App. 47.
+A witness for appellant had testified that a train with such coupling as was used, could not jerk. On cross-examination he was asked whether an engine alone could be made to jerk, and the counsel for appellant objecting, the court refused to hear him state why, and permitted the question.
+Nothing material was elicited, but the refusal to hear is alleged to be error. C. & A. R. R. Co. v. Shenk, 131 Ill. 283, is cited.
+The refusal to hear was not there held to be error, but excuse for the omission of counsel to state what he expected to prove by an offered witness, in accordance with the rule followed here in Gaffield v. Scott, 33 Ill. App. 317.
+The application to remove the cause to the Circuit Court of the United States, .should have been made to that court. Kaitel v. Wylie, 38 Fed. Rep. 865. The Superior Court therefore rightly denied it.
+The damages awarded, §5,000, can not be regarded as so excessive as to justify a reversal. The appellee is a carpenter, was earning §2.50 to §3 per day; is incapacitated from following his trade.
+He was but twenty-nine years of age. His money loss, overlooking all else, may well equal the amount.
+The judgment must be affirmed.
+Judgment affirmed.
