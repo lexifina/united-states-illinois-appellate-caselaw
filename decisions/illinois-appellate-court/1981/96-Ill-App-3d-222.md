@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "16630"
+decided: "1981-05-18"
+citations: ["96 Ill. App. 3d 222"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WEBBER and LEWIS, JJ., concur."]
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. DAVID M. JACKIEWICZ, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/96/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12127546
+cites_cases: ["241 N.E.2d 419", "28 Ill. App. 3d 491", "328 N.E.2d 626", "344 N.E.2d 8", "358 N.E.2d 88", "37 Ill. App. 3d 62", "386 N.E.2d 605", "403 N.E.2d 1279", "41 Ill. 2d 7", "44 Ill. App. 3d 300", "440 U.S. 648", "68 Ill. App. 3d 915", "83 Ill. App. 3d 375"]
+---
+
+# People v. Jackiewicz
+
+## Majority (Mr. JUSTICE GREEN)
+
+Mr. JUSTICE GREEN
+delivered the opinion of the court:
+Defendant, David M. Jackiewicz, appeals judgments of the circuit court of Macon County entered on August 12, 1980, convicting him of misdemeanor theft and sentencing him to 10 months’ imprisonment with credit for 123 days served prior to sentence. His only claim of error is the trial court’s denial of his motion to suppress certain items seized from the back of his automobile by a police officer acting without a warrant. Some of the items seized were shown at trial to have been the subject of the theft which occurred on April 13, 1980.
+The testimony at the hearing to suppress was not substantially disputed. At about 2 a.m. the day of the theft, Decatur Police Officer Raymond Berneking was patrolling in a police car along Oakland Street when he saw an automobile drive out from behind the place of business of Hazelrigg’s Automotive Sales and enter Oakland Street. The officer knew that: (1) the car was using the only approach to and exit from the premises; (2) the Hazelrigg business and other automobile dealers had been having trouble with thefts and vandalism on their premises; and (3) the business establishment was not open at the time. The area was mostly commercial. The officer had no warrant and had no knowledge as to whether an offense had been committed. He followed the vehicle a short distance and noticed that a passenger in the front seat kept looking in the back seat and at its floor and then made motions as if he were “putting something down there.” The officer described the driver and passenger as appearing to be “jittery.” After following for about four blocks, the officer stopped the vehicle. Upon shining his flashlight in the vehicle, the officer saw a narrow light fixture lying on the back seat. He then obtained permission to search the vehicle and seized the items in question.
+As the search was conducted with permission, the sole issue is the propriety of the officer having stopped the vehicle. In Delaware v. Prouse (1979), 440 U.S. 648, 663, 59 L. Ed. 2d 660, 673, 99 S. Ct. 1391, 1401, in overturning a conviction based on evidence seized when an automobile was stopped pursuant to a routine license checking practice, the United States Supreme Court distinguished that type of stop of an automobile from one which was made by an officer having an “at least articulable and reasonable suspicion that ° ° * either the vehicle or an occupant is otherwise subject to seizure for violation of law * 0 The opinion indicated that stopping a vehicle under the latter circumstances was permissible. The circumstances shown here justified Officer Berneking in having the type of “reasonable suspicion” described in Prouse and his testimony articulated that suspicion. The fact that the Decatur Police Department had a standard practice of making stops under these circumstances or even those where a suspicion existed that the occupants of a vehicle might be committing or have just committed a crime did not negate the existence of the officer’s necessary state of mind on the occasion in question.
+The instant case differs from most of those cited by the parties and involving the stopping of vehicles. In People v. Fulton (1979), 68 Ill. App. 3d 915, 386 N.E.2d 605, and People v. Hellemeyer (1975), 28 Ill. App. 3d 491, 328 N.E.2d 626, stops were upheld where, unlike here, the officers making the stop knew that a crime had been committed. In People v. Tassone (1968), 41 Ill. 2d 7, 241 N.E.2d 419, a police officer saw a man jump from an automobile and enter a truck which had been standing behind a motel for sometime. The officer knew that the keys to the truck hád been left in its ignition. The subsequent stop of the truck was upheld. In People v. James (1976), 44 Ill. App. 3d 300, 358 N.E.2d 88, and People v. Schlottman (1976), 37 Ill. App. 3d 62, 344 N.E.2d 8, stops were deemed improper where officers had no reason to believe that vehicles traveling on the highway were engaged in criminal activity.
+Most strongly relied upon by defendant and most resembling the case here was People v. Deppert (1980), 83 Ill. App. 3d 375, 403 N.E.2d 1279, where the stop of a vehicle was held to have constituted an unreasonable seizure. The officer had been following a vehicle, lost sight of it and then saw it leaving a railroad yard at about 4:45 a.m. The yard was in an area where thefts had taken place. However, the essential difference between Deppert and the case before us is that, there, the officer knew the vehicle he was following had merely entered the yard and turned around. His observation of the vehicle had been sufficiently close that he knew the vehicle had not been in the yard long enough for the driver to have gotten out. The likelihood that the defendant’s vehicle here had been behind the Hazelrigg main building on the Hazelrigg private property in a hidden position late at night and long enough for a theft to have taken place is the basis for the reasonableness of Officer Berneking’s suspicions here.
+The evidence fully supported the trial court’s denial of the motion to suppress. We affirm.
+Affirmed.
+WEBBER and LEWIS, JJ., concur.
