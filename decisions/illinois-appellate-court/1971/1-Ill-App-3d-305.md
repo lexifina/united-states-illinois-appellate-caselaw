@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "70-63"
+decided: "1971-09-22"
+citations: ["1 Ill. App. 3d 305"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Appellee, v. Ronald E. Chamness, Appellant."]
+source_url: "https://static.case.law/ill-app-3d/1/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5313906
+cites_cases: ["128 Ill.App.2d 232", "17 Ill.2d 112", "33 Ill.2d 417", "38 Ill.2d 39", "94 Ill.App.2d 74"]
+---
+
+# People v. Chamness
+
+## Majority (Mr. JUSTICE CREES)
+
+Mr. JUSTICE CREES
+delivered the opinion of the court:
+Defendant, Ronald E. Chamness, and two other prisoners, were jointly indicted in three counts for escape from Illinois State Penitentiary at Menard, theft, and armed robbery. After accepting pleas of guilty to escape the circuit court of Randolph County sentenced each of them to like terms in the penitentiary of not less than three nor more than five years, and the other two counts were dismissed. Defendant Chamness has appealed here contending that his sentence was excessive and that the trial court erred in denying his motion to withdraw his guilty plea.
+From the record it appears that on February 23, 1970, defendant and his two companions, armed with a knife, overcame two prison guards, took their watches, $80 from their pockets, and the complete uniform of one and the uniform coat of another. They then stole a pick-up truck and left the prison grounds. The following day defendant was apprehended. In the ensuing weeks defendant appeared in court on six different occasions when a number of his motions were heard and denied. Finally, on May 8, 1970, accompanied by his attorney, defendant withdrew his motion for a competency hearing and, at his request, his guilty plea was accepted after a full admonishment from the court. Sentencing was postponed until May 14, and it was at this time that defendant asked for and was refused permission to withdraw his plea.
+Defendant makes no contention that he was not fully admonished as to his constitutional rights, or that he did not knowingly and intelligently enter his plea. Rather he argues, as he did before the trial court, that he was pressured to plead guilty by the court and by prison authorities, and that he was not guilty of escape because when he left the prison his sentence was up. No evidence whatsoever was offered or even mentioned as to the supposed pressure exerted by the prison authorities, and his charge against the court is wholly belied by the record. In the many hearings before the court defendant was treated with courtesy and understanding. The judge acted with great restraint under circumstances when a less patient man might have been provoked. We find such charges without merit. Likewise, his contention as to the expiration of his prior two to six year sentence for robbery is ill-taken, for the pursuit of judicial process, and not escape, is the proper remedy for one who believes himself unlawfully held in custody. (People v. Hill, 17 Ill.2d 112.) Moreover, the record clearly shows that defendant’s prior sentence did not expire until May 14, 1970, approximately three months after his escape, and defendant was aware of this fact as he specifically acknowledged it on two different occasions in previous hearings before the court.
+In a number of recent cases we have had occasion to consider the standards governing review of a trial court’s denial of a request to withdraw a guilty plea. Permission to do so rests in the sound discretion of the trial court, to be granted not as a matter of right but rather as necessary to correct a manifest injustice. (See People v. Walston, 38 Ill.2d 39; People v. McNair (Agenda 71-25) (Ill.App.2d); People v. Christman, 128 Ill.App.2d 232.) Under the circumstances present here we can conceive of no defense worthy of consideration by a jury nor any reason why the ends of justice would be better served by allowing defendant to withdraw his plea. We therefore find that the trial court did not err in denying defendants request.
+Next, defendant contends that his sentence is excessive and he asks that it be reduced on review. It has been frequently held that substantial reasons for reducing a sentence must be shown and that the burden rests upon a defendant to prove such mitigating circumstances as will warrant a reduction. (People v. Taylor, 33 Ill.2d 417; People v. Lampley (Agenda 70-162) (Ill.App.2d); People v. Dodd, (Agenda 71058) (Ill.App.2d); People v. Ledferd, 94 Ill.App.2d 74.) Here defendant received the same sentence as his companions in the escape and no specific facts are presented to distinguish his position from theirs. Some argument is made that because a psychiatrist’s report described defendant as a mild to borderline case of mental retardation, having poor judgment and a susceptibility to being led by others, it may be concluded that the other two escapees, and not defendant, were the instigators of the escape, and that defendant played only a passive role in the incident. Such a conclusion is unsupported and unwarranted from the facts. Defendant showed himself in court to be quite knowledgeable in legal matters and of all circumstances surrounding the escape. That he now claims to have merely “walked away” because he believed his time was up is pure fiction, contrary to previous admissions on his part. Having taken part in an escape from prison by force with its attendant dangerous possibilities both to prison guards and other prisoners we can see no justification for reducing the sentence imposed by the trial court.
+The judgment of the circuit court of Randolph County is affirmed.
+Judgment affirmed.
+EBERSPACHER and MORAN, JJ., concur.
