@@ -1,0 +1,54 @@
+---
+court: "Illinois Appellate Court"
+docket: "12271"
+decided: "1974-07-03"
+citations: ["20 Ill. App. 3d 237"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Terry D. Lewis, Plaintiff-Appellee, v. William Palmer, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/20/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5343624
+cites_cases: ["13 Ill.App.3d 588", "214 N.E.2d 506", "238 N.E.2d 81", "301 N.E.2d 151", "67 Ill.App.2d 8", "95 Ill.App.2d 281"]
+---
+
+# Lewis v. Palmer
+
+## Majority (Mr. JUSTICE CRAVEN)
+
+Mr. JUSTICE CRAVEN
+delivered the opinion of the court:
+This is an appeal from an order denying defendant’s motion to open a judgment by confession on a promissory note.
+On May 19, 1971, defendant executed a promissory note in favor of plaintiff. The first installment of $1000 became due on September 20, 1972. On December 19, 1972, plaintiff obtained a judgment by confession against defendant as a result of an alleged failure to pay the first installment.
+On December 26, 1972, defendant filed a motion to open the judgment by confession. In support of the motion, defendant’s amended affidavit and an affidavit of Diane McMahan were filed along with defendant’s proposed answer. Plaintiff filed a counteraffidavit. After a hearing on the motion, the trial court denied the motion.
+Defendant’s affidavit states he was notified prior to September 20, 1972, that plaintiffs interest in the promissory note had been transferred to Duane Lewis, a minor, pursuant to a written agreement between plaintiff and Diane McMahan, parents of the minor. Defendant claims he made several efforts to locate plaintiff and arrange payment of the installment before its due date. He also states he was told by plaintiff that his intentions were not to honor the agreement between himself and Diane McMahan, but instead to appropriate the proceeds for his own use. Plaintiff then refused to accompany defendant to the depository named in the agreement for the purpose of creating the account for tire minor child. Defendant alleges that he was, and is, prepared, willing and able to make his payment in accordance with the agreement between the plaintiff and Diane McMahan, but was prevented from doing so by plaintiff.
+The agreement between plaintiff and Diane McMahan stated in relevant part:
+“That the Four Thousand Dollar ($4000.00) obligation of WILLIAM PALMER to TERRY D. LEWIS * * * shall be, the property of DUANE LEWIS and upon its repayment, deposited in a savings account * * * in the name of DUANE LEWIS, a minor, for his use and benefit * * * [but the minor’s parents] shall ” * * have the privilege of withdrawing said funds on their joint signatures.”
+The agreement was signed by Terry Lewis and Diane McMahan.
+Diane McMahan’s affidavit acknowledged the making of an agreement between herself and plaintiff regarding defendant’s promissory note. She stated that prior to September 21, 1972, defendant had requested instructions regarding payment of the note after telling her plaintiff had advised him that he intended to keep the proceeds of the note as his own property. Diane McMahan acknowledged that defendant had deposited a check with her for $1200 made payable to Diane McMahan and Terry D. Lewis. The check was never negotiated. Finally, Diane McMahan’s affidavit stated that plaintiff came to her home in October 1972 and told her defendant had sought him out concerning repayment of the note and establishment of the account for the minor child as called for in the agreement. Plaintiff told the affiant that he did not wish to make such arrangement, and that he wanted the money paid to himself because it was his money.
+Plaintiff filed a counteraffidavit denying proper tender by defendant and denying that he, plaintiff, ever had any intention to appropriate any of the proceeds of the note in question to his own use. He stated he intended to comply with the agreement executed between himself and his former wife. Finally, he denied knowledge of a deposit with Diane Mc-Mahan of a check for $1200, drawn by defendant and made payable to Terry Lewis and Diane McMahan.
+The procedure for opening a judgment by confession is set forth in Supreme Court Rule 276 (Ill. Rev. Stat. 1973, ch. 110A, 276). That Rule provides in part as follows:
+“If the motion and affidavit disclose a prima facie defense on the merits to the whole or a part of the plaintiff’s demand, the court shall set the motion for hearing. * * * If, at the hearing upon the motion, it appears that the defendant has a defense on the merits to the whole or a part of the plaintiff’s demand and that he has been diligent in presenting his motion to open the judgment, the court shall sustain the motion either as to the whole of the judgment or as to any part thereof as to winch a good defense has been shown, and the case shall thereafter proceed to trial upon the complaint, answer, and any further pleadings which are required or permitted.”
+On a motion to open a judgment by confession, the court may not make an inquiry into the facts of the cause. All allegations of defencdant are to be accepted as trae. (Scheinfeld v. Muntz TV, Inc., 67 Ill.App.2d 8, 214 N.E.2d 506.) The motions and affidavits must be examined carefully to see if a prima facie defense is pleaded. They must also be scrutinized to determine whether purported facts set forth in them would be admissible as evidence at a trial on the merits. National Boulevard Bank v. Corydon Travel Bureau, Inc., 95 Ill.App.2d 281, 238 N.E.2d 81.
+No issue as to defendant’s diligence is present in this case. Therefore, we must carefully examine defendant’s motion and the accompanying affidavits to determine if he has pleaded a prima facie meritorious defense. According to the dictates of Supreme Court Rule 276, when a prima facie meritorious defense is raised with diligence by defendant’s affidavits, the court has no discretionary authority but must open the judgment and proceed to trial. Kuh v. Williams, 13 Ill.App.3d 588, 301 N.E.2d 151.
+The instrument upon which suit was brought was made payable to Terry D. Lewis or order. Order paper is negotiated by delivery with payee’s endorsement under section 3 — 202(1) of the Uniform Commercial Code (Ill. Rev. Stat. 1973, ch. 26, fl 3 — 202(1)):
+“§ 3 — 202. Negotiation. (1) Negotiation is the transfer of an instrument in such form that the transferee becomes a holder. If the instrument is payable to order it is negotiated by delivery with any necessary indorsement; if payable to bearer it is negotiated by delivery.”
+It is contemplated by section 3 — 202 that transfers not meeting the requirements of negotiation are assignments. The instrument upon which plaintiff brought his action was not endorsed. Therefore, if it was transferred, the transfer must have been by assignment.
+“Delivery” is defined in section 1 — 201(14) of the Uniform Commercial Code to mean voluntary transfer of possession. Anderson on the Uniform Commercial Code (2d ed. 1971), vol. 2, § 3 — 202:37, indicates delivery may be either actual or constructive. In this same volume, Anderson states:
+“Delivery of a written assignment of an instrument has been held effective as a constructive delivery without delivery of the negotiable instrument itself, especially where the assignment established that the assignor held the instrument for the benefit of the assignee as well as for his own benefit.” Anderson, § 3 — 202:38.
+Defendant’s affidavits allege the written agreement between plaintiff and Diane McMahan amounted to an assignment of defendant’s note to Diane McMahan and plaintiff as cotrustees for the benefit of Duane Lewis. It is implicit in this argument that the transfer requirement was fulfilled by contractive delivery. Whether, in fact, this is the result can only be determined at a trial on the merits of the case.
+Defendant claims he had notice of the purported assignment. In an attempt to fulfill his obligation on the note, he attempted to pay it to the assignees when due. The maker of a negotiable instrument contracts to pay it according to its terms. Section 3 — 413(1) of the Uniform Commercial Code provides:
+“§ 3 — 413. Contract of Maker, Drawer and Acceptor. (1) The maker or acceptor engages that he will pay the instrument according to its tenor at the time of his engagement or as completed pursuant to Section 3 — 115 on incomplete instruments."
+If there was an assignment of this instrument, Terry Lewis would be in possession of the instrument in his capacity as co-trustee. If no assignment was made, he held the instrument as payee. Defendant has alleged he stood ready, willing and able to pay the instrument to plaintiff in his capacity of cotrustee. The trial court improperly resolved the issue of plaintiff’s position in relation to disposition of the proceeds on the affidavits. That should only be determined after a trial on the merits.
+Tender of payment operates as a discharge from liability under section 3 — 601(1) (b) of the Uniform Commercial Code against a holder. The Code’s requirements of tender are set forth in section 3 — 604 as follows:
+“§ 3 — 604. Tender of Payment. (1) Any party making tender of full payment to a holder when or after it is due is discharged to the extent of all subsequent liability for interest, costs and attorney’s fees.
+# # *
+(3) Where the maker or acceptor of an instrument payable otherwise than on demand is able and ready to pay at every place of payment specified in the instrument when it is due, it is equivalent to tender.”
+The trial court resolved the issue of tender against defendant on the hearing on the affidavits. As with the previous finding concerning plaintiff’s actions, this matter should have been resolved at a trial on the merits rather than by the affidavits.
+Section 1 — 203 of the Uniform Commercial Code (Ill. Rev. Stat. 1973, ch. 26, jf 1 — 203) states:
+“Every contract or duty within this Act imposes an obligation of good faith in its performance or enforcement.”
+“Good faith” is further defined by section 1 — 201(19) of the Uniform Commercial Code to mean honesty in fact in the conduct or transaction concerned. If defendant’s affidavits are true, he has acted in good faith and with diligence in trying to fulfill his obligation as he saw it. Under the facts of this case, we find the motion and affidavits sufficient to raise a prima facie meritorious defense.
+The denial of the motion to vacate the judgment is reversed and this cause is remanded to the circuit court with directions to vacate the judgment and for further proceedings consistent with the views expressed in this opinion.
+Reversed and remanded with directions.
+SMITH, P. J., and KASSERMAN, J., concur.
