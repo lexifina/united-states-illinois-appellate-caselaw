@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-05-24"
+citations: ["36 Ill. App. 649"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, for use, etc., v. John S. Lane."]
+source_url: "https://static.case.law/ill-app/36/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5012065
+cites_cases: ["102 Ill. 406", "108 Ill. 407", "113 Ill. 96", "13 Ill. 157", "26 Ill. 178", "70 Ill. 647", "71 Ill. 548", "80 Ill. 147"]
+---
+
+# People v. Lane
+
+## Majority (Pleasants, P. J.)
+
+Pleasants, P. J.
+Debt on an administrator’s bond, brought by the administrator de honis non of the same estate against one of the sureties, the principal and one of the sureties being averred to be non-residents of the State, and the other two sureties dead. Judgment below was for the defendant, on demurrer to the declaration which averred in substance as follows: That Absalom E. Whitaker was, by the County
+Court of Calhoun County, on the 15th day of June, 1872, at its June term 1872, appointed administrator of the estate of William S. Whitaker, deceased, and thereupon, with sureties named, including the defendant, executed the bond sued on, which, with its condition, is set out in its legal effect so fully that it appears to be in the form prescribed by the statute, and entered upon the administration;- that he continued to be such administrator until the 18th day of ¡November, 1873, when by the order of said court his letters were revoked and he was ordered to pay all moneys and deliver over all papers and valuable things of the said estate to the new administrator thereof; that afterward, to wit, on, etc., at, etc., he delivered over to Henry C. Withers, his successor in office, as administrator de honis non of said estate, all the assets belonging to said estate then remaining in his hands, except the moneys in his hands, amounting to the sum of $2,357.26; that said Withers was then and there duly appointed administrator de honis non of said estate by said County Court, and duly qualified as such, and continued to be such until the 7th day of ¡November, 1887, when he was by the order of said County Court discharged; that on the 20th day of December, 1887, the said James N. Kelley was by the order of said County Court duly appointed administrator de honis non of said estate and then and there duly qualified as such, and is now the duly qualified and acting administrator de honis non of said estate; that said Absalom R. Whitaker has not faithfully discharged the duties of his said office of administrator according to the condition of said bond, but has neglected and refused so to do, to the injury of said Kelley, as such administrator de bonis .non.
+And for assigning a breach of said condition, it avers that at the January term, A. D. 1874, of said County Court, to wit, on the 20th day of January, A. D. 1874, at said county of Calhoun, the said Absalom E. Whitaker, as such administrator, on consideration of his accounts and reports, by the judgment and consideration of said court, was then and there ordered and directed to pay over immediately to Henry C. Withers, administrator de bonis non of said estate, the said sum of $2,357.26, and, though requested, then and there refused so to do, and has not paid the same to said Withers nor to said James N. Kelley, his successor in office as such administrator de bonis non. By means whereof said bond has become forfeited and an action has accrued, etc.; yet the said defendant, though requested, has not paid, etc., and concludes with proferí of the letters to said Kelley.
+The causes assigned for the demurrer were:
+1. That it does not appear by said declaration that said Absalom E. Whitaker was ever notified that his official bond was deemed insufficient, or that any order was made reo Hiring him to give an additional bond or sureties.
+2. Nor that his letters were ever lawfully revoked.
+3. Nor that he has at any time refused or neglected to obey any order of said County Court lawfully made.
+4. Nor that any demand was ever made upon him for the payment of the moneys alleged to be in his hands.
+5. That the alleged order revoking his letters was void.
+The position taken in behalf of appellee, is that “it was hot sufficient to aver generally that a certain court rendered a certain judgment, but on the contrary, that proper pleading required that the facts necessary to show the court-named had jurisdiction of the parties as well as the subject-matter should be stated.”
+In support of which the cases of Munroe v. The People, 102 Ill. 406, and Hanifan v. Needles, 108 Ill. 407, are cited, in each of which the court was considering and speaking of the evidence, and not at all of the sufficiency of the pleading. Hobody doubts that if the evidence shows the court had not jurisdiction of the person or subject-matter, its judgment would be void. But that would be no less true where the declaration averred facts sufficient to show such jurisdiction. These cases, then, have no bearing upon the question here presented.
+We apprehend a declaration is sufficient in law, if it properly avers facts which, with the legal presumptions arising thereon, make a prima facie case. It is then incumbent on the defendant, by pleading, to traverse or avoid some material fact so averred, or some material presumption, which, until overcome, stands for a fact; and upon proof of the facts alone, to overcome by evidence, the presumption arising or the fact averred.
+The statute gives the County Court jurisdiction of all the matters in respect to which its action was here averred. It may issue and revoke letters of administration, and discharge administrators. It has the power in every such case to determine whether it has jurisdiction of the person and subject-matter, and what is the proper action to be taken. As to these matters, it is a superior court. Propst v. Meadows, 13 Ill. 157; Housh v. The People, 26 Ill. 178; Bostwick v. Skinner, 80 Ill. 147; Matthews v. Hoff, 113 Ill. 96.
+And as to such courts, nothing will be intended to be out of their jurisdiction. “If it is possible for the courts to have jurisdiction, it will be presumed the state of facts existed which authorized it to assume to render judgment,” said the Supreme Court in Wallace v. Cox, 71 Ill. 548. Hence it is sufficient, in an action upon the judgment of a superior court, to aver its judgment without setting forth the jurisdictional facts. See the form of the court in 2 Grreenl. on Ev., Sec. 279, note.
+So here,- it was not legally impossible, as is asserted, to discharge Withers and then appoint Kelley as administrator de bonis non, nor is such the effect of the holding in Blanchard v. Williamson, 70 Ill. 647. It will be presumed, until the contrary appears, that Withers complied fully with the requirement of Sec. 40 of Chap. 3, R. S., in which case the County Court had express power to discharge him. So, also, as to facts necessary to authorize the other orders and proceedings of the court averred in the declaration.
+For these reasons we think the demurrer should have been overruled. The judgment will, therefore, be reversed and the cause remanded for further proceedings.
+Reversed and remanded.
