@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-08-26"
+citations: ["21 Ill. App. 129"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Martha Barnes v. Betsy Gill."]
+source_url: "https://static.case.law/ill-app/21/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2415345
+---
+
+# Barnes v. Gill
+
+## Majority (Wall, J.)
+
+Wall, J.
+This was a bill in chancery filed by Betsy Gill and J. E. Morrison against Martha Barnes and Thomas W. McHugh, administrator of William Gill, deceased.
+' The bill alleged that said William Gill died intestate, leaving the said Betsy, his. widow, and being indebted to complainant, Morrison, in the sum of $25 for a medical hill, and to complainant, Betsy Gill, in the sum of $550 for money loaned and the interest thereon; that shortly before his death the said William Gill conveyed lot 7, block 3, etc., in Urbana, to said Martha Barnes, who was his only daughter, without consideration, and for the purpose of defeating complainants in the collection of their claims; that he died insolvent, his estate being insufficient to pay funeral expenses and widow’s award; that McHugh was appointed administrator, and prays for an account of the moneys due complainants, and for a sale of the property so conveyed to defendant Barnes. The administrator suffered a default, and the bill was taken as confessed against him. The defendant Martha Barnes answered, admitting the indebtedness to Morrison but averring that she had paid the same since the filing of the bill; denied the indebtedness to complainant Betsy Gill, and alleged that she joined with said William McGill, who was her husband, in the execution of the said deed, now charged to be fraudulent, with a full knowledge of its purport and intent, and if there was any fraud therein, she was a participant and ought not to be heard to complain thereof. To this answer replication was filed, and the cause having been heard a decree was entered according to the prayer of the bill, in favor of complainant Betsy Gill, for $546, to be paid out of the proceeds of the said lot, which was ordered sold, it being found the deed was fraudulent as against complainant, and though she joined therein, she was at the time suffering such physical infirmity as not to be chargeable with the consequences that would otherwise attach to her. participation in said conveyance.
+As to complainant Morrison the bill was dismissed, his claim having been paid. The evidence to establish the debt due the complainant Betsy Gill is mainly the testimony of McHugh. He is related by marriage to this complainant, his wife being her daughter, and though he is administrator of the estate and is a defendant to the bill and should protect the estate as far as possible, he seems not only to have made no defense but to have suggested the suit, and by his own testimony furnished important proof to the complainant.
+It is quite clear the deed was made without consideration and for the express purpose of defeating Morrison in the collection of his claim, and that this was known and understood by complainant, who as the wife of said William Gill, joined with him in the conveyance.
+Manifestly, slie cannot ask the aid of equity to set aside the conveyance, unless the circumstances are such as to relieve - her of the consequences ordinarily attaching to her participation in the act complained of.
+The excuse offered is that she was at the time in such ill health as not to be accountable for what she did. The only evidence to support this is in the testimony of Dr. Morrison and J. O. Ounningliam. Dr. Morrison says she suffered much from neuralgia and debility: that she was weak and childish, often scarcely conscious of what she was doing and taking little interest in . what was going on; but that she had mind enough, if her attention was called to the transaction, to understand the nature of it. Upon his being recalled he stated that he had not seen her for six months before the deed was made, and did not know her condition at that time.
+Mr. Cunningham testified, being called by the defense, that he was present on a certain occasion a day or two before the beginning of that term of court, and heard the complainant state that on the day when the deed was made Mr. Gill came home with Eadebaugh, the notary who took the acknowledgment, and said to her he wanted to make the deed to prevent Dr. Morrison from collecting his bill; that the deed was not read to her, but Eadebaugh informed her what it was. On cross-examination, this witness stated that complainant also said in the same conversation, that when she executed the ' deed she was so sick she did not care what she did, and that Eadebaugh told Mr. Gill he had better keep still about the deed being made.
+Eegarding the case as favorably for complainant as the record will permit, it is apparent that she was fully cognizant of the nature and object of the deed. This being so, does her ill health furnish sufficient ground upon which to avoid it? The evidence of Dr. Morrison, it must be conceded, is not enough for this purpose, and this branch of the case must rest upon her own declaration, stated in Cunningham's cross-examination, that she was so sick she did not care what she did. This declaration was made shortly before the trial, when she understood the importance and necessity of an explanation.
+It is evident she knew what she was doing bnt the position is, she was too sick to care.
+Such a state of facts might exist, and call for equitable interference to set aside the act. Perhaps comprehension might be attended by an utter lack of volition, but this is so unusual as to require proof much more clear and satisfactory than is to be found in this record.
+It is unnecessary to notice other features of the case discussed in the briefs of counsel. For the reason indicated the decree will be reversed and the cause remanded.
+Reversed cmd remanded.
