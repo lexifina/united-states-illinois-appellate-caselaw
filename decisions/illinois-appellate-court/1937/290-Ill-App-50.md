@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 9,194"
+decided: "1937-04-14"
+citations: ["290 Ill. App. 50"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mildred R. Wainwright, Appellant, v. Lee McDonough et al., Appellees."]
+source_url: "https://static.case.law/ill-app/290/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3153487
+cites_cases: ["13 L. R. A. 258", "154 Mass. 370", "221 Ill. 479", "279 Ill. 634", "28 N. E. 290", "297 Ill. 332", "337 Ill. 141", "35 L. R. A. (N. S.) 963", "364 Ill. 626", "45 Am. Rep. 263", "61 N. C. 98", "93 N. Y. 524"]
+---
+
+# Wainwright v. McDonough
+
+## Majority (Mr. Presiding Justice Huffman)
+
+Mr. Presiding Justice Huffman
+delivered the opinion of the court.
+This case comes to this court by transfer from the Supreme Court (364 Ill. 626). A bill of complaint was filed by appellant in the circuit court of Lake county. Mr. J. E. Bairstow, an attorney of said county, was appearing as the attorney of record for appellant on April 28, 1936, pursuant to his appearance entered as such attorney, filed April 23, 1929. On April 28, 1936, the court dismissed appellant’s bill for want of prosecution. Appellant on May 15,1936, filed a written motion to vacate that order, by her attorney of record in this appeal, which motion the court denied. Appellant has prosecuted this appeal from the last mentioned order of the court denying her motion to vacate the order of dismissal.
+On April 28, 1936, appellant’s attorney of record, J. E. Bairstow, caused notice to be mailed to appellant at 119 North Genesee street, in Waukegan, Illinois, notifying her that he would on that day ask leave of court to withdraw his appearance as her attorney, and further notifying- her of a motion filed by appellees to dismiss her suit for lack of prosecution. The order of dismissal was entered by the court on that day. It appears by appellant’s motion to vacate that since July, 1932, she had been employed in the city of Washington, D. C.; that the above address was the home address of her mother, but that prior to the mailing of said notice, her mother had been removed to a hospital, and later taken from the hospital to the State of Florida; and that the notice as mailed by said attorney did not reach appellant until in May, 1936. Upon receipt of the notice, appellant caused her motion to be filed on May 15,1936, to vacate and set aside the order of dismissal.
+Courts have inherent power, in the interest of justice, to dismiss suits for want of prosecution. No attorney or solicitor can withdraw his name, after he has once entered it on the record, without leave of the court. Walton v. Sugg, 61 N. C. 98, 93. Am. Dec. 580, 582; United States v. Curry, 6 How. (U. S.) 106, Ill. The relation of attorney and client is one which either party may terminate prior to the conclusion of the litigation, but an attorney cannot alone and of himself terminate the relation, to his client’s injury, and without the client’s consent, except upon giving to the client a reasonable notice in order that the latter may be afforded an opportunity to procure other counsel. People v. Sullivan, 279 Ill. 634, 646; Tenney v. Berger, 93 N. Y. 524, 45 Am. Rep. 263, 266; Powers v. Manning, 154 Mass. 370, 28 N. E. 290, 13 L. R. A. 258; Genrow v. Flynn (Annotations) 35 L. R. A. (N. S.) 963. While the relationship may be terminated as between the attorney and client, yet an attorney seeking to withdraw as an attorney of record should make known to the court, and by proper application thereto, have the relation formally terminated. Krieger v. Krieger, 221 Ill. 479; Hollan v. Kepner, 297 Ill. 332; Jacobson v. Ashkinaze, 337 Ill. 141.
+Whether the notice of withdrawal given by the attorney to his client is reasonable is to be determined from the circumstances in the particular case. In this case it appears that the notice mailed to appellant advising her of the withdrawal of her attorney did not reach her until the month following the mailing of the notice. This is clearly explained by the fact that appellant was living in the city of Washington, D. C., and that her mother at the time was either in the hospital or had been taken to Florida. It is also apparent that appellant proceeded to file her motion to vacate the order of dismissal promptly upon receipt thereof. Due to a mistake of fact in assuming that the notice had reached appellant in the ordinary course, her attorney and the court acted in the manner above set out. From an examination of the record we are of the opinion that the circumstances of the case should require that appellant have a reasonable notice of the intention of her attorney of record to withdraw as such. There is no dispute that she had no such notice. Under the circumstances, we are of the opinion that the motion of appellant to vacate and set aside the order of dismissal should have been granted. The order and judgment of the circuit court is reversed and. remanded with directions that the order of dismissal as entered herein be vacated and set aside.
+Reversed and remanded with directions.
