@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-03-23"
+citations: ["52 Ill. App. 415"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["East St. Louis Connecting Ry. Co. v. John Craven."]
+source_url: "https://static.case.law/ill-app/52/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5107270
+cites_cases: ["20 Ill. 478", "87 Ill. 535"]
+---
+
+# East St. Louis Connecting Ry. Co. v. Craven
+
+## Majority (Mr. Justice Green)
+
+Mr. Justice Green
+delivered the opinion of the Court.
+In our judgment the evidence introduced by, and on hehalf of appellee, even if it had not been contradicted by the evidence for appellant, does not support some of the special findings or justify the general verdict.
+Conceding it to be true, as claimed by appellee, that it was his duty as car inspector to pick up the side bearing and send it with the damaged car to the shops, yet after he had picked it up, he was not required by any rule or order, or any duty he owed appellant as its servant, to drop it in the narrow space between the tracks, a place of danger, instead of taking it, as he ought to and might have done, to the engineer of the “ One,” the engine which he had been told would take that car to the shops, and no duty he owed appellant required him to go into the place where he had so negligently left the casting, and thereby subject himself to accident and injury. Hence, the jury were not warranted in finding that appellee was in the line of his duty as car inspector when injured. Hor did the evidence justify the finding “That appellee could not have escaped the injury by the exercise of slight care and diligence.”
+The jury very properly found that defendant’s servants did not injure appellee wantonly, willfully or on purpose, and their general verdict is evidently based solely upon the finding that the negligence which caused the injury to appellee was “ Hot giving proper signals,” by which language they doubtless meant no bell was rung, or whistle sounded on engine “ One ” as it approached the place where appellee was struck. Even if these signals "were not given, it does not necessarily follow, when we take into consideration all the other facts and circumstances proven by the evidence for appellee, that because of such omission appellant became liable to respond in damages for the injury to appellee.
+Engine “ One ” was standing not to exceed one hundred feet south of the place where appellee was struck, and he saw it there when he went between those parallel tracks up to that place. Ho signal was required to notify him that engine would presently pass the place where he left the casting and go up to the “ cut-off,” sixty feet north, in order to back down and take the damaged car.
+These facts his own testimony shows he knew, and he also knew the space left between this engine going north on the east track, and the beer car on the "west track, would be barely sufficient for a person to walk in with safety even in an erect position; yet it appears he entered that space to pick up the side bearing he had negligently put there and did not look back to see if engine “ One ’’ had started from the place he had seen it standing, nor take any precaution to protect himself from being struck by the engine when it passed. On the contrary he turned with his face to the west and stooped over, thus affording a greater chance of being struck and injured. True, those on the engine saw him walking between the tracks where the space was sufficient for that purpose, but they had no reason to believe or anticipate that he would suddenly stop, and put himself in a posture where the front beam of the locomotive must necessarily strike him.
+It appears to us from the evidence on behalf of appellee, that at the time of his injury he was a mere intruder, who without right, and with no duty requiring him to do so, deliberately placed himself in a perilous position, and utterly neglected to exercise the slightest care for his personal safety.
+Where the plaintiff is not in the exercise of a legal right, or in his relation as employe performing a duty imposed upon him by the defendant, he himself must use great care before he can justly complain of the negligence of another.
+In I. C. R. R. Co. v. Godfrey, 71 Ill., p. 498, a case where plaintiff was injured while walking between the tracks of defendant’s railway, and there ivas space between the tracks for him to have walked witlioút exposure to danger on either track, it is said he should have kept constant watch while he was traveling along, and that it was omission of duty and care in not so walking in the place where he was, as not to expose himself needlessly within striking distance of the engine,"and it was held plaintiff could not recover because of his omission of duty, and want of care for his personal safety. See also, I. C. R. R. Co. v. Hetherington, 83 Ill., p. 515; Lake Shore & M. S. R. R. Co. v. Hart, 87 Ill. 535; Barkley v. C. M. & St. P. Ry. Co., 37 App. Ct. Rep. 293.
+While we hold, under the facts as proven on behalf of appellee, he could not recover, we recognize the law of this State, since the decision in the Jacobs case, 20 Ill. 478, to be, that one guilty of contributory negligence may recover if his negligence is slight, and the negligence of defendant as compared with his is gross; yet it is an indispensable element, that a party injured must have exercised ordinary care for his personal safety, to justify a recovery in a case like this, and it is well settled in this State, that this rule of comparative negligence has no application, except in cases where the party injured has observed ordinary care for his personal safety, and this the appellee failed to do.
+The judgment of the Circuit Court is reversed.
+Finding of Facts.
+The clerk is directed to insert in the final judgment order, that this court finds the following facts from the evidence: We find that appellee Avas not in the discharge of his duty as car inspector at the time he was struck and injured; that at the time he was struck and injured, he was not in the exercise of ordinary care for his personal safety, but negligently and carelessly placed himself in a perilous position and was struck and injured by reason of such want of reasonable care and by his own negligence, and that his injuries Avere not caused by the negligence of the servants of appellant.
