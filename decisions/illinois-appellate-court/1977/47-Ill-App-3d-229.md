@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "13767"
+decided: "1977-04-07"
+citations: ["47 Ill. App. 3d 229"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. DAILEY OATIS, JR., Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/47/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3368353
+cites_cases: ["17 Ill. App. 3d 650", "248 N.E.2d 68", "253 N.E.2d 397", "29 Ill. App. 3d 103", "307 N.E.2d 753", "31 Ill. App. 3d 987", "326 N.E.2d 395", "326 N.E.2d 762", "329 N.E.2d 835", "335 N.E.2d 533", "418 U.S. 506", "42 Ill. 2d 479", "43 Ill. 2d 256", "60 Ill. 2d 246", "60 Ill. 2d 287"]
+---
+
+# People v. Oatis
+
+## Majority (Mr. JUSTICE GREEN)
+
+Mr. JUSTICE GREEN
+delivered the opinion of the court:
+Defendant Dailey Oatis, Jr. was charged in the Circuit Court of Vermilion County with the misdemeanor offense of driving a motor vehicle while his driver’s license was revoked (Ill. Rev. Stat. 1973, ch. 95½, par. 6—303). He waived counsel and appeared pro se at a bench trial at which he was found guilty. He was sentenced to two years probation with the requirements that he pay a fine of $580 and serve 60 days of periodic imprisonment. Upon appeal, he contends that the record fails to indicate that he understandingly waived trial by jury in open court and that the court erred in failing to hold a sentencing hearing.
+Since the offense with which defendant was charged was a Class A misdemeanor, he had a right to trial by jury under both the Federal Constitution (Codispoti v. Pennsylvania (1974), 418 U.S. 506, 41 L. Ed. 2d 912, 94 S. Ct. 2687, and article I, section 6 of the Illinois Constitution of 1970. In addition, section 103—6 of the Code of Criminal Procedure (Ill. Rev. Stat. 1973, ch. 38, par. 103—6) states that a defendant in a criminal case has a right to trial by jury unless understandingly waived in open court.
+Supreme Court Rules 401 and 402 (Ill. Rev. Stat. 1975, ch. 110A, pars. 401 and 402) set forth the requirements for the record that must be made upon the court’s acceptance of waiver of various rights but neither of these rules are applicable to the acceptance of a jury waiver unaccompanied by a plea of guilty. (People v. Murrell (1975), 60 Ill. 2d 287, 326 N.E.2d 762.) In the absence of a special rule, no distinction exists between the common law record and the report of proceedings in determining upon appeal whether error occurred below. (Ill. Rev. Stat. 1975, ch. 110A, par. 608(a).) Where an accused is shown by the record to have been present in court while his counsel waived jury trial on his behalf, the accused’s understanding waiver is presumed even though the record is silent as to his actual state of mind. (Murrell; People v. Sailor (1969), 43 Ill. 2d 256, 253 N.E.2d 397.) Where a full record, containing a complete common law record and a complete report of proceedings, is presented on appeal from a conviction in a criminal case tried by the court without a jury and that record is silent as to whether a knowing waiver of jury trial was made, the conviction will be reversed. People v. Caesar (1974), 17 Ill. App. 3d 650, 307 N.E.2d 753.
+Unlike the situation in Caesar, the common law record in the instant case contains a written jury waiver signed by defendant and bearing a file mark of October 16, 1975. The instant case also differs from Caesar in that here the report of proceedings is incomplete and does not purport to cover any proceeding prior to the trial. Significantly, the defendant does not contend that he did not understandingly waive jury trial but merely maintains that the incomplete record he has presented is insufficient to show that his waiver was understandingly made. The general rule is that the defendant has the responsibility to see to the preservation of a sufficient report of proceedings to show any error upon which he might rely on appeal. (People v. Smith (1969), 42 Ill. 2d 479, 248 N.E.2d 68.) In People v. Hopping (1975), 60 Ill. 2d 246, 326 N.E.2d 395, the supreme court stated that the mere unavailability of a report of proceedings does not deprive a defendant of a constitutional right because Supreme Court Rule 323 (Ill. Rev. Stat. 1975, ch. 110A, par. 323) made applicable to criminal cases by Rule 612 (Ill. Rev. Stat. 1975, ch. 110A, par. 612) provides a procedure by which the defendant can substantiate on appeal specific claims of error by a bystander’s bill.
+Accordingly, we determine that in a criminal case when the common law record shows that the defendant has waived jury trial, on appeal after a bench trial, a defendant claiming error in the jury waiver must cite the specific error that occurred and substantiate that claim by the presentation of a sufficient record. If the claim is that the jury waiver was not made in open court or that it was not understandingly made, the record should be sufficient to cover all proceedings which involved the waiver. If the record shows that the waiver was not made in open court or not made under circumstances indicating an understanding waiver, the court should reverse (see People v. Losacano (1975), 29 Ill. App. 3d 103, 329 N.E.2d 835). Since, here, defendant does not claim that any specific error actually occurred and since defendant does not present a record sufficient to show whether error did in fact occur, we affirm the conviction.
+Defendant is correct in his contention that he was not afforded a sentencing hearing. The record shows that he was afforded no opportunity to present evidence or argument in mitigation. Error also occurred at sentencing in that the court proceeded although defendant appeared without counsel and without having waived counsel as to that hearing as required by People v. Taylor (1975), 31 Ill. App. 3d 987, 335 N.E.2d 533.
+The judgment of conviction is affirmed. The sentence is reversed and the case remanded for resentencing.
+Affirmed in part, reversed in part and remanded.
+TRAPP, P. J., and REARDON, J., concur.
