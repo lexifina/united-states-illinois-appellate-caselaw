@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,324"
+decided: "1966-04-14"
+citations: ["69 Ill. App. 2d 220"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SULLIVAN, P. J. and DEMPSEY, J., concur."]
+parties: ["Gerald Marks, Plaintiff-Appellant, v. Lester Newburger, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/69/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2591159
+cites_cases: ["119 NE2d 813", "164 NE2d 209", "195 NE2d 838", "2 Ill App2d 496", "201 NE2d 191", "24 Ill App2d 204", "45 Ill App2d 382", "51 Ill App2d 276"]
+---
+
+# Marks v. Newburger
+
+## Majority (MR. JUSTICE SCHWARTZ)
+
+MR. JUSTICE SCHWARTZ
+delivered the opinion of the court.
+In an action for personal injuries the court directed a verdict for defendant and judgment was entered thereon. Plaintiff was injured in the course of a ride in a car owned and operated by defendant. The principal issue is whether the plaintiff was a guest at the time he was injured and was therefore required to prove wilful and wanton misconduct in order to make his case under the guest statute. Ill Rev Stats, ch 95%, § 9-201 (1965).
+On the morning of February 4, 1959, the defendant was driving the plaintiff and a third person to their common place of employment when a tire went flat. In replacing the tire with a spare, plaintiff assisted the defendant by operating a tripod jack which was placed under the rear bumper. The car began to slip forward off the jack, and defendant testified that in an effort to steady it, he grabbed the door handle and pushed toward the rear. Plaintiff testified that he called to the defendant, “Don’t worry about it; it’s not that far,” and that he remained behind the car. The force exerted by the defendant caused the car to slip back off the jack with the result that the open trunk door struck plaintiff in the forehead.
+Plaintiff does not argue that there was proof of wilful and wanton conduct, but rather he contends that he was a passenger for hire and may recover damages for ordinary negligence. Although it is difficult for this court to see in what way the defendant was guilty of even ordinary negligence, we will consider plaintiff’s contention that he was a passenger. Plaintiff’s position is based on a relationship which existed over a period of six to eight months, during which the defendant daily took the plaintiff about fifteen miles to work and the plaintiff reciprocated by taking the defendant to breakfast approximately twice a week and occasionally buying him a tank of gasoline. Both parties agree that the plaintiff spent an average of $16 to $18 per month, but whether this was intended and accepted as a consideration for the services or was a voluntary gift in reciprocity is the question. Plaintiff himself testified that there were no specific arrangements to make any payments for the rides, and when asked on cross-examination, “You did this out of the goodness of your heart as to paying for the gasoline or treating to breakfast ... ?” Plaintiff answered, “Yes.”
+It is the lack of an understanding, express or implied, which distinguishes the instant case from those cited by plaintiff. In Dirksmeyer, Admr. v. Barnes, 2 Ill App2d 496, 119 NE2d 813, defendant drove deceased and five other men to and from work each day. All but one of the riders, including the deceased, lived 80 miles from their place of employment, and each paid the driver ten dollars per week for the transportation. The evidence established the regular payment of a stipulated charge, and the court held that under these circumstances, an agreement to provide transportation could be implied. In McNanna v. Gach, 51 Ill App2d 276, 201 NE2d 191, the defendant-driver agreed to take five students to and from school in exchange for a payment of two dollars a week from each rider. In holding that the plaintiff, who was injured when the car was involved in an accident, was a passenger for hire, the court quoted from Dirksmeyer, Admr. v. Barnes, supra, as follows (at p 280):
+“The arrangement or custom was not for an isolated single or occasional transportation but had been in effect on the above paying basis for more than four months, five days each week. It comprehended continuous transportation to and from work. The amount of the payment, whether by agreement or custom was fixed, certain and substantial in amount, . . .” (Emphasis supplied.)
+We live in a time in which many human relationships formerly considered sociable and friendly have been transformed into business expenses for tax and other purposes. But this movement has not gone so far that all relationships involving mutual benefit have lost the wholesome flavor of social amenities. In the instant case there is no showing that the occasional purchases of gasoline and the twice weekly breakfast treats were anything more than neighborly amenities extended in return for favors granted. These were insufficient to transform plaintiff from a guest into a passenger for hire.
+Plaintiff argues that the issue of negligence should have been submitted to the jury. Inasmuch as we have decided that plaintiff was a guest at the time of his injury, and as there is no evidence to support the charge of wilful and wanton misconduct, we need not further consider this contention.
+The plaintiff’s post-trial motion was couched in very general terms such as: the verdict was contrary to the law governing the case, it was contrary to the manifest weight of the evidence, and the evidence was such as to require submission of the case to the jury. Defendant argues that the very general objections stated in that motion are insufficient to preserve for appeal the specific question raised here concerning the plaintiff’s status at the time of his injury. This court has required compliance with section 68.1 (2) of the Civil Practice Act which provides that “. . . the post-trial motion must contain the points relied upon, particularly specifying the grounds in support thereof and must state the relief desired, ... A party may not urge as error on review of the ruling on his post-trial motion any point, ground, or relief, not specified in the motion.” Handler v. Eckhouse, 45 Ill App2d 382, 195 NE2d 838; Perez v. Baltimore & O. Ry. Co., 24 Ill App2d 204, 164 NE2d 209. There appears to be merit in defendant’s contention, and the fact that we have decided this case on the broader issue should not be regarded as any departure from that rule.
+The judgment is affirmed.
+Affirmed.
+SULLIVAN, P. J. and DEMPSEY, J., concur.
