@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-05-25"
+citations: ["47 Ill. App. 79"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John C. Anderson v. William A. Montgomery."]
+source_url: "https://static.case.law/ill-app/47/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2440532
+cites_cases: ["139 Ill. 564"]
+---
+
+# Anderson v. Montgomery
+
+## Majority (Mr. Justice Lacey.)
+
+Mr. Justice Lacey.
+This is a bill in chancery filed in the Circuit Court of Iroquois County, on the 19th day of April, 1890, by appellee against appellant, John Will Anderson, and one William Warren. All parties being duly in court, appellant and John Will Anderson answered the bill. Warren was defaulted. On replication being filed cause was referred to the master. The master’s report was filed March term, 1891, and a hearing had.
+The cause was taken under advisement by the then chancellor, and at the June term, 1892, a decree was entered for complainant, dismissing the bill as to John Will Anderson, and ordering appellant, John C. Anderson, to pay appellee the sum of §172.62 within twenty days, and that in default thereof execution issue. The bill seeks the reformation of a written contract and to have the contract reformed and . corrected, and enforced as reformed or corrected. The averments of the bill are in substance that in 1888 and 1889 William Warren, one of the respondents, was engaged in the manufacture of brick and tile on the premises rented of appellant; that Warren, during the year 1888, became indebted to appellee for cord wood sold to Warren to be used in burning of the said brick and tile; and that in July, 1889, Warren sold his stock- of brick and tile to appellant and entered into a contract, dated July 13, 1889; that on a trial before a justice of the peace, wherein appellee sued said Warren for said wood furnished, the original contract referred to was not to be found and a copy was substituted which was claimed by said Warren and appellant to be a true copy of the original, and sets forth the substance of the contract as follows: reciting the purchase of the brick and tile on hand, burned and unburned, in the tile factory or kilns on or near the railroad factory, and any balance on shipments of tile made since April 1,1889; appellant agreeing to pay all arrears of labor performed at said factory since 1889, also for all wood used in burning brick and tile during the season of 1889, and to pay the following named persons on such terms and time as he and they may agree, to wit: the appellee, William Montgomery, for wood used by the said William Warren during the season of 1881, and to John Fanning and William Jones each $15; John Carpenter near $50; Sam Johns for wood used of him in 1888, and George Grismanthe amount of arrears due him in 1888; to Wirt Moore $26; the said William Warren agreeing to furnish a warranty deed to appellant for five acres of land situated near the residence of Frank Strate, about one half mile south of Woodland; which contract was duly signed by appellant and William Warren.
+The bill alleges fraud or mistake of appellant or John Will Anderson, or fraudulent alteration after the execution of the contract, in that it does not provide for the payment of appellee’s claim for wood'furnished Warren in 1888; that afterward, on November 30,1889, appellee recovered a judgment against Warren on account of the said wood sold in 1888, for 8149.46; that execution issued January 16,1890, and returned January 18, 1890, no part satisfied; that appellee had made demand on appellant for payment of wood furnished in 1888, which was refused. Appellant and Anderson answer, admitting the contract, but denying that there was any mistake or fraud in its execution, or that it was afterward changed, and deny that they were jointly or individually indebted to Warren.
+It is insisted that the court had no equity jurisdiction as against the appellant to correct this kind of mistake where the contract was between other parties, whether for the benefit of appellee or not. We think this point of objection can not he raised in this court or in the court below, for the reason that the bill was neither demurred to nor any objection raised to the equitable jurisdiction of the court in the ansiver. The parties submitted themselves to the jurisdiction of the court and they have no right now to complain. Crawford v. Schmitz, 139 Ill. 564.
+We have, however, examined the evidence carefully, and are of the opinion that upon a fair view of it all, the decree is not sustained by it. We need not go into particulars, as the case will have to be examined anew and new evidence may be supplied. It is sufficient to say, however, that the evidence lacks that decree of certainty where a written instrument is proposed to be altered or changed by parol. The decree is reversed and the cause remanded, with leave to either party to take new evidence, and especially to appellee, if he or they be so advised.
+Decree reversed cmd ccmse remanded,
