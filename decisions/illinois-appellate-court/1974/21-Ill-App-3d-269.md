@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "72-290"
+decided: "1974-07-30"
+citations: ["21 Ill. App. 3d 269"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Richard Van Cura, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/21/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5374045
+cites_cases: ["11 Ill.App.3d 321", "31 Ill.2d 535"]
+---
+
+# People v. Cura
+
+## Majority (Mr. JUSTICE SEIDENFELD)
+
+Mr. JUSTICE SEIDENFELD
+delivered the opinion of the court:
+The defendant, Richard VanCura, was convicted after a bench trial of the offense of following too closely to a fire apparatus responding to a fire. (Ill. Rev. Stat. 1971, ch. 95%, par. 11 — 1411.) In sentencing defendant to a $100 fine and 6 months in jail, the court relied upon the enhanced penalties provided for a third offense within a year as set forth in section 16 — 104(b) of the Illinois Vehicle Code (Illo. Rev. Stat. 1971, ch. 95%, par. 16 — 104(b)).
+Defendant appeals, contending that he could not be sentenced as a third offender in the absence of a charge in the complaint specifying the prior offenses relied upon; that the enhanced penalty provision under which he was sentenced applied only to subsequent convictions within 1 year of the same offense; and that he was not sufficiently admonished of the possible penalties for a third offense when he waived counsel. Alternatively he argues that the sentence was excessive.
+In the disposition we make of the case, we need only discuss the construction of the enhanced-penalty provision.
+The complaint charged that the offense of following a fire apparatus occurred on May 28, 1972. Defendant was found guilty in a bench trial held on August 4, 1972. After a hearing in aggravation and mitigation, the court found that defendant had been convicted within the past year of four prior traffic offenses: improper lane usage, speeding, failure to give information after striking property, and excessive noise. None of these prior offenses involved following too closely to a fire apparatus responding to a fire; but all of them were offenses which did not contain their own penalty provision and hence whose penalties were governed by section 16 — 104 of the Vehicle Code. Ill. Rev. Stat. 1971, ch. 95%, pars. 16 — 101, 16 — 104.
+Section 16 — 104 provides:
+"(a) It is a misdemeanor for any person to violate any provision of this Act unless such violation is by this Act or other law of this State declared to be a felony.
+(b) Every person convicted of a misdemeanor for a violation of any provision of this Act for which another penalty is not provided shall for a first conviction thereof be punished by a fine of not less than $10 nor more than $100; for a second such conviction within one year thereafter, such person shall be punished by a fine of not less than $25 nor more than $200 or by imprisonment for not more than 20 days, or both; and for a third or subsequent conviction within one year after the first conviction, such person shall be punished by a fine of not less than $100 nor more than $500 or by imprisonment for not more than 6 months, or both.”
+The question presented is whether the above section requires a subsequent traffic offense to be a violation of the same statutory provision as the prior offense or offenses committed within 1 year before the enhanced penalty provisions apply. We hold that it does.
+The language, “for a violation of any provision of this Act,” could arguably support the State’s position that the additional conviction need not be for the same offense. We find, however, a number of indications which weigh more heavily in favor of a different conclusion. Obviously, there must first be a violation of “any provision” of the Vehicle Code for the enhanced penalty to be later applied, and the reference to “any provision” is found in the clause relating to the first offense. The references to a second “such conviction” and a “third or subsequent conviction” within 1 year after the first conviction do not unambiguously refer to “any provision” described for the first offense, but may with equal reason be interpreted to refer to the particular first violation which has taken place.
+Criminal statutes are to be construed strictly in favor of the accused and nothing is to be taken by intendment or implication against the accused beyond the obvious or literal meaning of such statutes. (People v. Eagle Food Centers Inc. (1964), 31 Ill.2d 535, 539; People v. Kessler (1973), 11 Ill.App.3d 321, 326.) A strict construction in favor of the defendant requires us to hold that section 16 — 104 does not increase the penalty for unlike traffic offenses committed less than a year apart.
+If the State’s construction were adopted, a person convicted of two or three disparate and minor violations of the Vehicle Code would be subject to severe penalties. For example, within a year after conviction for a muffler violation (Ill. Rev. Stat. 1971, ch. 95%, par. 12 — 602), and another for opening a car door to traffic (Ill. Rev. Stat. 1971, ch. 95%, par. 11 — 1407), the maximum penalty for most traffic offenses for that offender would be increased from no term of imprisonment to 6 months’ imprisonment. On the other hand, where repeated identical statutory offenses occur within a year, the offender’s willful disregard for the statute transgressed seems apparent, justifying the enhanced penalties. And where serious unlike violations occur within a year other sections of the Vehicle Code can be invoked:' the driver’s license can be revoked (Ill. Rev. Stat. 1971, ch. 95%, par. 6 — 206); and if the offender continues to drive, penalties of 7 days to 1 year and a possible $1,000 fine, more severe than those provided under section 16 — 104(b), may be imposed. Ill. Rev. Stat. 1971, ch. 95%, par. 6 — 303.
+Our construction of section 16 — 104(b) of the Illinois Vehicle Code follows that of other jurisdictions and of the Uniform Vehicle Code. Fisher, Vehicle Traffic Law (1961) 460.
+“Ordinarily the prior offense for which the accused was convicted must have been a violation of the same law, and this is especially true of traffic offenses for which penalties are all prescribed in the same act or section of the statute. * * * Specific provisions imposing increased penalties for repeating offenders apply only in case of repetition of the same offense * *
+[Footnotes omitted.] Fisher, Vehicle Traffic Law 461 (1961).
+Such statutes do not create a separate offense, but merely subject second offenders to heavier punishment for crimes repeatedly committed by them. * * * The statute merely describes circumstances wherein one found guilty of a specific crime may be subjected to a greater penalty if he repeats his offense. * * * The prescribed punishment is heavier because the defendant is a repeater.’ Its purpose is to compel obedience when the milder sentence has failed.” (Footnotes omitted.) Fisher, Vehicle Traffic Law 460 (1961).
+We, therefore, conclude that it was improper for the court to consider convictions of the defendant for offenses other than and different from the one charged in the complaint in imposing the enhanced penalties. We affirm the judgment below finding the defendant guilty of following a fire apparatus in contravention of section 11 — 1411 of the Illinois Vehicle Code (Ill. Rev. Stat. 1971, ch. 95%, par. 11 — 1411). The sentence, however, is vacated and the defendant is discharged, since he has served over 30 days in jail and no imprisonment is permissible for a first offense under section 16 — 104 (Ill. Rev. Stat. 1971, ch. 95%, par. 16 — 104).
+In this view of the case, we do not reach the remaining issues which the defendant has raised, all of which presuppose the imposition of the enchanced-penalty provisions of section 16 — 104.
+Judgment of conviction affirmed, sentence vacated and defendant discharged.
+GUILD and RECHENMACHER, JJ., concur.
+The section has been amended to provide that a conviction for a first or second offense is a Class C misdemeanor and a conviction for a third or subsequent offense within a year is a Class B misdemeanor. Ill. Rev. Stat. 1973, ch. 95%, par. 16 — 104.
