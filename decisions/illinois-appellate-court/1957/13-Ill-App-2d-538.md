@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 10,114"
+decided: "1957-05-20"
+citations: ["13 Ill. App. 2d 538"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["REYNOLDS, P. J. and CARROLL, J., concur in this opinion."]
+parties: ["Ernest W. Mammen, Plaintiff-Appellee, v. Lawrence Snodgrass, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/13/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5171678
+cites_cases: ["133 Ill. App. 544", "14 Ill. App. 372", "176 Ill. App. 349", "316 Ill. App. 62", "349 Ill. App. 538", "43 Ill. App. 364", "43 N.E.2d 688", "44 Ill. App. 444", "51 Ill. App. 243"]
+---
+
+# Mammen v. Snodgrass
+
+## Majority (JUDGE ROETH)
+
+JUDGE ROETH
+delivered the opinion of the court.
+Plaintiff sued defendant to recover a real estate broker’s commission. Upon a trial before the court without a jury, the court found the issues for the plaintiff and entered judgment for the sum of $636 and costs. From this judgment defendant appealed to this court.
+There is not much dispute on the facts. On January 13, 1955 plaintiff and defendant entered into a written non-exclusive listing contract by the terms of which defendant listed his 80 acre farm with plaintiff and authorized its sale at $289 per acre or any other amount that the defendant agreed to accept. By the terms of the contract defendant agreed to pay a commission according to the rates recommended by the local Real Estate Board, for plaintiff’s services in procuring a purchaser. Subsequent to the date of the contract and about the latter part of January or first of February plaintiff talked with one Woolsey about the farm. He received an offer from Woolsey of $18,500 and a check for $100 as earnest money. At about the same time plaintiff took a prospect by the name of Howell out to the farm to view it. While there, Howell offered $20,000 for the farm which offer the defendant rejected. The record shows that on the occasion of the offer by Howell, plaintiff said to defendant “Well, I have got a check here for an offer of $18,500”, whereupon the defendant told him “Yon might as well give it back, I am not interested.” The plaintiff thereupon replied, “I didn’t suppose you were.” At no time was the name of Woolsey mentioned. While plaintiff says he showed the check for $100 to defendant he admits that the manner of its display was such that defendant could not observe the name of the maker thereof. Plaintiff obtained no further offer from Woolsey and did not communicate further with defendant about Woolsey.
+Plaintiff thereafter continued to intermittently advertise the farm for sale in the local newspaper, a total of 14 times. The last ad appeared July 31, 1955. During this period of time plaintiff showed the farm to about 12 other prospects and mentioned it to others. Defendant continued to farm the land, put in a crop in the spring of 1955 and harvested it in the fall.
+In September of 1955 plaintiff prepared for an extended trip to California and Washington. About the first of September he went to see Woolsey and told him he was going to Washington and would be gone for some time. He then returned the $100 check to Woolsey and told Woolsey that if he wanted the farm to deal directly with the defendant. Woolsey says he thereupon told plaintiff he was no longer interested. Plaintiff also called the defendant and told him that he was leaving for the west coast. Plaintiff returned from the west on November 20, 1955. The record is barren of any activity, any inquiry, or any communications by the plaintiff as to this farm after his return.
+On November 25, 1955, Woolsey contracted with defendant for the purchase of the farm and all livestock and equipment on it, a package sale, for $26,000. The contract was signed in the office of Beulah Irvin, a lawyer in Bloomington. At the time of the signing of the contract Woolsey mentioned to defendant that he had previously spoken to plaintiff about the farm, which appears to be the first intimation that defendant had of any prior contact between Woolsey and plaintiff. Defendant tried to call plaintiff but could not reach him. The contract was completed and subsequently performed.
+The law is well settled in this state that the fact that the seller consummates a sale, or that it is made upon different terms from those proposed to the broker, does not necessarily deprive the broker of compensation. If he is the efficient procuring cause of the transaction he is entitled to his commission.
+But that a sale is finally brought about by the efforts of the principal with a person with whom the broker had previously negotiated without success, does not furnish a basis for commission, if it appears that the broker has for a long time ceased negotiation with the purchaser and abandoned all efforts to induce him to take the property. A time must necessarily arrive after a prospective purchaser has declined to purchase when the owner may treat the negotiation at an end and begin an entirely new and independent solicitation. Kaplan v. Birk, 349 Ill. App. 538, Ill N.E.2d 377, Weisjohn v. Bell, 316 Ill. App. 62, 43 N.E.2d 688, Rasar & Johnson v. Spurling, 176 Ill. App. 349, West End Dry Goods Store v. Maun, 133 Ill. App. 544, Watts v. Howard & Calkins, 51 Ill. App. 243, Carlson v. Nathan, 43 Ill. App. 364, Mears v. Stone, 44 Ill. App. 444 and Lipe v. Ludewick, 14 Ill. App. 372.
+The facts as hereinbefore set out bring this case within the principles of law as announced in the foregoing cases. Had those principles been correctly applied to the conceded facts of the case by the trial court a judgment for the defendant would necessarily follow. The length of time following plaintiff’s attempt to negotiate between the two parties, his subsequent inactivity, his breaking off of negotiations with Woolsey upon the return of Woolsey’s earnest money and Woolsey’s announced lack of further interest, clearly show that plaintiff had abandoned his effort to induce Woolsey to purchase and that he was not the efficient procuring cause of the sale. Such being the case it is our opinion that this case should be reversed and remanded with instructions to enter a judgment for defendant.
+Reversed and remanded with directions.
+REYNOLDS, P. J. and CARROLL, J., concur in this opinion.
