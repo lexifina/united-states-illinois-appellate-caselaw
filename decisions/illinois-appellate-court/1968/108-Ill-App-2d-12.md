@@ -1,0 +1,49 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 68-19"
+decided: "1968-10-22"
+citations: ["108 Ill. App. 2d 12"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GOLDENHERSH and EBERSPACHER, JJ., concur."]
+parties: ["James Myrick, Plaintiff-Appellee, v. Eunice Keel, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/108/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1595890
+cites_cases: ["147 NE2d 443", "15 Ill App2d 548", "170 NE2d 791", "18 NE2d 392", "223 NE2d 409", "24 NE2d 214", "271 Ill App 551", "28 Ill App2d 224", "298 Ill App 130", "302 Ill App 431", "79 Ill App2d 145"]
+---
+
+# Myrick v. Keel
+
+## Majority (MORAN, J.)
+
+MORAN, J.
+Both parties agree that the only issue before this court is “whether or not the plaintiff, James Myrick, has proved anything at all sufficient to justify the trial court directing a verdict on plaintiff’s Count I and to justify the jury’s award of damages on Count II of the plaintiff’s complaint.”
+The parties entered into a sales contract on July 30, 1962, whereby the defendant sold plaintiff certain personal property consisting of equipment and fixtures used in the operation of a nursing home for $9,000, payment being guaranteed by the execution of a promissory note in favor of Eunice Keel by the plaintiff. Contained in the Bill of Sale signed by the defendant was the following language:
+“And I hereby warrant that I am the true and lawful owner of said goods and property; that I have full right and title hereto and authority to sell and dispose of the same, and that I will warrant and defend the title of same against the lawful claims and demands of any and all persons whomsoever.”
+Attached to the Bill of Sale was an affidavit prepared and signed by the defendant which additionally stated:
+“3. That the goods and property so sold to James Myrick have no liens, encumbrances, judgments or other claims against them.
+“4. Said goods and property are hereby sold free and clear of the claims of any and all creditors whomsoever.”
+Defendant had purchased the equipment and fixtures in question from one William R. Weidman on August 11, 1960 for $3,000. The transfer to defendant was secured by execution of a purported chattel mortgage instrument describing the goods sold as the secured property. This instrument, however, was not recorded in the County Recorder’s Office by Mr. Weidman until February of 1962.
+On June 9, 1964, William R. Weidman died and on January 8, 1965, a suit was filed by Ralph Douglas Weidman as executor of the estate of William R. Weidman against James Myrick and Eunice Keel, claiming a possessory interest in the fixtures and equipment which are the subject matter of the present case. The executor’s suit was based on the chattel mortgage between Eunice Keel and William Weidman and the note signed by Eunice Keel which was allegedly unsatisfied.
+Thereafter, the present action was instituted by plaintiff against Eunice Keel seeking rescission of the sales contract of July 30, 1962, and damages for misrepresentation. Prior to trial of this case, the suit originally filed by the estate of William R. Weidman against Eunice Keel was dismissed and settled by stipulation.
+The trial court directed a verdict for plaintiff and against the defendant on Count I of plaintiff’s complaint seeking rescission of the sales contract, and entered judgment for plaintiff on Count II based on the jury’s verdict against the defendant in the amount of $2,500 for fraud. Defendant contends that the trial court erred in failing to direct a verdict in her favor on both counts at the close of all the evidence.
+Defendant argues that under the provisions of the Mortgage Act in effect at the time of the sale to plaintiff, chapter 95, sections 1 and 4, 111 Rev Stats 1961, the purported chattel mortgage on the equipment and fixtures in favor of William R. Weidman was null and void as to the interest of plaintiff in the properties, since the mortgagee, Mr. Weidman, did not record his mortgage within the time prescribed for perfection of his lien. She contends that since, as a matter of law, there were no liens, encumbrances, or other claims against the property-sold to plaintiff and therefore since her statements to that effect were true, there is no basis for recovery under a theory of fraudulent misrepresentation.
+Plaintiff answers that although Weidman’s chattel mortgage may have been legally defective, nevertheless, his estate had a “claim” against the property, the very existence of which violated the warranties as set out in the Bill of Sale and affidavit signed by defendant and delivered to the plaintiff. In effect, plaintiff admits that the chattel mortgage between William R. Weidman and Eunice Keel constituted no encumbrance or lien on the property sold to him, but argues that defendant’s representations of title were much broader. He urges that the defendant’s representation as to the nonexistence of any “claims” against the property must be construed as false since a suit was in fact instituted to establish the rights of a third party to the property.
+We cannot agree with this construction. We believe the word “claim” as used in the particular statement, “(T)he goods and property so sold . . . have no liens, encumbrances, judgments or other claims against them,” is used synonymously with the words “lien” and “encumbrance,” and denotes a charge on property for payment or discharge of a debt. While it is undoubtedly true that “claim” is sometimes used in the broad sense of a demand of some matter as of right by some person upon another, when used, as here, with reference to the state of the title conveyed, the word assumes a more defined and specific meaning. It is only reasonable that the intention of the seller and expectation of the buyer as expressed in the statements found in the affidavit signed by plaintiff, were that the fixtures and equipment would be sold free of charges specifically against such property as security for a debt owed by seller. Further it would be unreasonable to assume that the buyer would be guaranteed by such language, that lawsuits would never be filed in an attempt to establish some right against the property, no matter how frivolous.
+Under sections 1 and 4, chapter 95, 111 Rev Stats 1961, which were in force at the time of defendant’s purchase of the goods and fixtures from William R. Weidman, the mortgagee was required to record his mortgage within ten days of its execution for such mortgage to constitute a lien against the property which would be valid against the rights and interests of a third person. Mr. Weidman recorded his mortgage more than seventeen months after its execution, the effect of which being the same as if the mortgage were never recorded. Collateral Finance Co. v. Braud, 298 Ill App 130, 18 NE2d 392.
+To substantiate a case of fraud, the party charging the fraud must prove every element necessary to constitute fraud, including the falsity of representation and injury. State Loan Ass’n of Illinois v. Wright, 28 Ill App2d 224, 170 NE2d 791; Nardi v. Schelfhout, 302 Ill App 431, 24 NE2d 214. In the instant case, we believe that as a matter of law, the property conveyed to plaintiff was sold free of the one possible mortgage interest which could have constituted a “lien, encumbrance, judgment, or other claim” against the property. Defendant’s statements, therefore, were true representations as to the state of the title conveyed and our holding on this issue demands a reversal of the judgment of $2,500 entered for the plaintiff on Count II of his complaint.
+The basis for the action of the trial court in directing a verdict for plaintiff on Count I of the complaint was the testimony of defendant, Eunice Keel, which, plaintiff asserted, showed her intention to accept a return of the furniture and equipment sold to Myrick. That testimony, in substance, appears on pages 10 and 12 of the record, as follows:
+“Q. And when we served upon you a demand for rescission of this sale, Mr. Weidman was dead then, wasn’t he?
+“A. Nobody at no time asked me to take back the nursing home or I would have taken it back.
+U
+“Q. What you just got through saying, is that true now, Mrs. Keel, that you are willing—
+“A. I said it could have come, but I would take the nursing home back today.
+“Mr. Carr: If Mrs. Keel is in agreement with Mr. Cohn, we have one portion of this lawsuit taken care of, Your Honor.
+“A. I said the nursing home. I didn’t say just the fixtures. I said the complete nursing home. I will take it back.”
+While plaintiff correctly observes that an agreement to rescind is valid in the eyes of the law, Printing Machinery Maintenance, Inc. v. Carlton, 15 Ill App2d 548, 147 NE2d 443, nevertheless the existence of any contract is contingent upon a meeting of minds of the respective parties. Bartlett v. Lauff, 271 Ill App 551; Euclid Engineering Corp. v. Illinois Power Co., 79 Ill App2d 145, 223 NE2d 409. A statement by the witness that she was willing to resume the operation of the nursing home, not just take back the fixtures, is not, in our opinion, an expression of intention to accept return only of the fixtures and thereby cancel the sales contract. That this is true is patently clear from the excerpts previously quoted.
+Failure to establish rescission founded upon agreement relegates plaintiff’s remedy of rescission to a showing of fraud, which we hold as a matter of law to be deficient.
+For the foregoing reasons, the judgment of the Circuit Court of St. Clair County is reversed and judgment is entered for defendant on both counts of plaintiff’s complaint.
+Judgment reversed.
+GOLDENHERSH and EBERSPACHER, JJ., concur.
