@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-382"
+decided: "1972-11-27"
+citations: ["8 Ill. App. 3d 722"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. James Farnham, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/8/cases/0722-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2766567
+cites_cases: ["128 Ill.App.2d 232", "18 Ill.2d 121", "363 U.S. 804", "38 Ill.2d 39", "402 U.S. 910", "46 Ill.2d 305"]
+---
+
+# People v. Farnham
+
+## Majority (Mr. JUSTICE THOMAS J. MORAN)
+
+Mr. JUSTICE THOMAS J. MORAN
+delivered the opinion of the court:
+Three indictments were returned against the defendant, one charging burglary and two charging separate armed robberies. The defendant, through the public defender, entered into a plea arrangement with the state’s attorney. The terms of the agreement, which were related to the trial court, were that if defendant would plead guilty to both armed robbery charges, the state’s attorney would recommend a sentence of 12 to 25 years on each, the sentences to run concurrently, and the burglary indictment would be dismissed. The court, after thoroughly admonishing the defendant, accepted the pleas of guilty and sentenced defendant in accordance with the terms of the agreement.
+Shortly thereafter, in response to a letter directed to him by the defendant, the trial judge ordered a notice of appeal filed on defendant’s behalf and appointed present counsel to represent him. Counsel requested and was granted leave to temporarily withdraw the notice of appeal and file a motion to withdraw the plea of guilty. At the close of an evidentiary hearing, the court denied the motion and this appeal, transferred from the Supreme Court, was sought.
+The motion alleged, (1) that the defendant was in a drugged condition at the time of the entry of his plea and at the time of committing the armed robberies and, (2) that the sentence imposed was excessive and unconstitutional. The prayer requested that the plea of guilty be vacated or, in the alternative, the sentence be reduced to the 2 year minimum allowed by statute, with a maximum of 25 years.
+Defendant testified that eight months before his arrest, he commenced taking diet pills which contained amphetamine; that as time passed he started using a large capsule called “black beauty” which gave him a “greater punch”; that by November, 1970, he was taking forty “black beauties” a day; that on the day of the armed robberies, he had ingested thirty “black beauties,” a quart of beer and a pint of wine; that at approximately 8:30 A.M. on January 21, 1971, while in jail and under the impression he was going to trial that day, he swallowed the contents of four “speed” capsules and took six “drags” on a marijuana cigarette; that the effect was to make him feel “high” and his thinking was affected; that he was taken to the court building where he talked to his attorney, the public defender; that the day before, his counsel had informed him that he would probably receive a sentence of 11 to 20 years if found guilty but that on this day, his counsel informed him that the state’s attorney was going to recommend a sentence of 35 to 70 years on each indictment and request that the sentences run consecutively; that his counsel advised him there was no way he could be found not guilty but that if he pled guilty he would get 12 to 25 years; that he explained to his counsel that he was only guilty of one armed robbery and eventually, “I said, to heck with it, I will do as you recommend, and I decided to plead guilty.”
+Defendant further testified that it was a shock when he learned from his attorney that the State was going to recommend a 35 to 70 year consecutive sentence in the event he went to trial and was found guilty; that the shock, together with the drugs he had taken, put him in a depressed mood, made him cry in court and generally made him nervous.
+In support of his testimony, the defendant’s wife and the official court reporter testified. The reporter related that at the hearing, he had observed tears running down defendant’s cheeks when the plea of guilty was entered. He also stated that defendant’s speech was slow but clear. The wife testified that, as defendant was about to enter the courtroom for the hearing, he said he was going to kill himself.
+The jailer who escorted the defendant from the jail to the court lockup and later returned him to his cell, testified that he had observed defendant since his incarceration in November and from 8:00 A.M. on the day of hearing and that his behavior on that day did not differ from any other occasion.
+At the close of the evidence, the court remarked that having talked to the defendant and observed his actions at the time the plea was entered, he could find no basis for defendant’s claim. After arguments concerning the minimum sentence, the court denied the motion.
+It is urged that the court abused its discretion in holding that the defendant was not under the influence of drugs at the time of entering his plea because such finding was against the manifest weight of the evidence.
+Once entered, the decision of whether to allow withdrawal of a guilty plea is within the discretion of the trial court. (People v. Walston, 38 Ill.2d 39, 42 (1967); People v. Christman, 128 Ill.App.2d 232, 240 (1970).) In the instant case, defendant does not contend that he was improperly admonished, only that his plea was not voluntary due to the use of drugs. Although defendant stated that other named individuals were present and shared in the smoking of the marijuana cigarette, there was no corroboration of his statement offered. The only support for his claim is the testimony of his wife and the court reporter. Hie fact that defendant was crying, talked slowly and was despondent, does not lead to the conclusion that he was unpaired by the use of drugs. His claim of impairment is belied by his responses at the time of the plea and by his rationalization in an attempt to mitigate the seriousness of the charges.
+The jailer’s observations found nothing unusual in defendant’s actions. The trial judge was able to observe defendant’s actions and demeanor, both at the time of the plea and during the hearing on the motion.
+“The defendant’s claim that the trial judge abused his discretion assumes the truth of his own testimony * * *. But the trial judge was not required to believe that testimony. He could have regarded it as at best improbable and at worst false.” People v. Kwiek, 18 Ill.2d 121, 124 (1959), U.S. cert. den., 363 U.S. 804.
+The record does not substantiate defendant’s claim that the trial judge abused his discretion.
+It is contended that the sentence imposed was cruel and unusual and therefore unconstitutional. Immediately after the court entered sentence in accordance with the terms of the negotiated plea, the defendant requested that the trial court reduce the minimum sentence pronounced. The request was denied. The record discloses that defendant had been confined to the penitentiary on three occasions, that there had been a previous armed robbery conviction in Iowa, and that the armed robberies herein were accomplished with the use of a sawed-off shotgun. Under these circumstances, we feel the trial court was correct in denying defendant’s request.
+The contention of the constitutionality of the imposed sentence has been answered by our Supreme Court in People v. Dudley, 46 Ill.2d 305, 311 (1970), U.S. cert. den., 402 U.S. 910.
+Judgment affirmed.
+SEIDENFELD, P. J., and ABRAHAMSON, J., concur.
