@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-464"
+decided: "1979-05-09"
+citations: ["71 Ill. App. 3d 211"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALBERT NELSON VOLK et al., Plaintiffs-Appellees, v. RONALD W. KENDALL, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/71/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5578954
+cites_cases: ["230 Ill. App. 126"]
+---
+
+# Volk v. Kendall
+
+## Majority (Mr. JUSTICE ALLOY)
+
+Mr. JUSTICE ALLOY
+delivered the opinion of the court:
+Defendant Ronald W. Kendall appeals from the judgment of *13,628.40 entered against him in the Circuit Court of Tazewell County in favor of plaintiffs Albert Volk and Sharon Volk. The judgment was entered following a bench trial.
+Two issues are raised on appeal: (1) whether a long-time friendship constitutes a past course of dealing within the meaning of section 1 — 205 of the Uniform Commercial Code (Ill. Rev. Stat. 1977, ch. 26, par. 1 — 205), and (2) whether the court erred in failing to find for the defendant on his affirmative defense of rescission.
+The evidence produced at the trial was contradictory on several key issues. The evidentiary support on appeal is provided by way of an agreed Report of Proceedings pursuant to Supreme Court Rule 323 (Ill. Rev. Stat. 1977, ch. 110A, par. 323(c), (d)). The record discloses that the parties had known each other for 9 years and had been friends. In November of 1976, the parties entered into an oral agreement for the sale of a 1974 semi-trailer truck owned by the Volks. According to the testimony of Albert Volk, the terms of the oral contract of sale were (1) that Kendall would take over the loan on the truck and pay the quarterly payments of *964 for the bank on the outstanding balance of *19,284, and (2) that Kendall would pay the Volks *300 monthly until the Volks’ initial cash investment in the truck, being *12,000, had been paid in full. Kendall, however, stated that the original terms were that the *300 payments were to be made if, and when, Kendall’s operation of the truck became profitable. Kendall testified specifically that he made no profit from his short period of operation of the truck.
+It is noted of record that between November 1976, when the oral agreement was reached, and July 1977, Kendall made the necessary two payments of *964 each for the bank on the loan, and that he made one *300 payment to the Volks. Volk had testified that only one quarterly payment of *964 was made but the evidence presented, in the form of cancelled checks, established that Kendall, as he had testified, made two such payments.
+Assertedly, as a result of his inability to make a profit in operating the truck, Kendall, in March or April of 1977, offered to return the truck to the plaintiffs. Kendall stated that Volk did not desire to have the truck then, and he suggested that Kendall keep the truck until Volk could find another buyer. Volk denied making this statement. In July of 1977, Kendall again contacted the Volks and informed them that he had parked the truck and that they could come and pick it up. In response to this offer by defendant Kendall, the Volks did take possession of the truck from Kendall near the end of July 1977. No written agreement of any kind had been entered into between the parties concerning the truck. Title at all times remained in the names of the Volks.
+According to the allegations in the complaint as filed by the Volks, the vehicle was thereafter sold by the Volks for *14,463, which they stated covered only the outstanding balance then remaining on the loan. The Volks brought the instant action seeking recovery for money asserted to be owed them under the contract on their *12,000 initial investment (being *11,700) and for the quarterly payments to the bank made by the Volks after they took possession of the truck from Kendall in July of 1977. Kendall, when it became evident that he could not make a profit by use of the truck, stated that he also offered to sell the truck on consignment for the Volks. Kendall testified that they refused the offer. Volk testified that there was no such understanding. As noted, Kendall also testified that Volk had told him to keep the truck until they could get another buyer. Volk denied any such agreement or that he intended to rescind.
+It is also apparent from the record that Volk did not make any statement to Kendall, at the time the truck was picked up by the Volks, which in any manner indicated that the taking of the truck was conditional and that Kendall would be held responsible for any balance. Nothing of this kind was shown by the record, and the actual disposition of the truck at the amount of the sale price was determined exclusively by the Volks and on their own responsibility.
+We believe that the resolution of the issue of rescission is dispositive of this case and obviates any need to reach the other question raised. It is clear that a contract may be cancelled or rescinded by operation of law or by agreement of the parties, either express or implied. (Julius Levin Co. v. Rosenfield (1st Dist. 1923), 230 Ill. App. 126, 138.) As stated in the Levinn case:
+“Just as contracts may be implied from the conduct of the parties, so may a rescission of contracts be implied therefrom. Words amount to very little where actions are conclusive.” (230 Ill. App. 126, 138.)
+In the instant case, while the parties’ express statements as to agreement to cancel or rescind are contradictory, there is complete uncontradicted evidence as to the conduct of the parties which is basic in determining the issue of rescission. The evidence established that Kendall actually offered the truck to the Volks in July 1977. The truck, it is noted, was the full consideration to be received by Kendall from the Volks in the agreement between the parties. It is clear, also, that the Volks did accept and take possession of the truck, without expressing any conditions, in July of 1977. Thereafter, the Volks made payments on the bank loan and they sold the truck on their own responsibility and without consulting Kendall. We conclude that the actions of the Volks, in accepting the tendered return of the consideration (namely, the truck); in proceeding to make the loan payments; and in disposing of the truck on their own responsibility, are uncontradicted evidence of an effective agreement to rescind the contract of sale to Kendall. (Julius Levin Co. v. Rosenfield (1st Dist. 1923), 230 Ill. App. 126.) This is clearly the equitable result mandated by the conduct of the parties.
+On the evidence in the record, therefore, we conclude that the trial court erred in failing to enter judgment for defendant Ronald Kendall on his affirmative defense of rescission, effectively made by the conduct of the parties in this cause.
+For the reasons stated, therefore, the judgment of the Circuit Court of Tazewell County is reversed.
+Reversed.
+STOUDER, P. J., and SCOTT, J., concur.
