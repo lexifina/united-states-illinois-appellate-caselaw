@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "61582"
+decided: "1975-09-12"
+citations: ["32 Ill. App. 3d 269"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Raynie Jackson, a/k/a Gregory Peary, Relator-Appellant, v. Winston Moore, Warden, Cook County Jail, Respondent-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/32/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2795851
+cites_cases: ["173 N.E. 8", "221 N.E.2d 279", "221 N.E.2d 685", "232 N.E.2d 721", "253 N.E.2d 378", "265 N.E.2d 164", "33 Ill.2d 453", "340 Ill. 464", "35 Ill.2d 589", "38 Ill.2d 552", "386 U.S. 738", "44 Ill.2d 31", "47 Ill.2d 261", "72 A.L.R. 798"]
+---
+
+# People ex rel. Jackson v. Moore
+
+## Majority (PER CURIAM)
+
+PER CURIAM
+(Before Drucker, Lorenz, and Sullivan, JJ.):
+Relator, Raynie Jackson (hereinafter referred to as defendant), appeals from the dismissal of his petition for a writ of habeas corpus. He was originally charged in two separate indictments with the crimes of armed robbery and aggravated battery. On July 11, 1974, defendant failed to attend a scheduled court appearance, and a bond forfeiture was entered as to each indictment. An arrest warrant issued and defendant was taken into custody. He moved to vacate the bond forfeitures which, after a hearing, were upheld.
+On October 10, 1974, defendant filed pro se a petition for a writ of habeas corpus challenging the bond forfeitures. He alleged that on July 11, 1974, the date of his scheduled court appearance, he was in the custody of the Chicago Police Department and thus unable to attend. On October 24, 1974, upon motion of the respondent, defendant’s petition was dismissed, and he brought this appeal.
+The public defender of Cook County was appointed to represent defendant for purposes of this appeal. After examining the record, counsel has filed a motion in this court for leave to withdraw. Pursuant to the requirements set forth in Anders v. California, 386 U.S. 738, a brief in support of the motion has also been filed in which counsel states that after an examination of the record, she believes an appeal would be wholly frivolous and without merit. Copies of the motion and brief were mailed to defendant, and he was informed of his right to file any additional points he might choose in support of his appeal. He has responded.
+From our examination of the record and supplemental transcripts, it appears that hearings were held on defendant’s motion to vacate the bond forfeitures entered against him on July 11, 1974. At one of the hearings Katherine Davis, defendant’s aunt, testified that on July 10, 1974, he borrowed her car to go for a job interview at O’Hare Airport. Ms. Davis testified that in the early morning hours of July 11, 1974, she went to the Austin District Police Station after having been informed that defendant was being held. There she had a conversation with the desk sergeant, who informed her that defendant was in custody but that she could not see him. The officer gave Ms. Davis the keys to her car, and she left.
+During the course of the hearings, it was stipulated by defense counsel that if Chicago Police Officer Kandl were called he would testify that he and his partner, Officer Sporlar, arrested defendant on July 12, 1974, at approximately 4:30 a.m., after his identification by a taxicab driver as the person who had tried to rob him. At the hearing, defense counsel stated that he had conversations with “an investigator from Area 5 Robbery”; “with Area 5 Burglary”; and “with the keeper of the lockup of the Austin District Police Station,” all of whom stated there were no records indicating that defendant was in custody on July 10 or on July 11. A police report showed the date of arrest as July 12.
+At the conclusion of the final hearing, the trial court denied defendant’s motion to vacate the bond forfeitures of July 11, 1974.
+From our review of the transcripts of tire hearing on defendant’s motion to vacate, we conclude that the evidence adduced fails to support defendant’s position. The issue presented at the hearing was one of fact; i.e., was defendant in jail on the 11th, as he contends, or on the 12th, as indicated by the police report and the officer’s stipulated testimony? The trial judge chose to believe the State’s version of what had occurred over that of defendant, and we see no abuse of its discretion in its determination.
+In any event, the rule is well established that habeas corpus is available only where a defendant is in custody and seeks to challenge his incarceration, on a contention that he is being held pursuant to a void order issued by a trial court which lacked jurisdiction or that something has happened since defendant’s incarceration which would entitle him to relief. (People ex rel. Jefferson v. Brantley, 44 Ill.2d 31, 253 N.E.2d 378.) It is not ayailable to attack alleged errors of a nonjurisdictional nature, even if they involve a denial of constitutional rights. (People ex rel. Skinner v. Randolph, 35 Ill.2d 589, 221 N.E.2d 279; People ex rel. Rose v. Randolph, 33 Ill.2d 453, 221 N.E.2d 685.) While it is true that an exception has been made wherein one may challenge by means of habeas corpus an order denying bail or setting bail in an amount claimed to be unreasonable (People v. Harris, 38 Ill.2d 552, 555, 232 N.E.2d 721; People ex rel. Sammons v. Snow, 340 Ill. 464, 173 N.E. 8, 72 A.L.R. 798.) This petition, however, does not present such an issue.
+In the case at bar, defendant’s only argument is that at the time the bond forfeitures were entered, he was incarcerated and his failure to appear was therefore justified. This contention does not challenge his present incarceration much less question the jurisdiction of the trial court or relate to matters occurring since his detention which would entitle him to relief. Accordingly, we conclude that the trial court properly dismissed defendant’s petition for a writ of habeas corpus. See People ex rel. St. George v. Woods, 47 Ill.2d 261, 265 N.E.2d 164.
+Defendant, after having been mailed a copy of the Anders motion and brief, responded by asking for an extension of 25 days after the transcripts of the hearing on his motion to vacate were filed within which to file an additional brief in this court. In view of our conclusion that defendant’s argument cannot be properly maintained in habeas corpus proceedings and that the transcripts of the motion to vacate do not support defendant’s present position, Ms motion for an extension of time is demed.
+In light of the foregoing, we find that an appeal of tMs cause would be utterly without merit. Accordingly, the motion of the public defender to withdraw as counsel on appeal is allowed, and the judgment of the Circuit Court of Cook County is affirmed.
+Motion allowed.
+Judgment affirmed.
