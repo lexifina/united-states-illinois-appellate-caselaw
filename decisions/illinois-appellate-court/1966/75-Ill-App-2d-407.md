@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,472"
+decided: "1966-10-07"
+citations: ["75 Ill. App. 2d 407"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jessie Mae Johnson, by Rosetta Pittman, Conservator to Collect, Plaintiff-Appellant, v. D. J. Thomas, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/75/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2578330
+cites_cases: ["212 NE2d 329", "63 Ill App2d 456"]
+---
+
+# Johnson v. Thomas
+
+## Majority (MR. JUSTICE McCORMICK)
+
+MR. JUSTICE McCORMICK
+delivered the opinion of the court.
+Plaintiff filed a complaint November 2, 1962, alleging that on February 2, 1962, she had been bitten by a rat at the premises she occupied under an oral tenancy by the month from the defendant. She alleged that the defendant failed to eradicate vermin from the premises and keep the premises in repair, resulting in alleged damages. The defendant filed an answer on December 7, 1962, admitting that the plaintiff was residing in the premises on a verbal month-to-month lease at the time of the alleged occurrence, and denying all the other allegations of the complaint. On December 17, 1962, the defendant filed interrogatories which were answered by the plaintiff on February 13,1963.
+On June 24, 1964, on the motion of defendant, an order was entered in the trial court reciting that notice had been served on the plaintiff and that the plaintiff be “given 60 days within which to present herself to Defendant’s Attorney — at a time to be agreed upon — and give her discovery deposition testimony.” On October 13, 1964 [apparently on motion of defendant, although the notice which appears in the record bears no signature, nor is there any indication that the notice was ever served on the plaintiff, or that there was at any time an agreement between the plaintiff and defendant of a time at which the deposition should be taken], the trial court entered an order that “if Plaintiff does not appear and give her deposition testimony within 60 days hereof, that Pf’s suit be, and the same will thereby, dismissed automatically without further notice.” On December 16, 1964, the trial court entered the following order:
+“The above cause being heard pursuant to Order of Court dated October 13, 1964, and it being represented to the Court that said order relating to certain discovery has not been complied with;
+“It is hereby ordered that plaintiff’s complaint be, and is hereby, dismissed, that Plaintiff take nothing by her suit, that the defendant shall go hence without day and that judgment be, and is hereby, entered in favor of the defendant and he shall have execution for his costs.”
+The appeal which is now before this court was taken from that order by the filing of a notice of appeal on February 15, 1965. The order appealed from was a final, appealable order.
+Before us the plaintiff urges that the orders of the trial court entered on June 24 and October 13, 1964, were not in compliance with the rule of the Supreme Court [Supreme Court Rule 19-6, Ill Rev Stats 1961 and 1963, c 110, § 101.19-6(1)] which provides:
+“A party desiring to take the deposition of any person upon oral examination shall serve notice in writing a reasonable time in advance on the other parties. The notice shall state the name or descriptive title of the officer before whom the deposition is to be taken, the time and place for taking the deposition, the name and address of each person to be examined, if known, or, if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs, and whether the deposition is for purposes of discovery or for use in evidence. . . .”
+As we have pointed out, the order of June 24, 1964, merely provided that the plaintiff was given 60 days to present herself to defendant’s attorney, at some time to be agreed on, and have her deposition taken. There is no indication that there was any time agreed on, nor is there anything further in the record with reference to that particular order. The order of October 13, even if we would consider it a proper order in spite of the omissions in the notice, provided that the plaintiff must appear and give her deposition within 60 days. There is no indication of the person before whom the deposition should be taken, nor the time; therefore, it can be said that the orders are lacking in the specificity necessary as a predicate for the imposition of sanctions for failure of compliance. In his brief the defendant has cited Supreme Court Rule 19-12(3) [Ill Rev Stats 1961 and 1963, c 110, §101.19-12(3)], which states that on failure to comply with the rules with reference to depositions, the court may dismiss the complaint; and has cited a number of cases supporting that rule, none of which can be considered applicable because of the form of the order entered in the trial court. The order was erroneous.
+On February 10, 1965 [five days prior to the filing of the notice of appeal], Rosetta Pittman, conservator to collect, filed a petition stating that the plaintiff was insane and incompetent; that she had been committed as an insane person to the Manteno State Hospital on November 23, 1963, and had resided at that hospital ever since. The petitioner also recited her appointment as conservator to collect, and prayed that the orders entered by the court on October 13 and December 16, 1964, be vacated, and that the petitioner be given leave to file an amended complaint as conservator to collect.
+The petition must be interpreted as a petition brought under section 72 of the Civil Practice Act [Ill Rev Stats 1965, c 110, § 72], which provides that relief sought from final orders, judgments and decrees, after 30 days from entry thereof may be had on a petition, and that under such petition all relief which had been formerly obtainable under other writs and bills could now be obtained. Section 72 provides:
+“(2) The petition must be filed in the same proceeding in which the order, judgment or decree was entered but is not a continuation thereof.
+“(4) The filing of a petition under this section does not affect the order, judgment or decree, or suspend its operation.”
+Thus, the remedy afforded by section 72 is in addition to that available by appeal. The two routes do not conflict but may be considered parallel and both may be followed simultaneously. In re Estate of Schwarz, 63 Ill App2d 456, 460, 212 NE2d 329 at 331. Thus, neither the pendency nor the abandonment of a petition under section 72 would affect the appealability of the judgment in question. The petition in this case did not affect the judgment nor suspend its operation. The notice of appeal having been filed in apt time, only the judgment of December 16, 1964 is now before us. The petition and the issues it may have raised are not. After so holding, any other questions with reference to such petion will not be considered.
+The order of the trial court dismissing plaintiff’s cause of action and entering judgment in favor of the defendant was erroneous. The order and judgment are reversed, and the cause is remanded to the Circuit Court of Cook County for further proceedings not inconsistent with this opinion.
+Reversed and remanded.
+DRUCKER, P. J. and ENGLISH, J., concur.
