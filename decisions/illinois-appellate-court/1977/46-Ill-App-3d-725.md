@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "13906"
+decided: "1977-03-24"
+citations: ["46 Ill. App. 3d 725"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. GOVERNOR HUTCHISON, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/46/cases/0725-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2973264
+cites_cases: ["106 Ill. App. 2d 315", "109 Ill. App. 2d 107", "122 N.E. 155", "123 N.E. 543", "13 Ill. App. 3d 697", "149 N.E. 781", "17 Ill. App. 3d 300", "246 N.E.2d 142", "249 N.E.2d 866", "26 Ill. App. 3d 1051", "286 Ill. 627", "288 Ill. 442", "300 N.E.2d 323", "308 N.E.2d 52", "319 Ill. 124", "326 N.E.2d 213", "354 N.E.2d 897", "64 Ill. 2d 183"]
+---
+
+# People v. Hutchison
+
+## Majority (Mr. PRESIDING JUSTICE CRAVEN)
+
+Mr. PRESIDING JUSTICE CRAVEN
+delivered the opinion of the court:
+Defendant was convicted upon the verdict of a jury of illegal transportation of an alcoholic liquor in violation of section 11 — 502 of the Illinois Vehicle Code (Ill. Rev. Stat. 1975, ch. 95½, par. 11 — 502). He was found not guilty of driving while under the influence of alcohol. After his trial, defendant was sentenced to 6 months’ conditional discharge.
+The trial court refused defendant’s tendered jury instruction which listed knowledge as an element of the offense of illegal transportation. Defendant appeals both this refusal and his sentence. We reverse.
+Without reciting at length the evidence, it appears that defendant was involved in an accident in the city of Champaign. During the police investigation of the accident, a paper bag containing a half-empty bottle of whiskey was found on the transmission hump separating the driver and passenger seats. The bottle belonged to defendant’s passenger and defendant had no knowledge it was in the car.
+Most crimes require proof of some knowledge or intent on the part of the defendant to support a conviction. Section 4 — 9 of the Criminal Code of 1961 (Ill. Rev. Stat. 1975, ch. 38, par. 4 — 9) provides that in misdemeanor offenses where there is no possibility of imprisonment and no fine greater than *500 may be imposed no mental state need be proven. Such offenses create an absolute statutory liability. Motor vehicle regulations for the protection of the public safety are generally such offenses. See People v. Strode (1973), 13 Ill. App. 3d 697, 300 N.E.2d 323; People v. Sharp (1975), 26 Ill. App. 3d 1051, 326 N.E.2d 213, rev’d on other grounds, 64 Ill. 2d 183, 354 N.E.2d 897.
+In these cases, however, absolute liability was established for acts the very nature of which require some conceptualized requirement of knowledge of intent. One cannot, for instance, be arrested for driving without a valid driver’s license unless he is knowingly engaged in the act of driving. That is not the case here, as the operator of a motor vehicle, including the defendant here, can never know for certain the possessions of his passenger. To establish absolute liability for such transgressions would be tantamount to punishing a defendant for the sins of his neighbor — sins that he had no knowledge of nor reason to have knowledge of. In this light, “absolute liability” for this offense is contrary to the very basis of our criminal law which requires some knowing omission or commission. We therefore are of the opinion that it was error for the trial court here to refuse defendant’s tendered instruction requiring knowledge as an element of the offense and reverse defendant’s conviction and remand the case for a new trial.
+Reversed and remanded.
+REARDON, J., concurs.
+
+## Dissent (Mr. JUSTICE MILLS,)
+
+Mr. JUSTICE MILLS,
+dissenting:
+The somewhat offhand and cavalier dismissal of this issue by the majority is disturbing.
+But what is more important, I believe my'brothers are wrong.
+The majority recognizes the statutory absolute liability provisions of section 4 — 9 of the Criminal Code of 1961 and that motor vehicle regulations generally fall under its purview. But, they say, the charge at bar of illegal transportation of alcoholic liquor is distinguishable from such cases in that scienter, or “knowledge” of the presence of the intoxicant, is an essential element. Such distinction with controlling precedents and Illinois case law escapes me.
+In the exercise of police power for the protection of the public at large, the legislature may create offenses malum prohibitum — wrong only because they are prohibited, not because they are wrong in themselves or are inherently evil. And historically, motor vehicle violations in Illinois have long been considered in this category.
+The taproot case is People v. Fernow (1919), 286 Ill. 627, 122 N.E. 155. It was put to us this way:
+“At common law a crime consisted of an unlawful act with evil intent, and in crimes created by statute a specific intent may be required so that the intent and act may constitute the crime, and in such cases the intent must be alleged and proved. Where a specific intent is not an element of the crime it is not always necessary that a criminal intent should exist. In the exercise of the police power for the protection of the public the performance of a specific act may constitute the crime regardless of either knowledge or intent, both of which are immaterial on the question of guilt. For the effective protection of the public the burden is placed upon the individual of ascertaining at his peril whether his act is prohibited by criminal statute. The law in that regard has most frequently arisen in police regulations of the liquor traffic, but it has been applied in precisely the same way in other cases coming within the same rule and reason, such as a sale of imitation butter, a sale of milk below a prescribed quality, the obstruction of a public highway by a railroad corporation for longer than a specified time, the admission of a minor to a pool room, driving an unregistered automobile, killing for sale an animal under a designated age, carriage by an express company for transportation beyond the State line of fish or game, and in prosecutions for bigamy.” 286 Ill. 627, 630-31.
+And in People v. Johnson (1919), 288 Ill. 442, 445-46, 123 N.E. 543, the court summarized thusly:
+“The constitution does not require that scienter be a necessary element of any law where an offense is malum prohibitum. One may violate the law without any intent on his part to do so. [Citations.] Various statutes of this State punishing the doing of acts without requiring allegation or proof of criminal intent upon the part of the doer have been upheld on the ground that they were a valid exercise of the police power. * * * Laws can not be held invalid merely because some innocent person may possibly suffer. The principle of police regulation is, ‘the greatest good to the greatest number.’ ”
+Also see People v. Billardello (1925), 319 Ill. 124, 149 N.E. 781, and the extensive discussion in 22 C.J.S. Criminal Law 100-107 (1961).
+Professor Bowman’s thorough and comprehensive committee comments to section 4 — 9 of the Criminal Code of 1961 trace the legal history in this area, and with considerable clairity digests the pertinent pre-Code opinions. Several sections of the Illinois Vehicle Code, interpreted prior to the enactment of the Criminal Code in 1961, had been interpreted as “absolute liability” — malum prohibitum — offenses. Following 1961, these sections were consistently interpreted as not requiring any particular scienter (either intent or knowledge). People v. Strode (1973), 13 Ill. App. 3d 697, 300 N.E.2d 323; People v. Espenscheid (1969), 109 Ill. App. 2d 107, 249 N.E.2d 866; People v. Lawrence (1974), 17 Ill. App. 3d 300, 308 N.E.2d 52; People v. Manikas (1969), 106 Ill. App. 2d 315, 246 N.E.2d 142.
+To my view the charge of illegal transportation of liquor is essentially no different from the other Illinois Vehicle Code offenses heretofore found by Illinois courts to be malum prohibitum and where knowledge or intent are not required. The police power is the legislature’s and violates no constitutional injunction. The purpose is the public good, and therefore, laudible — “the greatest good to the greatest number,” as Johnson put it.
+The statute here — like all absolute liability, malum prohibitum offenses — casts a wide net. It drags in the “hotrodder” with five buddies, a couple of opened cold six-packs, a tank full of gas and time on their hands. It may also snare the unsuspecting and kind old gentleman who gives a lift from church to the little old lady with the flask of communion wine in her handbag. Well, the kind old gentleman is simply going to have to be more careful in choosing his passengers unless, indeed, he wishes to be punished for the “sins of his neighbors.” There are few of us, I wager, who have not had an uneasy moment or two somewhere along the pathway of life. But when you run with the pack and the shotgun is fired, a stray pellet now and then finds an innocent target — or, at least, one without scienter!
+As phrased in Fernow, “For the effective protection of the public the burden is placed upon the individual of ascertaining at his peril whether his act is prohibited by criminal statute.” (286 Ill. 627, 630.) Such is not, to my view, too high a price to pay for public safety and a legitimate legislative purpose.
+I would affirm.
