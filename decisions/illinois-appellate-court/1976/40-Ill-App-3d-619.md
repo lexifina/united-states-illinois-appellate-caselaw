@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+docket: "62408"
+decided: "1976-07-23"
+citations: ["40 Ill. App. 3d 619"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re KENNETH WILSON, a Minor.—(THE PEOPLE OF THE STATE OF ILLINOIS, Petitioner-Appellee, v. KENNETH WILSON, Respondent-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/40/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2970007
+cites_cases: ["132 Ill. App. 2d 326", "270 N.E.2d 272", "281 N.E.2d 454", "29 Ill. App. 3d 129", "329 N.E.2d 799", "350 N.E.2d 122", "38 Ill. App. 3d 1041", "4 Ill. App. 3d 567", "403 U.S. 528"]
+---
+
+# People v. Wilson
+
+## Majority (Mr. JUSTICE SULLIVAN)
+
+Mr. JUSTICE SULLIVAN
+delivered the opinion of the court:
+This is an appeal from an order of the Juvenile Division of the Circuit Court, committing respondent, a minor, to the Department of Corrections (D.O.C.). At issue are the questions of whether the court improperly considered respondent’s prior station adjustments in determining proper disposition and whether the court abused its discretion by allegedly failing to consider either the Unified Delinquency Intervention Service (UDIS) program or probation as an alternative to commitment.
+A delinquency petition, alleging the offense of burglary and seeking an adjudication of wardship was filed against respondent. Following an adjudicatory hearing, he was adjudged a ward of the court upon a finding of delinquency. A dispositional hearing was subsequently held, at which a probation officer reported to the court concerning a social investigation that he made of respondent:
+“Probation Officer: 0 0 0 His background, at this point, indicates the following station adjustments: On 10-21-71, burglary; 11-24-71, burglary; on 12-5-71, theft; on 12-16-
+The Court: These are station adjustments.
+Probation Officer: Yes.
+The Court: So it isn’t fair to say I need these offenses.
+These matters were brought to the attention of the police and adjusted at the station.
+Probation Officer: (Continuing) 12-16-71, adjusted for theft; 9-21-73, he was adjusted for another theft.
+The youth has the following court referrals: 8-24-72, theft; at that time, he was placed on supervision; 3-1-73, he was placed on supervision for a period of six months; he was also referred to court on a burglary charge, that was 12-14-73, found delinquent and placed on probation for a period of six months. That probation was terminated satisfactorily.”
+The probation officer also stated that respondent was not attending school and was living with his mother and eight other siblings; that his mother stated respondent “did pretty much as he pleased on the street”; and that respondent showed no initiative of any type.
+Respondent’s attorney then suggested probation as a proper disposition, but the State’s attorney argued against supervision, probation, or the UDIS program inasmuch as respondent had indicated no change of attitude after having been previously given probation and supervision. Thereupon, the court committed respondent to D.O.C.
+Opinion
+Respondent first contends that the court erred in considering his station adjustments in its deliberation regarding his commitment. However, we note the following language of section 5 — 1(1) of the Juvenile Court Act (Ill. Rev. Stat. 1973, ch. 37, par. 705 — 1):
+“After adjudging the minor a ward of the court, the court shall hear evidence on the question of the proper disposition best serving the interests of the minor and the public. AU evidence helpful in determining this question, including oral and written reports, may be admitted and may be relied upon to the extent of its probative value, even though not competent for the purposes of the adjudicatory hearing.” (Emphasis added.)
+We believe the underlined language of the statute is broad enough to encompass the admission of station adjustments in dispositional hearings. This same result was most recently obtained in the case of In re Sneed, 38 Ill. App. 3d 1041, 350 N.E.2d 122, where the court held that “respondent’s prior station adjustments and curfew violations were relevant to enable the trial court to determine the proper disposition.” See also In re Seibert, 29 Ill. App. 3d 129, 329 N.E.2d 799.
+Nonetheless, respondent asserts that station adjustments are merely contacts with the police which may in fact be completely groundless. It was argued orally that they should have no “probative value” under the provisions of the Juvenile Court Act unless evidence is presented by the State showing that they had some relevance to a disposition “best serving the interests of the minor and the public,” as provided by the Act. Because no such evidence was offered, it is the position of respondent that the station adjustments were lacking in probative value and thus they should not have been considered by the court. We disagree, for the following reasons: (1) As stated in In re Sneed, station adjustments are properly considered in a dispositional hearing; (2) no objection was made to them at the hearing in question; (3) after they were presented by the State, no evidence was introduced by respondent that the adjustments were in fact groundless or that they were in any manner lacking in probative value; and (4) the adjustments were probative on the question of the best interest of the minor and the public as they concerned offenses similar to that for which he was found delinquent.
+Neither do we believe that the remoteness in time of the station adjustments proscribed their consideration. While a court might find that some station adjustments, depending upon their particular circumstances, could be too remote in time to be considered at a dispositional hearing, we believe that the important determination at such a hearing is whether the juvenile had adjusted to required social standards. In this regard, it should be noted here that the petition alleged that either burglary or theft was involved in all four of the station adjustments. Thus, it appears clear to us that the trial court properly determined here that remoteness should not deter their consideration in determining the minor’s adjustment to social standards.
+Respondent’s additional contention that “station adjustments should not be allowed for the same reasons that mere arrests are not permitted at an adult sentencing hearing on aggravation and mitigation” is also without merit. Disposition hearings for minors are not comparable to sentencing hearings for adults. (In re Seibert; see also, In re Blakes, 4 Ill. App. 3d 567, 281 N.E.2d 454.) As stated in McKeiver v. State, 403 U.S. 528, 551, 29 L. Ed. 2d 647, 664, 91 S. Ct. 1976:
+“If the formalities of the criminal adjudicative process are to be superimposed upon the juvenile cotut system, there is little need for its separate existence. Perhaps that ultimate disillusionment will come one day, but for the moment we are disinclined to give impetus to it.”
+In respondent’s final contention, he asserts the court erred in failing to use either the UDIS program or probation as an alternative to commitment. In effect, he is urging that plaintiff should not have been removed from his family, as this is the basic difference between those alternatives. He argues that he meets the three specific criteria necessary for UDIS consideration; namely, that (1) he had at least four recorded police contacts, including two delinquency petitions filed in the juvenile court; (2) that he has been adjudicated a delinquent; and (3) the corut would otherwise commit him to D.O.C. He then points out that section 1 — 2(1) of the Act (Ill. Rev. Stat. 1973, ch. 37, par. 701 — 2(1)) provides in substance that a minor should only be removed from the custody of his family “when his welfare or safety or the protection of the public cannot be adequately safeguarded without removal.”
+Both probation and the UDIS program were suggested to the court, and we find no provision in the Act requiring a dispositional alternative other than commitment. To the contrary, section 5 — 2 of the Act (Ill. Rev. Stat. 1973, ch. 37, par. 705 — 2) provides the types of dispositional orders that may be entered, and it does not defer one to another. Furthermore, the Act gives the court a great deal of discretion regarding the conduct of a dispositional hearing. (People v. Perry, 132 Ill. App. 2d 326, 270 N.E.2d 272.) Here, considering that the respondent was involved in a number of burglary and theft offenses; that this was his third reference to the juvenile court; that if he were not committed, he would be living with his mother and eight other children; that it appears his mother has little control over his conduct away from home, in view of her statement that he “does pretty much as he pleases on the street”; that he indicated no initiative; and that his attitude had not changed throughout the years, we cannot say that the court abused its discretion in ordering commitment.
+In the light of the foregoing, we affirm the judgment of the trial court.
+Affirmed.
+LORENZ, P. J., and DRUCKER, J., concur.
+Station adjustments are contacts with the police which do not result in any further legal action.
