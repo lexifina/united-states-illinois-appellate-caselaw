@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-01-06"
+citations: ["73 Ill. App. 115"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles E. Pain, Assignee, v. William C. Kinney, Julianna Chambers and Patrick Chambers."]
+source_url: "https://static.case.law/ill-app/73/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5237975
+cites_cases: ["100 Ill. 519", "109 Ill. 219", "117 Ill. 137", "117 Ill. 558", "135 Ill. 479", "153 Ill. 9", "156 Ill. 352", "166 Ill. 451", "168 Ill. 329", "18 Ill. App. 484", "3 Ill. App. 237", "4 Scam. 326", "44 Ill. App. 232", "47 Ill. App. 574", "55 Ill. 427", "70 Ill. 249"]
+---
+
+# Pain v. Kinney
+
+## Majority (Mr. Justice Windes)
+
+Mr. Justice Windes
+delivered the opinion of the Court.
+Appellees moved to dismiss this appeal for the reason, as contended, it is not from a final order.
+The bill was by appellant, asking the specific performance of a contract between certain contractors (including Parson & Libbey Company, for which appellant is assignee) for material and labor for the construction of a building on certain lots in Hyde Park, owned by appellee Julianna Chambers, by which said contractors agreed to go on and furnish materials and labor in accordance with their several contracts with the owners of a leasehold on said lots, and to receive in payment thereon a note or notes due on or before two years, in the sums set opposite their names respectively. The contract also provided that the notes should bear interest at 6 per cent, and should be secured by first mortgage or trust deed on the fee simple title to said lots placed on record, and should be put in escrow before material was furnished.
+The bill also asked that a note or notes aggregating $3,000 of the notes secured by said trust deed, being the amount set opposite the name of Parson & Lib-bey Company on said contract, be delivered up to appellant, and also for general relief. The bill alleged that one Brady had a lease for ninety-nine years of said lots, with whom and one Skinner, Parson & Libbey Company had made their original contract to furnish labor and materials for said'building; that pursuant to the contract with Julianna Chambers, Brady made thirty-one promissory notes, aggregating $20,000, andJulianna Chambers and Patrick Chambers, her husband, made and executed a trust deed conveying said lots to appellee Kinney to secure said notes, which trust deed was recorded; that the notes, trust deed and contract were delivered to Kinney to hold in escrow according to the terms of the contract, and are now held by him, and that no note or notes aggregating the sum of $3,000 have been set apart for the use of Farson & Libbey Company; that Farson & Libbey Company performed their contract with said Julianna, but that Kinney, on demand by Farson & Libbey Company refused to deliver to it a note or notes aggregating $3,000 of said notes made by Brady and secured by the trust deed, and that he acted with the consent and advice of said Julianna in such refusal.
+After issues made, the cause was referred to a master to take proof and report his opinion on the law and evidence. On the coming in of the master’s report, after he had taken evidence, there was a hearing before the chancellor, who entered an order or decree dismissing the bill as to Julianna and Patrick Chambers, and re-referring the cause to the master to take testimony on behalf of Kinney, and reporto the same, - together with the testimony theretofore taken, with his conclusions on all said testimony. From this order or decree appellant appealed.
+As above shown, the bill alleges that Julianna Chambers has done all she agreed to do by her contract, and it does hot allege that Patrick Chambers agreed or was to do anything. This accords with the evidence and the conclusions of the master. When these facts appeared to the court, on a hearing of the master’s report, the court did right in dismissing the bill as to the appellees, the Chambers. The order was not final—did not dispose of the case as to Kinney— and therefore was not appealable. Thompson v. Follansbee, 55 Ill. 427.
+In this case, which is similar in principal to the one at bar, the court said: “If the bill is dismissed as to one orjnore parties, the complainant can not prosecute a writ of error until there- has been a final disposition of the case as to all parties. The cause can not be reviewed as to one party at one time and as to another party at another time.” See, also, Bucklen v. City of Chicago, 166 Ill. 451.
+The case at bar does not fall within the exception to the rule stated in Crouch v. First Nat. Bank, 47 Ill. App. 574, and approved 156 Ill. 352, of great hardship, if not a denial of justice to appellant if he is entitled to relief upon the merits. The Crouch case presented facts showing that no decree appellant might obtain against the remaining defendants would be of any value! to him without the. decree also ran against the appelleeas to whom the suit was dismissed. Not so in the ease at bar. Here appellant has not alleged nor shown himself entitled to any relief as against the appellees as to whom the bill is dismissed, and the cause is retained for ■ further evidence and a hearing as to the other appellee, on which appellant may establish his rights, and if dissatisfied with a decree, bring the whole case to this court for review. The appeal is therefore dismissed.
