@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,054"
+decided: "1961-04-04"
+citations: ["30 Ill. App. 2d 185"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURKE, P. J., and FRIEND, J. concur."]
+parties: ["Harry Freeman and Kernal Freeman, Plaintiffs-Appellees, v. Erwin Freyer and Elizabeth Martha Freyer, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/30/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5789219
+cites_cases: ["108 Ill. App. 41", "2 N.E.2d 143", "214 Ill. App. 295", "285 Ill. App. 450"]
+---
+
+# Freeman v. Freyer
+
+## Majority (MR. JUSTICE BRYANT)
+
+MR. JUSTICE BRYANT
+delivered the opinion of the court.
+The plaintiffs filed an action in equity to obtain an accounting from the defendants for their share of the profits obtained by the defendants on the sale to others of 85 lots on which the plaintiffs held an option to purchase. They also prayed for an injunction to restrain the defendants from negotiating their promissory note and sought the return of their $5000 security. The cause was referred to a Master for a hearing and to report his conclusions of law and fact. The Master found for the plaintiffs and the Chancellor adopted the findings and decreed the relief requested.
+The primary issue on this appeal is whether the plaintiffs’ amended complaint, as amended, stated a cause of action in equity. The defendants properly raised the objection to the court’s chancery jurisdiction and appeal from the order overruling the defendants’ motion to dismiss, the order overruling the defendants’ exceptions to the Master’s report and the decree.
+The facts as found by the Master are that the plaintiffs obtained an option to purchase 115 lots from the defendants at $600.00 per lot. The initial agreement for the sale of 20 lots and the option to purchase 115 lots was made by the defendants with the Garland Construction Company on May 10, 1950; this agreement was assigned to the plaintiffs on the same day. The plaintiffs purchased the 20 lots and exercised their option to purchase on 30 of the 115 lots. On July 27, 1951, the agreement was modified as to the remaining 85 lots under option. This modification agreement provided that the plaintiffs would purchase the 85 remaining lots at stated intervals and that they would deposit $5000 in cash and a promissory note of $2500 which would be applied to the purchase price of the lots last purchased; however, if the plaintiffs failed to meet their obligations, the $7500 would serve as liquidated damages. The new time requirements of this modification agreement of July 1951 were that the option would remain in effect as long as the plaintiffs purchased a minimum of 26 lots by January 15, 1952, 26 lots by July 15, 1952, 26 lots by January 15, 1953 and the balance of the lots by July 15,1953.
+In December 1951, the plaintiffs were informed by the defendant Erwin Freyer that the Best Built Co. was interested in purchasing the lots in this subdivision and was willing to pay a price in excess of $600.00 per lot. Although the evidence is conflicting on this point, the Master was justified in finding that the defendants made an agreement with the plaintiffs that in the event they could sell the lots under option to Best Built Co., they would divide equally the excess of $600.00 on each lot so sold and return the security deposit of $7500. The defendants further agreed to waive the time requirements and to notify the plaintiffs of a new time limit in the event that they couldn’t make an agreement with the Best Built Co.
+The defendants later sold some of the lots to the Best Built Co. and told the plaintiffs that they weren’t going to get any of the proceeds of the sale nor would they convey any of the remaining lots under option to them. The Master determined that this was an anticipatory breach of the agreement. He recommended that the defendants be restrained from negotiating the note and that they be ordered to return the $5000 deposit and pay damages for the breach of contract and that the cause be re-referred for the purpose of submitting additional evidence in regard to the damages. The Chancellor granted the relief recommended by the Master and prayed for in the complaint.
+The defendants’ principal contention on appeal seems to be that since the complaint failed to employ certain labels in the allegations of the pleadings, equity did not have jurisdiction. However, it is clear from the defendants’ own statements in their brief that the jurisdiction in equity is determined from the allegations of fact contained in the complaint.
+The complaint alleges that the defendants sold the 85 lots to various persons and at various prices and demand an accounting from the defendants for their share of the profits made on these transactions. We are of the opinion that these allegations, standing alone, clearly satisfy the jurisdictional requirements and that it was within the Chancellor’s discretion to grant the relief requested.® The testimony of the defendant Erwin Freyer disclosed that approximately 60 of the lots were sold to the Best Built Co. on contracts and that the face value of the paper was in the neighborhood of $50,000.00 and that they were still collecting on these contracts with three or four years to go. He also revealed that some of these lots were sold to Smykal, some to other individuals and that the defendants still possessed some of the lots. All the information on the state of the account was in the possession of the defendants.
+The plaintiffs also pray for an injunction to restrain the defendants from transferring, assigning or negotiating the note and that the defendants be ordered to deliver up the note for cancellation and voidance. This is a request for purely equitable relief. It is supported by the appropriate allegations of fact in the complaint and is the principal ground on which the Master based his finding that the court had equity jurisdiction.
+It would seem that the principle enunciated by the court in Nott v. Heitman Trust Co., 285 Ill. App. 450, 2 N.E.2d 143, is applicable in the case at bar. In that case, the court said: “The existence of a remedy at law does not deprive equity of jurisdiction unless such remedy be adequate. That is, it must be clear, complete and as practical and efficient to the ends of justice and its prompt administration as the remedy in equity. McGinnis v. First Nat. Bank, 214 Ill. App. 295.”
+The remedy at law was not adequate under the circumstances in this case as the remedy was not as clear, complete, practical and efficient to the ends of justice and its prompt administration as the remedy in equity. The lower court determined that the pleadings sufficiently stated a cause of action in equity and there is no basis for saying that this amounted to an abuse of discretion.
+As the court said in Forster, Waterbury & Co. v. Webster Manufacturing Co., 108 Ill. App. 41, 46, in referring to cases of accounts,
+“. . . no precise rule can be laid down as to cases in which a court of equity will exercise its jurisdiction. A court reserves to itself a large discretion upon the subject and will refuse or reject the cognizance of cases of account as the circumstances of the particular case may render expedient.”
+The decree is affirmed.
+Decree is affirmed.
+BURKE, P. J., and FRIEND, J. concur.
