@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+docket: "12436"
+decided: "1974-07-17"
+citations: ["20 Ill. App. 3d 389"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald Conner et al., Plaintiffs-Appellants and Third-Party Defendants-Appellants, v. The City of Danville, Defendant-Appellee and Third-Party Plaintiff-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/20/cases/0389-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5346768
+cites_cases: ["11 Ill.App.3d 952", "12 Ill.2d 40", "145 N.E.2d 65", "298 N.E.2d 270"]
+---
+
+# Conner v. City of Danville
+
+## Majority (Mr. JUSTICE SIMKINS)
+
+Mr. JUSTICE SIMKINS
+delivered the opinion of the court:
+The appellants, Donald Conner and Louise Conner, own a 2%-acre tract of land located within one-third of a mile of the corporate limits of the City of Danville. They have maintained a mobile home on this property since 1971. After purchasing the property, but prior to placing their mobile home thereon, the city adopted an ordinance extending its zoning authority to include all lands located within 1% miles of its corporate boundaries. The validity of this ordinance is not questioned. Also, after the Conners purchased the premises in question, but prior to the placement of their mobile home thereon, the city enacted its “Trailers and Trailer Parks” ordinance. This ordinance required mobile homes to be located within the boundaries of areas zoned for that purpose. The Conners’ property is situated in an R-l District which is designated by ordinance as “Single Family Residential, Low Density.” In the R-l District only single-family dwellings may be erected. The ordinance defines a dwelling as any building which is designed and used exclusively for residential purposes, and specifically excludes house trailers from the definition. Other permitted uses are the erection of schools, police and fire stations, parks and farming operations.
+The Conners filed a complaint for declaratory judgment seeking injunctive relief and a decree declaring the “Trailers and Trailer Parks” ordinance to be null and void. The city answered and moved for summary judgment. On April 16, 1973, the trial judge granted the city’s motion and upheld the validity of the ordinance. Appellants concede the correctness of that judgment.
+After the Conners’ complaint for declaratory judgment was filed, the city filed a cross-complaint alleging that the Conners were maintaining a mobile home in an R-l district, that the “Trailers and Trailer Parks” ordinance was also in full force and effect, that the premises owned by the Conners was within IV2 miles of the corporate limits of the city and under the ordinance extending tire city’s zoning authority to that area. The city sought an order directing removal of the mobile home. The Conners’ answer admitted these allegations, and it also raised two affirmative defenses. The first of which again attacked the validity of tire “Trailer and Trailer Parks” ordinance as a whole. The validity of tire statute having been upheld by the order entered in the declaratory judgment action on April 16, 1973, and the defendants having conceded the correctness of that order the first affirmative defense is barred by res judicata and by appellants’ concession made during oral argument. The second affirmative defense alleged that the R-l ordinance, as applied to the Conners’ property, was unreasonable because surrounding property is not, in fact, used for any purposes permitted in the R-l zoning classification. The Conners supported this contention. In response to tile city’s motion for summary judgment the Conners filed an affidavit which stated that: within a radius of 1 mile from the premises in question there are four mobile homes, that the area in which the Conners’ mobile home is located is primarly agricultural, that there are approximately 6 houses located within a radius of % mile from the location of the Conners’ mobile home. The city filed no counter-affidavit. Thus no issue of fact was created by the pleadings and no issue of fact was created by the affidavit. In the absence of material issues of fact, the statutory purpose is to render expeditious judgment on the questions of law involved. (Washington v. Draper & Kramer, Inc., 11 Ill.App.3d 952, 298 N.E.2d 270.) Neither the answer to the cross-complaint nor the affidavit establish that the application of the R-l ordinance to plaintiffs’ property was unreasonable or capricious. Farming is a permissible activity within the R-l zone, the six residences referred to in the affidavit are permissible within the ordinance. As to the four trailers there is no allegation that they are within the R-l zone, that they are not non-conforming uses or, indeed that they are not within an area zoned under the Trailers and Trailer Parks section of the ordinance. The ordinance in question is presumed to be valid. (LaSalle National Bank v. County of Cook, 12 Ill.2d 40, 145 N.E.2d 65.) The uncontradicted facts contained in appellant’s answer and affidavit fall far short of establishing that the ordinance is unreasonable as applied to the property in question. Accordingly the judgment is affirmed.
+Judgment affirmed.
+TRAPP, P. J., and CLYDESDALE, J., concur.
