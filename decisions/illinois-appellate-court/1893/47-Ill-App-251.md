@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-03-03"
+citations: ["47 Ill. App. 251"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Supreme Sitting of the Order of the Iron Hall v. Marquis D. Moore."]
+source_url: "https://static.case.law/ill-app/47/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2438050
+---
+
+# Supreme Sitting of Order of the Iron Hall v. Moore
+
+## Majority (Mr. Justice Phillips.)
+
+Mr. Justice Phillips.
+Plaintiff in error is a body corporate, organized under the law of the State of Indiana, for the purpose, among other things, to provide for the payment to the members, benefits not exceeding $1,000, under certain conditions. It has power to organize subordinate and local lodges, and in March,. 1882, local branch No. 99 was formed at Nameoki, in the county of Madison and State of Illinois, of which branch defendant in error was a member, and on March 21, 1882, a relief fund certificate was issued to him which provided that in case he should pay all assessments made against him on that certificate for the term of seven years and maintain himself in good standing in the order, then he should be entitled to a sum not exceeding $1,000, less any benefits paid him on account of sickness, and defendant in error brought suit on that certificate. And, as appears from the evidence in this record, he complied with all that was required of him so far as he was permitted by plaintiff in error. On November 24,1888, about three months before this certificate matured, the supreme justice of the order, without any previous notice to the local branch of which defendant in error was a member, declared that local branch i to have forfeited its charter and all benefits to its members within the order, because of alleged non-compliance with demands from the chief officers, and so far as appears from this evidence, there was no authority in the constitution or by-laws of the order authorizing such declaration of forfeiture without notice.
+Defendant filed a plea in abatement to the return of the writ and issue joined thereon and trial had before the court, and the court found the issue for the plaintiff, on defendant’s plea in abatement. The first error assigned is: “ The court erred in finding the issue for plaintiff on defendant’s plea in abatement to the service of the writ. The evidence on which the court found on that issue is not preserved in the record; nor does it appear that any exception was taken to the finding or judgment of the court. Plaintiff thereupon filed a plea of the general issue, and a special plea setting up the facts of the forfeiture of the charter of the subordinate lodge of which defendant in error was a member, and avers that by reason of such forfeiture, the said order was released from all demands and causes of action which the plaintiff then had against it. To this plea a demurrer was interposed and sustained. And the second error assigned is: The court erred in sustaining plaintiff’s demurrer to defendant’s special plea. It appears from the constitution and bylaws of the order that no charter of any local board shall be forfeited until the local branch shall be notified and afforded a hearing.
+The plea to which demurrer was sustained, while averring that the charter had been forfeited, does not aver any fact with reference to notice that would give jurisdiction to the Supreme Sitting to declare a forfeiture, and hence the demurrer was properly sustained to the plea. On the issue made by the plea of general issue, a trial was had before the court without a jury and a finding and judgment was rendered for the plaintiff in the sum of $975, with costs. The other assignments of error are: Third: The court erred in admitting improper and illegal evidence for the plaintiff on the trial of said cause. Fourth: The court erred in pronouncing judgment in favor of plaintiff in the sum of $975, and costs of suit, or in any sum whatever. Fifth: The court erred in not finding the issue on the trial for defendant. Sixth: The court erred in overruling defendant’s motion for a new trial. We are precluded from a consideration of the last four errors assigned, as it appears from the bill of exceptions and judgment, both, that no exception was taken to overruling a motion for a new trial, and as the record fails to show such exception the question presented by these assignments is not before us.
+Judgment is affirmed.
