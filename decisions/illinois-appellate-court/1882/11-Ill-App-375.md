@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+decided: "1882-09-06"
+citations: ["11 Ill. App. 375"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peoria, Decatur & Evansville Railway Company v. Robert M. Miller."]
+source_url: "https://static.case.law/ill-app/11/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5779707
+cites_cases: ["16 Ill. 198", "17 Ill. 131", "29 Ill. 447", "30 Ill. 117", "36 Ill. 415", "38 Ill. 410", "43 Ill. 77", "47 Ill. 298", "57 Ill. 346", "57 Ill. 514", "57 Ill. 575", "58 Ill. 300", "58 Ill. 49", "71 Ill. 346", "71 Ill. 514", "72 Ill. 25", "72 Ill. 404", "73 Ill. 58", "75 Ill. 577", "84 Ill. 397", "92 Ill. 245"]
+---
+
+# Peoria, Decatur & Evansville Railway Co. v. Miller
+
+## Majority (Higbee, J.)
+
+Higbee, J.
+This suit was brought by appellee against appellant before a justice of the peace to recover the value of a cow, killed by a locomotive drawing a train of passenger cars on appellant’s road, on the crossing of the road with main street in the town of Sullivan.
+Appellee’s cow was breachy, and for that reason he tied her head to one of her hind feet with a rope, and in this helpless condition turned her out of his inclosure, within two or three blocks of the crossing where she was killed, to run at large on the streets and uninclosed lands in the town, in violation of an ordinance of said town, which prohibited breachy stock from running at large therein.
+The crossing was planked, twelve or fourteen feet wide, while the track used by wagons was six or eight feet wide. One of the planks had become loosened and displa ced, leaving a spike the thickness of the plank standing up at one end of the planking.
+When the noon train from the north was approaching the crossing, and about one thousand feet distant from it, the engine driver saw the cow about twenty-five feet from the trade approaching the crossing as if to cross over. He immediately sounded the alarm whistle (a succession of sharp quick blasts) and continued the same until within from three to five hundred feet of the crossing, when the cow got on the track, and he then discovered that she was hobbled, or tied with a rope, but did not notice that the rope was fast. He immediately applied the air-brakes but the wheels slipped, in consequence of the dampness of the track; then reversed the engine, but saw that lie could not stop in time to save the cow, and then put on steam to knock her off, thinking this course necessary to the safety of his passengers.
+The cow had got her rope fast on the spike at the end of the loose plank and was held on the track until struck by the locomotive and killed.
+It is contended by appellee that the engine driver in charge of the train that killed the cow was guilty of gross negligence in running his train at such a rate of speed as to be unable to stop it in time to avoid the accident.
+The train had stopped at the station in the town and after starting, had gone one hundred and ninety rods before reaching the crossing where the cow was killed. Whether it was thickly or sparsely settled at or near the place of the accident does not appear. A rate of speed that would be highly dangerous, or even reckless, in a populous city with numerous street crossings, might not be regarded as dangerous in leaving a town after reaching its sparsely settled suburbs.
+The train was running at the usual rate of speed at that place, and when within about one thousand feet of the crossing the cow was first seen twenty-five feet from, and approaching the track. The alarm whistle was immediately sounded and it was reasonable to suppose that the cow would either be frightened from the track or cross in time to avoid collision. Ho necessity for stopping the train was then apparent. When it was discovered that the cow was dragging a rope which had caught and was holding her on the track it was too late to stop the train in time to avoid the accident, although every reasonable effort was made to do so.
+Appellee also insists that the servants of appellant were guilty of gross negl igence in not keeping the crossing, where the accident occurred, in proper repair. The evidence fails to show that the loose plank was removed from its place, or that the crossing was unsafe or dangerous to cross in the usual mode.
+The statute requiring railroads to keep their crossings, and the approaches thereto, in such a condition at all times, as to be safe for persons and property passing over the same on the public highways and streets,- was intended to secure the safety of persons and property in the use of the highways and streets in the usual and ordinary course of travel. It was not enacted to protect parties against accidents like the one complained of.
+The mere fact that the spike, upon which the rope became entangled, was allowed to project above the wood, at the end of the loose board, did not necessarily render the crossing unsafe for persons or property in the usual and custoñnary use of the street at that place. But even if appellant’s servants were guilty of some degree of negligence in eithefr particular complained of, it would seem to be slight, compared with the negligence of appellee in turning his cow out on the common, with her head tied down to her bind foot, in violation of the ordinance of the town, in close, proximity to a railroad, not fenced, and where trains were frequently passing.
+Appellant also complains of the following instruction ' given for appellee: “ The court instructs the jury on behalf of the plaintiff that the negligence of the plaintiff, of which the defendant can avail in this suit, must be such contributory negligence that the natural and probable consequence of such a negligent act might have been foreseen by the plaintiff, and that such negligent act tended to produce the injury complained of, and its effect in preventing a recovery in this case must be determined by comparison with the negligence of the defendant; and if the jury believe from the evidence that the negligence of the plaintiff" was slight in comparison with the negligence of the defendant, the jury should find for the plaintiff.”
+This instruction authorized plaintiff below to recover if his negligence was slight in comparison with the negligence of defendant, without requiring the negligence of the defendant to be gross. This instruction was in direct violation of the well settled rule of comparative negligence in this State, which is that the negligence of the plaintiff must not only be slight, but that of the defendant must be gross, as compared therewith, to authorize a recovery. C. B. & Q. R. R. Co. v. Avery, 9 Bradwell, 133, and authorities there cited.
+In view of the evidence and the finding of the jury thereon it seems highly probable that this instruction .was not relieved of its vicious tendency by other, less objectionable instructions, given by the court.
+Judgment reversed and cause remanded.
+Reversed.
