@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+decided: "1895-01-28"
+citations: ["57 Ill. App. 365"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago, Burlington & Quincy Railroad Company v. Coleman Levy."]
+source_url: "https://static.case.law/ill-app/57/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 856680
+cites_cases: ["150 Ill. 607"]
+---
+
+# Chicago, Burlington & Quincy Railroad v. Levy
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the Court.
+This action was brought by the appellee against the appellant for injuries alleged to have been received on August 25, 1891, at the crossing of Morgan street, in Chicago, and the railroad tracks of the appellant, and resulted in a judgment in favor of the appellee for $4,500.
+¡ The declaration, which consisted of two counts, alleged that the plaintiff was riding in a buggy along Morgan street, and when in the act of crossing the railway tracks, the buggy was run .against and struck by a locomotive engine with passenger cars attached, and the plaintiff thrown to the ground and injured. ■
+The negligence charged in the first count, was that the defendant did not cause a bell to be rung or a whistle sounded as required by the statute, and that charged in the second count was that the defendant’s gateman stationed at the crossing, failed to lower the gates; and further, that the gateman signaled the plaintiff to drive across the tracks, after he had raised the gates, which had previously been lowered.
+In both counts .it was alleged that the buggy was struck and the plaintiff thrown out and injured in consequence.
+The main conflict in the evidence is as to whether or not the plaintiff’s buggy was struck at all by the defendant’s locomotive or train. The evidence in behalf of the plaintiff tended to establish that as the plaintiff was driving in a buggy southerly along Morgan street, he came to the railway crossing and was there stopped for about a quarter of an hour for a freight train then passing to get out of the way, the gates being lowered to prevent entrance of teams upon the tracks; that there were other teams there, also waiting, some of which were ahead of him, and there were also teams on the other side of the tracks waiting for the. gates on that side of the track to be raised so as to permit them to go northerly across the tracks; that the gates on the south side of the tracks were raised first and the teams that were going north were permitted to enter upon the tracks, and then the gates on the north side of the tracks were raised and the teams going south, including plaintiff and his buggy, were then driven upon the tracks, the plaintiff in his buggy following behind two teams that were ahead of him; that as soon as plaintiff drove in, the north gates, under which he had just passed, were lowered behind him; that a passenger train approached rapidly from the east and plaintiff whipped up to get out of its way, but owing to the teams that were ahead of him he could not entirely clear the track upon which the passenger train was approaching, before it came upon him and struck the hind wheel of the buggy and threw him out, and that then his horse got loose and ran into the wagons that were ahead.
+The evidence in behalf of the defendant did not deny that the plaintiff was injured at the time and place alleged, but tended to show that when crossing the tracks the plaintiff’s horse became unmanageable and ran away and dashed into a wagon that was ahead, and that thereby the plaintiff was thrown out of his buggy, and that the buggy was not struck at all by any engine or train of the defendant.
+The number of witnesses who testified to having seen the plaintiff at the instant he was thrown from his buggy were about equal on each side, and they testified in direct opposition to one another, those for the plaintiff testifying that the train struck the hind wheels of the buggy and threw the plaintiff out, and those for the defendant that the buggy was not struck at all by a train, but ran into a wagon and that the plaintiff was then thrown out.
+Circumstances, more or less corroboratory of the witnesses on either side, were shown by both parties, with a seeming preponderance of circumstances in behalf of the defendant, but ic is impossible to say that there was such a preponderance in favor of the defendant’s theory as to require a reversal of the judgment.
+The witnesses were heard and seen by the jury, and their respective credibility and means of knowledge were matters peculiarly for the jury to pass upon.
+Error is assigned by the appellant because counsel for the plaintiff was permitted to read the declaration to the jury, and to make improper statements to the jury in his closing argument.
+The two objections may be considered together.
+By a supplemental record filed in this court it is made to appear that counsel for the defendant in his closing argument to the jury made statements to the jury to the effect that the plaintiff had, for reasons stated, shifted his position from a claim'that the buggy was struck by the train to a claim that defendant in some way frightened the plaintiff’s horse, causing it to run away, and thereby, instead of because the buggy was struck by the train, caused the plaintiff to be injured.
+Whatever may be the technical rule with reference to reading to the jury the pleadings in a cause, which are presumptively statements in legal form of the facts constituting the charge or defense of the parties, by means of which the issues are defined, we think it can not be successfully denied that where counsel for either party state to the jury that his adversary has changed his position from that set up in his pleading to one that could not be recovered upon or defended, because not averred, the other party may not improperly read his pleading to the jury and assert that he relies upon his case as there pleaded; and if counsel continue, as seems to have been done, in further reply to such a ¿harge of having changed his position, to urge to the jury his right to recover, even though they trust in the statement of his adversary that the plaintiff’s position has been changed from that stated in the declaration, we will not interfere with the discretion of the trial judge in permitting such argument.
+We do not regard the errors assigned in the matter, or instructions that were given or requested, as substantial, and will not take space to discuss them.
+The motion of appellant here made- to strike the supplemental transcript of the record from the files should be allowed in part, and denied in part.
+In so far as the original bill of exceptions was amended by inserting the certificate of the physician, Dr: Kadison, and the remarks of counsel for appellant, in his closing argument to the jury, the motion will be overruled.
+Such amendments were made from the notes of the stenographer who reported, the case at the trial, and his notes are proper material for. the trial judge to rely upon, and are as minutes kept by the judge himself, from which to make amendments to a bill of exceptions. Gage v. Eddy (unreported), Ill. Rep.; C. M. & St. P. Ry. Co. v. Walsh, 150 Ill. 607.
+The amendment to the bill of exceptions showing the proceedings in regard to an offered amendment to the declaration by inserting additional counts, was made from an affidavit filed by counsel, and not from the notes of the stenographer nor from any minutes kept by the trial judge, and we think was improperly allowed, and as to the part of the supplemental transcript which shows such proceedings the motion to strike out will be allowed.
+The case as presented is one of fact, upon which the jury has passed, under instructions which lay down the law in substance, and the judgment will be affirmed.
