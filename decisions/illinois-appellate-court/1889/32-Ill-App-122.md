@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-11-23"
+citations: ["32 Ill. App. 122"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David Elmore v. Drainage Commissioners."]
+source_url: "https://static.case.law/ill-app/32/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4976507
+cites_cases: ["1 Gilm. 567", "10 N. J. 136", "104 Mass. 13", "109 Mass. 197", "112 Mass. 344", "120 Ill. 482", "17 Johns. 446", "25 Ill. App. 650", "3 Denio, 433", "3 Hill, 531", "35 Mich. 296", "36 Minn. 373", "41 Ill. 502", "55 Ill. 346", "56 Ill. 132", "58 Ill. 353", "62 Ill. 519", "67 Ill. 477", "7 Mass. 169", "71 Ill. 355", "93 Ill. 521", "95 Ill. 148", "95 Ill. 516", "95 Ill. 567"]
+---
+
+# Elmore v. Drainage Commissioners
+
+## Majority (Conger, J.)
+
+Conger, J.
+The defendant corporation was organized under the statute in force July 1, 1879, providing for the organization of drainage districts, and to provide for the construction, maintenance and repair of drains and ditches, by special assessments on the property benefited thereby in the town of Mason City, Mason county, Illinois, the commissioners of highways being the drainage commissioners of said district. Appellant, while not a signer of the petition for the formation of the drainage district, is the owner of lands included in said district, and was assessed $800 for draining said lands; after the payment by him of such assessment, the defendant, without his knowledge or consent, enlarged the boundaries of said district by taking in a large area of territory, including the greater part of the city of Mason City, which territory had a natural drainage for the water falling thereon in a direction opposite to the lands of appellant; and defendant, by a system of drainage, collected the water falling on said area, and discharged all the water into the ditches on the lands of appellant, which were too small to carry off the water without enlarging the same, and also performed the work so carelessly and negligently as to overflow and submerge appellant’s land with the water from the territory so added to the district, and precipitated upon his lands. He thereby lost the crops planted thereon, and the use of the lands; and having called the attention of the commissioners to the condition of his lands without avail, brought his action in case against the corporation. The declaration contained three counts, charging substantially the above facts and negligence on the part of the drainage commissioners in the construction of the drains, and in connecting the drains and ditches of the added territory with the drains running through plaintiff’s land, and negligence in failing to enlarge and give sufficient fall to the drains on appellant’s lands, so as to carry off, without damage, the increased volume of water so discharged therein. A general demurrer was interposed to the declaration, and sustained on the ground that the corporation is not liable in an action for damages, and judgment rendered against appellant for costs, from which judgment he prosecutes his appeal to this court, alleging as error the sustaining by the court below of the demurrer to his said declaration.
+We are inclined to think the demurrer was properly sustained for the reason there was no liabil ity on the part of the defendant. We see no good reason for holding that a drainage district organized under the statute is not a quasi corporation governed by the same principles, in reference to being liable to such damages as are claimed in the declaration in this case, as counties, townships, school and road districts, as laid down in Town of Waltham v. Kemper, 55 Ill. 346. In that case it is said: “In the case of these quasi corporations, made so without their consent, duties may be imposed, and their performance compelled under penalties, but the corporators, who are made such nolens miens, are not and can not be considered in the light of persons who have voluntarily and for a consideration assumed obligations, so as to owe a duty to every person interested in the performance.”
+It is strongly insisted by appellant that in the formation of a drainage district under the statute, there is such a similarity in principle to cases where the inhabitants of cities and villages voluntarily seek and assume corporate powers, that the liability to actions like the present should be governed by the same rules.
+A drainage district is formed under general laws. It is true the initiative movement is by individuals hoping to obtain some personal benefit from the formation of the district, but its officers are designated by law, not elected by the inhabitants of the district nor in any way responsible to them for their conduct, and hence, we think, there is no good reason for holding the district liable for the tortious and illegal acts of the commissioners.
+The judgment of the Circuit Court will be affirmed.
+Judgment affirmed.
