@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 49,642"
+decided: "1964-12-31"
+citations: ["54 Ill. App. 2d 437"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DRUCKER and McCORMICK, JJ., concur."]
+parties: ["Sally Goldman, Plaintiff-Appellant, v. City of Chicago, a Municipal Corporation, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/54/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5282967
+cites_cases: ["199 NE2d 830", "200 NE2d 48", "50 Ill App2d 100", "50 Ill App2d 173"]
+---
+
+# Goldman v. City of Chicago
+
+## Majority (MR. PRESIDING JUSTICE ENGLISH)
+
+MR. PRESIDING JUSTICE ENGLISH
+delivered the opinion of the court.
+This is an appeal from an order of the Circuit Court denying plaintiff’s petition to vacate a prior dismissal of her cause of action for want of prosecution. The complaint alleges plaintiff’s personal injury occasioned by defendant’s negligence in maintaining its sidewalks. The sole issue before this court is whether the denial of plaintiff’s petition constituted an abuse of discretion.
+It appears from the record that the case was called for trial by the assignment judge on October 14, 1963. The City’s attorney pleaded his engagement in another case and this cause was therefore not sent out to a judge for trial. On January 21, 1964, the case was again called for trial, but no one appeared on behalf of plaintiff and the order was entered dismissing the cause for want of prosecution. Plaintiff’s attorney was not given personal notice that the case was to be called for trial that day. Pursuant to court procedure, however, notice had been published in The Chicago Law Bulletin that the case was to be removed from tbe hold call and added to the trial call.
+There is disagreement as to what happened to the case when it was called for trial on October 14. It is plaintiff’s contention that because of the engagement of defendant’s counsel there was an agreement among the parties and the court that the case be put on the dormant calendar and not on the hold call, thereby entitling plaintiff to personal notice before it could be restored to the trial call. Supporting plaintiff’s petition to this effect is an affidavit of the attorney who answered the call wherein he states that he is one of the attorneys in the matter; that he appeared before the assignment judge on October 14 when the case was called; that the case was ordered to be placed on the dormant calendar; and that he had no notice that the case was put on the hold call. During the hearing on the petition, however, the assignment judge denied this contention, stating that his record for October 14 showed that the case had been put on the hold call.
+We are of the opinion that the conduct of plaintiff’s attorney does not involve that degree of culpability which should deprive his client of a trial. The report of proceedings of the hearing on the petition reveals the possibility that in the course of handling a long and taxing daily call of cases, the assignment judge may sometimes inadvertently say “dormant calendar” when he means to say “hold call.” Since this possibility exists (both the transcript and the affidavit of plaintiff’s attorney so attest), we are inclined to follow the course which will hasten cases to trial on the merits, unless culpable negligence is present. On this latter point we find that there was no negligence in counsel’s conduct, and that he acted with dispatch in petitioning the court to vacate the dismissal within 30 days after it was entered. Nor can it be said that plaintiff’s attorney should necessarily have followed the progress of the hold call routinely because he has advised this court that he had at that time no cases on the hold call and therefore no reason to be watching it.
+In making this decision, we take notice of the certificate of the Clerk of the Circuit Court to the effect that there is no order spread of record in this cause on the critical date of October 14 placing the case on either the hold call or the dormant calendar. The only records kept in this matter were apparently the personal notes of the assignment judge himself. It may well be that this absence of a customary inscribing of the order in the court records is justified in the ordinary handling of a large volume of eases on their call for trial. In the circumstances of the present case, however, it is readily seen to be unsatisfactory. And where, as here, there is a genuine dispute as to whether the case had been placed on the hold call or on the dormant calendar, then we believe proper exercise of discretion requires the court to avoid punctilious enforcement of the hold call procedure, especially when it deprives a non-negligent litigant of her valuable substantive right to a determination of her cause of action on its merits.
+Defendant has pointed out to us that plaintiff has the right to refile her complaint pursuant to the provisions of the Limitations Act. Ill Rev Stats 1963, c 83, § 24a. If she were to refile, however, she would suffer the penalty of further years of delay and add to the costs of litigants and court alike in maintaining the already burdensome backlog of cases waiting for trial.
+The defendant contends that two recent cases support its position. In Robertson v. Western Bearings Co., 50 Ill App2d 173, 200 NE2d 48, this Court affirmed an order of the Circuit Court denying plaintiff’s timely motion to vacate a dismissal for want of prosecution where the case had been restored from the hold call to the trial call and the plaintiff had failed to appear because of the inadvertence of his counsel’s docket clerk. In that case, however, it was undisputed that both parties knew their cause had been placed on the hold call and would be restored to the trial call automatically after 90 days. The facts in the instant case are thus quite different. Parks v. City of Chicago, 50 Ill App2d 100, 199 NE2d 830, involves the denial of a continuance which was necessitated by plaintiff’s negligence in failing to inform' his counsel of his change in address. Again, the facts in the instant case are different in that they do not involve negligence.
+For the reasons stated, we conclude that the order denying plaintiff’s petition to vacate the dismissal constituted, under the circumstances, an abuse of judicial discretion. It is, therefore, reversed and the cause is remanded with directions to reinstate the cause for trial.
+Reversed and remanded with directions.
+DRUCKER and McCORMICK, JJ., concur.
+We are advised that in practice before the assignment judge in the Law Division of the Circuit Court of Cook County, cases which are allowed to be continued for engagement of counsel may be placed on the hold call. Once on the hold call, the case may be restored for trial upon agreement of the attorneys or upon notice and motion. If a case has not been restored to the trial call within 90 days after being placed thereon, it is automatically returned to the trial call. In this event, the only notice given to either counsel is that published in The Chicago Law Bulletin. See Robertson v. Western Bearings Co., 50 Ill App2d 173, 179, 200 NE2d 48, for a more detailed description of this procedure.
+In a separate affidavit of plaintiff’s trial attorney, he states that on January 21, 1964 (the date on which the ease was dismissed) he was “ready, willing and able to try the ease.”
+The following colloquy occurred between plaintiff’s attorney and the court:
+Counsel: The City was engaged. May I ask that it be reinstated.
+The Court: The motion to vacate is overruled.
+Counsel: May I be heard, Your Honor?
+The Court: The City pleaded engagement, and it was agreed before the court here that it was to be put on the dormant calendar—. (Emphasis added.)
+We also note that defendant filed no counter-affidavit and did not object to tbe petition to vacate. Its argument in tbis court is based largely upon tbe order denying tbe petition.
