@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-1014"
+decided: "1978-06-27"
+citations: ["62 Ill. App. 3d 151"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH FRANK McGILL et al., Minors, by Phyllis McGill Best, their Mother and Legal Guardian, Plaintiffs-Appellants, v. NICHOLAS LAZZARO et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/62/cases/0151-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5622354
+cites_cases: ["216 N.E.2d 140", "220 N.E.2d 81", "279 N.E.2d 454", "3 Ill. App. 3d 396", "33 Ill. App. 3d 943", "338 N.E.2d 912", "34 Ill. 2d 487", "349 N.E.2d 132", "371 N.E.2d 892", "38 Ill. App. 3d 369", "55 Ill. App. 3d 1037", "73 Ill. App. 2d 399"]
+---
+
+# McGill v. Lazzaro
+
+## Majority (Mr. JUSTICE BROWN)
+
+Mr. JUSTICE BROWN
+delivered the opinion of the court:
+Plaintiffs, Joseph Frank McGill, a minor, Colleen Ann McGill, a minor, Thomas McGill, a minor, and David Patrick McGill, a minor, by their mother and legal guardian, Phyllis McGill Best, appeal from an order of the circuit court of Cook County dismissing their complaint against defendant, Milton Ruben. The sole issue on appeal is whether an action for professional negligence, fraud and breach of fiduciary duty against an attorney abates with the death of the attorney.
+On November 27, 1974, plaintiffs brought a two-count complaint against Nicholas Lazzaro and Milton Ruben. Count I sought to set aside an agreement entered into between Charles T. McGill, plaintiffs’ deceased father, and Nicholas Lazzaro. The complaint alleged that McGill and Lazzaro had been co-shareholders in certain corporations, and that the agreement entered into by the parties was so unconscionable as to amount to a fraud upon McGill.
+Count II sought monetary damages against Milton Ruben on allegations that Ruben prepared the agreement while acting as attorney for both McGill and Lazzaro in their corporate business endeavors, and that Ruben negligently breached his fiduciary duty to McGill by preparing an agreement that was so unconscionable, unreasonable and unjust as to amount to a fraud upon McGill.
+On May 20,1976, Ruben died. A motion to suggest his death of record and to dismiss the action as to him was filed. On March 31,1977, the trial court dismissed the complaint against Ruben, specifically finding the case of Butterman v. Chamales (1st Dist. 1966), 73 Ill. App. 2d 399, 220 N.E.2d 81, to be controlling.
+Plaintiffs filed their notice of appeal. On August 22, 1977, counsel for defendant Ruben, filed a motion to dismiss the appeal, contending that pursuant to Illinois law (Ill. Rev. Stat. 1977, ch. 110, par. 54(2)), the plaintiffs-appellants had failed to move to substitute the proper party for Ruben within 90 days after his death was suggested of record. Plaintiffs filed a response, and the motion was taken with the appeal.
+Opinion
+We initially address ourselves to the motion to dismiss the appeal. From a review of the record, it is clear that 90 days have elapsed since Ruben’s death was suggested of record, and that no motion to substitute a proper party has been made. Section 54(2) of the Civil Practice Act (Ill. Rev. Stat. 1977, ch. 110, par. 54(2)) provides in part as follows:
+“If a party to an action dies and the action is one which survives, the proper party or parties may be substituted by order of court upon motion. If a motion to substitute is not filed within 90 days after the death is suggested of record, the action may be dismissed as to the deceased party.”
+The language of this section uses the permissive “may” rather than the mandatory “shall.” Therefore, the court has discretion as to whether or not to dismiss the action. (Sickler v. National Dairy Products Corp. (4th Dist. 1976), 38 Ill. App. 3d 369, 349 N.E.2d 132.) Furthermore, since the issue on appeal concerns whether this type of action survives or not, we are reluctant to dismiss the appeal on this basis.
+Turning to the merits of this case, we note that the determination of whether an action abates or survives in Illinois is governed by common law rules and the statutory provisions changing the common law. Application of the correct rule, however, depends upon the nature of the action to which it is applied. Shapiro v. Chernoff (1st Dist. 1972), 3 Ill. App. 3d 396, 279 N.E.2d 454.
+The Illinois survival statute provides for the survival of a number of actions which abated at common low. The statute provides:
+“In addition to the actions which survive by the common law, the following also survive: actions of replevin, actions to recover damages for an injury to the person (except slander and libel), actions to recover damages for an injury to real or personal property or for the detention or conversion of personal property, actions against officers for misfeasance, malfeasance, nonfeasance of themselves or their deputies, actions for fraud or deceit, and actions provided in Section 14 of Article VI of ‘An Act relating to alcoholic liquors.’ ” Ill. Rev. Stat. 1975, ch. 3, par. 339.
+The meaning of the words “personal property” contained within this survival statute have been construed by the Illinois Supreme Court to include more than mere goods and chattels. (McDaniel v. Bullard (1966), 34 Ill. 2d 487, 216 N.E.2d 140.) The court in that case held that an accrued cause of action for wrongful death was “personal property,” within the meaning of the survival statute, and therefore survived the death of the plaintiff-beneficiary. The court went on to state that “there is no reason why an estate that has been injured or depleted by the wrong of another should not be compensated whether the injured party is living or not.” McDaniel, 34 Ill. 2d 487, 493-94.
+At common law, the distinction between those actions which survived and those which abated upon the death of a party was based upon the type of injury of which the plaintiff complained. If the interest to be protected was primarily a property interest, then the action survived; however, if the interest was primarily personal, the action was held to abate. Shapiro v. Chernoff (1st Dist. 1972), 3 Ill. App. 3d 396, 279 N.E.2d 454.
+Defendant-appellee relies on the case of Butterman v. Chamales (1st Dist. 1966), 73 Ill. App. 2d 399, 220 N.E.2d 81, which involved an action for professional negligence brought against the estate of the defendant attorney. After discussing prior case law, we concluded that an action for malpractice was not within the meaning of the term “personal property,” and ruled that the cause of action abated upon the death of the attorney.
+We note, however, that we have recently declined to follow the holding of Butterman, concluding that the principles which formed the foundation of this court’s decision in Butterman no longer prevail and that a different result is therefore mandated. (Jones v. Siesennop (1st Dist. 1977), 55 Ill. App. 3d 1037, 371 N.E.2d 892.) In Jones, we held that an action for professional negligence against an attorney did not abate with the death of the plaintiff, adding, “Similarly, there is no reason why an accrued cause of action for professional negligence against an attorney should not also be construed as ‘personal property’ within the court’s expanded definition.” (Jones, 55 Ill. App. 3d 1037, 1041.) We view Jones as controlling, and believe the factual distinction between that case and the case at bar is inconsequential.
+In addition to a consideration of the “personal property” aspects of a cause of action, courts have applied a second test to determine whether a specific action should survive. If the right asserted in the action is assignable, it has been held that it survives the death of either party. Shapiro v. Chernoff (1st Dist. 1972), 3 Ill. App. 3d 396, 279 N.E.2d 454.
+The general rule is that actions for fraud, negligence or bad faith can be assigned. (Browning v. Heritage Insurance Co. (2d Dist. 1975), 33 Ill. App. 3d 943, 338 N.E.2d 912.) Therefore, application of this test would also result in a survival of the action despite the death of the defendant attorney.
+Accordingly, the motion to dismiss the appeal is denied. The order of the circuit court dismissing the complaint as to defendant, Ruben, is reversed and the cause is remanded.
+Reversed and remanded.
+STAMOS, P. J., and PERLIN, J., concur.
