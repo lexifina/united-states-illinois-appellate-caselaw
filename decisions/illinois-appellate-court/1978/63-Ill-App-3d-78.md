@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-1561"
+decided: "1978-08-07"
+citations: ["63 Ill. App. 3d 78"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARD R. FERN et al., Plaintiffs-Appellees, v. BAYANI PAHATI, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/63/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3336843
+cites_cases: ["229 N.E.2d 504", "37 Ill. 2d 494"]
+---
+
+# Fern v. Pahati
+
+## Majority (Mr. JUSTICE McGLOON)
+
+Mr. JUSTICE McGLOON
+delivered the opinion of the court:
+Plaintiffs Edward and Jacqueline Fern filed suit against defendant Bayani Pahati for personal injuries and damages arising out of an automobile accident. Defendant and his passenger subsequently filed a separate suit against plaintiffs for personal injuries. Plaintiffs’ attorneys in Pahati’s suit moved that the two cases be consolidated. The motion was granted. However, plaintiffs’ attorneys in the suit against Pahati appeared and subsequently moved to sever the two cases. They were joined in the motion by the attorney for Pahati as plaintiff. This motion was also granted.
+The case was heard before a jury, but at the close of all the evidence, the trial court directed a verdict in plaintiffs’ favor on the issue of liability. The jury subsequently awarded plaintiffs *12,500 in damages. The suit against plaintiffs by defendant and his passenger was later settled out of court.
+On appeal defendant argues that the trial court erred in (1) granting plaintiffs’ motion for severance; (2) granting a directed verdict in plaintiffs’ favor on the issue of liability; (3) allowing Edward Fern to testify as to the fair market value and damages to his automobile; and (4) finding that the jury’s verdict was unanimous.
+We reverse and remand.
+Plaintiffs Edward and Jacqueline Fern filed suit against defendant Bayani Pahati for personal injuries and property damage arising out of an automobile accident that occurred on January 30, 1973. Defendant counterclaimed for property damage to his auto.
+Subsequently, defendant and his passenger filed their own lawsuit against Edward Fern for personal injuries arising out of the accident. In defendant’s suit against plaintiffs, both defendant and plaintiffs were represented by attorneys different from those who represented them in plaintiffs’ suit against defendant.
+In defendant’s suit against plaintiffs, plaintiffs’ defense attorney moved that defendant’s suit be consolidated into their case. The motion was granted. However, the attorneys in plaintiffs’ suit against defendant later appeared and moved that the two cases be severed. Plaintiffs were joined in this motion by the attorney for Pahati as plaintiff. This motion was also granted.
+Thereafter, plaintiffs’ suit proceeded to a jury trial. Remaining in that suit, however, was defendant’s counterclaim for property damage. The suit for personal injuries by Pahati and his passenger against plaintiff Fern was later settled out of court.
+The evidence at trial indicated that the accident occurred at the unregulated intersection of Byron and Hoyne streets in Chicago. Defendant was driving south on Hoyne while plaintiff Edward Fern was driving east on Byron.
+Plaintiff Edward Fern testified that he was thoroughly familiar with the intersection of Byron and Hoyne streets. He was aware of the large apartment building on the northwest comer that partially obstructed the northward vision of a driver traveling east on Byron. Knowing of the obstruction presented by the building, he stated that he reduced his speed as he approached the intersection to 15-20 miles per hour. When he was still 30-40 feet west of the intersection, which presented his first opportunity to see any appreciable distance around the apartment building, he looked north. There he saw defendant’s vehicle coming south on Hoyne and approaching the intersection. Mr. Fern stated that he reduced his speed to 5-10 miles per hour as both vehicles entered the intersection. Seeing that a collision was inevitable, he slammed on his brakes and managed to stop his vehicle just prior to impact. He then stated that defendant’s right front fender collided into his left front fender. This latter statement was subsequently challenged by the testimony of Officer George Loftus.
+Defendant testified that when he was approximately 50 feet from the intersection, he decreased his speed from 15-20 miles per hour to 10 miles per hour. His right foot was off the gas pedal and poised somewhere next to the brake pedal. He testified that he did not see plaintiffs’ car until it was approximately one foot or a “finger snap” away from the point of impact.
+Miss Arellano, a passenger in defendant’s auto testified that she first saw plaintiffs’ auto when it was six to seven feet away from the point of collision. She testified further that defendant’s auto was in the middle of the intersection at the moment of impact, but that she did not actually see the collision because she closed her eyes.
+Police officer George Loftus also testified on defendant’s behalf. He stated that he spoke to Edward Fern at the hospital after the accident and that Fern stated that the front of his auto struck defendant’s auto.
+During the trial, plaintiffs introduced into evidence photographs of their auto and defendant’s auto. The photographs showed extensive damage to the front end of plaintiffs’ auto. The photographs also showed considerable damage to the passenger side of defendant’s auto.
+As to plaintiff Edward Fern’s expenses arising from the accident, he introduced a paid doctor’s bill for *105 and a paid hospital bill for *567.80. The trial court also allowed him to testify as to the cost of repair and fair market value of his auto. Mr. Fern’s qualification for testifying as an expert was that he once worked in an auto body shop for a year and a half.
+At the close of all the evidence, the trial court first directed a verdict against defendant on his counterclaim for property damage and then directed a verdict in plaintiffs’ favor on the issue of liability. The only issue submitted to the jury was the amount of damages. In ruling against defendant, the trial court relied on defendant’s statement that he did not see plaintiffs’ auto until it was a “finger snap” away and defendant’s failure to yield the right-of-way to plaintiffs.
+The jury awarded plaintiffs *12,500 in damages. When polled, one of the jurors responded both “yes” and “no” to the query whether that was her verdict. When questioned further she responded “I will have to go along with them.”
+On appeal, defendant raises a number of issues, one of which is that the trial court improperly directed a verdict in plaintiffs’ favor on the issue of liability. Defendant argues that this question should have gone to the jury. Because we agree with defendant on this point, it will be unnecessary for us to address ourselves to the other issues raised on appeal.
+A verdict can be directed only when all of the evidence and the reasonable inferences derived therefrom, when viewed in the light most favorable to the nonmovant, so overwhelmingly favors the movant that no contrary verdict could ever stand. (Pedrick v. Peoria & Eastern R.R. Co. (1967), 37 Ill. 2d 494, 229 N.E.2d 504.) We do not believe that the requirements of Pedrick have been met in the case at bar.
+When viewed in the light most favorable to defendant, the evidence indicates that defendant may have entered the intersection first and that plaintiff hit him. Supporting this view, there is the testimony of Miss Arellano that the collision did not occur until defendant was already in the middle of the intersection. While defendant did not see plaintiffs’ auto until just prior to impact, Miss Arellano did not see it until it was only six or seven feet away. From these facts the jury could have concluded that defendant entered the intersection first and did not see plaintiffs because Mr. Fern was driving at an excessive speed. Further evidence that the jury could have construed as indicating that plaintiffs were at fault was the extensive damage done to the front end of their auto. The jury could have concluded from observing the photographs that plaintiffs “broad-sided” defendant and were also traveling at an excessive speed. From the testimony of Officer Loftus concerning Mr. Fern’s statement at the hospital, the jury could also have concluded that plaintiffs’ auto struck defendant’s auto.
+Therefore, we cannot say that the evidence produced at trial so overwhelmingly favored plaintiffs that a contrary verdict could not stand. At best, the evidence indicated a close case that should have gone to the jury.
+For the foregoing reasons, the judgment of the circuit court of Cook County is reversed and the cause remanded for further proceedings consistent with this opinion.
+Judgment reversed; cause remanded.
+GOLDBERG, P. J. and O’CONNOR, J., concur.
