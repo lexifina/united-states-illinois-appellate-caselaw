@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-03-23"
+citations: ["52 Ill. App. 527"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edwin Taylor v. Martha Taylor."]
+source_url: "https://static.case.law/ill-app/52/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5107014
+cites_cases: ["136 Ill. 55", "51 Ill. 88"]
+---
+
+# Taylor v. Taylor
+
+## Majority (Mr. Justice Green)
+
+Mr. Justice Green
+delivered the opinion of the Court.
+It is contended on behalf of plaintiff in error, that the decree vacating and annulling the decree for divorce and dismissing the bill, should be reversed by this court for two reasons. 1st. Because there was no proof before the court at the time the answer was permitted to be filed, that plaintiff in error had received notice of the proposed proceeding. 2d. Because there was no sufficient proof at that time that defendant in error did not have full notice of the divorce proceedings. In support of the first point, it is said the receipt of the written notice by Flannigan, as attorney for plaintiff, was insufficient, because at time of service the relation of attorney and client, between them, had ceased, and that the service of said notice on plaintiff in error, by the constable in St. Louis, was a nullity, because the return was not sworn to. The written notice fully informed plaintiff in error of the time and term of court, when and where the defendant in error would present her petition, and what steps were proposed to be taken, and the appearance of counsel on his behalf at.the hearing, without objection, justified the court in finding the notice had been received by him, and he was regularly in court in response to the notice. Hence, the first point is not well taken. The contention under the second point is, that the court erred in receiving and considering as evidence the said petition sworn to by defendant in error. It appears, however, that at the hearing, both parties appeared by counsel. That a jury was waived and the cause was heard by consent on the bill, answer and evidence, and argument of counsel. That the said sworn petition was introduced and read in evidence on behalf of defendant, without objection thereto, or exception by counsel for plaintiff in error, and it is too late now to make objection. It should have been made below, and if the evidence was held incompetent, the defendant would have been afforded an opportunity to supply competent evidence to prove the same facts. In the case of Washington v. L. & N. Ry. Co. et al., 136 Ill. 55, a motion was made by defendants in the trial court that judgment for $200 and costs be entered for plaintiff, in accordance with her agreement, as administratrix of the estate of Washington, to accept that sum in satisfaction and release of the claim against the corporation. Plaintiff resisted the motion on the ground that the execution of said agreement had been procured by fraud and misrepresentation, and filed her affidavit setting forth facts to support her contention; defendants filed counter affidavits. The motion was sustained, and judgment for plaintiff was entered for $200 and costs.
+In the opinion, it is said complaint is made that by the course pursued, plaintiff was deprived of the right to cross-examine affiants for defendants, but as she was in court resisting the motion and made no objection to the consideration of the affidavits by the court, she can not now be heard to complain. If improper evidence was offered in support of the motion she should then have objected to it, and thereby, if it was held to be incompetent, enable defend-' ants to supply other and competent evidence. The rule thus announced is applicable to the facts in this case and decisive against the second reason assigned for reversal. In conclusion, it is only necessary to say, appellant was represented by counsel, and having consented to a hearing upon the bill and answer, without replication, he admitted all that was stated in the answer to be true. Pankey v. Raum, 51 Ill. 88; County of Cook v. G. W. R. R. Co., 119 Ill., p. 224; and the facts stated in the answer and in the petition, justified the court in its findings, and the court properly held it did not acquire jurisdiction and did not err in vacating the decree for divorce which had been entered, and dismissing the bill. The decree appealed from is affirmed.
