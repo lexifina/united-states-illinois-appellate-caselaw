@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-01-30"
+citations: ["12 Ill. App. 506"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Singer Manufacturing Company v. Edward M. Pike."]
+source_url: "https://static.case.law/ill-app/12/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4860245
+cites_cases: ["14 C. B. 195", "2 Jones, 403", "2 Jones, 454", "22 Pick. 457", "29 Ill. 54", "3 W. & S. 109", "31 Ill. 523", "36 Ill. 195", "37 Ill. 341", "44 Ill. 250", "44 Ill. 312", "45 Ill. 9", "46 Ill. 134", "48 Ill. 68", "54 Ill. 431", "55 Ill. 391", "66 Ill. 106", "68 Ill. 499", "69 Ill. 170", "72 Ill. 256", "72 Ill. 513", "79 Ill. 441", "86 Ill. 106", "86 Ill. 62", "88 Ill. 39", "89 Ill. 590", "89 Ill. 62", "91 Ill. 408", "92 Ill. 139"]
+---
+
+# Singer Manufacturing Co. v. Pike
+
+## Majority (Wilson, J.)
+
+Wilson, J.
+The main question in controversy upon the trial was, as to whether the agreement for the surrender of the notes included all the unpaid notes indorsed by Hogue, or only such as had been charged back to him. If the jury had been properly instructed, we should not feel at liberty'to disturb their finding, in view of the serious conflict in the evidence. The jury who saw and heard the witnesses, are so much better able to judge as to the weight to be given to their testimony, than an appellate tribunal can be, that the rule has become fixed that unless the verdict is clearly and manifestly against the preponderance of the evidence, it must be held conclusive upon mere questions of fact.
+But the rule is also settled that when the evidence is conflicting, and the merits of the case doubtful, the instructions of the court upon the law applicable to the points involved must be strictly accurate, or the judgment will be reversed.
+Of the only instruction on the part of the plaintiff, asked or given in the present case, it would be sufficient to say that, as set out in the record, it is not only lacking in accuracy, but it is in some parts wholly unintelligible and meaningless. What sense can be made out of the passage: “If the jury believe from the evidence of the plaintiff Pike, on the 15th day of September, 1874, entered into an agreement with the defendant company, whereby it was mutually agreed that in consideration of the plaintiff Pike paying the company $900 on some day between December 25, 1874, and January 1, 1875, the company would surrender to said Pike his certain bond to the company, and assign and deliver to him, or give him orders at law and for judgments, when they may have that in judgment.” This is simply nonsense, and we may suppose the instruction was not correctly transcribed into the record, but it is our duty to pass upon it as we find it.
+The instruction is erroneous in other respects. It predicates the finding of the jury upon an hypothesis which was not proven, nor attempted to be proven by either side. The testimony of the plaintiff Pike was to the effect that the agreement was that the company should surrender the bond, and assign to him all the notes in the company’s hands indorsed by Hogue, in consideration of the sum of $1,457, viz.: $900 to be paid by Pike on a given day, and the retention by the company of $557, already received by it, and which stood to the credit of Hogue (and consequently to the credit of his sureties) and that he agreed to pay and did pay the $1,457 in the manner stated; in other words, that the consideration for the company’s agreement was $1,457. The hypothetical agreement stated in the instruction is an agreement based upon a consideration of $900, an essentially different agreement from that shown by the evidence of Pike.
+Again, the agreement stated in the instruction differs,, from the agreement alleged in the declaration. The declaration after reciting, among other things, that the company had notified the plaintiff that it had reserved five per cent, out of the commissions earned by Hogue, amounting to $557, etc., avers that in consideration of the premises, and of the plaintiff’s paving $900, the defendant agreed to cancel the bond, and assign the notes, etc. Thus the agreement of the company, as stated in the declaration, is made for the consideration of $900 to be paid by the plaintiff in addition to the retention by it of Hogue’s commissions of $557, while the consideration for the agreement stated in the instruction, is the payment of $900 alone.
+¡Numerous other points against the instruction, as also against the sufficiency of the evidence to make out a case, are urged in the brief of appellant, which we do not deem it necessary to pass upon.
+As to the claim of appellant’s counsel, that if any cause of action exists, it exists in favor of appellee and Fugate, his co-surety in the bond, and not in favor of Pike alone, we are of opinion that the position is untenable. The suit is based upon an alleged agreement made by the company with Pike individually. It is upon a breach of this individual agreement, that the damages are predicated, and not upon an agreement made by Pike and Fugate with the company. If in obtaining this agreement, Pike availed himself of moneys belonging in part to Fugate, it might upon a proper showing, render him liable to account to Fugate, but this is a matter in which the company is not concerned. If this were a suit based above upon rights and liabilities existing between the company, and Pike and Fugate as obligors in the bond, different considerations would apply.
+For the reasons herein above expressed, the' judgment of the court below is reversed, and the cause remanded for a new trial.
+Eeversed and remanded.
