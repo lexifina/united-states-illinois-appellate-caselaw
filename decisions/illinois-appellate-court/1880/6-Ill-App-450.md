@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+decided: "1880-06-17"
+citations: ["6 Ill. App. 450"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter Brosseau et al. v. Frank Warren."]
+source_url: "https://static.case.law/ill-app/6/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4748682
+cites_cases: ["21 Ill. 74", "40 Ill. 310", "44 Ill. 440", "47 Ill. 363", "53 Ill. 163", "69 Ill. 403", "69 Ill. 542", "75 Ill. 141", "82 Ill. 334", "84 Ill. 474", "86 Ill. 225", "89 Ill. 100"]
+---
+
+# Brosseau v. Warren
+
+## Majority (Lacey, J.)
+
+Lacey, J.
+This was an action in replevin brought by appellee against appellants in the Circuit Court of Kankakee county, and afterwards the venue was changed on application of the appellee to Will county. The cause was tried in the circuit court of that county, the trial resulting in a verdict for appellee, and judgment was rendered against appellants for costs. The subject of the action was thirty-three head of neat cattle.
+The appellee claimed the cattle by virtue of a purchase from one Samuel Andrews, which, it is claimed, took place the 15th of May, A. D. 1876, at the residence of Andrews, in Kankakee county, Illinois, the cattle being at that time about thirty miles distant across the State line in the State of Indiana. The price paid for the cattle, it is claimed, was six hundred and fifty dollars cash in hand.
+The claim of appellants to the cattle arises as follows: Peter Brosseau was sheriff of Kankakee county, and by virtue of his office as such sheriff, he held executions against Samuel Andrews, issued on judgments rendered in the Circuit Court of Kankakee county against said Andrews, and in favor of B. G-. Lee and Kelson Seagar Bathye, one of appellants, and Hooker & Arnold, Schneider & Morrison, and Hiram W. Shackley. By virtue of these executions the sheriff, Brosseau, levied on the cattle in question January 5, A. L>. 1877. It is claimed by appellants that the sale of the cattle, made in May, A. D. 1876, was fraudulent in fact, because made to hinder and delay creditors, and that that fraud was participated in both by Andrews and appellee Warren, and that the sale was fraudulent in law as against the levy of the executions, because no delivery of the cattle was ever made to appellee Warren.
+It appears that at the time of the alleged sale to appellee the cattle were some thirty miles distant, being in the hands of men who -were engaged to herd them. The appellee insists that along about the fifth day of June, A. D. 1876, he sent one John Andrews, son of Samuel Andrews, to the men who had charge of the cattle, to inform them that he had purchased the cattle. John also swears that he went and gave the information to the men. Appellee also claims that he afterwards paid these men for herding the cattle. The cattle in the fall of the year A. D. 1876, were brought back to the farm of An-chews, where they had been kept previously to the purchase, and there kept and herded on the stacks on the farm claimed to be occupied by Samuel Andrews; but appellee claims that he put John Andrews in charge of the cattle, and was to pay him one dollar per head per month.
+It is claimed by appellants that the evidence fails to show that the men who were herding the cattle while they had them in charge, were ever notified that appellee had purchased them, and hence there was no delivery under the rule of law as laid down in Hodges v. Hurd, 47 Ill. 363, “ that when property in the hands of a bailee is sold by the owner, and the bailee is notified of such sale, such notice will work a change of possession into the hands of the vendee and the consent of the bailee is immaterial.”
+In fact the delivery of possession of the property to appellee after the alleged sale was in dispute — and it was one of the material questions to be passed upon by the jury — for if no change of possession of the cattle had taken place the executions would attach, notwithstanding the sale may have been tona fide.
+As bearing on the question of fraud in fact, appellants complain that they were restricted to their prejudice by the court in their cross-examination of appellee. They proposed to ask him on cross-examination these questions: “ Since 1876 have you received any money from Samuel Andrews? Have you received any money from John Andrews or any member of the family?” The court refused to allow these questions to be answered by appellee. To this ruling of the court the appellants excepted. In this we think the court erred. The answer to these questions may have developed the fact that Samuel or John Andrews or some member of the family, had repaid appellee the entire six hundred and fifty dollars which the latter had paid for the cattle, or circumstances from which such a state of facts might have been found by the jury to exist. This certainly would have been competent evidence.
+Where fraud is alleged, courts should ever be liberal in allowing a searching cross-examination of the interested parties when placed on the witness stand; nothing so much favors the discovery of fraud. The court also erred in refusing to allow the returns of levy of the several executions offered in evidence. The fact that other property was levied on besides that in controversy, could not be a sufficient reason to exclude the returns.
+In the fourth of plaintiff’s instructions, the jury were instructed “that if from all the evidence the jury believed that plaintiff was in possession of the cattle in controversy, either by himself or agent at the time the same were levied upon by defendant Brosseau, then they should find for the plaintiff.”
+This instruction makes the question of possession conclusive evidence that the alleged purchase was a bona fide purchase.
+The question of whether there was actual fraud should have been left to the jury as well as that of delivery of possession.
+Instruction number fifteen given for plaintiff is alsoerroneous. It tells the jury that appellants must establish by a preponderance of the evidence that the sale of the cattle was fraudulent, and that Warren and Andrews had each a fraudulent design in making the sale, and if the appellants had failed to do so, then the law was for the plaintiff and the jury would so find.
+This does not state the whole law of the case. There need not have been any fraud in fact if actual possession of the cattle had not been delivered to appellee before the levy.
+In the latter case it would have been fraud in law, and the law would have been for appellants and not appellee, as the instruction reads. The evidence in the case is made up of a variety of facts and circumstances, tending more or less to establish the appellant’s theory. We purposely refrain from discussing the evidence, for the reason that the cause may be submitted to another jury.
+The judgment of the court below is reversed, and the cause remanded.
+Reversed and remanded.
