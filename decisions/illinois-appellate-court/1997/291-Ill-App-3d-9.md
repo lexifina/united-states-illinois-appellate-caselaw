@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+docket: "2—95—0307 through 2—95—0309 cons."
+decided: "1997-08-13"
+citations: ["291 Ill. App. 3d 9"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. LEROY RICE, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/291/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 456103
+cites_cases: ["124 Ill. 2d 93", "143 Ill. 2d 59", "174 Ill. 2d 320", "259 Ill. App. 3d 709", "286 Ill. App. 3d 169", "286 Ill. App. 3d 597", "288 Ill. App. 3d 308", "68 Ill. 2d 261"]
+---
+
+# People v. Rice
+
+## Majority (JUSTICE RATHJE)
+
+SUPPLEMENTAL OPINION ON REMAND
+JUSTICE RATHJE
+delivered the supplemental opinion on remand:
+On September 16, 1996, this court filed its opinion in the above-entitled case. Defendant’s petition for rehearing was denied by this court on October 10, 1996. In said opinion, we initially noted that defendant agreed to a plea negotiation and that, in exchange for defendant’s plea, the State agreed to a cap of six-year terms on the burglary counts to which he pleaded guilty, with the sentences to run concurrently. Defendant made three arguments why this cause should be remanded for a new hearing on his motion to reconsider his sentence. Defendant initially asserted that defense counsel’s failure to review the sentencing transcript prior to the hearing on the motion to reconsider his sentence was a ground for remand. We rejected defendant’s argument, citing this court’s opinion in People v. Heinz, 259 Ill. App. 3d 709 (1994). Defendant next argued that the trial court’s failure to provide him with a transcript of the sentencing hearing denied him the ability to communicate effectively with counsel regarding the nature of his claims and their factual bases. We disagreed with this argument, finding that the pertinent supreme court rules did not provide that a transcript of the sentencing hearing is required for a defendant’s use at a hearing on a motion to reconsider the sentence.
+Finally, defendant contended that, under Supreme Court Rule 604(d) (145 Ill. 2d R. 604(d)), defense counsel must certify that he or she has made amendments to the postsentencing motion that are necessary to present defendant’s claims adequately. Defendant argued that defense counsel’s certificate omitted any reference to the "necessary amendment” portion of the rule. We noted that the evidence indicated that defense counsel thought it unnecessary to make any amendments to the motion to reconsider defendant’s sentence. We found that, in such a circumstance, defense counsel’s failure to make any amendments to the motion to reconsider the sentence was of no consequence.
+Accordingly, we affirmed the trial court’s judgment.
+Defendant petitioned our supreme court for leave to appeal. The supreme court denied defendant leave to appeal. However, it entered a supervisory order, which stated:
+"In the exercise of this Court’s supervisory authority, this cause is remanded to the Appellate Court, Second District, for further consideration in light of People v. Evans (September 19, 1996), Nos. 80158 & 80159 cons.”
+In People v. Evans, 174 Ill. 2d 320 (1996), the supreme court addressed the issue of how Supreme Court Rule 604(d) applies to negotiated pleas. Both defendants in Evans asserted that the plain language of Rule 604(d) authorized them to file a motion for sentence reconsideration, despite their negotiated pleas. The State argued that the motion-to-reconsider-sentence provisions of Rule 604(d) applied only to open guilty pleas, not to negotiated guilty pleas.
+The Evans court reviewed the decision in People v. Wilk, 124 Ill. 2d 93 (1988), which had broken with previous cases by allowing a defendant to challenge only his sentence by filing a motion to reconsider. The Evans court subsequently wrote:
+"We agree with the State’s position. Our review of Wilk and [People v. Wallace, 143 Ill. 2d 59 (1991),] reveals that the pleas involved in those cases were open guilty pleas. In other words, the defendants pied guilty without receiving any promises from the State in return. Following a defendant’s open guilty plea, the trial court exercises its discretion and determines the sentence to be imposed. Both good public policy and common sense dictate that defendants who enter open guilty pleas be allowed to challenge only their sentences without being required to withdraw their guilty pleas. [Citations.] Wilk thus overruled Stacey [(People v. Stacey, 68 Ill. 2d 261 (1977))] where open guilty pleas are concerned.
+The reasoning utilized by this court in Wilk, however, does not apply to negotiated guilty plea agreements. We agree with the State that, under these circumstances, the guilty plea and the sentence go hand in hand’ as material elements of the plea bargain. To permit a defendant to challenge his sentence without moving to withdraw the guilty plea in these instances would vitiate the negotiated plea agreement he entered into with the State. We therefore hold that, following the entry of judgment on a negotiated guilty plea, even if a defendant wants to challenge only his sentence, he must move to withdraw the guilty plea and vacate the judgment so that, in the event the motion is granted, the parties are returned to the status quo. [Citations.] Consequently, the motion-to-reconsider-sentence provisions of Rule 604(d) apply only to open guilty pleas.” (Emphasis added.) Evans, 174 Ill. 2d at 332.
+Pursuant to the supreme court’s supervisory order, we now readdress the appeal at bar in light of Evans. Here, the parties negotiated a guilty plea, and defendant failed to move to withdraw his guilty plea and to vacate the judgment. However, the events of the appeal at bar occurred long before the publication of Evans, which clarified the law regarding procedural requirements related to challenges to sentences imposed following negotiated pleas. In fairness, defendant should be permitted to pursue the actions set out in Evans.
+Accordingly, we reverse the trial court’s judgment and remand this cause to the trial court to permit defendant, if he so chooses, to move to withdraw his guilty plea and to vacate the judgment.
+Reversed and remanded.
+GEIGER, P.J., concurs.
+
+## Dissent (JUSTICE HUTCHINSON,)
+
+JUSTICE HUTCHINSON,
+dissenting:
+I must respectfully dissent from the majority’s resolution of this case.
+As previously noted in People v. Smith, 288 Ill. App. 3d 308 (1997), this court concluded that People v. Evans, 174 Ill. 2d 320 (1996), did not specifically address the type of negotiated plea presented before the trial court. This court also analyzed the types of negotiated pleas presented in People v. Johnson, 286 Ill. App. 3d 597 (1997), and People v. Wilson, 286 Ill. App. 3d 169 (1997). We came to the same conclusion in each of those cases.
+In the Evans case, the State and the defendant agreed which charges would be dismissed, which charges defendant would plead to, and a specific number of years to recommend as a sentence. On the other hand, in Wilson and Smith, the State agreed to dismiss some of the charges, and the defendants agreed to plead guilty to the remaining charges. In Wilson and Smith, the State did not agree to recommend a specific number of years as a sentence to the trial court. Instead, the State agreed to recommend sentences not to exceed a certain number of years. In Johnson, the State agreed to dismiss charges, the defendant agreed to plead guilty to other charges, and no sentencing recommendation was made by the State.
+According to the facts in this case, the State agreed to dismiss some of the charges, and the defendant agreed to plead guilty to the remaining charges. Furthermore, the State did not recommend a specific sentence to the trial court; the State agreed to recommend no more than six years on those remaining burglary counts. Therefore, I believe that this case should not be considered a negotiated plea analogous to the plea bargained for in Evans. Here, as in Wilson and Smith, the trial court had the obligation to make findings concerning aggravation and mitigation and then determine an appropriate sentence not to exceed six years. Of course, the trial court also retained the option to reject the plea in its entirety.
+The Evans court identified open pleas and negotiated pleas as the only two types of pleas presented to a trial court. The Smith case, the Johnson case, the Wilson case, and this case clearly identify other types of negotiated dispositions. In Smith, this court observed that, "[i]n each of the cases permitting review of a defendant’s sentence following a negotiated plea agreement without requiring a motion to withdraw the plea, the common denominator of law seems to be that when a trial court exercises any discretion in imposing a sentence, a defendant should be allowed to challenge that sentence to determine whether the trial court abused its discretion.” Smith, 288 Ill. App. 3d at 315.
+Based upon the foregoing, I believe that defendant here should be allowed to pursue a properly presented motion to have his sentence reconsidered.
