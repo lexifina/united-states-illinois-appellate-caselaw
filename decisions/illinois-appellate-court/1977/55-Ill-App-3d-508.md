@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-844"
+decided: "1977-12-05"
+citations: ["55 Ill. App. 3d 508"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARTHUR F. JAQUET et al., Plaintiffs-Appellants, v. ARLINGTON HEIGHTS PARK DISTRICT, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/55/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3405555
+---
+
+# Jaquet v. Arlington Heights Park District
+
+## Majority (Mr. JUSTICE O’CONNOR)
+
+Mr. JUSTICE O’CONNOR
+delivered the opinion of the court:
+Plaintiffs are property owners and taxpayers who reside in an area which was involuntarily annexed by defendant, Arlington Heights Park District. Their complaint in quo warranto questioned the exercise of jurisdiction by defendant over their property. After a trial, the circuit court ruled that the subject property had been properly annexed and defendant was legally exercising jurisdiction over it. Plaintiffs appeal, arguing that the annexation was improper because the eastern boundary of the annexed property was not a highway within the meaning of section 3—9 of the Park District Code (Ill. Rev. Stat. 1975, ch. 105, par. 3—9).
+The annexation ordinance was passed on December 10,1974. Thomas Thornton, defendant’s secretary and director of parks and recreation, testified for defendant. He stated that the annexed property was less than 20 acres, was bounded on the west by the Salt Creek Rural Park District and on the north and south by defendant Park District. The eastern boundary of the subject property is Chicago Avenue. Chicago Avenue is a 66-foot-wide right-of-way, with paving 30 feet wide. It is one-quarter of a mile long. Chicago Avenue runs from Wilke Road on the north to a “T” intersection with Thomas Street on the south. Chicago Avenue has no curbs or gutters. There is a white line down the center of the paved portion.
+Plaintiffs argue that Chicago Avenue is not a highway for purposes of section 3—9. (Ill. Rev. Stat. 1975, ch. 105, par. 3—9.) They contend that the legislature intended that only small, isolated areas could be involuntarily annexed. Unless a “highway” tends to isolate the area as does a river, lake or railroad, then the involuntary annexation procedures should not apply. Defendant argues that “highway” is so general a term that Chicago Avenue qualifies as a highway under section 3—9.
+In 1947 the legislature codified existing laws pertaining to park districts of less than 500,000 inhabitants. (Ill. Rev. Stat. 1947, ch. 105, pars. 1—1 et seq.) Part of article III of that codification was concerned with annexation. Section 3—1 provided for annexation by petition of “[a]ny territory adjoining a park district”; section 3—2 provided for annexation by referendum of “territory adjoining any Park District.” Ill. Rev. Stat. 1947, ch. 105, pars. 3—1, 3—2.
+In 1961, section 3—9 was added. It provided:
+“Whenever any territory not incorporated within a park district, containing sixty acres or less, is wholly bounded by one or more park districts, or is wholly bounded by one or more park districts and a river or lake, such territory may be annexed by any park district by which it is bounded in whole or in part, by the passage of an ordinance to that effect. The ordinance shall describe the territory annexed and a certified copy thereof together with an accurate map of the annexed territory shall be filed in the offices of the County Clerk and Recorder of each county in which said district lies.” (Emphasis added.) Ill. Rev. Stat. 1961, ch. 105, par. 3—9.
+In 1963, section 3—1 was amended to provide for annexation by petition of “[a]ny territory adjoining a park district, or separated therefrom only by a river, stream or other body of water, street, alley, roadway, highway, toll road, or railroad” (Ill. Rev. Stat. 1963, ch. 105, par. 3—1) and section 3—2 was amended to provide for annexation by referendum of “[tjerritory adjoining any Park District, or separated therefrom only by a river, stream or other body of water, street, alley, roadway, highway, toll road, or railroad” (Ill. Rev. Stat. 1963, ch. 105, par. 3—2). Section 3—2 was further amended in 1967 to add the words “drainage canal or ditch” (Ill. Rev. Stat. 1967, ch. 105, par. 3—2).
+In 1973, section 3—9 was amended to read:
+“Whenever any territory not incorporated within a park district, containing sixty acres or less, is wholly bounded by one or more park districts, or is wholly bounded by one or more park districts and a river, lake, railroad or highway, such territory may be annexed by any park district by which it is bounded in whole or in part, by the passage of an ordinance to that effect. The ordinance shall describe the territory annexed and a certified copy thereof together with an accurate map of the annexed territory shall be filed in the offices of the County Clerk and Recorder of each county in which said district lies.” (Emphasis added.) Ill. Rev. Stat. 1973, ch. 105, par. 3—9.
+From a reading of the above sections of article III, it is clear that with reference to the annexation of property by petition or referendum the legislature intended that the separation from an existing park district could range from something as insignificant as an alley or street to something as substantial as a highway, toll road, railroad or a water barrier, but that with reference to the involuntary annexation of a relatively small tract surrounded on three sides by park district, the fourth boundary must be a substantial one. The addition in section 3—9 of “railroad or highway” to “river, lake” makes clear that “highway” as there used was intended to mean more than an alley or street.
+The record in this case shows that Chicago Avenue is a two block long street in a subdivision, giving access only to other streets. It is not a highway as that term is used in section 3—9.
+The legislative intent that the involuntary annexation procedure for small, isolated areas requires a fourth boundary of a major thoroughfare is made clear by its recent amendment of section 3—9. Effective October 1, 1977, that section provides:
+“Whenever any territory not incorporated within a park district, containing sixty acres or less, is wholly bounded by one or more park districts, or is wholly bounded by one or more park districts and a river, lake, railroad or arterial street, as defined in Section 1—104 of the Illinois Vehicle Code, such territory may be annexed by any park district by which it is bounded in whole or in part, by the passage of an ordinance to that effect. The ordinance shall describe the territory annexed and a certified copy thereof together with an accurate map of the annexed territory shall be filed in the offices of the County Clerk and Recorder of each county in which said district lies.” (Emphasis added.) (P.A. 80—847 passed September 21, 1977, effective October 1, 1977.)
+An “arterial street” is defined in section 1—104 of the Illinois Vehicle Code as:
+“Any U.S. or State numbered route, controlled access highway, or other major radial or circumferential street or highway designated by local authorities within their respective jurisdictions as part of a major arterial system of streets or highway.” (Ill. Rev. Stat. 1975, ch. 95½, par. 1—104.)
+Clearly, Chicago Avenue is not an arterial street; nor was it a highway under section 3—9 as it existed before its recent amendment.
+The order of the circuit court of Cook County is reversed and the cause remanded with instructions to enter a judgment of ouster against defendant, Arlington Heights Park District, a municipal corporation, and to enter judgment in favor of plaintiffs.
+Order reversed and cause remanded with directions.
+GOLDBERG, P. J., and McGLOON, J., concur.
