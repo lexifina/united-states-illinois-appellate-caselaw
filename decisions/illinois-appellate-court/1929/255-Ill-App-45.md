@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 33,936"
+decided: "1929-11-06"
+citations: ["255 Ill. App. 45"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago Title & Trust Company, Appellee, v. John H. Bickley et al., Defendants. Appeal of Builders Bond & Mortgage Company, Appellant."]
+source_url: "https://static.case.law/ill-app/255/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5544034
+cites_cases: ["144 Ill. App. 624", "238 Ill. App. 450", "252 Ill. App. 417", "254 Ill. App. 607"]
+---
+
+# Chicago Title & Trust Co v. Bickley
+
+## Majority (Mr. Justice Holdom)
+
+Mr. Justice Holdom
+delivered the opinion of the court.
+This is an appeal from an interlocutory order of August 9, 1929, appointing a receiver. The trust deed sought to be foreclosed secures the payment of the principal indebtedness of $135,000. The appellant in this, cause, Builders Bond & Mortgage Company, filed its bill in the superior court to foreclose a trust deed securing the principal sum of $20,000, the lien whereof, was subordinate to that of complainant in the instant cause. In the Bond * & Mortgage Company case Neis O. Johnson had theretofore been appointed receiver, as recited in the order. In this appeal the receivership in that case of Neis O. Johnson was extended to the case at bar, as in said order recited. Said order is in the following words:
+“It is, therefore, on motion of complainant in this cause,
+“Ordered, adjudged and decreed that the receivership of Neis O. Johnson, heretofore appointed as receiver in said case number 489934, be and it is hereby extended to this cáuse, and the said Neis O. Johnson, as receiver in this case of said premises, is ordered' to file in this cause & bond as such receiver; in the usual form, in the penal sum of $10,000, with surety to be approved by this court; and
+“In view of the fact that this is an extension of a receivership, .
+“It is ordered by the court, upon consideration of the sworn bill of complaint herein and of the provisions of said trust deed, and for good cause shown, that the complainant herein be and it hereby is excused from giving, and shall not be required to give, the bond provided by the statute in case of the appointment of a receiver on motion of a party to the cause. ’ ’
+The trust deed in the case at bar pledged the rents, issues and profits of the mortgaged premises with power in case of default to collect the same until the indebtedness secured thereby is paid in full.
+The power to appoint a receiver is controlled by ch. 22, ff 55 of Cahill’s 1929 Illinois Statutes, which is in the following words:
+“Before any receiver shall be appointed, the party maldng the application shall give bond to the adverse party in such penalty as the court or judge may order, and with security to be approved by the court or judge, conditioned to pay . . . provided that bond need not be required, when for good cause shown, and upon notice and full hearing, the court is of opinion that a receiver ought to be appointed without such bond.”
+On this appeal we are not concerned with any other phase of the cause except the question of the validity of the order appointing the receiver appealed from. Our jurisdiction extends only to the validity or not of the order. We have no authority to intermeddle with the disposition of the moneys collected by the receiver, — that is a matter for disposition by the chancellor whenever the parties may move the court for a further order in the cause remaining within its jurisdiction. The cause for every purpose, with the exception of the order sought to be reviewed, remains in the trial court.
+The power to appoint a receiver in the case at bar is controlled by the statute which requires that complainant shall in the first instance give bond as therein provided. The appointment of a receiver pendente lite in any case is a drastic order removing the property from the control of the mortgagor before the rights of the parties are determined by a judicial hearing and determination. For this reason courts should proceed with caution and no receiver should be appointed unless and until the statutory requirements have been strictly complied with. The statute requires, as a condition precedent to the appointment of a receiver, that “good cause be shown and upon notice and a full hearing,” and further that the court shall be “of opinion that a receiver ought to be appointed without such bond.” The bond referred to is that of complainant. The whole question, and the only one, before us for solution is, did complainant sufficiently comply with the statute, so that the chancellor was justified in dispensing with the statutory bond in appointing a receiver.
+There was no full hearing, and no showing that the trust deed was scant security for the indebtedness secured thereby, and the court failed to set forth in the order of appointment that the court was of the opinion that a receiver should be appointed without bond. Of the foregoing there is no dispute. In this condition of the record can the order of appointment be sustained? The authorities controlling uniformly answer the question in the negative. The attempt of counsel to distinguish these cases from the instant case is a failure.
+As it will appear from a reading of the order appealed from not only was there no hearing, but nothing in the order waiving* the giving of a bond by complainant to the effect that it was the opinion of the court that the bond of complainant ought not to be required, and the further fact appears that complainant did not give any bond, as the statute required: furthermore there is no recital of any fact which would justify the court in waiving the statutory bond of complainant. While the argument that the order was inferentially based upon the opinion of the court, and that the court would not have come to the conclusion which it did unless it was of the opinion that the bond should be waived, is good logic, still it does not satisfy the statute. We have no right to indulge in inferences. The fact that the court was of such opinion should have been recited in the order.
+The authorities are uniform to the effect that the-order appointing the receiver must contain all the necessary findings of fact showing that the requirements of the statute were complied with, and that such find- ■ ings cannot be dispensed with by reference to any other part of the record. The opinion of the court is an essential requirement to justify the entry of the order appointing a receiver without the preliminary bond required by the statute.
+Sherman Park State Bank v. Loop Office Bldg. Corp., 238 Ill. App. 450, supports this doctrine, where it is said:
+“It is not enough to recite that the bond is waived ‘upon good and sufficient showing.’ The facts must be shown which would excuse 'the giving of the bond. The specific reason for appointing a receiver without bond must be recited in the order.”
+In Watson v. Cudney, 144 Ill. App. 624, this court said:
+“To entitle appellee to the appointment of a receiver, he must as a sine qua non to the enforcement of that right, give the bond required by statute, unless it is the opinion of the court that a receiver should be appointed, without bond, and then the court’s opinion must affirmatively appear in the order mailing the appointment.”
+And we said in Davis v. Blair, 252 Ill. App. 417: “No facts are set forth, and it is not even recited that the chancellor was of the opinion that the bond should be waived. This form of order has been repeatedly held bad.”
+These observations are equally applicable to the instant case.
+In Foreman Trust & Savings Bank v. American Sash & Door Co., 254 Ill. App. 607 (Abst.), this court said:
+“No such bond was required or given by the complainant in support of its application for a receiver, and nothing appears in the bill showing any good reason why the bond should be waived. The order of the court appointing the receiver fails to disclose that it was entered after a full hearing, nor does it affirmatively appear in the order that the court was of the opinion that the receiver should be appointed without bond because of any good cause shown. , . . Under the circumstances as disclosed by the record, the appointment of the receiver was not in compliance with the statutory requirement and this cannot be dispensed with.”
+In view of the decisions herein recited and the firm and fast principle adhered to by our State courts of review complainant’s bond on the appointment of a receiver cannot be dispensed with unless the statute regarding the same is strictly complied with. In the particulars herein set forth it confessedly appears that the statute was not complied with. Adhering, as we do, to the doctrine of the cases herein recited, and many others which might have been cited, the interlocutory order appointing a receiver herein is reversed.
+Reversed.
+Wilson, P. J., and Ryner, J., concur.
