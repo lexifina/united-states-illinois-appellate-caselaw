@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-12-13"
+citations: ["56 Ill. App. 248"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Minnesota Lumber Co. v. The Whitebreast Coal Co."]
+source_url: "https://static.case.law/ill-app/56/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5784003
+cites_cases: ["10 Pa. 164", "102 Ill. 531", "103 U. S. 49", "113 Ill. 228", "123 U. S. 392", "13 Ill. 140", "130 Ill. 28", "133 U. S. 433", "133 U. S. 434", "14 Pa. St. 18", "183 U. S. 434", "19 N. H. 196", "19 Vt. 202", "20 Atl. Rep. 383", "20 Brad. 528", "20 Ill. 217", "21 Ill. 598", "22 Pick. (Mass.) 181", "23 Pick. (Mass.) 24", "33 Am. Dec. 297", "4 Brad. 394", "4 C. B., 578", "4 N. H. 290", "40 Pa. St. 564", "43 Miss. 641", "43 N. Y. 275", "47 Am. Dec. 682", "49 Am. Dec. 252", "51 Ill. 184", "6 Brad. 613", "6 Gray (Mass.) 505", "6 Gray 506", "7 Brad. 560", "7 Brad. 564", "73 Pa. St. 198", "75 Iowa 550", "78 Ill. 433", "79 Ill. 328", "79 Ill. 351", "83 Ill. 33", "9 Conn. 421"]
+---
+
+# Minnesota Lumber Co. v. Whitebreast Coal Co.
+
+## Majority (Me. Justice Harker)
+
+Me. Justice Harker
+delivered the opinion of the Court.
+The action of the court in sustaining a demurrer to the special pleas of set-off ivas not erroneous. The alleged contract of August 4th set out in the first plea, is void for uncertainty. By it “Minnesota Lumber Company agrees to buy its requirements of anthracite coal for the season of 1886-1887, of the Whitebreast Coal Co., to be furnished as ordered.” What its requirements were to be is nowhere defined. The contract furnishes no data from which the coal company could approximate the probable demands which might be made on it; whether one ton or one hundred thousand tons can not be ascertained from the agreement. This uncertainty is not removed by any allegation in the plea. Whether the “ requirements ” were for consumption in operating a factory or for furnishing the retail trade of a particular town, county, State, or country, or whether for -speculation, can not be learned from the contract or any allegation in the plea. Furthermore the agreement does not bind the lumber company to require any anthracite coal. It is, therefore, void for want of mutuality. The general rule is that a promise is not a good consideration for a promise, unless there is mutuality of engagement.
+The contract set up in the second special plea, violates section 130, chapter 38 of the Revised Statutes, and is therefore void as being malum prohibitum.
+“ Whoever contracts to have or give to himself or another, the option to sell or buy, at a future time, any grain, or other commodity, stock of any railroad, or other company, or gold, or forestalls the market by spreading false rumors to influence the price of commodities therein, or corners the market, or attempts to do so in relation to any such commodities, shall be fined not less than ten dollars, nor more than one thousand dollars, or confined in the county jail not exceeding one year, or both, and all contracts made in violation of this section shall be considered gambling contracts, and shall be void.” Starr and Curtis’ Statutes, Yol. 1, page 721.
+That the “ privilege of ordering any quantity of coal not in excess of 12,000 tons,” is only an option, is so clearly established by the reasoning employed by the learned judge who wrote the opinion of our Supreme Court, in Schneider v. Turner et al., 130 Ill. 28, that we do not care to more than refer to that case in support of our holding.
+To make out its case appellee introduced the written orders of appellant, made proof of shipments of coal on the orders and proved the value of the coal. It showed shipments in August, September, October, ¡November and December, 1886, amounting to 4,176 tons, valued at $19,739.97, credits amounting to $10,485.61 and a balance of $9,254.36, for which last mentioned sum the Circuit Court rendered judgment. There was no dispute as to the quality of the coal delivered, but appellant contended upon the trial that the coal was ordered, shipped and accepted under the terms of the agreements of August 21,1886, and that inasmuch as such agreement was in violation of that section of the criminal code quoted above, there could be ho recovery for the unpaid balance. Such contention is most earnestly argued in this court for a reversal of the judgment. It should be borne in mind that the alleged contract is not declared upon, nor is the suit to enforce it, or to recover damages for a breach of it.
+Appellee did not call to its aid the illegal contract to make out its case. It was not necessary to do so. It was only necessary to show that the coal was ordered and delivered and what was the reasonable value of it.
+The claim which forms the basis of the suit is perfectly legitimate. The sale and delivery of coal is not illegal. It is only option contracts to buy or sell coal that are prohibited by statute. Although there may be some illegal feature indirectly connected with a transaction involved in a suit, yet the plaintiff may recover if his cause of action is otherwise legitimate, and he can make out his case without calling tc his aid the illegal agreement. The test of whether the demand can be enforced at law is whether the plaintiff requires the aid of the illegal contract to establish his case. Armstrong v. American Exchange Bank, 183 U. S. 434; Thomas v. Brady, 10 Pa. 164; Holt v. Green, 73 Pa. 198; Congress Co. v. Knowlton, 103 U. S. 49; Welch v. Wisson, 6 Gray 506; Mosher v. Griffin et al., 51 Ill. 184.
+We are of the opinion the judgment should be affirmed.
