@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1895-07-01"
+citations: ["59 Ill. App. 592"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Germania Life Insurance Company v. Elizabeth Koehler, for the Use of Solomon Mueller."]
+source_url: "https://static.case.law/ill-app/59/cases/0592-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5150920
+cites_cases: ["12 Ill. 172", "37 Ill. 331", "37 Ill. App. 550"]
+---
+
+# Germania Life Insurance v. Koehler ex rel. Mueller
+
+## Majority (Hr. Justice Sample)
+
+Hr. Justice Sample
+delivered the opinion of the Court.
+The appellee, at the January term, 1894, obtained a judgment against appellant on a life insurance policy, issued many years before, upon the life of her husband. -The suit was originally instituted in the name of appellee, for the use of Solomon Mueller, the usee in suit at bar. The pleadings were so amended that the name of the usee was stricken and judgment was taken in name of appellee. After judgment appellee assigned the same to one Suffan, who entered satisfaction thereof on the judgment docket, on the 9th day of May, 1894. What he paid the appellee for the judgment, or what was paid to him, the record does not show. It appears that after said judgment ivas obtained, Mueller tried to obtain an assignment of the judgment to himself, but the appellee refused to make it, showing, she claimed, an interest in it. At the September term, 1894, Mueller brought suit on the judgment in the name of appellee, for his use, and obtained a judgment for $4,000 debt and $113.89 damages, being the full amount of the original judgment, with interest. The case was tried before the court. The errors assigned question, first, the finding in favor of plaintiff for any sum; second, the finding for a sum larger than was due Solomon Mueller.
+The evidence shows the policy was issued on the 21st day of March, 1866, and that on the 29th day of May, 1873, it was assigned by appellee and her husband to George Mueller to secure the payment of $1,000, with ten per cent interest thereon, within two years; that in 1875, George Mueller died, having, by his will, bequeathed this policy to Solomon Mueller; that on the 28th day of February, 1889, the appellee, Elizabeth Koehler, assigned the policy to Solomon Mueller as executor of George Mueller. These assignments were on the back of the policy, and appellant knew of them. It claims, however, that the amendment to the declaration in the suit on the policy, by striking out the usee’s name, made the judgment that of Elizabeth Koehler alone, and it did not have to inquire further as to Solomon Mueller’s interest therein. The fact remained, however, that the assignments on the policy were not canceled, and the usee testified on the trial that he had an interest of $1,000 in the policy, with interest, and some payments of premiums that had been made. This was full notice to appellant that Mueller- had an interest in the policy and judgment thereon, Hudson v. McConnell, 12 Ill. 172, which holds: “If a defendant has notice that a judgment against him belongs to a person other than the plaintiff upon the record, he is as much bound by such notice as if the record stated the judgment to be for the use of such other person.”
+The finding of the court was sustained by the evidence that appellant had notice of such interest of Mueller, but that was not of the entire interest in the judgment.
+In this case Mueller testified: “ I have said I got a thousand dollars in it, and some premiums that I have paid, and some other expense. She brought the suit for the benefit that I should get my money and premiums that I paid; all that was over that she was to get. Q. Have you any interest in this suit except the thousand dollars and interest on it ? A. Hot at all; only that and what I have paid out for premium. Q. The other goes to the woman? A. Tes, sir.”
+It is evident that Solomon Mueller held the assignment as collateral security for the $1,000, the interest thereon, and certain premiums paid. In a suit on the collateral, he would ordinarily have the right to recover judgment for the full amount it represented, without regard to the amount due him. But in this case it must be assumed, as between Elizabeth Koehler and appellant, that the judgment is satisfied. She assigned the judgment to-Suffan, and he satisfied the same of record. They are not complaining and there is no evidence to show these were not bona, fide transactions. Therefore Mueller was only entitled to recover what was actually due him. As stated in Daniel on Neg. Inst., Vol. 1, Sec. 852, when it appears that the bill or note was accepted by the holder as collateral security for a debt, and he is deemed entitled to recover upon it, he is still limited to the amount of the debt which it secures, if there be a valid defense against his transferrer. A note so held as collateral security is only protected to the extent of the debt so secured and the same defense may be interposed as to the residue as if it had not been assigned. Saylor v. Daniels, 37 Ill. 331; Ehrler v. Worthen, 37 Ill. App. 550, 556.
+The principle of these cases is applicable to this one. The judgment is therefore reversed and the cause remanded.
