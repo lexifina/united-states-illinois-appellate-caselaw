@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-141, 71-142, 71-363 cons."
+decided: "1972-05-04"
+citations: ["5 Ill. App. 3d 196"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellant, v. Wayne Rotramel et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/5/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2523739
+cites_cases: ["130 Ill.App.2d 588", "264 N.E.2d 423", "284 Ill. 315", "34 Ill.2d 179", "372 Ill. 186", "38 Ill.2d 389", "39 Ill.2d 436", "394 Ill. 362", "49 Ill.2d 14", "8 Ill.2d 43"]
+---
+
+# People v. Rotramel
+
+## Majority (Mr. PRESIDING JUSTICE SEIDENFELD)
+
+Mr. PRESIDING JUSTICE SEIDENFELD
+delivered the opinion of the court;
+The above appeals, each by the State from an order of the trial court, were consolidated by this Court for disposition. All defendants were represented by counsel and each was separately charged with driving a motor vehicle while under the influence of intoxicating liquor. (Ill. Rev. State. 1969, ch. 95½, par. 11 — 501.) In each, the trial court, on its own motion, and over objection by the State, amended the face of the complaint to charge the offense of reckless driving (Ill. Rev. Stat. 1969, ch. 95½, par. 11 — 503) and, without hearing evidence, accepted a plea of guilty to the reduced charge, entered a fine of $100 and assessed costs in the sum of $10.
+The cases differ only in the following respects: Rotramel was previously tried under par. 11 — 501, resulting in a “hung jury”; Prello had also been charged with improper lane usage which was dismissed by the court on its own motion, and Campbell was ordered, in addition to fine and costs, to deposit her drivers license with the court for six months (the period was later amended to one month).
+The threshold question raised by the defendants is whether the State has the right to appeal. Supreme Court Rule 604 provides (in part pertinent here) that the State may appeal only from an order or judgment, “the substantive effect of which results in dismissing a charge for any of the grounds enumerated in section 114 — 1 of the Code of Criminal Procedure * * (Ill. Rev. Stat. 1969, ch. 38, par. 114 — 1). The State argues that the court, by reducing the charge, in effect dismissed the original charge brought. In People v. Love (1968), 39 Ill.2d 436, 438-440, it was held that the intent of section 114 — 1 was not to reduce the State’s Attorney’s right of appeal to only the ten grounds set forth in the statute, but to include within that right those instances whereby the substantive effect of the judgment would be the dismissal of the indictment, information or complaint. See also, People v. Petropoulos (1966), 34 Ill.2d 179, 181, and People v. Finkelstein (1939), 372 Ill. 186, 192.
+We agree with the State that the substantial effect of amending the complaint and accepting a plea on a lesser charge substituted by the judge amounted to a dismissal of the complaint for driving under the influence of intoxicating liquor. We conclude that the State could properly appeal.
+It is conceded that the State could have re-filed the original charge or petitioned for a writ of mandamus to seek to expunge the court’s order. Re-filing would be a burdensome procedure under the circumstances and amount to a collateral attack upon the court’s order; while mandamus, though an appropriate action, is an extraordinary remedy which the State was not required to pursue when the relief it seeks may be obtained upon direct appeal.
+The court was clearly without authority to proceed as it did. By statute the State’s Attorney is charged with the commencement and prosecution of criminal cases within the county, (Ill. Rev. Stat. 1969, ch. 14, par. 5.) In the exercise of his public duty, he is granted certain discretionary powers, one of which is to determine the offense which can and should properly be charged. Article III of the Illinois constitution divides the powers of government among the legislative, executive and judicial departments and provides that none of these shall exercise powers belonging to the others. The State’s Attorney’s office is a part of the executive branch. It is clear that the judicial department may not take as its own discretionary powers vested in an executive officer. People v. Rhodes (1967), 38 Ill.2d 389, 396; People v. Graber (1946), 394 Ill. 362, 370-371; People v. Baron (1970), 130 Ill.App.2d 588, 264 N.E.2d 423, 425-426.
+We have been furnished with no authority under which the court may dismiss, nolle prosse, or amend a charge on its own motion, for no defect in pleading and with no evidence taken. The extent of the court’s authority relative to the charge to be brought is to review the attempted exercise of discretion when the State’s Attorney is the one seeking to nolle prosse. People v. Newcomer (1918), 284 Ill. 315, 325; People v. Sears (1971), 49 Ill.2d 14, 29; People v. Daniels (1956), 8 Ill.2d 43, 52.
+The trial court’s order dated February 25th, 1971 amending the complaints is reversed. The judgments entered on the pleas of the defendants to the amended complaints are vacated. The cause is remanded to the trial court for further proceedings consistent with this opinion.
+Reversed and remanded with directions.
+ABRAHAMSON, J., concurs.
+
+## Concurring in part and dissenting in part (Mr. JUSTICE THOMAS J. MORAN)
+
+Mr. JUSTICE THOMAS J. MORAN
+concurring in part and dissenting in part:
+I concur with the majority that the trial court was without authority to amend the complaint but must dissent from that portion of the opinion which concludes that the State had the right to appeal in this matter.
+The majority’s conclusion relies upon the interpretation given our present Rule 604(a) by Love, Petropoulos and Finkelstein, yet all three of these cases are easily distinguished from the instant case. In each of the cited cases, the defendants filed a motion to quash, the motions were allowed and they were released without penalty. In the instant case, defendants took no action but the court, on its own motion, amended the complaint; defendants were not set free but were convicted and suffered a penalty. (Rotramel, Campbell and Peru paid their fines and costs; Campbell was additionally deprived of her driving privileges for one month; all, we assume, sustained a mark on their driving records).
+The majority reasons that the court’s amendment in effect amounted to dismissal of the complaint for driving under the influence of intoxicating liquor. It is my view that the substantive effect of the court’s amendment was to reduce the charge under the original complaint, not to dismiss the complaint in toto. The defendants were not discharged or released but found guilty of a less offense. Now, after having fulfilled their sentences, the majority’s opinion requires that they again stand trial on the original charges, due to .error on the part of the trial judge.
+The majority concedes that the State could have re-filed the original charge but concludes that it would be a burdensome procedure and amount to a collateral attack on the court’s order. Were we to assume the procedure burdensome (an assumption I do not share), such burden would be minimal compared to that placed on the defendants herein. In any case, justice to the defendants cannot be weighed against an inconvenience to the State. I am of the opinion that, in this instance, it would have been appropriate and proper for the State to collaterally attack the unauthorized order by re-filing the original charge.
+The majority further concedes that the State could have filed a mandamus but was not required to do so “when the relief it seeks may be obtained on direct appeal.” Thus, with a conclusionary statement, the majority dispenses with the very issue raised on appeal and thereby begs the question. Such position fails to acknowledge that the issue, the question of the authority of the trial judge to act as he did, was never raised in or passed upon by the trial court. Under the circumstances here, believe that the State should properly have followed one of the procedures which it earlier suggested.
+I therefore would dismiss the appeal brought herein but would include in my opinion that portion of the majority opinion substantiating the trial court’s lack of authority to amend the complaint.
