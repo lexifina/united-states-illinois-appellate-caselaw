@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "70-47"
+decided: "1971-12-03"
+citations: ["2 Ill. App. 3d 791"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nicholas H. Schuline et al., Plaintiffs-Appellants, v. Albert Pelzer et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/2/cases/0791-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2751141
+cites_cases: ["122 N.E.2d 742", "137 N.E. 106", "177 Ill. 496", "218 Ill. 546", "305 Ill. 126", "343 Ill. 175", "350 Ill.App. 306", "363 Ill. 197", "377 Ill. 413", "53 N.E. 877", "74 Ill. 428", "75 N.E. 1049"]
+---
+
+# Schuline v. Pelzer
+
+## Majority (Mr. PRESIDING JUSTICE EBERSPACHER)
+
+Mr. PRESIDING JUSTICE EBERSPACHER
+delivered tire opinion of the court:
+This is an action for reformation of two deeds to a parcel of real estate located in the Village of Swansea, Illinois. The parcel in question is a 20 foot strip of land which was originally the north 20 feet of Lot 6 in the Schuline Place Subdivision.
+The subdivision was originally laid out by Henry Schuline who died on May 24, 1955. Prior to 1951, Henry Schuline had conveyed to his son, Nicholas Schuline and wife, Eleanor, Lot 5 which adjoins Lot 6 on the north. In 1951 Henry conveyed to them ihe 20 foot strip in question, which deed was duly recorded November 26, 1951.
+Upon his death, Henry’s will was probated with Nicholas as executor. The beneficiaries under the will were Nicholas and his two sisters, Velma Keim and Alvina Lanter. Lot 6 was appraised for the estate at $500 by Mr. Rheim, an experienced appraiser. A sketch made by Mr. Rheim in connection with the appraisal showed the twenty foot strip to be outside the boundaries of Lot 6. Pursuant to the appraisal, Nicholas conveyed his interest in Lot 6 to his sisters for one-third of its appraised value. A quit claim deed was drafted by Nicholas’ attorney (who was serving as attorney for the executor) and Nicholas and his wife signed the deed which was recorded January 11, 1957. The deed conveyed the 20 foot strip by failing to except it from the conveyance.
+In March, 1957, Albert and Lucy Pelzer, in response to a newspaper ad, inquired of Mrs. Keim about purchasing Lot 6. After inspecting the property, the Pelzers agreed to buy and did so. The Pelzers took a deed from the Keims and the Lanters which deed also conveyed the 20 foot strip by fading to exclude. Mr. Pelzer had the property surveyed in 1967, and at this point he learned that his deed conveyed to him 20 more feet than he had originally thought.
+At trial testimony was presented (and objected to) regarding the intention of Henry’s heirs regarding the first deed. The testimony is consistent that all parties had intended to not convey the 20 foot strip to Keim and Lanter. The attorney who drafted the deed also testified that he assumed the 20 foot strip was contained within one of the other exceptions to the deed and that it was everybody’s intention to not convey Nicholas’ 20 foot strip. This error was perpetuated in the second deed conveying the property to the Pelzers.
+The testimony showed that the Pelzers were unaware that the 20 foot strip had been conveyed to them until they had the property surveyed. The strip was used during this time by the Schulines and maintained by them and for all purposes as between the Schulines and the Pelzers the property was treated as belonging to the Schulines.
+The trial court sitting without a jury denied plaintiffs’ requested reformation relief, and entered judgment for defendants from which this appeal is taken.
+Plaintiffs seek a reformation of the two deeds based on a mistake of fact which was common to all parties to the deed. Defendant raises the defense that the testimony of the parties to the deed is inadmissible because of the parol evidence rule. Defendant also raises the defense of adverse possession under the seven year color of title statute, Ill. Rev. Stat., ch. 83, par. 7.
+It is clear that the parol evidence rule does not exclude evidence of a mutual mistake of fact. As stated in 45 Am. Jur., Reformation of Instruments par. 133, p. 650:
+“It is practically a universal rule that in suits to reform written instruments on the ground of fraud or mutual mistake, parol evidence is admissible to establish the fact of fraud or of a mistake and in what it consisted, and to show how the writing should be corrected in order to conform to the agreement or intention which the parties actually made or had, and this, even though the instrument in question is within the statute of frauds.”
+The law in Illinois is to the same effect as shown by the case of Koch v. Streuter (1905), 218 Ill. 546, 75 N.E. 1049 wherein the court stated at page 556:
+“We have held that, to justify the reformation of a written instrument upon the ground of mistake, three things are necessary: First, that the mistake should be one of fact, and not of law; second, that the mistake should be proved by clear and convincing evidence; and third, that the mistake should be mutual, and common to both parties to the instrument * * *. In Kelly v. Trumble, 74 Ill. 428, this court said: ‘Where mistake in the execution of an instrument is charged, parol evidence may be resorted to for the purpose of proving what was the real contract of the parties, and a court of equity may reform a contract according to the evidence of the intention of the parties * *
+Thus, evidence of a mutual mistake of fact is not excluded by the parol evidence rule and as between Nicholas and his sisters we feel the evidence is clear, convincing and uncontradicted, that there was a mistake in the description in the deed and that the mistake was a surveyor’s error and the intention was not to convey the 20 foot strip. See also Blumenfeld v. Neuman (1953), 350 Ill.App. 306, 122 N.E.2d 742.
+The next question is the effect of the subsequent sale to the Pelzers. It is clear that there is no action for reformation against a bona fide purchaser for value without notice of facts sufficient to put him on inquiry. Harms v. Corzell, 177 Ill. 496, 53 N.E. 877. However,
+“Equity will reform a deed against a subsequent purchaser unless he is an innocent purchaser without notice of the mistake. The rule does not require that he have actual notice. If he has knowledge of such facts as ought to put a prudent man on inquiry as to the title, he is chargeable with notice of all facts to which diligent inquiry and investigation would have led him. Skelly v. Ersch, 305 Ill. 126, 131, 137 N.E. 106, 108 (1922).”
+The Skelly case (supra) is similar on the facts to the case at bar. There plaintiffs executed and delivered a deed to their grantee, who in turn conveyed. The description included 13 acres not intended to be conveyed. Plaintiffs remained in possession of the 13 acres, which possession was never disputed. Hie subsequent purchasers were told they were buying 12 acres and that is what they took possession of, despite the fact the description in the deed conveyed 25 acres. In addition, they knew plaintiffs were in possession of the 13 acres and raising crops on the same. The court held this to be sufficient notice to put them on inquiry. See also the cases of Korosic v. Pearson (1941), 377 Ill. 413 and Pearce v. Osterman (1931), 343 Ill. 175.
+The facts of the case at bar show that Pelzer did not discover that his deed conveyed the 20 foot strip until ten years after he purchased. He and his wife both stated at trial that they did not think they were acquiring the strip at the time they bought. Pelzers never used the strip and Schulines did use the strip for all of those years.
+Equity requires the reformation of the deeds in this case.
+As to Pelzers last argument regarding the seven year adverse possession statute, we find it inapplicable. The statute (Ill. Rev. Stat., ch. 83, par. 7) provides in pertinent part as follows:
+“Whenever a person having color of title, made in good faith, to vacant and unoccupied land, shall pay all taxes legally assessed thereon for seven successive years, he or she shall be deemed and adjudged to be the legal owner of said vacant and unoccupied land, to the extent and according to the purport of his or her paper title.” (Emphasis added.)
+The strip was not “vacant and unoccupied”. Schulines maintained the strip, mowed it, planted trees and shrubs on it and their son used it for football with his friends. The fact that there was no construction on the strip is not important. Dominion over the strip was exercised by the Schulines in a manner consistent with the character of the land. Their acts were such as to indicate to all that they exercised control over it. The Pelzers did not engage in such acts. The Chicago Title and Trust Co. v. Darley (1936), 363 Ill. 197.
+We therefore reverse the judgment and remand for further proceedings not inconsistent herewith.
+Reversed and remanded.
+MORAN and JONES, JJ., concur.
