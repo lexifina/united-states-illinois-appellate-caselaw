@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-04-11"
+citations: ["81 Ill. App. 537"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lucius E. Rice et al. v. Cornelius Looney."]
+source_url: "https://static.case.law/ill-app/81/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5209376
+cites_cases: ["105 Ill. 354", "118 Ill. 350", "12 Am. Dec. 91", "123 Ill. 111", "148 Ill. 372", "156 Ill. 504", "18 Am. Dec. 350", "30 Ill. 481"]
+---
+
+# Rice v. Looney
+
+## Majority (Mr. Justice Crabtree)
+
+Mr. Justice Crabtree
+delivered the opinion of the court.
+This was a bill in equity for an injunction and an accounting as to certain coal mined by defendant in error in lands of plaintiffs in error. A temporary injunction was granted, which was subsequently modified so as to allow defendant in error to continue mining such coal to the extent of some twelve loads. Answer was filed by defendant in error and the cause referred to the master to take and report proofs with his findings thereon. The cause was finally heard on exceptions to the master’s report, and a decree entered dismissing the bill for want of equity.
+The complainants below prosecute this writ of error.
+It appears from the evidence that plaintiffs in error were brother and sister, respectively, of John B. Rice, late of La Salle county, deceased, and two of his heirs at law. That said John B. Rice, in his lifetime, was the owner of.twenty acres of land, upon which were some coal beds, and that upon his death said land descended to Lucius.E. Rice and Fitz H. Rice, his brothers, and Esther D. Putnam, his sister, his only heirs at law.
+That prior to the death of said John B. Rice, defendant in error had been mining coal on a portion of said twenty acres of land, as he claims, under a purchase thereof from the then owner, said John B. Rice. The defendant in error filed a claim against the estate of said John B. Rice, deceased, in the Probate Court of La Salle County, upon an open account, in which he gave said John B. Rice credit for the purchase price of two coal beds he claimed to have bought in said twenty-acre tract. There was a trial by jury in the Probate Court on said claim, and a balance found due and allowed defendant in error. After the death of John B. Rice, Lucius E. Rice, acting for himself and the other two heirs, made a verbal lease to defendant in error of that portion of said twenty-acre tract used for agricultural purposes, and said Lucius E. Rice insists that it was a part of the terms of such lease that there should be no mining of coal on the premises. This is disputed by defendant in error, who contends that it was understood at the time of the leasing, that he should have the right to mine such portion of the coal beds as he claimed to have purchased from John B. Rice, which he swears was then partially uncovered and the lines pointed out to Lucius E. Rice. There is some evidence tending to corroborate defendant in error in this contention.
+Claiming that defendant in error had no right to mine coal at all on this twenty-acre tract, and in any event that he had taken out more than he was entitled to under his own contention, plaintiffs in error filed this bill to restrain defendant in error from further mining and removing coal from the premises, charging the commission of waste, and averring irreparable injury, and the insolvency of defendant in error. The bill waived oath to the answer and prayed for injunction and an accounting. There was no sufficient verification of the bill to warrant the granting of an injunction, its material averments being only sworn to on information and belief. In any view we have been able to take of this case, we think the decree dismissing the bill for want of equity was clearly right. If defendant in error had purchased the right to mine a certain portion of the coal land from John B. Rice, in his lifetime, as the evidence seems to show that he had, then he should not be enjoined from getting out what he had bought and paid for, the proofs not being satisfactory that he had taken out, or was about to take out, more than he was entitled to remove. On the other hand, if the contention of plaintiffs in error is to prevail, that is, that Looney only rented that portion of the land suitable for agricultural purposes, without right to go upon the coal beds at all, to mine and remove coal therefrom, then as to such mining Looney would be a mere trespasser, for which the law furnished an adequate remedy, there being no proof whatever to sustain the allegation of insolvency. On the contrary, the evidence introduced by defendant in error showed that he was amply able to respond in damages for any judgment which could have been obtained against him on account of the matters complained of in this suit. But aside from the question of jurisdiction, we are of the opinion the evidence warranted the decree upon the merits, and it must be affirmed.
