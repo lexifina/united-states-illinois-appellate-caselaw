@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "61647, 61677 cons."
+decided: "1975-12-12"
+citations: ["35 Ill. App. 3d 29"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. David Hobbs, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/35/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5304197
+cites_cases: ["15 Ill.App.3d 974", "19 Ill.App.3d 697", "27 Ill.App.3d 106", "287 N.E.2d 465", "305 N.E.2d 173", "309 N.E.2d 1", "312 N.E.2d 421", "327 N.E.2d 175", "52 Ill.2d 170", "56 Ill.2d 493"]
+---
+
+# People v. Hobbs
+
+## Majority (Mr. JUSTICE DRUCKER)
+
+Mr. JUSTICE DRUCKER
+delivered the opinion of the court:
+Defendant, after a jury trial, was found guilty of aggravated assault and unlawful use of a loaded weapon in violation of sections 12 — 2(a) (1) and 24 — 1(a) (10) of the Criminal Code. (Ill. Rev. Stat. 1973, ch. 38, pars. 12 — 2(a)(1) and 24 — 1(a)(10).) He was sentenced to concurrent terms of four months. On appeal he contends that (1) the trial judge abused his discretion in denying a motion for a continuance, (2) he was not proven guilty beyond a reasonable doubt as to the weapons charge, and (3) both convictions cannot stand because they arise from the same course of conduct.
+The facts as adduced from the testimony at trial can be summarized as follows:
+At approximately 3 p.m. on July 7, 1974, defendant entered a tavern, Judy’s Place, and borrowed $10 from Jewel Sutton, the owner and his former employer. He returned at approximately 7 p.m. and attempted to borrow $10 from a barmaid, Margaret Welch. She stated that she did not have any money; and defendant then unsuccessfully attempted to borrow money from the patrons. He went behind the bar and telephoned Sutton) who lived above the tavern. After the gall, he started to write out an IOU but discarded it when Welch told him that she would not give him any money from the cash register unless she had permission from Sutton. Defendant then started to reach into the open cash register drawer when Willie. BeU, a security guard on duty, slammed the register shut and told defendant that he could not have any. money. A fight, ensued between the two men, and then defendant left the tavern.
+He returned approximately 15 minutes later, pulled out a gun and pointed it at Bell. Sutton, who had entered the tavern during defendant’s absence and was standing between the men, grabbed the gun and attempted to disarm defendant. They struggled and fell to the floor) The gun, while in defendant’s hand, “clicked” twice but did not fire. Bell, meanwhile, drew his own gun and ran over to the struggle. He began hitting defendant over the head with a, gun and it went off. Defendant received a head-wound and dropped his gun. His sister, who had been waiting outside, rushed in and began yelling and cursing Bell who then picked up defendant’s gun and left. Defendant was escorted by his sister to a nearby hospital. Bell later went to the 18th District Police Station and gave both weapons to Officer Patrick Daley.
+Bell testified that as he picked up defendant’s gun he saw that there were bullets in the cylinders. Officer Daley testified that when he received the gun it was fully loaded and the primer points on two bullets were struck. The State urged that this indicated that the'gun had twice failed to fire. Defendant and all the witnesses called on his behalf testified that defendant did not have a gun at any time during the incident.
+Deféndant appeared in court on July 23, 1974, and was represented by privately retained counsel who made a motion for a continuance which was granted. In subsequent months the case was continued four times, twice at the request of defendant. When the case was called on January 14, 1975, defendant was without representation, and the court appointed a public defender who then made a motion for a two-day continuance in order to talk to his client, interview various witnesses and prepare a defense. The trial judge conducted a hearing on the motion and denied it. He told the public defender that he would be able to conduct the interviews before the start of testimony. The record shows that the interviews were conducted before the start of testimony on January 16, 1975.
+Opinion
+Defendant first contends that the denial of his motion for a continuance was reversible error. He asserts that since counsel had been appointed just moments prior to the case being called, he did not have adequate time to prepare a proper defense, and therefore the trial judge’s denial was an abuse of discretion. Whether or not a continuance should be granted is a matter of discretion for the trial judge, and his decision will not be overturned unless an abuse of discretion can be shown. (People v. Hayes, 52 Ill.2d 170, 287 N.E.2d 465.) Here the trial judge considered the history of the case and did, in fact, give defense adequate opportunity to conduct interviews before testimony was taken. Therefore, we find that the denial was not an abuse of discretion.
+Secondly, defendant contends that the State failed to prove that his gun was loaded and thus he was not proven guilty beyond a reasonable doubt as to the loaded weapons charge. The credibility of witnesses and the weight to be given to their testimony is the province of the trier of fact, and the mere fact that there is conflicting testimony does not in itself necessitate reversal. (People v. Wilbert, 15 Ill.App.3d 974, 305 N.E.2d 173.) Here the jury, after hearing and considering the testimony of all the witnesses, found that defendant did, in fact, have a loaded gun during the incident. The unrebutted testimony of Bell and Officer Daley was sufficient to support that finding.
+Lastly, defendant argues that the aggravated assault and the unlawful use of weapon arose out of the same course of conduct, and thus his sentence and conviction for both crimes cannot stand. (People v. Lilly, 56 Ill.2d 493, 309 N.E.2d 1.) Accordingly, he asserts that the conviction on the weapons charge must be revers§d.
+Two recent cases have discussed this same contention. Though different reasoning was used in each case, following either case would lead us to the same result — the affirmance of both convictions.
+In People v. Dread, 27 Ill.App.3d 106, 327 N.E.2d 175, convictions were upheld for robbery and unlawful use of a weapon, and the court stated that since defendant was carrying a weapon both before and after the robbery, the two crimes did not arise out of the same course of conduct. They reasoned that had defendant been apprehended before the robbery, he would have still been guilty of the weapons crime.
+In People v. Turner, 19 Ill.App.3d 697, 312 N.E.2d 421, a robbery conviction was upheld, but the weapon conviction was reversed on the ground that the motivation for the conduct was armed robbery, and the possession of the weapon was part of that course of conduct. Here it was asserted during oral argument that defendant left the tavern in order to obtain a weapon, and thus the motivation for carrying the weapon was his desire to assault Bell. However, a careful search of the record does not disclose any evidence to support that contention.
+Therefore, we affirm the judgment.
+Affirmed.
+LORENZ and SULLIVAN, JJ., concur.
+Defendant was also charged-with, but found not guilty of, battery and attempted theft in violation of sections. 12r — 3 and 8 — 4 of the Criminal Code (Ill. Rev. Stat. 1973, ch. 38, pars. 12 — 3 and 8 — 4) and not guilty of the violation of two chapters of the Municipal Code of Chicago concerning gun registration.
