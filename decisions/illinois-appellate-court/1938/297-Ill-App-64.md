@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 40,004"
+decided: "1938-10-26"
+citations: ["297 Ill. App. 64"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago Title and Trust Company, Appellee, v. Morris Shamberg et al. Appeal of Trico Corporation, Appellant."]
+source_url: "https://static.case.law/ill-app/297/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5620965
+---
+
+# Chicago Title & Trust Co. v. Shamberg
+
+## Majority (Mr. Presiding Justice Hall)
+
+Mr. Presiding Justice Hall
+delivered the opinion of the court.
+On March 13, 1933, the Chicago Title & Trust Company, as trustee, filed a complaint in the circuit court of Cook county for the foreclosure of the lien of a trust deed to real estate. The trust deed was dated June 25, 1926, and was given to secure an indebtedness of $110,000. Both the trust deed and the evidences of indebtedness were executed by Morris Shamberg and Frieda Shamberg. On January 29, 1937, a decree of sale was entered in the foreclosure proceeding, which found that the defaults alleged in the bill had occurred, and a sale of the real estate was ordered. Among other findings made by the court in its decree, was one to the effect that on May 5, 1936, Morris Shamberg and Frieda Shamberg had entered into a lease of the premises involved with one Homer D. Triplett for a term commencing June 1, 1936, and ending May 31, 1941, both inclusive, unless the lease should be sooner terminated; that this lease was on May 15, 1936, assigned by the lessee to the Trico Corporation, its heirs, successors, administrators and assigns, with the consent of Morris Shamberg and Frieda Shamberg by the Real Estate Management Corporation, their agents; that pursuant to this lease, the sum of $1,050 was deposited with the Real Estate Management Corporation by the lessee, and that out of the sum so paid, the Real Estate Management Corporation acquired certain refrigerators, and the court further found that it was desirable that the purchaser at the sale of the premises involved, should acquire these refrigerators with the property in lieu of the $1,050 deposited, and should take the refrigerators subject to the terms of the lease regarding this deposit, and should expressly assume liability for the deposit.
+It is to be noted that the lease referred to was entered into prior to the decree of sale, and the record shows that it was neither submitted to nor approved by the court. Also, that prior to the decree and on July 15, 1936, a receiver was appointed for the property. On December 17, 1936, following the appointment of the receiver, certain persons, owners of bonds for which the trust deed in question was given as security, petitioned the court to cancel the lease to the Trico Corporation, referred to in the decree, and on July 1, 1937, the court entered an order canceling this lease, and ordered the receiver to enter into a new lease with the Trico Corporation upon the same rental as provided in the original lease, for a term beginning July 1, 1937, and to continue only until the further order of the court. No appeal was taken from this order. Thereafter, the Trico Corporation attorned, and paid rent to the receiver as shown by the report of the master filed on December 13, 1937, which contains the following:
+“Receipts [By the receiver]
+“Trico Corporation (tenant) Sept. $415; Oct. $415; Nov. $415 — Total $1245.
+‘ ‘ Disbursements
+“Nov. 30, 1937. Trico Corp., as per decree, return of deposit. $1050.00.”
+Attached to the receiver’s report just referred to, is the following:
+“Received of George F. Leibrandt, Receiver in case of Chicago Title & Trust Co. as Trustee, v. Morris Shamberg, et al., Circuit Court Case No. B-265425, the sum of One Thousand Fifty Dollars ($1,050.00), said sum having been heretofore deposited as security on a lease dated May 5, 1936, for the premises known as 944-46 Montrose Ave., Chicago, Illinois, from Morris Shamberg, et al., to Homer D. Triplett, and thereafter assigned to Trico Corporation. That by the terms of the decree heretofore entered in the aforesaid cause said sum of $1,050.00 became the obligation of one Burchard B. Hayes, who has made deposit of said sum with George F. Leibrandt.
+Trico Corporation by David Cohl.”
+On October 28, 1937, a petition was filed by the holder of the fee simple title to the premises in question, in which it is recited, in substance, that the Trico Corporation, is the assignee of the lease dated May 5, 1936, hereinbefore referred to, and that the lease was assigned to the Trico Corporation on May 15, 1936, as above set forth; that on July 1, 1937, the court directed George F. Leibrandt, receiver of the property, to enter into a lease with the Trico Corporation; that the purchaser of the property at the master’s sale had deposited $1,050 in consideration of the conveyance to him of the refrigerators; that the net rents for the period of redemption extending from December 1, 1937, to May 25, 1938, had been deposited with the Chicago Title & Trust Company, and that the Trico Corporation is entitled to receive from the receiver the sum of $1,050, provided it should have first complied with the terms of the lease entered into between Leibrandt and the Trico Corporation on July 1, 1937. The petition prayed that the court order the receiver to deliver possession of the premises to the petitioner. On this petition, the court entered an order terminating the receivership and terminating the lease between the receiver and the Trico Corporation dated July 1, 1937. The court further ordered that the Trico Corporation surrender possession of the premises, together with all goods, chattels, furniture and fixtures contained therein, secured by the trust deed in question, and sold in pursuance to the foreclosure sale, to the purchaser at the foreclosure sale. It is from this order that the appeal is being prosecuted.
+The errors assigned by the Trico Corporation are as follows:
+“1. The Court erred in its order of November 30, 1937, insofar as the order directed the Trico Corporation to deliver possession to the equity holder.
+“2. The order of November 30, 1937, should have granted the relief requested in the lessee’s cross-petition.
+“3. The Court should have found that the order of July 1, 1937, cancelled the lease only as between the receiver and the Trico Corporation, and not as between the owner of the equity and the lessee.
+“4. The Court should have found that by reason of the redemption, the lease was continued in full force and effect.
+“5. The Court should have ordered the lessee to remain in possession under its lease.”
+Plaintiff insists that the order of July 1, 1937, by which the court ordered the original lease canceled, was a final order, was not appealed from, and therefore, no question can be raised to it now. In its original brief the Trico Corporation insists that the order canceling the original bill was not a final order, and was subject to modification, alteration or vacation on the final hearing of the cause. In its reply brief, the Trico Corporation makes the following statement: “We concede that the order of July 1, 1937, was a final order and was an appealable one.” The Trico Corporation now insists that by reason of the redemption from the sale, the original lease had “again” become effective, even though the court ordered it canceled. ■ Plaintiff contends that even if this were true, that inasmuch as the Trico Corporation acquiesced in the cancellation of this original lease, and thereafter attorned and paid rent under the new lease, it cannot now claim any rights under the original lease, and cites various cases in support of its contention. As to this, in its reply brief, the Trico Corporation states that “We have no quarrel with the law expressed . . . , which is basic.”
+We are of the opinion that the appeal is frivolous and without merit. The order appealed from is, therefore, affirmed.
+Order affirmed.
+Hebbtj and Denis E, Sullivan, JJ., concur.
