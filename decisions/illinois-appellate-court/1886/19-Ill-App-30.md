@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-04-16"
+citations: ["19 Ill. App. 30"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Illinois Glass Co. v. Luke Holman, use, etc."]
+source_url: "https://static.case.law/ill-app/19/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4902462
+cites_cases: ["108 Ill. 330"]
+---
+
+# Illinois Glass Co. v. Holman
+
+## Majority (Wilkiu, J.)
+
+Wilkiu, J.
+On March 3, 1883, the town of Hpper Alton obtained judgment against Luke Holman for $1.30 for a failure to perform street labor. . On return of execution no property, and affidavit, appellant was summoned as garnishee. It answered that it was indebted to Holman but in a less sum than $50 ; that the indebtedness was for wages, and claimed the exemption for him. Judgment was rendered against appellant for $7.35 and cost, and it appeals to this court. Section 37, 0. 121, page 918, E. S. 1881 (then in force) provides: “Ho personal property shall be exempt from levy of attachment or execution, when the judgment is for commutation of road or street labor.”
+To sustain the judgment of the court below it must be held that the town of Hpper Alton could invoke this provision of the statute in the collection of a penalty for a failure to perform street labor assessed under an ordinance of said town, and also that the provisions of that section shall be extended to proceedings under the Garnishment Act.
+Heither position is tenable, but we choose to place the reversal of this case on the ground that the exemption provided for in the 14th section of the Garnishment Act is in no way affected or qualified by section 37 above referred to. By the last named section nothing is exempt from “levy of attachment or execution.” While a garnishee proceeding accomplishes the same purpose as an attachment, or execution, it is in no sense a levy upon property. It is a judicial proceeding by which a new judgment is obtained. Section 14, G. 62, provides that the wages of a defendant being the head of a family and residing with the same to the amount of fifty dollars shall be exempt from garnishment. If the wages exceed fifty dollars “judgment shall be given only for the balance above that amount.” It is the duty of the garnishee to claim the benefit of the exemption for his employe. C. & A. Railroad Co. v. Ragland, 84 Illinois, 375. Garnishee proceedings are strictly statutory. When the garnishee has shown the indebtedness to be for wages, and that the defendant is the head of a family residing with the same, that the indebtedness does not exceed fifty dollars, and claimed the exemption for the defendant, the law as effectually protects him against liability as though he owed the defendant nothing. As was said by the Supreme Court in Buckingham et al. v. Fisher, 70 Ill. R. 121, “ There are no qualifications or limitations in the statute and we can not add them.”
+In Mineral Point R. R. v. Barron, 83 Ill. R. 365, in which it is held that this exemption is not confined to residents of this State but applies to wages due non-residents, referring to the statute entitled “ Exemptions, ” it is said section 13 exempts certain personal property owned by the debtor. By section 14 it is declared such property shall continue so exempt while the family of such person, or any of them, are removing from one place of residence to another in this State. And then it is said: “ Here the exemptions seem to have been confined to a resident and the conclusion is inevitable that if it bad been contemplated to so confine the act in regard to garnishment, other and different language would have been employed.” So in this ease, the language being plain and the exemption of so much wages unqualified, and without limitation, it is not for us to take from, or add to its provisions. The wages of a laborer have been made the subject of special protection by the legislature in this State. By section 16, C. 52, R. S., no personal property is exempt from levy of attachment or execution when the debt or judgment is for wages. By this section wages to the amount of $50 are exempt from garnishment. It would scarcely be contended that a laborer who had a judgment for wages could garnishee the wages of another laborer when the amount due was less than fifty dollars and yet if appellee’s construction of section 37 of’-the act of 1879, supra, and the Garnishment Act, is correct, that would unavoidably follow. The case of Fanning v. First Nat. Bank, 76 Ill. R. 56, seems to be relied upon by counsel for appellee as supporting his theory of this case, but we do not so regard it. That case may be said to give a liberal construction to the exemption laws of this State in favor of the debtor, which is the rule of construction in applying such statutes. Here, however, we are asked to adopt the opposite rule and say that a statute which by its terms exempts wages to the amount of fifty dollars in all cases shall be construed to apply only to certain kinds of indebtedness.
+This we hold can not be done.
+Reversed.
