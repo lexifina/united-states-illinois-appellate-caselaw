@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+decided: "1902-01-30"
+citations: ["99 Ill. App. 647"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John H. Campbell v. Green & Lombard Lumber Co."]
+source_url: "https://static.case.law/ill-app/99/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2604403
+cites_cases: ["1 Scam. 137", "147 Ill. 410", "27 Ill. 291", "76 Ill. App. 387", "94 Ill. App. 342", "96 Ill. 409"]
+---
+
+# Campbell v. Green & Lombard Lumber Co.
+
+## Majority (Mr. Justice Sears)
+
+Mr. Justice Sears
+delivered the opinion of the court.
+The grounds urged by the learned counsel for appellant as reasons for a reversal of the judgment are:
+1st. That at the date of the service of the lien notice by appellee upon appellant, all claims of the original contractor for the building in question had been fully paid, and therefore, under the statute, it is contended, no lien could result in favor of appellant, the sub-contractor.
+2d. That the court gave an erroneous instruction to the jury.
+3d. That .the judgment is excessive, in that it exceeds the amount of the jurisdiction of a justice of the peace.
+The evidence establishes conclusively that when the lien notice was served upon appellant by appellee, all the claim of Kreyscher, the original contractor, for his work upon the building, had been fully paid. But the payment was improperly made, and as to appellee it is unavailing. Section 5 of the mechanic’s lien act provides that within ten days after the contract is made, and before commencing work thereunder, it shall be the duty of the contractor to give the owner, and also the duty of the owner to require of him a statement in writing, under oath or verified by affidavit, of the names and addresses of all parties having sub contracts for the specific portions of the work or for material, and of the amount to become due each, and when, or if any such sub-contracts are not then let, the names and addresses of those who have made bids or proposals for the same or for material, and the respective amounts of such bids or proposals, and, within ten days after the same are accepted, the amount thereof, and if any contractor shall fail to so notify the owner within five days after written notice to do so, such owner may cancel the contract with such contractor by written notice of such cancellation, and the lien of such contractor shall be subject to the liens of all other creditors. But this section shall not apply to the contractors who have given, or within ten days first named shall give, to the owner a'good and sufficient bond for the completion of such building or improvement free and clear of all mechanics’ liens, and such bond is made for the use and benefit of those who may be entitled to such liens; nor where such persons shall, in advance, waive their rights to liens and bind themselves to perform their respective subcontracts, services or labor; nor to contractors whose subcontractors and material men agree to take solely for payment, nor to merchant and dealers in material only. .
+The exception contained in the final clause of this section has been construed to apply to original contractors who are material men, and not to sub-contractors who are material men. Huntly Mfg. Co. v. M. C. R. R. Co., 76 Ill. App. 387.
+Section 33 provides:
+“ Ro payments to the contractor or to his order shall be regarded as rightfully made as against the sub-contractor or party furnishing materials if made by the owner without exercising or enforcing the rights and powers conferred upon him in sections five and twenty-three of this act.”
+The evidence is undisputed that the payments by appellant to the original contractor, relied upon now, were made without requiring or receiving any sworn statement, as provided by the statute.
+But it is urged by appellant that this provision can apply only to such sub-contractors as have contracted with the original contractor within the ten days specified in the act, and that the evidence here fails to establish that this subcontract was made within such time, viz., within ten days after the making of the original contract.
+The evidence shows that the sub-contract was made in the early part of October, 1896, but there is no evidence which expressly shows just when the original contract was made. However, we deem the evidence sufficient to warrant the conclusion that there was some material furnished by appellee within ten days after the making of the original contract, and hence that the sub-contract of appellee was made within the time during which the statute required appellant to obtain the sworn statement of the contractor. Mr. Campbell testified :
+“ I know Mr. Krevsclier. Had a contract with him for the erection of a building on the premises described here as admitted in that deed, being 6352 Halsted. I had a contract in writing. He did not, within ten days after making the contract, give me a sworn statement of the lumber and material that was furnished by the Green & Lombard Lumber Company. I did not req uire such a sworn statement of him.”
+The witness speaks of lumber that was furnished by appellee and in connection with the period of ten days after the making of the original contract. The statement of the witness would not be a reasonable statement if no lumber had then been furnished. No other evidence was presented which showed or tended to show the relative dates of the original and the sub-contract. But if lumber had already been, delivered to any extent whatever under this sub-contract within the ten days after making of the original contract, then the conclusion is irresistible that the sub-contract had been made at the time of such delivery, i. e., within ten days after the making of the original contract. In the absence of any evidence to the contrary, we think this evidence is sufficient to establish the fact that this sub-contract was made within ten days after the making of the original contract, and hence it follows that the payments by appellant, made to the original contractor without requiring of him the sworn statement provided for by the statute, were unavailing as payments against the right of appellee to its lien. Nutriment Co. v. George Green Lumber Co., 94 Ill. App. 342.
+The foregoing consideration disposes of the alleged errors in excluding evidence proffered by appellant as to waiver of lien by Krey sober, upon payment to him of his claim.
+The instruction complained of and set out in the foregoing statement of facts, is too broad, but we are of opinion that no prejudice resulted to appellant by the giving of it. The uncontroverted evidence established a right of recovery.
+It is argued that the judgment is for an amount without the jurisdiction of a justice of the peace, and therefore is excessive. The excess over $200 being for interest which had accrued after the judgment had been rendered by the justice of the peace, the recovery was proper. Tindall v. Meeker, 1 Scam. 137; Mitcheltree v. Sparks, Id. 198; Rives v. Kumler, 27 Ill. 291; Alley v. McCabe, 147 Ill. 410.
+The bill of exceptions shows that the judgment was rendered upon the verdict, and the verdict was against both Campbell, the owner, and Kreyscher, the original contractor. This showing by the bill of exceptions is sufficient and controlling. Hirth v. Lynch, 96 Ill. 409.
+The receipt of a check for $200 by appellee, which check was dishonored at bank, is not seriously relied upon in defense of this action. The testimony of Mr. Green that the check was received only upon the day when the bank closed its doors upon suspension of its business, is not controverted.
+There appears no valid defense to appellee’s claim, and we discover no reversible error in the record. Therefore the judgment is affirmed.
