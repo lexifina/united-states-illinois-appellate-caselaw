@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 44,589"
+decided: "1948-12-13"
+citations: ["336 Ill. App. 61"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estelle R. Firebaugh et al., Appellants, v. Francis W. McGovern et al., Appellees."]
+source_url: "https://static.case.law/ill-app/336/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2425888
+cites_cases: ["131 Ill. App. 490", "183 Ill. 467", "195 Ill. 413", "243 Ill. 362", "252 Ill. App. 473", "334 Ill. 362", "334 Ill. App. 79", "95 Ill. App. 323"]
+---
+
+# Firebaugh v. McGovern
+
+## Majority (Mr. Presiding Justice Feinberg)
+
+Mr. Presiding Justice Feinberg
+delivered the opinion of the court.
+The present appeal is by complainants from an order overruling their objections to the final report and account of the receiver, theretofore appointed, and approving the receiver’s report and account except as to the allowance of additional compensation to the receiver and her attorney. This cause was here previously on appeal (334 Ill. App. 79, abst.) from the order appointing the receiver. We reversed that order on the ground that the court was without jurisdiction to enter the order.
+The complainants, as stockholders, officers and directors, filed their original complaint to restrain the defendants from continuing to manage the property under a stock voting trust agreement, alleging that the individual complainants were duly elected officers and directors by the stockholders at a regular meeting of the corporation. The property for which the receiver was appointed, and owned by the company, was a hotel, fully furnished and a going concern. Defendants disputed the right of complainants to act as officers and directors. Both the complainants and the defendants claimed the right to control the bank accounts and to issue checks. Because of this conflict the banks, on intervening petitions, asked that the chancellor enter an order protecting them as to the checks issued but not honored, and directing by proper order which checks should be honored by the banks. It was upon the application of the banks for guidance and for such an order, that the court, of its own motion, appointed the receiver. There had been no complaint on file asking for a receiver, and no facts alleged which would in any way warrant the court in exercising jurisdiction for the appointment of a receiver.
+Pending the first appeal another stockholders’ meeting of the company was held, at which the individual plaintiffs were elected officers and directors. Apparently there was no dispute with respect to this election. Plaintiffs filed their sworn petition in the superior court, alleging the new election and asking that an appropriate order be entered, directing the receiver to turn over possession of the property and deliver the funds in her possession to the plaintiffs. In accordance with the prayer of the petition and upon notice to all parties, an order was entered by the chancellor, directing the receiver to deliver forthwith to the treasurer of the company a check payable to the company in the sum of $9,000, in her possession and control, and possession of the building to the company; that the receiver file an account of receipts and disbursements as receiver; and that all parties file objections, if any, within 10 days.
+The question presented here, which we deem controlling, is whether the receiver is entitled to claim credit for the disbursements set up in her account and alleged by her sworn petition to have been reasonable and necessary for the preservation, operation and protection of the corporate property. Unlike any other reported case called to our attention, where the party procuring the receiver was considered liable for all expense of operation by a receiver wrongfully appointed, and held not chargeable against the assets and property in the hands of the receiver (McAnrow v. Martin, 183 Ill. 467, 473; Hughes v. Link Belt Machinery Co., 95 Ill. App. 323, affirmed in 195 Ill. 413; Corcoran v. Witz, 252 Ill. App. 473; Burrows v. Merrifield, 243 Ill. 362, 363; Dalton v. Zimmer, 131 Ill. App. 490, 493), the instant case is one in which the receiver has no one to look to, legally liable for the necessary expense and outlays by her, as receiver, since none of the parties to the cause could be deemed responsible for the wrongful appointment.
+In McAnrow v. Martin, it was said:
+“When the appointment of the receiver is upon an application adverse to the defendant in the cause, and is without authority of law, the receiver must look for his fees and compensation to the complainant in the suit, upon whose application he was appointed. So, when a receiver obtains possession of money or property under an order, which is afterwards reversed on appeal, and he is required to restore the money to the person entitled thereto, he cannot claim compensation out of the funds in his hands, but must look therefor to the party who secured his appointment. ’ ’
+The fact that the outlays in the instant case were for the operation of the business and preservation of the property does not take it out of the rule laid down in the cases cited. Steenrod v. L. M. Gross Co., 334 Ill. 362. The receiver argues that prior to her appointment as receiver, she was acting in the capacity of manager and continued to so manage while acting as receiver; that if the position of plaintiffs be correct, that the order appointing her was void, she should in equity and good conscience be allowed compensation for her services as manager, since it inured to the benefit of the company and its property. The difficulty with this position is, that any order which the chancellor may enter making it a charge against the property, would, because of the lack of jurisdiction, be void. Steenrod v. L. M. Gross Co. The cases cited and" relied upon by the receiver to sustain her position are not in harmony with the rule in Illinois.
+"We are compelled, under the circumstances, to reverse the order of the superior court with directions to sustain all of the objections of the complainants to the receiver’s report.
+Reversed and remanded with directions.
+Tuohy and Niemeyer, JJ., concur.
