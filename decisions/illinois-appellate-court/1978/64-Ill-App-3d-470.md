@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-93"
+decided: "1978-09-29"
+citations: ["64 Ill. App. 3d 470"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ESTATE OF RUSSELL W. LARIMORE, Deceased.—(STELLA S. LARIMORE, Adm’r of the Estate of Russell W. Larimore, Appellant, v. RUTH W. CHATTERTON, Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/64/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3334268
+cites_cases: ["103 Ill. App. 2d 362", "243 N.E.2d 1", "34 Ill. App. 3d 603", "340 N.E.2d 269"]
+---
+
+# Larimore v. Chatterton
+
+## Majority (Mr. JUSTICE ALLOY)
+
+Mr. JUSTICE ALLOY
+delivered the opinion of the court:
+Stella S. Larimore, administrator of the estate of Russell W. Larimore, deceased, appeals from an order of the Circuit Court of Knox County, in which the court found and declared that Ruth W. Chatterton is the daughter of Russell W. Larimore, deceased. The order followed a hearing on proof of heirship in the proceedings relating to the estate.
+The sole issue on appeal is the determination of whether the trial court’s finding that Ruth W. Chatterton is the daughter of Russell W. Larimore, deceased, is supported by clear and convincing evidence. Both the appellant and appellee agree that clear and convincing evidence is required to prove the paternity of Russell W. Larimore, in view of the fact that the alleged father is dead. In equating the requirement of clear and convincing evidence, we have determined that such evidence is a quantum of proof which leaves no reasonable doubt in the mind of the trier of fact. In re Estate of Dawson (3d Dist. 1968), 103 Ill. App. 2d 362, 371, 243 N.E.2d 1, 5.
+The record discloses that Stella S. Larimore, the administrator-appellant, and surviving widow of Russell W. Larimore, to whom the appellant had been married for approximately three years prior to decedent’s death, testified that the decedent had been married once before and that no children had been bom of either the prior marriage or the marriage to the administrator-appellant. She also testified that the decedent had not adopted any children.
+The record also discloses that Ruby Napier gave birth to Ruth W. Chatterton in Cowden, Illinois, on July 8,1930. Ruby Napier testified that Russell W. Larimore was the father of her child. At the time of the birth of Chatterton, Ruby Napier and the decedent Russell W. Larimore had been “going steady” and planned to marry, but as a result of the opposition of the mother of Ruby Napier, the marriage failed to materialize. A lawyer was hired to represent Napier at the time and worked out an agreement between Napier and Larimore to keep the paternity matter out of court. Larimore paid Napier $25 per month for 20 months, according to that agreement, as noted by the testimony.
+It appears, also, that Chatterton had lived with her mother until she was five years of age, when decedent Larimore took Chatterton to five with Rudy and Goldie Sowers, of Adair, Illinois. Chatterton lived with the Sowers until she was married. During her childhood days, Chatterton visited with Larimore many times and remained with him for periods of from one week to one month. Chatterton always went by the name of Larimore until she married. Evidence was also introduced on behalf of Chatterton showing a baptismal certificate which states that Ruth Wilma, child of Ruby and Russell Larimore, was born on July 8, 1930, and that Rudy and Goldie Sowers and Russell Larimore and his wife were present at the baptism. An obituary was also introduced from the Galesburg Register-Mail at the time of the death of Larimore’s first wife, Esther, who died on June 10,1974, and that obituary noted that Russell Larimore and a stepdaughter, Mrs. Sid (Ruth) Chatterton, survived the decedent Esther Larimore. The obituary from the Galesburg Register-Mail at the time of the death of Russell W. Larimore, stated that Larimore had died on November 9, 1977, leaving Stella Richter (his second wife) and Mrs. Sid (Ruth) Chatterton surviving. Neither Chatterton nor Napier had ever seen an official birth certificate for Chatterton.
+There was no evidence introduced to contradict the evidence presented on behalf of Chatterton, but the appellant apparently relied solely on the fact that no formal birth certificate was presented as to Chatterton’s birth, as a child of the decedent.
+In determining the issue in this case, we must also adhere to the principle that the finding of the trial court should not be disturbed unless it is contrary to the manifest weight of the evidence. (In re Jones (1st Dist. 1975), 34 Ill. App. 3d 603, 608, 340 N.E.2d 269, 273.) In applying this standard of review applicable to causes on appeal, in the instant case, we conclude that the manifest weight of the evidence is in favor of the trial court’s finding that Chatterton was in fact the daughter of the decedent. Chatterton’s mother, who was in the best position to know the facts, testified that Larimore was the father of the child (Chatterton), to which she gave birth. We note that Chatterton had gone by the name of Larimore until she was married and that she had visited and stayed with Larimore on many occasions while she was growing up. There was evidence, also, that Chatterton lived with her mother until she was five years of age, at which time decedent Larimore took Chatterton to live with Rudy and Goldie Sowers at Adair, Illinois, where Chatterton lived until she was married. There was further support from the arrangement to pay $25 per month for the 20 months to keep the paternity matter out of court and the baptismal certificate and the newspaper obituaries to which we have referred lend further support to the finding of the trial court that Chatterton was the child of the decedent.
+The trial court was in the best position to determine the credibility of the witnesses. On the basis of the record, therefore, the judgment and order of the Circuit Court of Knox County finding that Chatterton was the daughter of decedent, Russell W. Larimore, is affirmed.
+Judgment and order affirmed.
+BARRY, P. J., and STENGEL, J., concur.
