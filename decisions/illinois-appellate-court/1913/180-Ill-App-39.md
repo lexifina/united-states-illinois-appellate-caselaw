@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1913-03-10"
+citations: ["180 Ill. App. 39"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louisa Hook, Appellant, v. W. W. Bunch, Appellee."]
+source_url: "https://static.case.law/ill-app/180/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2824117
+cites_cases: ["142 Ill. App. 442", "211 Ill. 383", "222 Ill. 480", "51 Ill. App. 274"]
+---
+
+# Hook v. Bunch
+
+## Majority (Mr. Presiding Justice McBride)
+
+Mr. Presiding Justice McBride
+delivered the opinion of the court.
+This was a trial of the right of property which resulted in a verdict and judgment for the plaintiff under the direction of the court, from which judgment the defendant prosecutes this appeal.
+The appellant has assigned five errors hut in the view we take of this case it is only necessary to consider the second error, which is, “That the court erred in instructing the jury to return a verdict for the plaintiff.”
+The facts in this case are very few and the evidence not of a very conclusive character. The appellee r§h covered a judgment against the Cable Piano Company for $200 before a justice of the peace, caused execution to issue thereon and levied upon two pianos in the possession of appellant. There was some evidence tending to show that the appellee had acted as the agent of the Cable Piano Company at Bast St. Louis in selling and handling its pianos but he denies that he represented them in the year 1911. After the introduction of the formal proof of the execution and notice of the trial of the right of property the appellee testified that he was the owner of the pianos in question and had been since 1905, and rested his case. The appellant then testified that she had a conversation with the appellee in which she says that in the conversation, which occurred between the time of levy of the execution and the trial of this cause in the court, with reference to the ownership of the pianos in question, that the appellee said to her, “I would not make the money off of it anyhow because one of the pianos was his and the other belonged to the Cable Company.” She also testified that in another conversation with reference to a settlement of the case that appellee said, “Well, Mrs. Hook, if you will take fifty dollars I will recommend a settlement;” and that she said, “No, I will never take any fifty dollars from the Company;” he said, “Then we cannot- come to any agreement.” But this latter conversation, upon motion of appellee was excluded from the consideration of the jury. The statement of appellant that appellee said, “I would not make the money off of it anyhow because one of the pianos was his and the other one belonged to the Cable Company” was denied by the appellee. This was substantially all of the testimony offered upon the trial of this case and thereupon the court directed the jury to return a verdict for the plaintiff. It seems to us that if the appellee did say to the appellant that “One of these pianos was his and the other belonged to the Cable Company” that this would certainly prevent him from recovering at least one of the pianos and whether he did make the statement or not was a question for the jury to determine from all of the facts, declarations of the witnesses and circumstances proven in the case; at least giving the testimony of appellant as to the admission of appellee full credit, with all the inferences that might reasonably be drawn from it, one could very reasonably conclude that appellee owned only one of these pianos, and the court in giving this instruction must have found as a fact that the appellee did not make the declaration as testified to by the appellant. The effect of this instruction was to direct the jury to find that both of the pianos were owned by the appellee. It is said by the Supreme Court in the case of Delaware & H. Canal Co. v. Mitchell, 211 Ill. 383: “On the motion to direct a verdict the court was not only bound to assume that a contract was made, but also that it was the contract testified to by the plaintiff and not the one which defendant’s witnesses said he offered to make.” The court is without power to weigh the evidence upon a motion of this character and in doing so invades the province of the jury. Illinois Cent. R. Co. v. Bailey, 222 Ill. 480. We are of the opinion that it was error for the court to direct a verdict in this case.
+Some complaint and argument has been made as to the rulings of the court in excluding certain declarations of appellee made in the offer to compromise. While it is true that an offer of compromise itself is not binding but independent admissions or statements of the facts made in connection with such offer of compromise, though made in an effort to make a settlement, may be given in evidence against the party making them. Greenleaf on Evidence, vol. 1, sec. 192; Domm v. Hollenbeck, 142 Ill. App. 442; Thom v. Hess, 51 Ill. App. 274. This, however, can lie corrected by the court upon another trial and such admissions of independent facts admitted as may appear from the evidence to be such.
+For the errors above indicated the judgment of the lower court is reversed and the cause remanded.
+Reversed and remanded.
