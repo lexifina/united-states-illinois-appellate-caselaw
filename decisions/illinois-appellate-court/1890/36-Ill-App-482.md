@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-05-28"
+citations: ["36 Ill. App. 482"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Sherman v. The Estate of Wealthy Sherman."]
+source_url: "https://static.case.law/ill-app/36/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5012445
+---
+
+# Sherman v. Estate of Sherman
+
+## Majority (Lacey, J.)
+
+Lacey, J.
+This was a claim filed in the County Court by appellant against the estate of his mother, Wealthy Sherman, deceased, for 81,500, for care, services, board and attention rendered her in the last five years of her-life, as claimed by him. Upon its being disallowed in the County Court, the appellant appealed the case to the Circuit Court, where it was tried before a jury, and the claim again disallowed, and, upon the appellant’s motion for a new trial being overruled and judgment rendered against him for costs, the case is brought here by appeal.
+On the part of the appellant, in the court below, there was a great deal of evidence in support of the claim, and unless there were some defenses proven, or the appellant’s evidence contradicted and overthrown, the jury would have been warranted in returning a verdict in favor of appellant for at least a considerable portion of his claim.
+One of the defenses set up by the appellee was that appellant had, by agreement with the other heirs of the deceased^ undertaken to care for her during her life, in consideration that the other heirs would deed to him their reversionary interest in a certain forty-acre tract of land, which had been set off to deceased as dower, in the real estate of her deceased husband, and it was contended that the deed was made by three of the heirs to appellant and Jerry, his brother, at appellant’s request, and Jerry was also to deed to appellant, which he never did. This, however, the appellant disputed, and contested such claim. The appellee also contended that appellant had the use of the dower forty-acre tract, • worth $4 per acre per year, for at least ten years preceding the death of Wealthy Sherman, deceased. This was in the nature of a cross-claim against appellant, in case appellee should fail in the defense that appellant was keeping deceased under the above agreement with the heirs. On this point Homer Wattles was called as a witness by appellee, and allowed to testify, against the objection of the appellant, that appellant had the use of the forty-acre tract of land in question for ten years since the time of the contract in question, and prior to the commencement of this suit, which was worth $4 per acre per year. The appellant insists that this was error, as to all except for five years immediately preceding the death of Wealthy Sherman, deceased; that the five years statute of limitations would cut it off. This would probably be so, were it not for Sec. 17, Chap. 83, R. S. This section allows a counter-claim to be pleaded, even if barred by the statute, if the claim against which it was pleaded was owned by the claimant before the counter-claim was barred. In this case appellant’s claim was owned before the first five years of the proposed set-off was barred, and kept accruing all the time, from year to year, and thereby prevented the statute from running.
+The court, therefore, in view of that statute, did not err in allowing the proof. But the court refused to allow appellant to show that during all the time for the five years next preceding the time covered by appellant’s claim, he boarded and cared for his mother, and thereby fully satisfied that portion of appellee’s counter-claim. This was in the nature of showing payment of such counter-claim, and the appellant was not concluded by his account filed, which did not cover such time.
+The court, we think, erred in refusing the evidence intended to impeach the witness Wattles. He had testified to alleged admissions of appellant, to the effect that he had agreed to keep deceased for the land, and had denied, on cross-examination, that he had told appellant and his brother Jerry, at the house of appellant, soon after the mother’s death, that he did not know anything about this agreement being made. In rebuttal, by way of impeachment, Jerry testified that Wattles did make the statement at the time and place mentioned.
+In rebuttal appellant was also called to testify in contradiction, by way of sustaining the impeachment. This the court refused to allow.
+The conversation occurred after the death of the mother, and the appellant was a competent witness to impeach the witness Wattles. The Circuit Court erred in excluding it. The only instruction given for the appellee was erroneous. There was no proof that all the heirs deeded the forty-acre tract of land to the appellant. Only three made a deed to appellant and Jerry, and Jerry never deeded to appellant. There was no evidence that appellant agreed to support “ Wealthy Sherman ” and said other heirs “ during her natural life,” as supposed in the hypothesis of the instruction. For these errors the judgment of the court below is reversed and the cause remanded.
+Reversed and remcmded.
