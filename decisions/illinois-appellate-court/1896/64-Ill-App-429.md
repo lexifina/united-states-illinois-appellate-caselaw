@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1896-06-01"
-citations: ["64 Ill. App. 429", "64 Ill. App. 419"]
+citations: ["64 Ill. App. 429"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Stella Sturges Cook and Geo. D. Cook v. Don A. Moulton, Trustee, and 
 source_url: "https://static.case.law/ill-app/64/cases/0429-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5175098
-cites_cases: ["13 Ill. App. 68", "145 Ill. 164", "149 Ill. 536", "59 Ill. App. 428", "6 Ill. App. 325", "60 Ill. App. 306", "64 Ill. App. 429", "67 Ala. 396"]
+cites_cases: ["13 Ill. App. 68", "145 Ill. 164", "149 Ill. 536", "59 Ill. App. 428", "60 Ill. App. 306", "67 Ala. 396"]
 ---
 
 # Cook v. Moulton
