@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1896-03-07"
+citations: ["63 Ill. App. 211"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry A. Blanck v. E. A. Medley."]
+source_url: "https://static.case.law/ill-app/63/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5168725
+cites_cases: ["125 Ill. 52", "125 Ill. 64", "17 Ill. App. 382", "90 Ill. 330"]
+---
+
+# Blanck v. Medley
+
+## Majority (Mr. Justice Sample)
+
+Mr. Justice Sample
+delivered the opinion of the Court.
+On the 8th day of June, 1893, the defendant in error executed and delivered to plaintiff in error certain judgment notes, none of which were by their terms due until several months thereafter, on which notes judgment was taken by confession on the 10th day of June, 1893, for $1,540, under the following form of a warrant of attorney: “And to secure the payment of said money we hereby authorize any attorney of any court of record to appear for us in such court, in term time or vacation, at any time hereafter, and confess judgment in favor of the holder of this note for such amount as may appear to be unpaid thereon, together with costs and ten dollars attorney fees.”
+The declaration was signed by B. D. Monroe and the cognovit of L. D. Thompson, who were, at the time, partners in the practice of law. The declaration did not specifically count for attorney fees, but the cognovit did, and $40 attorney fees were included in the judgment, the amount specified in the different warrants.
+Motion was made to set aside the judgment. The court gave defendant leave to plead, but allowed the judgment to stand. The case was tried by the court without a jury, which found for the plaintiff, thus sustaining the judgment taken by confession. The plaintiff in error raises here two questions of fact and two questions of law. Of fact, that the notes were obtained by misrepresentation, and that they were given without consideration in whole or in part. Of law, that the same firm of attorneys can not, as individual members, represent both the plaintiff and defendant in taking judgment by confession, and that an attorney fee, authorized by the warrant of attorney, can not be included in the judgment confessed, unless specifically averred in the declaration.
+The misrepresentation claimed is that the payee agreed to give the maker time, as expressed in the notes, within which to pay them, and after obtaining the notes, took judgment on them before that time expired. The power or warrant of attorney expressly authorized this to be done, which has been, frequently.sustained by the courts of this State. The evidence shows Blanck knew the kind of notes he was signing; that they were judgment notes. There is no evidence that he was misled into signing judgment notes, instead of plain notes. In this respect this case is entirely different from that of Kingman & Co. v. Reinemer & Co., decided by this court at the last term.
+W.e have examined the evidence carefully as to the consideration of these notes and find that it sustains the holding of the court below. It would be useless to review the evidence in this opinion. There was some conflict in the testimony on this matter, but it was for the judge before whom the case was tried to reconcile it and determine the credibility of witnesses. The finding by the judge is entitled to as much respect in this court as the finding of a jury. The judgment is sustained by the facts.
+The questions of law were also properly decided. The warrant of attorney expressly authorized “ any attorney ” of any court of record to appear for the maker of the notes and confess judgment. ■ It is not denied that L. D. Thompson is an attorney of a court of record. The fact that he was in partnership with Judge Monroe in the practice of law did not prevent him from exercising the power expressly conferred by the warrant in his individual capacity. It was not necessary to the legality of the proceedings that the firm name should be signed either to the declaration or the cognovit. The name of either was sufficient. As is well known, the signing of the cognovit by an attorney is largely a matter of form, both the declaration and cognovit being usually prepared by the plaintiff’s attorney. The cognovit must be authorized by- the warrant of attorney in order to sustain the judgment; so that, practically, it is not so material what attorney signs as it is material the confession is within the scope of the power.
+The judgment was not erroneous because the declaration did not count for the attorney fee named in the warrants. In Russell v. Lillja, 90 Ill. 330, it is held not to be essential to the validity of the judgment in confession to file a declaration, although it is the usual practice to do so. “ In this, such a case differs from an ordinary action.”
+It is said in Campbell v. Goddard, 17 Ill. App. 382: “ Even if the declaration was defective or failed to properly aver that the attorney’s fee was claimed by plaintiff, * * * yet, unless it should also be held that upon equitable grounds it can not be allowed, the motion was properly overruled. Certainly the appellants can not be allowed to say that it is inequitable to hold them to the plain provisions of their contract.”
+It is said also, as to the attorney’s fee, that it was unauthorized, as the debtor was insolvent and such a debt was not Iona fide due, and the case of Hulse et al. v. Mershon et al., 125 Ill. 52, is cited in support of this position. It is sufficient to say that question can not be raised by this plaintiff in error—the maker of the notes. In the case cited it was raised by a creditor of the maker of the notes, by bill in chancery. The creditors are not here complaining. This case falls more nearly within that of Weigley v. Matson, 125 Ill. 64, wherein the confession of judgment on notes which included attorney fees was sustained.
+There being no error in the record the judgment is affirmed.
