@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-971"
+decided: "1980-12-12"
+citations: ["91 Ill. App. 3d 160"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALLAERT RENDERING, INC., Petitioner, v. THE POLLUTION CONTROL BOARD et al., Respondents."]
+source_url: "https://static.case.law/ill-app-3d/91/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3147234
+cites_cases: ["414 N.E.2d 492", "91 Ill. App. 3d 153"]
+---
+
+# Allaert Rendering, Inc. v. Pollution Control Board
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court:
+This is an appeal from a final order entered by appellee, Illinois Pollution Control Board (Board), denying a petition for a variance by Allaert Rendering, Inc. (Allaert), from various sections of the Environmental Protection Act (Act) and rules and regulations promulgated thereunder. Allaert operates a rendering plant which recycles and reprocesses restaurant grease, scrap bones and fallen animals into useful byproducts such as animal feed and fertilizer. The facts of this case are discussed in detail in Allaert v. Pollution Control Board (1980), 91 Ill. App. 3d 153, 414 N.E.2d 492, an enforcement action brought by the Illinois Environmental Protection Agency (Agency) against Allaert, and there is no reason to repeat them here. It is sufficient to note that in the enforcement action, Allaert was found guilty of violating various sections of the Act, which findings we affirmed. Allaert also applied for a variance from compliance with these sections, which the Board denied. Allaert then brought this action under section 41 of the Act (Ill. Rev. Stat. 1977, ch. im, par. 1041).
+Allaert’s initial issue on appeal is whether or not the Board’s refusal to grant Allaert’s application for nondisclosure of financial data denied Allaert a full and fair opportunity to present its proofs of hardship. During discovery prior to the enforcement hearing, the Agency sought “1. All financial records, including income tax returns, income statements and balance sheets for Respondent for the years 1970 through and including 1976.” Allaert opposed the motion on the basis that the request was overly broad and that it sought confidential information subject to limited disclosure to Board members. On February 2, 1977, the hearing officer required production of the documents. On April 7, 1977, the hearing officer entered an order prohibiting Allaert from introducing any evidence relating to the financial condition of the company because Allaert failed to produce the documents and had not filed its application for a protective order under section 7 of the Act. On April 25,1977, Allaert filed an application for nondisclosure with the Board under section 7 of the Act. The Board denied the application on the basis that “a blanket grant of non-disclosure for all financial records is not justified.” Later motions for reconsideration were also denied. Allaert contends that because the Board’s denial of protection from nondisclosure led to the Board’s imposing sanctions denying Allaert the ability to present evidence regarding Allaert’s financial condition and its relation to Allaert’s need for a variance, Allaert was denied due process. We disagree.
+Rule 107 of the Board’s Procedural Rules provides in pertinent part:
+“(b) All such files shall be open to reasonable public inspection and copying, except material stamped by Board Order, ‘Not Subject to Disclosure.’ Only the following materials may be so stamped by the Board.
+o # e
+5. income and earnings data when not an issue in the proceeding.”
+In the instant case, Allaert placed its income and earnings data in issue in that Allaert claimed that arbitrary or unreasonable economic hardship to it would have resulted from the denial of the variance. Therefore, Allaert’s records did not fall within the exception, and the Board acted properly in denying Allaert’s application for nondisclosure. Further, When Allaert failed to comply with the discovery orders, the hearing officer had the power to apply such a sanction as prohibiting the introduction of evidence regarding Allaert’s financial condition, and there was no error in the Board’s affirmance of this action.
+Allaert’s next issue is whether or not the Board applied the wrong standard of proof in denying the variance. Allaert contends the Board used the standard of whether or not Allaert had shown that no pollution would occur. Since the standard of proof a petitioner for variance must meet is that failure to grant the variance would impose an arbitrary or unreasonable hardship (Ill. Rev. Stat. 1977, ch. 111%, par. 1035), Allaert argues the Board’s decision must be reversed. Had the Board in fact used the wrong standard, Allaert would have been entitled to a reversal. However, the Board’s opinion clearly shows they applied the proper standard. The Board devotes part of its opinion to explaining why Allaert was not entitled to permits for its treatment system. The Board then goes on to state that variations from permit requirements should not be extended except in the most unusual or extraordinary cases and that the record does not present any evidence to justify a variance. While this language is extravagant, inept and inappropriate, nevertheless the court did consider the hardship standard as the applicable one. The Board then states that Allaert did not sustain its burden of proof and that any hardship visited upon Allaert is largely self imposed. The Board, therefore, clearly looked to the standard of hardship in deciding to deny Allaert’s petition for a variance.
+Allaert’s final issue is whether or not it met its burden of proof of showing that compliance with the requirements would impose an arbitrary or unreasonable hardship. Allaert concedes that there were alternative technologies available to it besides the hookup to Carbon Cliff’s sewer system. However, Allaert argues that it proved these alternatives were not economically feasible and therefore would have caused unreasonable economic hardship. We disagree. For reasons previously stated, there was no evidence admitted as to Allaert’s financial condition. Therefore, Allaert could not show the alternatives were economically infeasible and, therefore, failed to prove hardship. In the absence of any proof of hardship, the Board’s opinion was correct.
+For the abovementioned reasons, the order of the Pollution Control Board is affirmed.
+Affirmed.
+ALLOY, P. J., and BARRY, J., concur.
