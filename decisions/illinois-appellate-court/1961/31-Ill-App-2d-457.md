@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,358"
+decided: "1961-07-24"
+citations: ["31 Ill. App. 2d 457"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURMAN and KILEY, JJ., concur."]
+parties: ["In the Matter of the Estate of Joan Oelerich, Alleged Incompetent. Helen Oelerich, Appellee, v. Joan Oelerich, Appellant."]
+source_url: "https://static.case.law/ill-app-2d/31/cases/0457-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5226232
+cites_cases: ["13 Ill App2d 182", "141 Ill App 453", "141 NE2d 649", "173 NE 486", "178 NE 195", "189 NE 291", "341 Ill 478", "345 Ill 461", "355 Ill 210", "378 Ill 346", "38 NE2d 40", "393 Ill 211", "66 NE2d 90"]
+---
+
+# Oelerich v. Oelerich
+
+## Majority (MR. PRESIDING- JUSTICE MURPHY)
+
+MR. PRESIDING- JUSTICE MURPHY
+delivered the opinion of the court.
+This is a direct appeal from the Prohate Court of Cook County by Joan Oelerich, respondent and alleged incompetent, from an order denying her motion, on jurisdictional grounds, to dismiss proceedings to have her adjudicated an incompetent.
+The petition for the appointment of a conservator of the estate and person of respondent, filed by her mother, Helen Oelerich, states that respondent’s place of residence is in Evanston, Illinois. A summons was served on her personally in Indiana by the sheriff of Porter County, Indiana. On the return day of the summons, April 6, 1960, a special and limited appearance was made by respondent “for the purpose of challenging and objecting to the jurisdiction and venue of the Court over the person of the alleged incompetent, and the subject matter predicated thereupon.” On the same day, April 6, Helen Oelerich was appointed “conservator to collect” of the estate of respondent.
+On May 4,1960, respondent filed an affidavit, alleging that her domicile and residence is in Tremont, Indiana; that she has a registration card and voted from that address; that she is the owner of an automobile registered in Indiana; that she works in Chesterton, Indiana; and that her income tax returns and social security payments are made in Indiana.
+The court, on August 10, I960, after taking the matter under advisement, with briefs submitted by counsel, on the pleadings, denied the motion of respondent to dismiss the cause “for lack of jurisdiction of the subject matter.” The order granted respondent leave to file an answer and a jury demand, and set the cause for trial.
+On August 26, 1960, respondent filed a written motion to set aside the order of August 10, 1960, specifying points relied upon to show that the court erred in assuming jurisdiction over the person of respondent. It is also alleged that the order was entered upon conclusions and not proof. This motion was denied on September 28, 1960, and it is from this order that the appeal is taken.
+The petitioner, Helen Oelerich, argues that neither order is final and appealable. We do not agree. We believe an order determining the question of jurisdiction of the person of an alleged incompetent, who claims to be a non-resident, is a “definite and separate part of the litigation,” sufficient to be appealable. If the court had granted respondent’s motion and dismissed the proceedings, it would have terminated the cause in the Probate Court, and would have been final and appealable. In this case, we believe the order denying respondent’s motion is also appealable. It is not within the letter and spirit of the law to require respondent to submit to a trial as to her incompetency, when the affirmative finding of jurisdiction of her person is contrary to the record. Village of Niles v. Szezesny (1958), 13 Ill App2d 182, 141 NE2d 649; People v. O’Connell (1941), 378 Ill 346, 38 NE2d 40; Ill Rev Stat 1959, Ch 3, § 265.1.
+A proceeding to appoint a conservator of the person of an alleged incompetent is a proceeding in personam and is based on the jurisdiction of his person. The status of incompetency can be determined only by a hearing on the petition and the overcoming of the presumption that such person is sane. It is the finding of the court or jury that such person is incompetent that creates the. status of incompetency, and it cannot be presumed in order to establish jurisdiction. (McCormick v. Blaine (1931), 345 Ill 461, 178 NE 195.) Therefore, the primary question in this appeal is the existence or non-existence of the jurisdiction of the Probate Court of Cook County, Illinois, of the person of respondent at the time the summons was served on her personally in Indiana.
+The Probate Court, with respect to questions within its general jurisdiction, is entitled to the same liberal intendments favoring its jurisdiction as are extended to courts of general jurisdiction. This includes, in the absence of a showing to the contrary, the presumption of jurisdiction of both the person and the subject matter. (14 ILP, Courts, §§ 21, 22.) However, a finding by a court that it has jurisdiction is overcome when the finding is irreconcilable with the facts disclosed by the record. (People v. Shurtleff (1934), 355 Ill 210, 220, 189 NE 291; Werner v. Shons Co. (1930), 341 Ill 478, 488, 173 NE 486.) No intendments are to be indulged in favor of the jurisdiction of a court over a non-resident. R. Jackson & Co. v. Republic Iron & Steel Co. (1908), 141 Ill App 453, 454.
+By respondent’s special appearance and motion to dismiss the proceedings, the residence of respondent became a disputed issue of fact. As provided in section 20(2) of the Civil Practice Act, respondent’s supporting affidavit set forth the reasons for objecting to the jurisdiction of the court. It alleges facts sufficient to show that respondent, presumably sane, was domiciled in and was a resident of Indiana, and that she had not submitted herself to the jurisdiction of the Probate Court of Cook County, Illinois. In ruling on the objection to the jurisdiction of the court, and in the absence of counteraffidavits or evidence to the contrary, we believe the affidavit of respondent should have been taken as true. (Leitch v. Hine (1946), 393 Ill 211, 219, 66 NE2d 90.) It overcame any presumption of jurisdiction of the person of respondent and the residency averment of the petition.
+The finding by the court, that it had jurisdiction in these proceedings, is “irreconcilable with the facts disclosed by the record.” (People v. Shurtleff, 355 Ill 210, 189 NE 291.) As respondent timely challenged the jurisdiction of the Probate Court over her person, we are of the opinion that, on the pleadings, the Probate Court should have sustained the motion of respondent and dismissed the proceedings for want of jurisdiction.
+For the reasons stated, the orders of the Probate Court, denying respondent’s motions, are hereby reversed and the cause is remanded to the Probate Court of Cook County to dismiss the petition for the appointment of a conservator of the estate and person of respondent.
+Reversed and remanded.
+BURMAN and KILEY, JJ., concur.
