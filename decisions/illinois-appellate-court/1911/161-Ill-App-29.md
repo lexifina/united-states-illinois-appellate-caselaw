@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 15,562"
+decided: "1911-04-13"
+citations: ["161 Ill. App. 29"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois ex rel. Mary E. O’Connell, Appellee, v. William Nason, Appellant."]
+source_url: "https://static.case.law/ill-app/161/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2727849
+---
+
+# People ex rel. O'Connell v. Nason
+
+## Majority (Mr. Justice Smith)
+
+Mr. Justice Smith
+delivered the opinion of the court.
+This was a prosecution under the statute upon a complaint for bastardy. A jury was waived and the cause submitted to the court, who found the defendant guilty. The only error here urged is that the finding was clearly and manifestly against the preponderance of the evidence.
+The prosecutrix testified that at the time of the two acts of intercourse described she was sixteen years old; ’ she had known defendant seven years; on the evening of September 22, 1907, she was on her way to the grocery store and stopped at Nason’s and Mrs. Nason told her to bring her some things from the grocery. She returned to Nason’s about seven thirty and sat down on the front porch and the defendant was sitting there. “He got up and took me by the hand and said, ‘Come on, Cooney, if I don’t get you this evening I will some other evening,’ and led me around the house and' into the woodshed or chicken shed, and there had sexual intercourse with me on a large board or old door. We came out and I went home.” The other occasion she said was October 4, 1907. She was at Nason’s house again and sitting on the front porch about nine o’clock in the evening: Sam Eyan and Annie Nason were playing on the piano and singing in the front room. Tessie Nason was there. She and defendant were sitting on the front porch “when William took me by the hand and led me around the house and into the woodshed at the same place where we had sexual intercourse before and there had sexual intercourse with me again. The only thing he said to me at this time was: ‘If you get into the family way I suppose you will accuse me of it, ’ and I said to him, ‘Who else could I accuse?’ We came out and talked a little while and I went home.” She also testified that she never had intercourse with the defendant at any other time and never with any other person; was unmarried and the mother of a child born June 15, 1908. The defendant never escorted her any place or hugged or kissed her or made love to her. On the evening of June 13th, two days before the child was born, she went on a hay rack party with some young folks, among whom were Nason and his sisters; saw him on different occasions, but never mentioned the matter to him before or since the child was born. There was no other evidence offered on the part of the People.
+The defendant denied having any relations with her and testified that he left the house on September 22nd about six thirty and did not return until about eleven that evening. His mother, brother and a neighbor also testified he was not home at the time prosecutrix was at the house. The prosecutrix and all the witnesses recalled the particular evening, because it was the Sunday evening Mrs. Nason’s mother-in-law came from Kentucky. Witnesses also denied the statements of prosecutrix as to the occurrences of the evening of October 4th. Eyan also testified that on the evening of September 20, 1907, he was watching tool cars for the Michigan Central Railroad, and walking along the track he heard some one talking inside a car. He stopped and waited and a man got out of the car and then helped the woman out. He did not know the man, but the woman was the prosecutrix and he spoke to her. Two other witnesses testified to seeing her with men late at night under suspicious circumstances. Anna Nason testified that she and Mary, the prosecutrix, worked at a hotel at Elsdon, Illinois, in October, 1907, and there the prosecutrix went with a man named Carter. She heard of the birth of the child and said: “I went to see her the next morning, Wednesday, and she said, ‘It belongs to your brother William,’ and I said, ‘Mary, how can this be? Do you remember the night you were in the prairie with Carter ? ’ and she said, ‘Anna, keep still. Do not let my mother hear you say that, for I told her that it was your brother, and she will kill me if she hears you say that.’ I went to the kitchen where her mother was and told her, but she said she believed Mary.”
+The prosecutrix made no denial or explanation of this statement of Anna Nason or the specific charges as to other men. It may be some good reason appeared at the hearing, but none is shown by the record. It is also somewhat remarkable that, with all her opportunities, she never spoke to the defendant on the subject.
+We appreciate the arguments that might be made pertaining to the defense, but from a careful consideration of the entire record, without further argument on the same, we think the finding clearly and manifestly against the preponderance of the evidence, and the cause will be reversed and remanded.
+Reversed and remanded.
