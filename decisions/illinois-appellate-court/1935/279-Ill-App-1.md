@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 37,613"
+decided: "1935-01-28"
+citations: ["279 Ill. App. 1"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Edith Kaufman, Appellee, v. Frank Forest Kaufman and Columbia Casualty Company, Appellants."]
+source_url: "https://static.case.law/ill-app/279/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3356186
+cites_cases: ["286 Ill. 375", "290 Ill. 485", "357 Ill. 396"]
+---
+
+# Kaufman v. Kaufman
+
+## Majority (Me. Presiding Justice 0 ’Connor)
+
+Me. Presiding Justice 0 ’Connor
+delivered the opinion of the court.
+By this appeal Frank Forest Kaufman and Columbia Casualty Company seek to reverse a decree by which a petition filed by Kaufman was dismissed and a motion of the Columbia Casualty Company denied.
+The petition and motion were heard upon an agreed statement of facts from which it appears that on June 17,1930, Mary Edith Kaufman filed her bill for divorce against Frank Forest Kaufman. Thereafter a writ of ne exeat was issued against the defendant. His bail was fixed at $2,000 and he was released on bond signed by himself and Columbia Casualty Company. Afterward, on April 14, 1931, a decree was entered awarding complainant a divorce and it was further decreed that the bond remain in full force and effect until the further order of the court. Complainant’s alimony was fixed at $100 a month and $150 was awarded her for her solicitor’s fees. It further appears that since the entry of the decree defendant continuously resided at Dana, Indiana, but had not obtained leave of court to depart from Illinois. .
+June 3, 1933, complainant, without notice to the defendant or to his solicitors or to the Columbia Casualty Company, appeared before the chancellor and filed her verified petition in which she set up the proceedings theretofore had in the divorce suit, as hereinbefore stated. The petition further set up that the defendant had not paid any part of the alimony or solicitor’s fees; that under the terms of the decree there was then due and owing $2,450; that since the decree was entered defendant had boasted he would never • pay any alimony; that he would remain out of the jurisdiction of the court; that he removed to Dana, Indiana, where he now claims to reside, making periodical visits to Chicago, and that the only hope of serving him with process would be upon one of these visits; that if he were notified complainant was applying for a capias ad satisfaciendum he would evade service by remaining out of the jurisdiction of the court, and the prayer was that the court enter a decree in favor of complainant and against defendant for $2,450, and that a capias issue against the defendant directed to the sheriff of Cook county. Upon presentation of the petition the court heard the matter ex parte and entered a decree as prayed for, finding the facts as set forth in the petition. Three days afterward, June 6th, a capias was issued, and on September 6, 1933, following, was returned by the sheriff “not found on order of Atty.”
+Six days thereafter, September 12, 1933, complainant commenced suit on the ne exeat bond against the Columbia Casualty Company in the municipal court of Chicago. Summons was issued returnable September 25th, the defendant was served, and he entered his appearance. That suit is still pending. October 5, 1933, defendant, Frank Forest Kaufman, filed his petition in which he set up the proceedings had in the divorce suit, averring that neither he, his solicitors, nor the Columbia Casualty Company had any notice of the presentation of the petition on June 3, 1933, by complainant or the decree entered thereon; that he first learned of the filing of the petition and the entry of the decree September 29, 1933, when he received a letter from his solicitors asking him to appear before the chancellor in Chicago on October 5,1933, when he moved the court to vacate and set aside the order of June 3, 1933; that he be permitted to surrender to the court; that the Casualty Company be exonerated from further liability, and that he be released on his own cognizance.
+The petition further sets up that whenever notified he appeared in court; that since the entry of the divorce he has temporarily resided with his son at Dana, Indiana; that the sheriff of Cook county was unable to serve defendant because he was not notified by complainant or her solicitors, who at all tithes knew where he resided, and that he was unable to pay the alimony.
+Upon a consideration of the foregoing agreed statement of facts the court found that the defendant’s petition was without equity; it was dismissed and the Casualty Company’s motion to surrender the defendant in exoneration of its liability on the bond was denied.
+A number of points are discussed in the briefs but in the view we take of the case it will be necessary to discuss but one of them. The filing of the petition and the entry of the decree on June 3, 1933, were without notice to the defendant or his solicitors. This was in direct violation of Rules 20 and 21 of the circuit court of Cook county. Rule 20 provides that “No motion will be heard or order made in any cause without notice to the opposite party, when an appearance of such party has been entered, except where a party is in default, as shown by an order of record, or when a cause is reached on the call of the trial calendar.” Rule 21 provides that notice in writing must be given to the opposite party or his solicitor of record, stating the nature of the motion and time and place of hearing. For failure to give this notice the decree of June 3rd was void and all subsequent orders based on such decree are likewise of no force and effect. North Ave. Bldg. & Loan Ass’n v. Huber, 286 Ill. 375; Feldott v. Featherstone, 290 Ill. 485.
+People v. Davis, 357 Ill. 396, cited by complainant (where it was held that rules of court unless contrary to the Constitution or Statutes must be obeyed but that such rules do not preclude reasonable action thereunder where no material harm is done to any litigant) is not in point. In the instant case there was material harm done both to the defendant and to the Casualty Company.
+For the reasons stated the decree of the circuit court of Cook county is reversed and the matter remanded for further proceedings in accordance with the views herein expressed.
+Reversed and remanded.
+McSurely and Hatchett, JJ., concur.
