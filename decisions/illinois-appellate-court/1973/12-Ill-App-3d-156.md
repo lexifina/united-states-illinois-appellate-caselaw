@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+docket: "11834"
+decided: "1973-05-24"
+citations: ["12 Ill. App. 3d 156"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald McKinsey, Plaintiff-Appellant, v. William T. Morrissey, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/12/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2849869
+cites_cases: ["198 N.E.2d 120", "229 N.E.2d 504", "37 Ill.2d 494", "47 Ill.App.2d 355"]
+---
+
+# McKinsey v. Morrissey
+
+## Majority (Mr. JUSTICE SIMKINS)
+
+Mr. JUSTICE SIMKINS
+delivered the opinion of the court:
+Plaintiff-Appellant Donald McKinsey brought an action against the defendant-appellee William T. Morrissey for personal injuries allegedly caused by the defendant’s negligence. A jury verdict was returned in favor of the defendant. The trial court denied plaintiff’s motion for a directed verdict on the issue of liability as well as his motions for judgment notwithstanding the verdict and for a new trial. Plaintiff brings this appeal from the judgment of the circuit court of Livingston County.
+Plaintiff was injured when his vehicle was struck by that driven by defendant at the intersection of Odell Road and Cemetery Road near U. S. 66. Odell Road is a two-lane running east and west which intersects at a 90° angle Cemetery Road running north and south. On the northwest corner of the intersection there was a Standard Oil Station, and there was a Mobil Oil Station at the southwest corner of the intersection. Traffic moving east on Odell Road was governed by traffic lights on the southwest corner of the intersection, and traffic moving south on Cemetery Road was governed by stop signs at the intersection. Defendant was headed south on Cemetery Road and was unable to stop at the stop sign because of brake failure. He hit plaintiff’s van truck, which was stopped at the stoplight. During the trial, defendant testified that his brakes suddenly failed and at a distance of 225 feet from the intersection. Plaintiff, on the other hand, stressed the fact that there was evidence indicating that defendant’s brake failure was not sudden and that it had in fact occurred %0th of a mile prior to the stop sign. Plaintiff further argued that defendant’s failure to keep the brakes in good repair was in violation of 111. Rev. Stat. 1967, ch. 95V2, par. 211. Defendant testified that shortly before the collision he had used his brakes which worked properly. He also related that as he approached the intersection he pushed on the brake pedal which went to the floor, pulled on the emergency brake, which also failed; then tried, unsuccessfully, to put the transmission into first gear to slow his car’s progress. Illinois State Trooper Wall, who investigated the accident checked defendant’s foot brakes and testified “I opened the door and put my foot on them and they went to the floor without any hold on them at all.” Defendant testified that he had had the brakes worked on the week before the accident.
+Plaintiff argues that “A driver relying upon the doctrine of latent defects in his brakes must prove by a preponderance of the evidence that the alleged latent defects were unknown to him, and that he could not have discovered the alleged latent defects by the exercise of ordinary care, as well as that the collision was solely and proximately caused by the failure of his brakes.” In support of this proposition he cites Savage v. Blancett, 47 Ill.App.2d 355, 198 N.E.2d 120. In Blancett, however, the court was dealing with a special defense pleaded by the defendant and with the propriety of instructions relating to that issue. Here defendant plead no affirmative defense, but assuming, arguendo, that the defendant had the burden of proof on the proposition asserted, the jury was never so instructed. Neither plaintiff nor defendant tendered an instruction such as suggested in Blancett, and the legal issues involved in the “doctrine of latent defects” were therefore never presented to the jury. Instead the parties were content to permit the jury to consider the evidence, without instruction, and to utilize it in determining whether or not defendant was negligent at the time of the occurrence in question. Had the jury made a finding on the issue of latent defect in the braking system, it would have been pertinent to inquire as to the sufficiency of the evidence to support the finding. Here the jury was not asked to pass on the issue by means of an instruction nor was it told what elements comprise the defense. There is no merit to plaintiff’s contention as to this assignment of error.
+We find no error of law in this proceeding and the trial court was correct in its decision that all the evidence when viewed in its aspects most favorable to the defendant does not so overwhelmingly favor the plaintiff that no contrary verdict based upon the evidence could ever stand. Thus, under the requirements of Pedrick v. Peoria & Eastern R.R. Co. (1967), 37 Ill.2d 494, 229 N.E.2d 504, the trial court properly denied plaintiff’s motion for a judgment notwithstanding the verdict. Furthermore, we conclude that the verdict of the jury was not against the manifest weight of the evidence and the circuit court was correct in denying plaintiff’s motion for a new trial.
+A further recitation of the factual testimony would in our judgment serve no useful purpose and an opinion thereon would have no pre-cedential value. Accordingly, pursuant to Rule 23 of the Supreme Court rules, the judgment of the Circuit Court of Livingston County is affirmed.
+Judgment affirmed.
+CRAVEN, P. J., and SMITH, J., concur.
