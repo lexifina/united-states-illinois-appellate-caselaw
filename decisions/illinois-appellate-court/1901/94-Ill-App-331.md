@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-03-29"
+citations: ["94 Ill. App. 331"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["U. P. Smith v. Albert Kennett."]
+source_url: "https://static.case.law/ill-app/94/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5292687
+---
+
+# Smith v. Kennett
+
+## Majority (Mr. Justice Freeman)
+
+Mr. Justice Freeman
+delivered the opinion of the court.
+Appellee is a constable, and as such levied upon certain household goods of appellant, under an execution issued by a justice of the peace. The execution is in the ordinary form, but has upon it, written at the bottom, the words 6< for work and labor,” and it also contains, indorsed thereon, a notice to the judgment debtor to schedule within ten days if he desires to avail himself of the benefit of the exemption laws of the State. Two days after the levy, appellant prepared a schedule of his property and tendered it to appellee, who, it is said, refused to accept it, claiming that appellant was not entitled to exemptions, because the judgment was u for work and labor.” Appellant thereupon sued out a writ of replevin, and recovered possession of the property levied upon. Afterward and within the ten days after the levy, appellant went to the office of the justice who had issued the execution, to file his schedule, but found the justice away on a vacation, and could find no one about the premises who would receive the schedule.
+Instead of pleading or demurring to appellant’s declaration in this replevin suit, appellee moved in the Circuit Court to quash the writ and dismiss the suit. The grounds of the motion were, first, that the affidavit upon which the writ of replevin was based shows appellant to be the owner of the goods levied upon, and that it appears by affidavit in support of the motion to quash, that said goods were held by appellee as a constable under an execution “ for work and labor ” against appellant; and, second, that the declaration in the replevin suit was not filed in apt. time. The Circuit Court sustained the motion and dismissed that suit.
+We regard the dismissal as erroneous. The affidavit upon which the writ of replevin 'was based, states in compliance with the statute, first, that the goods were wrongfully taken and detained by the constable; and, second, that they were not seized under any execution or attachment against appellant’s goods and chattels liable to execution or attachment. Section 2, Chap. 119, R. S., provides that “ Eo action of replevin shall lie at the suit of the defendant in any execution or attachment to recover goods or chattels seized by virtue thereof, unless such goods or chattels are exempted by law from such execution or attachment.” If, therefore, appellant’s goods thus seized by the constable were exempt by law, replevin would lie at the suit of the owner, even though he was defendant in the execution. If, however, the execution was issued in a suit to recover for wages, and the statutory requirements had been complied with, replevin would not lie; because in such event no personal.property would be exempt, in a case where “ the debt or judgment is for the wages of any laborer or servant; provided, the court rendering judgment shall find that the demand so sued for is for wages due such persbn as laborer or servant; which finding shall be expressed in the record of said judgment and indorsed upon the execution when issued.” (R. S. Chap. 52; Sec. 16.) The execution by virtue of which the constable levied, con-
+tained no such indorsement. The words indorsed “for work and labor ” do not meet the statutory requirement, and are not the equivalent of, and do not necessarily imply, that “ the debt or judgment is for the wages of any laborer or servant.” There is no other evidence that the debt or judgment is for wages, except the words at the bottom of the execution, viz., “for work and labor.” There is nothing to show what the justice found in that respect, nor what, if anjrthing of the kind, is expressed in his record. There was no reason, therefore, shown to justify the quashing of the replevin writ because of any insufficiency in the replevin affidavit, nor was there any showing justifying the conclusion that the goods replevied were not exempt from seizure under the constable’s execution.
+The declaration in the replevin suit was filed ten days before the beginning of the second term, after the writ was sued out. “ Declarations in replevin may be filed in like manner as other declarations ” (R. S. Chap. 119, Sec. 17), and “if no declaration shall be filed ten days before the second term of the court the defendant shall be entitled to judgment.” (Chap. 110, Sec. 18.) The declaration was filed in apt time.
+Whether the property is exempted by reason of the statute and compliance therewith by all parties is a question which appellant is entitled to have tried as the law provides. Its settlement' is necessary to determine whether or not he is entitled to possession of the property, and Avhether his action of replevin will lie.
+The judgment of the Circuit Court is reversed and the cause remanded.
