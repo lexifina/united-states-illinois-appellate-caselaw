@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-01-25"
+citations: ["25 Ill. App. 296"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Archie Greathouse v. Sarah Summerfield."]
+source_url: "https://static.case.law/ill-app/25/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4936042
+cites_cases: ["109 Ill. 120", "11 How. 373", "6 Ill. App. 313", "65 Ill. 319", "85 Ill. 11", "87 Ill. 272", "94 Ill. 439"]
+---
+
+# Greathouse v. Summerfield
+
+## Majority (Moran, P. J.)
+
+Moran, P. J.
+Appellant brought this action against appellee to recover damages for false imprisonment. After the evidence of both parties had been introduced on the trial, the court orally instructed the jury to find a verdict for the defendant. This action of the court is assigned for error. While it is error for the court to instruct the jury orally,- it is such an error as will not reverse, where it is manifest, on an inspection of the entire record, that no injury could result from such error to the party complaining thereof.
+In this case while plaintiff swore that defendant directed an officer to arrest him, he wholly fails, in our opinion, to show any actual arrest, and without having proved an arrest, could not be entitled to a verdict.
+Plaintiff’s account of what occurred at the time of the alleged arrest is in substance as follows: Saw defendant holding a conversation with an officer and they came and asked me to search with them for the purse and I looked and took my key and unlocked and pulled out everything. When we could not find it, the officer said, Greathouse, come and go up to the check office with me. And I said what for? and he said, well we have todo a great many things we don’t like to do. I don’t know the officer’s name. He met all trains that came in that depot. I said, well, if I have to go I will go, and I lounged around there about half an hour and a lady was in my charge to go to a certain place. The officer and defendant had a conversation. I did not hear what was said. I had a conversation with another officer. He.said, don’t you want to go up to the court house with me? and I said, all right, and we went. Was taken to Bonfield’s office, and when defendant came in the office she said “ arrest him,” he has the pocketbook. He ordered me to take off my clothes and I was searched. They found some money on me and they looked it over and returned it over to me. Defendant was present. I went right.along with the officer. He did not force me, there was no need to force me. He did not taire hold of me, no man’ laid a hand on me till I came to the office and was searched. I don’t remember whether I took the things off or handed them to him, but I took my clothes off as he asked me to. He ordered me to take my things off and I took them off. I did not consent, but he ordered me and I did not object.
+This does not establish an arrest either at the depot or at Bonfield’s office. While in general no actual force or manual touching of the body, no compulsory seizure is necessary to constitute an arrest or imprisonment, yet there must be words and acts used and done toward the person to be arrested which clearly show an intention to arrest, and his submission must be as to the caption. Thus, if an officer with a void process notifies a person that he arrests him and the person so notified submits and accompanies him, this is an imprisonment. But it is the fact of compulsory submission which brings a person into imprisonment; an impending and threatened physical violence, which to all appearance can only be avoided by submission. For discussion as to what will constitute a constructive arrest and imprisonment and a review of the cases, see Searls v. Viets, 2 Thomp. & G. (N. Y. S. C.), 224.
+The submission must be to a threatened and reasonably apprehended force. Here the officer said nothing which indicated an intention to arrest. He asked the defendant if he did not want to go to the court house with him, and he said all right, and went along. The officer had no authority to arrest and did not pretend to have. The language and acts of the plaintiff at the depot indicates very plainly that lie knew he was not arrested, and that he did not have to go, unless he was willing to do so to clear himself of the suspicion against him. At Bonfield’s office he was not placed under arrest by word or deed. He was told to take off his clothes, and he did so without protest or objection. Here again his act was voluntary and done to allay the suspicion that he had the lost purse. It may be that defendant in error was liable to plaintiff in another form of action, but certainly not for false imprisonment, for there was no imprisonment and no arrest. There was no evidence of an arrest, competent to sustain a finding against defendant in error, and hence the court in sustaining what was practically a demurrer to the evidence committed no error.
+The instructions should have been in writing as required by the statute, but as the plaintiff made out no case the error did not affect him injuriously. Therefore the judgment of the Circuit Court must be affirmed.
+Judgment affirmed*
