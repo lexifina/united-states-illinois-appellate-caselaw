@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 52,501"
+decided: "1968-06-10"
+citations: ["97 Ill. App. 2d 327"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Lloyd E. DuPree, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/97/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476064
+cites_cases: ["179 NE2d 429", "190 NE2d 3", "230 NE2d 577", "33 Ill App2d 432", "399 Ill 452", "41 Ill App2d 128", "78 NE2d 512", "87 Ill App2d 227"]
+---
+
+# People v. DuPree
+
+## Majority (MR. JUSTICE MURPHY)
+
+MR. JUSTICE MURPHY
+delivered the opinion of the court.
+After a bench trial, defendant, Lloyd E. DuPree, was found guilty of the offense of battery, a misdemeanor, and was admitted to probation for a term of two years, with the condition that the first 90 days be served at the Illinois State Farm.
+On appeal, defendant contends that the judgment of the trial court should be reversed and the cause remanded for a new trial, because he did not knowingly and intelligently waive his constitutional rights to the assistance of counsel and trial by jury.
+There was no verbatim transcript of the evidence or proceedings, and appellant DuPree prepared a proposed report of proceedings in accordance with Supreme Court Rule 323(c). The record indicates that the defendant was advised of his right to trial by jury, and that he elected to waive such right. The record does not show any advice to the defendant of his right to counsel or of any offer of assistance of counsel.
+At the trial, Jessica DuPree, his former wife, testified that on April 23, 1967, defendant came into her house at 8731 South Moody, Oak Lawn, and threatened her with a steak knife. He forced her to accompany him to his car. They drove for about five blocks until the car ran out of gas. When they got out of the car, Mrs. DuPree began to scream, and defendant dragged her back to her house. There the defendant put a knife to her throat and ordered her to get into her car, which was parked in the garage. She entered the car and asked defendant to open the garage door, and when he did she escaped. Police arrested defendant a short distance from her home, and she signed a complaint against him. Later, she found defendant’s yellow jacket in the back of the garage with a steak knife rolled up in the jacket. Both were introduced into evidence.
+Defendant testified and denied ever having seen the steak knife. He had gone to the residence of his former wife to inquire as to her safety and well-being because of the tornado of April 21, 1967, which had struck the Oak Lawn area.
+The State concedes that the record is silent regarding advice to defendant by the court of his right to counsel or that he understanding^ waived that right. The State argues that in the light of Supreme Court Rule 401(b), which was effective at the time of defendant’s trial, May 25, 1967, the court was under no duty to advise the defendant of his right to counsel, since conviction for the offense of battery could not result in imprisonment in the penitentiary. Supreme Court Rule 401(b) became effective January 1,1967, and provides as follows:
+“Procedure on Plea or Waiver. The court shall not permit a plea of guilty or waiver of indictment or of counsel by any person accused of a crime for which, upon conviction, the punishment may be imprisonment in the penitentiary, unless the court finds from proceedings had in open court at the time waiver is sought to be made or plea of guilty entered, or both, as the case may be, that the accused understands he has a right to be held to answer for the offense on indictment by a grand jury and has understandingly waived that right and consented to his prosecution by information, that he understands the nature of the charge against him, and the consequences thereof if found guilty, and understands he has a right to counsel, and understandingly waives that right. The inquiries of the court, and the answers of the accused to determine whether he understands his rights to be indicted by a grand jury and to be represented by counsel and comprehends the nature of the crime with which he is charged and the punishment thereof fixed by law, shall be taken and transcribed and filed in the case. The transcript, when filed, becomes a part of the common law record in the case.”
+Defendant’s authorities include People v. Manikas, 87 Ill App2d 227, 230 NE2d 577 (1967), where the court discussed at length the question of whether the failure of the trial court to advise a defendant of his right to counsel was reversible error. In holding that it was reversible error, the court said (p 233):
+“The right to the assistance of counsel as guaranteed by the Sixth Amendment to the United States Constitution and Section 9, Article II of the Illinois Constitution is not based upon whether the defendant is rich or poor. It is a right with which we are all endowed. Through interpretation by the reviewing courts this guarantee has been extended to include the furnishing of counsel to the indigent accused as a supplement to this right. Also, through interpretation by courts of review, a rule of law has evolved which makes it a duty upon the trial court to advise the accused, not only of his right to trial by jury, but also his right to the assistance of counsel.”
+And on page 234:
+“Failure to advise the defendant in the case at bar of his right to the assistance of counsel, rendered the plea of guilty to the offense here under appeal and the judgment of conviction and sentence, constitutionally invalid.”
+The authorities cited by the State include People v. Howard, 41 Ill App2d 128, 190 NE2d 3 (1963), where the court said (p 134):
+“It appears from a reading of the foregoing statute and Supreme Court Rule that in all criminal cases where the accused upon conviction may be punished by imprisonment in the penitentiary, if he is not represented by counsel, the court should appoint counsel for him before taking any plea on the indictment or information if indictment has been waived, and this should be done whether or not the defendant requests counsel but if the information does not charge an offense for which a person may be sentenced to the penitentiary, there is no duty on the court to advise accused of such right unless there are circumstances showing that he is not sufficiently competent to know of the right or how or when to claim it. People v. Williams, 399 Ill 452, 78 NE2d 512.”
+Also, People v. Bill, 33 Ill App2d 432,179 NE2d 429 (1961) (Abst.), where it is said:
+“The allegations in defendant’s motion relate to matters arising in the course of the trial. First among them is the charge that he was not advised of his right to counsel. The offense for which defendant was convicted is a misdemeanor. Ill Rev Stats, ch 951/2, § 234, 1959. Therefore, the supreme court rule which requires advice to the accused of his right to counsel is inapplicable, since that rule pertains only to cases where convictions may result in imprisonment in the penitentiary. Ill Rev Stats, ch 110, § 101.26,1959.”
+After examining Rule 401(b), effective January 1, 1967, which is former Rule 26(3) without change, and the various authorities which have considered and construed the rule, we find the trial court here was under no duty to inform the defendant of his right to counsel, since the conviction for the offense of battery, a misdemeanor, could not result in imprisonment in the penitentiary. Also, we find no circumstances in this case which would justify a reversal of the judgment of conviction on the ground that defendant had been denied due process of law by not being advised of his right to counsel before proceeding to trial.
+For the reasons given, the judgment of the Circuit Court of Cook County is affirmed.
+Affirmed.
+BURMAN, P. J. and ADESKO, J., concur.
