@@ -1,0 +1,44 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-463"
+decided: "1978-05-25"
+citations: ["60 Ill. App. 3d 874"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VERVA ROCKE, Plaintiff-Appellant, v. THE COUNTY OF COOK et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/60/cases/0874-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3351823
+cites_cases: ["14 Ill. 2d 307", "152 N.E.2d 569", "168 N.E. 372", "182 N.E. 379", "193 N.E.2d 770", "240 N.E.2d 604", "29 Ill. 2d 191", "326 N.E.2d 406", "336 Ill. 513", "344 N.E.2d 665", "349 Ill. 363", "37 Ill. App. 3d 15", "40 Ill. 2d 408", "58 Ill. App. 3d 600", "60 Ill. 2d 204"]
+---
+
+# Rocke v. County of Cook
+
+## Majority (Mr. JUSTICE DIERINGER)
+
+Mr. JUSTICE DIERINGER
+delivered the opinion of the court:
+This is an appeal from an order of the circuit court of Cook County, sitting without a jury, denying Verva Rocke’s (hereinafter called “plaintiff”) motion for temporary injunction. By her motion, plaintiff sought to enjoin the County of Cook, Richard Golterman, Philip J. Mole, the Illinois Department of Transportation and JohnD. Kramer (all public entities or public officials, and hereinafter called “defendants”) from improving an existing highway.
+The issue presented is whether the trial court abused its discretion in denying plaintiff’s motion for temporary injunction.
+For a time prior to December 29, 1977, the plaintiff had learned 175th Street, between roughly California and Kedzie Avenues, and Kedzie Avenue between 171st and 175th Streets, would be improved by Cook County. On December 29, 1977, agents of Cook County appeared, marked trees for destruction, and began cutting down trees. On December 30, 1977, plaintiff filed a complaint for injunction alleging the destruction of trees violated her rights, the construction of the highway was and is not in compliance with Illinois statutory law, and some of the defendants abused their discretion.
+On February 7, 1978, plaintiff’s motion for a temporary injunction was denied, from which this interlocutory appeal is taken.
+Ordinarily, injunctive relief will not be granted against a public officer with respect to his official acts, unless such acts are outside his authority or are unlawful. See Chapman v. Watson (1968), 40 Ill. 2d 408, 240 N.E.2d 604. This is in general agreement with earlier decisions which held the discretion vested in public officials will not be controlled by injunction unless fraud, corruption, oppression or gross injustice is shown. Stewart v. Department of Public Works & Buildings (1929), 336 Ill. 513, 168 N.E. 372; Fairbanks v. Stratton (1958), 14 Ill. 2d 307, 152 N.E.2d 569. The Illinois Supreme Court, speaking through Mr. Justice Dunn in Boyden v. Department of Public Works (1932), 349 Ill. 363, 182 N.E. 379, applied the foregoing rules specifically to highway officials, by stating:
+“To justify a court in holding unjust, unreasonable or oppressive the act of the Department of Public Works and Buildings in designating the route for the construction of a hard-surfaced road * * * it must clearly appear from the evidence that there has been an abuse of discretion and an oppressive exercise of power in the location of the road. * * * The questions of the location of the road and the manner of its construction are committed to the judgment of the department, and that judgment must be conclusive unless the evidence clearly satisfies the court that the department’s action has been oppressive and without reasonable grounds.” Boyden, 349 Ill. at 368-9.
+Although the foregoing cases seem to indicate public officers enjoy broad discretion as to official acts, this court has recently recognized the courts of review will not hesitate to intervene when a public administrative officer has acted arbitrarily and capriciously and has thereby abused his discretion. Macaitis v. Civil Service Board (1978), 58 Ill. App. 3d 600; see also Southern Illinois Asphalt v. Pollution Control Board (1975), 60 Ill. 2d 204, 326 N.E.2d 406; Dorfman v. Gerber (1963), 29 Ill. 2d 191, 193 N.E.2d 770.
+Under any of the standards described above, however, the plaintiff has failed to show the defendants’ acts were improper.
+The plaintiff, in her two-count complaint claims: (count 1) the defendants’ actions were unlawful as the defendants undertook improvement of the roadway in question without approval of the local municipality, in violation of the Illinois Highway Code (Ill. Rev. Stat. 1977, ch. 121, par. 5—408); and (count 2) the defendants have abused their discretion in wrongfully avoiding the use of guidelines which require an environmental impact study.
+As to the requirement of an environmental impact study, the plaintiff has failed to specify any such legal requirement. The court is not required to accept as true conclusions stated in a complaint and here the complaint fails to specify facts upon which the trial court could have come to the conclusion the defendants abused their discretion with regard to an environmental impact study. This count of the complaint utterly failed to state a cause of action. We could not hold otherwise, even under the most liberal construction of the complaint. The defendants did everything they were required by law to do. Therefore, the trial court properly exercised its discretion in denying plaintiff’s complaint for temporary injunction, as to the second count.
+The plaintiff also claims, by the first count of her complaint, the defendants’ actions were unlawful as the defendants undertook improvement of the roadway in question without the approval of the local municipality, as is required by the Illinois Highway Code. This count of plaintiff’s complaint charges the defendants with a violation of a statutory duty but does not allege the general charge of abuse of discretion, hence we need only focus our attention on the charge of statutory violation.
+The portion of the Illinois Highway Code in question, section 5—408, provides as follows:
+“The county board, with the approval of the corporate authorities in the case of a municipality with a population of over 500, and in its own discretion in the case of a municipality with a population of 500 or less, may construct or maintain with county funds a highway or street, or part thereof, lying within the corporate limits of any municipality within the county, to connect or complete a county highway located to the corporate limits of such municipality.”
+There is no dispute the roads being improved are already existing highways subject to the jurisdiction of Cook County. The question is whether the improvement would “connect or complete a county highway,” so as to render the Highway Code section operative as to the improvements in question, thereby requiring approval by the municipality.
+This very question was raised in City of Highland Park v. County of Cook (1975), 37 Ill. App. 3d 15, 344 N.E.2d 665. There, the plaintiff-municipality moved for an injunction to prevent Cook County from constructing a four-lane highway while replacing a two-lane single slab roadway, contending section 4—408 of the Highway Code requires a county to obtain the approval of a municipality of over 500 persons before constructing, altering or maintaining a highway within its corporate limits, which approval had not been obtained.
+After extensive analysis of the Highway Code, the majority of the court in Highland Park found section 5—408 was not applicable and, speaking through Mr. Justice Hallett, stated:
+“We conclude that this section has no application to the facts in this case before us. * * * [N]o highway is here being completed or connected, within the words of this section. * * *
+We therefore hold that the City’s * * * contention—that section 5—408 of the Illinois Highway Code requires the County to have its approval before constructing or maintaining any highway within its corporate limits, which approval has not been obtained, is without merit.” Highland Park, 37 Ill. App. 3d 15, 24-25.
+We agree with the court in Highland Park. By its own terms, section 5—408 of the Highway Code is inapplicable to the facts in the case at bar, and no prior approval, by the local municipality, was needed for the planned improvements.
+As the first count of the plaintiff’s complaint for temporary injunction was limited to charging the defendants with a violation of this statutory requirement, and since such statute is inapplicable to the facts here, the trial court properly exercised its discretion in denying that count of plaintiff’s complaint for temporary injunction.
+For the foregoing reasons the order of the circuit court of Cook County dismissing plaintiff’s complaint for temporary injunction is hereby affirmed.
+Affirmed.
+JOHNSON, P. J., and ROMITI, J., concurring.
