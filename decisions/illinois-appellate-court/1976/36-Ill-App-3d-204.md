@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "60585"
+decided: "1976-02-13"
+citations: ["36 Ill. App. 3d 204"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEE ARTOE, d/b/a Lee Artoe Carbon Company, Plaintiff-Appellant, v. RICHARD MANN et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/36/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2633641
+cites_cases: ["14 Ill. App. 3d 965", "17 Ill. App. 3d 14", "304 N.E.2d 27", "308 N.E.2d 78", "326 U.S. 310"]
+---
+
+# Artoe v. Mann
+
+## Majority (Mr. JUSTICE BARRETT)
+
+Mr. JUSTICE BARRETT
+delivered the opinion of the court:
+This is an appeal from an order of the circuit court dismissing a complaint brought by plaintiff, an Illinois resident, against three defendants, one an individual, a resident of San Francisco, California and two corporate entities, one a California corporation and the other a Nevada corporation, both doing business only in California and Oregon, to recover a part of the selling price of certain motion picture projection equipment shipped by plaintiff to defendant Redwood on the order of defendant Theatre Management Inc., hereinafter TMI. Redwood is wholly owned by TMI. Defendant Mann is president of both.
+The action was commenced on the plaintiff’s theory that the Illinois so-called “Long Arm Statute” (Ill. Rev. Stat. 1971, ch. 110, par. 17), applied to the transaction involved and thereby conferred in personam jurisdiction over the defendants.
+The facts pertinent to our consideration are as follows. Plaintiff is in the business of selling motion picture projection equipment, some manufactured by him and some by other manufacturers. Defendants build and operate motion picture theatres in California and Oregon, the principal offices of the corporate defendants being in San Francisco, California. On May 20, 1971, plaintiff visited the office of defendant TMI to attempt to sell his product. He did not succeed beyond interesting TMI in his equipment. There followed some telephone discussions, some initiated by plaintiff and some by TMI. In August or September, 1971, plaintiff again visited TMI. As a result of that visit TMI mailed its purchase order to plaintiff, which order included a provision for installation of, or supervision over, such installation at a stated price plus transportation expenses for the installer or supervisor of the installation. We find it fair to infer that the purchase order was a confirmation of an agreement to purchase entered into on plaintiff’s visit to TMI in August or September. When the equipment was received and installed under supervision of plaintiff, it failed to function properly and plaintiff sent a representative to attempt to correct the problem. He failed and defendants obtained replacement equipment from other sources.
+The record is not clear as to whether all of plaintiff’s equipment was returned but plaintiff did credit defendants with the greater part of the purchase price, but -claims a balance due of $3,144.49 as against the original purchase order for an amount in excess of $13,000.
+Later, in February, 1972, plaintiff again visited the office of TMI in an attempt to collect freight charges to the point of delivery. TMI refused. Apparently at that time no demand was made for payment of tire amount later claimed to be due and owing. It appears from the record that neither the individual defendant or a representative of the corporate defendants was ever in the State of Illinois with reference to the transaction involved in this cause. It is well to note here that defendant Mann as president of tire two corporate defendants had nothing to do with the transaction other than knowledge of it through others and that the purchase order came from TMI directing delivery to defendant, Redwood Theatre Inc. Hence, on the record before us, defendant Mann and defendant Redwood could not be liable to the plaintiff.
+Plaintiff relies heavily on two recent First District Appellate Court cases; namely, Cook Associates, Inc. v. Colonial Broach & Machine Co., 14 Ill. App. 3d 965, 304 N.E.2d 27, and Colony Press, Inc. v. Fleeman, 17 Ill. App. 3d 14, 308 N.E.2d 78. We distinguish these cases from this cause. In both of those cases the contracts involved were initiated by the defendants by a telephone call to the plaintiffs. The defendants knew or should have known that the completion of the agreement would be performed exclusively in Illinois. In Cook Associates defendant telephoned the offices of Cook Associates, an employment service, inquiring about a certain prospective employee and agreed to pay a fee if said individual were ultimately hired. He was hired a year after the first interview and left that employment voluntarily after two years. In Colony Press defendant phoned the plaintiff and requested the printing of advertising material to be inserted in a newspaper. Plaintiff prepared the copy and sent it to defendant, who made certain corrections and returned it for the final approval, printing and shipment to a newspaper in Canton, Ohio.
+In the case at bar, negotiations toward an ultimate agreement were initiated by the plaintiff in California and such negotiations contemplated completion of an agreement by undertaking installation in California of any equipment purchased. Under such circumstances it can hardly be said that the mere reception of a formal order through the mails in Illinois satisfies the minimum contact requirements of section 17 of the Civil Practice Act (Ill. Rev. Stat. T971, ch. 110, par. 17). Furthermore, considering all of the facts and circumstances in this case we hold that to subject the defendants here to the application of the Illinois “Long Arm Statute” would violate traditional notions of fair play and substantial justice. International Shoe Co. v. Washington, 326 U.S. 310, 90 L. Ed. 95, 66 S. Ct. 154.
+In view of the foregoing, we hold that the trial court’s dismissal of the cause for lack of “IN PERSONAM JURISDICTION” of the defendants was correct and, accordingly, the order of dismissal entered below is affirmed.
+Affirmed.
+LORENZ, P. J., and DRUCKER, J. concur.
