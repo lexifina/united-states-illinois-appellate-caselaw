@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "3—86—0761"
+decided: "1987-12-23"
+citations: ["164 Ill. App. 3d 37"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARA BASHTON, Plaintiff-Appellant, v. MICHAEL RITKO, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/164/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3582727
+cites_cases: ["130 Ill. App. 3d 1094", "134 Ill. App. 3d 48", "398 N.E.2d 174", "430 N.E.2d 976", "475 N.E.2d 543", "479 N.E.2d 1034", "79 Ill. App. 3d 1", "88 Ill. 2d 407"]
+---
+
+# Bashton v. Ritko
+
+## Majority (PRESIDING JUSTICE BARRY)
+
+PRESIDING JUSTICE BARRY
+delivered the opinion of the court: ■
+The trial court granted the motion to dismiss filed by the defendant, Michael Ritko. The plaintiff, Clara Bashton, appeals.
+The plaintiff filed her first complaint against the defendant on December 12, 1983. This complaint and two subsequent amended complaints were dismissed by the trial court. The plaintiff then filed a third amended complaint (the complaint) alleging breach of an implied warranty of habitability and intentional misrepresentation.
+The complaint set forth that the defendant and his wife had sold a house to the plaintiff on or about May 26, 1975. Count I alleged that the defendant was the builder-vendor of the house, that he and his wife had hot connected the sewer system of the house to the city’s sewer system, and that failure to connect the sewer systems constituted a breach of the implied warranty of habitability. Count II of the complaint alleged that the defendant and his wife’s knowing failure to inform the plaintiff that the sewer was not connected constituted intentional misrepresentation.
+The defendant and his wife filed a motion to dismiss the third amended complaint, alleging that the complainant had not properly pleaded that the defendant was a builder-vendor nor had she alleged a cause of action against the defendant’s wife. The trial court found that count I of the third amended complaint properly alleged that the defendant was a builder-vendor, but failed to state a cause of action against the defendant’s wife. The court therefore dismissed count I as to the wife, leaving the remainder of the complaint intact. We note for clarification that from this time on, without explanation, all motions and the instant appeal were brought in the defendant’s name only. Nonetheless, the trial court properly continued to refer to the “defendants.”
+After the court dismissed count I as to the wife, the defendant filed another motion to dismiss, arguing that an implied warranty of habitability did not extend to the plaintiff; that the applicable statute of limitations barred the plaintiff’s suit; and that the doctrine of laches barred the suit.
+Following a hearing on the matter, the trial court granted the defendant’s motion and dismissed the cause of action with prejudice. The court did not offer any reasoning for its order. On appeal, the plaintiff argues that the trial court erred in finding as a matter of law that the plaintiff’s cause of action is barred by the statute of limitations.
+The plaintiff assumes that the trial court’s order was based on the statute of limitations, though there is nothing in the record to support this contention. We note that an order sustaining a motion to dismiss, without specifying the ground on which it is based, places before the appellate court every issue raised by the motion and if any ground relied on by the trial court was proper, the reviewing court must affirm. (Lanno v. Naser (1979), 79 Ill. App. 3d 1, 398 N.E.2d 174.) Accordingly, we must review every argument raised in the defendant’s motion to dismiss.
+The defendant’s contention that an implied warranty of habitability did not exist between him and the plaintiff was based on his allegation that he had originally built the plaintiff’s home for his own use, rather than for an investment or for commercial property. In other words, the defendant is contending that he was not a builder-vendor.
+When considering a defendant’s motion to dismiss based on the pleadings, all of the plaintiff’s well-pleaded facts are presumed true and all reasonable inferences are drawn in the plaintiff’s favor to ascertain whether any set of facts could warrant recovery. Katz v. Belmont National Bank (1984), 130 Ill. App. 3d 1094, 475 N.E.2d 543.
+We have examined the plaintiff’s third amended complaint and find that when all its well-pleaded facts are taken as true and all reasonable inferences are drawn therefrom, it reveals facts, including that the defendant built and sold the house, which could warrant recovery under an implied warranty of habitability. Further, we note that the trial court specifically ruled, in denying an earlier motion to dismiss, that the complaint sufficiently alleged that the defendant was a builder-vendor. Accordingly, we find, as we believe the trial court recognized, that the plaintiff sufficiently pleaded a cause of action for breach of an implied warranty of habitability.
+The defendant’s second and third contentions in his motion to dismiss are that the statutes of limitations have run on the plaintiff’s causes of action and that the equitable doctrine of laches should bar recovery.
+When a cause of action arises from fraud, the statute of limitations will not begin to run or laches apply until the fraud is discovered or until such time as it could have been discovered by the exercise of reasonable diligence. (Peskin v. Deutsch (1985), 134 Ill. App. 3d 48, 479 N.E.2d 1034.) Further, the discovery rule mandates that the statute of limitations starts to run when a person knows or reasonably should know of his injury and also knows or reasonably should know that it was wrongfully caused; this is usually a question of fact. Knox College v. Celotex Corp. (1981), 88 Ill. 2d 407, 430 N.E.2d 976.
+In the instant case, the plaintiff alleges intentional misrepresentation, i.e., fraud, as her second cause of action. Additionally, in her deposition on file, while the plaintiff stated that she noticed the sewer problem during the first year after she bought the home, she further stated that when she confronted the defendant with the sewer problem he told her that the sewer was connected. Taken in their proper context, the plaintiff’s deposition statements raise a factual question as to whether the defendant made fraudulent representations which might have tolled the running of the statute of limitations.
+Assuming that the defendant made statements such as the plaintiff reported, as we must for purposes of a motion to dismiss, there remains the factual question of when the exercise of reasonable diligence would have uncovered the fraud. Additionally, pursuant to Knox College, even after the date when the plaintiff noticed the sewer problem is established, there remains a factual issue of when she knew or should reasonably have known that it was wrongfully caused. These determinations must be made by the trier of fact, not in a pretrial motion to dismiss. Accordingly, the trial court could not have properly granted the motion based on the running of the statute of limitations.
+As noted, the defendant’s final basis for his motion to dismiss was the equitable doctrine of laches. Given the plaintiff’s allegations of the defendant’s fraud, pursuant to Peskin there remains a factual question of when laches would begin to apply. The trial court therefore could not have properly dismissed the plaintiff’s cause of action on this basis.
+Having examined each possible basis for the trial court’s ruling and found each to be improper, we must conclude that the court erred in granting the defendant’s motion to dismiss.
+The judgment of the circuit court of La Salle County is reversed and the cause remanded for further proceedings consistent with this opinion.
+Reversed and remanded.
+STOUDER and SCOTT, JJ., concur.
