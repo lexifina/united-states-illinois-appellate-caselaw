@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+decided: "1877-12"
+citations: ["1 Ill. App. 454"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barrett B. Clark v. Samuel Gotts."]
+source_url: "https://static.case.law/ill-app/1/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2404314
+cites_cases: ["1 N. H. 28", "1 Scam. 128", "13 Johns. 480", "14 Johns. 188", "15 Mass. 274", "2 Am. Rep. 515", "2 Mass. 115", "2 Scam. 535", "20 Ill. 65", "3 Ala. 756", "3 Day, 37", "3 Scam. 179", "3 Scam. 181", "4 Watts & Serg. 118", "49 N. H. 480", "50 Ill. 512", "55 Ill. 213", "6 Am. Rep. 499", "63 Ill. 550", "64 Ill. 510", "65 Ill. 370", "67 Ill. 431", "68 Ill. 499", "7 Mass. 145", "75 Ill. 548", "75 Ill. 8", "78 Ill. 229", "78 Ill. 443"]
+---
+
+# Clark v. Gotts
+
+## Majority (Pillsbury, J.)
+
+Pillsbury, J.
+This action was originally commenced b'efore a justice, and taken by appeal to the Circuit Court of Will county.
+Two trials have been bad at the circuit.
+In the first, the plaintiff recovered verdict and judgment, and on appeal to Supreme Court by defendant the judgment was reversed and cause remanded: 78 Ill. 229.
+On the second trial verdict and judgment were rendered for the defendant, and the plaintiff brings the case here by appeal.
+The action is brought to recover for goods sold to the ■wife and minor daughter of the defendant, and the defendant relies upon payment by the wife for the goods obtained by her, and denies his liability to pay for the goods sold to the daughter.
+The daughter was not living: at ■ home at the time she obtained the goods from appellant, and the former judgment in favor of the appellant was reversed because he did not show any express promise on the part of the appellee to pay for them or prove any circumstances from which such promise could be legally inferred. On the re-trial of the cause, the appellant offered to prove all the circumstances attending the leaving of her home by the child; that the father treated her cruelly and turned her out of his house; and tl* wages she was able to obtain from her labor.
+The Court excluded all such offered evidence, and the appellant reserved an exception to such ruling, and now assigns the same for error.
+The duty of parents to provide for the maintenance of their children is a principle of natural law; an obligation, says Puffendorf, laid on them not only by nature herself, but by their own proper act in bringing them into the world; for they would be in the highest manner injurious to their issue, if they only gave their children life, that they might afterwards see them perish. 1 Black. Com. 447.
+This natural obligation is a sufficient consideration to support an express promise by a father to pay for necessaries furnished his child, and under certain circumstances may be sufficient to raise an implied promise to that effect.
+While the municipal law has afforded no means of enforcing this duty imposed by nature, as such, yet, the experience of mankind has shown, that in certain instances the parent had not enough of that “ natural inextinguishable affection which Providence has implanted in the breast of every parent ” to prevent him from turning his helpless infant out upon the world to suffer for the want of food and clothing actually necessary for the preservation of life, when the unnatural father has been of sufficient ability to maintain, protect and educate his child in accordance with this natural obligation; in such cases, when the stranger, who was under no such obligation to the infant, had relieved its necessities, the common law, ever ready in the interest of justice, to furnish a remedy consistent with its principles, foi* every wrong, inferred that the parent had promised to pay the stranger for the necessaries thus furnished his child, thereby placing the right to recover upon contract rather than enforcing the natural duty as a common law obligation. At the same time the rights of the parent are fully protected.
+A party furnishing necessaries to an infant is bound to inform himself of the condition of the child and the reasons why the parent does not provide for it himself, and if it cannot be shown that the necessities of the child are the result of the parent’s act, no action can be maintained upon such implied promise.
+The parent is to be the judge of the wants of the child, and of his ability to supply them, and where a third party furnishes means for the support of the child, he must take the burden of showing to the satisfaction of the court and jury, that the parent expressly promised to pay for the same, or show such facts and circumstances bearing upon the question of the parent’s neglect and treatment, and his evident intentions, views and purposes, regarding the necessities of, and provision for the child, that a promise can be properly inferred therefrom.
+And it will be for the jury to 'say, in a given case, whether all the facts and circumstances warrant the finding óf a promise expressed or implied. Hunt v. Thompson, 3 Scam. 179; Kelly v. Davis, 49 N. H. 480; Tyler on Inf. and Cov. 106.
+In Oatfield v. Waring, 14 Johns. 188, which was assumpsit brought to recover compensation for supporting defendant’s slave, the point was made that the facts proved did not justify an inference that the maintenance of the defendant’s slave was at his request. Spencee, J. said: “A request may be inferred from the beneficial nature of the consideration, and the circumstances of the transactions.”
+In Van Valkinburg v. Watson, 13 Johns. 480, the Court said: “A parent is under a natural obligation to furnish necessaries for his infant children; and if the parent neglect that duty, any other person who supplies such necessaries is deemed to have conferred a benefit on the delinquent parent for which the law raises an implied promise to pay on the part of the parent. But what is actually necessary will depend on the precise situation of the infant, and which the party giving the credit must be acquainted with at his peril.”
+In the case of Bainbridge v. Pickering, Gould, J. says, with great propriety: “Ho man shall take upon himself to dictate to a parent what clothing the child shall wear, at what time they shall be purchased, or of whom. All that must be left to the discretion of the father. Where the infant is sub potestate parentis, there must be a clear and palpable omission of duty, in that respect on the part of the parent, in order to authorize any other person to act for, and charge the expense to the parent.”
+In Hunt v. Thompson, 3 Scam. 179, it is said: “If it had been proved that it was by the command of the defendant that this son had remained abroad until additional clothes became necessary, and he neglected to provide them, an authority in one who should supply his omission of duty might well be presumed.”
+This case at bar was reversed by the Supreme Court because no reason was shown in the evidence why she did not live at home, and the circumstances proven would not justify the inference that she had authority to buy the goods on the credit of defendant. 78 Ill. 229.
+The doctrine is here clearly implied, as stated in Tyler on Infancy and Coverture, “that the child' need not, however, have an express authority to bind his parent, for an authority may be implied under certain circumstances, and it is always a question for the jury whether the circumstances are sufficient for that purpose.”
+In McMillen v. Lee, 78 Ill. 443, the Supreme Court, while recognizing the principle that the right of recovery in such cases rests upon a promise expressed or implied, hold that where the father and mother separate, and the father permits the mother to take the children with her, he constitutes the mother his agent to provide for the children, and is bound to pay for necessaries furnished the child at request of the mother.
+We are, therefore, of the opinion that the Court below erred in excluding from the jury the offered evidence.
+The fourth instruction asked by appellant was properly refused. It does not necessarily follow that the testimony of two witnesses should outweigh that of one in all cases. The one may be supported by all the other facts and circumstances in evidence to such an extent that the testimony of the one induces belief as being reasonable and probable, while that of the two do not. The weight of the testimony is for the jury, and while they have no right to arbitrarily disregard the testimony of an unimpeached witness, yet they are to consider it in connection with all the circumstances in proof, and applying reason and judgment to it give it such weight as it is entitled to.
+This will also apply to the fourth instruction given for appellee.
+The jury may be justified in many cases in disregarding the testimony of a witness without imputing to such witness the crime of perjury.
+The judgment must be reversed and the cause remanded.
+Judgment reversed.
