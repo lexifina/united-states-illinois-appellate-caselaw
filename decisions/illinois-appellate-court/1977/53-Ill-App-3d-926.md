@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-701"
+decided: "1977-08-09"
+citations: ["53 Ill. App. 3d 926"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONALD ENGLEHARDT et al., Plaintiffs-Appellants, v. TRIPLE X CHEMICAL LABORATORIES, INC., Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/53/cases/0926-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3391471
+cites_cases: ["131 N.E.2d 100", "326 N.E.2d 400", "344 N.E.2d 770", "36 Ill. App. 3d 638", "60 Ill. 2d 312", "7 Ill. 2d 393"]
+---
+
+# Englehardt v. Triple X Chemical Laboratories, Inc.
+
+## Majority (Mr. JUSTICE STAMOS)
+
+Mr. JUSTICE STAMOS
+delivered the opinion of the court:
+This appeal arises from an order entered by the circuit court of Cook County, granting defendant Triple X Chemical Laboratories, Inc.’s motion to strike and dismiss plaintiffs’ second amended complaint. The order further authorized defendant to recover costs incurred in presenting argument on the motion before the circuit court of Cook County.
+Plaintiffs Donald and Barbara Englehardt were owners and legal titleholders of the premises described as 901-905 Allanson Road, Mundelein, IUinois. Defendant was a tenant in a portion of the premises. Plaintiffs’ second amended complaint alleged that defendant, with a conscious indifference to surrounding circumstances, committed various wilful, wanton and reckless acts of omission or commission which constituted the proximate cause of a fire in the premises leased by defendant. Plaintiffs prayed for *173,997.45 in actual damages and *50,000 in punitive damages.
+Defendant filed a motion to strike and dismiss plaintiffs’ second amended complaint, contending that under the lease and prevailing Illinois case law plaintiffs were required to look to its fire insurance carrier for recovery. The circuit court of Cook County heard argument on the motion and, subsequently, entered an order granting the motion. It is from this order that plaintiffs appeal.
+In reviewing the propriety of the circuit court granting defendant’s motion to strike and dismiss plaintiffs’ second amended complaint, we are guided by two well-established principles of law: (1) a motion to strike or dismiss admits, for the purpose of ruling thereon, all facts well pleaded in the complaint, and (2) if any ground relied upon by the trial court in granting the motion to dismiss was proper, an appellate court would be required to affirm the judgment. (Matchett v. Rose (1976), 36 Ill. App. 3d 638, 344 N.E.2d 770.) Since the circuit court appears to have relied solely upon Cerny-Pickas & Co. v. C.R. John Co. (1955), 7 Ill. 2d 393, 131 N.E.2d 100, and One Hundred South Wacker Drive, Inc. v. Szabo Food Service, Inc. (1975), 60 Ill. 2d 312, 326 N.E.2d 400 (citing Cerny-Pickas), in granting defendant’s motion, we must determine whether these cases were properly applied to the facts of the instant case.
+Defendant’s tenancy arose pursuant to an industrial building lease. With respect to the disposition of this case one paragraph of the lease is of particular significance:
+“2. 0 0 0 and upon the termination of this lease, in any way, [lessee] will yield up said premises to Lessor in good condition and repair (loss by fire and other casualty not caused by the lessee and ordinary wear excepted) * *
+It is apparent that the aforementioned provision does not expressly prohibit the lessor from looking to the lessee for recovery in the event the lessee causes a fire in the lessor’s premises.
+Although this provision of the lease (i.e., the yield-up provision) does not expressly evidence the parties intent to look to the fire insurance carrier for recovery in case of fire, the Illinois Supreme Court has created a legal fiction by which certain provisions of a commercial lease may be scrutinized for the purpose of evidencing the implied intent of the parties to exempt the lessee from liability for loss by fire resulting from the lessee’s acts. (Cerny-Pickas & Co. v. C. R. Jahn Co. (1955), 7 Ill. 2d 393, 131 N.E.2d 100.) One such provision is the “yield-up” provision which prescribes the conditions in which the leased premises must be found at the time the lease is terminated. The typical yield-up provision is of the form found in Cerny-Pickas. The terms of this provision are as follows:
+“2. * * * Lessee will keep said premises, including all appurtenances, in good repair, ° ° °; and upon the termination of this lease, in any way, will yield up said premises to lessor in good condition and repair (loss by fire and ordinary wear excepted) # « # »
+The effect of this provision, as found by the Illinois Supreme Court in Cerny-Pickas, was to exempt the lessee from liability for loss by fire resulting from the lessee’s own negligence or otherwise. (Cerny-Pickas & Co. v. C. R. Jahn Co. (1955), 7 Ill. 2d 393, 397, 131 N.E.2d 100, 103.) The underlying rationale was that the yield-up clause stated that the lessee need not return the premises to lessor in good condition and repair if such poor condition and ill-repair was caused by fire. The word “fire” was used in the lease in an unqualified sense. Consequently, the Illinois Supreme Court held that if the lease did not require the lessee to yield-up the premises to lessor in good condition and repair if lessee caused a fire to occur, then the lease impliedly directed the lessor to seek a recovery for fire loss from the fire insurance carrier and not the lessee. Of course, the final implication was that the lessor had no cause of action against lessee in the first instance.
+Irrespective of the fact that the language of the “typical” yield-up clause would exempt the lessee from liability, the Illinois Supreme Court in Cerny-Pickas stated that the lease could express a contrary intent. Since the supreme court relied upon the yield-up clause in creating the fiction which exempts the lessee from liability we are not hesitant to rely upon the yield-up clause in the instant case to combat the fiction.
+The commercial lease pursuant to which defendant became a tenant also contains a yield-up provision. This provision is distinctly different from that in the Cerny-Pickas case. The yield-up provision which we must examine reads, in relevant part, as follows:
+“2. * * * and upon the termination of this lease, in any way, [lessee] will yield up said premises to lessor in good condition and repair (loss by fire and other casualty not caused by the lessee and ordinary wear excepted) * * (Emphasis added).
+The italicized language evidences the intent of the parties that lessee must yield-up the leased premises to the lessor in good condition and repair at the termination of the lease, including situations in which the lessee has caused a loss by fire to occur. Therefore, we are able to permissibly draw the reverse inference from that drawn by the Illinois Supreme Court in Cerny-Pickas and find that plaintiffs-lessors need not look to its fire insurance carrier for recovery for fire loss caused by defendant-lessee. Consequently, plaintiffs can properly state a cause of action against defendant based upon defendant’s alleged wilful and wanton conduct.
+The foregoing analysis demonstrates that the circuit court of Cook County failed to properly apply Illinois law to the instant litigation. Defendant’s motion to strike and dismiss was improvidendy granted. Accordingly, the judgment of the circuit court of Cook County is reversed and remanded.
+Reversed and remanded.
+DOWNING, P. J., and PERLIN, J., concur.
