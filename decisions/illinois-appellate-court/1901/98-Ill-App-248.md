@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-11-15"
+citations: ["98 Ill. App. 248"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isabella Neish, Adm’x, etc., v. Margaret Gannon."]
+source_url: "https://static.case.law/ill-app/98/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5302302
+cites_cases: ["16 Ill. 298", "190 Ill. 581", "38 Ill. App. 409"]
+---
+
+# Neish v. Gannon
+
+## Majority (Mr. Justice Brown,)
+
+Mr. Justice Brown,
+delivered the opinion of the court. This was a claim of $1,500 presented by Margaret Gannon against the estate of Jeanette Heaney, deceased. The claim was allowed in the County Court for $1,403. On appeal by the administratrix to the Circuit Court a trial was had by a jury resulting in a verdict and judgment in favor of appellee for $1,300.
+The administratrix brings the case to this court by appeal from the judgment of the Circuit Court.
+Jeanette Heaney departed this life intestate, leaving, among other heirs at law, two sisters of the appellee, who testified for the latter upon the trial of the cause in the Circuit Court. Appellee was the niece of decedent and at her request lived with and worked for her from 1880 to 1891.
+The claim is based upon the services rendered during that period. It is contended by appellant by proper assignment of errors and in argument, that the judgment should be reversed for various reasons.
+The first contention is that the court erred in admitting the testimony of the sisters of appellee, because they were heirs of decedent and interested parties. ' The witnesses were called by and testified for the party in opposition to and against their own interest. They were competent witnesses under the statute. The court did not err in admitting their testimony, but would have committed reversible error in sustaining the objection of appellant to their competency.
+The second contention is that the claim should not have been allowed because it arose from the relation of parent and child, and that the law implies no obligation to make compensation for the services in the absence of an agreement to pay. Where one remains with a parent, or with a person standing in the relation of parent, after arriving at majority, and remains in the same apparent relation as when a minor, the presumption is that the parties do not conteinplate payment of wages for services. This presumption may be overthrown and the reverse established, by proof of an express or implied contract, and the implied contract may be proven by facts and circumstances which show that both at the time the services were performed, contemplated or intended pecuniary recompense other than such as naturally arises out of the relation of parent and child. Miller v. Miller, 16 Ill. 298,
+The material inquiry therefore is, does the testimony justify the conclusion that the claimant and decedent contemplated and intended that wages should be paid for the services. We think it does, and that the jury and trial court were warranted in arriving at the conclusions they reached, respectively, upon this question of fact, by the rendition of the verdict by the former and the overruling of the motion for a new trial by the latter.
+When appellee, while a minor, left her home and began the rendition of the services for which the claim is made, her aunt said “she would take her and do for her and see that she was recompensed for her work.” She paid the claimant different sums of money and stated that “it was for work she had done for her — for pay.” When appellee attained the age of eighteen she passed an examination for a certificate to teach school and evidently intended leaving her aunt and taking up the work of a teacher in the public schools. Her aunt, however, dissuaded her, and prevailed upon her to remain in her service, promising at that time that she would do better by her than she could by teaching. The evidence also shows that at one time the deceased executed a deed to appellee of twelve hundred dollars’ worth of real estate and stated that it was to pay her for her services. Though for some reason the deed was not delivered, it's execution, taken in connection with the attending statements, tend to show that decedent understood and intended appellee to be paid for her services. Sherman v. Whiteside, 190 Ill. 581.
+The record is replete with expressed intentions of the decedent to pay appellee for her services. A reversal of this finding would be a reversal of the -manifest intention and desire of the dead.
+The contention that the verdict is excessive is unwarranted. While, presumptively, the wages of appellee belonged to her parents during her minority, yet there is sufficient evidence in this case to justify the finding of the jury upon the basis of the value of services rendered by appellee after she attained her majority. The evidence shows that appellee, in addition to doing the ordinary household work, milked cows, cleaned the barn, and did other out-door work upon the premises, besides nursing her aunt, who was an aged lady, and for a considerable length of time was confined- to her bed by reason of injuries resulting from a fall.
+The intention of the aunt to convey appellee twelve hundred dollars’ worth of real estate some time prior to the close of the services and as compensation therefor, shows her estimate of their value was in substantial accord with the finding of the jury.
+It is also contended that the claim of appellee is barred by the statute of limitations. The undisputed testimony, shows that decedent made payments to appellee upon account in 1891 and 1898, and on both of said occasions promised to pay the residue of the indebtedness at a subsequent date. These facts relieve the claim from the operation of the statute.
+Some complaint is made against the action of the court in passing upon the instructions. We have examined them at length and find no error in those given. Every correct proposition of law contained in appellant’s refused instructions is elsewhere given. It is not error to refuse instructions when others containing the same principles are given. (City of Rock Island v. Deis, 38 Ill. App. 409; McMahon et al. v. Sankey, 133 Ill. G36.) Finding no error in the record and substantial justice having been done, the judgment of the Circuit Court is affirmed.
