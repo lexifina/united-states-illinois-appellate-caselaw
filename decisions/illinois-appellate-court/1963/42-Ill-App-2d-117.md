@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 49,068"
+decided: "1963-07-01"
+citations: ["42 Ill. App. 2d 117"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ENGLISH, PJ and BURMAN, J, concur."]
+parties: ["The People of the State of Illinois, ex rel. the Village of Melrose Park, Illinois, Appellee, v. Frank J. Scheck, Jr., Appellant."]
+source_url: "https://static.case.law/ill-app-2d/42/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5248172
+cites_cases: ["116 NE2d 882", "174 NE 2d 213", "2 Ill2d 92", "30 Ill App2d 264"]
+---
+
+# People ex rel. Village of Melrose Park v. Scheck
+
+## Majority (MR. JUSTICE MURPHY)
+
+MR. JUSTICE MURPHY
+delivered the opinion of the court.
+In a trial before a justice of the peace in the Village of Melrose Park, defendant was found guilty of disorderly conduct and reckless driving. An appeal of both charges was taken to the Criminal Court of Cook County. In the nonjury trial de novo, the charges were heard on a consolidated record. Defendant was found to be guilty of disorderly conduct and not guilty of reckless driving. He was fined $50 and costs. Defendant’s motion in arrest of judgment and a motion to “open up, vacate and set aside the judgment” were both denied. Defendant appeals.
+The complaint, in evidence, shows “Carmen F. Vece, Melrose Park Police Dept.” as the complainant, and the offense charged as that of “disorderly conduct.” Specifically, the complaint alleges “that he [Frank J. Scheck] did conduct himself in a manner as to cause a breach of the peace by using loud and profane language in a public place to a police officer in the line of duty and did then and there leave scene and cause more disturbance contrary to State Statutes.”
+The complaining witness testified that on January 13, 1962, he was a Village of Melrose Park police officer. He was in uniform and on motorcycle patrol in the Winston Park Shopping Plaza in the Township of Melrose Park, Cook County. He was operating a 3-wheel motorcycle, which carried the word “Police” on the windshield and “Winston Park Police” on the back. He was not assigned to the shopping plaza but, with the permission of his police superior, was on traffic patrol in the shopping plaza, under the employ and direction of the shopping center.
+Defendant was parked at the curb, in front of a “No Parking” sign. After requesting defendant three times to move, the officer finally ordered him to leave. Defendant refused and got out of his car and told the officer that he had no right to tell him to move. The complaining witness testified that defendant swore at him, saying that he could “go to hell” and that defendant “was damned if he was going to move his car.” This attracted a erowd of “30 or 40 people.” The officer stated: “I informed Mr. Scheck he was under arrest for disorderly conduct. He got back in his car and drove away. I followed him, told him to pull over and he kept driving.” In attempting to stop defendant, the officer lost control of his motorcycle and later, when he had stopped defendant, defendant “took off, causing the door to hit me and knocked me back against my motorcycle.” After an unsuccessful search in the area for defendant, the police officer secured a warrant for defendant’s arrest on a sworn complaint, charging defendant with the offense of disorderly conduct.
+Defendant testified as follows in his own behalf. He had pulled up to the curb to pick up his wife and, when ordered to move, said, “Pm not parking, I want to pick up my wife.” He denied that there was any disturbance or that he threatened the police officer or used loud or abusive language. The police officer did not represent himself to be a Melrose Park policeman or ever tell defendant that he was under arrest. Defendant drove away because he didn’t want to create any disturbance; “I just don’t like fights of any kind.” He was aware that the officer was following him, but saw no reason to “find out what it was about.” His intention in leaving was to make a complete circle and to come back to the shopping center and pick up his wife.
+Defendant has cited numerous authorities to support his contentions that (1) his motion in arrest of judgment was denied erroneously; (2) he was convicted erroneously of a crime other than that alleged in the complaint; (3) all elements of the crime were not proven beyond a reasonable doubt; (4) the judgment is contrary to the law, in that: (a) the trial court erred in finding that the complainant was a police officer in the line of duty; (b) addressing appropriate words to a police officer does not constitute disorderly conduct; (c) refusal to obey an order of a police officer of itself does not constitute disorderly conduct; and (5) defendant was denied due process of law.
+We have considered these contentions and the authorities cited. An extended discussion of them is unnecessary, because we believe the determinative question is whether the evidence in this record supports a finding of guilty of the statutory offense of disorderly conduct under the Illinois Criminal Code (Ill Rev Stats 1961, c 38, § 26-1).
+The complaint is sufficient to charge an offense and plainly and concisely sets forth sufficient facts to apprise the defendant of the offense charged against him, so that he could adequately prepare his defense, and, without securing further details or making any objections, he went to trial. We see no error here. (People v. King, 30 Ill App2d 264, 267, 174 NE 2d 213 (1961).) The language of the complaint contains the essential elements of the offense of disorderly conduct and is sufficient to charge that defendant knowingly acted in an unreasonable manner, so as to alarm or disturb another, and to provoke a breach of the peace.
+Although defendant denied using profanity, he argues that even had he so spoken and acted, his actions were not unreasonable at the time. We do not agree. We consider the testimony of the complaining witness sufficient to support the statutory offense of disorderly conduct under the Illinois Criminal Code (Ill Rev Stats 1961, c 38, § 26-1).
+The testimony of one witness alone, if positive and the witness is credible, is sufficient to convict, even though the testimony is contradicted by the accused. People v. Arnold, 2 Ill2d 92, 95, 116 NE2d 882 (1954).
+Defendant repeatedly refused to remove his car from in front of a “No Parking” sign when so requested and ordered to do so by a police officer in uniform, operating a motorcycle plainly marked “Police” on front and back. This conduct, coupled with defendant’s getting out of his car and using abusive language to the officer, which attracted a crowd of 30 or 40 people, is acting in an unreasonable manner, so as to provoke a breach of peace, and is sufficient evidence of the offense of disorderly conduct.
+Although defendant was tried before an able and experienced judge, he complains that he was denied a fair trial, in that his counsel was not permitted to complete the presentation of his defense. We have scrutinized the transcript of the testimony and find nothing in the record to indicate that defendant informed the court at the trial that he had other witnesses to offer, or that his examination of either witness was unduly restricted.
+For the reasons given, we conclude that defendant had a fair trial, and the judgment is affirmed.
+Affirmed.
+ENGLISH, PJ and BURMAN, J, concur.
