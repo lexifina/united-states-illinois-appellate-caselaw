@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-236"
+decided: "1978-06-07"
+citations: ["60 Ill. App. 3d 902"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BARBARA LOWTHER, Plaintiff-Appellant, v. NORTH CENTRAL COLLEGE, Defendant.—(ARLO A. SCHILLING, Defendant-Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/60/cases/0902-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3354951
+cites_cases: ["181 N.E.2d 105", "24 Ill. 2d 437", "328 N.E.2d 265", "365 N.E.2d 744", "368 N.E.2d 1062", "50 Ill. App. 3d 247", "53 Ill. App. 3d 644", "60 Ill. 2d 168"]
+---
+
+# Lowther v. North Central College
+
+## Majority (Mr. JUSTICE GUILD)
+
+Mr. JUSTICE GUILD
+delivered the opinion of the court:
+This matter arises from the dismissal on defendant’s motion of count III of a three count complaint, which alleged two separate libelous publications. The other two counts of the complaint are not involved in this appeal. The plaintiff, Barbara Lowther, was a tenured assistant professor of psychology at North Central College. The defendant, Arlo A. Schilling, was the president of that college at all times relevant herein. On December 15,1973, the plaintiff resigned her tenured position for reasons which are undisclosed in the complaint. Apparently the college accepted the plaintiff’s resignation with an expression of gratitude for her services. Subsequently, on January 23, 1975, the New York Times published an article entitled “Fiscal Scandal Shakes School Institute.” This article dealt, in general, with the involvement of the plaintiff and her husband in various educational and business activities which were encountering major financial difficulties. Near the end of that article the following two paragraphs appeared:
+“Mr. and Mrs. Lowther established their foundation offices in a house they rented from the college, but the foundation was evicted in December 1973, and Mrs. Lowther was asked to resign from the faculty because of the foundation’s failure to keep up the rent payments, according to Dr. Schilling.
+Dr. Arlo L. Schilling, president of the 900 student Methodist-related college, said this week that the Lowthers still owed North Central $6,008.89.”
+On January 27,1973, an article entitled “The I.E.D. Affair (Continued)” written by Larry Van Dyne was published in the Chronicle of Higher Education. This article dealt, in general, with the apparent financial collapse of the Institute of Educational Development, which the plaintiff and her husband had controlled. At the end of the article the following three paragraphs appeared:
+“In addition to those developments, an ironic side to the complicated affair also became known last week.
+Arlo Schilling — president of North Central College in Naperville, Ill., where Mrs. Lowther was a psychology professor during much of the 1960’s — confirmed that she had been forced to resign her tenured position there in December, 1973. The resignation was requested, he said, after the college had been given $5,930 in bad checks (later made good) from the Phillips Research Foundation and signed by Mr. Lowther. After her resignation, the foundation, which had been using rented quarters on the North Central campus, moved to Lombard.
+Mrs. Lowther’s letter of resignation was dated Dec. 14, 1973— the same day that the Lilly Endowment gave final approval to the $350,000 grant to Lincoln Open University.”
+On June 4,1975, the plaintiff commenced this litigation by the filing of a pro se complaint. Plaintiff alleged that the two articles set forth above were libelous publications by the defendant Schilling. It is of interest to note, however, that neither the New York Times, Larry Van Dyne, nor the Chronicle of Higher Education were named as co-defendants.
+The plaintiff eventually retained counsel, and ultimately a second amended complaint was filed. It is count III of that complaint with which we now deal. That count related that the defendant, Schilling, as president of the defendant North Central College, had knowledge of the plaintiff’s tenured position and, notwithstanding the exchange of the resignation and the acceptance with thanks between the plaintiff and North Central College, Schilling “knowingly, consciously, deliberately and maliciously” caused false statements to be published. Plaintiff also alleged that the publication was for the “sole purpose of ruining the plaintiff’s reputation in the academic community” and “consciously intending to hold her up to scorn and ridicule in that community.” The essence of the plaintiff’s complaint was based upon the language “forced to resign” and “asked to resign” which appeared in the two articles set forth above. Also included in her complaint was the following paragraph:
+“Tenure in the academic community is a word of art. It has the firm recognition that a person tenured cannot be removed from academic rank except for ‘cause’. ‘For cause’ has the expressed meaning of ‘moral turpitude’ and the known meaning of serious character defect and of criminal conduct.”
+The plaintiff alleged that the actions of Schilling were malicious, and effectively barred her from the pursuit of her profession. In conclusion the plaintiff prayed for judgment in the sum of *400,000 in general damages against the “defendants”, although nowhere in count III did the plaintiff allege any wrongdoing on the part of North Central College.
+In response to the second amended complaint both defendants submitted a lengthy motion to dismiss. As to count III they recited various reasons in support of dismissal.
+On March 1, 1976, the trial court denied the defendants’ motion to dismiss count I of the second amended complaint, which is still pending, and granted the defendants’ motion to dismiss count II. Subsequently, on March 10, 1976, the trial court granted the defendants’ motion to dismiss count III with prejudice but did not recite the grounds for its action. On March 24,1976, in response to the motion of defendant Schilling, the court reissued its order of March 10 but amended it to reflect that there was no just reason to delay the enforcement or appeal of that order. As a consequence, the order of March 24 is now before this court.
+Basically the plaintiff has argued a single issue here, i.e., whether it is libel per se to publish that a tenured professor was “forced to resign,” either because of a “universal acceptance” that tenure absolutely protects an academic position except for serious misconduct or crime; or because the statement injures a teacher in her occupation or profession.
+After a careful review of the record before us we find that it is unnecessary for this court to consider the issue presented by the plaintiff. The two articles upon which the plaintiff relies each set forth, in context, the specific reason given by Dr. Schilling for the plaintifFs severance of employment. That reason was the financial embarrassment of Mrs. Lowther and her husband, and not any crime, moral turpitude or professional incompetence on the part of the plaintiff. When the words attributed to Dr. Schilling are given their natural and obvious meanings, without resort to conjecture or innuendo, they are clearly innocent and not libelous as a matter of law. In making this finding we apply the prevailing Illinois rule of innocent construction. (See Valentine v. North American Co. (1974), 60 Ill. 2d 168, 328 N.E.2d 265; John v. Tribune Co. (1962), 24 Ill. 2d 437, 181 N.E.2d 105; Halpern v. News-Sun Broadcasting Co. (1977), 53 Ill. App. 3d 644, 368 N.E.2d 1062; and Cooper v. Rockford Newspapers, Inc. (1977), 50 Ill. App. 3d 247, 365 N.E.2d 744.) This being the case, the plaintiff’s count III fails to state a cause of action and was properly dismissed.
+The order of the trial court is hereby affirmed.
+Affirmed.
+SEIDENFELD, P. J., and RECHENMACHER, J., concur
