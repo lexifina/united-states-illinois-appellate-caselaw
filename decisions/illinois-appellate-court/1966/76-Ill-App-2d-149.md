@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 65-77"
+decided: "1966-11-07"
+citations: ["76 Ill. App. 2d 149"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Marvin Haycraft, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/76/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2576863
+cites_cases: ["228 La 927", "274 US 220", "284 NW 926", "288 Mich 406", "73 NW2d 192", "9 NY2d 168"]
+---
+
+# People v. Haycraft
+
+## Majority (MR. JUSTICE ABRAHAMSON)
+
+MR. JUSTICE ABRAHAMSON
+delivered the opinion of the court.
+This appeal is prosecuted from an order, based on a jury verdict, entered on January 20, 1965, by the Circuit Court of the 19th Judicial Circuit, Lake County, that adjudged the defendant, Marvin Haycraft, guilty of the crime of robbery as charged in his indictment. The defendant was sentenced to a prison term of not less than eight nor more than twenty years.
+The defendant was arrested on the 23rd day of July, 1964, several hours after the robbery of a tavern in the city of Waukegan, and charged with the commission of that crime. At the original arraignment on August 7, 1964, Haycraft entered a plea of not guilty and was remanded to the County jail for want of bail. Approximately one and one-half months later, Haycraft withdrew his first plea and, on rearraignment, pled guilty to the charge and petitioned the court for probation. He was released on his own recognizance at that time and the matter was continued until December 30, 1964, for a hearing on his petition.
+During the interim, and in violation of his bond, Hay-craft was apprehended by the police in Phoenix, Arizona. It is apparent that the defendant realized, at this point, that his petition for probation was unlikely to succeed. He, therefore, orally requested on December 30 that he be allowed to withdraw his plea of guilty. His request was granted and, on his third arraignment, he entered his plea of not guilty and the matter was placed on the January 1965 Criminal Trial Calendar of the court. After several delays, the cause came to trial with the result already indicated.
+Although reversal is urged by defendant on several grounds, we need discuss only one. Haycraft testified on his behalf, and was asked, during cross-examination, the following question:
+“Q. Do you recall, too, Marvin, that at that time you had a conversation with Anthony Dohoney from the Probation Department?
+“A. Oh, yes, I talked to a probation officer.
+“Q. Now what did you tell the probation officer ?”
+Defense counsel objected at this point and moved for a mistrial. Although the objection was sustained, the trial continued after a denial of the motion.
+Subsequently, Anthony Dohoney, a probation officer for Lake County, was called to testify as a rebuttal witness for the State and, in answer to a question propounded to him, stated as follows:
+“Mr. Dohoney: Well, in the process of preparing a probation report, I was interrogating the defendant as to what had taken place in the City of Waukegan for which he was charged; namely, a robbery. I asked him if he performed the act and since he had already pled guilty at that time, he . . .”
+An objection was again promptly sustained and the court proceeded to strike all of Dohoney’s testimony and admonished the jury to disregard it in its entirety. However, a second motion by the defense that a juror be withdrawn and a mistrial declared was denied and it is from those denials that Haycraft appeals.
+While Illinois has no precise law on the subject, the general rule in other jurisdictions appears to be that a plea of guilty, subsequently withdrawn by leave of court, is not admissible into evidence against an accused upon his trial on the substituted plea of not guilty. Kercheval v. United States, 274 US 220 (1927); People v. Spitaleri, 9 NY2d 168 (1961); State v. Joyner, 228 La 927, 84 So2d 462 (1955).
+The Kercheval case, cited above, is the leading decision on the subject and did much to correct the conflict on the point that existed between various jurisdictions. Kercheval had been indicted for using the United States mails to defraud. He first pleaded guilty to the charge and was thereupon sentenced. He then petitioned for leave to withdraw his guilty plea and alleged that he had entered it only on the promise of the prosecution that his sentence would be minimal. The trial court granted his petition but permitted the prosecution to introduce his earlier plea into evidence during the trial on his substituted plea of not guilty. The Supreme Court rejected the position of both the trial court and the Circuit Court of Appeals that the prior plea was admissible, not as conclusive proof of guilt, but as in the nature of an admission against interest, and reversed both courts. In so doing, the court said in part:
+“The effect of the court’s order permitting the withdrawal was to adjudge that the plea of guilty be held for naught. Its subsequent use as evidence against petitioner was in direct conflict with that determination. When the plea was annulled it ceased to be evidence. By permitting it to be given weight the court reinstated it pro tanto . . . .”
+Almost all subsequent cases agree with the Kercheval decision. In the case of People v. Street, 288 Mich 406, 284 NW 926 (1939), the Kercheval doctrine was expanded by the Supreme Court of Michigan. In that case, the accused was permitted to withdraw his guilty plea and went to trial on his denial of guilt. The prosecutor, in his opening statement to the jury, alluded to the prior plea. Objection was immediately made and sustained. The trial court instructed the jury that the accused had a right to withdraw his guilty plea and that the allusion should be disregarded but refused to declare a mistrial. The Supreme Court of Michigan reversed the trial court on that point and held that the accused did not receive a fair trial as a result. It stated, in part, as follows: ■
+“While it is impossible to analyze the processes of the human mind, we cannot say that the jury was not impressed with the statement that defendant had previously pleaded guilty. No matter how great an effort a juror might make not to let it prejudice him, the statement was of such a nature that it could not be eradicated from the average juror’s mind by instruction of the judge . . . .”
+We agree with the position of both the Kercheval and Michigan decisions cited. It is utterly inconsistent to permit a defendant to withdraw his guilty plea and then allow it, even inferentially, to be used against him. Once an accused has been permitted to withdraw his plea of guilty, he is entitled to all the privileges and presumptions that the law affords, including the presumption of innocence. State v. Reardon (Minn), 73 NW2d 192 (1955); People v. Spitaleri, supra (New York, 1961); State v. Joyner, supra (Louisiana, 1955).
+It is also difficult to conceive a disclosure more apt to influence a jury than the information that the accused had at one time pled guilty to the commission of the crime with which he stands charged. The average juror, almost by definition, is unable to grasp the subtle technicalities of the law. Ordinarily, he would be unable to contemplate that a man would admit guilt to a crime if in fact he were not guilty. Furthermore, he would be unable to erase that disclosure totally from his mind regardless of an admonishment from the court, however prompt and however strong. The human mind is not a blackboard from which unwanted information can be erased at will. We can think of nothing more damaging to an accused in the minds of the jury than the disclosure, however brief, that he had admitted guilt to the charge against him, and once that disclosure has been made we cannot say that he has received the fair and impartial trial to which he is entitled.
+Although Dohoney’s statement was promptly stricken by the trial court and the jury directed to disregard his testimony completely, irreparable damage had already been done. The jury was aware, however indirectly, that the defendant, Haycraft, had previously pled guilty to the crime of which he was accused. "Under the circumstances, he did not receive a fair trial as guaranteed by the Constitution of the State of Illinois and the United States of America.
+The judgment of the trial court is reversed and the cause is remanded for a new trial.
+Reversed and remanded.
+MORAN, P. J. and DAVIS, J., concur.
