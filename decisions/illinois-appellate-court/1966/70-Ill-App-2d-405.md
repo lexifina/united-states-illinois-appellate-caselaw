@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,961"
+decided: "1966-05-10"
+citations: ["70 Ill. App. 2d 405"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BRYANT, P. J. and LYONS, J., concur."]
+parties: ["Continental Casualty Company, Plaintiff-Appellant, v. Burlington Truck Lines, Inc., Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/70/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2588314
+cites_cases: ["194 Ill App 149", "197 Ill App 460", "225 Ill App 201", "239 Ill App 442", "258 Ill App 168", "311 Ill App 263", "325 Ill App 693", "35 NE2d 815", "366 Ill 366", "60 NE2d 641", "9 NE2d 53"]
+---
+
+# Continental Casualty Co. v. Burlington Truck Lines, Inc.
+
+## Majority (MR. JUSTICE BURKE)
+
+MR. JUSTICE BURKE
+delivered the opinion of the court.
+This appeal is taken from a judgment for defendant. Plaintiff executed a miscellaneous bond to the State of Illinois guaranteeing the remission of C.O.D. payments collected by Filbey Freight Lines, Inc., from the consignees of Filbey’s customers. Filbey failed to remit collections of $1,000 to its customers, thereby requiring payment by plaintiff of that amount to the unpaid customers. Plaintiff, as subrogee, seeks to recover from Burlington Truck Lines, Inc., the $1,000 paid by plaintiff under its bond obligation.
+Prior to January 27, 1959, Filbey was insolvent, its books showing liabilities in excess of assets in the amount of $25,330.90. In addition, there was a $27,271.-68 income tax liability to the Federal Government. On January 27, the Filbey board of directors and stockholders adopted a resolution accepting an offer by defendant, Burlington Truck Lines, Inc., to purchase Filbey’s operating rights for $30,000. Filbey’s treasurer, Philip Makin, was authorized to execute all necessary papers to effect the transfer. Makin was further authorized, as “true and lawful attorney for this corporation,” to sell or otherwise dispose of all Filbey’s assets.
+The operating rights were sold to defendant on February 24, 1959, by way of an escrow agreement under which the Internal Revenue Service acquired a first lien on the purchase price. Defendant received the Filbey Certificate of Public Convenience and Necessity, temporary operating rights pending approval of the transaction by the Illinois Commerce Commission for $500 per month which was to be credited against the purchase price, and a 5-year covenant by Filbey not to engage in the trucking business in the area encompassed by its Certificate of Public Convenience and Necessity. On November 10, 1960, the Attorney General of Illinois effected an involuntary dissolution of Filbey Freight Lines, Inc. It appears that the entire $30,000 in the escrow has been consumed by the federal taxes and the interest thereon, and that there are additional taxes due and owing the Federal Government from Filbey.
+Plaintiff filed suit directly against defendant on the ground that the parties to the sale of Filbey’s operating rights did not comply with the notice provisions of the Illinois Bulk Sales Act and consequently the sale was fraudulent and void as to creditors. Ill Rev Stats 1959, c 121%, pars 78-80(a). Defendant admits no notice was sent to Filbey’s creditors regarding the sale, but maintains that the sale of intangible assets does not fall within the Bulk Sales Act.
+This matter arose prior to the effective date of the Illinois Commercial Code and is therefore governed by the Bulk Sales Act, which provides in part:
+“The sale, transfer, or assignment in bulk of the major part or the whole of a stock of merchandise, or merchandise and fixtures or other goods and chattels of the vendor’s business, otherwise than in the ordinary course of trade and in the regular and usual prosecution of the vendor’s business is fraudulent and void as against the creditors of the vendor, unless the vendee shall . . . .” Ill Rev Stats 1959, c 121%, par 78.
+We are of the opinion that the sale of intangible assets is not covered by the Bulk Sales Act.
+The Act applies to the sale in bulk of a major part or the whole of “a stock of merchandise, or merchandise and fixtures or other goods and chattels of the vendor’s business.” No cases have been cited, or found, holding that the sale of intangible assets is covered by the Act. Plaintiff relies on the case of St. Paul-Mercury Indemnity Co. of St. Paul v. Hoey, 325 Ill App 693, 60 NE2d 641, as apparently standing for the proposition that the sale of intangible assets falls within the Bulk Sales Act. The Hoey case does not so hold, and plaintiff’s citation to the headnote of that abstract opinion at 60 NE2d 641 is misleading. The court in the Hoey case was concerned with whether the sale of trucks constituted a “major portion” of the vendor’s business, and expressly-stated, at page 3 of the opinion, that “although the certificate of authority to operate was included in the sale, we think the value thereof must be disregarded in determining whether the transaction falls within the provisions of the act. . . .” The case of People ex rel. Nelson v. Sherrard State Bank, 258 Ill App 168, 176, on the other hand, expressly states that the Bulk Sales Act applies only to tangible property. Plaintiff maintains that the case of Continental Illinois Nat. Bank & Trust Co. of Chicago v. Peoples Trust & Savings Bank, 366 Ill 366, 9 NE2d 53, overruled the Sherrard case. The Continental case, however, deals solely with matters arising under the Illinois Constitution and the Banking Act, and in no way concerns itself with the question of whether the Bulk Sales Act covers intangible property.
+Furthermore, the Bulk Sales Act applies only to a sale of a “major part or the whole of” a vendor’s assets. Zenith Radio Distributing Corp. v. Mateer, 311 Ill App 263, 35 NE2d 815. At the time of the sale of the operating rights to defendant, the value of Filbey’s assets approximated $120,000; the operating rights were sold for the sum of $30,000, constituting only 25% of Filbey’s total assets.
+Finally, it should be noted that a failure to comply with the provisions of the Bulk Sales Act gives no direct remedy by a vendor’s creditors against the vendee, and does not make the vendee a debtor of the vendor’s creditors. As stated in Grossfield & Roe Co. v. Zanni, 239 Ill App 442, at page 446:
+“Although a sale may be fraudulent and void, as against creditors, by reason of the Bulk Sales Act, it does not follow that the vendee immediately becomes a direct debtor so as to be liable, for example, in assumpsit, to the creditor. The fact that the sale is void as to creditors by reason of the Bulk Sales Act may be taken advantage of in proper proceedings by the creditor (Ogden Ave. State Bank v. Cherry, 225 Ill App 201; Page v. Wright, 194 Ill App 149), but that fact may in no way be said to give rise to a new obligation on the part of the vendee directly to the creditor, that is, such an obligation as may be enforced by the creditor against the vendee in a suit at law. Chicago Specialty Shoe Co. v. Uhwat, 197 Ill App 460.”
+Even if there were a failure here to comply with the Act, which there is not, plaintiff has no direct right of action against defendant.
+The judgment is affirmed.
+Judgment affirmed.
+BRYANT, P. J. and LYONS, J., concur.
