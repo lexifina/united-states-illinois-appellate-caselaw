@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1930-09-22"
+citations: ["259 Ill. App. 43"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dayton Scales Company, Plaintiff in Error, v. H. A. Phelps, Defendant in Error."]
+source_url: "https://static.case.law/ill-app/259/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3335857
+cites_cases: ["202 Ill. 110", "213 Ill. App. 429", "23 Ill. 336", "239 Ill. App. 484", "52 Ill. App. 477", "69 Ill. App. 192", "88 Ill. 580"]
+---
+
+# Dayton Scales Co. v. Phelps
+
+## Majority (Mr. Justice Wolfe)
+
+Mr. Justice Wolfe
+delivered the opinion of the court.
+The plaintiff in error brought suit against the defendant before a justice of the peace of St. Clair county, Illinois, to recover the amount it claimed was due it on the purchase price of a scale sold by the plaintiff to the defendant. After several continuances the case was heard by the justice of the peace on the 18th day of April, 1928. The justice of the peace did not render his decision on the date of the hearing, but took the same under advisement until the 26th day of April, 1928, at which time he found for the plaintiff and assessed its damages at $32.
+The plaintiff in error filed an appeal from the decision of the justice’s court to the June term of the county court of St. Clair county, Illinois. At the June term of said county court the defendant in error appeared with his attorney and gave notice of a set-off of $208, and the case was continued.
+At the June term of the said county court the defendant in error filed his petition in said court praying that a writ of certiorari be issued commanding said justice of the peace to desist from taking any steps whatever toward the enforcement of the judgment. The petition prays for equitable relief. The court granted said writ. Said writ was properly issued by the county clerk of said county and delivered to the sheriff for service, who served the same on the justice of the peace on the 9th day of July, 1928.
+The plaintiff dismissed the appeal and filed a written motion to quash the writ of certiorari, stating that the petition was insufficient and stated conclusions rather than facts. It is insisted by the counsel for the defendant in his argument that the question raised on the motion to quash this writ is a moot question, for the reason that the writ of certiorari was never issued. In this, we think the defendant is in error as the record shows that the writ was issued and served by the sheriff of said county on the said justice of the peace on the 9th day of July, 1928.
+The defendant states in his petition that he did not take an appeal in the regular way, because he was not. informed by the justice of the peace of the rendition of the judgment, and had no knowledge of the same until 19 days thereafter; that at the time of the trial the justice of the peace told the defendant in error that he would notify him when he rendered his judgment; that as soon as he learned of the rendition of the judgment he made an attempt to take an appeal, but the justice of the peace refused to grant it to him; that he then consulted his attorneys but it was too late to take an appeal. Our Supreme Court and Appellate Courts have held that if such a promise was made by the justice of the peace it is not a judicial act. Such a promise, if made, could not be binding so as to affect the rights of the parties to the suit. (St. Louis, B. & S. R. Co. v. Gundlach, 69 Ill. App. 192, 195; Clifford v. Waldrop, 23 Ill. 336; Simpson v. Sligar, 239 Ill. App. 484.)
+The transcript shows that the case was heard on the 18th day of April, 1928; that the justice of the peace took the case under advisement until April 26th, and on that date- rendered judgment for the plaintiff. To impeach the facts as set forth in this transcript the evidence must satisfactorily show that such facts are false. Every presumption in favor of the truth of this record is indulged in, and should not be set aside on the uncorroborated affidavit of the petitioner. (Kochman v. O’Neill, 202 Ill. 110, 112.)
+The allegation of the petitioner that he is not indebted to the plaintiff to any extent, but that the plaintiff is indebted to the defendant, is not such a statement of facts as is required by the statute to show the petitioner is not indebted to the plaintiff. (Couch v. Illinois Cent. R. Co., 213 Ill. App. 429; Simpson v. Sligar, supra.)
+The petition avers that “said judgment was entered without the knowledge of this defendant and is defective, oppressive, and erroneous in this, that this defendant has been deprived of his right to present a defense to said suit and to assert his claim against the plaintiff herein for the money due this defendant.” This is merely a conclusion of the petitioner. It states no facts in which this court can say that the judgment is oppressive and erroneous. There is no reason set forth in the petition why the defendant could not have presented all of his defense before the justice of the peace, and if he chose to conduct his own defense he was charged with the knowledge of all of his legal rights. (Horrell v. Horrell, 52 Ill. App. 477, 480.)
+The statute of our State sets forth the way the plaintiff may obtain relief by certiorari, and this statute must be strictly complied with. Our Supreme Court in the case of Town of Waverly v. Kemper, 88 Ill. 580, says, “It is not sufficient to authorize the issuing of a certiorari that a party should have used reasonable diligence to effect an appeal, without success. The language of the statute requires that he should show that it was out of his power to take an appeal in the ordinary way.” We are of the opinion that this petition for a writ of certiorari was defective and not in compliance with the statute and the county court erred in not sustaining the motion to quash the writ. The judgment of the county court of St. Clair county is hereby reversed and the cause remanded with directions to quash the writ of certiorari.
+Reversed and remanded ivith directions.
