@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-319"
+decided: "1977-06-10"
+citations: ["49 Ill. App. 3d 984"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. KENNETH SORENSEN, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/49/cases/0984-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5634779
+cites_cases: ["356 N.E.2d 563", "42 Ill. App. 3d 642"]
+---
+
+# People v. Sorensen
+
+## Majority (Mr. JUSTICE JONES)
+
+Mr. JUSTICE JONES
+delivered the opinion of the court:
+Defendant, Kenneth G. Sorensen, after waiving counsel, entered a negotiated plea of guilty to a charge of forgery in the circuit court of Effingham County on February 2, 1976. Pursuant to the negotiations the trial court sentenced defendant to a term of imprisonment of two to six years.
+Defendant sent a notarized letter to the court, filed March 2, 1976, requesting that the court allow him to withdraw his plea of guilty; the ground for the request was that defendant was addicted to drugs and consequently did not know what he was doing at the time he entered his negotiated plea of guilty. Pursuant to Supreme Court Rule 604(d) (Ill. Rev. Stat. 1975, ch. 110A, par. 604(d)), the court appointed counsel to assist defendant in presentation of his motion to withdraw his plea of guilty and vacate the judgment. Counsel filed a motion to withdraw the plea on March 17, 1976. A hearing was conducted on the motion on March 26, 1976, after which the motion was denied. No transcript was made of this hearing. Defendant appeals.
+Defendant contends that the trial court’s denial of his motion should be reversed and the cause remanded for rehearing because neither defendant nor his counsel was provided with a transcript of the plea proceeding prior to the hearing on the motion. As a result of such failure, defendant was not afforded the opportunity to adequately present the defects in the plea hearing to the court for consideration in ruling on the motion to vacate. We agree and reverse. This disposition of the case best serves the interests of justice provides defendant with the assistance that Supreme Court Rule 604(d) dictates. Ill. Rev. Stat. 1975, ch. 110A, par. 604(d).
+The record supports defendant’s assertion that he and his counsel did not have a transcript of the plea proceedings at any time before the hearing on defendant’s motion to vacate judgment and withdraw his plea of guilty. The motion filed on March 17, 1976, prays “that leave be granted to amend said motion upon receipt of the complete transcript of the proceeding which took place in said county on February 2, 1976.” The record sheet of the circuit court shows that the transcript of the plea proceeding and the order of compliance was filed August 4, 1976. The file date on the transcript and order in the record confirm the record sheet. The order of compliance recites that a copy of the plea proceeding transcript was mailed to defendant on August 4, 1976. This date of filing and of the mailing to the defendant is months after the hearing on defendant’s motion. The only evidence which tends to show that a transcript was available before the motion hearing is found in a record entry of February 2, 1976. The entry states, “Arraignment conducted as per transcript filed herein * * However, nothing in the record corroborates this statement.
+Reiterating for the purpose of comment, defendant’s plea was entered on February 2, 1976, his notarized letter to the court to withdraw his plea was filed on March 2, 1976, and a formal motion by his counsel to withdraw the plea was filed on March 17, 1976. The transcript of the plea proceedings, which is a part of the common law record, was not filed until August 4, 1976, a delay of five months. We find this delay inexcusable and prejudicial to defendant’s rights to an expeditious appeal.
+Research reveals no case in point on the issue whether it is reversible error for a hearing to be conducted on a motion under Supreme Court Rule 604(d) when no transcript has been provided to the defendant. We now hold that it is. From the language of Supreme Court Rule 604(d) it is obvious that where the defendant is indigent, as here, the court should appoint counsel and provide defendant with a transcript. The record shows that no transcript was provided.
+Supreme Court Rule 604(d), concerning appeal by defendant from judgment entered upon a plea of guilty, provides in pertinent part:
+“The trial judge shall then determine whether the defendant is represented by counsel and if the defendant is indigent and desires counsel, the trial court shall appoint counsel. If the defendant is indigent, the trial court shall order a copy of the transcript as provided in Rule 402(e) be furnished the defendant without cost. The defendant’s attorney shall file with the trial court a certificate stating that the attorney has consulted with the defendant either by mail or in person to ascertain his contentions of error in the entry of the plea of guilty, has examined the trial court file and report of proceedings of the plea of guilty, and has made any amendments to the motion necessary for adequate presentation of any defects in those proceedings. The motion shall be heard promptly, * °
+No such certificate appears of record in the instant case.
+The rule directs the attorney to certify that he has examined the record of proceedings and made any amendments required to present errors before a hearing is conducted. These requirements were meant to protect the defendant’s interests. We have recently held in a factual setting similar to that which we consider here that it was reversible error for a trial court to proceed to a hearing on a Rule 604(d) motion in the absence of the attorney’s certificate required by that rule. (People v. Samuels, 42 Ill. App. 3d 642, 356 N.E.2d 563.) We deem this case controlling here.
+In the Supreme Court Rule the examination of the record and transcript of proceedings by defendant’s attorney is necessary to ensure an informed hearing on the motion and adequate advocacy of defendant’s rights. It was reversible error for the court to rule on the motion when no transcript had been given the defendant nor certificate filed by counsel stating that he had examined the record of proceedings and made any necessary amendments. Accordingly, we reverse the order of the court denying defendant’s motion and remand for rehearing.' At this hearing, defendant will be allowed to amend the motion to withdraw the plea of guilty to allege any appropriate matters not contained in the original motion and appointed counsel will be directed to comply in all respects with Rule 604(d).
+Reversed and remanded.
+CARTER, P. J., and KARNS, J., concur.
