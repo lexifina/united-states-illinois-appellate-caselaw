@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-100"
+decided: "1977-09-29"
+citations: ["52 Ill. App. 3d 815"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re JESSICA HOPE KERSTEN, a Minor.—(H. JOSEPH GITLIN, Guardian ad Litem, Petitioner-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/52/cases/0815-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3389553
+cites_cases: ["167 So. 2d 256", "50 Ill. App. 3d 172", "50 Ill. App. 3d 860", "58 Ill. 2d 196"]
+---
+
+# In re Kersten
+
+## Majority (Mr. PRESIDING JUSTICE RECHENMACHER)
+
+Mr. PRESIDING JUSTICE RECHENMACHER
+delivered the opinion of the court:
+H. Joseph Gitlin, an attorney and counselor at law, was appointed guardian ad litem for Jessica Hope Kersten, a minor, in certain juvenile court proceedings.
+On December 10,1975, in accordance with the provisions of section 4— 5(1)(b), (4) of the Juvenile Court Act (Ill. Rev. Stat. 1975, ch. 37, par. 704—5(1)(b), (4)), said guardian ad litem petitioned the court for reasonable fees, and petitioner is appealing from the ruling of the trial court relative thereto.
+This is a juvenile court proceeding and as such has social connotations far beyond the ordinary criminal case. A guardian ad litem in a juvenile court case represents not only the particular child involved in the litigation, but also the broader interests of society implicit in the establishment of the juvenile court in the first place. It is recognized that most of the matters considered in such a case are factual, rather than legal. While the testimony may be drawn out and tedious, usually no serious or subtle legal issues are involved.
+The statute provides that the parents of the child involved are to be looked to first for the fees of the guardian ad litem. They have no voice in his selection, and his attitude and his actions may be quite contrary to their immediate interest, yet they have a responsibility for his fees. If they are too poor to pay the fees that is a real reason why forbearance should be practiced by the guardian ad litem — he should not expect to receive a full professional fee for representing a child whose parents had no say in selecting him.
+Also, the statute does not say the guardian ad litem shall be paid a “reasonable fee.” The word “reasonable” appears in the following context:
+“The reasonable fees of a guardian ad litem appointed under this Section shall be fixed by the court and charged to the parents of the minor, to the extent they are able to pay. If the parents are unable to pay those fees, they shall be paid from the general fund of the county.” Ill. Rev. Stat. 1975, ch. 37, par. 704—5(4).
+The emphasis in the above language appears to be on the court’s role in fixing the fees, rather than on the requirement that they be “reasonable.” Standing by itself, the word “reasonable” might be taken to mean reasonable to a private client. However, in the context in which it is used, a fair interpretation is that it means “reasonable” considering it is a juvenile court case. As was said in Lyle v. Lyle (Fla. App. 1964), 167 So. 2d 256, 257:
+“ ‘ ° ° ° Lawyers are officers of the court. The court is an instrument of society for the administration of justice. Justice should be administered economically, efficiently, and expeditiously. The attorney’s fee is, therefore, a very important factor in the administration of justice, and if it is not determined with proper relation to that fact it results in a species of social malpractice that undermines the confidence of the public in the bench and bar. * * * (emphasis added).’ ”
+In support of his petition for fees in this case, the guardian ad litem (petitioner) testified. A stipulation was entered into between the State and Gitlin, providing that the itemizations in the petition for fees as to the services rendered would stand in lieu of testimony on that point. This stipulation was accepted by the court.
+Thereafter, petitioner testified as to his qualifications and experience as a lawyer and particularly as an expert in the field of family law. His qualifications and experience in this field are impressive.
+He further testified that his usual and customary fee for representation in family law matters is *65 per hour and that the usual and customary fee of attorneys practicing in McHenry County is between *40 and *50 per hour.
+The State’s Attorney declined to cross-examine the witness. There was no examination of the witness by the court.
+The court, in announcing its decision, stated that it found the amount of court time devoted to this case by the guardian ad litem was 9.25 hours and that his office time spent was 4.91 hours. It should be noted that the record indicates that petitioner herein agrees with the court’s finding as to the amount of the time spent.
+In rendering judgment following the argument of the guardian ad litem the court stated that it was under a directive from the Chief Judge of the Nineteenth Judicial Circuit that the rate of compensation, for guardians ad litem in proceedings such as the instant one, was *20 for court time and *10 an hour for office time. On the aforesaid hourly basis, the court awarded fees to the guardian ad litem of *234.10.
+Petitioner here argues that the legislature has seen fit to provide for the reasonable compensation of lawyers serving as guardians ad litem for minors in juvenile court proceedings. He argues further that as it did in criminal cases, the legislature could have, if it wished, placed doUar limits on the amounts recoverable by a guardian ad litem in juvenile court proceedings. Instead, the legislature provided that in juvenile corut proceedings the guardian ad litem should be entitled to “a reasonable fee” which shall be fixed by the court (Ill. Rev. Stat. 1975, ch. 37, par. 704— 5(4)), and that an arbitrary directive by the chief judge, no matter how well intentioned, is unlawful and cannot be the basis for the determination of the amount of a reasonable fee in a given case.
+We agree that the legislature has seen fit to provide that the reasonable fees of the (court appointed) guardian ad litem shall be fixed by the court. We point out, however, that this does not necessarily mean the full compensation charged by a specific attorney, or even the usual and customary compensation charged by attorneys generally.
+People v. Sanders (1974), 58 Ill. 2d 196, makes clear that in nonexceptional cases appointed counsel may not expect to be compensated in the same measure as private counsel. It is a reasonable implication that even in juvenile cases, where the legislature put no dollar limitation on attorney fees for court appointed guardians ad litem, merely indicating that reasonable fees would be fixed by the court, that “a fee awarded to court-appointed counsel need not necessarily amount to reasonable and adequate compensation as measured by the fees of attorneys representing paying clients in similar situations.” People v. Atkinson (1977), 50 Ill. App. 3d 860, 865.
+While the fee set by the trial court in this case may or may not be a reasonable fee, the record herein indicates that the trial court erred in setting the guardian ad -litem’s fee solely on the basis of a directive from the chief judge of the circuit, rather than making a -determination based on evidence as to what the amount of a reasonable fee should be in this particular case. As between attorney and client the matter of the fee is one of contract between them, but a fee set by or allowed by the court is a different matter. A court allowed fee must be proved as any other fact as to the nature of .and the necessity for the services rendered and determined and allowed by the court in its judicial discretion. In Van Fleet v. Van Fleet (1977), 50 Ill. App. 3d 172, it was held that in a divorce action the .trial court did not abuse its discretion by awarding attorney fees to defendant in an amount lower than requested where, based upon the court’s knowledge and experience, the court found reasonable fees to be lower than the amount requested. Each award should be justified by the circumstances in each particular case.
+We therefore reverse the order fixing the fee-in this cause and remand the matter to the circuit court of McHenry County for further consideration and proceedings consistent with this -opinion.
+Reversed and remanded.
+SEIDENFELD and GUILD, JJ., concur.
