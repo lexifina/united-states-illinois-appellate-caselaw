@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-06-08"
+citations: ["89 Ill. App. 454"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary L. Steward, Adm’x, etc., v. Albert H. Sears, Ex’r, etc."]
+source_url: "https://static.case.law/ill-app/89/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5279046
+---
+
+# Steward v. Sears
+
+## Majority (Mr. Presiding Justice Higbee)
+
+Mr. Presiding Justice Higbee
+delivered the opinion of the court.
+This was a claim filed in the County Court of Kendall County by Albert H. Sears, the appellee, as executor of the estate of John F. Hollister, deceased, against the estate of Lewis Steward, deceased, upon the following instrument in writing:
+“Plano, III., January 1,18S0.
+Received of John F. Hollister fifteen thousand dollars in four per cent U. S. bonds, to be returned to him, and accrued interest, one year from date.
+Lewis Steward.”
+On the back of the instrument were certain indorsements of payments purporting to have been made thereon. The claim ivas disallowed in the County Court and the claimant appealed to the Circuit Court, where a jury was waived and the case tried before the court. The court found for the claimant, assumed the principal to have been $15,000, and allowed interest thereon for the first year at the rate of four per cent per annum. From the end of the first year to July 1,1891, interest was computed at the rate of six per cent per annum, and from that date to the date of the judgment at five per cent, giving credit from time to time for the payments indorsed on the back of the instrument, and the additional payments admitted by the parties to have been made. The claim was allowed as of the seventh class for the sum of $6,577.79. The defendant below appealed and the claimant assigns cross-errors. Upon the trial the claimant offered in evidence a diary of John F. Hollister, deceased, which tended to show that the real transaction between him and Steward was not the delivery of the bonds but the loan of $15,000 in money, for which interest was to be paid, part of the time at the rate of seven per cent and afterward at six and one-half per cent per annum. It appeared that most of the entries in the diary of importance in this suit were made by Hollister, but the claimant, Albert H. Sears, who was sworn in the case, testified that certain entries purporting to state the amount between the parties were in the handwriting of Lewis Steward. The court, however, sustained an objection to the admission of the entries in the diary and also excluded the testimony of Sears as to all transactions or conversations occurring in the lifetime of Lewis Steward. It is upon the action of the court in rejecting the evidence above referred to that appellee assigns the cross-errors.
+Appellee contends that the entries in the diary were proper evidence for the reason that they were a part of the general transaction in question and formed part of the res gestae. We do not think so. Entries made by Hollister in his diary, in his own interest, were manifestly improper evidence in this case. Sears is not only the executor of the estate of Hollister, but is also his residuary legatee, and rvould be entitled to such money as should be collected upon this claim. The court, therefore, properly excluded his testimony as to transactions and conversations occurring in the lifetime of Stewmrd. The diary contained among other things what purported to be an itemized statement of the account then existing between Hollister and Steward, at the end of which appeared a statement, said by Sears to be in the handwriting of Steward, correcting the account to January 6,1882. If the handwriting of Steward had been proved by a competent witness no doubt the whole statement would have been admissible; but Sears testified that he acquired his knowledge of Steward’s handwriting by having seen the latter write in his lifetime. As he gained knowledge of Steward’s handwriting during the latter’s lifetime and through transactions then occurring, his testimony on the subject was properly excluded.
+In the absence of the evidence above referred to we must construe the instrument upon which the claim is based ap a gratuitous bailment of bonds of the United States, of the face value of $15,000, bearing interest at the rate of four per cent per annum, to be returned by Steward to Hollister January 1, 1881, with the accrued interest.
+When the identical thing delivered is to be restored, the contract is one of bailment and the title to the property is not changed. If a demand for the bonds was necessary it must be presumed from the lapse of time. As the bonds were not returned, Hollister, on January 1, 1881, became entitled to them or their then cash value, together with four per cent interest on their face value. That sum should bear interest at the rate of six per cent per annum to July 1, 1891, and five per cent thereafter, credit being given for the payments made from time to time. There was, however, no competent evidence of the value of the bonds on January 1, 1881, and the court can not take judicial notice of the value of the same in the market at that time. In calculating the amount due, the court below assumed that the bonds in question were worth $15,000 on January 1, 1881, but as there was no proof in the record to sustain this assumption, the judgment must be reversed and the cause remanded. Reversed and remanded.
