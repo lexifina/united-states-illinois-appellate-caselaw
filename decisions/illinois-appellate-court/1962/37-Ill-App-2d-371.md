@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 62-M-16"
+decided: "1962-10-15"
+citations: ["37 Ill. App. 2d 371"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CULBERTSON and HOFFMAN, JJ., concur."]
+parties: ["James Newton and Lucille Newton, Claimants-Appellees, v. Edward Kunz and Kenneth E. Cook, Administrators, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/37/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5257186
+cites_cases: ["155 Ill 322", "169 NE2d 538", "174 NE2d 875", "27 Ill App2d 242", "30 Ill App2d 446", "320 Ill App 171", "409 Ill 58", "50 NE2d 254", "98 NE2d 716"]
+---
+
+# Newton v. Kunz
+
+## Majority (SCHEINEMAN, P. J.:)
+
+SCHEINEMAN, P. J.:
+This appeal involves a claim against the Estate of Arthur F. Kunz, deceased, in the amount of $15,000, stated to be for services rendered in a period of some 14 years; expenses and room rent; and personal attention and services during the last 5 years of decedent’s life. The court allowed the claim, in the sum of $11,000. The administrators bring this appeal.
+There is no dispute about the facts, the real question involved is whether any contract was proved, and if so, what was it and for what amount. A number of witnesses testified, including the claimants, called as witnesses by the administrators.
+The testimony disclosed that the deceased owned a large house which the claimants had rented from him some 14 years before his death. Part of the terms of the original lease was that he retained the occupancy of one room and bathroom privileges. About two years later someone appeared with a desire to buy the house but he declined to sell. The claimants asked him to give them first chance if he decided to sell, and he agreed he would. He also told them to keep track of the rent they paid and he would apply it on the purchase price. There is no indication whether he meant this to apply if he decided to sell in the near future, or if he so decided anytime during his life, or whether the proposal was to be effective after his death. No selling price was mentioned.
+Thereafter, on two occasions, deceased raised the rent, and claimants always paid the specified rent. He continued to retain his room without any promise or request for rent. He received the same services as other roomers; his room was kept clean and the linens changed. However, the laundry was sent out, claimants never performed any service such as his washing, ironing, darning, nursing or other personal service. In the later years of his life, he would have occasions of hemorrhaging, which required more frequent changing and cleaning in his room. During the last six years of his life he had sick spells, and spent the last 50 days in a hospital.
+About six years before his death, claimants mentioned to him they wanted to get a smaller house, and he said not to be in a hurry, that if they stayed he would see that they got the house before he died, and they should save the receipts and he would apply them. He would say to them and to others that he appreciated their kindness, and sometimes stated they would be well paid. Also, there was testimony that he had sometimes said the house would be Jim’s and Lucille’s when he died.
+Mrs. Newton also stated that she expected to be paid some time, that they never discussed the value of services, but he made many promises to pay, that he also made many promises to members of his family, but they never got paid. Mr. Newton testified that he had put water lines in at the deceased’s request, but had not been promised and did not expect payment, and similarly he had once overhauled the furnace.
+In 57 Am Jur, Wills, Sec 185, the general rule is stated thus: “Clear, positive, convincing and satisfactory evidence to establish the making of an oral contract to devise property in consideration of services to be rendered is required to maintain an action at law for breach of the contract.”
+Similarly, in 36 ILP Wills, Sec 6, the following statements appear:
+“The assertion of a contract diverting the statutory devolution of an estate must be regarded with grave suspicion.” “Only clear, explicit and convincing evidence will justify a finding of the existence of a contract to make a testamentary disposition, especially where the alleged contract is oral. The proof must be clear and conclusive not only as to the existence of the contract but also as to its terms.” “Mere declarations of testamentary intent, based on affection, are not, of themselves, sufficient to establish an enforcible contract to make a will.”
+We include these rules of law because of some testimony in this case that the deceased said the claimants would receive the property “when I die.” This testimony, of course, conflicts with other testimony that they would be well paid, and also that he said he would convey to them “before I die.” We find no substantial difference in the law pertaining to promises to convey, instead of devise. Thus, in Wilger v. Wilger, 409 Ill 58, 98 NE2d 716, a number of witnesses testified to statements of tbe deceased sucb as: “If Lyman does as I want him to—I will give him this farm either during my lifetime or by my will.”
+As to these declarations, the court said (p 61) “They do not constitute evidence of a contract, but at most are mere declarations of an intention to convey or devise to him.” (Emphasis supplied.)
+The claim for services performed during 14 years lacks support in the evidence. The claimants admit that at the outset, the lease not only provided for a cash rent, but he also retained his downstairs room, and they were to furnish two clean towels and a wash rag daily. While, the cash rent was subsequently raised, there is no evidence that any other terms of the lease were changed.
+Moreover, there is no evidence of the value of these services, nor of additional services performed during the last few years of his lifetime, which is usually required. Rush v. Estate of Rush, 27 Ill App2d 242, 169 NE2d 538; Heffron v. Brown, 155 Ill 322.
+As for a later contract, some five or six years before his death, he did not ask them to agree to care for him the rest of his life. When they spoke of moving he said not to be in a hurry. There was no undertaking then, or any other time, that they would perform any particular services for the rest of his life, or for any specified time, at any specified consideration.
+In that same conversation, he said they should save their receipts and he would apply them. The plain import is that, at some unspecified date, he would name a price at which he would sell them the house, with some kind of deduction therefrom.
+Claimants assert this case is similar to Floyd v. Estate of Smith, 320 Ill App 171, 50 NE2d 254. In that case the claimant moved from one city to another at the request of Smith, to become his housekeeper, cook his meals, do the washing, and care for him the rest of his life. There is nothing comparable in this case.
+Rather, this case is more like Dewein v. Dewein, 30 Ill App2d 446, 174 NE2d 875, where the claimant had performed voluntary services for years, of every kind, and her brother expressed appreciation, telling her he would see to it she was well taken care of if she continued to perform the services. These statements were held to be merely unenforcible promises to make future gifts as an expression of appreciation.
+In the same way, it is apparent that this deceased was grateful for the kindness shown him, and intended to make a sale or gift, of some sort, in appreciation. He was a good business man, and well off, and paid other people promptly for services rendered. It is incredible that he intended to make payment in a compensatory manner, yet never was any amount mentioned by either party in 14 years. The claimants paid rent at the required rate, all the time, twice raised, and they did not keep track of anything, as they say he requested them to do. These facts, and the failure to claim any set-off during the entire time, show their own attitude was not one of expecting anything more than a gift.
+The various vague statements he is said to have made, some of them contradictory in substance, fail to make out a clear and explicit contract as the law requires. The judgment is contrary to the manifest weight of the evidence, and is reversed.
+Judgment reversed.
+CULBERTSON and HOFFMAN, JJ., concur.
