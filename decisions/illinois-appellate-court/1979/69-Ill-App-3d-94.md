@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-209"
+decided: "1979-03-02"
+citations: ["69 Ill. App. 3d 94"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. DAVID HARKEY, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/69/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3240256
+cites_cases: ["132 Ill. App. 2d 1028", "132 Ill. App. 2d 697", "14 Ill. App. 3d 196", "14 Ill. App. 3d 879", "270 N.E.2d 461", "271 N.E.2d 61", "302 N.E.2d 101", "303 N.E.2d 482", "32 Ill. App. 3d 459", "336 N.E.2d 88", "350 N.E.2d 144", "39 Ill. App. 3d 443"]
+---
+
+# People v. Harkey
+
+## Majority (Mr. JUSTICE JONES)
+
+Mr. JUSTICE JONES
+delivered the opinion of the court:
+Following a bench trial in the circuit court of Madison County, defendant, David Harkey, was found guilty of the offense of aggravated assault (Ill. Rev. Stat. 1977, ch. 38, par. 12—2(a)(1)). He has appealed raising two issues: whether the State sufficiently proved that defendant’s conduct placed the complainant in reasonable apprehension of receiving a battery; and whether defendant’s voluntary intoxication negated the mental state required for this offense. We find both issues to be without merit.
+Although the complainant in the case was a peace officer, the defendant was prosecuted under the provision of the Criminal Code which makes one guilty of aggravated assault if he uses a deadly weapon in the commission of an assault (Ill. Rev. Stat. 1977, ch. 38, par. 12— 2(a)(1)). The elements of this offense are that the defendant engaged in conduct which placed another in reasonable apprehension of receiving bodily harm and that he used a deadly weapon. Ill. Rev. Stat. 1977, ch. 38, pars. 12—2(a)(1), 12—1 and 12—3.
+The facts of this case may be sufficiently summarized as follows.
+On December 24,1977, defendant spent the afternoon drinking with a friend named Ralph Rudolf. During this time defendant consumed eight bottles of beer and more than one-half of a fifth of whiskey. Around 5 p.m. he returned home, argued with his wife and broke out several windows of a Volkswagen automobile, using the butt of a .22-caliber pistol. Defendant’s daughter reported this disturbance to the Madison County sheriff’s department from a neighbor’s phone.
+Deputy Sheriff Harvey Haynes was the first of three units dispatched to investigate the disturbance to arrive at the Harkey residence. He pulled his squad car into the driveway, leaving its headlights on. The squad car was approximately 100 feet from the house. After leaving the car, the deputy spoke to the defendant’s wife. He then returned to his car, and because he had information that defendant had a gun, he activated the spotlight mounted on his car. The spotlight was shined into a window of the house. While the deputy was on the radio checking on the location of his back-up units, the defendant came out of a side door of the house and shouted something to the effect, “Get that damn light off my house and get out of my yard.” According to the deputy, he then got out of his car and stood by the spotlight. Before the deputy had a chance to reply, defendant repeated the statement and as he did so removed a pistol from his belt and pointed it at the officer. Defendant then ran back into the house.
+The defendant’s version of the confrontation was similar; however, he testified that he inquired who was there before he pulled his pistol. He further stated that when no one identified himself, he shouted “I don’t care who it is, I’m going to shoot your spotlight out” and drew a bead on the spotlight with his pistol.
+Shortly after the defendant went back into the house, he came out again. This time he was unarmed and had his hands in the air. When questioned where the pistol was, the defendant told the deputy that it was under the mattress of his bed. Although the pistol was unloaded when the deputy retrieved it, another officer found some .22-caliber ammunition in the bedroom in which the gun was found.
+The defendant’s first contention is that there was not sufficient proof that deputy Haynes was in reasonable apprehension of receiving a battery. We cannot agree.
+Whether an assault victim was reasonably apprehensive is a question of fact. (People v. Holverson (1975), 32 Ill. App. 3d 459, 336 N.E.2d 88; People v. Smith (1971), 132 Ill. App. 2d 1028, 271 N.E.2d 61.) In this case the trial court found that the deputy was in reasonable apprehension of receiving a battery. This finding is adequately supported by the evidence even though the deputy did not expressly testify that he was in apprehension of receiving a battery. It is not required that an assault victim expressly testify to his apprehension; it is sufficient if it can be reasonably inferred from the facts that the victim was placed in reasonable apprehension. (See, e.g. People v. Alexander (1976), 39 Ill. App. 3d 443, 350 N.E.2d 144; People v. Brown (1973), 14 Ill. App. 3d 196, 302 N.E.2d 101.) In the instant case, the hostility of the defendant towards whomever was in the driveway and his pointing a gun at the deputy while shouting that he was going to shoot the spotlight out would support the trial court’s inference of reasonable apprehension.
+The defendant’s last contention is that his voluntary intoxication negated the mental state necessary for commission of the instant offense. Although it is not entirely clear from defendant’s brief, he appears to argue that voluntary intoxication may be a defense to a general intent crime by virtue of section 4 — 3 of the Criminal Code. We cannot agree.
+It is a well established rule in Illinois that the defense of voluntary intoxication may be used only in cases in which the crime involves specific intent (i.e., a mental state which is an element of the crime) and that it is not available where the offense charged is a general intent crime. (People v. Hunter (1973), 14 Ill. App. 3d 879, 303 N.E.2d 482; People v. Berlin (1971), 132 Ill. App. 2d 697, 270 N.E.2d 461.) This rule is reflected in section 6—3(a) of the Criminal Code (Ill. Rev. Stat. 1977, ch. 38, par. 6—3(a)) which provides:
+“A person who is in an intoxicated or drugged condition is criminally responsible for conduct unless such condition * * *
+(a) Negatives the existence of a mental state which is an element of the offense; * *
+The absolute rule of this provision precludes a defendant from raising the issue which defendant attempts to present here — whether he may be relieved from criminal responsibility for his conduct because his voluntary intoxication prevented him from acting with one of the mental states described in sections 4—4 through 4—7 of the Criminal Code (Ill. Rev. Stat. 1977, ch. 38, pars. 4—4 through 4—7; see Ill. Rev. Stat. 1977, ch. 38, par. 4—3). The legislature has foreclosed such inquiry by declaring in section 6 — 3(a) (Ill. Rev. Stat. 1977, ch. 38, par. 6—3(a)) that a person who is voluntarily intoxicated is always criminally responsible for his conduct unless his condition negates the existence of a specific mental state which is an element of the offense. Since the instant offense is a general intent crime and therefore has no mental state which is an element of the offense, the defense of intoxication was not available to defendant. He must be held criminally responsible for his conduct.
+For the foregoing reasons, we affirm the judgment of the circuit court of Madison County.
+Affirmed.
+KARNS and KUNCE, JJ., concur.
