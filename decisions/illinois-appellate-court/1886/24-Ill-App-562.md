@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-11-20"
+citations: ["24 Ill. App. 562"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Chicago & Eastern Illinois Railroad Company v. The People of the State of Illinois."]
+source_url: "https://static.case.law/ill-app/24/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5779140
+cites_cases: ["107 Ill., 577", "90 Ill. 416"]
+---
+
+# Chicago & Eastern Illinois Railroad v. People
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This suit was brought to recover the statutory penalty, under Sec. 87, Ch. 114, R. S., which reads as follows: “ Whenever any corporation shall, by itself or agents, run any train, locomotive, engine or car, at a greater rate of speed in or through the incorporated limits, of any city, town or village than is permitted by any ordinance of such city, town or village, such corporation shall be liable to the person aggrieved for all damages done the person or property by suoh train, locomotive, engine or car, and the same shall be presumed to have been done by the negligence of said corporation or their agents', and in addition to such penalties as may be provided by such city, town or village, the person aggrieved by the violation of any of the provisions of this section, shall have an action against such corporation so violating any of the provisions, to recover a penalty of not less than one hundred (§100) dollars nor more than two hundred (§200) dollars, to be recovered in any court of competent jurisdiction; said action to be an action of debt in the name of the people of the State of Illinois, for the use of the person aggrieved, but the court or jury trying the case may reduce said penalty to any sum, not less, however, than fifty (§50) dollars, where the offense committed by such violation may appear not to be malicious or wilful. Provided, that no such ordinance shall limit the rate of speed, in case of passenger trains, to less than ten miles per hour, nor, in any other case, to less than six miles per hour.”
+There was evidence tending to show that the appellant’s train passed over the road through the city of Hoopston at a greater rate of speed than allowed by the city ordinances; that Fred. Tilton, for whose use the suit was brought, was in his carriage intending to drive across the railroad when some person warned him of the approaching train, and turning from the road he barely avoided collision, but the horses being frightened ran away, overturning the carriage and seriously injuring the occupants. There was no contact with the train. There was a hedge on the side of the road from which Tilton approached so that he could not see the train until he got on the right of way, past the hedge.
+There was some evidence tending to show that he heard the engine bell as he started from the point where his team had been standing twenty or thirty rods from the crossing ; and there was evidence tending to show, on the one side, that no signal was given as the train passed the crossing, and on the other, that the proper signal was given. It is not important how this was. The action is not for damages resulting from a failure to ring a bell or sound a whistle at the crossing, but to recover a statutory penalty for running faster than prescribed by the city ordinance. The statute provides that the person aggrieved may recover for all damages done to the person or property by such train, locomotive engine or car, and in addition to such penalty as may be provided by the city, the person aggrieved by the violation of the statute, may recover a penalty of, etc., etc.
+The question is, what is meant by the term “the person aggrieved.” as used in the latter clause. It is contended on go the one hand that it refers to one who is so aggrieved that he may recover damages for the injury sustained, and if he can not so recover he is not a “person aggrieved” in the sense here intended. That in analogy to the construction placed upon Sec. 62, in Schertz v. I, B. & W. R’y, 107 Ill., 577, there could be no recovery for damages in this case, because there was no contact with the train, and, therefore, the person for whose use the suit was brought in this ease can not maintain the action.
+On the other hand it is contended, that “the person aggrieved ” is the person who has sustained an injury clearly traceable and attributable to the violation of the law, by running faster than permitted by the ordinance, and that it is not material whether he could maintain an action for damages under the first clause of the section or not.
+It is argued that one who can show that his injury is-the proximate result of the unlawful rate of speed, whether he came in contact with the train or not, is -l aggrieved ” in the sense that term here signifies; that the term is not thereby given one meaning in one clause and a different meaning in the other, and that the person aggrieved may recover the penalty, regardless of his right to recover damages. A majority of the court hold the latter view, which was adopted by the trial court and upon which the plaintiff recovered.
+The objection now urged to the ordinance, if a valid one, should have been specifically stated when the ordinance was offered in evidence. The objection was general. Had there been any specific objection it should have been pointed out at the time so that, if possible, it might have been obviated. Doyle v. Village of Bradford, 90 Ill. 416.
+The judgment is affirmed.
+=Judgment affirmed.
