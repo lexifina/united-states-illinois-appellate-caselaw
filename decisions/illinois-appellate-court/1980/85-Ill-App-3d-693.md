@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-911"
+decided: "1980-07-10"
+citations: ["85 Ill. App. 3d 693"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v. DEBRA BULLIS, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/85/cases/0693-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3196656
+cites_cases: ["287 N.E.2d 688", "368 N.E.2d 886", "387 N.E.2d 1096", "399 N.E.2d 187", "402 N.E.2d 398", "403 N.E.2d 1029", "52 Ill. 2d 250", "68 Ill. 2d 101", "70 Ill. App. 3d 131", "79 Ill. 2d 410", "79 Ill. App. 3d 601"]
+---
+
+# People v. Bullis
+
+## Majority (Mr. PRESIDING JUSTICE ALLOY)
+
+Mr. PRESIDING JUSTICE ALLOY
+delivered the opinion of the court:
+The State of Illinois appeals from the judgment of the Circuit Court of Kankakee County granting defendant Debra Bullís’ motion to withdraw her guilty plea and to dismiss the information. The defendant had entered a negotiated plea of guilty to unlawful possession of a controlled substance (diazepam), a Schedule IV substance. (Ill. Rev. Stat. 1977, ch. 56 1/2, par. 1210(b) (7).) In exchange for her plea of guilty, the State dismissed two other counts of possession of controlled substances and also recommended probation. She was sentenced to two years probation. Subsequent to her plea and sentence, the courts of Illinois determined that the statutory section under which Bullís had been convicted, section 402(b) of the Controlled Substances Act (Ill. Rev. Stat. 1977, ch. 56 1/2, par. 1402), was unconstitutional and a nullity. (People v. Maffei (1980), 82 Ill. App. 3d Ill, 402 N.E.2d 398; People v. Natoli (1979), 70 Ill. App. 3d 131, 387 N.E.2d 1096; People v. Kimmons (1979), 79 Ill. App. 3d 601, 399 N.E.2d 187.) The defendant filed a motion in the circuit court seeking to withdraw her guilty plea and have the information against her dismissed, basing her motion on the unconstitutionality of section 402(b), under which her conviction had been obtained. The circuit court heard arguments concerning the constitutionality of that section and then granted defendant’s motion, ordering that the information be dismissed. The State appeals.
+The State seeks to raise two issues on this appeal: (1) Whether section 402 is unconstitutional as violative of equal protection, and (2) whether the defendant is estopped from attacking the constitutionality of that section where her plea of guilty was entered pursuant to plea negotiations and where she received the benefit of her bargain. There is no need for consideration of the first issue raised, as the Illinois Supreme Court in People v. Bradley (1980), 79 Ill. 2d 410, 403 N.E.2d 1029, determined that the statutory section at issue was unconstitutional. We note that the court based its determination of unconstitutionality on substantive due process grounds and not, as the appellate districts had, on equal protection grounds. In any event, the issue has been decided. Accordingly, we consider the only remaining issue advanced by the State, on appeal, the estoppel question.
+That issue was neither argued nor raised in the trial court and is being advanced, for the first time in the case, on appeal. The accepted general rule of appellate review is that an issue not raised before the court below is waived for appeals purposes. In People v. McAdrian (1972), 52 Ill. 2d 250, 253-54, 287 N.E.2d 688, the court stated:
+“It is an accepted principle of law that an issue not presented to or considered by the trial court cannot be raised by the appellant for the first time on review. [Citations.] However, this rule has not been universally applied. There are matters and rights so fundamental that they must be considered, whenever initially raised. [Citations.] But the rule is founded on some rather basic considerations, which include the following: that litigation should not be presented piecemeal; and that all parties are entitled to have matters determined as quickly as possible and at one trial, if possible. The latter consideration is particularly true of a defendant in a criminal action. Also, the trial court should be given an opportunity to consider the issues or theories which the appellant, on review, assigns as error in its judgment. The failure to urge a particular theory before the trial court will often cause the opposing party to refrain from presenting available pertinent rebuttal evidence on such theory, which evidence could have a positive bearing on the disposition of the case in both the trial and reviewing courts.”
+In the instant case, the State’s estoppel argument was not presented to the trial court. The only basis argued against the defendant’s motion was that the statutory section in question was constitutional. The State neither alleged nor argued estoppel to the court below. Now, on appeal, it argues that the defendant should be estopped from raising the issue of constitutionality (1) because she received the benefit of her plea bargain and (2) because to allow the withdrawal of the plea would operate to the detriment of the State. The detriment alleged is that the State dismissed two other counts, one based upon unlawful possession of a Schedule I controlled substance. The State categorizes the Schedule I charge as “undeniably valid.”
+As noted, the issue was not raised below and is waived. Waiver is particularly appropriate here for the question of the validity and viability of the Schedule I count (and thereby the viability of the State’s detriment argument) is a question which the defense quite understandably would haArn been able to contest below.
+We might also note that the alleged detriment to the State resulting from the dismissal of count I (the Schedule I count) is questionable. As the defense points out, once the defendant reneged on her plea bargain, by seeking to withdraw the plea, the State was no longer bound by its part of the agreement. The State was then free to reinstate the dismissed counts. See Ill. Rev. Stat. 1977, ch. 110A, par. 605(b)(4); People v. McCutcheon (1977), 68 Ill. 2d 101, 368 N.E.2d 886.
+Accordingly, the decision of the Circuit Court of Kankakee County is affirmed.
+Affirmed.
+STENGEL and SCOTT, JJ., concur.
