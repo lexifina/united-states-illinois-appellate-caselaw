@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 46,202"
+decided: "1954-05-11"
+citations: ["2 Ill. App. 2d 352"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clara Merneigh, Appellant, v. William Merneigh, Appellee."]
+source_url: "https://static.case.law/ill-app-2d/2/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5126041
+cites_cases: ["1 Ill.App.2d 36", "135 Cal. 397", "168 Ill. 339", "275 Ill. 462", "40 How. Pr. 328", "46 S. E. 118", "54 W. Va. 146", "67 Pac. 506"]
+---
+
+# Merneigh v. Merneigh
+
+## Majority (Mr. Presiding Justice Schwartz)
+
+Mr. Presiding Justice Schwartz
+delivered the opinion of the court.
+The principal question presented to us by this appeal is whether or not a proceeding for divorce may be prosecuted while the defendant is insane, if the grounds for the divorce existed before the time of the defendant’s insanity. The trial judge discontinued the proceeding when he became cognizant of the defendant’s insanity, holding that the suit could not be prosecuted as long as the insanity continued.
+Plaintiff relies upon Iago v. Iago, 168 Ill. 339. In that case the trial court, after appointing a guardian ad litem, heard the case and entered a decree in favor of the plaintiff on a ground for divorce which existed prior to the time of the defendant’s insanity. Thereupon the defendant prosecuted a writ of error to the Appellate Court. In legal theory, suing out a writ of error is the commencement of a new suit. The Appellate Court held that inasmuch as the defendant while insane could not prosecute a suit for divorce, therefore he could not prosecute a writ of error to review a decree granting a divorce. The Supreme Court held that this was erroneous. The court said, p. 341:
+“Actions for divorce may be instituted against insane defendants for a cause of divorce committed before the period of insanity. When such an action is begun, a court of equity, in view of the peculiar duty of such courts to protect the personal and property rights of lunatics, will appoint some discreet and proper person to conduct the defense. The power possessed by courts of equity to provide that such defense shall be made is not exhausted by the appointment of a conservator ad litem or next friend to defend in the trial court, but may be exercised in courts of review, and further defense of the action for divorce prosecuted by any remedy provided by law whereby reversal of a decree of the trial court may be obtained.”
+Defendant argues that the portion of the decision which holds that an action for divorce may be instituted against an insane defendant for a cause committed before the period of insanity is obiter dictum, and that the only issue decided by the court was that an insane defendant could prosecute a writ of error from a divorce decree rendered against him. In Larson v. Johnson, 1 Ill.App.2d 36, the question of what constitutes obiter dictum was before this court and we there said:
+“If the opinion expressed on a legal question is one casually reached by the court on an issue unrelated to the essence of the controversy or based on hypothetical facts, then it is obiter dictum. ... It is often stated that all except that which is necessary to the decision of a case is obiter dictum. This is misleading, for nothing but the bare finding of the court is absolutely necessary to its decision as between the parties. For the purpose of legal precedent, we must look to all the issues presented by the facts of the case and to the legal principles applied by the court in the final determination of those issues. Our Supreme Court has made a distinction between judicial dictum and obiter dictum, meaning that a legal principle deliberately passed upon by a court establishes a precedent. Scovill Mfg. Co. v. Cassidy, 275 Ill. 462, 470.”
+It is obvious that the court in the lago case considered that the decision of the principal issue was essential to a decision of the collateral question as to whether a writ of error could be prosecuted from the divorce decree. There would be no point in requiring the plaintiff to defend against an appeal which would have been wholly meaningless if no such suit could be prosecuted. Under such circumstances, the decree would have been invalid and upon a proper proceeding the trial court would have been ordered to expunge the decree. The decision is therefore precedent for this case.
+The decision in the lago case is supported by a number of text writers and other authorities. Schouler on Divorce, 6th Ed., sec. 1679, p. 1880; Keezer on Marriage & Divorce, 2nd Ed., sec. 330, p. 247, sec. 430, p. 306; Bishop on Marriage, Divorce & Separation, Vol. 2, secs. 518-22; Nelson on Divorce and Separation, Vol. 2, p. 669; Harrigan v. Harrigan, 135 Cal. 397, 67 Pac. 506; Fisher v. Fisher, 54 W. Va. 146, 46 S. E. 118; Rathbun v. Rathbun, 40 How. Pr. 328. The statute [Ill. Rev. Stats. 1953, eh. 40, § 1; Jones Ill. Stats. Ann. 109.169] provides nine grounds for divorce. Among others are bigamy, attempt on the life of plaintiff, and conviction of a felony. Nothing in the Act purports to except proceedings against an insane person. In criminal cases proceedings must be suspended pending mental incompetency, but divorce is not a criminal proceeding. In divorce cases, however, the duty is imposed upon the trial court to see to it that all the rights of the insane person are adequately protected, that a guardian ad litem is appointed to vigorously present the case of the defendant, as was done in the instant case, and that convincing proof is made that the grounds for divorce existed before the period of insanity began.
+Complaint is also made of the entry of an order that the plaintiff pay the guardian ad litem $250 as his fees and $10 for moneys expended by him. No suit can be prosecuted against an insane person without a guardian ad litem, and a plaintiff must contemplate at the time a suit is commenced that an order for guardian’s fees may be entered and that where funds are not available from the defendant’s estate, the plaintiff may be required to compensate the guardian for his services in protecting the insane defendant. The amount of the fee is within the discretion of the court, and it appears to us that such discretion was not abused. That portion of the order will be confirmed.
+Reversed and remanded for further proceedings consistent with the views herein expressed.
+Affirmed in part and reversed in part.
+Robson, J., concurs.
+Tuohy, J., took no part.
