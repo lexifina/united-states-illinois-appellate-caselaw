@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "72-78"
+decided: "1973-03-22"
+citations: ["10 Ill. App. 3d 456"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Jerry Lee Williams, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/10/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5390437
+cites_cases: ["130 Ill.App.2d 672", "14 Ill.2d 491", "153 N.E.2d 26", "174 N.E. 398", "224 N.E.2d 266", "267 N.E.2d 16", "342 Ill. 358", "36 Ill.2d 483"]
+---
+
+# People v. Williams
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+Defendant appeals from a judgment of the circuit court of Madison County sentencing him to imprisonment for a minimum of 20 and a maximum of 30 years, following a trial by jury and a verdict of guilty of the crime of murder.
+The facts indicate that the defendant and some friends were drinking in a local tavern. After defendant caused a disturbance, he was forcibly ejected from the premises. He attempted to re-enter but was again ejected. The testimony varies as to whether he was beaten and thrown out, or merely escorted to the door. The evidence is also in conflict as to whether, and to what degree, he was intoxicated, although it is undisputed that he had been drinking for several hours.
+Defendant was driven to his home where he obtained a gun, and returned to the tavern despite his friends’ attempts to dissuade him. He forced a former patron to knock on the door of the tavern and inform the occupants that defendant would shoot the first person to come through the door. The deceased attempted to exit, was shot in the stomach and subsequently died. The defendant fled the scene in an automobile.
+On appeal, the defendant contends that the trial court exceeded its power in forcing him to trial for the offense of murder; that his expert psychiatric witness was improperly impeached at the State’s closing argument, which was so inflammatory as to deny defendant a fair trial; and that the court’s failure to give an instruction on voluntary manslaughter notwithstanding defendant’s objection was reversible error.
+The defendant argues that he was “forced” to go to trial for murder since three circuit court judges, consecutively, refused to accept his plea, of guilty. This plea was based on an agreement with the state’s attorney that defendant would plead guilty to voluntary manslaughter and the state’s attorney was to recommend a sentence of 5 to 15 years. An examination of the record reveals that the judges properly refused to accept the guilty plea, in accordance with Supreme Court Rule 402(d)(3), as the defendant indicated that he wished to plead guilty only if the judge bound himself to the agreement between defendant and the state’s attorney. A judge is not, and cannot be, so bound. The state’s attorney has the discretion in many cases to determine file offense with which a defendant shall be charged. The judiciary has the power and the discretion to determine the severity of the sentence, should defendant be found guilty. These powers overlap, but they do not conflict. The trial court was entirely within the proper scope of its discretion when it determined that it would not be bound by the proposed agreement.
+In his closing argument, the prosecutor argued that the defendant’s expert psychiatric witness was not to be believed, since his testimony was based on a hypothetical question which assumed facts not in evidence and contained facts which had been refuted. His rhetoric included the following statements:
+“* * * you know why it offends me? Because I don’t like to be made a fool out of, and I don’t like to see anybody try to make fools out of you # I thought that testimony was so preposterous to reasonable people that I don’t think it was worthy of a reply * * *. I have too much respect for each of you to even consider the fact that that would be influential upon you having heard all the evidence in the case * *
+The defendant argues that such statements suggested that the psychiatrist’s testimony was a total fabrication intended to confuse and mislead the jury. Even if we assume that the prosecutor’s comments were improper, we cannot find that these statements were so seriously prejudicial as to deprive the defendant of a fair and impartial trial. In the absence of such a finding, the defendant’s argument on this point cannot be continued here, as there was no objection made at trial and no mention of the statements was made in post-trial motions. People v. Wilson, 342 Ill. 358, 174 N.E. 398; People v. Fort, 14 Ill.2d 491, 500, 153 N.E.2d 26, 31.
+Finally, the defendant argues that an instruction on voluntary manslaughter should have been given to the jury, over defendant’s own objections. The record reveals that the trial judge suggested the advisability of such an instruction, but the defendant felt that it should not be submitted, indicating that he felt that the charge was “murder or nothing.” This situation was dealt with in People v. Brown, 130 Ill.App.2d 672, 267 N.E.2d 16, in which the Fourth District held that failure to give of such an instruction sua sponte, over the defendant’s objection, was within tire discretion of the trial court. The trial judge may, in such a situation, give considerable weight to the wishes of the defendant. (People v. Taylor, 36 Ill.2d 483, 224 N.E.2d 266, 271.) There is sufficient evidence in the record to support findings of both murder and manslaughter. It cannot be said that the trial court abused its discretion in this regard.
+Appellant does not raise the propriety of the sentence in his appeal. However, this Court has determined that the provisions of the Unified Code of Corrections (Ill. Rev. Stat., ch. 38, sec. 1001 — 1—1 et seq.) are applicable to currently pending appeals from sentences imposed under prior statutes. The Code provides that the maximum sentence for murder may be any term in excess of 14 years; the minimum term shall be 14 years unless the Comt, having regard to the nature and circumstances of the offense and the history and character of the defendant, sets a higher minimum term.
+• In view of the changes effected by the new Code and the seriousness of the offense, we affirm the conviction and remand the cause to the circuit court of Madison County for reconsideration of the minimum sentence.
+Affirmed in part, remanded in part with directions.
