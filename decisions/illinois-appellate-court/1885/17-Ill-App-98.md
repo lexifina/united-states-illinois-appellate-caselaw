@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1885-10-22"
+citations: ["17 Ill. App. 98"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George H. Fergus et al. v. Seth Wilmarth."]
+source_url: "https://static.case.law/ill-app/17/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 867453
+cites_cases: ["115 Mass. 588", "83 Ill. 184"]
+---
+
+# Fergus v. Wilmarth
+
+## Majority (Bailey, P. J.)
+
+Bailey, P. J.
+In our opinion, there was no error in the refusal of the court below to charge the complainant with the insurance money lost by the failure of the Scandinavian National Bank. The rights of the parties in respect to said money, and the duties of the trustee in relation thereto, all depended upon the terms of the covenant in the deed of trust providing for the insurance, and the established principles of equity applicable thereto. By that covenant, Fergus bound himself to keep the buildings covered by the deed of trust insured for their full insurable value, and to assign the policy to the trustee, to be held by him “as a further security for the widébtedness ” for which the deed of trust was given. After the destruction of the building by fire, and the collection of the insurance money, the money took the place of the policy, and it thereby became, in the same sense and to the same extent as the policy itself, a security for said indebtedness.
+It is the plain duty of a trustee who has in his hands a security for a debt, unless the instrument creating the trust otherwise provides, to hold the security until the debt matures, and then, if such debt is not otherwise discharged, to apply the security to its satisfaction. The fact that it has become converted into money before the debt matures, in no way changes his duty. In such case it would be a clear violation of his trust to hand the money over to the debtor, and the creditor is under no obligation to receive it, nor has the trustee a right to pay it over to him without the consent of the debtor, until the debt matures. 1 Jones on Mort. 410; Gordon v. Ware Savings Bank, 115 Mass. 588.
+Shortly after the colection of the insurance money, Wilmarth, the holder of the notes, sought to have it paid over to him, to be applied • upon the notes, although not yet due. To this, Fergus, the debtor, objected, and demanded on his part that it be placed under his control to be used in restoring the building. While Fergus clearly had no right to have the money paid over to him, he had an undoubted right to object to its payment to Wilmarth, until the notes matured, and his doing so made it the duty of the trustee to hold the money until their maturity. While the trustee was thus holding the money, and before he had a right to pay it to either party, the bank became insolvent and the money was lost.
+Even if it should be held that the money was lost through the negligence of the trustee, it does not necessarily follow that Wilmarth is to be charged with the loss. The trustee was the agent of Fergus as well as of Wilmarth, and we see nothing in their relations which should charge Wilmarth instead of Fergus with the consequences of his negligence. Beyond a mere request that the money be paid over to him, to be applied on the notes, Wilmarth does not appear to have controlled or attempted to control the trustee in selecting a place of deposit, nor does he seem to have been aware of its deposit in the Scandinavian National Bank.
+But without deciding that question, it is sufficient to say that the evidence warranted the court below in finding that the trustee was free from the imputation of negligence, and that if there was any negligence, it was that of Fergus rather than of the trustee. So far as appeaz-s, the Scandinavian ¡National Bank, at the time the deposit was made, and from that time up to the date of its failure, was in good credit, and, so far as the trustee knew, or had the means of knowing, pez-fectly solvent and trustwoz-thy. Its insolvency, so far as this recoz-d shows, was wholly unexpected to the public, and was a casualty against which ordinaz-y prudence and foz-esight could not have guarded.
+But the evidence shows that, at the time the deposit was made, Fez-gus was acquainted with the bank and its officers, while the trustee was a stranger to both, and that the trustee was introduced to the bank by Fergus. There was also evidence which tended to show, and which warranted the court in finding, that the Scandinavian national Bank was selected as the custodian of the money at the suggestion and express request of Fez-gus, his reason for making the selection of that bank being that it would pay interest on the deposit, thus showing tliat it was his expectation and desire, not only that the money should be deposited thez-e, but that it should remain there until needed by the tz-ustee in the execution of his tz-ust. If, then, there was any negligence in the matter’, the court was justified in holding that it was the negligence of Fergus, and in placing the loss upon his shouldez-s instead of Wilmaz-th’s, who lived in the distant city of Boston, and could have had no pez-sonal connection with the negligence which z-esulted in the loss.
+The decree, in our opinion, is fully sustained by the evidence, and it will thez-efore be affirmed.
+Decree affirmed.
