@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "15578"
+decided: "1979-10-30"
+citations: ["77 Ill. App. 3d 732"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re CUSTODY OF AUDREY PATRICIA HOLMAN et al.—(PATRICIA ANN HOLMAN, Petitioner-Appellant, v. CHARLES HOLMAN, Respondent-Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/77/cases/0732-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3289446
+cites_cases: ["378 N.E.2d 166", "390 N.E.2d 880", "61 Ill. App. 3d 456", "76 Ill. 2d 226"]
+---
+
+# Holman v. Holman
+
+## Majority (Mr. JUSTICE TRAPP)
+
+Mr. JUSTICE TRAPP
+delivered the opinion of the court:
+The petitioner wife appeals from the order of the trial court which dismissed her petition filed pursuant to section 601 of the Illinois Marriage and Dissolution of Marriage Act (Ill. Rev. Stat. 1977, ch. 40, par. 601) directed against the respondent husband for custody of three children.
+This proceeding by the wife was filed on January 18,1979. The order of the trial court found that the children had been bom in California and that the parties had resided in Texas for six years prior to August 23,1978; that the parties had separated in that month and that on that date the wife brought the children to Illinois.
+It was further found that the husband resided in Texas; that he had filed suit for divorce in Texas on November 2,1978, and that a copy of the complaint and summons was personally served on the wife on December 5, 1978.
+An authenticated copy of complaint for divorce filed in Texas contains allegations that the wife took the children surreptitiously and that at the time of such complaint the whereabouts of the children were unknown to the husband. The divorce complaint alleged that it was in the best interests of the children, aged 7 through 12 years, that custody be awarded to him with visitation in the wife. There were additional allegations praying division of community property.
+Although otherwise argued in the trial court, upon appeal the wife concedes that Illinois was not the “home state” of the children within the meaning of section 601(a)(1) of the Illinois Marriage and Dissolution of Marriage Act (Ill. Rev. Stat. 1977, ch. 40, par. 601(a)(1)). It is, however, argued that the Illinois court had jurisdiction by reasons of the provisions of section 601(a)(2), which provides that the court has jurisdiction if:
+“(2) it is in the best interest of the child that a court of this State assume jurisdiction because the child and his parents, or the child and at least one contestant, have a significant connection with this State, and there is available in this State substantial evidence concerning the child’s present or future care, protection, training and personal relationships; or * e
+With regard to such provision, the trial court found that:
+“[W]hile there exists some evidence here in Illinois as to the mother’s ability to care for said children, the bulk of the substantial evidence concerning both parents’ ability to provide for the future care, protection and training, exists in the State of Texas and the State of Texas is an appropriate form [sic] to make the determination of the question of custody of the minor children.”
+The wife argues that the fact that Illinois is not the “home State” does not preempt jurisdiction in Texas; that she and the children have resided in Illinois for some months and that she tendered affidavits of several members of her family, a neighbor, and a school teacher that they had observed the children during the span of months. Presumably, they would testify as to observations relevant to the “best interests.” It is argued that the latter facts are sufficient available evidence for the Illinois court to take jurisdiction. She argues that the trial court erroneously presumed that there was more substantial evidence in the State of Texas upon that issue, and that the trial court was not permitted to make such presumption absent the tender of evidence by the husband. We note as an element in the court’s determination of jurisdiction, the provision of section 601(a)(4) of the Act that:
+“(4) no other state has jurisdiction under prerequisites substantially in accordance with paragraphs (1), (2) or (3), or another state has declined to exercise jurisdiction on its determination that this State is the more appropriate forum to determine custody of the child; and it is in the child’s best interest that the court assume jurisdiction.” (Emphasis added.)
+Using such language, the wife argues that the order of the court is insufficient for the reason that it fails to find that Texas is “the more appropriate forum to determine custody of the child.”
+It is apparent that the elements of personal jurisdiction of the parties and subject matter are present in Texas. The finding that Texas is “an
+appropriate forum,” together with the substantive effect of the order, makes implicit the finding that Texas is “the more appropriate forum to determine the custody of the child.” West v. West (1979), 76 Ill. 2d 226, 231, 390 N.E.2d 880, 883.
+We further note that section 601(b) of the Act (Ill. Rev. Stat. 1977, ch. 40, par. 601(b)) provides:
+“(b) Except under paragraphs [not applicable], physical presence in this State of the child, or of the child and one of the contestants, is not alone sufficient to confer jurisdiction on a court of this State to make a child custody determination.” (Emphasis added.)
+The wife relies upon the affidavits described to establish a source of “substantial evidence” upon the best interests of the children. There is no basis for inferring that such evidence could cover more than a few months preceding the hearing. On the other hand, it was stipulated that the children had resided in Texas for more than six years, or more than one-half of the lifetime of each child. We can find no error in the trial court’s conclusion that the “bulk of the substantial evidence concerning both parents’ ability to provide for the future care, protection and training, exists in the State of Texas.”
+While it was not effective at the date of the order, the wife has argued from the provisions of the Uniform Child Custody Jurisdiction Act, effective September 11, 1979, Public Act 81-541, and the standards and effect of its section 8(c), providing that an Illinois court may decline jurisdiction when it finds that another State is a more appropriate forum. We note that such section requires the Illinois court to determine:
+“5. if the exercise of jurisdiction by a court of this State would contravene any of the purposes stated in Section 2 of this Act.”
+Section 2 of the Act provides that the general purposes of that Act are to avoid jurisdictional competition and conflict with courts of other States in matters of child custody; to promote cooperation with the courts of other States to the end that a custody judgment is rendered in that State which can best decide the interest of the child; assure that litigation concerning the custody of a child takes place ordinarily in the State with which the child and his family have the closest connection and where significant evidence concerning his care, protection and training and personal relationships is readily available and states that courts of this State should decline the exercise of jurisdiction when the child and his family have a closer connection with another State. There is also the stated purpose to deter abductions and other unilateral removals of children undertaken to obtain custody awards. To carry out such stated purpose, section 7 provides:
+“(a) A court of this State shall not exercise its jurisdiction under this Act if at the time of filing the petition a proceeding concerning the custody of the child was pending in a court of another state exercising jurisdiction substantially in conformity with this Act, unless the proceeding is stayed by the court of the other state because this State is a more appropriate forum or for other reasons.”
+Paragraph (b) of section 7 also calls upon the court in which the proceeding pends to ascertain from the pleading and the parties whether or not proceedings for child custody pend in other States.
+In Tanner v. Smith (1978), 61 Ill. App. 3d 456, 378 N.E.2d 166, the reviewing court correlated the relationship between section 601 of the Illinois Marriage and Dissolution of Marriage Act and section 7 of the Uniform Child Custody Jurisdiction Act and concluded that the stated legislative intent was that an Illinois court which had jurisdiction but had determined that another State was a more appropriate forum might decline jurisdiction in Illinois.
+It would be an apparent violation of the stated policy of the legislature to accede to the wife’s claim of jurisdiction in this case under her asserted argument of jurisdiction by reason of the provisions of section 601(a)(2) of the Illinois Marriage and Dissolution of Marriage Act (Ill. Rev. Stat. 1977, ch. 40, par. 601(a)(2)). For such reason, the order denying the petition is affirmed.
+The husband concedes that the trial court did not have jurisdiction to award temporary custody of. the child to him in the event that the wife failed to voluntarily return the children to the jurisdiction of the Texas court, and that portion of the order is reversed.
+Affirmed in part; reversed in part.
+REARDON, P. J., and GREEN, J., concur.
