@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-689"
+decided: "1978-12-29"
+citations: ["67 Ill. App. 3d 595"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ESTATE OF THEODORE R. M. HOWARD, Deceased.—(THE EXECUTOR OF THE ESTATE OF THEODORE R. M. HOWARD, Petitioner-Appellee v. THE DEPARTMENT OF CONSERVATION, Objector-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/67/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3314777
+cites_cases: ["14 L. Ed. 2d 154", "203 N.E.2d 393", "22 Ill. App. 3d 217", "317 N.E.2d 407", "32 Ill. 2d 11", "360 N.E.2d 1192", "366 N.E.2d 497", "380 U.S. 963", "46 Ill. App. 3d 319", "51 Ill. App. 3d 206", "85 S. Ct. 1107"]
+---
+
+# Executor of the Estate of Howard v. Department of Conservation
+
+## Majority (Mr. JUSTICE PERLIN)
+
+Mr. JUSTICE PERLIN
+delivered the opinion of the court:
+The executor of the estate of Theodore R. M. Howard sought leave in probate division to sell decedent’s stuffed animal collection comprising some 64 or more animals. The Illinois Department of Conservation was granted leave to intervene, objecting to the sale on the ground that it would violate section 3 of the Illinois Endangered Species Protection Act (Ill. Rev. Stat. 1977, ch. 8, par. 333) because the estate did not apply for permits required under the Act. The court authorized the estate to proceed with the sale, and the Department of Conservation appeals.
+The issues presented for review are (1) whether the court erred in authorizing the executor of the estate to proceed with the sale of the animal collection and (2) whether issuance of permits by the Department of Conservation for four of the animals in the collection renders this matter moot.
+We reverse and remand.
+On March 1, 1978, the executor of the estate of Theodore R. M. Howard sought an order from the probate division authorizing the sale of the animal collection included in the estate. The Illinois Department of Conservation was granted leave to intervene to object to the proposed sale. The Department alleged that many of the approximately 64 animals listed in the estate inventory were protected under the Endangered Species Act, and as such required permits before any sale could be authorized.
+Richard Hess, a conservation officer at the Department of Conservation, viewed approximately 24 animals of the collection at the DuSable Museum on March 2, 1978. Hess averred by affidavit that he believed none of the animals he viewed were protected under the Endangered Species Act, but that he was not shown any of the following animals listed in the estate inventory: leopards, cheetahs, spotted panthers, jaguars, tigers, ocelots or polar bears.
+At a hearing held April 17, 1978, the court overruled the Department’s objections and authorized the sale. The court ruled that the State of Illinois should pursue the ultimate buyer of the animals to obtain the permits required by statute. The court imposed a seven-day stay of its order, and on April 18, 1978, the State filed notice of appeal.
+On September 18, 1978, Carl Becker, Endangered Species Program Coordinator at the Department of Conservation, was permitted by the estate to view 10 animals. Becker determined that four of the 10 were protected under the Act and required permits. The estate applied for four permits, and the Department issued the permits on October 3, 1978.
+Appellee has filed no brief in this proceeding. However, on October 30,1978, the estate filed a motion to dismiss the appeal on the grounds that the controversy is now moot because the estate applied for and received four permits after the remaining portion of the collection was inspected by the Department. The State objected to dismissal, alleging that the estate inventory lists approximately 30 more animals which have not been inspected.
+The Illinois Department of Conservation contends the court erred in authorizing the executor to proceed with the sale. The Department alleges failure by the estate to obtain permits required under the Endangered Species Act violates section 3 of the Act (Ill. Rev. Stat. 1977, ch. 8, par. 333) which reads:
+“After January 1, 1973, it is unlawful to possess, sell, offer for sale, give or dispose of any animal or the wild animal product of any animal which is an endangered species under this Act, without a permit therefor issued by the Department ° °
+We believe that the statute clearly prohibits without permits the sale of animals included in the Act. Where statutory words are free from ambiguity or interpretation they must be given effect, and courts should not alter the plain meaning of the words utilized in a statute. Courts are not at liberty to read exceptions into a statute which the legislature resolved not to make. People ex rel. Pauling v. Misevic (1964), 32 Ill. 2d 11, 203 N.E.2d 393, cert. denied (1965), 380 U.S. 963, 14 L. Ed. 2d 154, 85 S. Ct. 1107; Meyer v. Marshall (5th Dist. 1974), 22 Ill. App. 3d 217, 220, 317 N.E.2d 407.
+It appears that the court, in authorizing the sale, apparently intended to proceed in the best interests of the estate in probate. Although the Illinois Probate Act provides that the Act “shall be liberally construed to the end that controversies and the rights of the parties may be speedily and finally determined * ° (Ill. Rev. Stat. 1975, ch. 3, par. 1 — 9), the Probate Act does not authorize a court to exceed the power given it by statute or to disregard clear legislative intent. (See Schlieper v. Rust (5th Dist. 1977), 46 Ill. App. 3d 319, 323-24, 360 N.E.2d 1192.) Thus the court erred in authorizing the executor to proceed with the sale without the estate first obtaining the necessary permits.
+In its motion to dismiss, appellee alleged the following: Officers of the Illinois Department of Conservation have viewed the animal collection of Dr. Howard on two occasions (March 2, 1978, and September 18, 1978) and determined that only four animals in the collection required permits as endangered species. The estate further alleges that the Department has since issued permits for the four animals and contends that this renders the case moot. An appeal will be dismissed as moot where a reviewing court has notice of facts which demonstrate that only moot questions or abstract propositions are involved. (Kraut v. Rachford (1st Dist. 1977), 51 Ill. App. 3d 206, 217, 366 N.E.2d 497.) In Kraut the court adopted the following definition of mootness:
+‘[A] moot question is one that existed, but, because of the happening of certain events, has ceased to exist and no longer presents an actual controversy 0 0 V ”
+In the case at bar we believe an actual controversy still exists. It is apparent from the record that the Department was never permitted to view the entire collection to determine which animals required permits. On March 2,1978, Richard J. Hess, a Department employee, inspected 24 animals which were part of the collection. On September 18, 1978, Carl Becker, Coordinator of the Department’s Endangered Species Program, was permitted to view 10 animals in the collection and found four of the animals were endangered species. The estate inventory filed by the executor indicates that there are more than 64 animals in the collection. Thus at least 30 animals exist which have not been inspected by the Department.
+Our comparison of the estate inventory with the animals protected under the Endangered Species Act reveals that several of the animals (leopards, jaguars, tigers, panthers, cheetahs, cougars, grizzly and polar bears, rhino, ocelots, etc.) included in Dr. Howard’s collection may indeed be endangered species and as such require permits. Thus we believe issuance of four permits by the Department upon inspection of only a portion of the collection does not render this matter moot.
+We reverse the court’s order authorizing the sale and remand for further proceedings not inconsistent with this opinion.
+Reversed and remanded.
+STAMOS, P. J., and HARTMAN, J., concur.
+The issue of mootness was raised by appellee on October 30, 1978, in a motion to dismiss the appeal.
+Under section 2 of the Act (Ill. Rev. Stat. 1977, ch. 8, par. 332) an endangered species means any species of plant or animal contained on the list issued under the Federal Endangered Species Act of 1973 (16 U.S.C. par. 1531 et seq. (1976)) plus other species as the Board deems to be in danger of extinction.
+It appears from the record that the sale of the animal collection was never consummated. However, the court order authorizing the sale continues in effect.
