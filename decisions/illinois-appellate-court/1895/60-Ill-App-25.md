@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1895-06-03"
+citations: ["60 Ill. App. 25"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Warren Moore v. Emma Vanormer."]
+source_url: "https://static.case.law/ill-app/60/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5154649
+cites_cases: ["2 N., E. 4"]
+---
+
+# Moore v. Vanormer
+
+## Majority (Mr. Justice Pleasants)
+
+Mr. Justice Pleasants
+delivered the opinion oe the Court.
+Appellee brought this action before a justice of the peace under Sec. 13, Ch. T9, of the Devised Statutes, for damages for alleged injury to real property. On appeal, the trial by the court, without a jury, resulted in a judgment for plaintiff for seventy-five cents. Neither party submitted any propositions of law to be held. ■ The only alleged error urged in the argument for appellant is the overruling of his motion for a new trial on the ground that the finding Avas contrary to the law and the evidence; to which ruling and the judgment, exceptions were duly taken.
+The parties respectively claimed adjoining lands, divided by the half section line, north and south, of Sec. 4, T. 2 N., E. 4 W., in Schuyler county—appellee a one-acre lot in the northwest quarter, and appellant a larger tract in the northeast. '
+About the year 1882 appellant built a rail Avorm fence on what he claims was the true line made by a then recent survey (but which is disputed) in place of an old one that had stood further east and on his land. Appellee got her deed in April, 1890, while the lot was vacant and unoccupied. In 1892 it was agreed that appellant should take away the old fence and each would build one-half of a new one. Accordingly he did remove it in November of that year, but nothing was done about rebuilding until the following May. Then the question arose as to the true line. There was evidence tending to show, and as we think, satisfactorily showing, that neither appellee nor her husband, who acted for her, claimed to know it, or what was found by any survey to be it, and that appellant at different times stated to them" and to others that it was indicated by a stone understood to be the half section corner on the north and two certain corner stones of other lots on a line betAveen it and a stone understood to mark the center of the section, and that the new fence should be built upon it, to which she assented.
+Thereupon about the 1st of May she employed her brother to build her half accordingly. He had been present at the survey of 1877, and claimed to know the line as located by it, and that it coincided with the one above stated. Proceeding to build, as directed, he dug fifteen holes and set posts therein, throwing dirt in around them but not tamping tightly at that time because the ground Avas wet. A late survey by county surveyor Stumm had located the division line about four feet west of this, and appellant, claiming-it corresponded with that of the former survey, and of his old fence, threw out these posts and proceeded to build his half upon it. Appellee, on the 4th of May, served him with written notice to build it strictly on the half section line. He then went to see Mr. Vanormer about it; told him the true line was that of four stones referred to, which he then marked on the ground, and that he had built his half. Van ormer then authorized him to go on and build the othe. half, using for that purpose the posts that were already there on this line. He did build it and was paid for it.
+But the evidence seems to show that he built on the Stumm line and not on that of the stones. Appellee becoming dissatisfied with it, employed Mr. Horney, who made the survey in 1877, to resurvey it, which he did on the 19th of September, 1893. And the county surveyor of Brown county, also at her instance, made another on the 28th of the same month. They agreed in finding the Stumm line something over four feet west of the true one; and thereupon, on the 2d of October, she brought this suit.
+We are not asked to reverse the judgment on the ground that the finding as to the boundary line was not sufficiently supported by the evidence, but it is claimed that appellee made no proof either of her title to or possession of the premises in question at the time of the alleged injury.
+She made no attempt to prove paramount title of record, but introduced her deed, duly recorded, under which she claimed the lot as being bounded on the east by the half section. line. A suggestion of the insufficiency of the description in it is here made for the first time. If it is not certain on its face alone, it was clearly intended to bé so by its reference to another, presumably on record, which might have been produced to meet the specific objection. It is too late now to urge it. Nobody disputed her claim. Appellant distinctly recognized it and her right to a division fence. The strip in question was not occupied, improved, inclosed or used in any manner by anybody claiming to own it until appellant erected his second west fence in 1882, further west than his first. When he took that away in 1892 it became again vacant and unoccupied. He had acquired no title by limitation, nor did he make any other claim to it unless it was in the northeast quarter of the section, and that question is settled by the finding, for all the purposes of this suit, if appellee was the owner as against him when he went on it and threw out her fence posts. We think she was then in actual possession, and claiming by deed, Avas sufficiently shown to be the oivner to maintain this action against him who was a stranger.
+The judgment will therefore be affirmed.
