@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1900-05-04"
-citations: ["88 Ill. App. 470", "90 Ill. App. 494"]
+citations: ["88 Ill. App. 470"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Board of Education v. Patrick Foley, for the use of, etc."]
 source_url: "https://static.case.law/ill-app/88/cases/0470-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5276749
-cites_cases: ["23 Ill. App. 649", "46 Ill. App. 611", "54 Ill. 287", "54 Ill. 289", "56 Ill. App. 661", "88 Ill. App. 470"]
+cites_cases: ["23 Ill. App. 649", "46 Ill. App. 611", "54 Ill. 287", "54 Ill. 289"]
 ---
 
 # Board of Education v. Foley
