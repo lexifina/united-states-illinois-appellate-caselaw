@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1881-04-07"
+citations: ["8 Ill. App. 300"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Springfield. Effingham & South Eastern Railroad Company et al. v. Herman Peters et al."]
+source_url: "https://static.case.law/ill-app/8/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4844619
+cites_cases: ["11 Ill. 650", "13 Ill. 1", "17 Ill. 255", "47 Ill. 463", "70 Ill. 324", "75 Ill. 304", "95 Ill. 571", "95 Ill. 579", "96 Ill. 423"]
+---
+
+# Springfield. Effingham & South Eastern Railroad v. Peters
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The motion to dismiss the appeal, on the ground that the case involves a franchise, must be overruled. The sole object of the proceeding was to ascertain the amount to be paid for the land sought to be taken or damaged; the right to exercise rthe franchise was not questioned, nor is it now. In the assignment of errors there is nothing calling upon us to consider that subject. We are only asked to pass upon the rulings of the trial-court in the admission of evidence, the giving of instructions, and the refusal to grant a new trial. The jury had nothing to consider that involved the franchise — their only inquiry being as to amount of damages. Had it appeared to the court that there was no authority in the petitioner to condemn the land, the proceedings would have been dismissed; or if there had been a contro versy on that point, the jury would not have been called until it was determined in favor of the petitioner. It is true, that if there were no franchise these proceedings could not have been instituted, yet the record before us raises no question as to the ■existence of the franchise or the propriety of its exercise. In the Dunbar case, 95 Ill. 571, the object of the proceeding was to enjoin the company from exercising the right to condemn upon the alleged ground that the city had passed no valid ordinance locating the line of the road or fixing its terminus, and it was said that it was a vital point whether the railroad company had the power to condemn property within the city; therefore the franchise was thereby involved. That case was wholly unlike this, as we think. In Hodge v. People, 96 Ill. 423, the court upon looking into the record, found that while the State was a nominal party, yet it had no real interest in the controversy. So here, upon looking into the record, we find we are not asked to decide anything which concerns the franchise or the right to exercise it. We find no satisfactory ground on which to reverse the judgment. It is urged by the appellee that the bill of exceptions does not purport to contain all the evidence. This is incorrect; for there is a statement at the end of the bill that all the evidence admitted in said cause is therein contained, and while this is not in the usual place and not in the formula generally employed, it is enough. The appellant urges that the evidence given by the witnesses is not of such a character as to justify its consideration.
+That the witnesses gave mere opinions, unsupported by any statements of the facts or reasons on which they aty predicated, is quite true in several instances, but we cannot say that such testimony is not to be regarded for any purpose. There seems to have been no objection made at the time, nor any cross examination, and admitting that such opinions may not have been entitled to great credit unless based upon satisfactory considerations, we cannot hold them incompetent evidence. How valuable such proof might be when met by rebutting testimony, or when subjected to rigid cross-examination, is not necessary to determine, but it is clear that it tended to prove the issue, and was admissible, and when unopposed by other evidence, and when supplemented by the personal visit of the jury to the premises, must be held sufficient to support the findings as to all the lands which are referred to in the abstract and brief. The findings in all the cases set out in the abstract are clearly within the amounts warranted by the evidence as to the damages to lands not taken, and sufficient to support the amounts allowed for land taken.
+The instruction complained of is more liberal to the appellant than the one given at its instance, for it not only allows the jury to set off benefits and advantages against the damages to land not taken, but omits the limitation that such advantages as are enjoyed by the owner of the land in common with the public generally, should not be considered which limitation is in the instruction given for appellant.
+We think if ■ any error was committed in the giving of instructions it was in favor of the appellant. Page v. R. R. Co. 70 Ill. 324; R. S. 1874, Ch. 47, Sec. 9.
+The judgment is affirmed.
