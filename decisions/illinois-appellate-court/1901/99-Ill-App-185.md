@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-12-24"
+citations: ["99 Ill. App. 185"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John V. Farwell Co. v. Harry Nathanson."]
+source_url: "https://static.case.law/ill-app/99/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2604911
+cites_cases: ["1 Ill. App. 177", "111 Ill. 467", "120 Ill. 469", "120 Ill. 573", "22 Ill. App. 457", "24 Ill. App. 82", "30 Ill. App. 249", "35 Ill. App. 610", "65 Ill. 142", "81 Ill. 501"]
+---
+
+# John V. Farwell Co. v. Nathanson
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the court.
+In an action of case brought by the appellant against the appellee for obtaining goods on credit by a false statement the jury returned a verdict in favor of the defendant, and this appeal is for the purpose of reversing the judgment entered thereon.
+The statement alleged to be false was made by the appellee in the fall of 1895 at the store of appellant, where the appellee had gone to apply for and obtain credit in a business he, together with one Wile, were about to engage in, in Indiana.
+The statement was made in writing and on its face purports to be for the purpose of obtaining credit with appellant for goods then or thereafter to be purchased of it.
+Under the head of “ assets,” the statement contains but one item: “ Cash on hand or in bank, $5,000.” On the other side, under the head of “ liabilities,” it is stated that the firm owes no debts of any kind, that there are no individual liabilities and no confidential liabilities to wives or relations. Belying upon this statement appellant sold the firm then and at different dates during the following winter, goods, the average line of credit being about $2,000, and in about eighteen months the firm failed owing appellant about $800, and leaving no unappropriated assets.
+In his testimony at the trial, the appellee substantially admitted that the statement was false in respect of the $5,000 cash on hand or in bank, and that he knew it to be false at the time he made it. He, however, attempted to justify the statement on the ground that he expected the firm would subsequently have that much cash from contributions to be made by himself and Mr. Wile, and which were afterward in- part made by them.
+The fifth and sixth instructions given to the jury by the court, in behalf of appellee, were as follows :
+5. “ The jury are instructed that in order to constitute actual fraud there must be contrivance and design to injure another. Actual fraud is not to be presumed but it must be proved by the party alleging it by a preponderance of the evidence; and although actual fraud may be proved by proof of facts and circumstances tending to show fraud, still, if the motive and design of an act can as well be traced to an honest and legitimate source as to a corrupt or dishonest one, the former must always be preferred.”
+6. “The jury is instructed that in order to find the defendant guilty in this case, the jury must believe from the evidence that the defendant made the representations and statements alleged in the declaration; that such representations and statements were false; that the defendant knew they were false or had no good reason to believe thej were true; that they were made with the intent to defraud the plaintiff; that plaintiff was induced thereby to sell and deliver to the firm of S. Wile & Co., and did so sell and deliver to said firm the goods and merchandise for which they now seek to recover damages from this defendant, and that by means thereof, plaintiff has sustained damages as alleged in his declaration.”
+These instructions, severally, announce erroneous rules of law, applicable to the case at bar. Case v. Ayers, 65 Ill. 142; Farwell v. Hanchett, 120 Ill. 573; Keith v. Goldston, 22 Ill. App. 457; McBeen v. Fox, 1 Ill. App. 177; Reed v. Pinney, 35 Ill. App. 610; Brabek v. Grand Lodge, 24 Ill. App. 82; Flower v. Brumbach, 30 Ill. App. 249.
+“ It is fraud in law, if a party makes representations which he knows to be false, and injury ensues, although the motive from which the representations proceeded may not have been bad.” Foster v. Charles, 7 Bing. 103, referred to in several of the cases above cited.
+“ To recover in an action for deceit, it is only necessary for the plaintiff to prove that the representation was false, that the party making it knew it to be false, and that the plaintiff relied upon the representation as true, and was induced to act upon it and was injured. Merwin v. Arbuckle, 81 Ill. 501. The motive which actuated the defendant in making the false representation is wholly immaterial. The law infers an improper motive, if what the defendant says is false within his own knowledge and is the occasion of damage to the plaintiff.” Keith v. Goldston, 22 Ill. App. 457. The same doctrine is substantially enunciated in all the cases above cited.
+So, it was clearly erroneous to instruct the jury, as was done in the fifth instruction, that “to constitute fraud there must be contrivance to injure another,” and that if the motive and design of the act could as well be traced to an honest as to a dishonest purpose the former should be preferred.
+The law infers a purpose to injure from an intentional false statement of fact. When a man knowingly makes a false statement to one who relies upon it and suffers injury, the latter’s right of action is complete. The injured party is not required to prove as an additional element a design or purpose to injure, or a fraudulent intent, as said in the sixth instruction, nor is the wrongdoer allowed to escape liability for the damage which he has caused by showing that he did not in fact intend that injury should result from his false statement.
+The seventh instruction laid down the rule that there could be no recovery unless the statement was “madeunder circumstances calculated to deceive a person acting under reasonable care and prudence.”
+This was a misleading instruction, as applied to the facts of this case. There was no dispute as to what the statement was which the defendant made. It related to the financial condition of his firm, of which he had and assumed to have actual knowledge, and of which the plaintiff had no knowledge, but had the right to rely as to the truth of, without making further inquiries. Endsley v. Johns, 120 Ill. 469.
+Other instructions were also objectionable in ignoring, in some respects, the rules laid down in the cases we have cited, but they can be remedied at another trial, if one shall be had. What we have said in relation to the instructions is equally applicable to some evidence that was admitted. The written statement that appellee made was not subject to be impeached by him, by testifying that the amount of cash he therein stated the firm had on hand was the amount they expected to have in the business. The cash stated to be on hand was the whole basis of the credit appellee was asking for, and a reality could not be exchanged into a mere expectation, by showing that it was so intended. Brant v. Gallup, 111 Ill. 467.
+The proposition contained in numerous of the instructions, as to where the burden of making out the case lay, and of the preponderance of the evidence, was correct as the statement of a general proposition applicable to most cases, but it was not correctly stated when applied to a case like this, where no burden whatever was upon the plaintiff with reference to the intent of the maker of the statement.
+It was not proper as applied to a case where the law infers an intent to injure the plaintiff, from an intentionally false statement. Independent proof of this intent was not necessary to be made — the law inferred it.
+From a consideration of the entire record the judgment must be reversed and the cause remanded.
