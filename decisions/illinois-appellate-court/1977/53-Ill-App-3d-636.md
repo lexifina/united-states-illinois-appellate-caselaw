@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-292"
+decided: "1977-10-12"
+citations: ["53 Ill. App. 3d 636"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ARNOLDO SALDANA, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/53/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3395034
+cites_cases: ["41 Ill. App. 3d 273", "43 Ill. App. 3d 897", "47 Ill. App. 3d 346", "67 Ill. 2d 77"]
+---
+
+# People v. Saldana
+
+## Majority (Mr. JUSTICE SEIDENFELD)
+
+Mr. JUSTICE SEIDENFELD
+delivered the opinion of the court:
+The defendant was charged with attempt murder and pursuant to plea negotiations pleaded guilty to the reduced charge of aggravated battery on January 22, 1976. The plea negotiations did not include the sentence. On February 18, 1976, the defendant was sentenced to a term of 1-4/2 years imprisonment. At this time the court advised defendant of his right to appeal but did not admonish him of the provisions of Supreme Court Rule 604(d) (Ill. Rev. Stat. 1975, ch. 110A, par. 604(d)) requiring a motion to vacate a guilty plea within 30 days as a precondition to the right to appeal. Defendant requested that a notice of appeal be filed on his behalf on March 5,1976. However, the formal notice of appeal was not filed until May 17, 1977.
+Defendant has filed a brief in which he contends that we should excuse his failure to file a timely 604(d) motion since he was not properly advised. (See Ill. Rev. Stat. 1975, ch. 110A, par. 605(b). See also People v. Ryant, 41 Ill. App. 3d 273, 274 (1976); People v. Theobald, 43 Ill. App. 3d 897, 898 (1976).) In consequence the defendant asks us to remand the cause with directions to appoint counsel and to permit the filing of a proper motion to vacate his guilty plea. Defendant sets forth no other claims of error.
+The State has responded with a motion to dismiss the appeal, conceding that defendant was not afforded the opportunity to withdraw his guilty plea in the trial court. However, the State contends that since no claim of prejudice or meritorious grounds for vacating the guilty plea has been stated defendant’s request should be summarily dismissed in this court without remand. We have accepted the motion of the State to stand as an answering brief. The State’s motion to dismiss the appeal and the objections by the defendant have been ordered taken with the case.
+The State concedes that the proper remedy in a case in which the record shows that the defendant has not been admonished of the necessity to file a motion to vacate pursuant to Supreme Court Rule 605(b) is for this court to remand the cause to the trial court to allow the filing of a motion to vacate the judgment and to withdraw the plea of guilty pursuant to Supreme Court Rule 604(d). However, it argues that the lack of admonition is not in itself sufficient reason for withdrawal of the guilty plea and unless there is a showing of prejudice to the defendant as shown by his statement of grounds on which the plea could be vacated it would be a waste of judicial time to require the remand.
+In People v. Frey, 67 Ill. 2d 77 (1977), the Illinois Supreme Court has recently held that a defendant may not substitute an appeal in lieu of a motion to the trial judge seeking to vacate the guilty plea within 30 days. The court reasoned that the basic purpose of Rule 604(d) was to expeditiously dispose of matters outside the record which show that a plea of guilty was not voluntarily made and that this involved fact finding based on the oral and written evidence, a function primarily of the trial court. In Frey the defendants had not moved in the trial court to vacate the plea and therefore the appellate court properly dismissed the appeals. Unlike the circumstances outlined in Frey this defendant is not seeking to substitute an appeal for the motion which he had been advised he must make in the trial court. He instead was not so advised and was therefore deprived of the opportunity to file a timely motion seeking to vacate his guilty plea. Whether the trial court would in fact vacate his plea depends similarly on matters dehors the record and which require determinations of fact primarily within the realm of the circuit court.
+It is apparent that Supreme Court Rule 604(d) gives a defendant no substantive rights but merely regulates his right to appeal from a judgment entered on his guilty plea. The failure to advise him of the condition imposed upon his right to appeal after his guilty plea properly has the result that he not be deprived of his right to appeal. However, the failure to advise the defendant alone does not establish grounds for reversing the judgment or vacating the plea.
+In the interest of judicial economy, a defendant who has not been properly admonished in the trial court and who seeks to have the case remanded to the trial court for the purpose of making a motion to vacate his plea of guilty should accompany that request with a showing of the facts which he relies upon to Secure a vacation of the plea. If the claim of error is one which may be supported by the record the reviewing court will then be in a position to review the case without an unnecessary remand. Cf. People v. Thompson, 47 Ill. App. 3d 346 (1977).
+In this case, however, defense counsel has not set forth a substantive basis for review of the judgment, nor are we advised whether the basis for seeking to vacate his plea is evidence which is outside the record. We, therefore, cannot decide the merits of the appeal from the judgment of the trial court. And the question whether the defendant has cause to vacate his guilty plea may depend on an evidentiary hearing which is a matter peculiarly for the trial court.
+We fail to understand or appreciate why defense counsel has placed this court in this position or how this serves the interests of the defendant. As a result, the State’s motion to dismiss the appeal is denied and the cause is remanded to the trial court with directions to permit the defendant to file a motion to vacate his plea of guilty within 30 days from the return of this cause to the trial court on remand and to thereafter proceed in accordance with Supreme Court Rule 604(d).
+Remanded.
+RECHENMACHER, P. J, and NASH, J„ concur.
