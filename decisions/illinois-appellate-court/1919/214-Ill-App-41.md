@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 24,968"
+decided: "1919-04-07"
+citations: ["214 Ill. App. 41"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Florence R. Peck, Appellee, v. Robert B. Peck et al., on appeal of Robert B. Peck, Appellant."]
+source_url: "https://static.case.law/ill-app/214/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5453095
+cites_cases: ["111 Ill. App. 269", "25 Ill. 136", "251 Ill. 80", "28 Ill. App. 640", "50 Ill. 383", "69 Ill. 43"]
+---
+
+# Peck v. Peck
+
+## Majority (Mr. Justice Holdom)
+
+Mr. Justice Holdom
+delivered the opinion of the court.
+This is a proceeding for separate maintenance by the wife against the husband, in which by a supplemental bill David B. Peck, a brother of the husband, was made a party defendant on the theory that he had personal property of great value belonging to the husband which he might deliver to the husband, who, in some manner undisclosed but feared, might get rid of it, which it is claimed would deprive the husband of means with which he ought to support his wife and children. A temporary injunction was granted upon the supplemental bill without notice to either the husband or his brother David, the new defendant. Prom that order the husband prosecutes this interlocutory appeal.
+The temporary injunction against the husband granted on the original bill without notice and without bond was by this court reversed in an opinion not yet reported but filed February 3, 1919, in case general number 24,927. The opinion in that case states with precision the facts under which complainant seeks from her husband a separate maintenance and also the law controlling the granting of an injunction in this class of cases without notice.
+The injunctional order in that case appealed from was reversed because the same was granted without notice to the husband or without showing the existence of any facts which would bring the case within the exception of the statute requiring notice before the granting of an injunction. In the case now being considered, no notice was given to either the defendant husband or his brother David, made a party defendant by the supplemental bill.
+The reasons stated in case number 24,927, supra, for reversal of the injunctional order are equally potent in impelling us to reverse the injunctional order in the case at bar against David B. Peck. However, it is sought to distinguish the case made by the supplemental bill from that made by the original bill, in which we reversed the injunctional order, because, it is said, the supplemental bill contained an averment predicated on the fear that David might deliver the property to his brother Robert, the owner, or some one for him, and that thereby complainant’s rights would be unduly prejudiced unless the injunction prayed issued without notice to the new defendant, David B. Peck.
+We are unable to perceive how complainant could be injured by the delivery to the husband by the brother of property which the husband owned. This in no way excused noncompliance with the requirement of the statute that notice of the application for an injunction must be given before one is granted. Furthermore, complainant proceeded upon wrong premises. On the day the supplemental bill was filed the defendant husband was defaulted for want of a pleading to the original bill. This order preceded, in the sequence of events chronicled in the record, the filing of the supplemental bill, which filing operated to automatically vacate the default order and required a rule upon the defendant husband, who had been summoned, to answer the bill as amended by the supplemental bill. Gibson v. Rees, 50 Ill. 383; Lyndon v. Lyndon, 69 Ill. 43; Ruppe v. Glos, 251 Ill. 80.
+Again, the injunction was granted without" bond and no reason for waiving the requirement of the statute that a bond should be exacted is found in the order, nor does any reason for dispensing with a bond appear in the supplemental bill or by any affidavit supporting the same.
+It is again urged as reason for affirming the injunetional order, that the defendant husband is a drunkard and likely to dissipate and lose his property. Our answer to such contention is that an injunction without notice or bond is not a remedy known to law for such an evil. However, the statute furnishes a suitable and convenient remedy by the appointment of a conservator on application to the Probate Court on notice to the supposed drunkard, in which proceeding, if a conservator is appointed, the supposed drunkard’s property rights would be conserved by the court requiring a conservator’s bond. Moreover, nowhere in the pleadings does it appear that the defendant husband is not supporting his wife and children in accord with his means and their necessities; nor is there any averment that he has threatened either to reduce the amount of support or to discontinue it. In this condition of the record an injunction was not proper.
+There is another serious infirmity in the injunctional order. It is too far reaching in its scope as a temporary order; the law does not permit of so sweeping an injunction, either temporary or permanent. It is the law in this State that a husband cannot be enjoined at the suit of his wife from selling or disposing of his personal property except in the ordinary course of business to insure the payment of alimony allowed the wife. Errissman v. Errissman, 25 Ill. 136. The limit of the power of the court to secure payment of alimony is to make the .alimony decree a lien upon the real property of the husband. The rule is well stated in Griswold v. Griswold, 111 Ill. App. 269, thus:
+“A court of equity has no power to make a decree for alimony a lien on personal property. Yelton v. Handley, 28 Ill. App. 640. It is also of doubtful propriety for a court of equity to permanently enjoin a husband from selling or disposing of his property. Errissman v. Errissman, 25 Ill. 136. It cannot be presumed that the appellant will pauperize himself to avoid the payment of a reasonable alimony to his wife, and we think the legitimate powers oí a court of equity are amply sufficient to protect her.”
+There does not appear from anything in this record any lawful reason justifying the injunction order of December 11, 1918, appealed from; and that order is therefore reversed.
+Injunctional order reversed.
