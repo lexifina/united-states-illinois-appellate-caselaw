@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-01-16"
+citations: ["30 Ill. App. 17"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The National Park Bank of New York v. Ferdinand E. Halle et al."]
+source_url: "https://static.case.law/ill-app/30/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2420354
+cites_cases: ["1 Johns. Ch. 129", "105 Ill. 194", "108 U. S. 260", "115 Ill. 484", "12 Johns. 277", "12 Johns. 279", "12 Johns. Rep. 279", "14 Ill. App. 40", "22 Ill. 330", "22 Ill. 546", "24 Ill. App. 106", "26 Vt. 19", "29 Barb. 188", "29 Conn. 25", "3 Johns. Ch. 261", "3 Sandf. Ch. 428", "37 Pa. St. 71", "4 Cow. 13", "4 N. Y. 312", "4 Scam. 569", "46 Ill. 153", "51 Ala. 214", "6 Hun, 346", "71 Ill. 542", "72 Ill. 172", "77 Ala. 567", "8 Ala. 866", "80 Ala. 296", "92 Ill. 315", "94 Ill. 186", "96 Ill. 18"]
+---
+
+# National Park Bank v. Halle
+
+## Majority (Garnett, P. J.)
+
+Garnett, P. J.
+We must decline to follow the leadings of counsel in their industrious examination into the intricacies of the doctrine of subrogation. To refute or approve what has been so well said on both sides of that question is wholly unnecessary, as the question of trust raised by appellant lies at the root of the case. The pleader who prepared the bill, by the allegation therein, undertakes to give the legal effect of the so called bill of sale, and charges that it was made as security to Halle, who was merely a surety so far as Cohnfield was concerned. But the instrument itself is an exhibit to the bill and made a part thereof, the effect being equivalent to setting it out in haee verba in the bill.
+In the statement of the facts, we have given merely the legal effect of the averments, for the purpose of brevity. The averment in the bill that the property was transferred to Halle, as his security, is not inconsistent with the fact that it was also to be general security for the payment of the notes in the hands of any holder. The instrument executed by Cohnfield’s agent being made a .part of the pleading, was equivalent to the insertion of an additional allegation that the security was given generally to insure the payment of the notes. If any inconsistency should appear between the averment and the writing, the latter must prevail, and a demurrer does not admit the truth of the conflicting averment in such case. North v. Kizer, 72 Ill. 172; Greig v. Russell, 115 Ill. 484.
+The transfer to Halle was made after the execution and discount of the flrst two notes, and would seem to be embraced within a'class of instruments recognized by Sec. 1, Chap. 95, R. S., entitled “ Mortgages.” We are not aware of anything which prevents the making of a deed of trust conveying personal property to a trustee to secure notes held by the grant- or’s creditor. Such was, without any question, the transaction presented by the appellant’s bill.
+The writing relied on in the bill states in unambiguous terms that the property granted shall be held by Halle as security for the payment of the notes in question; and to make it more plain that both grantor and grantee understood it alike, Halle signed and delivered to Cohnfield, at the same time, a receipt (a copy whereof was also made part of the bill of complaint) acknowledging that the bill of sale “ was received as security for certain promissory notes,” which were therein accurately described. If the same instrument had been executed and delivered to appellant as grantee, we should have no difficulty in describing it as a chattel mortgage. Jones on Chattel Mortgages, Sec. 1. As it was in fact executed and delivered to Halle, we feel quite as little embarrassment in saying it was a conveyance to him in trust to secure the payment of the three notes above described. Smith v. Gillman, 80 Ala. 296. What might be the result if the conveyance had been merely to indemnify Halle, is a different question. See Jones v. Quinnipiack Bank, 29 Conn. 25; Daniel v. Hunt, 77 Ala. 567; Constant v. Matteson, 22 Ill. 546. The construction we have here given to the trust instrument is in keeping with a natural and necessary equity which flows from the relations of the parties, and is a substantial execution of their intentions. Hampton v. Phipps, 108 U. S. 260.
+Equity is the proper forum for the enforcement of appellant’s lien. In Constant v. Matteson, supra, the court said that where a debtor conveys property to a trustee for the payment of his debt he then appropriates it to that specific purpose, and if the trustee fails or refuses to so apply it the court will compel him to do so. The enforcement of the duties of trustees and protection of property impressed with a trust, on application of the cestui que trust, is a favored head of equity jurisdiction, and is called into exercise in a great variety of cases.
+We perceive no reason why the appellant should be barred of his remedy by foreclosure on the equity side of the court. Gaar v. Hurd, 92 Ill. 315; Cushman v. Hayes, 46 Ill. 153; Jones on Chat. Mort., Sec. 776.
+It is unnecessary to comment on any other point raised in argument. The court erred in sustaining the demurrer and dismissing the bill as to Halle, Ascher and Barnard. The decree is reversed and the cause remanded for further proceedings not inconsistent with this opinion.
+Reversed and remanded.
