@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-171"
+decided: "1977-04-29"
+citations: ["48 Ill. App. 3d 292"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v. ARTHUR McROBERTS, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3370099
+cites_cases: ["31 Ill. App. 3d 1087"]
+---
+
+# People v. McRoberts
+
+## Majority (Mr. PRESIDING JUSTICE RECHENMACHER)
+
+Mr. PRESIDING JUSTICE RECHENMACHER
+delivered the opinion of the court:
+This is an appeal by the State from the trial court’s order dismissing an indictment on the ground that the defendant was not brought to trial within 160 days of his demand for a trial, in accordance with section 103— 5 of the Code of Criminal Procedure (Ill. Rev. Stat. 1975, ch. 38, par. 103 — 5).
+The defendant was charged with theft by deception in excess of *150 in violation of section 16 — 1 of the Criminal Code of 1961 (Ill. Rev. Stat. 1973, ch. 38, par. 16 — 1). The date of the offense was December 19,1974, and the defendant was released on bail on February 18,1975. On June 11, 1975, the defendant filed a written demand for a speedy trial. On June 24, the court set the case for trial on September 9, 1975.
+On September 8, 1975, defense counsel sent a letter to the defendant informing him that he had been trying to work out a negotiated plea with the State’s Attorney; however, he did not outline to the defendant any details of the proposed plea bargain. It was apparent from the colloquy between the court, defense counsel and the State’s Attorney at the hearing on the motion to dismiss that defense counsel and the State’s Attorney had been trying to negotiate a plea for some time previous to the trial date.
+On the date of trial, the State’s Attorney, apparently believing that a plea bargain had been arrived at, postponed the trial on his own initiative. On September 25 defense counsel wrote the defendant again, outlining the terms of a plea bargain which provided that the defendant would pay a fine of *500 and plead guilty to a reduced charge. From the colloquy between the court and counsel it appears that the defendant replied that he did not have the *500 to pay the fine at that time. Defense counsel then informed the State’s Attorney that the defendant did not have the money for the fine at that time.
+On November 11, 1975, the 160-day period having expired, defendant filed a motion to dismiss the indictment for failure to bring him to trial within 160 days. In the colloquy before the court on the defendant’s motion to dismiss the indictment the State’s Attorney asked defense counsel:
+“Q. Isn’t it a fact that the deal was accepted and that it was continued so that he could have time to get the money so when he came into court he could make the payment?”
+To which defense counsel replied:
+“A. I indicated to you that in all probability if he could get the money he would accept it [the plea bargain], he has not been able to get the money. I discussed it with him on several occasions.”
+To the question by the State’s Attorney: “Q. Do you know based upon what you stated why this did not go to trial on September 9, 1975?” defense counsel replied:
+“A. I would assume because you called off the jury anticipating that he would be able to come up with the money.”
+In summary the testimony at the hearing on the motion to dismiss the indictment reveals that an offer of a plea bargain was made by the State’s Attorney, which provided for a payment by the defendant of a *500 fine. The defendant was willing to enter into such a plea bargain but did not have the money to pay the fine. The State’s Attorney and defense counsel talked back and forth and defense counsel apparently told the State’s Attorney that the defendant was trying to raise the money for the fine and if he could do so, he would accept the negotiated plea. The State’s Attorney, believing that a plea bargain was imminent, called off the trial set for September 9. Thereafter he continued to discuss the possibility of arriving at a negotiated plea with defense counsel. It is apparent, however, that when the trial date of September 9 was postponed defense counsel had not submitted any definite detailed plea bargain to the defendant and did not do so until September 25. Thereafter discussions apparently continued between the State’s Attorney and defense counsel from which the State’s Attorney concluded that a negotiated plea would be consummated but no firm commitment to that effect was made by defense counsel. It appears that just prior to the expiration of the 160-day period the State’s Attorney and defense counsel again discussed the case and the defense counsel talked to the defendant and according to defense counsel the defendant told him at that time that “there is no way I can get the money in a lump sum agreement.” The upshot of the negotiations, therefore, was that no agreement was reached, the defendant did not plead guilty and the 160-day period elapsed.
+Defense counsel did not at any time prior to the completion of the 160-day period, request a continuance nor did he object to the postponement of the trial on September 9, 1975. The trial court clearly indicated in his comments at the hearing on the motion to dismiss the indictment that he sympathized with the State’s Attorney’s argument that he had been misled, but that he felt that the initiative for the postponement of the trial had been that of the State’s Attorney. Even though recognizing that the postponement of the trial was done in good faith for the benefit of the defendant, the trial court indicated he felt the burden was on the State to bring the defendant to trial within the time prescribed by the statute, therefore the State was technically at fault and the motion must be granted. He therefore reluctantly dismissed the indictment.
+While we sympathize with the State’s Attorney in this situation we cannot but agree with the trial judge’s ruling. The testimony at the hearing clearly shows that the State’s Attorney was trying to accommodate the defendant and was honestly of the opinion that a plea bargain had been arrived at. Nevertheless there is nothing in the record to indicate that the defendant did anything to toll the running of the 160-day period and the State’s Attorney, therefore, put himself in a vulnerable position when he postponed the trial. While he no doubt did this for the benefit of the defendant, believing no trial would be necessary, the fact remains that the technical requirements of a speedy trial were not complied with. In People v. Hannah (1975), 31 Ill. App. 3d 1087, 1089, in commenting on a similar situation where, as here, the State’s forbearance resulted in a technical violation of the speedy trial provision of the statute, the court said: “The burden is on the State to take the steps necessary to bring about a prompt trial.”
+This was a technical situation which the defendant took advantage of, but it is not shown by the record that there was any deliberate deception on the part of the defendant, or his counsel, which would deprive him of his right to invoke the statute. Defense counsel claimed he was ready for trial on the date set. The fact that the State’s Attorney was mistaken as to the probability of the defendant’s completing a negotiated plea does not relieve the State of the requirement of a speedy trial.
+While recognizing that the violation of the 160-day rule in this case was purely technical and not within the intent and spirit of the rule, we feel the trial court was correct in its judgment.
+The judgment of the circuit court of Lee County is affirmed.
+Judgment affirmed.
+SEIDENFELD and BOYLE, JJ., concur.
