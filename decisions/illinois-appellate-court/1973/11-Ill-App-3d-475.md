@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "56290"
+decided: "1973-04-18"
+citations: ["11 Ill. App. 3d 475"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Johnny Kelly, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/11/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2932109
+cites_cases: ["354 F.2d 637", "402 Ill. 574", "42 Ill.2d 555", "46 Ill.2d 120", "72 Ill.App.2d 324"]
+---
+
+# People v. Kelly
+
+## Majority (Mr. JUSTICE DIERINGER)
+
+Mr. JUSTICE DIERINGER
+delivered the opinion of the court:
+The defendant, Johnny Kelly, was convicted of aggravated battery by a jury in the Circuit Court of Cook County. He was sentenced to the penitentiary for a term of not less than three nor more than seven years.
+On appeal he argues he was deprived of counsel of his own choice; the evidence was insufficient to find him guilty beyond a reasonable doubt; and the instructions to the jury failed to correctly state an essential element of the crime of aggravated battery.
+On June 21, 1970, a plain-clothes officer, Sam Wilson, came on the scene of an accident at 47th Street and Evans Avenue in the City of Chicago. He stated the defendant was acting strangely and someone told him he was the driver of the car which had gone out of control. When a marked squad car arrived on the scene, Wilson told Kelly to get in. The defendant protested he was not involved, but Officer Wilson insisted everything be resolved at the station. Officer Wilson testified that after walking him to the car he had to “sort of shove him in,” but he was not handcuffed.
+According to police testimony the squad, with Kelly in the back seat alone, was proceeding toward the Second District Station when he screamed, reached over the seat with both hands, and began gouging Officer Miller’s eyes with his thumbs and long fingernails. He also bit him on the head.
+Officer Miller grabbed Kelly’s wrists, pushed himself over into the back seat and began struggling with the defendant, who then bit him on the nose. Officer Ferguson was driving in heavy traffic, and it took some time to maneuver tire car to the side of tire road, where he stopped and was able to pull the defendant off Miller, assisted by Officers Woo and Szudarski, who arrived on the scene in another squad car. Officer Woo took Miller to Michael Reese Hospital, where he was given a tetanus shot, had his face bathed, given an eye test to determine whether his eyeballs were damaged, and then had some X-rays taken of his head.
+Officers Szudarski and Ferguson handcuffed Kelly and once more began transporting him to the station, whereupon he first opened the back door and several blocks later raised his feet up and kicked Officer Ferguson in the head.
+The defendant contends he was a passenger in a car involved in the accident after which the driver fled the scene. Kelly stated he got out of the car and was holding a baby when he was grabbed by Officer Miller, causing the baby to fall to the ground. He argued heatedly with the officer about their refusal to take the child to a hospital. Kelly said he was handcuffed and placed in the back seat of the squad car, and Miller leaned over from the front seat and hit him repeatedly with a blackjack or billy club. When the car stopped and his handcuffs were removed, he thought he was being released, but Miller began hitting him again. At this point he struck Miller three or four times but did not scratch or bite him.
+The defendant was charged with aggravated battery and was represented by private counsel at the arraignment on August 19, 1970. On November 25, 1970, the attorney was granted leave to withdraw from the case because of the defendant’s lack of cooperation. The public defender was then appointed and was ready for trial on March 29, 1971. On the morning of that date, immediately before trial, a second private attorney telephoned and informed the court he could not represent the accused. The court directed the public defender to continue as defendant’s counsel, and the case proceeded to trial.
+The defendant first contends he was deprived of his right to choose his own counsel because on the day of trial his own private counsel was not able to appear, and the public defender was directed by the court to defend him.
+It is fundamental a defendant has a right to employ counsel of his own choosing. (People v. Cohen (1949), 402 Ill. 574; People v. Green (1969), 42 Ill.2d 555.) However, in the instant case, there is nothing in the record to indicate the defendant had retained a second private counsel, as the public defender had been appointed four months prior to trial, had prepared the case, and was ready for trial. Upon advising the court he would not be present, the second attorney asked that his statement be made in open court, especially to the public defender, thus indicating the defendant’s reliance on the public defender.
+In United States v. Cozzi (1965), 354 F.2d 637, the court stated that the Sixth Amendment right of a defendant to select his own counsel does not permit an arbitrary action which obstructs orderly procedure in the courts:
+“It is a right to be exercised at an appropriate stage within the procedural framework of the system of criminal jurisprudence of which it is a part. Absent justifiable basis therefor there is no constitutional right to make new choice of counsel, with attendant necessity for a continuance because thereof, at the time the trial is scheduled to commence.”
+The start of a trial is not an “appropriate stage” for the selection of new counsel, especially in the light of the public defenders preparation of the case over a period of four months.
+The defendant also maintains it was error for the court to appoint the public defender because he was not indigent, as evidenced by the employment of two previous attorneys, and he should have been allowed a continuance in order to select still another private attorney. We find no merit in this contention since he failed to object when the public defender was initially appointed and failed to object at trial when the court directed the public defender to go ahead with the case.
+The defendant next complains the evidence when taken as a whole does not establish his guilt beyond a reasonable doubt because of certain alleged inconsistencies in prosecution testimony. The determination of the credibility of the witnesses is the function of the trier of fact and its finding will not be disturbed unless the evidence is so unsatisfactory as to leave a reasonable doubt of the defendant’s guilt. (People v. May (1970), 46 Ill.2d 120.) This case was tried before a jury which found the defendant guilty, and after examining the record we find that whatever inconsistencies in the testimony which may exist only involve minor points which do not furnish the basis for a reversal.
+Finally, the defendant asserts the instructions given to the jury were not sufficient to sustain a conviction. Specifically, he contends the court erred by omitting the term ‘legally” when discussing justification. The statute requires that the battery be “without legal justification” and he argues the inclusion of the term “legal” is essential, because without it the jury is uninformed as to what “justification” means in the battery statute.
+Because no objection to the instruction was made at trial, the defendant is deemed to have waived his objections and cannot complain in this court. (People v. Velez (1966), 72 Ill.App.2d 324.) Even if a timely objection had been made, we believe the instruction was sufficient as given. Although the term ‘legal” was omitted, the instructions given the jury contained an adequate definition of “justification” under the laws of the State of Illinois, such that it could determine what constituted the offense. Furthermore, the absence of the term “legal” could only give the jurors a broader definition of “justification” than could be had with the insertion of the term. The defendant could not have been prejudiced by its omission.
+For these reasons the judgment of the Circuit Court of Cook County is affirmed.
+Affirmed.
+BURMAN, P. J., and ADESKO, J., concur.
