@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1912-04-11"
-citations: ["171 Ill. App. 76", "171 Ill. App. 109"]
+citations: ["171 Ill. App. 76"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Nancy T. Hoxsey by John Hoxsey her next friend, Appellee, v. St. Loui
 source_url: "https://static.case.law/ill-app/171/cases/0076-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2772921
-cites_cases: ["111 Ill. 406", "158 Ill. App. 599", "193 Ill. 402", "208 Ill. 608", "210 Ill. 115", "222 Ill. 232", "227 Ill. 571", "229 Ill. 481", "251 Ill. 28"]
+cites_cases: ["208 Ill. 608", "227 Ill. 571", "229 Ill. 481"]
 ---
 
 # Hoxsey v. St. Louis & Springfield Railway Co.
