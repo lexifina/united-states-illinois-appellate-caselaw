@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-02-17"
+citations: ["24 Ill. App. 634"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Bainter v. George Lawson."]
+source_url: "https://static.case.law/ill-app/24/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5779863
+---
+
+# Bainter v. Lawson
+
+## Majority (Wall, J.)
+
+Wall, J.
+This was an action of distress for rent by appellant against appellee. The warrant was levied by the Sheriff upon a quantity of corn.
+The defendant by plea denied that he owed anything to plaintiff. Upon a trial in the Circuit Court a verdict was rendered in favor of defendant, which the court declined to set aside, and the case is brought here by the appeal of the plaintiff. Numerous points have been presented for our consideration, but the most important, and, as we think, the controlling question, is one of fact, whether the rent was paid according to the terms of the lease; and this again is narrowed to whether the grain rent was to be delivered on the farm or hauled to La Harpe. It is unnecessary to state in detail the various phases of the case as disclosed in the evidence or to comment upon the proofs. There was a sharp conflict but no such preponderance either way as to require this court to interfere with the verdict, and unless there is some substantial error in the record which probably may have contributed to the result, we can not disturb the judgment. It is urged that the court excluded evidence offered by plaintiff tending to show that the defendant by good husbandry might have made a better crop and thereby increased the amount of rent to be received by the plaintiff. The distress warrant which, under the statute, Sec. 20, Ch. 80, stands for a declaration and is amendable as such, contained no allegation or charge under which such proof could be admitted, nor does it appear that leave was desired to amend for such purpose. There was no error in this ruling.
+It is claimed the court erred in allowing proof of the conversation between Abram Bainter and the defendant, in reference to an alleged sale of the corn to the latter. It is a matter in dispute whether, when this transaction occurred, the defendant had been advised or notified that the agency of Abram Bainter had ended. If he was not so informed he might rely upon any arrangement made with him in reference to the matter and to prove what the arrangement was he might state the conversation. Upon his theory of the case the defendant was entitled to make this proof, and it was for the jury to determine the questions of notice and good faith that were involved therein.
+The appellant complains that all the instructions given for appellee except the 6th and 7th are erroneous. The objection urged to all these, except the 9th, is mainly that the evidence did not warrant them. It would require an extended reference to the proof to discuss intelligibly this point as to each and all of the seinstruetions. We deem it not necessary to do so, and it is sufficient to say that we find no substantial ground of complaint in this respect. The 9th advises the jury that the notice of termination of tenancy, which was served on the 23d of December, was not to be considered by the j ury so far as the substantive parts of it were concerned; that it was admitted only for the purpose of making certain a date and was not to be considered by the jury for any other purpose. The record is not perfectly clear, whether this notice was allowed to be read in the first instance for this purpose only, or whether it was admitted generally. But if the latter is true the court bad the right to make the limitation found in this instruction if such was the only purpose for which it was properly admissible. After considering all the evidence Ave are inclined to agree with the Circuit Court upon this point. It does not occur to us in what way this notice tended to prove, or disprove, the matter in issue, and if it had any evidential force it was to establish a date merely. At any rate v e are unable to see any substantial error in this action of the court.
+The appellant complains of the refusal of the court to give the 6th, 7th and 8th instructions. The refusal to give the 6th is disposed of in what has been said as to the giving of the defendant’s 9 th. The substance of the 7th, so far as it is really pertinent and proper to be given, is covered by the 9th given for plaintiff. The 8th was modified and then given, the modification being the subject of objection. We regard it as unimportant. The court gave ten other instructions for plaintiff, embracing all that was necessary to a correct understanding of the legal principles involved in the case. It is not apparent that the appellant has any just cause of complaint in this respect.
+Finding no substantial error in the record, the judgment will be affirmed.
+Judgment affirmed.
