@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-1212"
+decided: "1978-01-26"
+citations: ["57 Ill. App. 3d 32"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KEELER MART LIQUORS, INC., Plaintiff-Appellee, v. RICHARD J. DALEY, Mayor and Local Liquor Comm’r, et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/57/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3420882
+cites_cases: ["120 Ill. 21", "15 Ill. App. 3d 874", "163 N.E. 360", "193 N.E.2d 770", "29 Ill. 2d 191", "305 N.E.2d 394", "332 Ill. 40", "8 N.E. 857", "91 A.L.R. 513"]
+---
+
+# Keeler Mart Liquors, Inc. v. Daley
+
+## Majority (Mr. JUSTICE STAMOS)
+
+Mr. JUSTICE STAMOS
+delivered the opinion of the court:
+This is an appeal from a judgment of the circuit court of Cook County in an administrative review proceeding pursuant to the Administrative Review Act (Ill. Rev. Stat. 1973, ch. 110, par. 264 et seq.). The circuit court reversed a decision of the Local Liquor Commissioner of the City of Chicago (hereinafter “Commissioner”) to suspend plaintiffs retail liquor license for a 10-day period. The suspension was based upon a finding of the Commissioner that:
+“[0]n March 8, 1975, the licensee corporation, by and through its agent, SAM SCHISSEL, employee, knowingly dispensed alcoholic beverages to wit: 12 cans of Schlitz beer, on the licensed premises to a person under the age of 19 years, namely, FRANK RAMIREZ, who was 15, contrary to Chap. 43, §131, Ill. Rev. Stat., 1973.”
+The sole issue presented for review concerns whether plaintiff established by clear and convincing evidence that the finding of the Commissioner that plaintiffs agent sold alcoholic beverages to a person under the age of 19 years is contrary to the manifest weight of the evidence.
+A review of the evidence adduced in connection with proceedings to revoke plaintiff’s local retail license establishes that on March 8, 1975, at approximately 7 p.m., Frank Ramirez entered Keeler Mart Liquors, Inc., a package liquor store, located at 4200 West Armitage Avenue in Chicago, Illinois. Ramirez purchased two “six-packs” of beer manufactured by the Schlitz Brewing Company. Ramirez left the store in possession of the beer and was stopped by Chicago police officer Vincent J. Leonardi. Ramirez informed the officer that he had purchased the beer from the licensee’s establishment. At the time of the purchase Ramirez was 15 years of age.
+During cross-examination by licensee’s attorney, Ramirez admitted that he had understood the personal consequences of his illegal purchase. Apparently unsatisfied with this admission, licensee’s counsel questioned Ramirez further:
+“BY MR. GOLDBERG: Q. And my question was, even knowing that, you went in and attempted as you said, and did indeed make a purchase of alcoholic beverage?
+A. Yes.” (Emphasis added.)
+Although inventoried by the investigating officers, the two “six-packs” of beer were not introduced into evidence.
+Officer Leonardi testified that he immediately entered licensee’s establishment and confronted licensee’s employee. According to Officer Leonardi, the employee identified himself as Sam Schissel and admitted that he had sold the beer in question to Ramirez; that he had not requested that Ramirez produce proof of his age prior to the sale; and, that he did not know Ramirez’ age. Schissel testified that on the date in question he had, indeed, worked for licensee behind the package goods counter but did not recall that he had sold alcohol to Ramirez on that date or had made any admissions to Officer Leonardi in connection with the sale. Schissel, however, admitted that it was “possible” that he had sold the beer to Ramirez.
+We note at the outset that the facts of the instant case are not in dispute. There can be no question that on the date in question, two “six-packs” of Schlitz beer were sold to a minor by an employee of licensee, Keeler Liquor Mart Inc. This evidence is uncontradicted and there is no reason to believe that the beer in question was merely a figment of the parties’ imaginations. Indeed, the testimony of Sam Schissel, licensee’s agent, does not deny the fact of the same or the nature of the product as “beer.”
+Licensee maintains that the evidence adduced at the hearing held in connection with proceedings to suspend its license, failed to establish that the beer sold was an “alcoholic liquor” within the meaning of section 12 of article VI of the Liquor Control Act (Ill. Rev. Stat. 1973, ch. 43, par. 131). Licensee asserts that such evidence was insufficient in that the beer was not submitted to chemical analysis or introduced into evidence.
+Section 12 of article VI of the Liquor Control Act (Ill. Rev. Stat. 1973, ch. 43, par. 131) provides in pertinent part:
+“No licensee nor any officer, associate, member, representative, agent or employee of such licensee shall sell, give or deliver alcoholic liquor to any person under the age of 21 years, or in the case of beer and wine, under the age of 19 years ° °
+“Alcoholic liquor” is defined so as to include that beverage known as "beer":
+“ ‘Alcoholic liquor’ includes alcohol, spirits, wine and beer, and every liquid or solid, patented or not, containing alcohol, spirits, wine or beer, and capable of being consumed as a beverage by a human being. The provisions of this Act shall not apply ° ° ° to any liquid or solid containing one-half of one per cent, or less, of alcohol by volume. * * *” Ill. Rev. Stat. 1973, ch. 43, par. 95.05.
+Findings of an administrative agency must be sustained by the courts unless they are arbitrary and capricious or against the manifest weight of the evidence. (Dorfman v. Gerber (1963), 29 Ill. 2d 191, 193 N.E.2d 770.) Findings and conclusions of an administrative agency on questions of fact shall be held to be prima facie true and correct. Landon v. Liquor Control Com. (1973), 15 Ill. App. 3d 874, 305 N.E.2d 394.
+In the instant case, there can be no question that the product sold by licensee’s employee was “beer” within the meaning of section 2.05 of article I of the Liquor Control Act (Ill. Rev. Stat. 1973, ch. 43, par. 95.05). The testimony of Ramirez, Leonardi and Schissel, may only be construed so as to establish that the product sold was beer manufactured and canned by the Schlitz Brewing Company. The sole viable issue is whether the evidence was sufficient to establish that this beer was an “alcoholic liquor.”
+It was incumbent upon the City of Chicago to establish that the beverage sold was an “alcoholic liquor” as defined by statute. However, licensee has failed to provide us with any Illinois authority holding that in order to meet this burden the beverage in question must be submitted to chemical analysis and introduced into evidence. While such may be considered the preferred procedure because of its obvious simplicity, the nature of the product may be established by competent evidence other than a chemical analysis of the fluid. People v. Finley (1928), 332 Ill. 40, 163 N.E. 360; see Annot., 91 A.L.R. 513 (1934).
+In the instant case, Frank Ramirez expressly testified, upon examination by licensee’s counsel, that he effected a purchase of an “alcoholic beverage” and that he recognized this transaction to have been illegal. Ramirez’ competency to make these assessments was unchallenged below and is unquestioned on appeal. Such testimony was sufficient to establish that the product sold by licensee’s employee was an “alcoholic liquor” within the purview of section 12 of article VI of the Liquor Control Act (Ill. Rev. Stat. 1973, ch. 43, par. 131).
+At the very least, such evidence was sufficient to establish a prima facie violation of section 12 of article VI of the Liquor Control Act. The burden of going forward to rebut this inference thereupon shifts to the licensee without the necessity of the Commission hearing evidence from the manufacturer and distributor as to the alcoholic content of the beer sold by licensee. This holding does not compel the licensee to “prove his innocence,” nor does it shift the burden of proof; it merely shifts the burden of going forward to rebut the inference. See London v. Liquor Control Com.
+The case of Hansberg v. People (1886), 120 Ill. 21, 8 N.E. 857, relied upon by licensee, does not mandate a contrary conclusion. In Hausberg, the court refused to judicially notice that a certain liquid identified as “beer” was an “intoxicating liquor.” In the instant case, the evidence adduced was sufficient to establish that the beer sold to the minor was an “alcoholic liquor.” No judicial notice of the alcoholic content of the liquid is necessary, nor would such notice be proper. Nor does our statute require analysis of the “intoxicating” properties of the beverages described therein.
+The finding of the Commission was not contrary to the manifest weight of the evidence. The judgment of the circuit court of Cook County to the contrary was erroneous and is reversed.
+Reversed.
+DOWNING, P. J., and PUSATERI, J., concur.
