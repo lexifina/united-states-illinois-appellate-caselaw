@@ -2,7 +2,7 @@
 court: "Illinois Appellate Court"
 docket: "60210"
 decided: "1975-01-09"
-citations: ["34 Ill. App. 3d 922", "25 Ill. App. 3d 529"]
+citations: ["34 Ill. App. 3d 922"]
 reporter: "ill-app-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
