@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 64-62"
+decided: "1965-08-23"
+citations: ["62 Ill. App. 2d 45"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ABRAHAMSON, P. J. and DAVIS, J., concur."]
+parties: ["In the Matter of an Ordinance requesting the Annexation of Certain Territory to the Village of Willowbrook. Village of Willowbrook, Petitioner-Appellant, v. La Salle National Bank, Objector-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/62/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5298979
+cites_cases: ["189 NE2d 690", "20 Ill 637", "40 Ill App2d 359"]
+---
+
+# Village of Willowbrook v. La Salle National Bank
+
+## Majority (MR. JUSTICE MORAN)
+
+MR. JUSTICE MORAN
+delivered the opinion of the court.
+The Village of Willowbrook filed an ordinance, pursuant to Ill Rev Stats, ch 24, section 7-1-2 et seq., requesting the annexation of certain territory. Two tracts of land were involved, designated I and II. After hearing, the lower Court found the ordinance to be invalid and entered an order dismissing it. The Village then brought an appeal to the Supreme Court of this State, and upon order of that Court this cause was transferred to this Court for disposition. Appellee is the owner of Parcel I, the larger of the two tracts.
+This is not the first time this Court has been called upon to decide a case between these same parties involving the question of whether Parcel I should be a part of the Village of Willowbrook. In 1962, Parcel I, as part of a larger tract, was disconnected from the Village by order of the County Court of DuPage County. The Village took an appeal, posting a bond as a supersedeas, and, on April 10, 1963, this Court affirmed the order of disconnection. La Salle Nat. Bank v. Village of Willowbrook, 40 Ill App2d 359, 189 NE2d 690. The instant annexation proceeding was filed on November 7, 1962, while the appeal of the disconnection case was pending in this Court.
+We agree with the appellee that the pendency of the prior appeal in the disconnection case was a proper ground for abatement of the present action. One of the requisites of a valid annexation is that the territory sought to be annexed be unincorporated. The ordinance in the instant case contained the assertion that the territory involved was unincorporated, but went on to recite that:
+“. . . the question of the validity of the order of disconnection is now on appeal by the Village of Willowbrook, and by this ordinance, the Village of Willowbrook does not waive or intend to waive any of its rights of appeal in the aforesaid case with respect to its position that the aforesaid order of disconnection was improper but adopts this ordinance on the basis of facts as they now appear as shown from the records of the County Court of DuPage County in said case with respect to said territory; . . .
+Thus, the ordinance itself admits that its validity is entirely dependent upon the outcome of an appeal pending in a prior case. It is, of course, well-settled that a pending action is grounds for abatement of a subsequent action between the same parties concerning the same or similar subject matter. While it might be argued that a disconnection and an annexation are different actions, still, under the circumstances presented here, we think they are two sides of the same coin. The central question sought to be resolved in both cases is whether or not Parcel I should be part of the Village of Willowbrook. Moreover, until the question of disconnection was finally resolved, it could not be determined whether Parcel I was unincorporated and thus subject to an annexation proceeding. Therefore, we think that the subject matter of the two cases is sufficiently similar to come within the doctrine of “prior action pending.” See 1 CJS, Abatement and Eevival, section 46, p 76:
+“Where . . . the paramount questions or issues are the same in both actions, and the whole effect of the second action is attainable in the first, the pendency of the first action is ground for abating the second, and is not affected by the fact that some questions are raised in the second action that are not involved in the first, or that the second action is not for the whole matter embraced in the first, or that more facts are alleged or more relief is asked in the first than is sought in the second.”
+Neither party has cited a case which we think entirely apposite, but common sense is often a good substitute for precedent. To us it does not make good sense to say that a party may commence an action based upon the premise that territory is disconnected, while he is simultaneously asserting in another case that the disconnection is invalid. Carr v. Casey, 20 Ill 637, 638 (1858), involved a situation which we think analogous to what we have here. In that case, the original suit was dismissed by the lower Court, whereupon plaintiff filed a second suit. He then appealed the dismissal of the first suit. The Supreme Court granted the defendant’s motion to abate the appeal. We think the following language of the Court is pertinent to the case before us:
+“By filing another bill for the same cause of complaint, the complainant acquiesced in and approved of the decree abating the former suit. While that suit is pending in the Circuit Court, and he is there calling upon the defendant to answer the matters complained of, he shall not be at liberty also to bring him into this court to defend the decree by which alone the complainant was placed in a position authorizing him to file the bill now pending.”
+The Village argues that the trial court’s' order of disconnection was final, and that the appeal, therefore, cannot he considered a prior action which was pending at the time the instant proceeding was filed. We do not agree. See 1ILP, Abatement, section 32, p 40:
+“As a matter of principle it seems clear that a plaintiff should not be permitted to prosecute a second action to recover the same demand while the proceedings on the judgment in the first case are stayed by a writ of error operating as a supersedeas. The second action is unnecessary, and may possibly be regarded as vexatious; hence the defendant may plead the pendency of the writ of error, which operates as a supersedeas, in abatement of the second action.”
+See also 1 CJS, Abatement and Revival, section 73 et seq.
+The fact that this Court affirmed the disconnection order during the pendency of the annexation proceeding is immaterial. The validity of the annexation ordinance must be determined as of the date of its adoption.
+We hold, therefore, that the ordinance was invalid insofar as it included Parcel I. And because the ordinance is bad as to Parcel I, it is also bad as to Parcel II. Another requirement of a valid annexation is that the territory sought to be annexed be contiguous to the Village. Parcel II is contiguous to Parcel I, but not to any part of the Village. Since Parcel I cannot be annexed, Parcel II, lacking the necessary element of contiguity, cannot be annexed either.
+The Village filed a motion for a change of venue from the judge to whom the ease was originally assigned, on the ground that he was prejudiced. The motion was denied. However, the case was eventually reassigned to another judge prior to the hearing and the entry of the order from which this appeal was taken. Therefore, there was no prejudice to the Village from the denial of its motion.
+The parties raise other issues, but, because of the view we take of the matter, it will not be necessary to discuss them in this opinion. For the reasons stated, the judgment of the lower Court is affirmed.
+Judgment affirmed.
+ABRAHAMSON, P. J. and DAVIS, J., concur.
