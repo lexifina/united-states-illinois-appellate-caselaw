@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "15683"
+decided: "1980-03-12"
+citations: ["81 Ill. App. 3d 721"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v. JAMES M. SNYDER, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/81/cases/0721-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3227582
+cites_cases: ["18 Ill. App. 3d 628", "235 N.E.2d 819", "310 N.E.2d 174", "351 N.E.2d 574", "356 N.E.2d 59", "358 N.E.2d 677", "378 N.E.2d 213", "39 Ill. 2d 436", "39 Ill. App. 3d 941", "44 Ill. App. 3d 499", "61 Ill. App. 3d 538", "64 Ill. 2d 264"]
+---
+
+# People v. Snyder
+
+## Majority (Mr. JUSTICE CRAVEN)
+
+Mr. JUSTICE CRAVEN
+delivered the opinion of the court:
+The State appeals from the dismissal of a charge based on a traffic offense; the trial court granted the dismissal for want of prosecution. On October 10, 1978, the defendant was ticketed for failing to reduce speed to avoid an accident in violation of section 11 — 601(a) of the Illinois Vehicle Code (Ill. Rev. Stat. 1977, ch. 95J½, par. 11 — 601(a)). The defendant pleaded not guilty, and arraignment was set for November 21, 1978. When the defendant failed to appear on that day, the cause was rescheduled for December 19,1978. At that time, the defendant appeared with counsel and was prepared to proceed with the trial, but the court merely arraigned him; the defendant was ordered to appear at a pretrial conference on January 5, 1979. At the pretrial conference the cause was continued pending the defendant’s decision on whether to move for a change of judges. The defendant later made this motion, which was granted. The cause was then scheduled for May 8,1979, and then moved to May 29 on the court’s own motion. The court then granted the State’s motion for a continuance to July 6, 1979, because a material witness was unavailable. On July 6, the State moved for another continuance as the arresting officer, under subpoena, did not appear because he was sick; the State did not know about the officer’s illness until after the hearing was scheduled to begin. The court denied the State’s motion for another continuance and granted the defendant’s oral motion to dismiss the charge with prejudice.
+As a preliminary matter, the State has the right to appeal the dismissal even though it was not based on a ground listed in section 114 — 1 of the Code of Criminal Procedure of 1963 (Ill. Rev. Stat. 1977, ch. 38, par. 114 — 1). People v. Love (1968), 39 Ill. 2d 436, 235 N.E.2d 819; People v. Ledwa (1976), 44 Ill. App. 3d 499, 358 N.E.2d 677.
+The State argues that section 114 — 1 is the exclusive source of grounds for dismissing an action, that none of the reasons listed in that section is applicable here, and that therefore the dismissal was improper. If the State’s first premise were correct, its conclusion would follow, for none of the grounds listed in that section applies here. But we reject the theory that section 114 — 1 is the sole basis for dismissing charges. Supreme Court Rule 504 justifies the trial court’s action here. The rule provides as follows:
+“The date set by the arresting officer for an accused’s appearance in court shall be not less than 10 days but within 45 days after the date of the arrest, whenever practicable. It is the policy of this court that an accused who appears and pleads ‘not guilty’ to an alleged traffic or conservation offense should be granted a trial on the merits on the appearance date set by the arresting officer. Except as provided in Rule 505, an arresting officer’s failure to appear on that date, in and of itself, shall not normally be considered good cause for a continuance.” 73 Ill. 2d R. 504.
+The rule establishes the policy that defendants in traffic cases have the right to a trial on the merits of the case on the appearance date specified by the ticket. (City of Belleville v. Watts (1978), 61 Ill. App. 3d 538, 378 N.E.2d 213; People v. Nelson (1974), 18 Ill. App. 3d 628, 310 N.E.2d 174.) Village of Park Forest v. Fagan (1976), 64 Ill. 2d 264, 356 N.E.2d 59, held that the first sentence in Rule 504 is precatory rather than mandatory, but did not construe the remaining sentences in the rule. Fagan is distinguishable because it dealt with trial dates set beyond the 45-day period, rather than with the situation in this case, the failure to hold a trial on the appearance date scheduled by the traffic ticket.
+We need not address the strangulated reasoning of People v. Kenney (1976), 39 Ill. App. 3d 941, 351 N.E.2d 574, which held that Rule 504 did not warrant the dismissal of a traffic charge when the prosecutor rather than the arresting officer failed to appear. Because the arresting officer was the missing party here, the instant case falls squarely within the scope of Rule 504.
+The Committee Comments to the rule support our reasoning and result:
+“Traditionally, and as a matter of practice, in Cook County, if a police officer fails to appear to prosecute his case on the appearance date which he established in the ticket, the case is dismissed for want of prosecution. On the contrary, however, Paragraph E of the former Supreme Court rule expressly provided that the police officer would not be required to appear on the date he set for defendant’s first appearance. Defendants who appeared and pleaded ‘not guilty’ were instructed that their plea would be entered and, usually, the case was continued to a future date on which the police officer would be required to appear. Some defendants had to make two or more court appearances to answer the same charge. Where a defendant was a resident of a county other than the county in which he was required to appear, he had to travel long distances to make a second appearance on the same charge. The second sentence of this rule is new and sets forth as the policy of the Supreme Court that a defendant who pleads ‘not guilty’ should be granted a trial on the merits on the date the police officers set for defendant’s first court appearance.” Ill. Ann. Stat., ch. 110A, par. 504, Committee Comments, at 11 (Smith-Hurd 1976).
+Affirmed.
+MILLS, P. J., and WEBBER, J., concur.
