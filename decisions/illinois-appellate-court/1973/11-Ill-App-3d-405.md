@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "11788"
+decided: "1973-05-24"
+citations: ["11 Ill. App. 3d 405"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Louis Henne, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/11/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2933913
+cites_cases: ["18 L.Ed.2d, 87", "35 L.Ed.2d 67", "35 L.Ed.2d 99", "388 U.S. 263", "54 Ill.2d 153"]
+---
+
+# People v. Henne
+
+## Majority (Mr. JUSTICE SMITH)
+
+Mr. JUSTICE SMITH
+delivered the opinion of the court:
+The defendant appeals from an order of the circuit court of Coles County finding him guilty of contempt of court and confining him in the Coles County jail “until such time as the order to produce handwriting samples aforesaid is complied with”. The defendant was released on a $1000 recognizance bond pending appeal of the contempt order and sanction. We affirm.
+The three indictments were brought against the defendant for forgery. He was tried by the jury on one and acquitted. Thereafter prior to trial on the other indictments, the prosecution during pretrial proceedings filed a motion asking that the defendant be ordered to provide the prosecution with handwriting samples. The court ordered the defendant to “give handwriting samples of all the checks set forth in the indictments in the above-captioned cases, and said defendant is ordered to provide at least four samples of each check.” The court was advised that the defendant would not comply with this order and the court then found defendant in contempt of court and ordered him committed to the Coles County jail. The order was entered prior to the effective date of Rule No. 413(a) (viii), which requires a defendant to “provide a sample of his handwriting” — subject to constitutional limitations. The order of the circuit court must be scrutinized to determine whether it invades any of the defendant’s constitutional rights at the time it was entered. We conclude that they were not.
+The basic thrust of the defendant’s position is that there is a vast difference between the language of the fifth amendment to the United States Constitution which provides “No person shall be compelled in any criminal case to be a witness against himself # # and the Illinois Constitution. The defendant does not deny that under Gilbert v. California, 388 U.S. 263, 18 L.Ed.2d, 87 S.Ct. 1951, the order here entered would not violate Federal constitutional restrictions. He insists, however, that the Federal restriction is much different than the Illinois Constitution of 1870 or 1970. Section 10, art. I, of the 1970 Illinois Constitution is identical with the language used in the Illinois Constitution of 1870 and provides “No person shall be compelled in a criminal case to give evidence against himself * * (Emphasis supplied.) The defendant contends that the word “give” places the Illinois constitutional provision in a posture more restrictive than that in the Federal Constitution. He argues that the term “give” precludes the defendant from being required to perform a volitional act creating or transferring from his possession the evidence solicited. It prevents the defendant from performing the volitional act of creating the handwriting samples which may subsequently be used against him and is thus far removed from the passive cooperation of appearing in a line-up or being photographed. Thus, he reasons that the writing exemplars are prohibited by the Illinois Constitution because it requires affirmative action on his part.
+We think that this differentiation between the Federal and the Illinois Constitution is without merit. In the recent case of People ex rel. Hanrahan v. Power, 54 Ill.2d 153, the Illinois Supreme Court issued a mandamus against the trial judge who quashed a subpoena duces tecum and directed the court to expunge the order which in effect held that a party need not furnish handwriting exemplars. In its discussion of the case, our supreme court held that the difference between the Federal and the Illinois Constitution is a difference in semantics rather than in substance and has given each the same general construction. In so doing, the supreme court quoted with approval from Dionisio v. United States, 35 L.Ed.2d 67, 74, 93 S.Ct. 764, 767 and stated: “The Court of Appeals correctly rejected the contention that the compelled production of the voice exemplars would violate the Fifth Amendment. It has long, been held that the compeUed display of identifiable physical characteristics infringes no interest protected by the privilege against compulsory self-incrimination.”
+It also quoted from United States v. Mam, 35 L.Ed.2d 99, 93 S.Ct. 774, in which the court stated: “Handwriting, like speech, is repeatedly shown to the public, and there is no more expectation of privacy in the physical | characteristics of a persons script than there is in the tone of voice.” (Citing cases.) Our supreme court then held that these decisions dispose of any claims under the fourth, fifth, and fourteenth amendments to the Federal Constitution. j
+In the case at bar, there is a slight difference in the facts. Here the request and the order were for the defendant to make four copies of the forged check. The State’s Attorney readily said that these checks would be used by way of comparison and not offered in evidence to prove the substantive facts of the forgery. The refusal of the defendant to comply with this constitutional order of the circuit court is civil contempt and punishable as such.
+Accordingly, the order adjudging the defendant in contempt of court is affirmed and the cause remanded to the circuit court to proceed in conformity herewith and impose such proper sanctions as may be required upon refusal of the defendant to comply.
+Judgment affirmed; cause remanded for further proceedings.
+CRAVEN, P. J., and TRAPP, J., concur.
