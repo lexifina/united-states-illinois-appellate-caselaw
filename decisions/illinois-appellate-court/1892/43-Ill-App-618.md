@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-02-09"
+citations: ["43 Ill. App. 618"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Shackelford v. Mary G. Clarke."]
+source_url: "https://static.case.law/ill-app/43/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5052441
+---
+
+# Shackelford v. Clarke
+
+## Majority (Waterman, P. J.)
+
+Waterman, P. J.
+Unless the testimony given by appellant upon the trial of this case is to be entirely ignored, the instructions of the court can not be justified and the judgment must be reversed. The jury, on behalf of appellee, were instructed as a matter of law, that the holder of a check must present -the same at latest within banking hours on the day following the day of its delivery to such holder, and were further instructed, in substance, that if appellant did not so present the checks which he received from Frank Clarke, and that if they would have been paid had they been presented upon the day following their delivery, and that if he retained them in his possession until the said Frank Clarke became insolvent, and did not notify appellee of the refusal of the bank to pay said checks until five months after he received them, then he (appellant) was guilty of negligence in connection with said checks and must bear the loss of them himself.
+The instruction as to the duty of the holder of a check to present the same on the day of its reception or the next following day is applicable as a general "proposition of law to the case where a loss occurs by reason of the failure of a bank upon which the check is drawn. If the bank upon which a check is drawn remains solvent, ready, able and willing to pay the check so long as the maker has funds enough to his credit, the holder of the check is under no obligation to present it at the latest upon the day after he receives it; he may keep it for one or six months, as he sees fit, and the maker can not draw out his funds and say that he is absolved from all obligations to have the check good when presented because the holder did not present it upon the day of or on the day following its delivery. So, in this case, if appellant, instead of receiving her son’s,rhad received checks made by appellee herself, the bank, as it did, remaining perfectly solvent, it would have been a matter of utter Indifference to appellee whether appellant presented the checks upon the day or the day after he received them, or kept them to suit his own pleasure; she would have been bound to have had the money there to meet them whenever they were presented. By receiving the note of appellant for $1,500, appellee became bound as a consideration of the same, to give him a like amount. She made her son her agent to take this money to appellant and to bring back his note to her. Her son, instead of taking to appellant his mother’s check to his order which she had given him, took to appellant his own checks. It was, to be sure, the case that, as appeared by an examination of the books of the bank, the checks of her son at the time he gave them to appellant were good, and would have been paid upon presentation on that or the following day, and if nothing had been said at the time these checks were received by appellant, a presumption might arise that a novation had taken place, and that appellant had received the checks of her son in discharge of her obligation to him (appellant); but according to the testimony of appellant, appellee never gave to him the $1,500 to which he was entitled from her for his note. She only gave, according to his statement, her son’s three checks, as to one of which he was told he could draw the money at once. As to the other two, he was told that the maker thereof had no money in bank to pay the same; that when he (appellant) wanted the money, upon these two, he was to give notice to appellee’s son, and she would immediately place the money in bank to make the checks good, and that in the meantime he (appellant) need not pay any interest on the money thus withheld.
+The instructions given for appellee, which entirely ignore the phase of the case presented by appellant’s testimony, were erroneous. According to the testimony of appellant, appellee never gave him the $1,500 to which he was entitled. She merely gave him one good check for $500 and two, each for a like sum, which he was told were not good and which he was asked not to present unfit after he had notified her son, and which, when presented at the expiration of forty days, were worthless.
+For the error indicated the judgment is reversed and the cause remanded.
+Reversed and remanded.
