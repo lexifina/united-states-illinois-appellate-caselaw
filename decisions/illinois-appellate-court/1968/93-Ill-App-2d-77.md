@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 51,143"
+decided: "1968-03-11"
+citations: ["93 Ill. App. 2d 77"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Wendell Thomas, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/93/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2646079
+cites_cases: ["165 NE2d 296", "177 NE2d 120", "18 Ill2d 489", "196 NE2d 664", "197 NE2d 436", "22 Ill2d 601", "231 NE2d 451", "30 Ill2d 297", "30 Ill2d 359", "38 Ill2d 331"]
+---
+
+# People v. Thomas
+
+## Majority (MR. JUSTICE ADESKO)
+
+MR. JUSTICE ADESKO
+delivered the opinion of the court.
+Wendell Thomas was indicted for the murder of Ernest Winters. The jury found the defendant guilty and fixed his punishment at imprisonment in the penitentiary for the term of thirty-three years. He prosecutes this appeal alleging the following errors:
+(1) The evidence shows that the offense committed, if any, was manslaughter and not murder;
+(2) The State’s attorney prejudiced the jury by improper and inflammatory argument; and
+(3) The sentence of thirty-three years is excessive.
+Beginning in the afternoon of August 27, 1958, Ernest Winters, Frank Sims and defendant were out drinking together. At about 8:00 p. m., Barbara Davis joined the group. Winters, Davis and defendant then drove to Winters’ house to pick up his wife Ernestine. Upon arriving there, Winters took offense to his wife referring to another man as “baby.” He slapped her across the face and she slapped him back. The Winters got back into the car with Davis and defendant and started driving around.
+During the ride, the Winters began arguing again. Winters stopped the car near a vacant lot and jumped out. He picked up a stick and started chasing his wife, who had also gotten out of the car. Defendant intervened and tried to stop the Winters from fighting. Ernestine ran off down the street while the two men started pushing each other. After wrestling with Winters for a few moments, defendant ran off down the alley.
+Winters and Davis started to get back into the car when defendant reappeared. He told Winters, “I am going to get my gun,” and also to wait for him at 42nd and Drexel. Davis convinced Winters to drive away and find Sims.
+Davis and Winters drove to Sims’ home at 814 East 42nd Street, about 1 block from the vacant lot. Sims came outside and was talking with Winters for about 10 or 15 minutes when defendant emerged from an alley just up the block. Defendant approached with a pistol in his hand and asked Winters if he wanted to continue the fight. Winters said no. There is some conflict as to who pushed whom but defendant, standing about two feet from Winters, raised his pistol and shot Winters in the chest. Winters grabbed his chest with both hands and started bleeding profusely. He staggered across the street and into the back seat of his car. Sims drove him to a hospital where he died from the gunshot wound.
+Defendant took the stand on his own behalf. He admitted all the details of the events leading up to the shooting. However, with respect to the shooting, he testified that after the first altercation he was in fear for his life. He therefore got a pistol which he put in his pocket. When he approached Winters and Sims in front of the latter’s house, Winters jumped up and said, “I’m going to teach you about interrupting family affairs.” Winters started pushing him. Defendant claimed he saw a knife in Winters’ hand and Winters cut him on the wrist. Defendant tried to walk away when Winters again came at him. Defendant removed the pistol from his pocket and fired.
+Sims drove off toward the hospital and defendant just walked away. He started to return to the scene, but saw “the police there and became frightened.” He took a bus to Dixon, Illinois, to be with a relative. From Dixon he went to Rock Island, Illinois, then to Davenport, Iowa, and then to Detroit, Michigan, where was arrested.
+Neither Sims, nor Davis, who were both present at the time of the shooting, saw any knife or other weapon in Winters’ hand. Barbara Davis further testified that the knife defendant claims the deceased bandied about was found in a pool of blood on the back floor of the car which took Winters to the hospital. Sims and a police officer, however, testified that the knife was found in a pool of blood on the street.
+Defendant’s argument that he was provoked by the deceased into firing the fatal bullet is not supported by the facts. There is credible evidence to show that defendant obtained a pistol, sought out Winters and when Winters refused to continue a previous fight, defendant shot him. The question of whether this shooting was in any way justified or resulted from conduct which would constitute serious provocation is always a determination for the trier of fact. People v. Jordan, 18 Ill2d 489,165 NE2d 296 (1960).
+As a reviewing court we will not reverse a finding of guilty unless the evidence is so unreasonable, improbable or unsatisfactory as to justify a reasonable doubt of defendant’s guilt. People v. Crews, 38 Ill2d 331, 231 NE2d 451 (1967). We do not find the verdict of guilty erroneous.
+The second allegation of error stems from the following comment by the prosecutor in his closing argument:
+“Both witnesses testified, ladies and gentlemen — ■ when I say both witnesses, I mean Barbara Davis and Frank Sims — that never this night did Ernest Winters provoke this murder. Never. Did nothing. All they did was drive Thomas around all day; Thomas, the great hero, protecting the wife, Ernestine, who you saw sit on that stand and cry because her breadwinner — he might not have been such a swell fellow, but her breadwinner is gone and he’s not coming back.”
+Defendant claims this statement is so prejudicial and inflammatory that reversal is required. In support of this argument he cites, People v. Bernette, 30 Ill2d 359, 197 NE2d 436 (1964), and seven prior similar cases. In each of these cases a member of the deceased’s family took the stand to testify that the deceased was a family man. The courts have continuously condemned such testimony as bearing no relationship to the defendant’s guilt or innocence. However, in the instant case, no such testimony is involved.
+The only case cited by defendant which discusses comments on family during closing argument is People v. Gregory, 22 Ill2d 601,177 NE2d 120 (1961). In the Gregory case the defendant was granted a new trial because of improper evidence of unrelated crimes and the following improper closing argument by the Assistant State’s Attorney:
+“How serious is it for five men to take up arms, to pack five guns and go into a man’s place of business where he is making a living for Jennie and for those three kids and just kill him ... he has as much right to see that Jennie and those kids aren’t left alone, as you and I have . . . Mrs. Ciavirelli, who was a widow on May 7,1950 — she’s going to be a widow on May 7, 1951, 1952, 1953, 1954 and every year thereafter. Lawrence and Joseph, and whatever his name is — the third one — they are going to be orphans this week, the next week, next year and forever after . . .
+“And what’s their dessert? Death to the wheel-man. Death to the coverman. That’s the only thing that they deserve. That’s what you have got to give them. Either that or tell Jennie, tell Jennie, sitting out there that Joe isn’t important enough. If it had been somebody else maybe we would have given them the chair, but not with Joe — he’s just a little tavern owner.”
+In the instant case, we do not have an extended commentary on the condition of the deceased’s family, nor do we have a plea for imposition of the death penalty. In fact, the State was not asking for the death penalty. We simply do not feel that saying “her breadwinner is gone and he’s not coming back” was so prejudicial or aggravated as to require reversal. People v. Brown, 30 Ill2d 297, 196 NE2d 664 (1964). The husband-wife relationship was an essential element of the original altercation between the deceased and defendant. It would have been impossible to exclude mentioning Mrs. Winters in the case. To say that her “breadwinner” was dead was nothing more than a truism.
+The final point raised is that the 33 years that the jury imposed is excessive. We do not agree. Defendant admits that the time imposed is well within the statutory limits. The jury obviously did not believe the defense of provocation. Defendant, with a gun in his hand, sought out Winters and shot him. This would justify the imprisonment imposed here. The term of the sentence being proper under the facts, the above quoted closing argument of the Assistant State’s Attorney did not prejudice the defendant.
+For the foregoing reasons, the judgment of the Circuit Court of Cook County, Criminal Division is affirmed.
+Judgment affirmed.
+BURMAN, P. J. and MURPHY, J., concur.
