@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1895-03-23"
+citations: ["58 Ill. App. 110"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["St. Louis, Alton & Terre Haute R. R. Co. v. Ben Ellis."]
+source_url: "https://static.case.law/ill-app/58/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5084628
+---
+
+# St. Louis, Alton & Terre Haute R. R. v. Ellis
+
+## Majority (Mr. Justice Green)
+
+Mr. Justice Green
+delivered the opinion of the Court.
+Appellee brought this suit to recover damages for the injury resulting from an overflow of water upon his premises, caused by the wrongful acts of appellant.
+The jury found defendant guilty, and assessed the plaintiff’s damages at $300. Defendant’s motion for a new trial was overruled, and judgment was entered for the sum so assessed and costs of suit. Defendant took this appeal. Appellee’s premises were 286 feet in length, north and south, and 170 feet in width, east and west, and were situated about 100 feet north, and about the same distance west of a pond on the railroad premises, constructed by the Chicago, St. Louis & Paducah R. R. Co., in 1887, and appellant immediately thereafter entered into and continued in the possession and control of said pond and premises, and operated said railroad up to and at the time this suit was commenced. A creek, called the' Cunningham branch, flows from the north, parallel with and about fifteen to twenty feet from the east side of the railroad pond, which is about five feet deep and seventy yards square. The dirt from the excavation was placed on the south, east and west sides of the pond. That placed on the south formed the railroad dump, and was five or six feet above the natural surface. The railroad track ran east and west. Mo bank was placed on the north side of the pond.
+As originally constructed, this pond had a sewer or .waterway in its southeast corner, to discharge the water into the branch when it reached a certain height in the pond.
+After appellant took possession and control of the railroad and pond, it caused this sewer or outlet to be taken up, and filled in the space thus left with dirt, making a solid bank, thus preventing the flow of water out at the southeast corner, and also constructed a dam across the branch a short distance north of the northeast corner of the pond, preventing the natural flow of water in the branch, and causing it to flow into the pond.
+The jury were justified by the evidence in finding these obstructions were placed, as above stated, by the appellant. That during the high water in the spring of 1893, these obstructions caused a large quantity of water to back up and overflow a part of the premises of plaintiff, and damage and destroy his fruit trees and berry vines to an extent that warranted the assessment of the full amount of damages recovered. Hence, the contention of appellant that the evidence does not sustain the verdict is not tenable. In this connection we desire to say that the plat or sketch of the premises inserted in the printed argument on behalf of appellant does not appear in the record, and when examined by the light of the evidence is incorrect and defective.
+The jury having rightly found that appellant obstructed the natural flow of the water, to the injury and damage of appellee, it follows that appellant violated that law which forbids a person to so use his own property as to injure another, and it became liable for the damage thereby occasioned. It is insisted, further, on behalf of appellant, that the court erred in refusing to require the jury to return special findings, in answer to two interrogatories, as requested by defendant.
+Aside from the objection that these questions involved evidentiary and not ultimate facts, it does not appear they were submitted by defendant to the plaintiff, as required by the statute, and the court did not err in refusing to submit them to the jury. The objection is also made that the court refused to give the following instruction on behalf of defendant below:
+“ The court instructs the jury that if they believe from the evidence that the defendant in this case did not construct the earthworks or embankments, grades or levees, that occasioned the overflow or damage to the plaintiff’s lands and vegetation growing thereon (if the jury should believe there has been any damage done by any embankments or levees), but such construction of the embankments, etc., was by another corporation, which has leased such works to the present defendant after they were so constructed, then the plaintiff can not recover against the defendant in this case, unless he shows by a preponderance of the evidence that prior to the date of the injury complained of, he notified the defendant to remove such embankments or levees.”
+This instruction was not applicable to the facts relied on for recovery, and was, therefore, properly refused. It was not the construction of the earthworks, embankments, grades or levees that was relied on to charge the defendant, but the averment that it “ changed, dammed and turned a certain stream along said pond and into said pond, and prevented the said stream from draining said waters in their usual way and course,” as averred in the declaration, and thereby caused the overflow, injury and damage. We might add, also, that the jury were fully informed by the instructions for plaintiff that the damage must have been occasioned by the defendant to entitle plaintiff to recover. Ho error is perceived in the rulings of the court complained of. The judgment is affirmed.
