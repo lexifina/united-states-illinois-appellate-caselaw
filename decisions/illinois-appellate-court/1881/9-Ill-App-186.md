@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1881-10-11"
+citations: ["9 Ill. App. 186"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. Cumins & Co. v. John A. Leighton."]
+source_url: "https://static.case.law/ill-app/9/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2410430
+cites_cases: ["1 N. Y. 63", "1 Wall. 637", "10 N. Y. 6", "11 Gray, 249", "16 N. Y. 434", "17 N. Y. 133", "19 Conn. 250", "2 Scam. 345", "21 Mo. 524", "23 Conn. 413", "26 Ohio, 185", "28 Ill. 239", "3 Coldw. 463", "39 Me. 19", "4 Gray, 41", "48 Me. 506", "5 Cush. 586", "57 Ill. 221", "62 Ill. 164", "65 Ill. 272", "66 Ill. 407", "83 Ill. 241", "85 Ill. 18", "87 Ill. 105", "87 Ill. 106", "9 Cush. 36"]
+---
+
+# T. Cumins & Co. v. Leighton
+
+## Majority (Lacey, J.)
+
+Lacey, J.
+This was a suit originally commenced before a justice of the peace, and tried in the circuit court on appeal. The appellants were plaintiffs, and the appellee was defendant in the court below. The suit was based on two promissory ■ notes given by appellee to appellants; the principal and interest amounted at the time of the trial in the circuit court, to . the sum of $250.42. °
+On the trial the execution of the notes was admitted, and it was also admitted that appellants had sent the notes for collection to one J. N. Conger, a banker. It was the Oneida Exchange Bank of which Clarence Conger was clerk or assistant cashier during the time of the alleged payment. The appellee claimed that he paid the' notes to Clarence Conger at his (Leighton’s) store in Oneida, between ten and eleven o’clock, Oct. 4, 1873. This alleged payment was the only question in issue.
+The evidence in the case on the question of payment was very conflicting, and apparently pretty evenly balanced.
+Appellee testified that Clarence Conger brought the notes into his store about ten or eleven o’clock, on Oct. 4,1873, and that he paid both of them to him.
+This was entirely denied by the evidence of Clarence Conger, supported by evidence tending to show that he was in Chicago, or on his way there at that time.
+Appellee further testified that after he had paid the notes, he went to the store, asked Gilbert Dugan to take his feet down so he could get the stove door open, and then said as he put the notes into the stove, “Those damned notes wont trouble me any more.” “ Dugan asked what notes they were; I then told him they were the Deere and Grand Detour plow notes. ” “ I told this while in the act of burning them. ” Appellee could not say that Clarence was there when he made the remarks on throwing them into the stove. ”
+One John Morrisey also testified that he was in the employ of appellee, and remembered Clarence Conger coming into the store and Leighton paying him money about ten or eleven o’clock. * * * It was in the front part of the store. Clarence gave him the papers. Leighton came back right away and threw them into the stove, saying “ The damned things won’t bother me any more,” and said they were the Grand Detour and John Deere plow notes. Clarence had gone out when this conversation occurred between Leighton and Dugan. Gilbert Dugan also testified that he was present on the occasion referred to, and that Clarence came into Leighton’s store next morning. Leighton paid Clarence some money and got some papers, which he put into the stove, and said they were Grand Detour and Deere notes. To the same purport was the evidence of J. D. Cox. All this evidence as to what Leighton said as to what the papers were that he was putting into the stove, and his feelings about them, was admitted against the objection of appellant’s counsel, and exception duly taken. All this conversation took place in the absence of Clarence Conger. We think in this the court erred. It was not res gestae. It was simply the relation of a past transaction, and purported that Clarence Conger had just delivered to him the John Deere and Grand Detour plow notes — the notes in suit. It was an important point to show what the papers were for which money had been given. Without this evidence of the payment of money, and taking up of some papers, would not have the convincing force before a jury that it would if the papers were shown to be the notes in suit, the issue being the payment of these notes. It certainly could not be competent evidence to prove the statements of appellee, to the effect that the papers which witnesses had just seen appellee get from Conger, were the John Deere and Grand Detour notes. This was not said at the time the papers passed, or in the presence of Conger. It was simply the statement of appellee made afterwards in his own interest, and was simply hearsay. It was incompetent, and should have been excluded. Moore v. Meacham, 10 N. Y. 6 Seld. 210; Kingsley v. Slack, 5 Cush. Mass. 586; Cushing, admr. v. Willard, 11 Gray (Mass.), 249; Kuykendall v. Green, 3 Col. Tenn. R. 463; Cleveland R. R. Co. v. Mara, 26 Ohio, 185; Lund v. Tyngsborough, 9 Cushing, 36.
+It is true the court izzstructed the jury not to consider this evidence, unless Conger was present. This, we think, would not cure the erz-or, there being no evidence that Clarence Conger was present. The evidence was well calculated to make a strong iznpressiozi on the minds of the juzy, and we cannot see that no mischief was done. The evidence was so nearly evenly balanced, that this evidence may have been the turning point in the minds of the juzy. Howe Machine Co. v. Rosine, 87 Ill. 105.
+In certain cases the court say that “if the jury are after-wards properly instructed, it may be the judgment need not be reversed ” on the'account of admission of improper evidence. But the judgment cannot properly be allowed to stand, “ unless the case is such that it clearly appears that no injustice or wrong has been done to the party complaining of the error.” In this case we do not think the error is cured by the instructions.
+The judgment is reversed and the cause remanded.
+Reversed and "remanded.
