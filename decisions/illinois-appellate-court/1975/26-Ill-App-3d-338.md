@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "12514"
+decided: "1975-03-20"
+citations: ["26 Ill. App. 3d 338"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry A. Kaiserman, Plaintiff-Appellee, v. Louis Kaiserman et al., Defendants.—(Louis Kaiserman, Defendant-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/26/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2782431
+cites_cases: ["131 Ill. 210", "17 Ill.App.3d 914", "23 N.E. 407", "308 N.E.2d 811"]
+---
+
+# Kaiserman v. Kaiserman
+
+## Majority (Mr. PRESIDING JUSTICE SIMKINS)
+
+Mr. PRESIDING JUSTICE SIMKINS
+delivered the opinion of the court:
+Defendant, Louis Kaiserman, appeals from an order of the circuit court granting plaintiff’s motion for attorney fees in a real estate partition action. Two issues are raised for resolution by this court: (1) Whether plaintiff’s attorneys are entitled to any legal fee contribution from defendant, and (2) Whether the trial court abused its discretion in determining the amount of the fee awarded.
+. On August 17, 1972, a partition action was brought by the plaintiff, Harry A. Kaiserman, against his brother, the defendant. The real estate in dispute was located in Springfield, Illinois, and the plaintiff arid defendant were tenants in common of said property. The matter was subsequently resolved without a healing, and on April 2, 1973,' the court entered a decree for partition of said property. The real estate in question was then sold at an auction for $158,000 following a decree for sale. On September 28, 1973, plaintiff filed a motion requesting distribution and payment of costs from the proceeds of the sale, including a request for attorney fees in the amount of $6,380. On October 17, 1973, defendant filed a motion objecting to the payment of any attorney fees or, in the alternative, the amount claimed. On October 29, 1973, the trial court entered an order distributing the proceeds of the sale. In that order the trial court overruled defendant’s objections and awarded the payment of $6,380 as reasonable plaintiff attorney fees to be paid from the proceeds of the sale.
+Section 25 of the Partition Act (Ill. Rev. Stat. 1973, ch. 106, par. 68) states:
+“In all proceedings for the partition of real estate, when the rights and interests of all the parties in interest are properly set forth in the complaint, the court shall apportion the costs among the parties in interest in the suit, including the necessary expense of procuring such evidence of title to the real estate as is usual and customary for making sales of real estate, and a reasonable fee for plaintiff’s solicitor, so that each party shah pay his or her equitable portion thereof, unless the defendants, or some of them, shall interpose a good and substantial defense to the complaint. In such case the party or parties making such substantial defense shall recover their costs against the plaintiff according to equity.” (Emphasis added.)
+This express authorization to include a reasonable fee for plaintiff’s attorney is based upon the fact that the attorney acts for all the interested parties. (Stunz v. Stunz, 131 Ill. 210, 23 N.E. 407; Lane v, Budiselich, 17 Ill.App.3d 914, 308 N.E.2d 811 (4th Dist.).) Defendant contends that the trial court erred in allowing payment of plaintiff’s attorney fees from the proceeds of the sale. We do not agree. The order directing payment of plaintiff’s attorney fees is clearly within the purview of the statute. Defendant does not allege that tire rights and interests of all parties in interest are not properly set forth in plaintiff’s complaint. Furthermore, there is nothing in the record to indicate that defendant ever asserted “a good and substantial defense to the complaint” or any type of defense whatsoever.
+Defendant further contends that an adverse relationship or animosity between the parties outside the confines of the partition suit is sufficient to convert the partition action into an adversary proceeding and, hence, sufficient to justify a refusal to contribute to the payment of plaintiff’s attorney fees. We find this argument to be without merit. In Lane v. Budiselich, supra, this court specifically stated that although personal animosity between the parties may necessitate defendant retaining counsel in a partition action, that alone does not justify the court in refusing to apportion plaintiffs attorney fees nor does it serve to convert the action into an adversary proceeding as long as the complaint fairly represents the interests of all parties and defendant does not assert a substantial defense to the complaint.
+Defendant also contends that, in the alternative, the fees awarded by the trial court were excessive. On October 19, 1973, a hearing was held. At that hearing an attorney for the plaintiff described to the court in detail the nature and extent of the legal services provided in the partition suit. Exhibits of time records kept by the plaintiff firm were introduced and admitted into evidence. The plaintiff attorney further testified that the suggested fee was fair and customary for the circumstances and the amount of work involved. William P. Roberts, a Springfield attorney for 40 years, was then called by plaintiff and testified that the suggested fee would be a reasonable and customary charge for a partition action in Sangamon County considering the facts and circumstances of the instant case. George C. Hoffman, a Springfield attorney for 44 years, was called by plaintiff and testified that the fee would be fair and customary considering the services involved. Defendant presented no evidence to contradict the testimony of plaintiff’s witnesses regarding the amount of the fee. The trial court then found the suggested fee of $6380 to be reasonable and customary considering the facts and circumstances of the instant case.
+A determination as to the amount and allowance of attorney fees is a matter left largely in the discretion of the trial court. (Lane v. Budiselich, supra.) Our reading of the record at the hearing on fees clearly indicates that there was no abuse of discretion nor was the order contrary to the manifest weight of the evidence.
+Accordingly, for the reasons stated above the order of the circuit court of Sangamon County is affirmed.
+Judgment affirmed.
+CRAVEN and TRAPP, JJ., concur.
