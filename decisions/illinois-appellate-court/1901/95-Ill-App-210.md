@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-03-11"
+citations: ["95 Ill. App. 210"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. L. Jones et al. v. D. C. Lunceford et al."]
+source_url: "https://static.case.law/ill-app/95/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5294340
+cites_cases: ["49 Ill. 270"]
+---
+
+# Jones v. Lunceford
+
+## Majority (Mr. Justice Bigelow)
+
+Mr. Justice Bigelow
+delivered the opinion of the court.
+This action was assumpsit by appellees against appellants to recover for services as clerks and salesmen for appellants.
+The suit was begun by suing out a writ of attachment on the ground that appellants were not residents of this State, and the writ was levied on some furniture, property of the firm, and was also personally served on the defendants.
+The amount of appellees’ claim, as sworn to in the affidavit for the attachment, was $109.53, and the residence of appellant Jones was stated to be Henderson, in the State of Kentucky, and the residence of appellant Bacon was stated to be Jackson, in the State of Tennessee.
+After appellants had filed their plea of general issue, they obtained leave of court and filed a joint plea in abatement, traversing the allegation of the affidavit that they were not residents of this State. The issues on the pleas in abatement and general issue were submitted to the jury together, and the findings on both were adverse to appellants. The verdict on the assumpsit was for $83.83, on which, after overruling appellants’ motion for a new trial, the court rendered judgment, and the defendants below have appealed the case to this court and assign the usual' errors in regard to the admission and exclusion of evidence, giving and refusing instructions, that the verdict is not sustained by the evidence, and others, all of which will be noticed in the order in which they are treated in the brief and argument of counsel for appellant, if we rightly understand it.
+It is conceded that appellant Jones did not reside in this State at the time the writ of' attachment was sued out and served on him; but it is insisted that appellant Bacon did reside here, and therefore it is urged that the attachment fails as to both of the defendants, and Lawrence et al. v. Steadman et al., 49 Ill. 270, is relied upon as supporting the contention. In that case the pleas in abatement of the defendants composing the firm whose property was attached were several, and the findings on the issues made on the pleas were for the defendant. Here the finding on defendants’ joint plea in abatement was for the plaintiffs; hence it is difficult to perceive wherein the case cited should control this case. Had the defendants each filed a separate plea in abatement, and the jury found in favor of defendant Bacon, on his plea, and against defendant Jones on his plea, in that case the attachment as against Bacon might have abated; but under section 7 of the attachment act, which is as follows — “In all cases where two or more persons arejointly indebted, either as partners or otherwise, and an affidavit shall be filed, as provided in the first section of this act, so as to bring one or more of such joint debtors within its provisions and amenable to the process of attachment, then the writ of attachment shall issue against the property and effects of such as are so brought within the provisions of this act, and the officer shall be also directed in said writ to summon all joint debtors named in the affidavit filed in the‘case, whether the attachment is against them or not, to answer to the said action, as in other cases of joint defendants.” The suit could not have abated as against defendant Jones, but so far as the attachment was concerned, the suit would have become severed, and that portion of it founded on the attachment writ and the levy under it, would have proceeded against him alone.
+But should it be admitted that the attachment, if sustained at all, must be sustained against both of the appellants, we do not concur in the contention of counsel for appellants, that the evidence fails to show that Bacon was a non-resident of this State; on the contrary, we think the evidence (which it is unnecessary to give in detail) was sufficient to warrant the jury in finding that both of the defendants were non-residents, and the court did not err in overruling appellants’ motion for a new trial, for the reason that the verdict, on the issue raised by the plea in abatement, was not supported by the evidence. The evidence on that question consisted mainly of statements and admissions of appellants, testified to by persons to whom they were made, and a failure by defendants to deny having made them.
+Under such circumstances, the plaintiffs asked and the court gave to the jury the following instruction:
+“ The court instructs the jury that the places of residence of the defendants are questions of issue in this case, the plaintiffs affirming and the defendants denying that the defendants were both non-residents of the State of Illinois at the time of the commencement of this suit. And the court further instructs you, that the plaintiffs had the right to act upon the statements of the defendants to them that they were not residents of the State of Illinois, if you believe from the evidence that the defendants did make such statements.”
+To which the defendants excepted and assign the giving of it as error. It can not be said that the instruction is entirely accurate, but in the view that'it meant only to tell the jury that the plaintiffs in suing out the writ of attachment had aright to rely upon the statements of the defendants as to their places of residence, as a prima facie fact, and not that such statements could not be disproved as having been made, or untrue if made, and in which sense we think the jury must have understood it, it was not so erroneous as to require a reversal of the judgment.
+We are unable to discover any error in admitting or excluding evidence.
+Uo reason is given why the court should have given appellants’ sixth instruction, and as we can discover none, but observe more than one reason why it should not have been given, further reference to it is unnecessary.
+It is finally insisted that the verdict on the assumpsit part of the case is unsupported by the evidence.
+There was no dispute that defendants employed plaintiffs as clerks and salesmen in their business, but the entire dispute was as to the amount agreed upon for plaintiffs’ services. The evidence on this point is very conflicting and we are entirely unable to say that the "finding of the jury is wrong.
+We find no error in the record requiring a reversal of the judgment and it is affirmed.
