@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-09-11"
+citations: ["97 Ill. App. 91"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Downey et al. v. Scott Arnold."]
+source_url: "https://static.case.law/ill-app/97/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5299735
+---
+
+# Downey v. Arnold
+
+## Majority (Mr. Justice Wright)
+
+Mr. Justice Wright
+delivered the opinion of the court.
+This was a suit in replevin for a piano, by appellee against appellants, and upon a trial by jury the issues were found in favor of appellee, and the damages assessed at $10, and a motion by appellants for a new trial having been overruled by the court, judgment was rendered upon the verdict, to reverse which appellants bring their appeal to this court, and to effect such reversal they argue that the verdict is contrary to the law and the evidence of- the case, the court admitted improper evidence, misdirected the jury and .refused proper instructions.
+The facts are that the piano was in the possession of Louis Arnold, a son of appellee, who was residing with his wife as a tenant upon his father’s farm, where the piano was kept in the house. The son, being indebted to the father for $1,890, gave his note and a chattel mortgage upon the piano to secure the same, and afterward, the note not having been paid, the piano was sold under the mortgage, and appellee purchased it at the sale, and left it at his son’s house where it previously had been. There being no evidence in the record concerning the real owner of the piano, except the chattel mortgage executed by Louis Arnold, it will be presumed from that fact that he was the owner of it before the mortgage was given. Appellant McCormick Harvester Machine Company obtained a judgment against Smail and Mrs. M. L. Arnold, the wife.of Louis Arnold, upon which an execution issued, and was placed in the hands of the appellant Downey, a constable, who seized the piano as the property of Mrs. M. L. Arnold, whereupon appellee, to recover the property, brought this suit. Appellants contend that the piano was household property and for such reason the mortgage was void without the wife joining therein, and that the chattel mortgage sale was void because appellee had no right to purchase at his own sale. There is no evidence tending to show that the debt represented by the judgment and execution was contracted by the wife of Louis Arnold for the expense of the family or education of the children, so as to be chargeable upon the property of . the husband, and even if this was true, the property of the husband would not be liable to be seized upon an execution to which he was not a party. If it should be conceded that both the mortgage, and the sale under the mortgage, were void as contended, still the son would have the right to give the piano to his father, if the son owned it, independently of both the mortgage and the sale thereunder, unless such gift was to defraud the son’s creditors. If both mortgage and sale were invalid as such, no reason is perceived why the actual possession of the property should not be transferred from son to father-by that means. Appellee testified that he took possession of the property, and left it at the house. This is ■ not disputed, and if the son and his creditors have made no objection to the transfer of the property in this manner, surely it is no concern of others who have no interest in or rights to the property. The evidence does not show Mrs. Arnold ever had any title to the property, whether the same constituted household goods or not, nor any interest subject to execution. The chattel mortgage act, requiring the joinder of husband and wife in a mortgage on household goods, is made for the benefit of each, and of the domestic relation, but does not operate to transfer the title from one to the other, so as to subject such property to execution against the one who does not own it.
+The evidence fails to show that Mrs. Arnold had any title to the piano, and therefore the bare possession by appellee, even if merely constructive, if with the consent of the owner, when the property was taken by appellants, was sufficient to enable him to maintain this suit, and the question that has been argued, whether a valid title was conferred upon appellee, does not arise. Possession of chattels, "is always sufficient to hold them against another who is not shown to have an interest in the property. This rule is so familiar and elementary as to need no authority in support of it.
+Ho other verdict than the one that was returned would have been proper in the case, and this being true, all other errors argued by appellants are harmless, and their consideration superseded. .
+The judgment of the County Court will be affirmed.
