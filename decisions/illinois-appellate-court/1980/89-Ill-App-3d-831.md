@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-763"
+decided: "1980-10-28"
+citations: ["89 Ill. App. 3d 831"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE ex rel. WILLIAM J. SCOTT, Attorney General, Plaintiff-Appellee, v. THOMAS L. WALSH et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/89/cases/0831-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5537491
+cites_cases: ["100 L. Ed. 511", "12 L. Ed. 2d 678", "350 U.S. 422", "378 U.S. 79", "406 U.S. 441", "57 Ill. 2d 482", "65 L. Ed. 2d 742", "66 Ill. 2d 546", "78 Ill. App. 3d 521"]
+---
+
+# People ex rel. Scott v. Walsh
+
+## Majority (Mr. PRESIDING JUSTICE SEIDENFELD)
+
+Mr. PRESIDING JUSTICE SEIDENFELD
+delivered the opinion of the court:
+The defendants appeal from an order holding them in civil contempt of court for failure to answer questions and to produce documents at a deposition where they claimed their privilege against self-incrimination. The essential question is whether the immunity granted them was sufficient to require their answer.
+The State had filed a complaint alleging that defendants’ participation in a “Circle of Platinum” chain letter operation was a deceptive and unfair practice in violation of section 2 of the Consumer Fraud and Deceptive Business Practices Act (Ill. Rev. Stat. 1979, ch. 121/2, par. 261 et seq.). The complaint sought the relief of an injunction, the appointment of a receiver and an order allowing victims of the scheme to prove and collect damages, cost of the action, and a civil penalty against each defendant of $50,000 for each violation. When the defendants refused to answer questions or produce requested documents at their deposition the State petitioned the court to grant immunity pursuant to section 106—1 of the Code of Criminal Procedure of 1963. (Ill. Rev. Stat. 1979, ch. 38, par. 106—1.) The petitions moved the court to release defendants “from all liability to be prosecuted for any criminal charges enumerated in Ill. Rev. Stat., 1977, Ch. 38, §1 et seq on account of any testimony or other evidence which he [they] may be required to produce.” The trial court allowed immunity “pursuant to Sections 106 — 1 and 106 — 2 of Chapter 38 of the Illinois Revised Statutes, e ° ” as prayed in the petition.”
+The State filed a motion to compel defendants to answer questions and produce documents which was granted. However, the defendants again refused to comply, and the State filed a petition for a rule to show cause why they should not be held in contempt. The court ordered defendants to comply with its previous orders or be held in contempt. Defendants again refused to comply and were found to be in civil contempt of court and ordered to jail until they answered. The jail sentence was stayed pending appeal. The defendants contend that the grant of immunity from use of any information or documents in proceedings brought under the Criminal Code was not coextensive with the privilege against self-incrimination in that they may still be subject to certain penalties in the civil proceedings which, they claim, are criminal in nature.
+The State’s position is that sections 106—1 and 106—2 (Ill. Rev. Stat. 1979, ch. 38, pars. 106—1, 106—2) grant full transactional immunity, and that this is actually broader than the scope of the privilege against self-incrimination. (See Kastigar v. United States (1972), 406 U.S. 441, 32 L. Ed. 2d 212, 92 S. Ct. 1653, 1661.) Thus, the State argues, the testimony may be compelled. (See Ullmann v. United States (1956), 350 U.S. 422, 100 L. Ed. 511, 76 S. Ct. 497, 502-03.) The State further contends that the question as to whether a particular penalty may be. imposed is not germane to the present action. We agree.
+The petition which sought the grant of immunity speaks only of immunizing the defendants against any criminal charges under the Criminal Code, relating, however, that the petition is brought under the immunity statutes. The order granting immunity further recites that it is pursuant to the provisions of the immunity statutes. Those statutes state as material:
+“° * * In any investigation before a Grand Jury, or trial in any court, the court on motion of the State may order that any material witness be released from all liability to be prosecuted or punished on account of any testimony or other evidence he may be required to produce.” (111. Rev. Stat. 1979, ch. 38, par. 106 — 1.)
+“° * 0 Such order of immunity shall forever be a bar to prosecution against the witness for any offense shown in whole or in part by such testimony or other evidence except for perjury committed in the giving of such testimony.” 111. Rev. Stat. 1979, ch. 38, par. 106 — 2.)
+“* e * Any witness who having been granted immunity refuses to testify or produce other evidence shall be in contempt of court subject to proceedings in accordance to law.” Ill. Rev. Stat. 1979, ch. 38, par. 106 — 3.
+The quoted sections provide full transactional immunity. (People ex rel. Cruz v. Fitzgerald (1977), 66 Ill. 2d 546, 550.) The fact that the State limited its request to charges under the Criminal Code, or that the court, after granting the statutory immunity somewhat ambiguously added “as prayed in the petition,” does not limit the immunity. Since the full transactional immunity is granted pursuant to statute, it cannot be “transmuted” by the State or by the court into less than transactional immunity. People ex rel. Cruz v. Fitzgerald (1977), 66 Ill. 2d 546, 550-51. See also In re R. L. W. (1979), 78 Ill. App. 3d 521, 523-24.
+We therefore conclude that the defendants are compelled to answer and produce documents in their deposition or suffer the penalty of contempt. They urge that we decide that the penalty sought by the State be deemed to be criminal in nature and thus immunized. We do not reach this question, however.
+Penalties may not result from further action. If they are imposed, the defendants may then interpose the defense that they are a form of punishment, criminal in nature, though invoked in the guise of civil proceedings. They would then be insulated by the grant of full transactional immunity. And if the penalties are imposed and are found to be civil in nature and therefore not insulated by the transactional immunity, the defendants would not be deprived of their right to appeal on this issue. The relief by injunction and restitution if ordered would not in any event be criminal in scope under the circumstances of this case.
+The judgment holding defendants in contempt until they comply with the court’s order is therefore affirmed. The cause is remanded with the directions to offer defendants the further opportunity to comply in the light of this opinion. Cf. Murphy v. Waterfront Com. (1964), 378 U.S. 79,12 L. Ed. 2d 678, 84 S. Ct. 1594,1610.
+Affirmed and remanded with directions. .
+UNVERZAGT and NASH, JJ„ concur.
+Should the trial court be required to reach this issue on remand it will not be without guidelines. See United States v. Ward (1980),_U.S__, 65 L. Ed. 2d 742,100 S. Ct. 2636, 2640-44. See also City of Monmouth v. Pollution Control Board (1974), 57 Ill. 2d 482, 482-85.
