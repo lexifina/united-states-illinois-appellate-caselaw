@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-12-10"
+citations: ["99 Ill. App. 272"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Gilmore v. Morris W. Fuller."]
+source_url: "https://static.case.law/ill-app/99/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2605387
+---
+
+# Gilmore v. Fuller
+
+## Majority (Mr. Presiding Justice Harker)
+
+Mr. Presiding Justice Harker
+delivered the opinion of the court.
+While the plaintiff .in error, Charles Gilmore, and Morris W. Fuller were engaged with other young men in a charivari of a newly married couple, Fuller was accidentally shot by a revolver in the hands of Gilmore. Fuller, by his next friend, Hollis D. Fuller, brought suit against Gilmore and recovered a judgment of $1,500. The case is brought to this court by writ of error, and a reversal of the judgment is urged upon two grounds :
+1. The parties were jointly engaged in an unlawful act, disturbing the peace and quiet of a family in the night time; and for that reason there could be no recovery unless the shooting was intentional.
+2. The shooting was purely accidental and was accompanied by no negligence upon the part of plaintiff in error.
+The evidence shows that on February 2, 1898, ten or twelve boys in the neighborhood of DeLand met at a school house to engage in a charivari of a newly married couple at the house of Daniel Hirsch, a farmer living a half-mile distant. They provided themselves with bells, pans, plowshares and other implements for making a noise. Gilmore and Fuller were among the party. They reached Hirsch’s house in a body between nine and ten o’clock. They were met at the gate by Hirsch’s hired man, who, under the direction of Hirsch, told them not to shoot off fire-arms, as it would frighten the horses that were hitched there. There appears to have been no objection to the noise or the conduct of the boys, except as to the use of fire-arms. Shortly after the noise had begun, Gilmore began shooting a revolver. After he had shot several times, one of the cartridges failed to explode. He was holding the pistol in the air. While he was either in the act of bringing it down or unbreaching it, it exploded, and shot Fuller in the face near the eye. There is a conflict in the testimony as to whether the explosion occurred while he was bringing the revolver from the perpendicular position in which he had been holding it, or while he was making an effort to unbreach it with both hands at about the level of his waist, but the preponderance shows that it occurred while he was in the act of unbreaching it. He was, at the time, facing Fuller and one or two others, not more than eight feet distant.
+While the conduct of a party engaged in a charivari may, under certain circumstances, be reprehensible, there is nothing in the evidence in this case to justify the contention that the conduct of Fuller was so reprehensible as to preclude a right of recovery on his part, save for an intentional shooting. Ueither Mr. Hirsch, nor any of his family, so far as the evidence discloses, objected to the young men engaging in a charivavi of the newly married couple. Ho objection was made to the ringing of the bells, or the beating of the pans or the plowshares. The only objection made was to the use of fire-arms. Under the circumstances, Fuller was doubtless led to believe that while the use of bells and pans would be indulged in as a harmless amusement, the request of Mr. Hirsch would be respected and no fire-arms used. Therefore, if his injury was the result of Gilmore’s negligence he was entitled to recover, whether Gilmore intended to shoot him or not.
+The defendant insists that the shooting was purely accidental and accompanied by no negligence. The boys were, with others, at the time of the shooting, near the house. It was a clear night; snow was on the ground. Gilmore was facing Fuller not more than eight feet distant and could easily see him. After discovering that at the last time he snapped the trigger, the pistol failed to respond, he should have been extraordinarily careful when he took it down to examine it. It was negligence for Gilmore to hold or have the muzzle in the direction of Fuller. • In the use of fire-arms a higher degree of care is required than in the use of ordinary things. As a general rule, one handling a fire-arm should always look in the direction in which he points the muzzle before manipulating the piece; he should look before he points. It is negligence to point the barrel of a loaded gun toward another. In this case, Gilmore could plainly have seen Fuller by the exercise of ordinary prudence. Upon discovering that the pistol was not working properly, Gilmore was put upon his guard. Then, he should have exercised even a higher degree of care than is usually required in the use of deadly weapons. He was negligent in not ascertaining, before he lowered the revolver, that no one was in front of it. Judgment affirmed.
