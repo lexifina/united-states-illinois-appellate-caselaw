@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-12-12"
+citations: ["49 Ill. App. 564"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maxwell v. Willett et al."]
+source_url: "https://static.case.law/ill-app/49/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5126503
+cites_cases: ["110 Ill. 235", "132 Ill. 550", "31 Ill. 490", "4 Scam. 21", "77 Ill. 525"]
+---
+
+# Maxwell v. Willett
+
+## Majority (Cartwright, J.)
+
+Opinion of the Court,
+Cartwright, J.
+Appellant filed his bill to foreclose a trust deed made by appellees to secure a note of appellee Abrabam A. Willett, made March 1, 1876, for $1,400, due one year after date, with interest at ten per cent from maturity. The defendants answered the bill, admitting the execution of the note and trust deed, setting up usury, and alleging that the transaction was a loan of §1,246, for one year, on which $154 interest was taken, making up the amount of the note, and averring that the $1,246 had been paid.
+A cross-bill was also filed alleging usury and payment of the principal, and praying for a release of the trust deed. The cross-bill having been answered, the cause was referred to the master to take and report proofs, and to state an account with his findings. The 'evidence Was taken by the master, who found and reported to the court on the question of usury as follows; “ The amount actually loaned in this case was $1,260, and the interest reserved by the complainant $140, being eleven and one-ninth per cent interest for one year on said amount actually loaned, or $14 more than ten per cent, the legal contract rate of interest at that time. I therefore find the transaction was usurious.” The master further found that the rate of interest on the note was reduced by complainant to eight per cent at some time not determined by the master, and he proceeded to state an account crediting defendants as against said supposed principal of $1,260, with the amounts paid and endorsed on the note as interest, from which statement he found that the note had been over-paid to the amount of $215.22.
+Appellant objected to these findings on the question of usury, but the objections were overruled, and upon like exception before the court the report was confirmed and it was decreed that complainant’s bill be dismissed at his costs, and that the trust deed should be released of record. From that decree this appeal was prosecuted. The evidence taken and returned by the master affords no support to the answer of defendants or to the findings of the master on the claim of usury. The answer averred that the contract was for the loan of $1,246 for one year, and that complainant took the note for $1,400, with interest after due at ten per cent, and retained $154 as interest, which would be a retention of ten per cent interest on the $1,400, and ten per cent on such interest. The evidence entirely failed to sustain that allegation. The defendant, Abraham A. Willett, testified that the contract was that he was to pay complainant ten per cent in advance; that there was no other interest included; that the interest was to be and was paid in advance, ft is beyond question that Willett received $1,260, and $140 Avas retained. Counsel, in the examination of Willett, by stating to him the proposition that the consideration of $1,400 was made up of the principal sum of $1,260, and ten per cent on that for a year, making $126, and ten per cent on the $126, making $12.60, obtained his assent to it. Inasmuch as the addition of those amounts did not produce $1,400, and the statement was at variance Avith his testimony as to the contract, his assent to it was evidently a mistake. The note was taken for $1,400, and drew no interest until due, one year after date; ten per cent of that amount was retained and the balance was paid over. That a lender may so retain interest in advance is the settled rule of laAV in this State. McGill v. Ware, 4 Scam. 21; Goodrich v. Reynolds, 31 Ill. 490; Mitchell v. Lyman, 77 Ill. 525; Brown v. Scottish Am. Mort. Co., 110 Ill. 235.
+Iii every case where the highest contract rate of interest allowed by law is taken in advance out of the principal, if interest is computed on. the remainder, as it is sought to have done in this case, it would not equal the amount retained. The fact that $140 would amount to eleven per cent on such remainder, and that complainant stated that self-evident fact when the loan was made, would not change the rule of law, or abridge complainant’s rights. He had a right to do what he did without making the contract usurious. The finding of the master and the court could only be sustained by denying the right to take payment in advance of a lawful rate of interest, and as the law is settled otherwise, the decree will be reversed and the cause remanded.
