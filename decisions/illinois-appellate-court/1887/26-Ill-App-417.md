@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-11-18"
+citations: ["26 Ill. App. 417"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Doretta Behrens v. William H. Hoxie et al."]
+source_url: "https://static.case.law/ill-app/26/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4941286
+cites_cases: ["115 Ill. 199", "115 Mass. 60", "54 N. Y. 444", "75 Ill. 123"]
+---
+
+# Behrens v. Hoxie
+
+## Majority (Congee, P. J.)
+
+Congee, P. J.
+On the 3d day of March, 1873, appellee Hoxie and one Hessel, being adjacent land owners, entered into the following agreement:
+“This agreement made this 3d day of March, 1873, between William Hoxie, of the first part, and Gustavos E. Hessel, of the second part, both of the County of Champaign and State of Illinois, witnesseth: That whereas the said Hoxie is the
+owner of lot Ho. 12, and said Hessel is the owner of lot Ho. 11, both in Illinois Central Railroad Company’s second addition to Urbana, now in the city of Champaign, in said county, and said Hoxie has at his own entire cost and expense, and with the consent and agreement of said Hessel, erected the west wall of a brick building on said lot 12, the center of which wall is upon the line between said lots, so that the west half of said wall is on said lot 11, and is intended for a partition wall, said wall is ninety-seven feet deep by sixteen inches at the base and twelve inches above the base or basement. How it is hereby agreed by and between said parties that 'whenever said Hessel, his grantees, heirs or assigns, or other persons owning or controlling said lot 11, shall desire, or attempt, to build or cause to be erected on said lot 11, a building, so as to connect with and use said west wall as and for a partition wall, he, or they, shall first pay, or cause to be paid, to said Hoxie, the full one-half of the value of said west wall on said lot 11; that the covenants of this agreement shall run with the said lot 11, and are intended to bind said Hessel and whoever may own said lot 11, when said partition wall shall be used as such. And said Hessel agrees in conveying said lot 11, should he do so to any person or persons, to require in his deed for said lot 11, the grantee or grantees thereof to keep and perform this agreement and pay for one-half of said west wall as aforesaid.
+(Signed) “William Henry Hoxie,
+“Gustayüs E. Hessel.”
+Doretta Behrens afterward became the owner of lot 12 by mesne conveyances, thereby acquiring the title of Hoxie, and appellee Ahrens became the owner of lot 11 by deed from the heirs of Hessel.
+Appellee, desiring to erect a building on lot 11, and make use therein of the party wall, after an unsuccessful effort to obtain appellant’s consent to fix the amcmnt he should pay for said wall by arbitration, filed a bill, which, after being amended, made both Mrs. Behrens and Hoxie defendants, representing that they were both claiming for the value of one-half the wall, .and asking that they interplead, and that the court might determine which one of them was entitled to said money, and for other relief. Answers were filed, evidence heard, and the Circuit Court decreed that appellee Ahrens pay to appellee Hoxie 8125.92, being the one-half of the value of the party wall; from which decree appellant appeals. It would seem that the case of Gibson v. Holden, 115 Ill. 199, governs the one at bar. But it is insisted with great earnestness by counsel for appellant, that this case falls within the exception or qualification contained in the decision of that case, in the following language:
+“ Cases, therefore, where parties are, by the deed under which they take title, given one-half of a wall as a party wall, when or upon condition of making payment, and cases in which the owner of one lot has licensed the owner of the adjoining lot to build a wall for himself, resting one-half of it on each lot, and reserving the privilege of thereafter purchasing one-half the wall as a party wall, are not analogous. In all such cases the title to the whole wall may be regarded as appurtenant to the lot of the builder, and so passing by every conveyance of it, until a severance of the half by the payment of the purchase money. The sale of the half of the wall does not occur, nor the title to it pass, in those cases, until the payment is made, and so necessarily it is, constructively, a sale by the assignee of so much of the wall. His right to the purchase money is not because he is the assignee of a covenant running with the land, but because he is the vendor of so much of the wall.”
+Whether the words, a in all such cases,” refer to the first or second class of cases alluded to, is not entirely clear, hut we do not think the present case falls within either. ¡Neither Hessel nor his grantee are to take title to one-half of the wall, when or upon condition of making payment therefor, nor does he reserve to himself and his grantees the privilege of thereafter purchasing one-half of the wall as a party wall. The agreement declares that the wall “is intended for a partition wall.” When? At the time of executing the agreement. Therefore the wall at once became and remained the several property of the owner of each half, qualified by the easement of support. Ingalls v. Plamondon, 75 Ill. 123.
+It is not the title to one-half the wall for which Hessel or his grantees are to pay, but the use of it. When he or his grantees shall desire to build on lot 11, “ so as to connect with, and nsesaid west wall, he or they shall first pay or cause tobe paid to said Hoxie the full one-half of the value of said west wall.”
+That Hoxie could have no title to the part of the wall resting upon Hessel’s lot is clear, because the agreement between them being but a simple contract would not convey title to the realty upon which it stood, but could operate only in law as a license. Joy v. Boston Savings Bank, 115 Mass. 60.
+When Hoxie conveyed to Mrs. Behrens, he conveyed all his interest in lot 12, and, as appurtenant thereto, in the party wall. For this interest she paid and got all that she paid for. Ho reason is perceived why she should also receive payment for some portion of the cost of building the party wall.
+Hessel agreed for himself, his heirs, assigns or grantees, that whenever he, or they, should desire to make use of the wall thus erected upon his land at the expense of Hoxie, he, Hoxie, should be repaid the amount thus expended. It was a personal agreement with Hoxie, a chose in action which was due, or might be due him.
+It was in no way attached to the Hoxie lot. The money to be paid was not for anything done upon or to the Hoxie lot, but for something which had been done upon the Hessel lot, and it no more passed to Hoxie’s grantee than it would if Hoxie had built a house upon the Hessel lot, using the party wail.
+The agreement to pay was in no sense for the benefit of the . Hoxie lot, but solely for the benefit of Hoxie, and therefore did not pass to the grantees of his lot. Cole v. Hughes, 54 N. Y. 444.
+The decree of the Circuit Court will be affirmed.
+Decree affinned.
