@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-09-20"
+citations: ["71 Ill. App. 467"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Phebe Mathews v. Elmer Granger."]
+source_url: "https://static.case.law/ill-app/71/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2451016
+cites_cases: ["66 Ill. App. 121"]
+---
+
+# Mathews v. Granger
+
+## Majority (Mr. Presiding Justice Crabtree)
+
+Mr. Presiding Justice Crabtree
+delivered the opinion of the Court.
+Appellee brought an action of replevin in the Circuit Court, to recover the possession of certain farm products, as well as a horse and heifer, which had been taken from him by appellant under a chattel mortgage executed to her by appellee.
+The case was before us on a former appeal, and was then reversed for erroneous instructions given by the court. The facts of the case sufficiently appear in our former opinion (66 Ill. App. 121) and it is unnecessary to here repeat them.. The only material difference in the evidence appearing on the last trial from that on the former one, is, that there is now some testimony in the record as to oral permission having been given to appellee, by appellant, to use a portion of the oats in controversy; and it also appears that all rent due appellant has been fully paid since the commencement of this suit. So far as the last point is concerned, it is only to be remarked that the rights of the parties must be determined according to the condition of things as they were at the time the suit was instituted.
+On the last trial the Jury returned a verdict against appellant, and as we think, against the evidence and the instructions of the court. When the case was here before, we were of the opinion the evidence showed a sufficient justification to appellant to take the property under her chattel mortgage. We see no reason for changing our opinion as the record now stands. Unless the appellee can prove by a preponderance of the evidence that he had permission from appellant to use the oats, she certainly was justified in foreclosing her chattel mortgage. We do not think appellee must necessarily prove that such permission was given in writing, although the court so instructed the jury. If this were the law, then clearly the verdict should have been set aside, for there was no pretense that any permission was given in writing. But, under the circumstances of the case, we think it would be sufficient for appellee to prove an oral permission to use a portion of the oats, to be replaced by others, as this would be nothing more than a mere loan or exchange, and would not in any way violate or change the terms of the mortgage. The testimony upon this question of permission, however, is squarely contradicted by appellant, and while that was a question for the jury, yet there was some confusion in the instructions which may have misled the jury and caused them to come to a wrong conclusion. For instance, the second and third instructions given for plaintiff below, told, the jury, in substance, that before the defendant had the right to take the' property in question under her chattel mortgage, she must show by a preponderance of the evidence that some one or more of the conditions of the mortgage “ was violated by the defendant.” This was no doubt a clerical error in drawing the instructions. The court and counsel readily understood what was intended, and the objection may seem technical, but we can not say the jury were not misled. They would naturally understand the instructions to mean what they said, and if so, they would surely be led into error. ISTo argument can justify these instructions, and they should not have been given. Counsel for appellee do not defend them, and in fact, say nothing about them; nothing that could be said would avail to do away with their injurious character and probable effect.
+The first instruction given for plaintiff was erroneous in leaving it to the jury to decide for themselves what was a wrongful taking, without informing them what would be such wrongful taking. The instruction was as follows:
+“You are instructed that this is an action of replevin brought by the plaintiff, Elmer Granger, against the defendant, Phebe Mathews, to recover the possession of the property described in the affidavit, writ and declaration. The plaintiff claims he was in the lawful possession of the property, and that the defendant wrongfully took and unjustly detained the same. And the court instructs you that to entitle the plaintiff to recover in this action, it is only necessary for him to show that the property was taken wrongfully from his possession by the defendant or by some one acting for her, and if you believe from a preponderance of the evidence that it was so taken, you will find the defendant guilty.”
+Under this instruction the jury would have the right to judgé for themselves what was a wrongful taking, and inasmuch as there was no question about the fact that appellant had taken the property in dispute, the jury might, without enlightenment as to what constituted a wrongful taking, suppose that this action of appellant’s amounted thereto.
+We are of the opinion the case should be submitted to another jury to be tried upon correct principles and under instructions free from the errors indicated. The judgment will therefore be reversed and the cause remanded.
