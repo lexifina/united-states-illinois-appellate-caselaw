@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "74-174"
+decided: "1975-11-10"
+citations: ["33 Ill. App. 3d 258"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Joseph Abraham, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/33/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2875483
+---
+
+# People v. Abraham
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court:
+This is an appeal by Joseph G. Abraham, Sr., petitioner, from an interlocutory order of the circuit court of Peoria County denying his request for the return of his books and records, the temporary custody of which had been granted to the States Attorney of Peoria County.
+The October, 1973, term of the Peoria County grand jury was extended by court order to March 29, 1974, at the request of the grand jury. This grand jury was investigating activities of public officials and private citizens in connection with the issuance of liquor licenses in the City of Peoria, Illinois. During the course of the grand jury investigation, the petitioner, Joseph G. Abraham, Sr., voluntarily turned over to an agent of the grand jury certain business records of his business, Joseph Abraham and Sons Amusement Company, for the grand jury’s use in its investigation. In addition to these records, certain other records were obtained from the petitioner’s accountant, Robert Haungs, by a subpoena duces tecum. These records were used extensively by the grand jury in its investigations and resultant indictments against Joseph G. Abraham, Sr. As stated above, on March 29, 1974, the grand jury, after its investigation, including investigation of the records in question, returned a multicount criminal indictment against the petitioner, which charges are now pending in Peoria County Circuit Court. The indictments included charges for conspiracy and bribing a public official in connection with the issuance of liquor licenses. After the indictments were returned, the grand jury was discharged from further duty. On April 3, 1974, Abraham filed a Petition for Return of Property, asking that the Circuit Court of Peoria County order the records in question, then in the possession of the Peoria County State’s Attorney, to be returned to him. Several orders were entered by the Circuit Court of Peoria County in connection with this petition, one of which granted the temporary custody of these records to the State’s Attorney of Peoria County, pending the disposition of the petition. Finally, apparently unable to reach a decision as to whether or not the records should be returned, the Circuit Court of Peoria County entered the Order for Interlocutory Appeal under Supreme Court Rule 308, requesting this court issue an opinion to determine who is entitled to possession of the records in question.
+According to petitioner-appellant, the trial court should have ordered the return of his books and records because no custodial order with respect thereto was entered prior to the expiration of the grand jury term. Because the grand jury, the entity which had custody of such books and records, was an arm or element of the circuit court, its dissolution transferred the cons tractive possession of such books and records to the court itself for the benefit of the owner of such books and records, namely, the petitioner. It follows, according to petitioner, the court should therefore order the return of his books and records. The petitioner places great significance upon the fact that at least parts of the records were voluntarily turned over to the grand jury with the initial understanding that they would be returned when the inquiry was completed. Consequently, he argues these books and records are in a different category from those which might have been seized by search warrant or produced by subpoena duces tecum or produced by order of court. The argument of the State is that there is presently pending a criminal case in Peoria County and that the books and records being potential evidence in such case should be retained in the custody of the State’s Attorney for that purpose.
+We do not believe the failure of the trial court to enter a custodial order prior to the expiration of the grand jury term thereby deprives the trial court of jurisdiction to make subsequent custodial orders. If, as the petitioner concedes, the court has constructive possession of such books and records upon the expiration of the grand jury term, we believe the court had ample authority to enter appropriate orders requiring such books and records be retained if the facts required, or ordering their return if their further retention was unjustified.
+During the oral arguments in this case it appeared the petitioner conceded the State might well have the right to use the books and records in the pending criminal proceeding and that in fact a narrower issue was presented, namely, who should be required to pay for the copying of such books and records. According to the petitioner he needed such books and records for the purpose of carrying on his business, filing his tax returns and otherwise keeping track of his affairs. The State’s Attorney conceded the petitioner had and should have access to such books and records at any reasonable time and could make copies thereof at the petitioner’s expense. No authorities are cited by either party regarding this issue.
+Where, as in the instant case, the State has deprived the owner of the use and possession of his books and records and the same are being retained to be used as evidence in a pending criminal case against the owner, we conclude such retention is significantly for the benefit of the State. If this be the case then we believe the State should be responsible for remedying the loss and inconvenience to the owner. Because such retention is for the benefit of the State, the cost of supplying copies to the owner should be borne by the State.
+For the foregoing reasons the order of the circuit court of Peoria County granting custody of the books and records to the State’s Attorney is modified to additionally provide that the State’s Attorney shall supply copies of such books and records as requested by appellant, Joseph Abraham, without cost to him. The order as so modified is affirmed. The judgment of said court denying appellant’s petition for return of his books and records is affirmed.
+Judgment modified and affirmed.
+BARRY, J., concurs.
+
+## Concurrence (Mr. JUSTICE STENGEL,)
+
+Mr. JUSTICE STENGEL,
+specially concurring:
+I agree with the majority that appellant’s petition for return of his books and records should be denied. However, I disagree that the cost of supplying copies to the owner should be borne by the State. No authority is cited in support of this conclusion. Although retention of appellant’s record is for the benefit of the State, we cannot ignore the fact that copies would be of benefit only to defendant.
+In the case of material in the State’s possession which must be disclosed, Supreme Court Rule 412 (Ill. Rev. Stat., ch. 110A, § 412(e)) provides:
+"(e) The State may perform these obligations * * * by:
+(i) notifying defense counsel that material * * * may be inspected, obtained, tested, copied, or photographed . * * *; and
+(ii) making available to defense counsel * w * suitable facilities or other arrangements for inspection, testing, copying, and photographing of such material and information.”
+The Committee Comments explain Rule 412(e) as follows:
+"The State need not send copies to defense counsel * * *. It must, however, * * * permit — and provide suitable facilities or other arrangements for — inspection, testing, copying and photographing the material or information.” Ill. Ann. Stat. ch. 110A, § 412, at 172 (Smith-Hurd 1975 Supp.).
+I believe the State should have no greater burden imposed upon it in the case before us than is required under Rule 412. Considering the voluminous quantity of material involved here, it is obvious that charging the County with the cost of furnishing copies to defendant could work a severe hardship on the County treasury and, furthermore, would invite abuse. I would require defendant to bear the cost of copying the material he needs.
