@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 15,675"
+decided: "1911-10-03"
+citations: ["163 Ill. App. 82"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph R. Noel, Plaintiff in Error, v. Security Bank of Chicago, Defendant in Error."]
+source_url: "https://static.case.law/ill-app/163/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2736999
+cites_cases: ["247 Ill. 490"]
+---
+
+# Noel v. Security Bank
+
+## Majority (Mb. Justice Smith)
+
+Mb. Justice Smith
+delivered the opinion of the court.
+Plaintiff in error, Joseph E. Noel, proprietor of and doing business as the Northwest Savings Bank, in the city of Chicago, sued the Security Bank of Chicago in the Municipal Court of Chicago, to recover back $508.84, the amount paid by the plaintiff on a certain check drawn by David Goldstein. The plaintiff claimed that Goldstein had forged the name of the payee of the check in the endorsement thereon. On the trial the Municipal Court found the issues for the defendant and entered judgment for costs against the plaintiff.
+The evidence tends to show that Goldstein had an account at the plaintiff’s bank prior to January 11, 1908, and on that date applied to the plaintiff to reopen his account in his bank and loan him $1,000 on his note. This the plaintiff agreed to do after taking from Gold-stein a written statement of assets and liabilities, and stipulating that all checks against Goldstein’s account must be countersigned by either E. H. Brunkhorst or A. Danielson, clerks in plaintiff’s bank. Plaintiff loaned Goldstein $1,000 which, less the discount, amounted to $981. This amount together with the sum of $253.31 deposited by Goldstein was placed to Gold-stein’s credit. On January 13, 1908, Goldstein drew a check to the order of L. Schenitz, a creditor of Gold-stein’s named in'his written statement, and the check was countersigned by Brunkhorst. Goldstein procured the check to be certified by plaintiff and then endorsed the name of the payee on the check and delivered it to the defendant in error, which collected the amount of the check from plaintiff in error. The payee never received the check and never had any interest in it. G old-stein testified that he did not intend the payee should have any interest in the check, and that he owed the amount thereof to the Security Bank of Chicago for a note which he had discounted there. Goldstein had to his credit with plaintiff in error when the check was drawn $1,234.31.
+The facts in this case are not in controversy. The questions presented are therefore questions of law. Counsel for plaintiff in error in his brief states the ultimate question presented very concisely as follows: “All the issues raised in this case might be properly reduced to the following simple question of law-—Was the delivery of the check by Goldstein to the Security Bank of Chicago such a delivery as would pass title to the check?”
+In support of his contention that the delivery to defendant in error did not pass title to the check, counsel for plaintiff in error urges that Goldstein was not the maker of the check, but was only a co-maker with Brunkhorst the countersigner, and that Goldstein could' not alone change the purpose of the instrument after it was countersigned by Brunkhorst. With this contention we cannot agree. On the evidence in the record the countersigning of the check by Brunkhorst did not make him a co-maker of the check or give him any authority over it. By his acceptance written on the face of the check plaintiff in error agreed that he would pay it according to the tenor of his acceptance, and by Section 62 of the Negotiable Instruments Act, admitted the existence of the drawee, the genuineness of his signature, his capacity and authority to draw the check, and the existence of the payee and his then capacity to endorse it.
+The question then remains whether the check by Goldstein’s endorsement of the name of the payee upon the back thereof made the instrument payable to bearer so that the title to it passed to the Security Bank, defendant in error, by mere delivery by Goldstein in payment of his indebtedness to defendant in error.
+The evidence shows that Goldstein had no authority from the payee to endorse his name on the check; that Goldstein did not intend that the payee should have any interest in the check, and the payee never received it and had no interest in it. Under these facts which are not controverted the endorsement of the payee’s name by Goldstein rendered the check payable to bearer and the title thereto passed to the Security Bank, defendant in error, when Goldstein delivered it (Bartlett v. First National Bank, 247 Ill. 490).
+By paragraph 3 of section 9 of the Negotiable Instrument Act of 1907, an instrument is payable to bearer, when it is payable to the order of a person known by the drawer or maker to be fictitious or nonexistent or of a living person not intended to have any interest in it. By this prpvision of the statute the check on the evidence in the record became payable to bearer upon the endorsement by Goldstein of the name of the payee who he intended should have no interest in it, and the title passed to the defendant in error by the delivery of the check to it.
+Error is assigned and urged in argument that the court erred in excluding Goldstein’s written statement to plaintiff in error showing his liability to the payee of the note. We do not think the ruling of the court was erroneous. The statement was immaterial to the issues.
+Errors are assigned upon the refusal of the trial court to hold the propositions of law submitted on behalf of plaintiff in error, and in holding each of the propositions of law submitted on behalf of defendant in error. In our opinion the court did not err in its rulings on the proposition of law submitted, but we do not take the time to discuss these rulings further than we have discussed them above for the reason that regardless of whether the holdings of the court were correct or incorrect we.are required by section 23, paragraph 8 of the Municipal Court Act to decide the case upon the merits, and in our opinion the case was correctly decided by the trial court, and the judgment is affirmed.
+Affirmed.
