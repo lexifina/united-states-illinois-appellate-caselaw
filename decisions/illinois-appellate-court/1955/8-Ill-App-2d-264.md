@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Term No. 55-0-25"
+decided: "1955-12-22"
+citations: ["8 Ill. App. 2d 264"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARDENS, P. J. and CULBERTSON, J., concur."]
+parties: ["In the Matter of Herschel S. Green, Trustee Under Will of Martha Green, Deceased. Oscar L. Green, Plaintiff-Appellant, v. Herschel S. Green, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/8/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5151025
+cites_cases: ["218 F.2d 130", "305 U. S. 456", "311 Ill. App. 562", "348 Ill. App. 324", "349 U. S. 917", "385 Ill. 599"]
+---
+
+# Green v. Green
+
+## Majority (JUSTICE SCHEINEMAN)
+
+JUSTICE SCHEINEMAN
+delivered the opinion of the court.
+This is an appeal from an interlocutory order of the circuit court restraining and enjoining Oscar L. Green and others from proceeding with certain litigation in the United States District Court for the Eastern District of Illinois.
+The order denied a motion to dismiss the cause, added additional parties plaintiff, issued an injunction restraining the further prosecution of a case involving the same parties in the United States District Court, and restraining the plaintiff from interfering in any manner with Herschel S. Green in the administration of the Martha Green and James Green Trusts. The order further indicated that the purpose of the court was subsequently to hear and determine the questions involved in the original cause. A motion to vacate the order and dissolve the injunction was denied.
+These orders were not in an original action for injunction. They were entered in a suit brought 6 years before by Oscar L. Green as sole plaintiff, against Herschel S. Green as sole defendant. Therefore, the injunction was procured by a party designated as defendant, and against Oscar L. Green and others designated as plaintiffs. This designation will be followed in this opinion.
+The “others” above referred to as additional plaintiffs, did not voluntarily join in this suit as plaintiffs or otherwise. They are residents of Texas. At the request of defendant the circuit court ordered that they were joined as additional “parties plaintiff.” This was part of the same order which allowed the injunction, prior to which they had not been in the case for any purpose whatsoever, although they were trust beneficiaries.
+The original suit by Oscar had sought an accounting from Herschel as trustee of the Martha Green Trust. Thereafter, Herschel filed several reports and accounts, which appeared to indicate that he had intermingled the affairs of that trust with another, called the James A. Green Trust. In 1951, Oscar filed a motion to dismiss this suit, when there was no answer or counterclaim on file, and a few days thereafter, he and the other beneficiaries filed the suit in the federal court which is now enjoined. The motion to dismiss was not acted upon.
+In the federal suit, plaintiffs sought a decision as to their rights in the James Trust, an accounting therein, the removal of the trustee, the appointment of a new trustee, and a personal judgment against Herschel in the Martha Green Trust.
+The defendant contested the action on several grounds, including the claim of prior jurisdiction in the state court, that there was no diversity of citizenship, and also filed a counterclaim against Oscar.
+Several hearings were held and the United States District Court recognized the principle of comity that a state or federal court will not permit a proceeding in rem when the other court has acquired prior jurisdiction thereof. The court held that the suit in state court for accounting was in personam, not in rem; that the James Green Trust was not involved therein at all; that, in the intermingling of funds, the trustee could not, by his own tortious act, bring the res into that suit; that the state court could not decide a proceeding to remove a trustee when not all the beneficiaries were parties.
+During the federal proceedings the defendant filed his written resignation as trustee in both trusts and consented to the appointment of a new trustee. Some days later the federal court appointed a new trustee with consent of all parties. The defendant filed additional motions in the federal court, including an attack upon diversity of citizenship of the parties. The rulings were adverse, and he then appealed to the United States Court of Appeals, which reviewed all of the proceedings at length. The decision, reported in 218 F.2d 130, sustained the decree of the district court in all respects. Defendant petitioned the United States Supreme Court for Writ of Certiorari, which was denied. Green v. Green, 349 U. S. 917. Rehearing denied May 31, 1955. There followed the proceedings now on review in this court. During the pendency of the federal appeals, defendant had filed amended and supplemental reports in the state court as “trustee” more than two years after his resignation.
+The briefs on file in this court present the same questions litigated in the federal courts (except the question of diversity of citizenship, there being no assertion that such question can be reviewed in a state court). This court does not find it necessary to consider all of the involved procedure and all of the questions presented. In particular, this court does not now consider the question whether the defendant could have enjoined the federal proceedings by presenting the question in the state court when the federal case was first filed. That was the action taken in Princess Lida v. Thompson, 305 U. S. 456, 59 S. Ct. 275, relied upon by defendant. The case is not in point.
+The defendant did not take such action. Instead he proceeded to litigate the question of prior jurisdiction in the federal courts, together with other points. To secure an adjudication of his rights, he has availed himself of the federal procedure up to the highest court in the land. He cannot now start over in the state court. This court has previously said:
+“Having elected to litigate the question in the federal court, we hold that (the litigant) is just as much bound by that decision as (he) would have been by similar suit in the state court with a final decision of the Supreme Court of this State. (He) is not permitted to litigate a question in federal court, and after adverse decision, start over again on the same point in the state courts. 50 CJS, Judgments, Sec. 901 (b) ; Leviton v. Bd. of Education, 385 Ill. 599; Reilley v. Agricultural Ins. Co., 311 Ill. App. 562.” In re Estate of Luer, 348 Ill. App. 324, 335.
+The defendant has fully litigated the point and obtained a decision that the United States District Court has jurisdiction in rem of the two Creen Trusts. Defendant has resigned as trustee in both and his successor has been appointed. These matters are res judicata and conclusive. If the case of Princess Lida v. Thompson, supra, and other decisions relied upon by defendant, were applicable, it was competent for the federal courts to so decide. Defendant failed to procure such a decision and he is concluded thereby. The circuit court erred in failing to recognize these principles, in refusing to dismiss these proceedings, and in issuing the injunction. The decree of the circuit court is réversed in all respects, and writ of injunction quashed.
+Decree reversed, and writ quashed.
+BARDENS, P. J. and CULBERTSON, J., concur.
