@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1908-03-18"
-citations: ["140 Ill. App. 46", "140 Ill. App. 54"]
+citations: ["140 Ill. App. 46"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["City of Centralia, Illinois, Appellant, v. D. W. Norton & Co., et al.
 source_url: "https://static.case.law/ill-app/140/cases/0046-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2616770
-cites_cases: ["121 Ill. 221", "137 Ill. 140", "211 Ill. 24"]
+cites_cases: ["211 Ill. 24"]
 ---
 
 # City of Centralia v. D. W. Norton & Co.
