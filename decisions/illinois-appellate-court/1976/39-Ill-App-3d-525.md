@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-30"
+decided: "1976-06-18"
+citations: ["39 Ill. App. 3d 525"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JESSE L. CARTERFIELD, Plaintiff-Appellant, v. ANTHONY E. CARTERFIELD, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/39/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5382542
+cites_cases: ["13 Ill. App. 3d 380", "300 N.E.2d 288"]
+---
+
+# Carterfield v. Carterfield
+
+## Majority (Mr. JUSTICE BARRY)
+
+Mr. JUSTICE BARRY
+delivered the opinion of the court:
+Plaintiff appeals from a decree dismissing her complaint for separate maintenance and granting her husband’s countercomplaint for divorce on the grounds of desertion. Claim is made that this adjudication as to fault is contrary to the manifest weight of the evidence; that the award of alimony to plaintiff of *150 per month is grossly inadequate; and that the court’s failure to recognize special equities of plaintiff in defendant’s separate property is contrary to law and the evidence.
+The parties were married in Chicago on May 10, 1944, and thereafter resided together in a farmhouse near Wilmington until plaintiff separated in September, 1968. Her complaint alleged that the separation was justified because of extreme and repeated acts of physical and mental cruelty which caused her harm; defendant’s answer denied these allegations, and his countercomplaint alleged that the separation was unjustified and continued for more than one year.
+No children were bom or adopted to the union although plaintiff at the time of this marriage had four daughters all of whom are now adults. Defendant was continuously employed during the marriage as a farmer until his retirement for health reasons in 1970. Plaintiff was also employed outside the home during the time of the marriage, at a plant in Wilmington. She terminated there on August 28,1971, and at the time of trial, would be eligible in a few years for a pension of about *75 a month plus social security. During the marriage, the parties “split” living expenses to the extent that plaintiff purchased exchanges of furniture, giving the older items to her daughters, while defendant furnished food, carpeting, utilities, appliances like washers, dryers, refrigerators, automobiles, and most transportation costs. Plaintiff purchased her own clothing and entertainment, paid telephone bills, and maintained a separate savings account. The marital home was owned jointly by the parties by reason of a devise from defendant’s mother.
+As to other properties, the proof showed that defendant also inherited from his mother a 156-acre farm, and that the farm and marital home, which occupied about 5 acres, were subject to a mortgage. The principal balance due on that mortgage at the time of separation was about *84,000. The defendant also inherited an apartment house in Wilmington from his mother. In 1952, they jointiy acquired a residence at River Oaks which plaintiff, since the time of separation, has been using as a home. She removed the furniture, without objection by defendant, from the marital home to River Oaks, and defendant thereafter spent money remodeling the marital home which he rented out. He shared no part of the rentals with plaintiff. He took up residency in a trailer home. Efforts at reconciliation were useless. Since separation, defendant inherited *20,000 from an uncle, and at the time of trial, expected to receive over each of the following 5 years, from his uncle’s estate, a sum of *15,000 plus interest. He had applied what he had received of this inheritance to the mortgage indebtedness which at the time of trial had been reduced to *44,000.
+On the merits of the separate complaints, we have carefully considered the proofs set out in the abstract and in the additional abstract which it was necessary for defendant to file. Defendant denied any acts of physical or mental cruelty on his part toward plaintiff; from the record, his testimony appears candid and convincing. Plaintiffs testimony, although contradictory of defendant’s on material issues, is vague, itself contradictory in many respects, unspecific and often conspicuously exaggerated. Her own counsel was permitted to examine her as a hostile witness because of her reluctance to testify to certain questions. The testimony of her daughters and friends was also unhelpful and sometimes in conflict. Despite an order excluding witnesses, plaintiff and her witnesses on one occasion visited over lunch, and thereafter attempted to reconcile their conflicting versions. There was no testimony that any acts of defendant had caused her pain or suffering, although one witness, without knowing the cause, said plaintiff appeared nervous.
+We find that this record fully supports the judgment of the circuit court on the issue of fault, and that the decree dismissing plaintiff s complaint and granting defendant’s petition for divorce was correct. We are also satisfied that the record supports the circuit court’s determination that plaintiff established no special equities in any property vested in defendant’s sole name, all of which he inherited from his ancestors.
+As to jointly held property, the court correctly held that the equities were equal, after adjustment for a proportionate share of the blanket mortgage debt on the marital home, as of September 15; 1968. Jurisdiction was reserved solely for partitioning these equities if the parties could not agree upon an equal division.
+An award of alimony does not depend on the question of fault. Pohren v. Pohren, 13 Ill. App. 3d 380, 384, 300 N.E.2d 288, 292 (3d Dist. 1973)), although it has been said as a general rule, that “when a divorce is granted to a husband because of the fault or misconduct of the wife, she is not entitled to, nor will she be awarded permanent alimony unless the circumstances and the equities of the case justify it.” 13 Ill. App. 3d 380, 384, 300 N.E.2d 288, 292.
+Considering the nature of the misconduct here, and the length of time the parties lived together, their present ages and relative conditions of health and wealth, we think the award of alimony to plaintiff in the amount of *150 per month, with the assessment of plaintiff s attorney’s fees against defendant, was justified and within the range of what the proof equitably supports.
+Accordingly, the judgment of the circuit court is affirmed, and the cause is remanded for any further necessary proceedings.
+Affirmed and remanded for further proceedings.
+ALLOY, P. J., and STENGEL, J., concur.
