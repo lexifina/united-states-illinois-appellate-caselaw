@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "3—89—0249"
+decided: "1990-06-05"
+citations: ["198 Ill. App. 3d 69"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re PETITION TO ANNEX CERTAIN REAL ESTATE TO THE CITY OF JOLIET (Rex Steffes et al., Petitioners-Appellees, v. Vulcan Materials Company, Objector-Appellant (American Cyanamid Company et al., Objectors; Laraway School District No. 70-C, Intervenor and Objector-Appellant))."]
+source_url: "https://static.case.law/ill-app-3d/198/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2475048
+cites_cases: ["114 Ill. App. 3d 384", "29 Ill. App. 3d 651"]
+---
+
+# Steffes v. Vulcan Materials Co.
+
+## Majority (PRESIDING JUSTICE HEIPLE)
+
+PRESIDING JUSTICE HEIPLE
+delivered the opinion of the court:
+In this case, the joint owners of a single parcel of real estate sought to annex their land to the City of Joliet along with two other parcels owned by others. The owners of the other two parcels objected unsuccessfully and the tract was annexed. For the reasons hereinafter set out, we reverse.
+On February 7, 1989, a petition for annexation of approximately 200 acres of territory to the City of Joliet, Illinois, was filed with the circuit court clerk of Will County by six individual record co-owners of a single 55-acre tract of territory. Objecting to this annexation were Vulcan Materials Company and American Cyanamid Company, the record owners of the remainder of the territory which petitioners sought to have annexed. The objectors claimed that, contrary to law, the petition was not signed by a majority of the record owners. (Ill. Rev. Stat. 1987, ch. 24, par. 7—1—2.) Following a hearing, the objections were overruled and the trial court found that the petition was signed by the requisite number of record owners. Thereafter, the trial court entered an order directing that the petition be submitted to the corporate authorities of the City of Joliet for final action. From this order the Vulcan Materials Company appeals.
+On October 11, 1989, this court entered an order allowing Laraway School District to intervene as an appellant-objector. Subsequently, on November 8, 1989, this court entered an order staying the judgment of the trial court until further order from this court.
+The locations and boundaries of the three tracts of land are set forth in a sketch attached hereto. Vulcan Materials Company’s 75-acre tract is contiguous to the southwest border of the corporate limits of the City of Joliet. American Cyanamid Company’s 70-acre tract is contiguous to the southwest border of Vulcan Materials Company’s tract and contiguous to a portion of the northern border of the petitioners’ tract, but is not contiguous to the City of Joliet. The petitioners’ 55-acre tract is contiguous only to the American Cyanamid Company tract and not to the Vulcan Materials Company’s tract or the City of Joliet.
+Prior to February 7, 1989, Union National Bank and Trust Company of Joliet, now First Midwest Bank/Illinois, held record ownership of the 55-acre tract under trust number 3235. Rex Steffes, Dale Steffes, and Robert Steffes were the only beneficiaries of trust number 3235. On February 7, 1989, the beneficiaries caused the trustee to convey title to them and their -wives as tenants in common. Thereafter, on the same date, the six Steffeses, as co-owners, filed a petition to annex the 55-acre tract to the City of Joliet, as well as the two larger intervening parcels owned by Vulcan Materials Company and American Cyanamid Company. It is undisputed that the conveyance from the trustee bank to the six tenants in common was effected for the sole purpose of meeting the statutory requirement that the petition be signed by a majority of the owners of record of the territory sought to be annexed.
+The singular issue for this court to resolve on appeal is whether the trial court erred in finding that the petition was signed by the requisite number of property owners of record pursuant to section 7—1—2 of the Illinois Municipal Code (Ill. Rev. Stat. 1987, ch. 24, par. 7—1—2). Section 7—1—2 provides in pertinent part:
+“A written petition signed by a majority of the owners of record of land in such territory, and also by a majority of the electors, if any, residing in such territory, shall be filed with the circuit court clerk of the county in which the territory is located ***.” (Emphasis added.) (Ill. Rev. Stat. 1987, ch. 24, par. 7—1—2.)
+The term “majority of the owners of record” under section 7—1—2 has not yet been interpreted by the Illinois Supreme Court.
+The petitioners argue that the phrase “owners of record” should be given its ordinary and commonly accepted meaning. The petitioners rely on the Second District Appellate Court case of In re Petition to Annex Certain Territory to Village of Round Lake Park (1975), 29 Ill. App. 3d 651, for the proposition that “owners of record” always include fee title holders of record. In re Village of Round Lake Park involved an annexation case wherein the court examined the meaning of the term “owners of record” under section 7—1—2. The court stated:
+“[Wjhile some persons under certain circumstances may be considered ‘owners’ who are not fee owners, fee owners, where the deed is recorded, are always considered owners of record.” (In re Village of Round Lake Park, 29 Ill. App. 3d at 655.)
+Consequently, the petitioners in the instant case claim that the conveyance by the trustee to the three beneficiaries and their spouses as tenants in common resulted in each individual being a fee title holder and resulted in six owners of record.
+The objectors contend, however, that the six signatures placed on the Steffeses’ petition for annexation should have been collectively considered as that of only one owner of record. The objectors maintain that to allow the co-owners of a single tract of land to be considered as a majority of the record owners for annexation purposes would allow the statute to be manipulated and would produce absurd results not contemplated by the statute. We agree with the objectors and choose not to follow In re Village of Round Lake Park.
+In construing a statute, it is presumed that the legislature did not intend unjust, absurd or unreasonable consequences. (People v. Illinois Commerce Comm’n (1983), 114 Ill. App. 3d 384.) If the trial court’s interpretation of the term “majority of the owners of record” is accepted, such consequences will result. Simply stated, anytime a record owner of one tract of land wishes to annex his property along with intervening parcels into a municipality, he will merely split ownership of his tract among as many family members, friends or straw men as is necessary to meet the signature requirement of an annexation petition. Just so in the instant case. The ownership of one 55-acre tract of land was divided among six family members, in order to force annexation of American Cyanamid Company (70 acres) and Vulcan Materials Company (75 acres) to the City of Joliet. This is unjust and unreasonable.
+Therefore, this court chooses to interpret section 7—1—2 so that co-owners of one tract of land are to be collectively considered as only one owner of record. Thus, since the Steffeses in the aggregate constitute a single record owner, we deem that the annexation petition was not signed by the requisite number of record owners and is insufficient. Accordingly, we reverse the judgment of the trial court.
+Reversed.
+SCOTT and STOUDER, JJ., concur.
+Appendix
