@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "53508"
+decided: "1972-02-10"
+citations: ["3 Ill. App. 3d 1022"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Larry Brown, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/3/cases/1022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2838619
+cites_cases: ["117 Ill.App.2d 471", "124 Ill.App.2d 415", "134 N.E.2d 776", "192 N.E. 649", "196 N.E. 821", "259 N.E.2d 577", "357 Ill. 634", "361 Ill. 64", "396 Ill. 412", "405 Ill. 568", "5 Ill.2d 79", "60 Ill.App.2d 70", "64 Ill.App.2d 238", "8 Ill.2d 510"]
+---
+
+# People v. Brown
+
+## Majority (Mr. JUSTICE DEMPSEY)
+
+Mr. JUSTICE DEMPSEY
+delivered the opinion of the court:
+Larry Brown, 19 years old, and two teenage co-defendants were indicted for the murder of A. D. Church. A severance was granted Brown because of antagonistic defenses. He was tried by a jury, found guilty and sentenced to the penitentiary. Of the many assignments of error, two compel the reversal of his conviction: prejudicial argument by the prosecutor and an improper jury instruction.
+Brown and two companions confronted A. D. Church at the corner of 46th Place and St. Lawrence Avenue, Chicago, about 9:00 P.M., September 24, 1967. One of the youths asked for money and Church replied he did not have any, that he was an old man just coming from church services. Church turned away and a shot was fired which caused his death. Keith Smith, who lived near the corner, heard the shot and went to his front porch where he saw three boys running from the scene of the shooting. He could not identify them but he saw them ran west into an alley which had an exit on 46th Street.
+The auto of Jafus Kinchen was parked on 46th Street, near the alley. As he was about to drive away some youths came out of the alley and walked by his auto. He noticed that one of them was carrying a shotgun. Virginia Sims, an eleven-year-old girl, was a passenger in Kinchen’s car. She recognized Brown, the brother of one of her friends, as he came out of the alley and crossed the street. She did not testify that he had a gun.
+The only direct evidence placing Brown at the shooting was an oral statement made by him after his arrest. He told a police officer that he and two other boys were seated on a porch and one of them demanded a quarter from a passerby. When the man refused the request someone fired a shotgun. He said he did not know who fired the gun but his friend Larry Leverston had it after the shooting. They ran to a garage located behind Brown’s home where Leverston hid the firearm. After obtaining this information and detailed instructions from Brown, the officer and Brown’s stepfather found the weapon in the debris-laden garage.
+About 15 minutes before Church’s murder, a sixteen-year-old boy named Patrick Clark had been robbed, three and one-half blocks away, by three older boys. One of them, the defendant Brown, was armed with a shotgun. The State called Clark as a witness. Prior to his testifying the court ruled that he would not be permitted to tell about the robbery and no mention of that crime would be allowed. From the witness stand, Clark stated that he had seen Brown carrying a shotgun on 44th Street near Vincennes Avenue, between 8:30 and 8:45 P.M., September 24, 1967.
+In the final argument for the State, the prosecutor spoke of the fabric of circumstantial evidence pointing to Brown’s guilt. He traced Brown’s acts before and after the death of Church, called the jury’s attention to a map of the neighborhood, pointed to 44th and Vincennes and its close proximity in space and time to the murder scene and said, “here * # * Patrick Clark is robbed.”
+There was an immediate objection. The court sustained the objection and instructed the jury to disregard the statement. The prosecutor attempted to mitigate his mistake. He told the jurors to consider only the evidence they heard from the witness stand, that Patrick Clark was met by Larry Brown approximately 15 minutes before and approximately two and a half blocks away from the place of the homicide.
+Evidence which tends to show that a defendant committed a crime which is unrelated to the one for which he is being tried is both incompetent and prejudicial. (People v. Hopkins (1970), 124 Ill.App.2d 415, 259 N.E.2d 577.) In no event, may a prosecutor comment on facts that are not in evidence, nor may he inject into the case, in argument or otherwise, extraneous and inflammatory material. People v. Donaldson (1956), 8 Ill.2d 510, 134 N.E.2d 776.
+Although a prompt attempt to cure the error was made by the court in admonishing the jury to disregard the statement and by the assistant State’s attorney in retracting it, the statement had informed the jury that Brown robbed Clark. It was not based on evidence and was of such an inflammatory nature that its effect could not be eradicated. As stated in People v. Deal (1934), 357 Ill. 634, 192 N.E. 649, the prejudicial effect of an improper statement may not always be wiped from tire minds of the jurors by an instruction or retraction:
+“The sustaining of objections to improper, prejudicial, and inflammatory remarks, and instructing the jury to disregard such statements, do not, nor does the withdrawal or retraction by the speaker of such statements, always cure the error.”
+The State tendered the following instruction which was given to the jury:
+“The court instructs the jury that if the jury believe from the evidence, beyond all reasonable doubt, that a crime was committed and if you also believe, beyond all reasonable doubt, that the defendant, immediately after the commission of the crime with which he stands charged, fled and remained away until taken into custody, such flight is a proper circumstance to be considered in determining the guilt or innocence of the defendant.”
+The court in People v. Herbert (1935), 361 Ill. 64, 196 N.E. 821, commented on the identical instruction and found it to be reversible eixor because the evidence did not justify its being given. The court approved the following definition of flight in criminal law:
+“tt # # tlte evading of the course of justice by voluntarily withdrawing oneself in order to avoid arrest or detention, or the institution or continuance of criminal proceedings. The term signifies, in legal parlance, not merely a leaving, but a leaving or concealment under a consciousness of guilt and for the purpose of evading arrest. Such consciousness and purpose is that which gives to the act of leaving its real incriminating character.”
+Flight instructions have been approved where a defendant has left the jurisdiction (People v. Ortega (1955), 5 Ill.2d 79), evaded capture (People v. Bucnis (1950), 405 Ill. 568), left his home to reside with a friend (People v. Keyes (1969), 117 Ill.App.2d 471) or hid in a closet in another person’s home (People v. Lofton, (1965), 64 Ill.App.2d 238). Instructions not based on adequate evidence of flight may not be prejudicial if there is clear evidence of the defendant’s guilt (People v. Haygood (1965), 60 Ill.App.2d 70) or if they reasonably could not have affected the verdict (People v. Weisberg (1947), 396 Ill. 412).
+The evidence in the present case did not warrant the instruction on flight nor can it be excused on the ground that the evidence of guilt was overwhelming. Other than leaving the scene of the crime there was no testimony that Brown concealed himself, fled the jurisdiction or evaded arrest. The instruction was especially unfair to the defendant. The State knew, and the trial court was aware from the testimony at pre-trial motions, that Brown continued to live at his home, worked at his regular occupation and voluntarily telephoned the police when he learned he was wanted for questioning.
+The judgment is reversed and the cause is remanded for a new trial.
+Reversed and remanded.
+McGLOON, P. J., and McNAMARA, J., concur.
