@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "1—88—2300"
+decided: "1989-06-30"
+citations: ["186 Ill. App. 3d 69"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE VILLAGE OF SCHAUMBURG et al., Plaintiffs-Appellants, v. METROPOLITAN SANITARY DISTRICT OF GREATER CHICAGO et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/186/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2659640
+cites_cases: ["153 Ill. App. 3d 50", "392 N.E.2d 27", "505 N.E.2d 1076", "73 Ill. App. 3d 490"]
+---
+
+# Village of Schaumburg v. Metropolitan Sanitary District
+
+## Majority (PRESIDING JUSTICE JIGANTI)
+
+PRESIDING JUSTICE JIGANTI
+delivered the opinion of the court:
+The plaintiffs filed an action contesting a land purchase made by the Metropolitan Sanitary District (MSD). This is an appeal from an order which dismissed the party who sold the land to the MSD.
+The defendants-appellees, John Graham, the Graham Company, and Roderick Kirkwood, owned a 73-acre tract of land located in the Village of Schaumburg. On October 13, 1987, they entered into a contract to sell the property to the MSD for $19,650,000. The closing date specified in the contract was December 7, 1987.
+On October 26, 1987, the plaintiffs-appellants, the Village of Schaumburg and four individuals who were Schaumburg officials and taxpayers, filed a three-count complaint against the MSD and the Graham defendants. Count I, entitled “Declaratory Judgment,” sought a declaration that the MSD would be subject to the zoning ordinances of the Village of Schaumburg if it were to acquire the property. The plaintiffs also requested an injunction to prevent the MSD from using the property for a sewage-treatment plant until it obtained rezoning or a special use permit. The plaintiffs further sought to enjoin the MSD and the Graham defendants from completing the sale of the property.
+In count II, entitled “Injunction,” the plaintiffs alleged that the MSD had no lawful purpose for buying the property and therefore lacked statutory authority to acquire it. In this count, the plaintiffs sought injunctive relief to prevent the MSD and the Graham defendants from completing the sale.
+Count III, entitled “Breach of Fiduciary Duty,” alleged that the proposed acquisition of the property for purposes not permitted by the statute would be a violation of the fiduciary duty owed by the MSD and its commissioners to the individual taxpayers of the district. In this count, the plaintiffs sought to enjoin the MSD and its commissioners from violating their fiduciary duties.
+On October 27, 1987, one day after the complaint was filed, the MSD informed the plaintiffs that the sale of the property was scheduled for closing on December 7, 1987. Other than filing the complaint, the plaintiffs took no steps to secure an injunction before the closing date. When the time for closing arrived, the Graham defendants performed their obligations under the contract with the MSD and completed the sale of the property.
+The Graham defendants subsequently moved to dismiss the complaint against them on the grounds of mootness. The Graham defendants argued that as to them the complaint requested only injunctive relief and they could no longer be enjoined from selling their property to the MSD because it had already been sold. The trial court granted the motion to dismiss.
+On appeal, the plaintiffs argue that the trial court erred in dismissing the Graham defendants. The plaintiffs concede that the request for injunctive relief can no longer be granted because the sale of the property has been completed. However, the plaintiffs assert that the Graham defendants remain necessary parties to the action against the MSD. In this regard, the plaintiffs focus on count II of the complaint.
+The plaintiffs assert that in count II of the complaint, they seek a declaration that the MSD was without corporate authority to purchase the property. The plaintiffs argue that if they prevail on this issue, then the purchase of the property by the MSD would be ultra vires, the contract would be void, and the court could order rescission and reconveyance of the property to the Grahams and order the Grahams to return the $19,650,000 purchase price. The plaintiffs conclude that because the rights of the Grahams would be affected by such an order, the Grahams are necessary parties.
+A necessary party is an individual or entity having a present, substantial interest in the matter being litigated, and in whose absence a complete resolution of the matter in controversy cannot be achieved without affecting that interest. (Bovinett v. Rollberg (1979), 73 Ill. App. 3d 490, 494-95, 392 N.E.2d 27, 31.) Without jurisdiction of a necessary party, it is error for a court to hear and dispose of a case on the merits. Chariot Holdings, Ltd. v. Eastmet Corp. (1987), 153 Ill. App. 3d 50, 61, 505 N.E.2d 1076, 1084.
+Initially we note that count II of the complaint does not, as the plaintiffs assert, request declaratory relief. A review of the complaint, which was never amended, indicates that in count II, the plaintiffs allege that the MSD lacked corporate authority to purchase the property. The only relief requested in this count is an injunction to -prevent the Grahams from completing the sale. This relief can no longer be granted.
+Even if we were to liberally construe count II as requesting a declaration that the MSD lacked corporate authority to purchase the property, we are not persuaded by the plaintiffs’ argument that the Grahams are therefore necessary parties to the action. The plaintiffs’ premise for asserting that the Grahams are necessary parties is based on the suggestion that if the MSD lacked corporate authority, the purchase would be ultra vires and the contract would be void. The plaintiffs then conclude that if the contract is void, there is a possibility that the contract could be rescinded and the Grahams could be required to reconvey the property. The plaintiffs acknowledge that in the event the contract is declared void, reconveyance is only one of several possibilities, such as selling the property at a public sale.
+The plaintiffs’ suggestion that the contract could be voided if the court determines that the MSD lacked corporate authority is made -without any citation to a body of law. So, too, is the plaintiffs’ assertion that it is possible that the court could order reconveyance of the property. More importantly, the plaintiffs make no request for re-conveyance of the property in their complaint. The plaintiffs’ suggestions as to possible outcome of this litigation without citation to any body of case law or without requesting the relief that forms the basis of their argument is not enough to convince us that the Grahams have a present substantial interest in the matter being litigated. Nor can we say that a complete resolution of the matter cannot be achieved without affecting the interest of the Grahams. Therefore, we conclude that based on the complaint before us, the Graham defendants are not necessary parties.
+For the foregoing reasons, we conclude that the trial court properly granted the Graham defendants’ motion to dismiss. Accordingly, the decision of the trial court is affirmed.
+Affirmed.
+McMORROW and JOHNSON, JJ., concur.
