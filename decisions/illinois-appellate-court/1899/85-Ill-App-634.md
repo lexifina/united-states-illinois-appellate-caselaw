@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-12-05"
+citations: ["85 Ill. App. 634"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Manchester Fire Assurance Co. v. Mary Ellis."]
+source_url: "https://static.case.law/ill-app/85/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5265928
+---
+
+# Manchester Fire Assurance Co. v. Ellis
+
+## Majority (Mr. Justioe Freeman)
+
+Mr. Justioe Freeman
+delivered the opinion of the court.
+This is an appeal from a judgment rendered against appellee upon a policy of life insurance.
+It is first urged, as ground for reversal, that the suit was - prematurely brought.
+The policy provides that the assured shall, in .case of loss, submit proofs within sixty days, stating certain facts, which it is said it is necessary for the company to know to determine its attitude toward the claim for loss. It is also provided that the loss shall not be payable “ until sixty days after the notice, ascertainment, estimate and satisfactory proof of the loss” are received by the company. It is said such proofs must be “ satisfactory to the insurer, or at least such as the policy requires,” and that if the proofs first submitted are not so satisfactory, and the objections are pointed out, the alleged defects must be corrected, and if this is not done by the assured he forfeits his claim; and that until such corrections are made the claim of the assured is not perfected, and the sixty days for making payment begin to run from that date. It is said that in this case the suit was brought upon the fifty-ninth day after the proofs were finally perfected, whereas the loss was not payable until sixty days thereafter. Appellant claims that the proofs were not finally perfected until April 20th, whereas it is claimed by appellee that the proofs were furnished April 15th.
+The only evidence upon the question is that in behalf of appellee. Appellant introduced no evidence. The evidence tends to show that the loss was conceded by appellant’s agent, after examination, to be total; that when the proofs were submitted to him, about April 15th, he said they were all right, and offered to settle the claim for six hundred dollars; that this proposition the witness—appellee’s husband—said he would submit to his wife, and he went away, leaving the proofs of loss, to which no objection had been made, with the appellant’s agent. When the witn'ess called again to try to come to some settlement, the agent again offered six hundred dollars; the witness again took the matter under consideration, and the agent then told him the proofs of loss were all right, but he had better have his wife (the appellee) acknowledge the document. The witness took it, had it acknowledged and sworn to, and brought it back to the agent on or about April 20th.
+Appellant’s counsel, in his reply brief, says: “If there was a waiver of proofs, appellee’s rights were then fixed, and as regards proofs, nothing more need to be done.” He questions, however, whether the evidence Avill bear that construction, and this because appellee’s husband, acting apparently as her agent in the matter, did subsequently, when requested to have the document constituting the-proofs of loss acknowledged by his wife, comply with the request.
+We domot think, in view of all the evidence, that this is a fair conclusion. The acceptance of the proofs, as submitted, the statement .that they were all right, the admission that the agent had been out to examine, and that the loss was total, and the offer then and there of a certain sum in settlement, must be regarded as an acceptance of the proofs as submitted, and a waiver of other requirements in reference thereto. The subsequent compliance with the request to have the acknowledgment of the wife appended did not change the situation. The company had accepted the proofs as sufficient when they were first brought in, and the sixty days within which the loss was payable began to run from that time. The claim had therefore matured when the action was brought, and it was not premature.
+It is urged that the proofs, as so accepted by the company, were not proper proofs, and that no appraisement was had, as required by the policy. But for the reasons above stated, we are of opinion that the evidence shows a waiver of any such objection. ISTo request for other or different proofs of loss was ever made by appellant; no objection to those furnished was ever made, and if they were insufficient, it does not appear that appellant ever discovered the fact until this suit was brought. Appellant was at liberty to waive proofs entirely, if it saw fit to do so, and clearly did waive the informalities now complained of. Th ere is evidence that appellant’s agent told appellee “ it was a total loss, and there is nothing to be appraised.”
+It is claimed that there is no evidence of the value of the property at time of the fire.
+The evidence in this respect is not entirely satisfactory. But there is evidence already referred to tending to show that the agent of the appellant had accepted the proofs of loss, which he had sworn to, containing an itemized list of articles claimed to have been destroyed, footing up over fourteen hundred dollars, considerably more than the amount of the verdict. This document was admitted in evidence, and the appellee testified that the items showed the cost of the articles, and that- they had been in use about eighteen months. She claimed the value of the furniture to be about fourteen hundred dollars, and the jury awarded eight hundred.
+We regard the evidence, in the absence of any testimony to the contrary, as sufficient to justify the verdict. The jury seem to have allowed over six hundred- dollars from the cost price for depreciation in value through eighteen months use, and we can find no fault with their conclusion.
+Appellee’s counsel urges that his client should have been allowed interest upon the amount of the verdict from the time when the loss was payable, and that the trial court refused to so instruct the jury. But no cross-errors are assigned, and we can not consider the alleged error.
+The judgment of the Circuit Court is affirmed.
