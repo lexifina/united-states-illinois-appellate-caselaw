@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-04-05"
+citations: ["19 Ill. App. 450"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elias Rowland v. Theodore D. Hewitt, Assignee, etc."]
+source_url: "https://static.case.law/ill-app/19/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4898372
+cites_cases: ["103 Ill. 325", "112 Ill. 247"]
+---
+
+# Rowland v. Hewitt
+
+## Majority (Lacey, P. J.)
+
+Lacey, P. J.
+The subject of this suit is the possession of a stock of goods in Forreston, Ill., which formerly belonged to Daniel A. Glasgow.
+Morris McCoy, deputy for the sheriff, on the 25th day of March, 1885, was in possession of the goods, having levied on them on an execution in favor of Albert Marlow, issued on that day. He held possession until April 15,1885. On the 26th day of March Glasgow executed to appellee a deed of assignment for all his real and personal property not exempt for the benefit of creditors, which was filed in the county clerk’s office for record on the same day at 3:15 o’clock a. m. and in the circuit clerk’s office also for record on the same day at 3:50 o’clock a. m. On the said 26th day of March, at about 9 o’clock A. m., IsaacB. Allen, havingaclaim of $139.60 for rent due from Glasgow for the use of the store building where these goods were stored, issued his distress warrant and placed it in the hands of McCoy to execute, who levied it on the goods subject to his, Marlow’s execution;" on the same day McCoy delivered it to Absalom Eakle, a justice of the peace, with an inventory of the property levied on. The justice of the peace issued a summons to Glasgow, which was served. On the first day of April Glasgow confessed j udgment before the justice of the peace for the amount of rent due, and the justice of the peace entered up a general judgment, and on the 11th of April issued a general execution thereon and delivered it to appellant, a constable, to execute. On the loth day of April, the Marlow execution having been satisfied by sale of a portion of the goods, McCoy turned the goods over to appellant and appellee jointly, giving appellant and Geeting, the agent of appellee, each a key to the store, and gave up possession of the goods to them. The appellant then levied his execution on the goods and dispossessed appellee, who brought this suit in replevin against appellant, and succeeded in the court below, and app diant brings this appeal. It is claimed by counsel for appellant that there is no evidence of the delivery of the deed of assignment up to the time the property in question was seized under the distress warrant, or even up to the time it was levied on by appellant, or that he had accepted the trust.
+We think this claim is not tenable. This is a proceeding under the statute. The appellee claimed under the deed and his acceptance, from the time the deed was executed and recorded, will be presumed without further proof. See Sec. 1 (31), Chap. 72 K. S. See statute. 1874, Chap. 10 ; Freydendall et al. v. Baldwin et al., 103 Ill. 325. The possession of the deed claiming under it at any time after its execution, as in case of ordinary deeds to real estate, would be sufficient proof that he took under the deed from its date, unless rebutted, if that even would be allowed. It is also claimed that Allen had a landlord’s lien on the goods for the rent. This we think is equally untenable. Allen had no lien as such, independent of a distraint, and can not succeed by virtue of such claim.
+In this State a landlord has no lien except that given by the statute. At common law, before the passage by the British Parliament of the statute of 8th Anne, Chap. 14, the landlord had no lien of any kind, but only aright of distraint, and the statute of Anne is not a part of the common law in force in this State, it having been passed since the fourth year of James I, since which time English statutes are not in force here. An execution levied on goods on leased premises prior to the distraint takes precedence of any claim the landlord may have for the rent of the building in which the goods are kept. Herron v. Gill, 112 Ill. 247. The distress proceedings, besides, were abandoned by Allen, and McCoy, the bailiff, Allen taking a general judgment and execution which could, in any event, only create a lien on personal property from the time it came into the hands of appellant, the constable. •
+The levy of the distress warrant, as well as the date and delivery of the execution, were both subsequent to the execution and recording of the deed of assignment. Hence no lien is created in favor of Allen or his execution in the hands of appellant. Whatever claim Allen has against the assets of the bankrupt estate of Glasgow will have to be adjudicated in the county court. He has no right to levy on the goods thus assigned in the hands of the assignee. Finding no error in the record, the judgment of the court below is affirmed.
+Judgment affirmed.
