@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-05-23"
+citations: ["75 Ill. App. 418"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Illinois Watch Case Company v. Frederic Ecaubert."]
+source_url: "https://static.case.law/ill-app/75/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5176972
+---
+
+# Illinois Watch Case Co. v. Ecaubert
+
+## Majority (Mr. Presiding Justice Crabtree)
+
+Mr. Presiding Justice Crabtree
+delivered the opinion of the Court.
+This was an action of assumpsit brought by appellee against appellant, to recover the amount alleged to be due him for royalties upon the manufacture of watch cases, under certain letters patent owned by appellee. It appears that appellee is an inventor, and was the owner of certain patents relating to the manufacture of watch cases. That on September j, 1888, H. C. Eppenstein & Co. were manufacturers of watch cases, and desiring to use the processes covered by the patents owned by appellee, a written contract of license was entered into between appellee and said Eppenstein & Co. whereby the latter acquired the right to use the patents of appellee from and after September 1, 1888, during the life of the patents, upon the payment of certain royalties provided in the contract:
+Shortly after making this contract, H. C. Eppenstein & Co. removed their manufacturing business from Chicago to Elgin, where they formed a corporation under the laws of this State, under the name and style of “ Illinois Watch Case Company,” being so incorporated on November 24, 1888. The corporation thus formed is the appellant herein. With the consent of appellee, appellant took from said M. C. Eppenstein & Co. all its tools, machinery, stock and good will, and also all the rights in the aforesaid licenses, and proceeded to manufacture watch cases according to appellee’s system and apparently under his patents. Appellant also from'time to time remitted to appellee amounts it claimed were due him as royalties. Appellee claims a subsequent agreement (called a “substitute agreement”) was entered into between appellant and himself, for the payment of royalties on watch cases, manufactured by appellant under appellee’s patents, and such an agreement in writing was produced upon the trial, signed by both parties, and dated January 1,1894. There is a dispute as to whether this agreement was ever in force for the reason that after it had been signed in duplicate by appellant, both copies were sent to appellee, who never returned a copy to appellant signed by him. Nevertheless, appellant continued to manufacture watch cases and remit for royalties as before, until appellee claimed he had discovered that appellant was not properly accounting for and paying royalties on the number of watch cases manufactured. After that time he did not use, or procure to be cashed, the checks or drafts sent him for royalties, but brought this suit to recover for such royalties upon watch cases manufactured by appellant, and which he claimed it had not properly accounted for.
+The cause was tried by a jury and a verdict returned in favor of appellee for $3,220.07. A motion for new trial being overruled there was judgment on the verdict and appellant prosecutes this appeal.
+We understand the position of appellant to be, that it was not a licensee of appellee but a mere infringer of his patents, and that this suit can not be maintained. Upon this point we think the evidence is ample to show that in the manufacture of watch cases under appellee’s system and machinery, it acted as a licensee under appellee's patents, and was so recognized by him. We think both parties have so acted as to be now estopped from disavowing or disclaiming th e positions of licensor and licensee. Certainly appellee could not go into the Federal courts and maintain a suit against appellant for infringement of his patents after receiving license fees or royalties; and after paying such fees and royalties, and having had all the benefits of a right to manufacture under the patents, appellant can not be beard to say it was not a licensee, but a mere infringer of appellee’s patents.
+Complaint is made as to the introduction of evidence as incompetent, but we think as to this point there was no serious error.
+It is also insisted that the damages are excessive, but inasmuch as it was in appellant’s power to show the exact number of watch cases manufactured upon which royalties were due, and it saw fit to put in no evidence whatever upon the subject, it should not now be heard to complain. The verdict was based upon a computation made by a witness upon an examination of appellant’s books by agreement of the parties, and it is not in a position now to question the correctness of the computation, nor the basis upon which it was made. We are not disposed to interfere with the judgment on the ground that the damages are excessive.
+Finding no serious errors in the record the judgment will be affirmed.
