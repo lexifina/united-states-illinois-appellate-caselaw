@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-59"
+decided: "1977-05-25"
+citations: ["48 Ill. App. 3d 959"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ARTHUR DOOM, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0959-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3374307
+cites_cases: ["16 Ill. App. 3d 842", "226 N.E.2d 598", "236 N.E.2d 706", "262 N.E.2d 904", "283 N.E.2d 44", "306 N.E.2d 894", "307 N.E.2d 161", "34 Ill. App. 3d 894", "341 N.E.2d 4", "37 Ill. 2d 295", "39 Ill. 2d 346", "41 L. Ed. 2d 239", "417 U.S. 935", "46 Ill. 2d 114", "5 Ill. App. 3d 363", "56 Ill. 2d 257", "94 S. Ct. 2650"]
+---
+
+# People v. Doom
+
+## Majority (Mr. PRESIDING JUSTICE STENGEL)
+
+Mr. PRESIDING JUSTICE STENGEL
+delivered the opinion of the court:
+Defendant Arthur Doom was convicted of murder after a jury trial in the Circuit Court of Peoria County and was sentenced to serve 100 to 200 years in prison. The evidence at trial showed that Doom entered the B & G Tap in Peoria at about 11 p.m. on July 15,1975, and shot his brother-in-law, John Rolette, who was tending bar. After shooting Rolette defendant stated, “That will teach you to talk about me.” He threatened some of the patrons and then left the tap.
+Three patrons testified that Doom shot Rolette without provocation. A bullet found in the tap was shown to have been fired from a gun found in defendant’s possession, and blood stains on defendant’s clothing matched the victim’s. A coroner’s physician testified that Rolette bled to death from a gunshot wound. The only defense witness testified that Doom told him he had been drinking on the night of the shooting and had no reason for shooting Rolette.
+The presentence report indicated that defendant was 45 years old, that he had a number of felony convictions and that he had violated parole or conditional release on several occasions. A clinical psychologist stated in the report that he had no suggestions for an effective method of rehabilitation and that “Mr. Doom presents a probable threat to the community.” No evidence in aggravation or mitigation was introduced at the sentencing hearing. The court imposed a sentence of 100 to 200 years, stating that the sentence was necessary to protect the public and to provide defendant with needed correction treatment by imprisonment.
+Defendant, in a supplemental pro se brief, contends that the trial court erred by refusing his motion to hold a competency hearing. Defendant’s position is that section 5 — 2—1(g) of the Unified Code of Corrections (Ill. Rev. Stat. 1975, ch. 38, par. 1005 — 2—1(g)) is a mandatory provision which requires the court to conduct a fitness hearing upon the motion of either the State or the defendant. Section 5 — 2—1(g) provides in pertinent part that:
+“If requested by the State or defendant, the court shall appoint a qualified expert or experts to examine the defendant and testify regarding his fitness.”
+However, the text of this subsection should not be read alone but rather must be read in the context of the entire section. (See In re Petition of the Town of Normal (4th Dist. 1972), 5 Ill. App. 3d 363, 283 N.E.2d 44.) Section 5 — 2—1, entitled “Fitness for Trial or Sentencing,” describes the circumstances by which a question of the defendant’s fitness for trial or sentencing is raised and the method of resolving that question. Subsection (c) provides that:
+“When a bona fide doubt of the defendant’s fitness to stand trial or be sentenced is raised, the court shall order that a determination of that question be made before further proceedings.”
+The remaining subsections, including (g) above, set out who determines the defendant’s fitness, what matters are admissible to prove fitness or lack thereof, who may introduce evidence of fitness, when qualified experts should be appointed (subsection (g)), and who has the burden of proving unfitness. Thus, a reading of section 5 — 2—1 in toto reveals a comprehensive legislative scheme for determining if a defendant is fit to stand trial or be sentenced.
+In our opinion the existence of a bona fide doubt as to the defendant’s fitness, referred to in the above quoted subsection (c), is the triggering event which sets the remaining statutory provisions, including subsection (g), into motion. Whether or not such doubt exists is a matter within the trial court’s discretion (People v. Pridgen (1967), 37 Ill. 2d 295, 226 N.E.2d 598), and we will not reverse the court’s determination of this issue absent a clear abuse of discretion (People v. Carter (3d Dist. 1974), 16 Ill. App. 3d 842, 306 N.E.2d 894).
+In the instant case the trial court concluded after a hearing on defendant’s motion that:
+“It is the opinion of this Court that the observations of the defendant prior to today were that he was reasonable and it appears also to the Court that not until the trial date does he act as he is acting, not until he comes right down to the trial. I feel that the man is fit for trial and feel that we should proceed.”
+The court maintained its position later when the competency issue was again raised in defendant’s post-trial motion. In the recent case of People v. Pack (5th Dist. 1976), 34 Ill. App. 3d 894, 341 N.E.2d 4, the court, relying on the rule that the determination of whether a bona fide doubt of fitness exists rests with the trial court, held that there was no abuse of discretion where a competency hearing was denied in the face of expert evidence that defendant suffered a personality disorder and had previously undergone psychiatric examinations. We note in the instant case defense counsel stated to the court that defendant could not assist him the case, but such a statement, of itself, does not create a bona fide doubt as to defendant’s competence. (People v. Slaughter (1970), 46 Ill. 2d 114, 262 N.E.2d 904.) The record indicates that defendant had assisted in his defense during numerous pretrial proceedings, and there was no basis for defendant’s motion other than defense counsel’s statement. Under these circumstances, we are unable to conclude that the trial court abused its discretion in denying defendant’s motion for a competency hearing.
+Defendant’s other contention is that his sentence was excessive. He argues that the trial court placed too much emphasis on the seriousness of the offense and not enough emphasis on his rehabilitative possibilities.
+In support of this position, he refers to the 1970 Illinois Constitution which provides that:
+“All penalties shall be determined both according to the seriousness of the offense and with the objective of restoring the offender to useful citizenship.” Ill. Const. 1970, art. I, §11.
+Defendant asks us to exercise our discretion under Supreme Court Rule 615(b)(4) (Ill. Rev. Stat. 1975, ch. 110A, par. 615(b)(4)) and reduce his sentence.
+The record indicates that the court did consider defendant’s rehabilitative possibilities but found none. The psychologist was unable to suggest any effective method of rehabilitation, and we are not in a position to second-guess his assessment of the defendant, particularly in view of defendant’s long record of recidivism. The presentence report characterized the defendant as an habitual criminal for whom the possibilities of rehabilitation appear to be nonexistent. Defendant offered no evidence in mitigation. At the same time, the offense committed was a senseless brutal murder.
+We also note that under the present Unified Code of Corrections every person confined to a penal institution is eligible to parole after “20 years less time credit for good behavior.” (Ill. Rev. Stat. 1975, ch. 38, sec. 1003— 3 — 3.) This means that despite the stated minimum sentence of 100 years, this defendant will be eligible for parole after serving 11 years and 3 months, assuming good behavior. It is true that defendant stands convicted of a heinous and atrocious crime. But, in view of the pertinent statute, a minumum sentence of 100 years is a classic exercise in futility.
+However, the trial court was in a superior position to determine an appropriate sentence (People v. Caldwell (1968), 39 Ill. 2d 346, 236 N.E.2d 706), and we will not disturb a sentence which is within the limits prescribed in the Criminal Code. See People v. Sprinkle (1974), 56 Ill. 2d 257, 307 N.E.2d 161, cert. denied, 417 U.S. 935, 41 L. Ed. 2d 239, 94 S. Ct. 2650 (1974).
+Since we do not find that the trial court abused its discretion, the judgment of the Circuit Court of Peoria County is affirmed.
+Affirmed.
+BARRY and SCOTT, JJ., concur.
