@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "58707"
+decided: "1974-02-13"
+citations: ["18 Ill. App. 3d 24"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["South Holland Trust and Savings Bank, Plaintiff-Appellee, v. Gerrit Witvoet et al., Defendants—(Gerrit Witvoet, Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/18/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2612419
+cites_cases: ["10 N.E.2d 325", "161 N.E.2d 697", "195 N.E. 420", "23 Ill.App.2d 174", "359 Ill. 584", "367 Ill. 21"]
+---
+
+# South Holland Trust & Savings Bank v. Witvoet
+
+## Majority (Mr. PRESIDING JUSTICE ADESKO)
+
+Mr. PRESIDING JUSTICE ADESKO
+delivered the opinion of the court:
+This is an appeal from a decree of foreclosure entered against the defendants, Gerrit Witvoet and his wife, Alice Witvoet. It is only Gerrit Witvoet who prosecutes this appeal. The defendants owned a forty-acre tract of land and failed to pay the real estate taxes for 1959 and the subsequent years. The taxes for the years 1959 to and including 1968 were sold by the County and were purchased at a tax sale. The last day to redeem the taxes was June 10, 1970. Gerrit and Alice Witvoet went to the plaintiff on May 29, 1970, and requested a loan of $30,000 for the purpose of redeeming the delinquent taxes. The loan was approved and was to be evidenced by a note and trust deed. A note and bust deed securing the loan were signed by Gerrit and Alice Witvoet. On June 10, 1970, the delinquent taxes were redeemed.
+The defendants have failed to make any payments on the loan and have not paid any of the real estate taxes on the property. The plaintiff paid the second installment of the 1969 taxes and the taxes for 1970. The trial court entered a decree of foreclosure and ordered that the subject property be sold at a sheriff’s sale. The trial court found that the sum of $41,000.62 was due the plaintiff. This amount included the money spent to redeem the delinquent taxes; the plaintiff’s costs and attorney’s fees in prosecuting the foreclosure suit; the amounts paid for the 1969 and 1970 taxes and interest. The defendant, Gerrit Witvoet, appeals pro se from the enby of the foreclosure decree. He contends that.the bial court failed to allow the defendants the right to a jury trial to determine if there was a mortgage in existence. He also maintains that the trial court erred in not allowing the defendants the right of confrontation of witnesses and that the bial court erred in not allowing the defendants the right to redeem fifteen months after the sale of the property. We find no merit in these contentions.
+An action to foreclose a mortgage is equitable in nature. (Southwest Federal Savings and Loan Ass’n v. Cosmopolitan National Bank, 23 Ill.App.2d 174, 161 N.E.2d 697 (1959).) In such a proceeding there is no right to a jury trial.
+“The right of trial by jury guaranteed by the constitution is only .in such actions as were known to the common law. Where equity takes jurisdiction the defendants are not deprived of their, constitutional right to a bial by jury. A bial by jury is not a matter of right in an equity proceeding.” [Citations omitted.] Weininger v. Metropolitan Fire Insurance Co., 359 Ill. 584 at 590, 195 N.E. 420 at 422 (1935); accord Martin v. Strubel, 367 Ill. 21, 10 N.E.2d 325 (1937).
+The Illinois Civil Practice Act, section 63, gives the bial court discretion in a case in equity to order that an issue be tied by a jury. (Ill. Rev. Stat. 1971, ch. 110, par. 63.) A bial by jury, therefore, in an equity proceeding is a matter of discretion and not of right. The bial court did not err in denying the defendants demand for a jury bial.
+The defendant maintains that he was denied his right of confrontation of witnesses because he was not permitted to cross-examine Jay I. Rosenberg and Willis Gouwens. The right of confrontation provided for in the sixth amendment to the United States Constitution and in article I, section 8 of the Illinois Constitution of 1970 is only applicable to a criminal prosecution. The mortgage foreclosure action in the case at bar was a civil proceeding. The defendant asserts that he was not allowed to cross-examine these witnesses/ However, the defendants were not represented by counsel but wanted their son, James Witvoet, to represent them. The trial court permitted this and stated at the outset that only James would be allowed to ask questions and if the defendants had any questions they should direct them to James so that he could ask them. James Witvoet was allowed to cross-examine Rosenberg and Gouwens. Proceeding in this manner facilitated the trial and did not constitute an abuse of discretion or error.
+The final contention of the defendant is that the trial court erred in not allowing the defendants the right to redeem fifteen months after the sale of the property. The defendant cited Ill. Rev. Stat. 1967, ch. 95, pars. 29 and 30 as authority for this contention. However, those sections of the Illinois Revised Statutes were repealed effective August 19, 1969. The law applicable to the foreclosure of a mortgage or trust deed is contained in Ill. Rev. Stat. 1971, ch. 77, par. 18(e). This section provides that for a mortgage executed on or after August 7, 1961, the period for redemption is 12 months after the date of service or summons or 6 months after the foreclosure sale, whichever is later. The decree of foreclosure entered by the trial court was in accordance with this provision and was, therefore, appropriate and proper. The defendant also questions the evidence upon which the decree was entered but the record amply supports the decree and indicates that the plaintiff was entitled to the foreclosure.
+For the reasons here stated, the decree of foreclosure is affirmed and the cause is remanded to the trial court for a hearing as to court costs and expenditures made by the plaintiff in this appeal and to ascertain a reasonable amount for attorney’s fees to be granted to the attorney for the plaintiff.
+Affirmed and remanded to trial court for determination of attorneys fees, costs and expenditures.
+BURMAN and JOHNSON, JJ., concur.
