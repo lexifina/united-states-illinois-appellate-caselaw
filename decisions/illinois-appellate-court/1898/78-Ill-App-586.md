@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-10-27"
+citations: ["78 Ill. App. 586"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Board of County Commissioners of Cook County v. The People ex rel. Richard J. Collins."]
+source_url: "https://static.case.law/ill-app/78/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5790374
+cites_cases: ["1 Ill. App. 83", "106 Ill. 184", "110 Ill. 185", "123 Ill. 241", "160 Ill. 657", "163 Ill. 287", "62 Ill. 279", "78 N. Y. 33"]
+---
+
+# Board of County Commissioners v. People ex rel. Collins
+
+## Majority (Mr. Presiding Justice Windes)
+
+Mr. Presiding Justice Windes
+delivered the opinion of the court.
+Eelator was the lowest bidder to supply meats to the county institutions for the quarter ending December, 1897. About one-third of the supplies was awarded to him, and the balance to P. D. Armour & Co. and the Hammond Company. Eelator made written demand on the board of county commissioners to award him the contract for furnishing the supplies mentioned in his bid not already given him, and the board having failed to comply with the demand, he filed his petition for a writ of mandamus to be directed to the board of commissioners, requiring it to award such contract to the relator, as the lowest responsible bidder.
+Ho fraud was claimed or proven. After issues -were made, a hearing was had upon evidence adduced before the Circuit Court, which, Hovember 22, 1897, awarded a mandamus directing appellant to award and execute a contract to relator for furnishing said supplies to Cook county institutions for three months, commencing October 1, 1897, and ending December 31, 1897, the court finding from the evidence that relator was the lowest responsible bidder therefor.
+The statute (S. & C., Ch. 34, Sec. 72) governing the board of county commissioners is, viz.:
+“ All contracts for supplies, material and work for the county of Cook, shall be let to the lowest responsible bidder, after due advertisement; but if, in case of any emergency, it is necessary to purchase supplies, not exceeding in amount $500, such purchase may be made by the superintendent in open market, on authority given to him by the board of commissioners or the committee on public service.” After advertising as required by this statute and receiving various bids, appellant, September 27, 1897, awarded the contracts as above stated.
+Belator, while he admits that the board of commissioners acted, claims they acted arbitrarily and did not investigate his responsibility, as they should have done. He fails to prove there was no investigation as to his responsibility, but even if there was none, we are not prepared to hold that would invalidate their action, in the absence of positive fraud. It appears that this same board of com'missioners had previous dealings with relator, and the fact that they awarded him a contract for one-third of his bid is proof that they considered him responsible for that amount; but it does not follow that he would be responsible for three times the amount, for non constat, they may have ascertained from the previous dealings with him that he was not responsible for such a large amount.
+But, waiving these considerations, we are of opinion the writ should not have been awarded in this case, because appellant was vested with judicial power or discretion to determine who were the lowest responsible bidders. They have acted and determined this fact, and although we might be clearly of opinion that their, decision should have been different, we have no power to direct them in that regard. People v. Dental Examiners, 110 Ill. 185.
+In this case the court say, the opinion being by Mr. Justice Scholfield: “ The office of the writ of mandamus is, in general, to compel the performance of mere ministerial "acts prescribed bylaw. It lies, however, also to suboruinate judicial tribunals, to compel them to act, where it is their duty to act, but never to require them to decide in a particular manner. It is not, like a writ of error or appeal, a remedy for erroneous decisions ” (citing cases), and further quotes with approval from 78 N. Y. 33, among other things, the following statement of the law ; “Where a subordinate body is vested with power to determine a question of fact, the duty is judicial; and although it can be compelled by mandamus to determine the fact, it can not be directed to decide it in a particular way, however clearly it may be made to appear what the decision ought to be.”
+To the same effect are Kelly v. City of Chicago, 62 Ill. 279; People, etc., v. McCormick, 106 Ill. 184; People v. Kent, 160 Ill. 657; Johnson v. Sanitary District, 163 Ill. 287; Hildreth v. Heath, 1 Ill. App. 83.
+Dental Examiners v. People, 123 Ill. 241, so confidently relied on by relator, is clearly distinguishable from the case at bar, because in that case the board only had to determine one question, to wit: Was the Northwestern College reputable or not reputable? and it had determined that the college Avas reputable. The court said on this point: “When that matter was decided and out of the way, their judicial or discretionary poAver was exhausted. The duty to issue the license was then a mere ministerial one and its performance could be enforced by mandamus.” In this case the board has determined that Armour & Co. and the Hammond Company were the lowest responsible bidders, except as to one-third of relator’s bill, as to which it has determined that . relator was the lowest responsible bidder. The Circuit Court, in holding that relator Avas the lowest responsible bidder as to the remaining two-thirds of his bid, however correct, that judgment takes from the county board the decision of that question, where that poAver is vested by law. This was error and the judgment is reversed.
