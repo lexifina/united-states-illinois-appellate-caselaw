@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-10-21"
+citations: ["72 Ill. App. 343"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pennsylvania Company v. Thomas A. Reidy."]
+source_url: "https://static.case.law/ill-app/72/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5242677
+cites_cases: ["119 Ill. 597", "130 Ill. 122", "139 Ill. 596"]
+---
+
+# Pennsylvania Co. v. Reidy
+
+## Majority (Mr. Justice Windes,)
+
+Mr. Justice Windes,
+delivered the opinion of the Court on Rehearing.
+This case was heard and decided, the opinion being filed March 8, 1897, and a rehearing granted March 29, 1897. The case was again submitted and has been considered at the present term upon the original briefs, also petition for rehearing and answer thereto..
+After a careful deliberation on the questions of negligence of appellant and contributory negligence and care of appellee, presented by the record and briefs of counsel, the court deems it .unnecessary, inasmuch as there may be another trial of the case, to say more, than that upon this record they are questions of fact which should be submitted to the jury.
+Appellant complains that the trial court erred in admitting in evidence a certain plat offered by appellee, which purports on its face to show the location and surroundings of the place where the injury to appellee complained of occurred. It is not claimed by appellee that this plat is any more than a reasonably correct representation of the location where the injury occurred. He admits, or it is shown by the evidence, that it was not drawn to a scale; that it contains at least two tracks which were not upon the ground at the time of the accident, and that the plat purports to show by a dotted line in red ink and the endorsement “ R.’s steps,” the course taken by appellee immediately preceding the time he was struck by appellant’s engine. The plat gives no distances, but purports to show the location of two .trains, one being .appellant’s train, which the evidence shows was going from fifteen to thirty miles per hour, also a platform which the ¡fiat indicates as touching certain railroad tracks, whereas the evidence shows this platform was from four or five inches to two feet from the railroad track; also gates located to the east of the scene of the accident, but what distance from the tracks, platform or moving train does not appear. It does not appear who made the plat. The only witness who testified about distances between objects shown on the plat, said he did not know the distances between objects on the plat, and on cross-examination says the plat is not correct. Counsel for appellant objected to the introduction of this plat, and persisted in the objection after the various efforts of counsel for appellee to obviate the objections, but the court overruled it, to which ruling there was an exception.
+The evidence shows that it was of the highest importance to a proper understanding by the jury of the facts immediately preceding and attending the accident, that they should have accurate information as to the relative location and distances between the railroad tracks, platform, gates, as well as of the course taken by appellee just before his injury and the place where he was injured. This information can not be gleaned from the plat, but, on the contrary, it was calculated to mislead the jury as to all these points, by reason of the fact that no distances are given, no scale is pretended to have been used, and yet the plat locates different fixed objects and a rapidly moving train, indicating their relative positions.
+It was clearly error for the court to admit the plat in evidence.
+It is claimed to be error that the trial court admitted in evidence a rule of appellant that “ A train approaching a station where a passenger train is receiving or discharging passengers, must be stopped -before reaching the passenger train,” because not applicable to the circumstances of this case. We think this was not error, because two witnesses had testified that the place in question was used by appellant as a station or point to receive and discharge passengers. The rule was also admissible under the general charge of negligence made in the first count of the declaration, in connection with the evidence of the witnesses referred to. Appellant’s engineer must be charged with a knowledge of its rules, and the fact, if it was a fact, as testified by two witnesses, that appellant stopped its trains at and used this platform for receiving and discharging passengers, and that, as shown by the evidence, Thirty-first street was a public street in the city, frequented by large numbers-of persons at this crossing. Lake S. & M. S. R. R. Co. v. Bodemer, 139 Ill. 596.
+There was no error in the modification of appellant’s fifteenth instruction, so that it told the jury it was plaintiff’s duty before crossing appellant’s track to “ exercise ordinary and reasonable care in looking out for approaching trains.” Appellant’s eleventh instruction was properly refused, in that it took from the jury the consideration of what weight should be given certain evidence.
+Appellant’s counsel in his argument makes no complaint of appellee’s first instruction, although he assigns it as error. We refer to it that it may not be given on another trial. This instruction tells the jury that certain facts constitute gross negligence. It is not permissible for the trial court, in submitting a case to the jury, to instruct that certain facts are negligence, but to leave the jury to determine from the facts in evidence whether or not there was negligence. Chicago & E. I. R. R. Co. v. O’Connor, 119 Ill. 597; Chicago & I. R. R. Co. v. Lane, 130 Ill. 122 and cases.
+For the errors indicated the judgment of the Circuit Court is reversed and the cause remanded.
