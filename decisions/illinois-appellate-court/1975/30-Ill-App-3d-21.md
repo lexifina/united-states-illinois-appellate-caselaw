@@ -1,0 +1,52 @@
+---
+court: "Illinois Appellate Court"
+docket: "74-183"
+decided: "1975-07-17"
+citations: ["30 Ill. App. 3d 21"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Jay Lundeen, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/30/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2624513
+cites_cases: ["13 Ill.App.3d 39", "16 Ill.App.3d 919", "21 Ill.App.3d 31", "400 U.S. 25", "493 F.2d 502", "494 F.2d 397", "59 Ill.2d 125", "7 Ill.App.3d 800", "7 Ill.App.3d 805"]
+---
+
+# People v. Lundeen
+
+## Majority (Mr. PRESIDING JUSTICE SEIDENFELD)
+
+Mr. PRESIDING JUSTICE SEIDENFELD
+delivered the opinion of the court:
+Pursuant to plea negotiations, the defendant pled guilty to involuntary manslaughter and burglary. Other charges, including reckless homicide and theft over $150, were dismissed as a part of the agreement. Defendant was sentenced to 2-6 years for the involuntary manslaughter and 4-12 for burglary, to be served concurrently. Defendant did not directly appeal, but now appeals from the denial of his post-conviction petition. The defendant contends that he was denied constitutional due process of law because the trial court accepted his plea of guilty despite his claim of innocence and in the absence of an adequate factual basis for the plea.
+Defendant concedes that he was fully admonished as to his rights in compliance with Supreme Court Rule 402 (Ill. Rev. Stat. 1971, ch. 110A, par. 402). And he also concedes that a defendant who continues to maintain his innocence may make a valid plea of guilty under certain circumstances. (Citing North Carolina v. Alford (1970), 400 U.S. 25, 27 L.Ed.2d 162, 91 S.Ct. 160; United States ex rel. Dunn v. Casscles (2d Cir. 1974), 494 F.2d 397; United States v. Davis (5th Cir. 1974), 493 F.2d 502.) He argues, however, that before a plea of guilty may be accepted after a defendant’s continued insistence that he is innocent the plea must be accompanied by the presentment of a strong factual basis, which he claims is lacking in this record.
+In North Carolina v. Alford, the majority opinion addresses the standards for a determination of the constitutional validity of a guilty plea:
+“The standard was and remains whether the plea represents a voluntary and intelligent choice among the alternative courses of action open to the defendant. [Citations.]” (400 U.S. 25, 31.)
+and states:
+“# # * while most pleas of guilty consist of both a waiver of trial and an express admission of guilt, the latter element is not a constitutional requisite to the imposition of criminal penalty. An individual accused of crime may voluntarily, knowingly, and understanding!/ consent to the imposition of a prison sentence even if he is unwilling or unable to admit his participation in the acts constituting the crime.” (400 U.S. 25, 37.)
+The court concludes:
+“When his plea is viewed in light of the evidence against him, which substantially negated his claim of innocence and which further provided a means by which the judge could test whether the plea was being intelligently entered, see McCarthy v. United States, supra, at 466-467 (1969), its validity cannot be seriously questioned. In view of the strong factual basis for the plea demonstrated by the State and Alford’s clearly expressed desire to enter it despite his professed belief in his innocence, we hold that the trial judge did not commit constitutional error in accepting it.” 400 U.S. 25, 38-39.
+While both sides rely on North Carolina v. Alford in support of their contrary positions, we conclude that the reasoning of the opinion supports the validity of defendant’s plea in this case.
+Before accepting the plea the trial judge carefully admonished defendant as to all of his constitutional rights and made all of the particular inquiries specified in Supreme Court Rule 402. The factual or evidentiary basis for the plea to the burglary charge is supplied by the prosecutor’s statement. He stated that a witness by the name of Robert S. Shephard, a friend of the defendant and a participant in the burglary with the defendant, was granted immunity and made a full statement of the involvement of himself and the defendant in the burglary. The prosecutor also described the details of Shephard’s testimony as to the entry into the building in question, the removal of a safe and its transportation in a truck taken at the scene. In answer to the court’s inquiry, the public defender stated that there was $146 in the safe, while the prosecutor said it was approximately $150. The defendant’s counsel also stipulated that the testimony would be as stated by the prosecutor. The following colloquy then occurred:
+“THE COURT: All right. Mr. Lundeen, what is your version of this occurrence?
+THE DEFENDANT: I think Mr. Shephard’s testimony is right.
+THE COURT: And you did participate in this?
+THE DEFENDANT: That’s what the evidence is on the thing.
+THE COURT: I am asking you directly, did you go into the Green Mill Cleaners?
+THE DEFENDANT: Yes.
+THE COURT: And you took this safe out?
+THE DEFENDANT: Yes.
+THE COURT: And the testimony that the witness would give— Mr. Shephard, is it — it is substantially true?
+THE DEFENDANT: Yes.
+THE COURT: All right, let the record show there is an evidentiary basis for tire plea of guilty to the charge in 72 CF 152, as set forth in Count I thereof, to the offense of burglary.”
+At the sentencing hearing the court noted that the defendant had told his probation officer that he was not guilty of the offense of burglary and the court thereupon conducted an extensive inquiry of the defendant on this question. Defendant responded that he was not involved in any way, that he heard about it afterwards, didn’t participate and was at home when it happened. On further inquiry, the defendant said he still wanted to plead guilty to the offense because of other charges against him. As to the other charges he said that he had been told that he could not win because the evidence was too good and that if he didn’t plead guilty to this he would get a severe sentence. The defendant also stated that in view of his record he could not “beat any charges that are brought against me now.” He said he had been sent to prison 3 to 5 years for burglary and he could not take the stand in his own defense, that he had other convictions and that his testimony would not be believed. He concluded, “So I have plead guilty to as less a sentence as I could, plus I have other personal reasons why I would like to plead guilty.” The court renewed the inquiry and was advised by the defendant that he thought that this was his only way out. The defendant admitted that his attorney was willing to take the case to trial and had told him there was a 50-50 chance of “beating” it at trial.
+At this point, the trial judge offered the defendant the opportunity to withdraw his plea of guilty and go to trial on the burglary charge. The defendant replied that he did not wish to do so. The court then made the finding on the record that there was sufficient evidentiary basis for the plea of guilty.
+Defendant argues, in effect, that the factual basis is weak because it is derived from the testimony of a participant in the burglary who was granted immunity from prosecution in return for his statement. Defendant also argues that the factual basis does not establish that he committed the offense of burglary because there is no testimony that his entrance in the building was “without authority” or was with the “intent to commit therein a felony or theft.” We do not find either contention persuasive.
+The uncorroborated testimony of an accomplice even though he has been given a promise of leniency is competent evidence (People v. Robinson (1974), 16 Ill.App.3d 919, 921-22). The factual basis for the plea may be demonstrated even if the defendant fails or refuses to admit he committed the crime by having the prosecuting attorney summarize the testimony to be presented. People v. Hudson (1972), 7 Ill.App.3d 800, 803; People v. La Fette (1974), 21 Ill.App.3d 31, 33.
+The statement of the proposed testimony adequately established the elements of the offense including the intention to commit a felony or theft, which could be found from the circumstances. See People v. Warship (1974), 59 Ill.2d 125, 130-131.
+The defendant relies on People v. Clark (1973), 13 Ill.App.3d 39, People v. Dye (1972), 7 Ill.App.3d 805, United States ex rel. Dunn v. Casscles (9th Cir. 1974), 494 F.2d 397, and United States v. Davis (5th Cir. 1974), 493 F.2d 502, as authority for vacating his plea, but we find each to be clearly distinguishable from the case before us. In both Clark and Dye, there was no evidentiary or factual showing of the circumstances of the crime and the plea was accepted solely on the basis of defendant’s admission that he had committed the crime charged in the indictment. In Casscles, defendant’s affirmative general statements that he did commit the crime were off-set by negative statements that he did not and there was no offer of what the proof would have been had the case gone to trial. In Davis, the defendant entered a plea of guilty to possessing a United States treasury check which had been stolen from the mails, knowing the same to have been stolen, but she at all times denied that she had received the check from another individual knowing it was stolen. The cotut accepted the plea even though there was no other record to show a factual basis. In addition, the court was deciding the case on the basis of Federal Rule 11 (Fed. R. Crim. P. 11) and was not ruling on a constitutional issue.
+For tire reasons that we have stated, we conclude that the trial court’s acceptance of the defendant’s guilty plea did not deny him due process of law and that post-conviction relief was properly denied. We therefore affirm the judgment.
+Affirmed.
+GUILD and HALLETT, JJ., concur.
+The State has argued that we should not consider the appeal because a violation of the procedural Supreme Court Rule, including the requirement that there be a factual basis for the plea, does not raise a constitutional issue to be reached in a post-conviction hearing. The defendant has, in our opinion, sufficiently raised constitutional issues of due process so as to bring him within the Post-Convietion Hearing Act.
