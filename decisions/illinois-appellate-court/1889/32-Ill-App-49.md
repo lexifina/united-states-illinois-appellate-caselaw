@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-11-23"
+citations: ["32 Ill. App. 49"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Prentiss D. Cheney, Guardian, etc., v. Harry W. Roodhouse."]
+source_url: "https://static.case.law/ill-app/32/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4979645
+---
+
+# Cheney v. Roodhouse
+
+## Majority (Conger, J.)
+
+Conger, J.
+Peter Roodhouse died intestate June 9, 1879, in Greene county, leaving him surviving Harriet Roodhouse, his widow, appellee, Harry W. Roodhouse, issue of a former marriage, and Benjamin T. Roodhouse, issue of his last marriage, his two sons and only heirs at law. Hrs. Roodhouse, together with appellee, became the administrators of the estate. In October, 1879, Hrs. Roodhouse, with her son Benjamin, removed to Washington, D. C., where they have since resided, leaving appellee to manage the administration of the estate, as well as the lands left by Hr. Roodhouse. On October 17, 1881, appellee was appointed guardian of his brother, and it is upon the settlement of his account as such guardian that this controversy arises.
+Upon appellee’s making his final report several exceptions were filed thereto, some of which were by the court below overruled, and some in part sustained, and which we will notice in.regular order.
+Appellee filed no report until appellant was appointed to succeed him, such report having been filed on the 16th of January, 1888. And it is insisted by appellant that such report in form is radically wrong. That it does not, as it should, purport to show the balance in his hands at the end of one year after his appointment, and the balance in his hands at the end of each year thereafter.
+The report is open to this objection, but it does show the entire amount collected and expended, and computes the amounts upon the principle of yearly rests, so that the rights of the ward are as fully protected as though such report had been made in proper form. It might have. been proper in either the County or Circuit Courts to have required appellee to have complied with the suggestion made, but we are not inclined to reverse the case because the report may not be in form, if it can be ascertained that the rights of the minor have been fully set forth, and we think they have.
+It is urged that the calculations of interest as set forth in the report, is a mere guess on the part of appellee, and the account does not furnish the data from which such calculations can be verified or refuted. This is an error, for we have taken the trouble to go through the account as presented in the record, each year by itself, and making rests at the end of each year as required by the rule of the Supreme Court, and the result is so near that shown by the report as filed, as to show that in principle they are the same, the difference being only such as would naturally arise in making so many calculations.
+It is next insisted that the annual rent of $900 as reported by appellee is too low, and should have been increased. We think the evidence shows that amount to have been just and equitable and think the action of the court in fixing the rent at that sum, was fully warranted by the evidence. It is true appellee at one time told Mrs. Roodhouse, he thought he could pay as rent for the land $2,500, and for that year he did pay to her two-thirds of that sum, but he denies that he made any contract to that effect, but says it was only his opinion of the probable value of the rents before he had ascertained by trial, and in the absence of any contract the ward should recover only what would be a reasonable rent, and that we think he has done.
+It is next made the subject of complaint that the Circuit Court did not require appellee to pay interest from January 16, 1888, to March 8, 1888; appellee on the former date tendered the money in his hands to the judge of the County Court, and was by him directed to place the funds in bank until further orders, and under these circumstances we see no impropriety in relieving him from the payment of interest while it was so held subject to the order and disposition of the court.
+The fourth and fifth objections relate to the allowance by the court of certain items credited to appellee in his account, and of which we can not speak in detail without making the opinion too voluminous. We think the evidence fully justified their allowance.
+By making the repairs and improvements on the ward’s lands without a preceding order of the County Court, appellee did not lose the right to be repaid for them, but he did assume the burden of showing, at the time of asking credit therefor, that they were necessary and proper, to the interest of the ward, and paid for at reasonable rates. This, we think, appellee did.
+The sixth objection as stated by counsel for appellant is: “All the crops growing and unmatured on the lands of Peter Roodhouse at the date of his death, June 9, 1879, were immediately vested in his two sons as a part of his real property and the administrator had no rightful authority to appropriate the same.” By Sec. 94 of Chap. 3, R. S., the administrator is expressly authorized to do what he did in the case at bar, viz.: as administrator of his father’s estate he sold these growing crops as other personal property, and applied the proceeds toward the payment of the decedent’s indebtedness.
+The seventh and eighth objections are general complaints based upon the negligence and carelessness of appellee in failing to file an inventory of the ward’s estate, in failing to make reports as he should, and in failing to loan his ward’s money and rent his lands.
+That appellee was guilty of great negligence .in the performance of his duties as guardian can not be denied, but he has been punished for his failure to make an inventory and report by having his entire commissions as guardian, amounting to over 8600, taken from him, and he has been required to account for all moneys received, with six per cent compound interest with annual rests, and a rent upon the land fully as high as the evidence would justify, and we are at a loss to know what more should in these respects be required.
+We will dispose of the remaining objections of appellant as well as the cross-errors assigned by appellee, by saying that after giving the whole record a careful investigation, we are satisfied that the decree of the Circuit Court is a fair and just settlement between appellee and his ward, and that neither party has any good reason to complain.
+The decree of the Circuit Court will be affirmed.
+Decree affirmed.
