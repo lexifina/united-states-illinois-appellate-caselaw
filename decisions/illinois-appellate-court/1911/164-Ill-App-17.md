@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1911-10-14"
+citations: ["164 Ill. App. 17"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Galanos, Appellee, v. Springfield & Northeastern Traction Company et al., Appellants."]
+source_url: "https://static.case.law/ill-app/164/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2750534
+cites_cases: ["245 Ill. 460"]
+---
+
+# Galanos v. Springfield & Northeastern Traction Co.
+
+## Majority (Mr. Presiding Justice Philbrick)
+
+Mr. Presiding Justice Philbrick
+delivered the opinion of the court.
+This action is brought by appellee against appellant to recover for injuries received by appellee while in the employ of appellant as section hand; the trial below resulted in a verdict against appellant for $350.
+The record discloses that appellant employed gangs of section men each working under a foreman; that appellee was in the employ of appellant as a section man; that while in such employ it became and was part of his duty to assist in hauling refuse, brick and mortar on cars of appellant; that the several section gangs were jointly doing this work; that in this work it was necessary to load the refuse upon flat cars, haul it to its destination and unload it; that in doing this work standards were placed upon the sides of the flat cars and boards placed on edge against the standards for the purpose of holding the refuse upon the cars. After the cars had been taken to their destination and the load removed therefrom they were then returned to the point of reloading, and the boards- that were placed against the standards for the purpose of preventing the dirt from falling off were either laid flat upon the cars or set on edge along the standards. There is some evidence that it had been customary and usual to lay the boards flat upon the cars, but that in order to save time at the point of reloading, the section men were directed by the foreman to place the boards on edge against the standards so they might be in place when arriving at the point of loading. At the time of the injury while the cars were returning to the point of reloading, through the jolting or jostling of the oars, the boards became displaced upon the flat car and either did or were in danger of coming in contact with the poles that support the wires holding the trolley wire along the right of way of appellant. While appellee was upon the car one of these boards hit him, knocking him from the car and injuring him. The board hit appellee after coming in contact with the pole. There is some evidence that one of the section foremen saw that the boards were displaced and were about to come in contact with the pole, when he directed appellee to seize the boards and replace them in their position upon the car. While appellee was attempting to obey this command the board struck him. This evidence was afterwards excluded by the court upon the ground that the person who directed appellee to replace the board was not the foreman under whom appellee was working, but was the foreman of another section gang, and it is insisted that as to appellee the foreman who directed appellee to replace the board was not a vice-principal.
+The first count of the declaration charges that appellee was directed by the foreman who was a vice principal to do and perform certain dangerous work and this command consisted in directing him to take hold of or replace the hoards in position on the ear at or ahont the time they were liable to come in contact with the pole along the right of way. The second additional count charges negligence in the handling and operation of the cars and that by reason thereof the board became displaced and appellee was injured by being struck by it. The evidence is conflicting as to what caused the board to come in contact with the pole and as to how or in what manner appellee was struck thereby.
+The argument of counsel for appellant seems to be very labored and is technical in the extreme. With the evidence which related to the count containing the charge of directing appellant to perform certain dangerous work excluded by the court, it is evident that the verdict was rendered, and permitted to stand, on the second count of the declaration. This count stated a good cause of action. There is evidence tending to prove it, and it was not error for the trial court to refuse to give a peremptory instruction for defendant. Where the declaration contains a good count to which the evidence in the record is applicable, a verdict should not be directed. Scott v. Parlin etc., 245 Ill. 460.
+While the evidence in this case is close, we cannot say that the finding of the jury upon the issues of fact involved is clearly unwarranted, and unless this court can say that the verdict is clearly against the manifest weight of the evidence, it should not'be disturbed.
+Criticism is made of the third instruction given on behalf of appellee in that it turns the jury loose and permits them to find a verdict without confining them to the charges of negligence in the declaration. Upon examination of this instruction, we do not find it subject to the criticism made. While the instruction is inaccurate in some particulars, we think it sufficiently confined the jury in its deliberations to the allegations of the declaration and the evidence in the cause, and that the giving of the instruction was not such error as to require reversal of the cause.
+Finding no prejudicial error in the record, the judgment is affirmed.
+Affirmed.
