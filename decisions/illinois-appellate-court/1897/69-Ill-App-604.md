@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-03-29"
+citations: ["69 Ill. App. 604"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Chandler et al. v. Louisville Banking Co."]
+source_url: "https://static.case.law/ill-app/69/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5205667
+cites_cases: ["90 Ill. 440"]
+---
+
+# Chandler v. Louisville Banking Co.
+
+## Majority (Mr. Presiding Justice Shepard)
+
+Mr. Presiding Justice Shepard
+delivered the opinion of the Court.
+The question here involved is one of equitable priority between the defendant in error, and the plaintiff in error, Thompson, to accrued and unpaid rent due from the firm of William Goodrow & Co., a tenant and occupant of certain premises in Chicago, under a written lease from the plaintiff in error, Chandler.
+The Louisville Banking Company, defendant in error, obtained a judgment at law for §2,495, and costs, against Chandler on September 20, 1894, upon ivhich an execution was duly issued and returned wholly unsatisfied. Thereupon, on September 14, 1896, it filed its creditor’s bill against Chandler, and the members of said firm of Good-row & Co., and other persons, and on September 19, 1896, filed its amended and supplemental bill, bringing into the suit one Dudley, who turned out to be only the representative of said Thompson, and attacking a judgment that was confessed by Chandler in- favor of Dudley on August 20, 1896, and attacking also an assignment that purported to have been made on September 10, 1896, by Chandler to Dudley, of the lease under which the rent in question accrued.
+Service of summons issued upon the original bill, was had upon Chandler and the Goodrows on the same day the bill was filed, September 14, 1896, and Dudley was served with summons upon the amended and supplemental bill on September 23, 1896.
+Answers by all of the defendants were promptly filed, and the cause coming on to be heard on the merits, the chancellor gave a' decree finding the material allegations of the bill and supplemental bill to be true; that of said rent accruing from the Goodrows to Chandler there remained due and unpaid at the filing of the bill the sum of $2,830, and that since the service of process $150 additional rent had accrued, making a total of $2,980, and that the Goodrows were liable therefor; that there was, at the time of the decree, $2,752.12 due from Chandler to the banking company, besides costs, making a total of $2,763.62, which it was decreed should be paid by the Goodrows to the banking company in satisfaction fro tanto of said $2,980 rent, so found to be due and unpaid from them to Chandler.
+The claim of Thompson, through Dudley, for priority over the banking company to the amount of $2,883.12 for cash advanced by Thompson to Chandler, rests, at last, upon two questions of fact, if we assume, as for the purposes of this opinion we do, that said amount was justly due by Chandler to Thompson.
+One of those questions is, was there an oral assignment of the rent in question made' by Chandler to Thompson on August 18, 1896, which was the date of the last advance of $250, made by Thompson to Chandler ?
+We agree with counsel for plaintiff in error that the 'equities of the banking company are susceptible of being worked out only through Chandler, and hence, if as between Chandler and Thompson, such an assignment was at that time made by Chandler to Thompson as would estop Chandler from questioning it in equity, it would so operate as between the banking company and Thompson. Bonte v. Cooper, 90 Ill. 440.
+But from a considerate examination of the evidence upon that question, our conclusion is, that there was neither a a legal nor an equitable assignment of the lease, nor of the rent due or to become due thereunder, made at that time under which Thompson could claim anything as against Chandler, or anybody else, either at law or in equity.
+The other question is, was the assignment of the lease that was executed on its back by Chandler to Dudley (who stood in place of Thompson) made on September 10, 1896, the date it bears, or was it made after September 14, 1896, the day on which the Goodrows—the lessees—were served with summons upon the original bill, and dated back as of the tenth ?
+Dudley was not called as a witness. Chandler and Thompson testified, but neither of them said anything upon that subject.
+Mr. Powers, counsel for plaintiffs in error, testified that he wrote the assignment and that it was signed by Chandler in his presence on the date it bears, and that he “ immediately went to the office of Mr. Williams and showed him the lease. * * * I am quite sure that I showed Mr. Williams the assignment on the back of the lease on September 10 th.
+Q. Did you call Mr. Williams’ attention particularly to this assignment on the 10th? A. Yes, sir; because I told him that I should not, under any circumstances, rely upon the creditor’s proceeding; that I should rely upon the assignment of the lease.”
+Mr. Williams was the attorney for the Goodrows, and he and Mr. Powers had previously had a number of consultations together regarding the amount of rent that was due upon the lease, and how its payment by the Goodrows could be made with safety to themselves against the claims of other persons whose rights, or supposed rights to the rent need not be mentioned in this connection.
+Mr. Williams was the only other witness who testified upon the subject, and his testimony was:
+“ I think 1 first saw the assignment on the back of the lease on the norning of the 15th of September (1896). * * 1 am certain that it was after the service on the Goodrows in-this suit.
+Q. What time, if at all, were the summonses served on the Goodrows brought to your office? A. They were brought to my office late in the afternoon on the same day that the bill was filed.
+Q. Was that Monday, the 14th ? A. I think that was Monday, the 14th of September. * * *
+Q. Mr. Powers has stated that he saw you on the morning of September 1 Oth, and showed you that assignment. What can you say with reference to that? A. I did not see that assignment until the morning of the 16th (15th ?), I am positive of that.
+Q. Mow, did Mr. Powers, on September 10th, say anything to you about his having any assignment on that lease ? A. Mo. * * * I saw very little of the adjusting and accounting had on the 10th, because I was in and out of the office during the afternoon, and Messrs. Goodrow and Powers together talked the matter over. * * * Mr. Powers came into the office the morning after the bill was filed in this case, and I said to him that we were confronted by another creditor’s bill. Mr. Powers said, 1Well, what of it ? ’ And I said, ‘ There is this about it, there is another claimant for the rents.’ He then took the lease out of his pocket and said, 1 Well, I have an assignment of the lease.’ He then handed me the lease and I read the assignment on the back of the lease. Then we had some little talk about the assignment. I don’t now recollect just Avhat was said, but I knoAv I hesitated about doing anything further in the matter, and I think Mr. Powers then left the office. I don’t recollect anything else that was said at that time; I knoAv I didn’t see that assignment before; I have a distinct recollection about that.”
+Inferences might be draAvn from the date which the assignment bore, and from other circumstances surrounding the then pending negotiations, which Avould to some extent, and about equally, confirm the recollection of each of the Avitnesses, Mr. PoAvers and Mr. Williams, who alone testified directly upon the question.
+But from a candid and full consideration of all the evidence and the surrounding circumstances, we are not able to say that the chancellor Avho heard the Avhole c'ase and saw the witnesses, came to an erroneous conclusion upon evidence that was conflicting and was about evenly balaimed, that the assignment was, as against the defendant in error, void and ineffectual.
+And we must, therefore, affirm the decree.
+The defendant in error asks that it be allowed as costs thé expense it has been put to in printing an additional abstract. We have found the additional abstract to be of material service in numerous respects wherein the original abstract was defective, but it was quite unnecessary to reprint, as was done, the whole of the original abstract. One-half of the cost of printing the additional abstract will be ordered to be taxed against the plaintiff in error.
