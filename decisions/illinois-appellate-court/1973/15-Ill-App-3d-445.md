@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "72-315"
+decided: "1973-12-06"
+citations: ["15 Ill. App. 3d 445"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. William Barrington, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/15/cases/0445-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2459972
+cites_cases: ["229 N.E.2d 161", "278 N.E.2d 861", "286 N.E.2d 745", "3 Ill.App.3d 240", "6 Ill.App.3d 858", "86 Ill.App.2d 202"]
+---
+
+# People v. Barrington
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court:
+Defendant, William Barrington, was charged by complaint with battery and following a trial without a jury was found guilty and fined ten dollars by the Circuit Court of Warren County. In this appeal defendant’s main contention is he was not proven guilty of the crime of battery as set forth in section 12 — 3 of the Criminal Code. Ill. Rev. Stat. 1971, ch. 38, par. 12 — 3.
+At the trial the two complaining witnesses, Dianne Kenney and Jo Van Pitman, testified on behalf of the State. Both were students at Alexis High School in Warren County and had remained after school hours for cheer-leading practice. According to both witnesses, during practice several of the girls had pushed a metal coat rack which was on rollers from the south end of the north-south hallway to the practice area in the lobby in front of the gym. After practice the faculty sponsor told the girls to return the rack. Kenney, Pitman and two other girls were sitting on the base of the rack while another girl was pushing the rack toward the south end of the hallway. Defendant was a teacher at the school and his room opened on a short hallway which intersected the main north-south hallway. As the girls approached the area where the two hallways meet, a wheel on the coat rack became lodged and caught in the east-west hallway opening with the rack coming to a rest so that it completely blocked the opening. According to the State’s witnesses, defendant came out of his room, walked up to the coat rack which blocked his hallway, said “What the hell is going on” and pushed the rack over in a manner which caused injury to the two girls.
+According to defendant’s testimony he heard laughter, giggling, someone imitating a train, and the rolling of wheels in the hallway and then opened his door to find out what was going on, saying “What the hell is going on”. He walked to the end of his corridor and found the coat rack blocking his entrance into the north-south hallway. In an attempt to enter into the hallway from where the noise was coming and discover the cause of the commotion, defendant gave the rack a push, not knowing the wheel was jammed. He stated his intention was to move the rack which was blocking his way by giving it a push but instead the rack fell over.
+Section 12 — 3(a) of the Criminal Code in part provides, “A person commits battery if he intentionally or knowingly without legal justification and by any means, (1) causes bodily harm to an individual * # In essence the complaint charged defendant with intentionally or knowingly causing bodily harm to the two complaining witnesses by forcibly pushing the coat rack upon them.
+Defendant argues the State must prove not only the act which results in bodily harm to another but also the requisite mental state and contends the State in this case failed to do so. The State concedes in its brief that it is doubtful defendant “intended” to harm the girls but that defendant’s actions were done in anger and with full knowledge that harm to the girls would result. Section 4 — 5 of the Criminal Code states a person acts knowingly of the result of his conduct if ‘he is consciously aware that such result is practically certain to be caused by his conduct.”
+From a consideration of all the testimony, we do not believe the evidence shows beyond all reasonable doubt that defendant pushed the coat rack knowing harm to the girls would result nor consciously aware harm was practically certain to be caused by his conduct. While the requisite mental state for a crime may be proved by acts and circumstances surrounding a defendant’s conduct (People v. Olson, 3 Ill.App.3d 240, 278 N.E.2d 861 and People v. Zazzetti, 6 Ill.App.3d 858, 286 N.E.2d 745), we find no circumstances from which the requisite mental state can be inferred in this case. To the contrary it is undisputed the rack was blocking defendant’s passage from the west hallway into the north-south hallway and he had asked what was going on after hearing commotion in the main hallway. Also, it is undisputed the wheel of the rack was caught which may have contributed to the overturning of the rack when it was pushed. Defendant denied knowing the wheel was caught, and indeed there is no evidence to show how he would have been aware of this fact before he pushed the rack. The natural consequence of giving a coat rack on rollers a push is that it will roll the direction it is pushed, not that it will fall over. In view thereof, knowledge that pushing the rack was practically certain to cause bodily harm cannot be inferred. Also, from the mere fact defendant was angry, irritated or disapproving both before and after he pushed the rack, it cannot be inferred that he had the requisite mental state for the crime of battery especially in view of the type of vociferous play which occurred in the hallway.
+It is pointed out in the Committee Comments to Section 12 — 3, Chapter 38 of Smith-Hurd Illinois Annotated Statutes (S.H.A. ch. 38, par. 12 — 3), it is no longer possible to commit a battery under Illinois law through recklessness or gross negligence. We note in the record of the post trial hearing, the trial judge stated, “* * * he may not have intended to strike these girls with the coat rack, but he did it in anger and in a reckless manner * * To act recklessly falls short of acting intentionally (People v. Higgins, 86 Ill.App.2d 202, 229 N.E.2d 161) and is insufficient to sustain a charge of battery.
+The evidence is insufficient to sustain the trial court’s finding, and therefore, the battery conviction cannot stand.
+The judgment of the Circuit Court of Warren County is reversed.
+Judgment reversed.
+ALLOY, P. J., and DIXON, J., concur.
