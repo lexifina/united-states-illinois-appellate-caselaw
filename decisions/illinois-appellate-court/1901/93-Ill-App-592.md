@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-13"
+citations: ["93 Ill. App. 592"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. M. Sinclair & Co. v. E. F. Goodell et al."]
+source_url: "https://static.case.law/ill-app/93/cases/0592-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5287841
+cites_cases: ["92 Tenn. 155"]
+---
+
+# T. M. Sinclair & Co. v. Goodell
+
+## Majority (Mr. Justice Dibell)
+
+Mr. Justice Dibell
+delivered the opinion of the court.
+This was a suit brought by appellant, an Iowa corporation, against appellees, partners as John Stewart & Co., bankers, at St. Charles, Illinois, to recover the amount of four checks drawn on said firm and payable to the order of appellant, which appellees paid to W. H. Davis upon his indorsing the name of appellant upon the back of said checks. Davis did not pay the money to appellant. The cause was tried by a jury in the Circuit Court upon an appeal from a justice of the peace, and there was a verdict and a judgment for defendants, and plaintiff appeals.
+Appellant is a wholesale dealer in meats and like commodities and has a branch office at Aurora, Illinois, and a local manager there, in charge of the selling of its products by wholesale to merchants in that part of the State. Davis was an employe of appellant whose duty it was to travel over certain territory in the vicinity of Aurora, and take orders for its meats, and to collect its bills after the orders had been filled. He had authority to receive either cash or checks and to receipt the bills when paid. It was his dutv to bring the cash and checks which he collected to the branch office of plaintiff in Aurora, and deliver them there to the local manager. He had never been given authority to indorse checks in the name of the corporation, or 'to collect such checks. He therefore had no express authority to indorse the name of appellant on the back of these checks and to collect them from the bank upon which they were drawn, and no. such implied authority, unless that arises from the nature of his agency or from some special facts appearing in proof.
+A bank at its peril pays checks drawn upon -it to any other than the person to whose order they are made payable. (Tiedeman on Commercial Paper, Sec, 431.) Possession by an agent of an unindorsed note or check gives him no authority to receive payment thereof. (1 Randolph on Commercial Paper, Sec. 364.)
+“Ho authority will be implied from an express authority unless it is positively needful for the performance of the main duties contemplated b}7 the express authority. * * The execution and negotiation of commercial paper are considered by the commercial world so liable to the infliction of injury on the principals if this authority is given to agents—the general custom being to reserve this power for personal exercise—that the presumption of the law is more strongly opposed to an implied authority to execute commercial paper than to do anything else. Hence, in this connection, the rule is strictly enforced, that the authority to execute and indorse bills and notes as agent will not be implied from an express authority to transact some other business, unless it is absolutely necessary to the exercise of the express authority.” (Tiedeman on Commercial Paper, Sec. 77.)
+An authority to receive checks in lieu of cash in payment of bills placed in the hands of an agent for collection does not authorize the agent to indorse and collect the checks. A commercial traveler employed to sell and take orders for goods, to collect accounts and to receive money and checks payable to the order of his principal, is not by implication authorized to indorse such principal’s name to such checks. (Jackson v. Bank, 92 Tenn. 155.) Under the foregoing authorities and the cases therein cited, we are constrained to hold that the duties imposed upon Davis - in his employment for appellant gave him no implied authority to indorse checks and .collect them from the banks upon which they were drawn, and that appellees acted at their peril in cashing checks presented by him upon his indorsement of appellant’s name without ascertaining the extent of his authority, and that there having been no authority in Davis to collect them, the bank still remains responsible to the legal owner of said checks.
+Appellees introduced in evidence thirty-three checks drawn by different parties on appellees in favor of appellant, and which Davis had indorsed with the name of appellant in the same way and had collected the money thereon from appellees prior to the presentation of the checks in suit. If there were any proof appellant knew of this course of conduct pursued by Davis, it might well lead to the conclusion that appellant either authorized or ratified his indorsement and collection of the checks. But there is no proof appellant had any knowledge of these facts. At these prior times Davis came back with the cash he had been sent out to collect, and the local agent of appellant at Aurora had no means of knowing (so far as appears in the proofs before us), that Davis got this money from checks payable to appellant, and by Davis indorsed in the name of appellant and collected at the- bank. The judgment is therefore reversed and the cause remanded for a new trial.
+Reversed and remanded.
