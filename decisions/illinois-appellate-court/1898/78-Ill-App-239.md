@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-10-05"
+citations: ["78 Ill. App. 239"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Jacobus v. J. M. Hazlett et al."]
+source_url: "https://static.case.law/ill-app/78/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5787202
+cites_cases: ["125 Ill. 500"]
+---
+
+# Jacobus v. Hazlett
+
+## Majority (Mr. Justice Burroughs)
+
+Mr. Justice Burroughs
+delivered the opinion of the court.
+The appellant brought suit against the appellees to recover damages for their failure to deliver to him 274 bushels of wheat which he claims to have bought of them; they resisted it because they claimed never to have sold him" the wheat, or if they did, the contract to sell same was a gambling contract and for ,that reason void and of no effect. There was a trial by a jury in the Circuit Court of Fulton County, and a verdict returned against the appellant by the direct instruction of the court. The appellant brings the case to this court by appeal and insists that the verdict was contrary to the law and evidence; and that it was produced by the erroneous instruction given by the court to so find. •
+An examination of the evidence in the record here shows that the appellees owned twenty acres of growing wheat which the appellant insisted would yield more than thirty bushels per acre, while the appellees insisted its yield would be much less; after considerable talk between them concerning the jdeld of this field of wheat, the appellant offered to wager a sum of money with the appellees that when cut and threshed, his judgment of the quantity of wheat ' it would yield would be found to be correct, and not that of the appellees. Finally, on the day the threshing of this wheat was commenced, after these parties had again talked over the question of the yield of the wheat, and still" differed concerning it, and after the appellant had failed tó procure the appellees to bet a sum of money as to which was nearest right in their judgment as to the quantity of wheat, the appellant proposed to the appellees.that he would pay for the threshing for all there was over 600 bushels, and this proposition was accepted by the appellees, and the appellant did pay for threshing the wheat, which, when threshed and measured, turned out to be 874 bushels. The appellant claimed he was entitled to the 274 bushels of wheat, being, the excess over 600 bushels, but the appellees refused to let him have it.
+The appellant insists that he is entitled to recover of the appellees the price of the 274 bushels of wheat, as he bought it for the price of the cost of threshing the whole 874 bushels, which price he paid.
+Our conclusion from the evidence is, that the actual contract made between the parties was a gambling contract, within the meaning of Sec. 253, Vol. 1, p. 1208, 2d edition Starr & Curtis’ Illinois Statutes, which is as follows: “ All promises, notes, bills, bonds, covenants, contracts, agreements, judgments, mortgages or other securities or conveyances made, given, granted, drawn or entered into or executed by any person whatsoever, where the whole or any part Of the consideration thereof shall be for any money, property or other valuable thing won by any gaming or playing at cards, dice or any other game or games, or by betting on the side or hands of any person gaming, or by wager or bet upon any race, fight, pastime, sport, lot, chance, casualty, election, or unknown or contingent event whatever, or for the reimbursing or paying any money or property knowingly let or advanced at the time and place of such play or bet to any person or persons so gaming or betting, or that shall, during such play or betting, play or bet, shall be void and of no effect;” and as such it was void and of no effect; because when the contract was made, the number of bushels of wheat the field would yield was to the parties an unknown and uncertain.event, upon which, when ascertained, the one would lose and the other gain; since if the yield of the wheat, when threshed and measured, was enough more than 600 bushels to more than pay for the threshing of all of it, then the appellant would be the winner; if less, then the appellees would be the winners. 1 This .clearly brings the contract within the definition of a wager or bet, which is defined t’o be “ a contract by which two or more parties agree that a certain sum of money or other thing shall be paid or delivered to one of them on the happening or not happening of an uncertain event.” Bouvier’s Law Dictionary, 14th Ed., 647 and 648.
+It makes no difference, as to the right to recover in this case, that the parties clothed their bet or wager in the garb of an apparent contract of sale of the 274 bushels of wheat, since it does appear that the effect of the real transaction was that the appellant was to win if the field yielded more than enough wheat, above 600 bushels, to pay for threshing all of it, and the appellees were to lose in case the yield was less.
+In Cothran v. Ellis et al., 125 Ill. 500, it is held that because of the section oh our statute above quoted there' can be no such thing as a valid wagering contract in this State.
+We therefore hold that the court below did not err in instructing the jury to find a verdict for the appellees, and the verdict rendered was not against the law and the evidence; hence we affirm the judgment of the Circuit Court of Fulton County in this case. Judgment affirmed.
+Justice Glenn, having tried this case in the court below, took no part in this decision.
