@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-09-11"
+citations: ["91 Ill. App. 101"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, etc., ex rel. W. H. Wells et al. v. William C. Lanham, Executor."]
+source_url: "https://static.case.law/ill-app/91/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5283348
+cites_cases: ["23 Ill. App. 68"]
+---
+
+# People ex rel. Wells v. Lanham
+
+## Majority (Mr. Justice Wright)
+
+Mr. Justice Wright
+delivered the opinion of the court.
+Appellants petitioned the County Court for a citation against appellee, as executor of Thomas P. Lanham, deceased, to compel him as such executor to sell the northeast quarter of the northeast quarter, section 33, town 21 north, range west, in Vermilion county, to pay the debts of the deceased. The petition discloses the fact that Thompson P. Lanham died August .18,1876, and that his will was thereafter duly probated, and that appellee was appointed and qualified as executor, and that the real estate above described was given to his wife fot and during her life, in lieu of dower in the real estate of the deceased, and the will conferred power upon the executor to sell all real estate at public or private sale, in his discretion, for the purpose of paying the debts of the testator; and that after the disposition of all the available assets, both personal and real, except the forty acres above described, there still remained a balance of seventh class claims due the creditors of $4,332.34; that at time of the allowance of the claims, Margaret Lanham, the widow of the testator, was in possession and occupancy of the forty acres as a homestead, and also seized of a life estate therein in lieu of dower, and at such time the value of the land did not exceed $1,000. Margaret Lanham, widow, died September 15, 1898. Appellee answered the petition to the effect that all the claims of the petitioners were entered in judgment against the estate more than twenty years prior to the filing of the petition and the issue of citation, and are therefore barred by the statute of limitations; that at time of testator’s death the forty acres was occupied by himself and wife as their residence and homestead, and from then and until the widow’s death it was her residence and homestead, and not worth to exceed $1,000, and was exempt from forced sale by the homestead and exemption laws; that at time of the death of the testator, appellee was the sole heir at law and devisee under the will, and as such, claims the land in question free from the claim of petitioners. The County Court sustained the demurrer to the answer, and granted the order demanded by the petition, from which appellee appealed to the Circuit Court, which overruled the demurrer, and petitioners abiding by it, the court gave final judgment against them, to reverse which this appeal is prosecuted.
+Appellants contend that from the time of the death of the testator in 1876, to September 15,1898, when his widow died, no time existed when their claims could be enforced against the forty acre tract occupied by the widow, and they have not therefore been guilty of laches, and the statute of limitations does not apply. Appellee insists the twenty year statute of limitations, applied to judgments, has run against the judgments in the County Court against the estate, and they are incapable of enforcement in any manner whatever.
+We are of the opinion that the allowance of a claim against the estate of a deceased person, is a judgment of a court of record. The opinion of the court, with authorities cited, in Barnes v. Maring, 23 Ill. App. 68, in our judgment concludes further argument upon this question. If the allowance of the claims are, then, to be considered as judgments, and' nothing appears to bring them within any exception contained in the statute, argument becomes futile in attempting to find reasons for exceptions that have no existence in the law. The plain provisions of the statute are (paragraph 26, chapter 33, Rev. 99), that judgments in any court of record in this State may be revived by scire facias, or an action of debt may be brought thereon within twenty years next after the date of such judgment, and not after. The judgments that appellants are attempting to enforce by their petition, having been entered more than twenty years before the filing of the petition, are, in our opinion, barred by the statute of limitations, and the judgment of the Circuit Court for such reason was right, and it will be affirmed.
