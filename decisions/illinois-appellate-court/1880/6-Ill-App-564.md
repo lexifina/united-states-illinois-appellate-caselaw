@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1880-08-05"
+citations: ["6 Ill. App. 564"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary F. Carbine et al. v. Wendell Sebastian et al."]
+source_url: "https://static.case.law/ill-app/6/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4747035
+cites_cases: ["11 Kan. 218", "15 Ill. 232", "18 Kan. 223", "2 Edw. 631", "2 Scam. 515", "25 N. Y. 320", "27 Ala. 203", "3 Wend. 412", "30 Ill. 482", "34 Ill. 306", "37 Ill. 216", "4 Gray, 318", "4 Hill, 123", "4 Johns Ch. 370", "4 Paige 206", "42 Ill. 217", "43 Ill. 388", "5 Leigh 192", "50 Ill. 470", "54 Ill. 363", "59 Ill. 515", "6 N. Y. 82", "69 Ill. 214", "69 Ill. 221", "70 Ill. 109", "70 Ill. 151", "70 Ill. 581", "71 Ill. 473", "73 Ill. 476", "76 Ill. 484", "76 Ill. 526", "81 Ill. 232", "81 Ill. 281", "81 Ill. 607", "93 Ill. 177"]
+---
+
+# Carbine v. Sebastian
+
+## Majority (McAllister, P. J.)
+
+McAllister, P. J.
+It is, as a general rule, not proper in a bill to foreclose a mortgage to make adverse claimants parties for the purpose of having the court pass upon their titles. The only proper parties are the mortgagor and mortgagee, and any persons who have acquired any interests from or through them subsequently to the mortgage. The adverse claimant under consideration is one w'lio is a stranger to the mortgage and the estate. Having no interest in the suit, his interests cannot be affected by it, and there being no privity between him and the mortgagee, the latter cannot make him a party defendant for the purpose of trying his adverse claim in the foreclosure suit. Gage v. Perry, 93 Ill. 177; Jones on Mort. Sec. 1440, and cases in Note 4.
+The appellant, Mary F. Carbine, was a proper party defendant to the bill, because July 9, 1878, she became purchaser of the mortgagor’s equity of redemption. But we are of opinion that from that, circumstance alone, it would be improper for the court to try the validity of her tax title to the premises acquired in the previous month of March. As a mere claimant under that title, disconnected from the mortgage debt in question, she would be regarded as a stranger to the mortgage, and complainant could not have that title passed upon in this suit. But, if at the time she purchased the equity of redemption from the Fichters, she made a valid agreement in consideration of the conveyance, that she would assume and pay this mortgage debt to the holder, then she would occupy a very different position from that of an adverse claimant who was a stranger to the mortgage; for there would then exist a privity between her and the mortgagee in respect to the subject-matter. On the hearing, the complainant gave in evidence, the deed from the Fichters to her; but it contained full covenants of warranty on the part of the grantors, a covenant against any and all incumbrances. Having given this deed in evidence, the court permitted complainant, against defendant’s objections, to give pai’ol evidence tending to show that said deed did not represent the actual transaction between the Fichters and Mary F. Carbine, and that it was, in fact, agreed as a part of the consideration, that she should assume and pay the mortgage debt in question.
+By the well settled general rules of evidence, such parol testimony would not be admissible in a controversy between the parties to that deed from the Fichters to Mary F. Carbine, because it would be to vary the legal eflect of the covenants of. the deed, by a contemporaneous parol agreement. Holley v. Younge, 27 Ala. 203; Howe v.Walker, 4 Gray, 318; Snyder v. Griswold, 37 Ill. 216; 1 Greenleaf on Ev. Sec. 276.
+While this rule would be rigorously upheld in controversies between the parties to the deed and privies, yet it does not apply to persons who were not parties to the deed or privies, but are strangers. 1 Greenleaf on Ev. Sec. 279, and cases in note 3; Wharton on Ev. Sec. 923. It would not therefore apply to the complainant in this suit, because he was neither party nor privy to the deed from the Fichters to appellant.
+The tax title was set up by the Carbines as a legal title, adverse and paramount to the claim of both the mortgagors and mortgagee. Standing by itselfj without some special circumstances the court of equity in a foreclosure suit was not the appropriate tribunal in which to try the validity of such title. Whether such asserted claim constitutes an adverse title within the rule which excludes inquiry in a court of equity in a foreclosure suit as to its validity, does not depend upon wjiat is set up in the answer in regard to it, but upon the allegations of the bill, and upon the testimony in the case as to the nature of the alleged adverse claim. Jones on Mort. Sec. 1440.
+In this case there were no allegations in the bill in respect to the adverse claim set up by the Carbines. The evidence as to the deed not expressing the real transaction between the Eichters and Carbines, and that appellant assumed and agreed to pay the mortgage debt, was therefore inadmissible. The decree of the court below will be reversed and the cause remanded.
+Reversed and remanded.
