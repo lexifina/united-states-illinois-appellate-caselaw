@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-04-24"
+citations: ["12 Ill. App. 635"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Leyenberger v. James R. Paul."]
+source_url: "https://static.case.law/ill-app/12/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4861535
+cites_cases: ["17 Ill. 65", "26 Ill. 259", "28 Ill. 486", "33 Ill. 475", "35 Ill. 487", "50 Ill. 353", "58 Ill. 366", "70 Ill. 408", "70 Ill. 409", "70 Ill. 544", "77 Ill. 32", "77 Ill. 608", "81 Ill. 487", "83 Ill. 291", "83 Ill. 30", "85 Ill. 135", "85 Ill. 505"]
+---
+
+# Leyenberger v. Paul
+
+## Majority (Wilson, J.)
+
+Wilson, J.
+This was an action on the case for an alleged malicious prosecution, brought by appellee against appellant, in the Superior Court of Cook county. There was a jury trial, resulting in a verdict of guilty, with damages assessed at $5,000 for which sum the plaintiff had judgment, and the defendant brings the case to this court by appeal.
+It is unnecessary to rehearse the evidence in detail. It appears that appellee was arrested on a warrant issued by a justice of the peace on complaint of appellant, charging him with embezzlement in failing to pay over certain insurance premiums collected by him on life policies, issued by the Mutual Benefit Life Insurance Company of Newark, IST. J., of which appellant was State agent for Illinois. Appellee gave bond for his appearance before the justice, and the case was continued and subsequently dismissed without trial, and the present suit was thereafter instituted.
+The principal ground relied upon by way of defense, on the trial in the court below, was the existence of probable cause for the arrest, and the evidence was mainly directed to that question. Among the instructions given to the jury was one by the court on its own motion, which was as follows : “ Tire jury are instructed that the prosecution of a person criminally, with any other motive than of bringing a guilty person to justice, is a malicious prosecution.”
+This instruction was erroneous and improper, and was calculated to mislead the jury. It is immaterial what appellant’s motives were in instituting the prosecution, if there was probable cause for making the arrest. Even if he was actuated by feelings of revenge or hatred, and there was probable cause for the arrest, he would not be liable for a malicious prosecution. Probable cause is defined to be such a state of facts in the mind of the prosecutor, as would lead a person of ordinary caution and prudence to believe or entertain an honest and strong suspicion that the person accused is guilty; and where probable cause exists it is a defense to the action. Harpham v. Whitney, 77 Ill. 32. In Ross v. Innis, 26 Ill. 259, it is said: “ If probable cause for the arrest exists, malice on the part of the prosecutor can not be considered — it weighs nothing.” To the same effect is Barrett v. Spaids, 70 Ill. 409.
+It is urged that the vice in the instruction is cured by other instructions given in the case, and that the jury therefore could not have been misled by it. We have examined with care all the instructions given on part of the plaintiff, and fail to find any which cover the precise point covered by the instruction complained of It is stated in several of the instructions th-t-the absence of probable cause is a necessary condition to the maintenance of the action, but in none of them is it declared that the motives of the prosecutor are immaterial, if probable cause exists for the arrest. But were it otherwise, and had the rule been properly stated in other instructions, it would not cure the evil. This instruction, coming as it. did, from the court on its own motion, directed in a few plain words, sharply to a single point, it is fair to presume would make a greater and more lasting impression on the minds of the jury than would the others, and that the jury would act upon and be guided by it rather than by what was said in other instructions. Upon a vital point in a case, the instructions should not be in conflict with each other, as it can not be known which instruction the jury will follow.
+We are referred by appellee’s counsel to a remark found in the opinion of the Supreme Court in the case of Krug v. Ward, 77 Ill. 608, where it is said “ the prosecution of a person with any other motive than that of bringing a guilty party to justice, is a malicious prosecution in law.”
+We can not suppose that the language of the learned judge who wrote the opinion, was intended as stating all the eleménts necessary to constitute a right of recovery in an action for malicious prosecution, for by all the authorities proof of want of probable cause is an indispensable condition to such right of recovery. Both malice and want of probable cause must-be shown. Standing by itself, the dictum quoted would make a party liable to a suit for malicious prosecution, though there was probable cause for making the arrest. In so far as the remark is descriptive of the motive, it is sufficiently accurate; but as a definition of what constitutes a malicious prosecution, we submit, with deference, that it is defective. And it will be found on examining the case cited by the Supreme Court in its suppprt (26 L. & Eq. R. 410), that the court was there considering what is to be deemed a malicious motive, and not what is required to make out a charge of malicious prosecution.
+We are of opinion that for the error contained in this instruction, the judgment ought to be reversed, and the cause remanded for a new trial.
+Judgment reversed. ,
