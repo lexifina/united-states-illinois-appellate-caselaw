@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "55186"
+decided: "1972-04-03"
+citations: ["5 Ill. App. 3d 53"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellant, v. Alonzo Roland, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/5/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2526348
+cites_cases: ["124 Ill.App.2d 268", "35 Ill.2d 80", "50 Ill.2d 136"]
+---
+
+# People v. Roland
+
+## Majority (Mr. JUSTICE BURKE)
+
+Mr. JUSTICE BURKE
+delivered the opinion of the court:
+At a preliminary hearing held on September 24, 1969, a judge of the Circuit Court sustained defendant’s motion to quash a search warrant and to suppress certain evidence. No appeal was taken from that order. Several days later the Cook County Grand Jury returned the instant indictment against the defendant, charging him with the unlawful possession of a narcotic drug, which was the evidence suppressed at the preliminary hearing.
+On January 21, 1970, defendant filed a “PLEA OF ESTOPPEL, RES JUDICATA AND IN BAR, ETC.,” moving the Circuit Court to enter an order “estopping, barring, enjoining and prohibiting” the People from using the narcotics as evidence against him under the instant indictment, inasmuch as the narcotics had been suppressed as evidence at the preliminary hearing. It was contended by defendant that the prior order entered at the preliminary hearing was an appealable order, and that if the People were dissatisfied with that ruling, or if they were of the opinion that the ruling was erroneous, the ruling should have been appealed to the Supreme Court or to the Appellate Court, pursuant to Supreme Court Rule 604. The Circuit Court entered an order on May 27, 1970, sustaining defendant’s “PLEA OF ESTOPPEL, RES JUDICATA AND IN BAR, ETC.,” from which order the People prosecute this appeal. The People contend that the statutory amendments, making non-final such orders as was entered at the preliminary hearing, are valid and are not in conflict with Supreme Court Rules.
+The recent case of People v. Taylor (1972), 50 Ill.2d 136 is dispositive of the issue presently before this Court.
+In the Taylor case the Circuit Court entered an order on a preliminary hearing quashing a search warrant and suppressing evidence seized in the search. No appeal was taken from that order. Defendant was thereafter indicted for the unlawful possession of the property which was the subject of the prior motion to quash and suppress, and a judge of the Circuit Court on a subsequent motion to suppress held that the order entered at the prehminary hearing was res judicata. The People appealed the subsequent Circuit Court order to the Supreme Court, which transferred the cause to the Appellate Court.
+The Appellate Court reversed the subsequent order of the Circuit Court. (People v. Taylor, 124 Ill.App.2d 268.) The Appellate Court held that the Supreme Court Rule 604, which provides for appeals by the State to the Appellate Court from Circuit Court orders suppressing evidence, inter alia, was not in conflict with Section 109 — 3 of the Code of Criminal Procedure which provides that such order of suppression of evidence shall be nonfinal and shall not in any mamier “bar, affect or be determinative in any subsequent proceedings.” The Appellate Court held that the People could not have appealed the order entered at the preliminary hearing, and that the order consequently did not bind the Circuit Court in the subsequent rufing. (See Ill. Rev. Stat. 1969, ch. 38, par. 109 — 3(e); ch. 110A, par. 604(a) (1).)
+The Appellate Court reasoned that pre-1967 Section 114 — 12 of the Code of Criminal Procedure (providing that evidence once suppressed shall not be admissible against the movant at any trial) was not in conflict with Supreme Court Rule 27 (providing essentially the same as the subsequently adopted Rule 604), as determined in the case of People ex rel. MacMillian v. Napoli, 35 Ill.2d 80, and that there existed no conflict between Section 109 — 3(e) of the Code of Criminal Procedure and Supreme Court Rule 604(a) (1), since the statute in both situations determined whether the order at the prehminary hearing was subsequently binding. See Ill. Rev. Stat. 1965, ch. 38, par. 114 — 12(b); ch. 110, par. 101.27(4); Ill. Rev. Stat. 1969, ch. 38, par. 109 — 3(e); ch. 110A, par. 604(a) (1).
+The Appellate Court stated that the “substantive effect” of an order of suppression of evidence at a preliminary hearing, within the terms of Rule 604, was not the suppression of that evidence “before the grand jury or at a subsequent trial” within the terms of Section 109 — 3(e) of the Code of Criminal Procedure, and that therefore the People had no right to appeal the order suppressing evidence entered at the preliminary hearing. The Court further determined that the statute was consistent with the Supreme Court Rule, and that it did not interfere with the Supreme Court’s rule-making power under Section 7, Article VI of the Illinois Constitution of 1870.
+Petition of Leave to Appeal in the Taylor case was allowed by the Illinois Supreme Court. The Supreme Court reversed the Appellate Court and affirmed the subsequent order of the Circuit Court. The basis of the holding of the Supreme Court was that Section 7 of Article VI of the Illinois Constitution of 1870, as amended, provided that the Supreme Court has the power to provide by rule for appeals to the Appellate Court from other than final judgments of the Circuit Court. The Supreme Court noted that Sections 109 — 3 and 114 — 12 of the Code of Criminal Procedure were amended in 1967 to provide that orders in such cases were nonfinal and that the People could not appeal therefrom. The Court held, however, that Supreme Court Rule 604 was adopted pursuant to the rule-making power granted in section 7 of Article VI of the Constitution of 1870; that Rule 604 allows appeals from orders such as those suppressing evidence; and that therefore the 1967 amendment to section 109 — 3 of the Code of Criminal Procedure making such orders nonfinal, was void as in conflict with Rule 604.
+The circumstances of the instant case are identical to those in the Taylor case. For that reason the order of the Circuit Court sustaining defendant’s “PLEA OF ESTOPPEL, RES JUDICATA AND IN BAR, ETC.” is affirmed.
+Order affirmed.
+GOLDBERG, P. J„ and LYONS, J„ concur.
