@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 65-73"
+decided: "1966-06-20"
+citations: ["72 Ill. App. 2d 85"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edsel L. Burgess, Plaintiff-Appellant, v. Allyn Erickson, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/72/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2584956
+cites_cases: ["103 NE2d 504", "194 NE2d 521", "201 NE2d 434", "31 Ill2d 272", "330 Ill App 431", "411 Ill 196", "44 Ill App2d 421", "71 NE2d 198"]
+---
+
+# Burgess v. Erickson
+
+## Majority (CORYN, P. J.)
+
+CORYN, P. J.
+This is an appeal from a summary judgment entered for defendant, Allyn Erickson, on a motion in bar of a cause by plaintiff, Edsel Burgess, to recover for personal injuries allegedly caused by defendant’s negligence. By affirmative defense, defendant asserted that the incident complained of arose out of and in the course of the joint employment of the parties by a common employer operating under the provisions of the Workmen’s Compensation Act, and that this common-law cause was therefore barred by § 5(a) of that Act (Ill Rev Stats, c 48, § 138.5 (a)). Plaintiff denied the applicability of the Workmen’s Compensation Act. Affidavits, counter-affidavits, and parts of plaintiff’s discovery deposition were given in support of and against defendant’s motion.
+Defendant has filed a motion here to dismiss this appeal for the reason that plaintiff did not file the record on appeal within sixty days as required by ch 110, § 201.1(2) (d), Ill Rev Stats. The notice of appeal was filed on September 7, 1965, and the sixtieth day from that date was November 6, 1965. The office of the Clerk of the Appellate Court was closed on November 6, being Saturday, and the appellant filed the record on appeal the following Monday, that is, November 8, 1965, which was sixty-two days from the date the notice of appeal was filed. The time within which the record on appeal must be filed in this court is computed by excluding the first day, that is, the day on which the notice of appeal is filed, and including the last day, unless the last day is a Sunday, a legal holiday, or a day in which the office of the clerk of this court is closed. Ill Rev Stats, ch 131, § 1.11; Pettigrove v. Parro Const. Corp., 44 Ill App2d 421, 194 NE2d 521. Accordingly, the filing of the record on appeal herein on Monday, November 8, 1965, was within the time prescribed by law, and therefore the motion to dismiss this appeal is denied.
+The essential facts of this case, as established by the pleadings and the deposition and affidavits attached to the motion are not in dispute. Plaintiff, on November 21, 1961, had left Building W at 7:30 a. m. after completing his work shift at the East Peoria plant of the Caterpillar Tractor Company, and was crossing the company’s Parking Lot #9 on his way to another company parking lot to meet his car pool. Defendant, on his way to work at Caterpillar, drove his car into Parking Lot #9 and there struck plaintiff. Parking Lot #9 was reserved for use of supervisory personnel, and neither plaintiff nor defendant were authorized to park there. The sole issue to be determined, then, is whether, under these facts, plaintiff’s suit against defendant is barred by § 5 (a) of the Workmen’s Compensation Act.
+A similar situation was presented in Chmelik v. Vana, 31 Ill2d 272, 201 NE2d 434. There, at the conclusion of the work day, as plaintiff was walking across a parking lot provided by the employer, he was struck by the automobile of defendant, who was also leaving work. In Chmelik v. Vana, supra, the court held “that an injury accidentally received on the premises of the employer by an employee going to or from his actual employment by a customary or permitted route, within a reasonable time before or after work, is received in the course of and arises out of his employment.” The plaintiff attempts to distinguish Chmelik v. Vana, supra, from the instant case, by arguing that here both plaintiff and defendant were prohibited by their employer’s work rules from parking in Lot #9, whereas in Chmelik, both parties were rightfully using the parking lot where the accident occurred. We reject this argument. It has been held that where an injury is sustained during the performance of an act which is within the sphere of duty, it is covered by the provisions of the Workmen’s Compensation Act, even though the mode of performance was in violation of an order or rule. B. F. Gump Co. v. Industrial Commission, 411 Ill 196, 103 NE2d 504. It is only the violation of orders and rules which limit the scope of the duty itself, that places the employee outside the course of his employment. Angerstein, Illinois Workmen’s Compensation, § 440 et seq. (1952 edition). Even assuming the employees here were violating a work rule by merely traversing Parking Lot #9 in going to and from work, that fact, although it might establish the negligent performance of a duty, would not convert acts which are characterized as being within the scope of employment to ones outside the sphere of duty. Cohen v. Cummings, 330 Ill App 431, 71 NE2d 198.
+We are of the opinion that the judgment of the Circuit Court of Tazewell County is correct.
+Affirmed.
+ALLOY and STOUBER, JJ., concur.
