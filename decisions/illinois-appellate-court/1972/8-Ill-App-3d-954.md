@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "72-119"
+decided: "1972-12-15"
+citations: ["8 Ill. App. 3d 954"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank M. Tynatishon, individually and as Mayor of the Village of Milan, Plaintiff-Appellant, v. Harold Herbert et al., individually and as Trustees of the Village of Milan, Defendants-Appellees—(Harold Herbert et al., individually and as Trustees of the Village of Milan, Plaintiffs-Appellees, v. Frank M. Tynatishon, Mayor and President of the Board of Trustees for the Village of Milan, Defendant-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/8/cases/0954-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2763199
+cites_cases: ["107 Ill.App.2d 36", "246 N.E.2d 133"]
+---
+
+# Tynatishon v. Herbert
+
+## Majority (Mr. PRESIDING JUSTICE STOUDER)
+
+Mr. PRESIDING JUSTICE STOUDER
+delivered the opinion of the court:
+Plaintiff, Frank Tynatishon, Mayor of the Village of Milan, brought an action for declaratory judgment against certain Trustees of the Village of Milan. After the action was filed in the Circuit Court of Rock Island County all of the matters in controversy were settled except the claim by plaintiff that a contract with the City of Rock Island and the ordinances of the Village of Milan embodying such contract were void. The defendants, in a separate action for mandamus which was consolidated for purpose of hearing, requested that the plaintiff be ordered to execute the deed in conformity with the ordinances. The trial court determined the ordinances to be valid and ordered execution of the deed and this appeal follows.
+The Village of Milan had a prospective water shortage during the summer of 1971 due to pump troubles. Some of the Trustees of the Milan Village Board met with the Rock Island City Counsel and worked out a tentative agreement regarding the reciprocal sale of water between the municipalities of Rock Island and Milan. The terms of the agreement further provided that Milan was to convey by quit claim deed the property known as “barrow pit” which was owned by the Village of Milan but which was surrounded on three sides by the City of Rock Island. The agreement also provided that the “barrow pit” and adjoining road would be disconnected from the corporate limits of Milan and annexed to the City of Rock Island.
+In approval of and pursuant to the underlying agreement, the Village of Milan adopted two ordinances approving the transfer of the property and disconnecting it from the Village. Milan elects six Trustees and a Mayor. Each ordinance received the favorable vote of four Trustees with two Trustees casting negative votes. The trial court determined that the ordinances were approved by a sufficient number of votes and on this appeal the plaintiff Mayor argues that such determination is erroneous.
+The trial court found that the ordinances were properly passed pursuant to the provisions of Ill. Rev. Stat. 1969, ch. 30, par. 157. On this appeal defendants argue that such finding was proper. Such Section provides in substance for the transfer or conveyance of property from one municipality to another if according to Subsection (a) the transfer is “* * * duly authorized by a resolution passed by the vote of two-thirds (%) of the members of the legislative body of the transferor municipality * ”
+On this appeal plaintiff argues the ordinances were not properly passed in accordance with the foregoing statute because the transaction was a sale governed by Ill. Rev. Stat. ch. 24, par. 11 — 76—2 & 3, which requires the affirmative vote of three-fourths of the corporate authorities. Further plaintiff argues that even if the foregoing Section requiring a three-fourth vote is inapplicable the ordinances failed to receive the two-thirds vote required by Chap. 30, par. 157.
+We find no merit to either of plaintiffs contentions. As may be seen from the provisions of Chap. 30, par. 157 referred to above, a transfer is authorized under limited circumstances between municipalities and hence the general sale provisions of the Cities and Villages Act are inapplicable. Where the transfer is of property from one municipality to another provisions regarding advertisement for sale would be meaningless and could serve no useful purpose.
+The statutory authority for the transfer of property under these ordinances is found in the chapter on Conveyances (Ill. Rev. Stat. 1969, ch. 30), rather than in the Cities and Villages Act (Ill. Rev. Stat., ch. 24), consequently the reference to the term ‘legislative body” and requiring a two-thirds vote thereof has raised some question because the term “legislative body” is not used in the Cities and Villages Act. (Ill. Rev. Stat., ch. 24). The precise issue is whether the mayor is entitled to vote thereby requiring a two-thirds vote of a seven member board or whether the mayor is not entitled to vote requiring a two-thirds vote of only a six member board.
+Both parties have argued that Ketchmark v. Linch, 107 Ill.App.2d 36, 246 N.E.2d 133, supports his position.
+“As an example of a change in wording to make it clearer that the Mayor does have a vote, we refer to Section 11 — 76—1 which provides for the sale of real estate no longer needed. Prior to revision it required that an ordinance for this purpose be passed by three-fourths of the members of the City Council * * * or the Board of Trustees of any such village’.
+This ambiguous phrase which may or may not include a mayor, was replaced in the revision by the words: passed by three-fourths of the corporate authorities of the city or village’ thereby giving the presiding officer a vote. Thus it becomes apparent, when the legislature adopted the recommendations of the commission it used standardized phrases to express its will, and the intent to avoid ambiguity as to whether or not the presiding officer had a vote. If he has no vote the reference is made uniformly to the elected aldermen or trustees, if he is entitled to vote the uniform reference is to the ‘corporate authorities’, which include the presiding officer.” Ketchmark v. Linch, 107 Ill.App.2d 36, 246 N.E.2d 133.
+Although Chap. 30, par. 157, refers to neither elected trustees nor aider-men nor corporate authorities we believe that Ill. Rev. Stat. 1969, ch. 24, par. 3—11—14, is controlling and provides,
+“The mayor shall preside at aU meetings of the city council. He shall not vote on any ordinance, resolution or motion except: (1) where the vote of the aldermen has resulted in a tie; or (2) where one half of the aldermen elected have voted in favor of an ordinance, resolution or motion even though there is no tie vote; or (3) where a vote greater than a majority of the corporate authorities is required by this Code to adopt an ordinance, resolution or motion.”
+From this language and as it was applied in the Ketchmark case it is our conclusion that this Section specifies the only circumstances under which a mayor is entitled to vote. Since in the instant case the statute does not require a vote of more than a majority of corporate authorities the mayor was not entitled to vote and the vote did constitute a two-thirds vote as required by the statute.
+The plaintiff has argued that the contract was invalid in other respects. However we believe it unnecessary to discuss the other alleged errors and hold that they are without merit.
+For the foregoing reasons the judgment of the Circuit Court of Rock Island County is affirmed.
+Judgment affirmed.
+ALLOY and SCOTT, JJ., concur.
