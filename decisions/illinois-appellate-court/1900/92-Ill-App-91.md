@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-10-08"
+citations: ["92 Ill. App. 91"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of La Salle v. Hyacinth Kostka."]
+source_url: "https://static.case.law/ill-app/92/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5283866
+cites_cases: ["130 Ill. 116", "157 Ill. 595", "28 Vt. 64", "86 Ill. App. 144"]
+---
+
+# City of La Salle v. Kostka
+
+## Majority (Mr. Justice Crabtree)
+
+Mr. Justice Crabtree
+delivered the opinion of the court.
+This was an action on the case by appellee against appellant, to recover damages for injuries sustained by him in consequence of the caving in of the bank of a sewer in which he was working for appellant, under the direction of its street superintendent. The sewer caved in and seriously injured appellee. Two years later he brought this suit. The defendant filed a plea of not guilty, and upon a trial by jury there was a verdict for $2,500 in favor of appellee upon which the court rendered judgment. The defendant appeals to this court.
+The declaration contained but one count, but when this is carefully read from the record, it appears .to be much broader in its charges of negligence than appellant’s counsel seems to assume, and is even broader than appellee states in his brief. The declaration charges that on or about July 7, 1897, the defendant city was engaged in the construction of a certain sewer within the city, and that plaintiff was employed by defendant as a common laborer to work in said sewer; avers it was the duty of the defendant to so construct the sewer that the sides or walls thereof would be firm, and that the earth, sand, and other substances there being wuuld be firmly held in place, and that persons in the employ of the city in the construction of such sewer might with safety enter therein to perform the work necessary to be done therein; avers a breach of this duty and that the city wrongfully, carelessly and negligently suffered the excavation for the sewer to remain in an unsafe'condition, and allowed the earth, sand and other substances forming the sides or walls of said excavation to remain in a loose, water-soaked and dangerous condition, whereby the walls of the sewer fell and caved in upon the plaintiff and caused the injury complained of.
+It can scarcely be doubted that the declaration, if proven, is sufficient to sustain a right of recovery. We will not attempt to discuss the evidence in detail, as found in the record, which is voluminous, but content ourselves by saying that in our opinion it was sufficient to warrant the verdict of the jury.
+It is insisted upon as grounds for reversal, that the court erred in permitting appellee to make proof of the fact that the ditch in question was not shored or braced at the place of the accident at the time of the injury, and it is urged, that this was allowing proof of negligence not charged in the declaration. We think the evidence was properly admitted. It was not only admissible as within the scope of the broad allegations of the declaration, but it was descriptive of the situation at the time of the accident, which is always competent. C. & I. R. R. Co. v. Lane, 130 Ill. 116; N. Y., C. & St. L. R. R. Co. v. Luebeck, 157 Ill. 595-603.
+Much space is given in the argument of counsel for appellant, to the proposition that appellee’s injury was caused by one of the risks ordinarily incident to the occupation in which he was engaged; that he knew of the risk as well as his employer and voluntarily assumed it. We need not spend much time in discussing this proposition, nor in commenting on the various authorities cited as showing the law in such cases. The law is well settled and will always be applied in a proper case. We think the proposition is well stated in Noyes v. Smith & Lee, 28 Vt. 64, "where it is said;
+a The master is bound to exercise care and prudence that those in his employment be not exposed to unreasonable risks and dangers, and the servant has a right to understand that the master will exercise that diligence in protecting him from injury. * * * It is only such injuries as have arisen after the exercise of that" diligence and care on the part of the master, that can properly be termed accidents or casualties, which the servant has impliedly agreed to risk and for which the master is not liable.”
+It is no doubt true that in all cases of employment certain risks are assumed by the servant, but the duty remains upon the master at all times to use reasonable care to furnish the servant a reasonably safe place in which to perform his work.
+Unquestionably the heavy rains occurring while work was in progress upon the sewer, caused the soil to become water soaked and the walls loose and dangerous. This was well known to appellant's superintendent and foreman, who at once went to work shoring and bracing the walls so as to make them safe for the men to work. Whether this was a duty devolving upon appellant or not, it was assumed as a duty, and being so assumed, appellee had a right to presume that it was fully performed, and that the place was made safe for him to go to work, as he was in effect ordered to do by appellant’s foreman. We regard it as an important circumstance that defendant’s superintendent and foreman were at work shoring and bracing up certain parts of this ditch at the- very time appellee was directed to go to work. Under the circumstances such direction would certainly be an indication to appellee that in the opinion of the foreman the place was safe for him to work in.
+Complaint is made of the instructions given for the plaintiff. So far as we can discover, they omitted no necessary element as to plaintiff’s right of recovery. We think they are substantially free from error and that appellant has no just cause of complaint on that score.
+The jury were instructed at great length on behalf of appellant. There was no reversible error in the' action of the court in refusing certain instructions "offered by the defendant: The expression in the 12th instruction as to
+the appearance of witnesses upon the stand, might properly have been left in, but striking it out was not erroneous, as the point was sufficiently covered by the other general language of the instruction. On the whole we think there was no error in the instructions.
+The case was somewhat similar in its facts and circumstances to Ross v. Shanley, 86 Ill. App. 144, and the reasoning of the court in the opinion in that case may wrell be applied to the case at bar.
+Our conclusion from a review of the whole record is, that the appellee was entitled to recover and no error appears sufficient to require a reversal.
+We can not say that the damages are excessive. The judgment must therefore be affirmed.
