@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-04-19"
+citations: ["54 Ill. App. 606"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William F. White v. Clair E. More, Assignee of the Wah Mee Exposition Company, Insolvent."]
+source_url: "https://static.case.law/ill-app/54/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5102685
+cites_cases: ["103 Ill. 325", "115 Ill. 105", "115 Ill. 220", "116 Ill. 424", "120 Ill. 10", "120 Ill. 208", "123 Ill. 50", "129 Ill. 180", "132 Ill. 238", "137 Ill. 146", "15 Brad. 199", "17 Brad. 289", "40 Ill. App. 338", "43 Ill. App. 530"]
+---
+
+# White v. More
+
+## Majority (Mr. Justice Gary)
+
+Mr. Justice Gary
+delivered the opinion of the Court.
+The appellee is the assignee for the benefit of creditors of the Wah Mee Exposition Company, administering its assets under the direction of the County Court.
+August 24,1892, by an agreement between White and the World’s Columbian Exposition, the latter granted to White a “ concession ” of the exclusive use of a parcel of land within the grounds of the company,“ and the right to erect and maintain upon said tract upon the terms and conditions hereinafter set forth, a Chinese village, and the exclusive right to erect and maintain a Chinese theater and a Chinese Joss house, and also the exclusive right to maintain a Chinese tea garden and cafe, and the right to sell in said cafe tea, coffee and non-intoxicating beverages, and food and dishes, subject to approval as hereinafter set forth, and the further right to sell upon said space, tea, Chinese curiosities and wares, subject to the approval of the Exposition.” White agreed that be would pay to the Exposition twenty-five per cent of the gross receipts derived from all sources of revenue under this concession, settlements to be had and payments to be made each day for the previous day’s business, and at such times as should be designated by the Exposition; the method of issuing tickets or of arriving at the gross receipts hereunder, to be approved by the Exposition.
+White made, September 9,T892, a contract with Chan Gee We, Chan Kwai and Wong Lat, by which they were to carry on the Chinese part of the business, which contract contained these provisions—White being the “ first party ” and the Chinamen the “ second parties ” :
+“ Sec. 3. The parties hereto agree and promise with each other that the receipts from sales of all merchandise, curios, refreshments (including meals furnished employes), admission to theater and Joss house and all other sources whatever, shall pass to the cashier or other financial oificer, to be or which may be appointed by World’s Columbian Exposition, or William F. White, or jointly (said financial agent or agents to be paid by the second parties); all change shall be made by them, and that a system of salesman’s double checks shall be used to record all such receipts; such system shall be either approved or prescribed by the officers of the World’s Columbian Exposition, or in such other manner as the World’s Columbian Exposition may electas per the terms of Exhibit A.’
+That at the close of each day’s business, or such other time as may be agreed upon by the parties hereto or designated by the World’s Columbian Exposition, thirty-five (35) per cent of the gross receipts of each day’s business shall be turned over to the first party hereto, and sixty-five (65) per cent to the second party, and that the first party shall pay or cause to be paid to the World’s Columbian Exposition twenty-five (25) per cent, required and provided for by Exhibit A’ out of the thirty-five (35) per cent, to which he is and shall be entitled under this contract.
+The second parties hereby also agree to accept said sixty-five (65) per cent, of the gross receipts in full reimbursement and as compensation for all the acts, services, expenses, expenditures and out-goings of whatever kind or nature required of and to be, or which may be made, or done by them under and by virtue 'of the terms of said Exhibit, A,’ or this contract.”
+The three Chinamen incorporated themselves in Utah as the Wah Mee Exposition Company, and appointed Hong Sling as manager of the business here. White appointed one Williams as cashier. He' received all the money, and put it in bank to the credit of White, and White paid out of it, twenty-five per cent to the World’s Columbian Exposition, sixty-five per cent to Hong Sling, who receipted for it as “Wah Mee Ex. Co.’s proportion of receipts for” certain days or periods, and White retained ten per cent.
+Business went on without friction until the assignment by the Wah Mee Exposition Company to More, August 25, 1893.
+The next day he took possession of the business, turned Williams and Ms assistant out, received all the money, and refused to divide with White. White filed a petition in the County Court, August 30, 1893, to be reinstated in the receipt of the money; the petition remained pending in the County Court until January 12, 1893, and was then dismissed, and White appealed.
+The whole business of the World’s Columbian Exposition was then over. The specific relief that White asked, could not then be granted. The funds however—the proceeds of the business—were in the hands of More, and if White had not a mere claim for, but an equitable title to, ten per cent of them, it might and ought to have been awarded to him by the County Court. It had the jurisdiction. Atlas Nat. Bk. v. More, 40 Ill. App. 338.
+More stood in the shoes of the Wah Mee Exposition Company.
+Whatever claim White had in rem,, upon the business, or funds derived from the business, against the company, was good against More. As assignee he took the property of the company cum onere. Union Trust Co. v. Trumbull, 137 Ill. 146.
+Now, it is clear that as between White and the company and the Chinamen, the latter were the real parties dealing with White; that the company was mere form without substance.
+By the arrangement of the business, assented to by all parties in interest, the cashier of White was entitled to the custody, in the first instance, of all money coming in, and from it White was to pay to the World’s Columbian Exposition its share, and to the representative of the Chinamen their share. This was not a mere lien upon anything, but the legal title, in trust as to nine-tenths.
+It is true that White had no claim or lien upon the stock in trade, but he had a leasehold, a legal estate, by the concession in the place where the business was conducted, and the Chinamen had but a license from him, irrevocable, it may have been, to construct, maintain, and conduct.
+When More went into possession he took premises the legal title of which was in White. The ten per cent to be retained by White was his rent.
+The rent of premises occupied by an assignee while winding up, is part of the expenses of administration, to be paid before distributing anything among general creditors. Smith v. Goodman, 43 Ill. App. 530; same case in the Supreme Court, 36 N. E. R. 621.
+The County Court should have ascertained the amount of the receipts by More after he took possession from the business as he conducted it, whether with more “ attractions” or not, and awarded to White ten per cent thereof, before any distribution among general creditors. Upon either ground, that White was entitled to all the money'in the first instance, or as expenses of administration, he should be preferred.
+The judgment of the County Court is reversed and the cause remanded, with directions to the County Court to ascertain the amount of receipts from the business, and award White ten per cent thereof, in preference to general creditors. The costs here are to ■ be paid by the appellee in due course of administration.
