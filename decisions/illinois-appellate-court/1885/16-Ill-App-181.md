@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+decided: "1885-01-16"
+citations: ["16 Ill. App. 181"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago and Alton Railroad Company v. James E. Sebring"]
+source_url: "https://static.case.law/ill-app/16/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 854413
+cites_cases: ["37 Conn. 96", "38 N. Y. 248", "4 Scam. 91", "51 N. Y. 604"]
+---
+
+# Chicago & Alton Railroad v. Sebring
+
+## Majority (Davis, P. J.)
+
+Davis, P. J.
+Sebring brought this action of assumpsit against the Chicago and Alton Railroad Company to recover the amount of a reward offered by that comp my, to which he claimed he was entitled.
+The reward which was offered by the company, and which was printed and posted up at different stations along the line of the road is as follows: “ $500 reward will be paid to any parties who will secure the arrest and conviction of any person who has injured persons or property by throwing stones or other missiles at the trains of the Chicago and Alton Railroad Company.
+The attention of the employes is called to the fact that Michael Riley has been sentenced to the penitentiary for ten years for throwing the stone at the C. & A. train at Brighton Pari;, which struck brake man Brown and so injured him that he afterward died.
+(Signed) C. H. Chappel,
+May 22, 1884. General Man. C. & A. R. R. Co.”
+Sebring was a brakeman on one of the company’s freight trains, and on the night of June 29,1834, when the train reached Wilmington, several boys who lived at Braid wood, the next station south, jumped on the train at different parts of it, to steal a ride home. A man named Watson got on one of the cars and was riding without leave or license. A difficulty arose between Sebring and the boys and Watson, the former endeavoring to make the latter leave the train, and hard words passed between Sebring on the one side and the boys and Watson on the other. Both sides uttered abusive words, and during the quarrel, some one threw a stone which struck Sebriug in the side, inflicting no serious or permanent injury upon him. Sebring got'down from the train and gave chase to the boys, who had also left the train before the stone was thrown. Shortly afterward he put down his lantern, and following on in the direction the boys had taken, caught two of them named Burns and Rooney and turned them over to a policeman who put them in the city bridewell for the night. Sebring went back to the depot and told the train-master what had occurred and he directed him to go to Bloomington and report to the assistant superintendent; which he did the next morning, and was directed by the superintendent, who furnished him a pass for that purpose, to return to Braid wood and appear against the parties who might be arrested. On his return to Braidwood he found the company’s attorney of Joliet there, who, after determining to have the parties tried at Joliet the next'day, he directed Sebring to appear against them there at that time.
+Accordingly Sebring appeared as a witness before the magistrate at Joliet and gave his testimony against the parties at the trial. The result of the trial was the conviction of seven of them for the offense of throwing stones or other hard substances at the railroad car and train of the Chicago and Alton Railroad Company and of a misdemeanor thereby and on account thereof.
+The claim of Sebring to recover the amount of the reward is based upon the services claimed to have been rendered by him in securing the "arrest and conviction of the parties who were found guilty and fined by the justice of the peace at Joliet, before whom they were tried.
+On the trial of the case in the circuit court the jury found a verdict for appellee and assessed his damages at §500, and a judgment was rendered in his favor for that amount. Appellant seeks to reverse the judgment by this appeal.
+It is claimed by appellant that Sebring can not recover in this case, because he was an employe of the company, and as such did no more than he was required to do, and therefore he did not come within the terms of the reward.
+The company might have restricted the reward to such persons as it saw proper and might have excluded its employes from all participation in its benefit, but failing to do this, it must be bound by the general offer made to all parties who shonld^br-ing"themselvSs within its provisions. We see nothing in the offer or in the ease which should exclude a brakeman because he is in the employ of the company making the offer. We do not think the case comes within the ruling of the court in Stacy v. State Bank, 4 Scam. 91, cited by appellant.
+It is also claimed that the reward was limited to offenses of the kind specified, occurring prior to May 22d, the date of the reward. We do not place that construction upon the offered reward. The most reasonable interpretation to be given is, we think, that the company would pay the amount offered, to any parties who would secure the arrest and conviction of any person who had, up to the time of such arrest and conviction, committed the act complained of. It was no doubt the intention of the railroad company to reward those who should cause the arrest and conviction of any one who might be guilty of doing the wrong after the offer of the reward as well as those who had committed the wrongful act before its publication.
+But the most serious objection to a recovery by appellee is, that the evidence fails to show that when he performed the services which he claims entitles him to the reward, he knew that the reward had been offered and that he performed the services with the view of obtaining the reward.
+• The only evidence given on the trial, to show when appelpellee first learned of the offer of the reward, and what the reward was, is the evidence of appellee given as a witness in his own behalf. He testified that he saw copies of the reward along the line of appellant’s road. He saw one in the office of Gol. Wood, chief clerk for the general manager. It was posted on,the mantel-piece. That was about the 5th or 7th of July. It was a couple of weeks before this suit was commenced, perhaps longer.
+It seems well established that to entitle a person to a reward, he must show a rendition of the services required, after a knowledge of, and with a view of obtaining the offered reward. Fitch v. Snedaker, 38 N. Y. 248; Howland v. Lownds et al., 51 N. Y. 604.
+The evidence is clear that the services rendered by appellee, for which he claims the reward, were rendered on the 29th of June, 1884, and on the two or three succeeding days, and it devolved upon him to show that when such services were rendered he knew that the reward had been offered, and that his services were rendered with a view of obtaining the reward. En these latter particulars we think appellee has wholly failed.
+The only definite and satisfactory evidence we have as to when he first learned of the offer-of the reward is that about the 5th or 7th of July he saw a copy of the reward in the office of the chief clerk of the general manager. When it was he saw the copies along the line of the road is not disclosed by the testimony, and there is nothing, we think, to warrant the inference that it was before he caused the arrest and conviction of the parties at Joliet. If his first knowledge of the reward was not obtained until the 5th or 7th of July, then of course what he did was without reference to the reward and he has no cause of action against the railroad company.
+Judgment must be reversed and the cause remanded.
+'Judgment reversed.
