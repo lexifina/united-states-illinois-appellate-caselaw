@@ -1,0 +1,51 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-03-01"
+citations: ["74 Ill. App. 550"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. A. Knight et al. v. Village of Thompsonville, by Richard Thompson."]
+source_url: "https://static.case.law/ill-app/74/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5235885
+---
+
+# Knight v. Village of Thompsonville
+
+## Majority (Mr. Justice Worthington)
+
+Mr. Justice Worthington
+delivered the opinion of the Court.
+At the October term, 1896, of the Franklin County Circuit Court, a petition for mandamis was pending to compel the defendants, appellants here, the president, trustees and treasurer of the village of Thompsonville, to restore $200 in money into the village treasury, which it was alleged they had wrongfully paid out to one Snyder, to bore for coal, under the false pretense that they were boring for water.
+Defendants demurred to the petition, the demurrer was sustained, and by leave of court the form of action was changed to that of trespass on the case, and also by changing the plaintiff from the people on the relation of Richard Thompson, to the village of Thompsonville by Richard Thompson, a resident and tax payer of said village.
+An amended declaration was filed, alleging in substance, that defendants, as president, trustees and treasurer of said village, without authority of law, falsely and wrongfully caused to be paid out of the village funds $200, to one Peter Snyder, for boring for coal, under the false pretense that they were boring for water.
+Appellants assign for error that the court erred in allowing the amendment changing the name of plaintiff and the form of action. Section 4 of chapter 87, entitled “ Mandamus,” reads, “ The petitioner may plead to, or traverse all or any of the material facts contained in the answer, or demur thereto, to which the defendant shall reply, take issue or demur, and like proceedings shall be had as in other cases at law.”
+Sec. 9 of the same chapter provides that “ Amendments may be allowed as in other civil suits.”
+Sec. 1 of chapter 7 provides that “ The court * * * shall have power to permit amendments in any process, pleading or proceeding in such section, either in form or substance for the furtherance of justice,” etc.
+Sec. 23, chapter 110, provides that “Amendments may be allowed, introducing any party necessary to be joined as plaintiff or defendant, * * * changing the form of action and in any matter, either of form or substance, in any process or pleading, which may enable the plaintiff to sustain the action for the claim for which it was intended to be brought. The adjudication of the court allowing an amendment shall be conclusive evidence of the identity of the action.”
+It is conceded that, as amended, this action is based upon section 4, article 10, chapter 24, which is as follows: “A suit may be brought by any tax payer, in the name and for the benefit of any city or village, against any person or corporation, to recover any money or property belonging to the city or village, or for any money which may have been paid, expended or released without authority of law.”
+The amendment is a formal amendment. The defendants are the same. The object sought is the same, namely, to collect from the defendants $200, for the village of Thompsonville, alleged to have been wrongfully caused to be paid out by defendants as officers of said village. The adjudication of the court allowing an amendment is conclusive of the identity of the action. This assignment of error is not then well taken.
+Counsel for appellee state in their brief that this action is based upon Sec. 4, Art. 10, Illinois Statutes, entitled “ Cities and Villages ” which section is as follows:
+“ A suit may be brought by any tax payer in the name and for the benefit of the city or village, against any person or corporation, to recover any money or property belonging to the city or village, or for any money which may have been paid, expended or released without authority of law.” Starr & Curtis (2d Ed.), 787.
+Appellants claim that this is a suit to recover a penalty. There is nothing in the section quoted that specifies any penalty, or in any way refers to a penalty. It provides only for the recovery of money or property belonging to the city or village. A penalty is not enforced when one is compelled to return to its owner that which belongs to him. Neither does this section authorize an action against the officers of a city or village for malfeasance in office. If they have money or property in their possession belonging to the city or village, it provides for its recovery at the suit of any tax payer in the name and for the benefit of the city or village. If money has been paid out, expended or released without authority of law, it provides for its recovery. From whom ? Clearly from the person or corporation that received it.
+It is not claimed that these defendants have $200 that belongs to appellee, but it is claimed that one Peter Snyder has $200 which defendants wrongfully caused to be paid to him. If it was wrongfully paid to him the section cited above provides for its recovery from him.
+Nor do we think that the evidence sustains the allegations of the declaration, even if such an action could be based upon this section. The record of the proceedings of the board relating to this expenditure is as follows:
+“ On motion of Eainey and seconded by Bowman that the board expend not to exceed $200 for the purpose of boring for water, the finance committee to make the best contract possible.” No vote is shown by the record to have been taken on the motion. The clerk of the village, John Fleming, called by appellee, testified as follows :
+Q. You may state whether there is any further record made of any proceedings had by the defendants, as president and trustees of the village of Thompsonville with regard to that expenditure ? A. No, sir. It was put in the hands of the finance committee, and the finance committee made the estimate for the board and issued the order.
+■ Q. Was there any further record made by any of the trustees, or any proceedings had by the board with reference to this expenditure ? A. Ho, sir.
+Q. State what you know with reference to the defendants authorizing the payment of $200 out of the village treasury ? A. Mr. Snyder brought me an order signed by three of the finance committee, an order for $200, for me to issue him an order for that amount. I issued him an order for $200.
+Q. You may now stató whether there was ever any ordinance passed and recorded * * * in relation to the expenditure of the $200 we have been talking about ? A. Ho, sir.
+Q. Was there any other ordinance passed appropriating money for the purpose for which that order was made ? A. I never knew of any being passed.
+Q. What I have read here is all the action taken by the village board ? A. Yes, sir..
+Q. You say you issued this order to the treasurer to pay $200? A. Yes, sir.
+Q. You did not do that under the order of the board of trustees ? A. I did it from the order of the finance committee.
+Q. How .many members did that finance committee consist of ? A. Three.
+Q. And they made the order without any session of the board ? A. Yes, sir.
+Q. That money was never ordered to be paid out by any session of the board of trustees of the village of Thompson-ville? A. Ho, sir.
+It appears from the evidence that a finance committee, a part of whom were members of the board and a part were not, directed and controlled the boring of the well. Two hundred dollars of the money came from the treasury of the village, the remainder was raised by subscription. Upon the direction of the committee, the clerk, who is not a defendant in this case, signed an order upon E. S. Bundy, the treasurer. of the village, for $200, which order Bundy paid.
+Par. 92, Chap. 24, R S., “ Cities and Tillages,” declares that “ Eo contract shall be hereafter made by the city council or board of trustees, or any committees or members thereof; and no expense shall be incurred by any of the officers or departments of the corporation, whether the object of the expenditure shall have been ordered by the city council or board of trustees or not, unless an appropriation shall have been previously made concerning such expense, except as herein otherwise expressly provided.”
+Paragraph 99 of the same act declares: “ All warrants drawn upon the treasurer must be signed by the mayor and countersigned by the clerk, stating the particular fund or appropriation to which the same is chargeable, and the person to whom payable, and no money shall be otherwise paid than upon such warrant so drawn except hereinafter provided.”
+If the motion of Rainey, above referred to, was voted upon and carried, with reference to which the record is silent, there was still no legal liability imposed upon the village by such action. Eo appropriation for this purpose is shown or claimed. The “ yeas and nays ” are required to be taken upon the passage of all ordinances and on all provisions to create any liability against the city, or for the expenditures or appropriation of its money. Chapter 24, paragraph 42. It is not claimed that a “yea or nay” vote was taken, or that any vote at all was taken, or that the record shows even that any vote at all was taken.
+Eo funds can be paid out of the treasury unless upon an order signed by the president of the board and countersigned by the clerk. In this case the order was not signed by the president, nor ordered to be issued by the board. It was paid by the treasurer upon the order of the village clerk and issued by him at the request of the finance committee. If defendants wrongfully or without authority directed the finance committee to contract with Snyder the contract created no legal liability against the city and could not have been enforced. If under such a contract the treasurer paid out $200 upon an order not signed by the president nor directed to be issued by the board, he paid it out at his own risk. Under these conditions we fail to see how a recovery can be had in this action, under the evidence, from the president and members of the board.
+Judgment reversed and case remanded.
