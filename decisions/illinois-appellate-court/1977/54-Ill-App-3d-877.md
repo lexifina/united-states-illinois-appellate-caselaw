@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-80"
+decided: "1977-11-30"
+citations: ["54 Ill. App. 3d 877"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. STEVE M. GORTVA, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/54/cases/0877-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3398807
+cites_cases: ["348 N.E.2d 285", "363 N.E.2d 606", "38 Ill. App. 3d 689", "48 Ill. App. 3d 623"]
+---
+
+# People v. Gortva
+
+## Majority (Mr. PRESIDING JUSTICE ALLOY)
+
+Mr. PRESIDING JUSTICE ALLOY
+delivered the opinion of the court:
+This is an appeal from a conviction of rape, following a jury trial in the Circuit Court of Rock Island County, as a result of which defendant was found guilty of the crime. Defendant was sentenced to a term of 10 to 20 years imprisonment, with five years mandatory parole. On appeal in this court, defendant contends (1) that the trial court abused its discretion in sentencing defendant to a term of 10 to 20 years imprisonment, and (2) that the cause should be remanded to correct the mittimus to reflect the sentence actually imposed at the sentencing hearing.
+Defendant was charged by information with the offense of rape in violation of section 11 — 1(a)(1) of the Criminal Code (Ill. Rev. Stat. 1975, ch. 38, par. 11 — 1(a)(1)). As we have noted, defendant was convicted in a jury trial at which it was established that on August 1,1976, the 14-year-old prosecutrix and her sister were riding bicycles when they encountered a car driven by defendant. Either the defendant or his wife asked the prosecutrix if she could babysit for them, or the prosecutrix offered to babysit for defendant and his wife. Although the prosecutrix had not previously known defendant nor his wife, she entered the automobile with defendant and his wife and defendant’s son, and they drove to defendant’s apartment. Thereafter, while defendant’s wife was in the bathroom, defendant asked the prosecutrix to write down the names of several families she had. acted as a babysitter for in the past. As she was writing, defendant placed a knife to the throat of prosecutrix, threatened her with harm if she spoke or made a noise, and ordered her into the bedroom. After they entered the bedroom, defendant told the prosecutrix to disrobe, and then had sexual intercourse with the prosecutrix. Defendant was then found guilty by the jury of rape, indecent liberties with a child, and of contributing to the delinquency of a minor.
+At the sentencing hearing, the prosecution offered no evidence in aggravation, but recommended that defendant be sentenced to 10 to 20 years imprisonment. The presentence report showed that defendant’s parents had attempted to sell defendant for adoption when he was a youngster and that the parents subsequently permitted the Lincoln School to take defendant. At the age of nine, defendant was committed to the Department of Mental Health, where defendant remained until he was 18 years of age. Defendant is married and has three children. Defendant actually has no juvenile record and his only prior conviction was in 1968 for disorderly conduct. At the conclusion of the sentencing hearing, the trial court sentenced defendant on the rape conviction only and to a term of 10 to 20 years imprisonment with five years mandatory parole. The mittimus and docket sheet, however, reflect that defendant was sentenced to 10 to 25 years imprisonment, with five years mandatory parole.
+The first issue argued on appeal by defendant is that the trial court abused its discretion in sentencing him to a term of 10 to 20 years imprisonment. We have noted that the imposition of sentence is a matter of judicial discretion and the sentence imposed by a trial court should not be changed by a reviewing court unless it is apparent that the judge abused that discretion. (People v. Thomas (3d Dist. 1976), 38 Ill. App. 3d 689, 692, 348 N.E.2d 285). The offense of rape is a Class 1 felony. (Ill. Rev. Stat. 1975, ch. 38, par. 11 — 1(c).) The permissible sentence for a Class 1 felony is a minimum term of at least four years and a maximum term of any term in excess of four years. (Ill. Rev. Stat. 1975, ch. 38, par. 1005— 8 — 1.) The sentence imposed by the trial court is thus within the allowable range specified by statute. The evidence at the trial clearly indicated that defendant, 30 years of age, over six feet tall and weighing 200 lbs., raped the 14-year-old prosecutrix at knife-point, after defendant and his wife had taken the proxecutrix to their apartment to discuss the possibility of babysitting for them. As we review the record, we are unable to conclude that the trial court abused its discretion in sentencing defendant.
+Defendant argues alternatively that the case should be remanded so that the trial court may correct the mittimus to reflect the sentence actually imposed at the sentencing hearing. As we have noted, at the conclusion of the sentencing hearing, the trial court sentenced defendant “to a minimum of ten years and a maximum of twenty years, plus five years parole.” The mittimus and docket sheet reflect the sentence as being 10 to 25 years, with five years parole. The State concedes on this appeal that under the precedent of People v. Felters (2d Dist. 1977), 48 Ill. App. 3d 623, 363 N.E.2d 606, we should remand this cause to the trial court so that the mittimus may be corrected to reflect the sentence actually imposed at the sentencing hearing. This cause is, therefore, remanded to the trial court for the purpose of correcting the record as to sentence.
+The judgment of conviction of the Circuit Court of Rock Island County, however, is affirmed.
+Conviction affirmed. Cause remanded.
+STOUDER and SCOTT, JJ., concur.
