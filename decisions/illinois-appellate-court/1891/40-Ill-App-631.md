@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-06-02"
+citations: ["40 Ill. App. 631"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lake Shore & Michigan Southern Railway Company et al. v. Isaac Hoffert et al."]
+source_url: "https://static.case.law/ill-app/40/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5020297
+cites_cases: ["112 Ill. 384", "27 N .E. 530", "5 Gilm. 105", "87 Ill. 481"]
+---
+
+# Lake Shore & Michigan Southern Railway Co. v. Hoffert
+
+## Majority (Gary, J.)
+
+Gary, J.
+This is a bill filed by the appellees, Isaac Hoffert and William Kirby, partners, and Jane S. Haven and others, owners of the fee of the premises occupied by Hoffert & Kirby.
+The record shows that Haven and her co-tenants own the fee of a tract 122 feet wide east and west, bounded on the east by Clark street, in the city of Chicago, and on the west by the track of the appellants, on which are laid many railroad tracks, running north and south; on the north by Stoweil street, and on the south by a line parallel thereto and 198 feet south therefrom.
+That portion of the tract of the appellants which adjoins the tract described, was conveyed to the appellants named in the title above and another railroad company, by Haven and her co-tenants, or by a master in chancery under a sale in a partition suit between the then owners, in 1866 probably, and there was then probably some sort of written agreement between the railroad companies and the then owners, for some kind of railroad facilities to he furnished by the railroad companies for the convenient use of the tract described. What that agreement was, if any there were, rests in parol evidence.
+The persons now living, who had any connection with the business on the part of the railroad companies, deny all recollection of any agreement at all. Ho writings are produced that refer to any such agreement. The witnesses upon the subject for the appellees are three. One states that there was a guaranty or promise affording all such railway facilities as a corporation could consistently give to private individuals; another, that there was an agreement to give switching facilities and keep a switch there and take cars under certain circumstances pretty definitely bargained for; and the third, that his best recollection is, that there was an agreement for something upon the subject of furnishing railroad or switching facilities to the tract described. Nothing was ever done under such agreement, nor was there ever any application to the railroad companies to do anything under such agreement before the controversy which is the subject of this suit began.
+In 1882 Hoffert & Kirby, negotiating with Haven and her co-tenants for a lease of a part of the tract described, seventy-five feet in width through it from east to west, did make parol arrangements with the appellant named, for aside track to the west end of that strip, on the faith of which they took a lease for twenty years, spent $25,000 in building preparatory for their business, got the side track and used it until September, 1888, when the appellants took it up, to the great injury of Hoffert & Kirby.
+January 24, 1889, this bill was filed by the appellees to have that side track restored and the decree gives the relief prayed.
+To sustain the decree the appellees rely upon three several and distinct grounds:
+First: The agreement with Haven and her co-tenants.
+Second: The agreement and performance thereof with Hoffert & Kirby.
+Third: Sec. 5, Art. 13, of the Constitution, relating to railroads, elevators, public warehouses, coal banks and coal yards, and Secs. 84 and 121, as collated in Starr & C. Ill. Stats., title, Railroads.
+Before considering these various grounds, it is convenient to say that if neither of them is sufficient in itself, then it seems so evident, that we shall assume that the weakness of one ground is not helped by the equal weakness of another.
+Now, as to the first ground, this bill is in effect for the specific performance of an agreement made more than twenty two years before the bill was filed, the proof of which is so vague and indefinite that it is quite impossible now to ascertain what wore its terms. Ho part performance comes in aid of it, for what was done between the appellant named and Hoffert & "Kirby as to a side track for the latter, was wholly without reference to any such agreement, and in entire ignorance, so far as the evidence shows, by all then concerned in putting down that side track, that any such agreement had ever been claimed by anybody.
+In Rector v. Rector, 5 Gilm. 105, it is said: “ After a long period has elapsed, courts will be cautious in enforcing the specific performance of a contract where there is any real doubt about its existence and its terms, and especially when the contract is lost or destroyed, it should be made satisfactorily to appear what were the substantial conditions and covenants which are sought to be enforced.” This principle has been often since approved by the Supreme Court; the last time, to this date, in Koch v. Nat. Un. Bldg. Ass’n, 27 N .E. 530. In McCornack v. Sage, 87 Ill. 481, where Rector v. Rector is cited, it is also decided that acts referable to another cause or origin, are not to be treated as part performance of a disputed agreement. This first ground fails to support the decree.
+As to the second ground, the parol agreement with Hoffert & Kirby was that a side track should be laid by the railroad company, the expense of which Hoffert & Kirby should pay. The track was laid, but no bill ever presented, and no payment ever made.
+Had payment been made, the effect of the arrangement would have been simply that the railroad company, by parol, licensed Hoffert & Kirby to maintain a side track upon the premises of the company. That it was not paid for, adds nothing to the rights of Hoffert & Kirby. Payment would have been an additional circumstance in aid of their fireside equity. Such a license by parol is revocable at the will of the licensor, and a court of equity can not prevent the revocation, whatever the hardship.
+Nat. Stock Yards v. Wiggins Ferry Co., 112 Ill. 384, covers the whole ground, and the opinion there on the rehearing shows why a performance by the licensee under the license does not take the case out of the statute of frauds, the reason being that there is no agreement for anything more than a parol license, which in itself is revocable. So the second ground likewise fails.
+As to the last ground under the provisions of the constitution and statute referred to, Hoffert & Kirby had no' elevator, public warehouse, coal bank or coal yard, nor did they receive grain in bulk. There may be an inference from some of the evidence that they did receive on storage property of others, but it is very slight. Their business was making cider, in which business they handled great quantities of apples. But whatever other business they did than making cider, they kept no public warehouse, so far as any evidence shows, for grain storage; nor was their warehouse a stopping place established for receiving and discharging way passengers and freight.
+The brief of the appellees as to this ground for the decree, does not impress us as being very much in earnest, and we will not labor the matter, but hold that the appellees have no claim which the law can enforce to a side track upon any ground. The decree is therefore reversed and the case remanded, with directions to dismiss the bill at the cost of the appellees.
+Reversed and remanded.
