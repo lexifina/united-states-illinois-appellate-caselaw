@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1895-11-15"
+citations: ["61 Ill. App. 55"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Illinois Central Railroad Company v. Finley M. Borders."]
+source_url: "https://static.case.law/ill-app/61/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5160083
+cites_cases: ["107 Ill. 644", "108 Ill. 117", "112 Ill. 398", "129 Ill. 341", "129 Ill. 552", "13 Ill. App. 407", "140 N. E. Rep. 442", "147 Ill. 399", "147 Ill. 476", "15 Ill. App. 172", "150 Ill. 325", "19 Ill. 499", "51 Ill. App. 626", "52 Ill. 325", "53 Ill. App. 303", "54 Ill. App. 302", "55 Ill. App. 166", "55 Ill. App. 588", "56 Ill. App. 384", "60 Ill. 501", "64 Ill. 510", "76 Ill. 311", "8 Ill. App. 140", "8 Ill. App. 571", "80 Ill. 88", "81 Ill. 450", "83 Ill. 510", "9 Ill. App. 89", "96 Ill. 42"]
+---
+
+# Illinois Central Railroad v. Borders
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal from a judgment in favor of the appellee in an action on the case for damages sustained by a collision with a train at a highway crossing. It was alleged that the engine was negligently managed—that no signals by ringing bell or sounding whistle announced the approach of the train, and that the speed was reckless and dangerous.
+There is in the evidence no foundation for the charge that the engine was negligently managed, or that the speed was reckless, and the only ground of negligence at all supported by the proof is that the statutory signal was not given.
+On this point there is great conflict. A number of witnesses who were located at points considerably distant from the crossing testified that the whistle was not sounded, and that they did not hear the bell. The plaintiff testified that no signals were given. On the other hand two witnesses who were also located quite a distance from the crossing did hear the whistle sounded at the whistling post, and the employes on the train, the engineer, fireman, conductor and train master all testify that the whistle was sounded and the engineer and fireman also say the bell was rung.
+In such a conflict the jury may properly consider the interest or bias, the intelligence and fairness of all the witnesses, their means of knowledge and opportunity for observation and must reach such conclusion as when all things are considered, seems to them to be most reasonable.
+Ordinarily their solution will be accepted by the trial court and by an appellate tribunal without question when the proof is so conflicting, provided there is no reason to suppose that their judgment has been unduly affected by any rulings of the court during the trial. It is complained here that there were erroneous rulings which tended to produce the verdict.
+First. The court permitted proof that the plaintiff was a sober and a careful man. Such testimony would be competent where there were no witnesses who could testify as to the facts attending the collision; but where, as here, the plaintiff himself testified as to those facts, as did several others, such testimony is not admissible. C., R. I. & P. Ry. v. Clark, 108 Ill. 117.
+Second. It is urged there was error in permitting witnesses to testify against the objection of defendant to other occasions when no signal was given of trains approaching this crossing, one witness being allowed to say that “lots ” of the trains “ never whistled there.” In the closing argument for plaintiff his counsel referred to this proof, and asserted that one of the reasons why plaintiff’s witnesses were to be believed on the point as to whether the signal was given, was that “ there had been a continuous neglect of duty ” in this respect, and that the employes of defendant were compelled to testify that the signal was given or forfeit their positions. Foundation was laid for this latter remark by a line of questions upon cross-examination of the fireman, as to what the witness supposed would happen if he had neglected his duty in this respect. As to each of these remarks, counsel for defendant objected and asked that the jury be instructed to disregard them, but the court overruled the objection in each instance.
+Various other complaints as to minor matters need not be here noticed. We are inclined to think the court, when so requested, should have advised the jury to disregard these assertions of counsel in the closing argument, and by declining to do so, that it gave strong ground for the belief, probably entertained by the jury, that it indorsed what was so objected to.
+Of course, it is impossible for the trial judge to supervise, in detail, the language of counsel when addressing the jury, and usually an appellate court will regard the matter as being within the discretion of the trial court, and will rarely reverse a judgment on this ground alone. Very clearly it was improper to permit proof of former occasions, when there was no signal given at that crossing, and.though the evidence on this point was not offered for that avowed purpose, and was artfully gotten before the jury for another purpose, as claimed, yet that was the effect, and no doubt the real object, and when this-was followed by an argument pressing upon the jury that there had been “ a continuous neglect of duty ” in this respect, which the court permitted over objection, we think the defendant had substantial cause of complaint.
+It was, of course, necessary for the plaintiff to show that he used ordinary care, and if he did not there could be no recovery even though the jury may have believed that there was negligence on the part of defendant as alleged.
+The crossing was over a single track, out in the open country, where there was really nothing to prevent the plaintiff from perceiving the train if he had exercised his sense of sight or hearing.
+There was, as required by law, a sign board in full view with the warning— “ Eailroad crossing, look out for the cars 5 — painted thereon, in letters large enough to be read three hundred feet from the crossing. Had this warning been regarded, the plaintiff would have discovered the train approaching. He could have seen it at least a quarter of a mile, probably further.
+It is difficult to reconcile His action with the conclusion that he was duly careful, and it seems more probable, that from some cause he was for the moment oblivious to the fact that he was at a place of possible danger. Considering this aspect of the case, in connection with the rulings of the court just referred to, we are constrained to say that the defendant should have been accorded a new trial.
+The judgment will be reversed and the cause remanded.
