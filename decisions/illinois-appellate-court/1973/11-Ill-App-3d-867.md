@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-328"
+decided: "1973-05-25"
+citations: ["11 Ill. App. 3d 867"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Estate of Elizabeth Miller, Deceased—(Sarah R. M. Storch, Admr., Petitioner-Appellant, v. Lillian M. Tester, Respondent-Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/11/cases/0867-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2936907
+cites_cases: ["111 Ill.App.2d 267", "40 Ill.2d 581"]
+---
+
+# Storch v. Tester
+
+## Majority (Mr. JUSTICE THOMAS J. MORAN)
+
+Mr. JUSTICE THOMAS J. MORAN
+delivered the opinion of the court:
+Plaintiff, administrator of the estate of her deceased mother, commenced proceedings against defendant, her sister, for the turnover of certain assets claimed to be the property of the estate. From an order denying the requested relief, plaintiff appeals.
+This court is asked to determine whether the assets of the estate were transferred by the surviving heirs to the defendant as a gift or for the purpose of collecting all assets for distribution without the necessity of probate.
+Decedent left as her heirs, seven children: Lillian (defendant), Sarah (plaintiff), William, Daniel, Rebecca (Jane) and Francis (who were full brothers and sisters) and Edward (a half-brother to tire others). At the time of her death (January, 1959) she was sole owner of three parcels of real estate, various shares of stock and a savings account. Held in joint tenancy with defendant, and not involved here, was the home of the decedent and a note.
+On the day of the funeral, defendant, Jane, Francis and an attorney, met at Daniel’s home. The attorney, with the secretarial help of Jane, prepared certain assignments and warranty deeds. The instruments, which defendant claims were there executed by the four heirs present, transferred the heir’s shares in the estate to the defendant. Plaintiff and William, who were not present, executed the assignments and deeds the next day. Edward’s whereabouts were then unknown; nine months later, however, he executed a separate assignment of personalty, quitclaim deeds to two parcels of Illinois realty and a warranty deed to realty located in Michigan.
+During March of 1959, defendant filed for letters of administration and introduced proof of heirship; no further action was taken and letters never issued.
+In February, 1966, plaintiff was appointed administrator and filed an inventory including the assets in question. Upon petition of plaintiff, the court, in June, 1969, issued a citation upon defendant to discover assets.
+At the hearing, evidence was introduced which bore upon the intent of the parties in transferring the estate assets. Defendant testified that the transfers were made a gift to her in consideration for her having supported her mother.
+Jane corroborated defendant’s testimony, asserting that she signed the documents with the intent of relinquishing to the defendant, any right she (Jane) might have in the estate. She additionally testified that the attorney present when the documents were drawn had explained that the assignments served to extinguish the heir’s rights in the estate and that probate proceedings would be had only to account for the absence of Edward.
+Francis, by way of an evidence deposition, testified on behalf of the estate, asserting that during the after-funeral meeting it was suggested that defendant act as administrator of tire estate, that he executed the papers the next day at plaintiiFs home, and that it was his intent to share in the estate expecting that the administrator would distribute the estate and “equalize” the assets.
+Plaintiff and William were not present at the time the instruments were drawn, did not participate in the discussions relative thereto, and signed the instruments without defendant present. They testified that they executed the instruments to enable defendant to act as administrator, not for the purpose of giving her the assets in the estate.
+At the close of evidence, defendant moved to dismiss the petition. The motion was denied and it was ordered, upon stipulation of the parties, that the testimony and exhibits introduced would stand as the record for any further proceedings.
+Prior to adjudication, a judge, other than the one who presided at the hearing, reviewed the proceedings and determined that the instruments executed by the hens conveyed the assets of the estate to defendant in consideration for her support of her mother; she was ordered discharged under the citation. Ordinarily, since the trial court has observed the witnesses’ demeanor and is thereby better able than the reviewing court to judge their credibility, the judgment of the trial court should be affirmed unless found to be against the manifest weight of the evidence. Under the circumstances here, we are not bound by this rule.
+The record reveals that there were three assignments of personalty: one, a savings account in the First National Bank of Chicago, another to shares of stock in Northern Illinois Gas Company and the third, to shares of stock in Goldblatt Bros., Inc. (Although not introduced into evidence, defendant states that a fourth assignment to shares of stock in Commonwealth Edison Company was established by her testimony and claims, under the assignment, that the shares are her sole property.) The assignments were all alike, one pertinent portion reading:
+“We, the undersigned, * * * hereby agree to settle tire estate of said decedent without probate proceedings and hereby request said First National Bank of Chicago to transfer said savings account, or to issue its check or cash, without requiring administration of said estate, to and in the name of Lillian M. Tester, hereinafter called transferee * * # the undersigned do hereby assign and transfer * * * all right, title and interest * * * and that the undersigned will reimburse said First National Bank of Chicago for any loss which it may sustain on account of the transfer s *
+Plaintiff relies on the phrases “to settle the estate of said decedent without probate proceedings,” and “without requiring administration of said estate,” to substantiate her position, while defendant argues that the terminology was used to conform to section 95 of the Probate Act (Ill. Rev. Stat. 1959, ch. 3, sec. 247) which allows parties of interest to settle an estate without administration. Defendant contends that the assignments of personalty (signed by all but Edward) were unambiguous, showed an outright gift, and that plaintiff is therefore estopped in the claim that they were executed only to establish a fiduciary relationship. Defendant’s own argument on the terminology serves to accentuate the issue of ambiguity. While the contested phrases may be used to accomplish the conveyance of a gift, their language is not determinative of a gift, in fact, having been made. We find the language of the instruments to be ambiguous.
+Edward’s assignment does not refer to probate proceedings or its avoidance, nor does it contain any indemnity provision, but states:
+“* * * we do hereby voluntarily give and transfer all of our rights to, and interests in * * * [the personalty in question].”
+All agree that Edward’s conveyance amounted to a gift.
+To create a gift, there must be some communication, oral or written, of a donative intent between the donor and donee. Defendant admits that she conversed with neither plaintiff nor William and no written communication was evidenced other than the assignments themselves. Having found the instruments ambiguous, it becomes necessary to resolve the question of intent from other evidence. Plaintiff and William testified that in executing the documents, it was their intent to place their shares of the estate in defendant’s name as administrator with the expectation that she would eventually distribute the assets. Francis, present at the time the instruments were drawn and apparently a participant in the conversation with the defendant, testified to a like understanding. The indemnification clauses within the assignments (not found in Edward’s) and the conveyance of realty by warranty deeds (in contrast to Edward’s use of a quit-claim deed) further support plaintiff’s position that the transfers were not intended as gifts.
+The burden of proof of a gift is upon the donee and the proof must be clear, satisfactory, unequivocal and convincing. There should be no uncertainty as to either the claimed intent or the claimed delivery. In re Estate of Skinner, 111 Ill.App.2d 267 (1969), cert. denied, 40 Ill.2d 581 (1969).
+We hold that, except in the instances of Jane and Edward, the defendant faffed to meet her burden of proof necessary to establish a donative intent.
+The order appealed is reversed and the cause remanded for further proceedings in accordance with the views expressed herein.
+Reversed and remanded.
+ABRAHAMSON and SEIDENFELD, JJ., concur.
