@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-116"
+decided: "1977-08-26"
+citations: ["52 Ill. App. 3d 383"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. JESSE DEAN, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/52/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3387764
+cites_cases: ["131 Ill. App. 2d 481", "268 N.E.2d 233", "319 N.E.2d 496", "347 N.E.2d 479", "37 Ill. App. 3d 975", "59 Ill. 2d 102"]
+---
+
+# People v. Dean
+
+## Majority (Mr. JUSTICE GEORGE J. MORAN)
+
+Mr. JUSTICE GEORGE J. MORAN
+delivered the opinion of the court:
+This is an appeal from an order of the circuit court of St. Clair County finding defendant Jesse Dean in violation of his probation. Dean contends the failure to conduct a hearing on the probation revocation petition within 15 days of his detention, in violation of section 5 — 3(4) of the Juvenile Court Act (Ill. Rev. Stat. 1975, ch. 37, par. 705—3(4)) deprived the circuit court of jurisdiction and entitled him to a dismissal of the charge.
+In a previous proceeding, Jesse Dean had been found delinquent, made a ward of the court, and placed on probation until his seventeenth birthday. In an apparent response to the defendant’s implication in a burglary, the court ordered Dean placed in detention for a maximum period of ten judicial days on November 13,1975. On the State’s motion, this detention was extended for an additional ten judicial days on November 26, 1975. On December 3, 1975, the petition to revoke probation was filed. Defendant moved for dismissal of charges on December 8, 1975, the date defendant was released from custody. The defendant was found to have violated probation in a hearing on January 12, 1976. He was placed on probation until his seventeenth birthday on conditional discharge for two years thereafter, and was ordered to reside with his uncle in Cedar Bluff, Mississippi.
+Defendant contends that the failure to conduct a hearing on the revocation of his probation within 15 days of his detention deprived the court of jurisdiction to entertain the petition. The State contends the 15-day period begins, not at the time of detention, but upon the filing of the petition to revoke probation. Alternatively, the State contends the remedy for violation of the statutory provision for a hearing is release from detention rather than dismissal of the charges.
+The Juvenile Court Act (Ill. Rev. Stat. 1975, ch. 37, par. 701—1 et seq.) provides means by which the court may order a minor to be held in detention pending further proceedings. Section 3 — 1 of the Juvenile Court Act provides for temporary custody by a law enforcement officer when the officer has reasonable cause to believe a minor is within the coverage of the Act. Section 3 — 5 of the Act provides for a detention hearing within 36 hours of the taking into temporary custody. Section 3— 6(2) of the Act authorizes the court to order detention upon a finding of necessity for the protection of the minor or the person or property of another. Section 5 — 3(3) of the Act provides for detention upon similar findings when a petition to revoke probation has been filed.
+According to section 4 — 2 of the Juvenile Court Act as aménded effective October 1, 1973 (Ill. Rev. Stat. 1975, ch. 37, par. 704—2), an adjudicatory hearing for a minor held in detention must be set within 10 judicial days. If a minor is charged with the violation of a condition of probation, detention may continue for a period of 15 days pending a determination of the alleged violation (Ill. Rev. Stat. 1975, ch. 37, par. 705-3(4)).
+The State contends that the defendant was originally detained pursuant to section 4 — 2 of the Act. Until the petition to revoke probation was filed on December 3, 1975, the time period of 15 days as specified in section 5 — 3(4) did not begin to run. We note that the circuit court did make the findings requisite for detention under either statutory provision, but did not indicate under which section it was ordering detention. We need not determine under which section the defendant was held, as we cannot accept the State’s argument.
+Following the State’s analysis, a minor who has been found delinquent and placed on probation at a previous time would be subject to excessive detention. He may be taken into temporary custody and ordered detained pending an adjudicatory hearing under section 4 — 2. Should he seek his release following the expiration of the 10-day period, the State would then file a petition alleging the probation violation, and seek an additional 15-day detention. We believe this is contrary to the intent of the legislature which has established a maximum time period for the detention of minors. The stringing together of detention periods, with no determination of actual fault, is contrary to this intent.
+Upon the ordering of detention, we find the State has 10 days to conduct an adjudicatory hearing pursuant to section 4 — 2, or 15 days to conduct a hearing on the alleged probation violation. Although detention was ordered on November 13, 1975, the hearing was not set, and the defendant not released, until December 8, 1975. Since section 5 — 3(4) does not provide for a continuance of detention upon motion of the State, the order of November 26,1975, was void. Under these circumstances, a clear violation of section 5 — 3(4) has been established.
+We are left with a determination of the remedy for the violation. Defendant argues that he is entitled to a dismissal of the charges while the State contends that the defendant is entitled only to immediate release from custody.
+In In re Daniels, 37 Ill. App. 3d 975, 347 N.E.2d 479, the court found that the violation of section 5 — 3(4) did not deprive the court of jurisdiction, but merely entitled the minor to immediate release from custody. Although defendant attempts to attack the reasoning of the court, we find it to be persuasive.
+In Daniels the court noted that similar time periods in the Juvenile Court Act have been interpreted as nonjurisdictional. Interpreting section 4 — 2 of the Act, the court in In re Armour, 59 Ill. 2d 102, 319 N.E.2d 496, held the 30-day period in which to conduct an adjudicatory hearing for those minors not held in custody was directory and not jurisdictional. Noting that the purpose of the Act is to correct rather than punish, the court stated:
+“We do. not consider that the legislature intended that should an adjudicatory hearing not be held precisely within 30 days that the minor should be discharged or be abandoned, as it were, and that society’s effort to correct, to rehabilitate and to guide should come to a halt. This would be the result should the argument of the minor here be accepted.” In re Armour, 59 Ill. 2d 102, 105, 319 N.E.2d 496, 498.
+Similarly, the court in In re Nyce, 131 Ill. App. 2d 481, 268 N.E.2d 233, held that violations of section 3 — 1 providing for temporary custody, section 3 — 5 providing for a detention hearing within 36 hours, and section 4 — 2 providing for an adjudicatory hearing within 10 days did not bear on the issue of jurisdiction.
+As these cases are persuasive, we find ourselves in agreement with the holding of In re Daniels, 37 Ill. App. 3d 975, 347 N.E.2d 479, that violations of section 5 — 3(4) of the Juvenile Court Act (Ill. Rev. Stat. 1975, ch. 37, par. 705—3(4)) are not jurisdictional, but rather entitle the minor to immediate release from detention.
+Accordingly, we affirm.
+Affirmed.
+JONES and KARNS, JJ., concur.
