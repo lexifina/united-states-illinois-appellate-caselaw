@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "11780"
+decided: "1972-08-30"
+citations: ["7 Ill. App. 3d 143"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Gerald L. Smith, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/7/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2677747
+cites_cases: ["101 Ill.App.2d 86", "122 N.E.2d 172", "128 Ill.App.2d 351", "242 N.E.2d 15", "262 N.E.2d 105", "32 L.Ed.2d 530", "334 Ill.App. 158", "4 Ill.2d 38", "78 N.E.2d 822", "9 A.L.R.3d 462"]
+---
+
+# People v. Smith
+
+## Majority (Mr. JUSTICE CRAVEN)
+
+Mr. JUSTICE CRAVEN
+delivered the opinion of the court:
+The defendant was convicted of driving an automobile while under the influence of intoxicating liquor. The conviction was based upon his plea of guilty entered in the circuit court of McLean County on November 16, 1971. The defendant signed a plea of guilty with an accompanying waiver of the right to a hearing. He was not represented by counsel. The trial court upon the entering of the finding of guilty imposed a $100 fine and costs and sentenced the defendant to five days in the county jail.
+Three days later, on November 19, 1971, the defendant through counsel filed a verified petition to vacate the judgment entered on the plea of guilty, asked leave to withdraw the plea, and for leave to enter a plea of not guilty. The petition asserted that the defendant did not waive a right to trial by jury; that the defendant was not given the benefit of counsel; that he did not understand the true consequences of the plea, including the fact that conviction would result in a revocation of his driver’s license, possible loss of registration of license plates, and future insurance rate increases; that the defendant entered a plea of guilty for fear of unfavorable publicity; and, finally, that he had a good and meritorious defense not otherwise specified.
+On November 23, 1971, the trial court entered an order denying the motion to vacate. The order as entered makes several findings of fact, including the finding that the defendant did appear without counsel; that he was fully admonished as to the judicial consequences flowing from the plea of guilty; was advised as to the possible penalties; that he was advised that he had the right to be represented by counsel; that he had a right to a trial either before the court or before a jury, the right to call and confront witnesses; and a finding that by means of questions put to the defendant and replies by the defendant the court ascertained that the plea of guilty was voluntarily made and that it was understandingly entered.
+The conclusions of law of the court are to the effect that the defendant was admonished; that there was a hearing in aggravation and mitigation as provided by law, and that the defendant has heretofore paid the fine and served the five-day jail sentence, and therefore the motion to vacate the plea of guilty was moot, and further that the allegations set forth in the petition were without any basis of fact. Upon the denial of the petition to vacate, the defendant files this appeal. We affirm.
+The issue presented to this court by this appeal is whether or not the court abused its discretion in not granting the petition to vacate the judgment entered upon the plea and to allow the withdrawal of the plea of guilty. In People v. Roberts (1968), 101 Ill.App.2d 86, 242 N.E.2d 15, this court reviewed the rules applicable to determining the existence of abuse of discretion in failure to vacate a judgment entered upon a plea of guilty as previously announced by decisions of our supreme and appellate courts. We deem it unnecessary to repeat the observations found in Roberts.
+We have recited the substance of the record as filed. It is a bare bones record unaided by a report of proceedings or a record based upon recollection as provided under our Supreme Court Rules when, as here, the proceedings were not taken by a court reporter. We will not presume, based upon such a record, that the asserted deficiencies did exist, when the findings and conclusions of the trial court are to the effect that there were no such deficiencies. In this connection, we note that any record based upon recollection would ultimately be settled by the trial court in the event of any controversy. See Supreme Court Rule 323 (c).
+The conclusion by the trial court that the payment of the fine and the expiration of the five-day jail sentence rendered the issue moot was in error. In People v. Shambley (1954), 4 Ill.2d 38, 122 N.E.2d 172, the Illinois Supreme Court specifically held that a writ of error to review a conviction was not rendered moot by defendant’s payment of the assessed $200 fine. People v. Lee (1948), 334 Ill.App. 158, 78 N.E.2d 822, is to the same effect. In this connection, it should be noted that the Illinois view is apparently a minority view, but it is nonetheless a rule in this State that a case is not rendered moot by the payment of a fine or the expiration of a jail sentence imposed. See 9 A.L.R.3d 462.
+The right of the defendant to counsel either retained, or if indigent, appointed, is of course decided as of June 12, 1972, in the case of Argersinger v. Hamlin, 32 L.Ed.2d 530, wherein the United States Supreme Court held that no person may be imprisoned for any offense whether classified as petty, misdemeanor, or felony, unless he was represented by counsel at his trial, absent a knowing and intelligent waiver of counsel. The rule announced in Argersinger, whether retroactive or prospective, can have no application to this case in view of the fact that the trial court found that there was an admonition to the defendant that he was entitled to counsel and a subsequent plea of guilty was entered which the court found to be knowing and intelligent.
+In People v. Jenkins (1970), 128 Ill.App.2d 351, 262 N.E.2d 105, this court specifically passed upon the question of whether or not the revocation of a driver’s license by the Secretary of State was a consequence of a plea of guilty so as to require such to be included in an admonition to the defendant. We held that it was not, based upon the authorities cited in Jenkins.
+Upon the record before us, appellant has not established, as is his burden, that the action of the trial court in denying the motion to vacate the conviction and give him leave to withdraw the plea of guilty constituted an abuse of discretion. The judgment of the circuit court of McLean County accordingly is affirmed.
+Judgment affirmed.
+TRAPP, P. J., and SIMKINS, J., concur.
