@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1892-10-17"
-citations: ["48 Ill. App. 202", "48 Ill. App. 211", "48 Ill. App. 208"]
+citations: ["48 Ill. App. 202"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["McGregor v. Village of Lovington."]
 source_url: "https://static.case.law/ill-app/48/cases/0202-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5132402
-cites_cases: ["107 Ill. 458", "115 Ill. 120", "14 Ill. 365", "23 Ill. 90", "45 Ill. 90", "50 Ill. 28", "67 Ill. 104", "77 Ill. 468", "78 Ill. 405", "89 Ill. 197", "89 Ill. 198", "9 Ill. App. 339"]
+cites_cases: ["107 Ill. 458", "14 Ill. 365", "23 Ill. 90", "67 Ill. 104", "77 Ill. 468", "89 Ill. 197", "89 Ill. 198", "9 Ill. App. 339"]
 ---
 
 # McGregor v. Village of Lovington
