@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-06-29"
+citations: ["77 Ill. App. 106"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Surety Co. v. United States of America, for use of Alexander Watt."]
+source_url: "https://static.case.law/ill-app/77/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5223945
+cites_cases: ["104 U. S. 176", "112 U. S. 490", "167 Ill. 18", "172 Ill. 62", "70 Ill. App. 22"]
+---
+
+# American Surety Co. v. United States of America
+
+## Majority (He. Justice Windes)
+
+He. Justice Windes
+delivered the opinion of the court.
+Appellant claims, first, that plaintiff failed to make out a case, and the court erred in not taking it from the jury; second, that the court erred in admitting in evidence the agreement made by Bates with the United States; third, that the Superior Court was without jurisdiction of the subject-matter; fourth, that the court erred in refusing an instruction for the defendant; fifth, that the verdict is excessive; and, sixth, that the court erred in limiting appellant’s counsel in argument to the jury.
+1st. The evidence shows an agreement between Bates and the United States, under which Bates agreed to furnish all required material and labor needed in the construction of a hydraulic dredge for a price named, the dredge to be delivered at Cairo, Illinois, and to pay all liabilities incurred in the prosecution of the work for labor and material; also that Bates and appellant execute the bond above set out; also that Bates employed Watt to go to Cairo where Bates was building the hydraulic dredge for the government; that Watt superintended the work at Cairo of launching pontoons, which were part of the dredge, and was engaged at the work three months; that Watt was to have a salary of $150 per month; that he made reports of his work to Bates and signed them as superintendent, and be was not paid for his work except the sum of $20. This, we think, made a prima facie case for recovery, and that the court did not err in refusing to instruct the jury to find for defendant. The provision of the act as to furnishing an affidavit to the department of the government, only has reference to the procuring of the copy of the contract and bond, and is not a prerequisite to the right to maintain an action.
+This requirement is made to satisfy the government official that the person has furnished labor or material on the particular contract.
+2d. The agreement between Bates and the United States is indorsed: “ A true copy. Graham D. Fitch, Captain Corps of Engineers;” has the seal of the chief engineer of the war department affixed to it, and was received by Watt from the government with a copy of the bond. Section 882, Eev. Stat. of the United States, provides, viz.: “ Copies of any books, records, papers or documents in any of the executive departments, authenticated under the seals of such departments, respectively, shall be admitted in evidence equally with the originals. thereof.” The agreement was therefore properly admitted in evidence.
+3d. We think the contention that the Superior Court had no jurisdiction is not tenable. The act of Congress provides that the person supplying the labor “ shall have a right of action, and shall be authorized to bring suit in the name of the United States ” for his use and benefit against the contractor and sureties, provided it shall not involve the United States in any expense, and that the court in which such action is brought is authorized to require proper security for costs in case judgment is for the defendant. It will be seen there is no limitation as to the court in which the suit may be brought, and the act empowers the court to require proper security for costs. The United States has no interest in the action which is brought for the use and benefit of Watt alone, as a mere nominal party, and can not control the proceedings or judgment in the case. So far as concerns the matter of jurisdiction, the suit is the same as if brought by Watt alone. State of Maryland, for use, etc., v. Baldwin, 112 U. S. 490.
+4th. The abstract fails to show that the trial court refused to give any instruction asked by appellant, or that any exception was preserved to any such supposed refusal. Under such condition of the abstract, we are not required to search the record to discover whether there was error. Gibler v. City of Mattoon, 167 Ill. 18.
+We, however, are inclined to think there was no error in refusing the instruction, which, it is claimed, the court refused to give. Mining Co. v. Cullins, 104 U. S. 176.
+5th. We think the verdict is excessive by the amount of $20, which Watt admits he received while working at Cairo, and which he, when reporting upon his work there, directed to be charged to him. He made the application, and it was too late for him, as he attempted to do, at a later date, to make an application of this collection to another account between him and Bates.
+-6th. It appears that counsel for appellant had only six minutes in which to argue the case to the jury. It is stated in the brief-that the case was tried on the short cause calendar, though the record fails to show it. When counsel had consumed six minutes in his argument to the jury, he was notified by the court that his time was up, whereupon he stated he could not present his case to the jury in the time limited, and the court gave him two minutes additional, but counsel declined to consume the additional time given by the court, and said that he preferred “to stand upon the record as it is,” and took an exception. We think counsel should have used the time given him by the court, and then, if he had not finished his argument, and the court refused him further time, he could have taken his exception. Counsel are in no position, having declined to use the time given bjr the court, to claim there was reversible error in the court’s ruling.
+In People, etc., v. Darrow, 70 Ill. App. 22, it was held that a limit of seven minutes to the argument in a short cause case, involving an open account of larger amount than this case, was not reversible error. This has been affirmed by the Supreme Court, 172 Ill. 62.
+The judgment is affirmed if a remittitur of $20 from the damages is entered by appellee in ten days.
+Appellee will pay costs in this court.
