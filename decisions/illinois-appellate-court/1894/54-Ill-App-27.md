@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1894-06-23"
-citations: ["54 Ill. App. 27", "54 Ill. App. 32"]
+citations: ["54 Ill. App. 27"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
