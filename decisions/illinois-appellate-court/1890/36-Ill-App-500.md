@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-05-28"
+citations: ["36 Ill. App. 500"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Felix W. Calkins v. Josiah Williams, Administrator."]
+source_url: "https://static.case.law/ill-app/36/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5009971
+---
+
+# Calkins v. Williams
+
+## Majority (Upton, P. J.)
+
+Upton, P. J.
+On the 23d of March, 1885, a contract was made by which Mary Troup sold and was to convey to the appellant forty acres of land, for the price of $550, of which $100 was to be paid in cash, and the balance on July 20,1887, with interest at eight per cent per annum, and upon payments being made, a deed was to be given.
+On the 16th of February, 1886, this contract was modified or superseded by another between the above named parties, by which appellant was to, and did pay the further sum of $225, and agreed to pay $225 more, being the balance of the original purchase price, on the 20th of July, 1887, without interest, provided a judgment in favor of Josiah Matzenbaugh against Charles Troup and Mary Troup, should be satisfied, and a deed of the forty acres of land procured from one W. H. Somers, who had a small interest in the land or was supposed to have, to appellant. The $225 was not to be paid by appellant until that judgment should be satisfied, and a deed, from Somers procured.
+The appellant went into actual possession of the land in controversy, on or about the 23d of March, 1885, and has since that time, and now is, in possession thereof, and residing thereon with his wife, Rosaline Calkins, and his family, receiving the rents, issues and profits thereof.
+It was stipulated as an admitted fact on the trial of this case in the court below, that the judgment referred to in the contract of Matzenbaugh against Mary and Charles Troup had been vacated before the commencement of this suit; indeed, the evidence tended to show that the judgment never was a lien upon the forty acres sold at all.
+Soon after the making of the modified contract above referred to, and on or about the 17tli day of September, 1886, and nearly a year before Mary Troup,had contracted to obtain a conveyance from W. H. Somers of the forty acres, Rosaline Calkins, then the wife of and living with appellant, obtained from W. H. Somers and his wife, for the expressed and actual consideration of $15, a deed of conveyance to herself of this forty acres, which was placed of record, of which neither Mary or Charles Troup were apprised at the time, and to which they in no way or manner consented.
+Mary Troup was quite an old lady, and her mental faculties were somewhat impaired, and in her endeavor to procure the deed of the land in controversy from Somers (who resided in the far West), was aided by her son, and by correspondence with Somers learned of the deed from him to the wife of the appellant; and Somers consequently declined to execute another deed. He was finally prevailed upon to execute to Mary Troup a quit claim deed of the land in the latter part of the year 1887, or the first of the year 1888, in which his wife joined. Upon receipt of this deed, which was duly executed, Mary Troup executed, in due form, a conveyance of this forty acres of land from herself to appellant, and the deed from herself and the quit claim from Somers and wife to her as before stated, was tendered to appellant, and the balance due on the contract of purchase demanded of him. Appellant refused payment on the alleged ground that Mary Troup had not obtained the title from Somers as provided in the contract, and being told that his wife had obtained a conveyance —of which it seems evident he must have been apprised, even if not in actual collusion with his wife in obtaining it—wholly refused to pay the balance, or any part of the agreed purchase money.
+Thereupon this suit was commenced in February, 1888, in the name.of Mary Troup against appellant. Soon thereafter Mary Troup was declared feeble-minded, from old age, it may reasonably be inferred, and one Asa B. Bo if was appointed conservator of her estate, and from thence proceedings by leave have been conducted in his name. Some questions were presented to the court below upon the pleadings in the case and are reviewed here, but we think the merits of this case are too apparent to admit of, or require the examination of matter’s purely technical in character, or which would seem to obscure, rather than enlighten ns as to our duty herein.
+We are abundantly satisfied from the facts and circumstances in this record that the only pretense to which appellant could resort to avoid the payment of the purchase money for the purchased premises, at the time of the tender of the deeds and demand of payment as above stated, was that the contract had not been performed in that Mary Troup had not procured a deed of the premises sold him, when in truth and in fact, as we think, a deed of the land was before that time obtained by the wife of appellant and in collusion with him to prevent Mrs. Troup from complying specifically with terms of the contract of purchase on her part, of which slight evidence would be sufficient under the facts and circumstances in this record. We can not but think that the defense interposed in this case is but technical in character and wholly without merit.
+In our judgment substantial justice was done on the hearing in the trial court, and finding no reversible error in the record, that judgment is affirmed.
+Judgment affirmed.
