@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-42"
+decided: "1971-11-04"
+citations: ["1 Ill. App. 3d 783"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eleanor Saporito, Plaintiff-Appellant, v. Wendell Chapin d/b/a Terrapin Ridge Manor Motel, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/1/cases/0783-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5314975
+cites_cases: ["37 Ill.2d 494"]
+---
+
+# Saporito v. Chapin
+
+## Majority (Mr. JUSTICE ABRAHAMSON)
+
+Mr. JUSTICE ABRAHAMSON
+delivered the opinion of the court:
+Plaintiff brought this action to recover damages for personal injuries sustained when she fell down a step on defendant’s premises. In a bench trial in the circuit court of Jo Daviess County, the trial judge directed a verdict for the defendant, pursuant to motion, at the close of plaintiff’s case. The plaintiff contends, upon appeal, that she presented evidence of inadequate fighting and a structural condition of the step on premises which were due to the negligence of the defendant. She further states she exercised due care and was not contributorily negligent. Plaintiff concludes that she was entitled, therefore, to a jury determination as to whether she should recover damages and contends that the order directing a verdict against her was improperly entered.
+On July 26, 1968, plaintiff had rented a room on the first-floor level in defendant’s motel. The first floor consisted of a number of adjacent rooms. There was a second level of said motel which consisted of only two rooms, and plaintiff’s nephew, a Mr. Knutson, was living in one of the second-floor rooms. There were two stairways from the first floor to the rooms on the second floor — an inside stairway from the dining room to the second-floor level, and a stairway from the front of the motel, leading to a wooden planking on the roof of the motel that extended to an outside door on the second floor.
+Plaintiff had been visiting with her nephew in his room on the second floor and about 9:00 p.m. on July 26, 1968, when it was dark outside, she left his room and went through a hallway between the two rooms on the second floor, to the door leading to the roof exit and entrance to the first floor. She testified that there was no light in the hallway and that there was no switch in the hallway for the stairway which lead to the dining room, as that switch was located at the bottom of the stairway. When plaintiff reached the door leading to the roof, she was carrying a large purse which was about 2% to 3 inches wide at the top and between 12 and 15 inches in both depth and width. She opened the door and then proceeded to open a screen door with her right hand, while the purse was on her left arm. Her testimony as to the lighting at the doorway was that there was a light at the doorway but she could not remember whether it was over or to the side of the door, but she did describe the light as “a small light, dim light, it was not a bright light.” She stepped down and fell to the planking floor. When asked how the accident happened, she said, “I stepped down and there was terrible pain, and I fell and just sat down on the porch and on the deck floor and my ankle swelled just immediately.” She was questioned as to whether she looked down before she took the step on the threshold, and she stated, “I cant remember. I couldn’t say.” The injuries for which she seeks to recover damages consist of a badly sprained ankle, pain, and a resulting weakness of the ankle. There were no fractures. Her total expense arising out this injury was $54.50, which consisted of x-ray and doctor bills.
+Plaintiff’s testimony on trial does not mention the height of the step involved, but her nephew’s testimony reveals that the roof was tar paper with a wooden planking laid upon it, and that the threshold of the door was raised 10 to 12 inches from the tar paper, or after allowing for the thickness of the planking on the roof, about P/2 inches less than the 10-to 12-inch height hereinbefore referred to. However, it does appear that her nephew never measured the distance from the planking to the threshold and was not sure what it would be.
+Plaintiff also testified that she had been to her nephew’s room in the months of June and July approximately ten times, and two or three of those times were after dark. She further testified that she did not always use the roof door but sometimes used the other door. Plaintiff and her husband spent one night in her nephew’s room while he was out of town.
+All of the testimony hereinbefore stated is uncontradicted. There was no testimony that the plaintiff could not see the step before she proceeded to step down or that there was any foreign matter on the step. In fact, there is no testimony that she looked before she stepped down. Thus, there is no testimony substantiating her contention that she was in the exercise of due care at the time of the accident or that would negate contributory negligence on her part. This is not a situation where the plaintiff was in unfamifiar territory as her testimony indicated she was familiar with the premises and the step involved. We cannot say that the mere fact the step was 8Vz to lOVz inches high, without more, presents a question of negligence which should be presented to a jury, particularly when there is no evidence that the step was improperly lighted and that the plaintiff looked before she stepped.
+Plaintiff has cited many cases wherein it was held that the court improperly directed a verdict, but none of them is analogous on the facts. Both parties agree that a verdict should be directed only when all of the evidence, when viewed in its aspect most favorable to the opponent, so overwhelmingly favors movant that no contrary verdict based on that evidence could ever stand. (Pedrick v. Peoria & Eastern RR. Co., 37 Ill.2d 494, 510.) Based upon this rule, the defendant’s motion for directed verdict at the close of plaintiff’s case was properly aUowed.
+The judgment of the circuit court was correct and is affirmed.
+Judgment affirmed.
+SEIDENFELD and GUILD, JJ., concur.
