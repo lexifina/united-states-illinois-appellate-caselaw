@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 66-101"
+decided: "1967-09-01"
+citations: ["86 Ill. App. 2d 358"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacobo Dayan, Plaintiff-Appellant, v. Bertha Dayan, Defendant-Appellee. Bertha Dayan, Plaintiff-Appellee, v. Jack Dayan, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/86/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2551097
+cites_cases: ["130 NE2d 291", "195 NE2d 840", "35 ALR2d 629", "45 Ill App2d 387", "8 Ill App2d 1"]
+---
+
+# Dayan v. Dayan
+
+## Majority (CEEBS, J.)
+
+CEEBS, J.
+This is an appeal from a decree granting a divorce to Bertha Dayan. Dr. Dayan, the husband, filed an amended complaint for divorce. Bertha Dayan filed a suit for separate maintenance. The cases were consolidated for trial. At the trial the wife announced her intention to amend her complaint to ask for a divorce. After the hearing, by leave of court, she filed an amended complaint for divorce.
+Appellant raises five points and we will discuss them in the order raised. The first questions the sufficiency of the evidence to support the decree. The divorce was granted on the grounds of constructive desertion. Both sides testified to the fact that the parties had lived separate and apart for more than one year, so the only fact question in dispute was whether or not the wife had legal justification for leaving.
+This was a contested case. The evidence on many points was in direct conflict. The trial judge having seen and heard the witnesses was in the best position to observe, and his findings of fact will not be disturbed so long as they have sufficient basis in the testimony. There was testimony in this case that the husband was guilty of extreme and repeated cruelty and adultery. Either of these would constitute reason for living apart so there is no question that the record contains ample basis for the decree.
+Appellant next contends that the admission of improper evidence requires reversal. At the conclusion of the hearing, the trial court announced its intention to obtain a report as to the living conditions of the children in California. The court’s letter stated: “This request is made so that the Court will be in a position to properly enter its decree as to the care and custody of these children. . . .” The parties acquiesced in such a report being obtained and the report, when obtained, was shown to counsel, filed and entered in the record. The report was made by a deputy probation officer of the County of Los Angeles, Probation Department. This person was not present in court.
+There are numerous cases holding it improper for a judge to make an independent investigation or to base a decision on reports or evidence that are not available to the parties or in the record. Counsel cannot dispute such evidence since there is no way of knowing what it is. Nor is it subject to review on appeal. Williams v. Williams, 8 Ill App2d 1, 130 NE2d 291.
+We have a different situation here since the report was entered in the record. However, the report still constitutes incompetent evidence. Our only question is whether or not under the circumstances in this case the admission of the report requires reversal.
+Ordinarily the failure of counsel to object would waive any error in the admission of incompetent evidence. Here, since rights of minors are involved, we are unwilling to rely on such a technicality. In reviewing the entire record in the case, we find that, without the report in question, the evidence amply supports the award of custody of the three younger children to the mother. The mother’s testimony, if believed by the court, would provide a complete basis for the award of custody of these children to her. Young children are generally awarded to the mother if she is a fit and proper person to care for them. The only testimony to the contrary was by Dr. Dayan and his testimony conflicted with his prior acts. Two witnesses called by Dr. Dayan and admittedly friendly to him would not testify that the mother was unfit, although there was considerable effort by counsel to get them to so testify. The children were not present in court because Dr. Dayan had failed to comply with his agreement to provide funds for their travel expenses. The mother had had full custody and been the sole support of these children for several months preceding the hearing. Appellant’s first objection to the report was after the entry of the decree. Finding, as we do, that the same custody order would have been entered without the report having been used, under all the circumstances in this case, we hold that the use of the report was not reversible error. Oakes v. Oakes, 45 Ill App2d 387, 195 NE2d 840, 35 ALR2d 629, annotated.
+Appellant next contends that the removal of the children from Illinois to California by defendant was wrongful and cites Illinois cases to support this contention. However, the record clearly shows that the removal of the children to California was by the appellant; as a result, the cited cases do not apply to the facts in this case. The parties had an equal right to custody of the children until such time as a competent court placed custody in one of them, and when appellant took the children to California, where defendant was, her equal right of custody became effective.
+The fourth point is that attorney fees should not have been awarded. This was based on their contention that the decree was improper. However, since we find no error in the decree an award of attorney fees was proper. There is also objection to the amount since it exceeds the hourly rate for the time involved. In addition to the time involved there was testimony as to four court appearances and expenses. The amount allowed is within the range of the testimony and we find it proper.
+The final contention is that the evidence does support a decree for plaintiff, Dr. Dayan. There is evidence in the record which, if taken at face value and the contrary evidence disregarded, would support such a decree. As we have previously pointed out, the trial court has the primary duty to determine, when the evidence is in conflict, which way the evidence preponderates. We find no basis to disturb his findings.
+Judgment affirmed.
+MORAN, P. J. and EBERSPACHER, J., concur.
