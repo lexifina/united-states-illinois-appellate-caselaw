@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "16581"
+decided: "1981-06-03"
+citations: ["96 Ill. App. 3d 588"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WEBBER and MILLS, JJ., concur."]
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. BRENDA RAY WILLIAMS, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/96/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12137652
+cites_cases: ["363 N.E.2d 881", "404 N.E.2d 1085", "412 N.E.2d 541", "49 Ill. App. 3d 46", "82 Ill. 2d 268", "83 Ill. App. 3d 948"]
+---
+
+# People v. Williams
+
+## Majority (Mr. JUSTICE GREEN)
+
+Mr. JUSTICE GREEN
+delivered the opinion of the court:
+Following plea negotiations in the circuit court of Champaign County, defendant, Brenda Williams, entered a plea of guilty to the offense of aggravated battery (Ill. Rev. Stat. 1979, ch. 38, par. 12 — 4). Defendant was then sentenced to a term of probation of 18 months with the conditions that she serve 3 months of incarceration in the Champaign County Jail, that she obtain and maintain full-time employment, and that she complete 80 hours of public service work under the supervision of “the Champaign County Probation Office.”
+On appeal defendant contends that: (1) the condition of her probation requiring her to serve 3 months’ incarceration is excessive; (2) the trial court should have considered a period of home confinement as an alternate condition of probation; and (3) the trial court erroneously delegated judicial authority to the probation department when the court allowed that department to determine the terms of the public service work defendant was to perform. We affirm.
+Defendant’s offense involved her striking her child’s 67-year-old teacher during a parent-teacher conference at school. At the time of the incident, the victim was attempting to inform the defendant about her son’s discipline problems when defendant became angry and struck the victim. The victim suffered no serious physical injuries and the incident occurred in a private meeting instead of a public forum where a challenge to a teacher’s authority would have been much more damaging. At the time of the sentencing hearing, the defendant was pregnant with a fifth child and was the only adult responsible for the care of her children.
+The trial court considered the various mitigating factors present but concluded that the subjugation of the teacher to physical abuse was so serious that a period of incarceration was required as a sanction. The court also noted that defendant had previously been convicted of aggravated assault and placed on probation without imprisonment having been imposed as a condition. The condition of imprisonment was not excessive, and. the trial court did not abuse its discretion in imposing the condition. People v. Cox (1980), 82 Ill. 2d 268, 412 N.E.2d 541.
+In sentencing defendant, the trial court did not mention a condition of probation termed “home confinement” which was added to the Unified Code of Corrections on September 24, 1979 (Ill. Rev. Stat. 1979, ch. 38, par. 1005 — 6—3(b) (11)). There is no presumption that the trial judge was unaware of this provision merely because he did not mention it. The court was under no duty to indicate which conditions it chose not to impose and why it chose not to impose them. It is within the sound discretion of the court to choose the conditions of probation to be imposed upon a defendant, and the court did not abuse that discretion by not imposing home confinement as a condition instead of a period of incarceration. People v. Riddle (1977), 49 Ill. App. 3d 46, 363 N.E.2d 881.
+Section 5 — 6—3(b) (10) of the Unified Code of Corrections (Ill. Rev. Stat. 1979, ch. 38, par. 1005 — 6—3(b)(10)) empowers the circuit court to require as a condition of probation that the probationer “perform some reasonable public service work such as but not limited to the picking up of litter in public parks or along public highways or the maintenance of public facilities.” Defendant maintains that the court’s direction here that defendant “perform eighty hours of public service work under the supervision” of the probation office erroneously delegated to the probation office judicial authority to determine the terms of the public service work she was to perform. She draws analogy to People v. Love (1980), 83 Ill. App. 3d 948, 404 N.E.2d 1085, where the court held to be an improper delegation of judicial authority, a probation order requiring a probationer to pay such amount of restitution, as the probation officer should determine. Had the order here delegated to the probation officer the determination of the number of hours of public service work the defendant was to perform, the analogy would be more apt. Because of the statutory scheme established for public service work by probationers and the inherent nature of such a program, we do not deem the analogy to be appropriate.
+Section 12(6) of “An Act providing for a system of probation, * * *” (Ill. Rev. Stat. 1979, ch. 38, par. 204 — 4(6)) directs probation officers to “develop and operate programs of reasonable public service work for any persons placed on probation or supervision, ° Similar legislation authorizes county boards to participate in the establishment of agencies “to develop and supervise” such programs (Ill. Rev. Stat. 1979, ch. 38, par. 204a — 1). The legislation implies that the probation officer was intended to have considerable discretion as to when, where, and how the public service work should be performed and what the nature of the work should be. An unreasonable burden would be placed upon judges to require them to keep themselves sufficiently advised to make these determinations. Effective operation of the programs requires the delegation of responsibility to probation officers that the legislation seems to imply. We find no error in the delegation of authority made here.
+We recognize that probationers vary as to ability and physique. From time to time dispute may arise as to whether the probation officer has made a work assignment unfair to the probationer. To limit the number of these disputes which may result in further court hearings, a desirable practice would be for the court to inquire as to any limitations a probationer may have as to type of work to be performed. If valid limitations are found to be present, the probation order should preclude the probation officer from making assignments inconsistent therewith.
+For the reasons stated, we affirm.
+Affirmed.
+WEBBER and MILLS, JJ., concur.
