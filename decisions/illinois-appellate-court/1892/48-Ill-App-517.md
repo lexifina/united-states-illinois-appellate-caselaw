@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-12-02"
+citations: ["48 Ill. App. 517"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Long & Alstatter Co. v. T. J. Hill et al."]
+source_url: "https://static.case.law/ill-app/48/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5135658
+cites_cases: ["14 Ill. 237", "75 Ill. 426"]
+---
+
+# Long & Alstatter Co. v. Hill
+
+## Majority (Hon. Carroll C. Boggs, Judge.)
+
+Opinion of the Court, the
+Hon. Carroll C. Boggs, Judge.
+Appellant made agricultural implements at Hamilton, Ohio, and appellees dealt in them at Sullivan, Illinois. In the winter of 1884-5 the parties entered into a contract by which appellant was to furnish its implements to the appellees as ordered at net prices specified, to be sold by the latter in the territory indicated. Their compensation for all services in connection with such sales was to be the difference between the net prices referred to, and those for which the machines should be sold. Among the provisions contained in the agreement was the following: “ Settlement for all machines to be made in cash and responsible farmer’s notes, on terms above named, in same proportion as received. Notes to be drawn, on the Long & Alstatter Co.’s blanks, with eight per cent from due, made payable in bank to the order of the Long & Alstatter Co., and indorsed by said Hill, Jenkins & Co., as follows, viz.: 6 For \Talue received we hereby guarantee the payment of the within note, and waive protest, demand and notice of nonpayment thereof.’ ” Appellees did so indorse a note of W. A. Marshall for $23, dated June 5, 1885, payable on. or before January 1, 1886, and given for one of appellant’s plows. On that indorsement this suit was brought before a justice of the peace, and taken by appeal to the Circuit Court, where it was tried without a jury, and the issue found for the defendants. A new trial was denied and judgment entered on the finding.
+The defense set up was that the sale to Marshall was made against their advice by Warwick, the agent, who executed the contract for the -company, and had charge of the territory, including theirs, and with whom they were to settle. It appears that when he established an agency by such a contract, he spent some time in helping.the agent to sell and introduce the company’s machines. He did so in this instance, was in Moultrie County on several occasions, and made other sales for them, but no other contrary to their advice. They told him Marshall’s note would not be good without security, but he said that Marshall promised security and named the man. When Warwick went to find him, however, he had gone to Decatur, and the security was not obtained. Warwick did not then deliver the note to appellees, as he did in other cases, but when he came around to make settlement with them, about the first of October, he presented it and asked their indorsement, saying that without that the company would not accept it. They at first refused, but upon his statement that the sale was his and he would take care of the note so that the company should not bother them about it, consented and signed the guarantee-They then made a satisfactory settlement. Mr. Jenkins, who signed the guarantee for his firm, testified: “ This note was applied as a credit on our account with the plaintiff, and for the purpose of helping to cancel our indebtedness to the plaintiff. It canceled our indebtedness in a sum equal to the amount of this note.”
+It is claimed that Warwick was a general agent of the company; that the sale by Mm was therefore in legal effect a sale by the company, and the guarantee, indorsed after the note was delivered by the maker, was without consideration.
+We do not so understand the facts. The sale was made to a farmer within the territory of appellees, and it was made for them and not for the company. If it was for more than the net price at Avhich the company furnished the ploAV to them, the excess was to go to them. The contract provided that “the said Hill, Jenkins & Co. agree to for\Arard, xxrithout additional compensation, any of the above implements during the season to parties outside of the limits of their territory as the Long & Alstatter Co. may direct;” but we do not find that it anyAvhere reserves to the company the right to sell or order delÍArery to any party within that territory. Appellees Avere therefore not bound to let Marshall have the plow on Warxvick’s Avord, without knowing that the price was paid or a satisfactory note gixren for it. In doing so they trusted to W arxvick; but the company looked to them. Their contract with it required them to guarantee the note as they did. We think the finding of the Circuit Court was clearly against the law and the evidence. Its judgment will therefore be reversed and the cause remanded.
