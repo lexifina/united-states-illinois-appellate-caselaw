@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-535"
+decided: "1976-11-30"
+citations: ["43 Ill. App. 3d 918"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE LARKIN BANK, Plaintiff-Appellee, v. MAMDOUH L. ISHAK et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/43/cases/0918-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2722736
+cites_cases: ["15 U.S.C. §1", "167 So. 2d 256", "421 U.S. 773"]
+---
+
+# Larkin Bank v. Ishak
+
+## Majority (Mr. PRESIDING JUSTICE GUILD)
+
+Mr. PRESIDING JUSTICE GUILD
+delivered the opinion of the court:
+The defendant herein appeals from a judgment order of the trial court awarding the sum of *1550 as attorney’s fees in a confession of judgment action.
+On January 7,1975, defendants signed a note as guarantors containing a confession of judgment clause, bearing interest at the rate of 11% per annum from January 9, 1975, and due 180 days after that date. The note itself fails to disclose the name of the payee but the same is payable to a holder in due course. On July 18 the Larkin Bank, a National Banking Institution, confessed judgment for *25,000, the original principal of the note, and the sum of *1550 attorney’s fees. The amount of the interest was not confessed or shown either in the order of confession or in the subsequent summons to confirm judgment. However, at the time of the confession, to-wit: July 18,1975, the bank had received *3,935.96 from the defendants’ bank account, leaving an actual amount due of *21,064.04 as of the date of the confession on the note. On July 31 the defendants paid *12,000 on the note, leaving a balance of *9,064.04. On August 27,1975, the trial court, upon the return of the summons to confirm the conditional judgment, entered judgment against the defendants in the sum of *9,064.04 and interest through August 27, 1974, in the sum of *1600.68 together with attorney’s fees in the sum of *1550. On September 4,1975, defendants delivered to the attorney for the plaintiff the sum of *10,494.74, being the balance due on the note in the sum of *9,064.04 and interest to July 18,1975. The question of the amount of interest due from July 18, 1975 was an issue presented to the trial court but is not raised in this appeal.
+The sole issue for this court is whether the sum of *1550 is a reasonable fee as provided for in the confession note. The trial court entered an order confirming the attorney’s fees in the sum of *1550 and has filed with this court a “Statement of the Trial Judge” which includes the following:
+“The attorney’s fees charged were in accordance with the Kane County Bar Association Minimum Suggested Fee Schedule for legal services rendered in a confession of judgment action on a *25,000 note.”
+The court further stated in its memorandum:
+“The decision and order entered September 16, 1975, were based upon a finding that the attorney’s fees computed was within the framework of the Kane County Bar Association Minimum Suggested Fee Schedule, and that the use of such a suggested fee schedule as a guideline by the Court in awarding attorney’s fees is not prohibited by recent rulings.”
+The court concluded by stating:
+“The Court took judicial notice of the fact that a suggested fee schedule for attorney’s fees has been in use in this Judicial Circuit for many years and that the Court felt there was no reason to change the manner or amount of attorney’s fees awarded in actions of this kind.”
+It can thus be seen that the trial court merely used the suggested minimum fee schedule of the Kane County Bar Association as its authority for awarding attorney’s fees, regardless of the amount of work or time expended by the attorney.
+This issue was substantially presented in Goldfarb v. Virginia State Bar (1975), 421 U.S. 773, 44 L. Ed. 2d 572, 95 S. Ct. 2004. In that case the Supreme Court of the United States held that the minimum fee schedule published by the Fairfax County Bar Association as applied to minimum fees prescribed for real property title examinations violated the Sherman Anti-Trust Act (15 U.S.C. §1.) The court held that the fee schedule was not purely advisory but constituted price fixing, establishing a fixed, rigid price for services rendered. The court further found that the schedule and the enforcement thereof by the Virginia State Bar Association substantially effected interstate commerce under the provisions of the Sherman Anti-Trust Act as a substantial portion of funds used for the purchasing of homes came from without the State of Virginia. We find the same situation to prevail here. The Larkin Bank is a national banking institution, obviously engaged in interstate commerce. Additionally, the note herein is payable to a holder in due course and may well be the subject of interstate commerce. We fail to see how the facts of the Goldfarb case differ in any respect from the case before us where the trial court gave his blessing to the minimum fee schedule as indicated above.
+The court in the Florida case of Lyle v. Lyle (Fla. 1964), 167 So. 2d 256, 257, succinctly stated the proper basis for awarding fees by the court:
+“As between a lawyer and his client the matter of the fee is one of contract between the two, but a fee to be allowed by the court is something else and must be proved as any other fact, and determined and allowed by the court in its judicial discretion. The Reasonableness of the attorney’s fees is not the subject of judicial notice, neither is it to be left to local custom, conjecture or guesswork. Each award must be made on its own merits and should be justified by the circumstances in each particular case.”
+Attorney’s fees for legal services rendered should be based upon the circumstances of the case, including the time expended, the complexity of the issues presented, the work involved and the expertise of the lawyer. It is obvious that an attorney experienced in his field of law will require far less time in the preparation of his case or the completion of the legal work involved than an attorney recently admitted to the bar, thus his hourly charge will ordinarily be greater than that of an inexperienced lawyer. It is also well recognized that an attorney may contract with his client for the charges to be made for legal services rendered, however, the practice of law is a profession and lawyers should not set up a rigid minimum fee schedule which, in effect, is frequently a justification for the charges made. Particularly is this true, as in the case before us, where the party involved must rely upon the court for the determination of the fee to be awarded.
+We, therefore, reverse and remand with directions to the trial court to hear testimony by the attorney for the Larkin Bank, a National Banking Institution, as to the time and work expended by him in performing his services in the confession of this judgment. Further, we specifically find that the “customary fee” charged by attorneys in this area for such services shall not be based upon the minimum bar schedule of the Kane County Bar Association but shall be determined by the court in accordance with the opinion expressed herein for the preparation of the confession complaint and his appearances in court.
+Reversed and remanded with directions.
+SEIDENFELD and RECHENMACHER, JJ., concur.
