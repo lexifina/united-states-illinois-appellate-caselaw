@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-15"
+decided: "1980-01-23"
+citations: ["80 Ill. App. 3d 829"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALDEN C. SCHEWE, Plaintiff-Appellee, v. THE HOME INSURANCE COMPANY, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/80/cases/0829-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3232619
+cites_cases: ["197 N.E.2d 88", "229 Ill. App. 264", "285 N.E.2d 213", "296 N.E.2d 743", "46 Ill. App. 2d 276", "54 Ill. 2d 241", "6 Ill. App. 3d 198"]
+---
+
+# Schewe v. Home Insurance
+
+## Majority (Mme JUSTICE SPOMER)
+
+Mme JUSTICE SPOMER
+delivered the opinion of the court:
+This appeal raises two questions: (1) the interpretation of an exclusion to coverage clause in an insurance policy issued by defendant-appellant Home Insurance Company to cover a yacht owned by plaintiffappellee Alden C. Schewe; and (2) the proper amount of recovery, if coverage is found to exist. The policy purported to insure against damage to the yacht’s hull, spars, sails, tackle, fittings, machinery, and other furniture and equipment. It further provided that, with respect to any damaged plywood, metal, plastic, fiberglass, or cement portions of the yacht, the company’s liability under the policy should not exceed the cost of making repairs in accordance with customary and generally accepted repair practices.
+The insured yacht was damaged when the roof of a marina where the yacht was docked collapsed onto it after a severe ice storm. Schewe had purchased the yacht new, some three months prior to the ice storm, for *26,000, and had subsequently installed additional equipment worth about *4,000. The yacht was eventually sold for *18,000 after repairs in the approximate amount of *2,000 had been made. An expert witness called by the plaintiff at trial testified that the yacht had a market value of approximately *15,000 immediately after the damage caused by the ice storm. He further testified that the yacht could have been repaired, and its market value restored to that which it had prior to the damage, for *5,600.
+The jury was instructed that it could award as damages the lesser of “the reasonable expense of necessary repair of the property plus the difference between the fair market value of the property immediately before the occurrence and its fair market value after the property is repaired” and “the difference between the fair market value of the property immediately before the occurrence and the fair market value of the unrepaired property immediately after the occurrence.” An instruction tendered by the defendant that the proper measure of damages was the “reasonable expense of necessary repairs to the property which was damaged” was refused by the court. The jury returned a verdict in favor of the plaintiff in the amount of *15,000.
+The defendant’s first contention on this appeal is that the plaintiffs loss was outside the coverage of the policy because of an exclusionary clause providing that the policy did not insure against damage “caused by or resulting from ice and/or freezing while afloat North of 30° N. Latitude between December 1 and April 1.” Although that clause has literal application here, we must agree with the plaintiff that it should not be given effect. The damaged yacht was afloat north of 30 degrees latitude on December 12. However, it was moored under a metal roof in a “bubbled harbor” designed to insure that no ice would form in the harbor. It is clear that the purpose of the exclusionary clause was to eliminate from coverage damage to a ship’s hull caused by the water in a harbor freezing and contracting. The kind of damage actually caused here, brought on by the collapse of a marina roof, would have occurred whether or not the yacht was afloat. We conclude therefore that the loss was within the coverage of the policy.
+We do agree with the defendant, however, that the verdict for *15,000 cannot stand. The jury was erroneously instructed (in accordance with Illinois Pattern Instructions, Civil, No. 30.10 (2d ed. 1971)) as if the defendant insurance company were a tortfeasor whose negligence had caused the damage to the plaintiff’s property. In such a situation, the plaintiff would be entitled to be compensated for his actual damages. This action, however, was based on an insurance contract; the gist of the action was the alleged failure of the insurance company to perform its obligations to indemnify the plaintiff under the terms of its policy of insurance. The extent of the insurer’s liability depended on the terms of the insurance policy. See, e.g., Continental Casualty Company v. Fleming (1964), 46 Ill. App. 2d 276, 197 N.E.2d 88.
+The policy of insurance clearly and unambiguously limited the company’s liability with respect to the kind of damage shown by the evidence here to the cost of making repairs. Insurance policies must be construed and enforced as made by the parties; the courts have no right to make a new contract for the parties, absent some contrary statutory provision or countervailing public policy consideration not present here. (See Kaszeski v. Fidelity and Casualty Co. (1972), 6 Ill. App. 3d 198, 285 N.E.2d 213, rev'd on other grounds (1973), 54 Ill. 2d 241, 296 N.E.2d 743.) It is error to instruct a jury that an insured is entitled to recover the total amount of his loss, regardless of the express terms of the policy of insurance. See Ford v. Union Automobile Indemnity Association (1923), 229 Ill. App. 264.
+Here, the plaintiff’s own expert, a marine appraiser, testified that *5,600 would be sufficient to make first-class repairs to damaged portions of the yacht. We think that this figure, less the *300.00 deductible called for by the policy, was the proper measure of the plaintiff’s recovery under the policy. We therefore reduce the amount of the judgment to *5,300, and otherwise affirm the judgment of the trial court.
+Affirmed as modified.
+JONES, P. J., and KASSERMAN, J., concur.
