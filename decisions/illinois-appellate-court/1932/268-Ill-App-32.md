@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 8,525"
+decided: "1932-10-18"
+citations: ["268 Ill. App. 32"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois ex rel. Oscar Nelson, Auditor of Public Accounts of the State of Illinois, Appellee, v. Seward State Bank (C. G. Scott, Intervening Petitioner), Appellant."]
+source_url: "https://static.case.law/ill-app/268/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3331050
+cites_cases: ["153 Ky. 566", "197 Ill. 104"]
+---
+
+# People ex rel. Nelson v. Seward State Bank
+
+## Majority (Mr. Justice Baldwin)
+
+Mr. Justice Baldwin
+delivered the opinion of the court.
+On April 10,1931, the Seward State Bank was closed by resolution of its board of directors. Subsequently the auditor of this State filed his bill of complaint in the circuit court of Winnebago county praying for the dissolution of the bank and the liquidation of its affairs.
+A receiver was appointed by the State auditor and later the appointment was approved by the circuit court. This receiver took charge of the affairs of the bank on July 24,1931.
+On October 22,1931, C. 0. Scott, the appellant, hereinafter referred to as petitioner, filed with the receiver his verified claim for a preference.
+On December 29, 1931, this claim was presented to the circuit court by the petitioner with the request that the court allow his claim as a preference out- of the assets of the said bank.
+The court allowed the claim of the intervening petitioner as a general claim but denied a preference. This appeal is brought to reverse the order of the circuit court denying the preference and allowing the claim as a general claim.
+The facts substantially are that since October, 1917, the petitioner has been treasurer for Township 26, Range 10 E. of the 4th P. M. in Winnebago county, Illinois, and as such township treasurer kept an account in the Seward State Bank in which the moneys of the said school district were deposited.
+On June 30, 1924, the petitioner and Gr. M. Chambers, the cashier of the Seward State Bank, acting under authority of a resolution of the board of directors of such bank, entered into a certain contract as follows: “It is agreed that all funds and moneys hereafter deposited by the school and/or Township treasurer of Township 26 N". Range 10 East of the 4th P. M. Winnebago County, Illinois, .in Seward State Bank shall be and is hereby declared to be deposited as a special fund distinct and apart from all other funds and held in the said bank by it as a special trustee or agent of the said school and/or Township treasurer. This arrangement shall be subject to change only upon the written agreement of both parties.”
+On the day following the execution of the agreement the account of the petitioner containing a balance of $24,570.09 was closed and a new account designated “C. G. Scott, Township Treasurer, special trustee account” was opened and on the same day the sum of $28,961.42 was deposited in such new account. On one of the account sheets the account was designated as “special.”
+Deposits in this account were made by the appellant from time to time and checks or orders were drawn on the account by the appropriate officers and honored by both the appellant and the bank. At the time the bank closed the appellant had on deposit in this account in said bank the sum of $3,842.38.
+On the date of the closing of such bank there was on hand $1,776.94 in cash and cash items and there was due it from other banks $4,436.05.
+Several assignments of error, are made by appellant but inasmuch hs they in effect refer to the same matter, we shall discuss them collectively.
+The petitioner predicates his claim for preference upon the contract above described, and the effect of this contract is the principal question herein.
+It is observed that this account was in all respects identical with the other accounts in the bank and in all respects identical with the original account of the petitioner with such bank, except for the added words upon the ledger sheets, on one sheet “special trustee account” and on another “special.”
+A banking institution is a creature of law and is possessed of only such powers and privileges as are authorized by statute. Such an institution (among other things) may receive deposits of money from its various patrons who are each and all creditors of such banking institution to the extent of the balances to their credit in their respective accounts. It is the duty of such bank as the debtor of such creditors (depositors) to keep proper books of account showing the true condition of such accounts at all times. But no particular designation as to such accounts is required, nor is it material, in equity, what designation is given such accounts by such bank, nor that the parties have, by agreement, fixed upon some designation or declaration as to such account. Equity will look to all the facts and circumstances and learn the truth as to all such transactions and from all such facts and circumstances determine the rights and liabilities of the respective parties.
+The moneys of this account were not, and do not appear to have been intended to be, kept separate or in any manner distinguishable from the moneys of any other account in such bank. Nor does it appear that the actual handling of the account either by the petitioner or the bank was materially different from that of any other account.
+The fact that the account of the petitioner herein was designated ‘ ‘ special trustee account ’ ’ or ‘ ‘ special ’ ’ did not change its true character of an ordinary checking account to an account of another form.
+It is urged that under the law of this State, Cahill’s St. ch. 16a, ¶ 1 (sec. 1, chapter 16½, Smith-Hurd’s Revised Statute'1931) banks have the “power to accept and execute trusts.” There can be no doubt on this point but the acceptance of a deposit and crediting the same to the account of the depositor and the honoring of orders thereon does not create a trust and it is not a trust matter within the meaning of such statute. There is no evidence whatever herein to indicate the creation, establishment or existence of a trust.
+In Woodhouse v. Crandall, 197 Ill. 104, on page 109 the court in passing upon the question said: “In the case of a general deposit with a hank to the credit of the depositor, the relation created is not that of principal and agent or of trustee and cestui que trust, but is merely that of debtor and creditor. Such deposits belong to the bank and become a part of its general funds, and there is nothing but a liability as debtor to repay according to the customs and usages of the business.”
+Thus this depositor occupies the same position as any other depositor of such bank unless the relationship is changed by the contract above described.
+By the terms of this contract all moneys “hereafter deposited by the school and/or Township treasurer” were declared to be “deposited as a special fund” . . . and held “by it as a special trustee. ” We take it to be elementary that a mere declaration that a certain fact exists is valueless unless such fact does actually exist, and before one can resort to equity for relief predicated upon some such declaration he must show that the facts or matters declared are in fact existent.
+It is the well settled law of this State that the de: posits of a township treasurer in his official capacity are subject to the same rules of law as relate to other depositors and upon the insolvency of the bank with which such deposits are made, he is not entitled to a preference because of such official position.
+The question then presents itself: Can one depositor obtain a preference over other depositors by a secret agreement between himself and the bank? The statute of this State gives to banking institutions no authority to enter into secret agreements for the benefit or preference of one depositor over another and any attempt to do so must be held void. Such a practice if countenanced might work a great injustice and inflict financial loss upon the unsecured depositors and would enable large depositors to absorb all or the greater portion of the assets of a bank. The law of this State contemplates fair and' uniform" dealing by banks with all their depositors and any secret agreement to protect one while others are left without security, even though no actual fraudulent intent is apparent, is nevertheless absolutely void and of no effect. (Commercial Banking & Trust Co. v. Citizens’ Trust & Guaranty Co., 153 Ky. 566, 45 L. R. A. [N. S.] 950.)
+Banking corporations being creatures of law possess only such powers-as are expressly granted by law or are impliedly granted because necessary to carry out powers expressly granted, and the making of secret agreements for the benefit or protection of one depositor, as herein attempted, does not fall in either class.
+Banks publish financial statements showing assets and liabilities and public policy prevents any secret understanding or agreement which would in any manner give one depositor an advantage or preference over another depositor.
+We hold that the alleged trust agreement between the appellant and the Seward State Bank is void and of no effect and the order and judgment herein of the circuit court of Winnebago county is hereby affirmed.
+Judgment affirmed.
