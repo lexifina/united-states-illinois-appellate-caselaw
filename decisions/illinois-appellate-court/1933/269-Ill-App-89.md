@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1933-01-23"
+citations: ["269 Ill. App. 89"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Martin Koester, Appellant, v. Robert Litherland, Appellee."]
+source_url: "https://static.case.law/ill-app/269/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5602681
+cites_cases: ["212 Ill. 146", "214 Ill. 579"]
+---
+
+# Koester v. Litherland
+
+## Majority (Mr. Justice Pulton)
+
+Mr. Justice Pulton
+delivered the opinion of the court.
+An action in assumpsit was instituted by appellant against appellee in the circuit court of Wabash county to recover the amount due on a promissory note secured by mortgage on a tract of real estate. A demurrer was sustained to the declaration, which consisted of five counts, and appellant electing to abide by his declaration, judgment was rendered against him in bar of action and for costs. To reverse said judgment this appeal is prosecuted.
+The first count of said declaration sets forth substantially that on November 21, 1916, one Sarah Shurtleff owned 72 acres of land in Edwards county, Illinois, and on that date mortgaged the same to a man named Kiesler to secure a loan of $2,400, due January 1, 1922; that shortly thereafter she sold the land to a man named Beach for the sum of $4,500 and deliveredPim a deed wherein it was recited 1 ‘ This deed is made subject to an incumbrance of twenty-four hundred (2,400) dollars which the purchaser assumes and agrees to pay.” The count further avers that on February 22, 1917, said Beach sold the land to appellee for the sum of $5,040, and the deed of conveyance contained the same recital with respect to the assumption, by the grantee, of the incumbrance of $2,400; that the said incumbrance given by Sarah A. Shurtleff to J. H. Kiesler has been duly and regularly transferred by successive assignments to the appellant, who is now the holder and legal owner of the note and mortgage, and brings suit to recover amount due on same. The deeds, mortgage and assignments are all set up in haec verba in the count together with apt allegations concerning consideration, recording, and delivery.
+Count two is drawn upon the same theory as count one, but sets out the substance of the written instruments rather than pleading them in haec verba.
+Count three charges in addition to the matter set up in the first two counts, the execution of an extension agreement between appellant and appellee on December 17, 1926, and alleges the same to be a promise to pay on the part of appellee. Count four is practically the same as count three, and in the extension agreement set out in these counts it is stated: “It is mutually agreed that the said balance due on said mortgage indebtedness shall be and become due and payable January 1, 1930.”
+Count five develops the fact that in the mortgage deed from Sarah A. Shurtleff to J. H. Kiesler, the 72 acres were correctly described but in all of the subsequent deeds and assignments there was a mistake in the description as to 32 acres, although it is alleged in each instrument it was intended to describe the same land as that included in the mortgage deed. The count avers that upon the delivery of the deed of conveyance to appellee he took possession of the lands intended to be conveyed, has had possession ever since and paid taxes upon the same. Appellant urges that the declaration and each and every count thereof is sufficient. It is contended by appellee that the first, second, third and fourth counts of the declaration are framed on the theory that the deed in question was correct and conveyed the land that was intended to be conveyed; that the fifth count avers that the description in the deeds from Shurtleff to Beach and from Beach to appellee was erroneous and that appellee took possession of the land described in the mortgage; that therefore the first four counts are inconsistent with and contradict the fifth count and cannot be joined in the same declaration. This point is not well taken. The test by which to decide as to the joinder in separate counts of the same declaration is thus stated in Chitty’s Pleading and with approval in Puterbaugh’s Common Law Pleading and Practice, Par. 47, Tenth Ed.: “The result of the authorities is stated to be, that when the same plea may be pleaded and the same judgment given on all the counts of the declaration, or whenever the counts are of the same nature and the same judgment is to be given on them all, though the pleas be different, as in case of debt upon bond and on simple contract, they may be joined. ’ ’ Another test is whether the same evidence will support all counts. Wabash R. Co. v. Bhymer, 214 Ill. 579. It is further contended by appellee that the counts do not sufficiently allege acceptance of the deed made by Beach to appellee. This objection is without merit and a close reading of the declaration discloses allegations in each count from which acceptance must be inferred. If a party accepts a deed and places it on record, such acceptance of the instrument with the knowledge of its contents binds him as effectually as though the deed had been executed by him. Gage v. Cameron, 212 Ill. 146.
+It is the opinion of this court that the counts of the declaration are sufficient and the judgment of the trial court will be reversed and the cause remanded.
+Reversed and remanded.
