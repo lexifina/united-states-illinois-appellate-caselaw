@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-1043"
+decided: "1978-06-22"
+citations: ["61 Ill. App. 3d 133"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. LAVORA LAWSON, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/61/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3349628
+cites_cases: ["124 Ill. App. 2d 95", "166 N.E.2d 433", "19 Ill. 2d 11", "260 N.E.2d 364", "292 N.E.2d 457", "342 N.E.2d 353", "360 N.E.2d 408", "365 N.E.2d 595", "392 U.S. 1", "439 F. Supp. 515", "45 Ill. App. 3d 910", "50 Ill. App. 3d 294", "62 Ill. 2d 261", "9 Ill. App. 3d 397"]
+---
+
+# People v. Lawson
+
+## Majority (Mr. JUSTICE ROMITI)
+
+Mr. JUSTICE ROMITI
+delivered the opinion of the court:
+Following a bench trial the defendant, Lavora Lawson, was found guilty of the offense of unlawful use of weapons (Ill. Rev. Stat. 1975, ch. 38, par. 24 — 1(a)(4)), and sentenced to two days in jail, time considered served, and to one year conditional discharge. Defendant contends that the trial court erred by denying her motion to suppress the weapon because the arresting officers had no justification to search her when the car, in which she was a passenger, was stopped for an alleged traffic violation.
+We reverse.
+At a hearing on defendant’s motion to suppress, Chicago Police Officer Gomez testified that on December 20,1976, at approximately 10 p.m., he and his partner heard and observed the defendant and four males arguing in loud voices in a parking lot located 75 feet away from the East 800 block of 83rd Street, in Chicago. The argument ceased while the officers proceeded to the lot. When they got there, one male fled on foot, and the defendant and the three other males entered an automobile which had no license plates and drove off at a “high rate of speed.” The officers pursued the car and ordered the occupants to get out. The defendant alighted from the right rear seat with a purse on her arm. His partner, Officer Allen, said to the defendant, “Open your purse. I want to search it,” and he then recovered a .38 caliber pistol from the purse which resulted in defendant’s arrest.
+Charles Williams testified for the defense that he was with the defendant and their friends on the evening of the arrest. He stated that they were only in the parking lot long enough to open the car door, get in it and drive away. He denied that he was talking loudly or that anyone in his group was arguing. He further denied that he drove out of the lot at a high rate of speed. He testified that he did not see the police officers in the parking lot, but first saw them when the officers stopped him. At that time this witness showed Officer Allen his owner’s registration papers after taking them from under a seat. The officer then demanded that the other occupants of the car get out and the defendant was searched.
+The motion to suppress was denied. When defense counsel stipulated that the testimony on the motion to suppress would be the same testimony on a bench trial, the defendant was found guilty of unlawful use of a weapon.
+Defendant contends that the trial court erred by denying her motion to suppress the weapon. She maintains that Officer Gomez admitted she was not committing any crime when he observed her and that the stopping of the automobile did not justify a search of her purse since there was no evidence of a criminal act. We agree.
+In People v. Watkins (1960), 19 Ill. 2d 11, 18-19, 166 N.E.2d 433, the supreme court said:
+“The critical issue in each case must be whether the situation that confronted the officer justified the search. * e * [Courts] have refused to establish a uniform rule to govern all searches accompanying valid arrests, but rather have examined the nature of the offense and the surrounding circumstances to determine whether the search was warranted. [Citations.]
+A search incident to an arrest is authorized when it is reasonably necessary to protect the arresting officer from attack, to prevent the prisoner from escaping, or to discover the fruits of a crime.”
+Our supreme court has also held that the total absence of license plates on a car could reasonably suggest a serious violation of the law which would justify a search. (People v. Palmer (1976), 62 Ill. 2d 261, 263, 342 N.E.2d 353.) And such search could justifiably include the driver and the passengers in an automobile. (People v. Huth (1977), 45 Ill. App. 3d 910, 915, 360 N.E.2d 408; People v. Gilyard (1970), 124 Ill. App. 2d 95, 102, 260 N.E.2d 364.) While in the above cited cases the driver was arrested for a violation of the law, in the instant case, even though the “stop” made by the officers was reasonable and legal under the circumstances, no arrest was made of the driver or any other occupants of the vehicle except defendant. (See People v. Garner (1977), 50 Ill. App. 3d 294, 365 N.E.2d 595.) Moreover, Officer Gomez admitted that he did not see the defendant engage in any criminal activity, and that she was not arrested until after the search of her purse.
+The issue then becomes whether, pursuant to a legal “stop,” it is reasonable for a police officer to conduct a search of an automobile passenger whom he did not have probable cause to arrest when justification for that stop is dispelled. The test of reasonableness applies both to the decision to search and the scope of the search once initiated. The United States Supreme Court enunciated a “stop and frisk” rule which involves a four-pronged test prior to a limited search without probable cause to arrest: (1) unusual conduct, (2) reasonable suspicion of criminal activity, (3) suspicion that the person stopped is armed and dangerous, and (4) fears not dispelled after reasonable inquiry. (Terry v. Ohio (1968), 392 U.S. 1, 20 L. Ed. 2d 889, 88 S. Ct. 1868.) A police officer may make a search for a weapon on the basis of something short of probable cause to arrest if he reasonably believes that he is dealing with a presently dangerous and armed suspect. (United States v. Hairston (N.D. Ill. 1977), 439 F. Supp. 515.) But, inarticulate hunches cannot suffice. Rather, the officer must reasonably believe under the circumstances that his safety or that of others is in danger, and the scope of the search must necessarily be limited to the minimum necessary to discover objects capable of use as weapons. People v. Watson (1972), 9 Ill. App. 3d 397, 400, 292 N.E.2d 457.
+The evidence in the instant case supports the State’s argument as to unusual conduct and the initial reasonable suspicion of criminal activity; however, it fails to support the latter two elements of the four-pronged test. There is nothing in the record to indicate that the police could reasonably believe that the defendant was dangerous and armed when she got out of the car, or that they were dealing with criminals. Therefore, the search of her purse was an unjustified intrusion in violation of her constitutional right to be protected from unreasonable searches and seizures.
+For the reasons given, the judgment of the circuit court of Cook County is hereby reversed.
+Judgment reversed.
+JOHNSON, P. J., and DIERINGER, J., concur.
