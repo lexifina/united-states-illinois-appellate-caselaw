@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 49,286"
+decided: "1964-07-27"
+citations: ["51 Ill. App. 2d 367"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Corsello and Venera Corsello, Plaintiffs-Appellants, v. Charles Warren, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/51/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5279121
+cites_cases: ["177 NE2d 641", "185 NE2d 384", "192 A 491", "200 Mass 303", "32 Ill App 2d 220", "342 Ill App 238", "37 Ill App2d 327", "86 NE 511", "89 NH 83", "96 NE 2d 381"]
+---
+
+# Corsello v. Warren
+
+## Majority (MR. PRESIDING JUSTICE MURPHY)
+
+MR. PRESIDING JUSTICE MURPHY
+delivered the opinion of the court.
+Plaintiffs, Frank Corsello and Venera Corsello, his daughter-in-law, appeal from verdicts and judgments in their favor in their tort action, on the ground that the damages awarded are so patently inadequate as to be against the manifest weight of the evidence and to require a new trial.
+The facts of the occurrence are undisputed. On December 12, 1960, at about 8:30 a. m., plaintiff Frank Corsello stopped his automobile at a train crossing. He was driving, and seated in the front seat with him were his son, Salvatore, and his daughter-in-law, plaintiff Venera Corsello. While plaintiff’s car was standing, defendant’s oil truck traveling at a rate of about four miles an hour, collided with the right side of the standing automobile.
+The evidence consisted of the testimony of the two plaintiffs and defendant Charles Warren, and plaintiffs’ exhibits, showing expenses paid. The exhibits received on behalf of Frank Corsello were paid bills, which totaled $675.48. The jury awarded him damages of $750. The exhibits received on behalf of Venera Corsello were paid bills totaling $527.50. The jury awarded her damages of $400.
+The testimony of Frank Corsello substantially shows that at the impact, he “was thrown to the side and went forward and hit the steering wheel and whip-lashed backwards.” When he got out of his car, defendant told him that his brakes had failed. Corsello testified he was injured and was hospitalized. He paid a hospital bill of $272.70, and the bill of Dr. Alex Shapiro for $270. His car was damaged, and he paid a repair bill of $195.78. He was employed as a chemical operator at $124.40 a week and did not work for three weeks after he got out of the hospital.
+The testimony of Venera Corsello shows that at the impact she was “turned slightly to the left and spun up and hit the door — the door frame.” She felt a sharp pain in her shoulder and her heart was beating. She saw Dr. Alex Shapiro and remained in the hospital under his care. She paid a hospital bill of $237.50, and a bill from Dr. Shapiro for $290. “I was off work for a couple of months due to the injury from this accident.” She was employed as an assistant bookkeeper at $79.25 a week.
+On cross-examination, Venera stated that about two hours after arriving at her place of employment, she received a phone call from her husband and went home. At home she received a phone call from her father-in-law, and a few minutes later he appeared in a cab, and they went to the hospital. This was the first time she knew she was going to the hospital. She also stated that she did not mention to her husband or father-in-law, while in the automobile after the occurrence, that she was hurt in any way.
+The testimony of defendant Charles Warren shows that after the collision he phoned the police, and while they waited about fifteen minutes for the police to arrive, plaintiff Corsello did not complain of any injuries nor was he holding any part of his body. Later he heard the police investigating officer ask plaintiff Corsello whether he was hurt, and he said “no.” Before the police arrived, Venera Corsello and Salvatore Corsello left on foot for her place of employment, a few blocks away. Neither Salvatore nor Venera said anything at that time about injuries.
+Plaintiffs argue that the evidence “clearly shows that the plaintiffs sustained injuries, were hospitalized, lost time from work, and the one plaintiff, in addition thereto, sustained property damage.” Plaintiffs cite a number of Illinois cases to show that inadequate verdicts, contrary to the manifest weight of the evidence, are a basis for a new trial. The general rule is that “an award cannot be upheld where serious injuries are sustained and a small or a nominal amount is awarded, especially where the injuries are permanent; or where the plaintiff has been injured and has also incurred expenses as a result of the injuries, and an award is made for less than the amount of the expenses.” 15 ILP, Damages, §162.
+Defendant contends that plaintiffs’ proof of injuries was insufficient and not convincing. After noting that plaintiffs failed to offer any medical testimony, defendant argues “there was no doctor to establish the necessity for hospitalization, subsequent medical treatment, and the reasonableness of the hospital and doctor bills. The jury could well find that all of the claimed losses did not proximately result from the occurrence at which time there was no complaint of injuries.”
+Defendant relies on Jeffrey v. Chicago Transit Authority, 37 Ill App2d 327, 185 NE2d 384 (1962). A verdict of no damages was affirmed, and the court stated (p 329):
+“The plaintiffs’ own evidence is the only explanation of the result. . . . The jury could have found them unworthy of belief and their injuries feigned. . . . Jurors are the sole judges of the credibility of witnesses and the weight to be given to their testimony.”
+And on pages 333-34, in referring to Trudeau v. Manchester Coal & Ice Co., 89 NH 83, 192 A 491, and Sullivan v. Old Colony Street Ry. Co., 200 Mass 303, 86 NE 511, the court said:
+“In both the Trudeau and the Sullivan cases, as in ours, the jury did not place credence in the plaintiffs’ testimony. In Trudeau the court observed: ‘The only evidence of personal injuries came from the plaintiffs themselves . . . this evidence was not such as to require acceptance, and the jury were not compelled to believe it simply because it was not directly contradicted.’ In Sullivan it was said: ‘The plaintiff’s misfortune seems to have been that the jury failed to believe much of his testimony; but this they had the right to do, even where it was uncontradicted.’ ”
+Defendant also cites Giddings v. Wyman, 32 Ill App 2d 220, 177 NE2d 641 (1961), where the court said (p 223):
+“This jury may well have believed that plaintiffs’ injuries here were most minimal, to the point of being incapable of evaluation, and that the plaintiffs would be fairly compensated if they only received their specials. We must not mislay the jury’s inherent right to pass upon the credibility of the evidence and the witnesses.”
+We believe the pronouncements in the Jeffrey and Giddings cases are pertinent and apply here. In matters relating to damages, the courts are reluctant to interfere with the discretion of the jury as to the amount of damages to be awarded. (15 ILP, Damages, § 162.) Where no complaint is made as to instructions to the jury or the admissibility or rejection of evidence, the reviewing court will not disturb the amount of the damages unless the damages are so palpably inadequate as to require reversal. McSee v. Chicago Motor Coach Co., 342 Ill App 238, 96 NE 2d 381 (1950).
+Although plaintiffs submitted paid bills relating to their alleged injuries, the jury may have thought the absence of medical testimony was significant. Therefore, we are not persuaded that the evidence relating to plaintiffs’ injuries, even though not controverted, is sufficient to warrant a conclusion that the verdicts' are patently inadequate or grossly unfair and unreasonable, or that the jury acted from passion or prejudice or any other motive, or that the damages awarded are so palpably inadequate as to require a reversal.
+As the question of damages is peculiarly one of fact for the jury, we find no convincing reason for disturbing these verdicts and judgments. Therefore, the judgments are affirmed.
+Affirmed.
+BURMAN and KLUCZYNSKI, JJ., concur.
