@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-11-20"
+citations: ["92 Ill. App. 282"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arthur B. Wells, Trustee, et al., v. Joseph Sherwin et al."]
+source_url: "https://static.case.law/ill-app/92/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5287015
+cites_cases: ["187 Ill. 203"]
+---
+
+# Wells v. Sherwin
+
+## Majority (Mr. Justice Horton)
+
+Mr. Justice Horton
+delivered the opinion of the court.
+The first question presented is whether appellees are contractors and as such entitled to claim a mechanic’s lien.
+The Mechanics’ Lien Law of 3895 (Hurd’s Stat. Oh. 82, Sec. 15), provides: “ That any person who shall, by any contract with the owner of any lot or tract of land, or with one whom such owner has authorized or knowingly permitted to improve the same,” furnish material, etc., shall be known as a contractor and be entitled to a mechanic’s lien. That the owner of the lots in question, Frederick O. Wells, “ authorized or knowingly permitted'” his tenant, Eugene W. Kendall, to contract with appellees to erect a building upon said lots, and that appellees did erect a building thereon under such contract can not be disputed. That appellees are entitled, as a proposition of law, to claim a mechanic’s lien as contractors, under the facts here shown, is settled by the opinion of the Supreme Court of this State in Carey-Lombard Lumber Co. v. Jones, 187 Ill. 203.
+The holder of the note secured by said trust deed was made a party to this proceeding by the name of the unknown holder or owner thereof, and the trial court had jurisdiction of such holder for the purposes of this proceeding. The trustee named in the trust deed given to secure said note was made a party and is one of the appellants. The inchoate dower right of Clara S. Wells is fully protected by the decree and the assignment of error referring to that, is not well founded.
+There were two contracts for the improvements in question, amounting, together with extras, to the sum of $2,331. The tenant, Kendall, paid to appellees on account thereof $1,010, leaving $1,321 still due. The master reported and the decree finds that “ the market value” of the premises “is enhanced by reason of the improvements,” $3,000. This finding seems to be based upon expert testimony, some of it tending, perhaps, to show that the premises were worth that much more after the improvements were made than they were before; that is, that the lots- are improved in market value over $600 more than the improvements cost. Also the master reports and the decree finds that the lots, exclusive of improvements, are worth $12,500. The prior trust deed covering said premises is to secure $16,250.
+Said decree further provides :
+“ And that in case said premises are sold and the sum realized upon the sale thereof is not sufficient to pay the amount due to said complainants, as found by said master’s report and as herein found due to the said complainants, after reserving 1250-1550 of the proceeds of said sale for application upon the said note and trust deed hereinbefore referred to, together with all costs, commissions and solicitors’ fees as aforesaid, that said master making said sale shall, after the payment of his own fees, and all costs, fees and disbursements as aforesaid, pay out the proceeds of said sale as follows, to wit: he shall pay to the said complainants 300-1550 of the proceeds thereof, until the lien of the complainants, including said solicitors’ fees, costs and disbursements shall be satisfied, and bring into court for use of the owner of said note and trust deed 1250-1550 of the proceeds of said sale to abide the further order of this court, and that any sums in his hands thereafter remaining, if such there be," he shall bring into court, together with his report of his doings hereunder.”
+Under that decree (omitting all questions as to interest) if the property should sell for $6,825, besides costs, fees and expenses, the appellees would receive payment in full of their claim, viz, $1,321, while there would be paid into court on account of the note secured by trust deed but $5,504. That is neither legal nor equitable. If that be the necessary construction of the mechanics’ lien law, that law is to that extent unconstitutional. But that is not the necessary or proper construction to be put upon that statute. It was never intended that that statute should be so- construed or applied as to destroy vested rights or securities.
+Again it is provided in Sec. 16 of the mechanics’ lien law, Hurd’s Stat., Ch. 82, Sec. 30, as follows:
+“ When, after a trust deed or mortgage has been recorded, contracts shall be made for the improvement of the property, and the owner shall pay for labor or material in such improvement, the enhanced value thereby given shall be treated as a fund in which the mortgagee and lienholder shall participate pro rata.”
+The owner had paid $1,010 on account of said improvements. It was error to give to appellees a pro rata dividend upon the total cost of the improvements (and more than $600 over), when the owner had paid nearly half the amount of such cost.
+It is not necessary to refer especially to other points presented in the briefs. " We can not consider the question as to fees and costs when there was no effort to have the same re-taxed in the trial court.- 1
+The decree of the Superior Court is reversed and the cause remanded.
+On petition for rehearing, Per Curiam.
+We are not satisfied with the conclusion of the trial court based upon so-called expert testimony, in this case, that improvements which cost only $2,300 in round numbers, have enhanced the value of the property in controversy to the extent of $3,000. There is no claim that these improvements cost or are worth more than $2,300, agreed to be paid therefor, and of this sum $1,010 had been previously paid, leaving only $1,321 still due appellees. By the decree appealed from the latter are given a preferred lien upon the proceeds of sale, not on the basis of the amount actually clue them, but upon the basis of an amount made up in addition thereto, of the $1,010 which has already been paid them and of .about $600 more—a total of $3,000—upon the assumption that the market value of the property was enhanced to that extent by such improvements. If it was so enhanced appellees have received $1,010 of such enhanced value, and no reason appears why they should be paid any part of it again as against the mortgagee. The enhanced market value of this property by reason of the improvements, to the extent of which appellees as lien claimants are under the statute entitled to be preferred, is, according to the facts as they appear in this case, $1,321, and not $3,000, as the decree erroneously finds. The petition for rehearing will be denied.
