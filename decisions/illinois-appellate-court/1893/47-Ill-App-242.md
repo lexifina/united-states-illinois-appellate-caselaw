@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-06-15"
+citations: ["47 Ill. App. 242"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elgin, Joliet & Eastern Railway Company v. Mabel Raymond, by Next Friend, etc."]
+source_url: "https://static.case.law/ill-app/47/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2440992
+cites_cases: ["33 Ill. App. 450"]
+---
+
+# Elgin, Joliet & Eastern Railway Co. v. Raymond
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an action in case by appellee, a minor, who sues by her next friend, George H. Raymond, her father, to recover for injuries sustained by her in the city of Aurora, at a crossing of appellant’s railroad over Prairie street in said city, on October 3,1892, on account of alleged negligence of appellant, 1st, by its servants in backing and running its train at a greater rate of speed than ten miles per hour, contrary to the ordinance of the city of Aurora; 2d, general negligence in running its train; 3d, in negligently constructing its crossing, by leaving an improperly wide space between the planking and the rail at the crossing, also in leaving improper depth without filling to prevent persons crossing from getting their feet caught in such space; 4th, in not ringing a bell or sounding a whistle as required by statute before reaching a crossing; and 5th, in willfully running the engine on appellee, Mabel Raymond. The injury was occasioned as follows: The appellee, a child of about five years of age, accompanying her sister, about seven years old, while crossing the track at the above named place in returning home from school, got one of her feet caught in the space between the planking and the rail, and being unable to extricate herself by either her own exertions or that of her sister, was run over by appellant’s train while backing over the crossing, and her leg was so crushed and nearly severed from her body • as to require amputation just below the knee, her sister being killed.
+It is insisted that the evidence on most of the counts in the declaration was not sufficient to warrant instructions being given on the hypothesis of the allegations therein contained. We think, however, the court was warranted in giving the instructions based thereon. We think also that the evidence at least justified the verdict of the jury in favor of appellee on the charge that the .train was being backed and run at a greater rate of speed than ten miles per hour, which was prohibited by the ordinances of the city of Aurora, saying nothing of the charges in the other counts of the declaration. The evidence admitted on behalf of appellee, against appellant’s objection, of appellee’s mother being in a pregnant condition, disabling her from overseeing and caring for appellee to any greater extent than she did to prevent accidents of the nature of this one, was not, in our opinion, erroneous under what was assumed in the instructions of both parties to have been the law, i. e., that appellee was responsible for any negligence of her parents in not guarding and protecting her against accident. There was no evidence showing any injury to her mother on account of shock or otherwise at the accident. It went no farther than to show she was in a disabled condition by reason of the cause named, and the evidence was limited by the court to that proof. It is very doubtful whether as a matter of law appellee, where suing in her own right for injuries done to herself, would be held responsible for any negligence of her parents in failing to use proper care in guarding her against accident. Chicago City R. W. Co. v. Wilcox, 33 Ill. App. 450, and authorities cited. There was no error in refusing any of appellant’s offered instructions refused by the court, nor was there any inconsistency between the general and special verdict of the jury. On the entire evidence we think the jury were justified in returning a verdict for appellee. The verdict, however, in this case was for $15,000, which we deem excessive, considering the age and condition of the appellee and probability of her success in life had no accident happened, but as the appellee now comes into court and offers to remit $5,000, we accept the remittitur and affirm the judgment of the court below for the sum of $10,000. Judgment affirmed to that amount, and the costs of this court is assessed against appellee.
+Judgment affirmed.
