@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-889"
+decided: "1978-06-27"
+citations: ["62 Ill. App. 3d 146"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. JAMES O’NEAL, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/62/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5620812
+cites_cases: ["33 Ill. App. 3d 725", "338 N.E.2d 207", "353 N.E.2d 234", "356 N.E.2d 776", "377 N.E.2d 228", "40 Ill. App. 3d 996", "422 U.S. 806", "60 Ill. App. 3d 711", "64 Ill. 2d 536"]
+---
+
+# People v. O'Neal
+
+## Majority (Mr. PRESIDING JUSTICE STAMOS)
+
+Mr. PRESIDING JUSTICE STAMOS
+delivered the opinion of the court:
+Defendant, James O’Neal, was charged by indictment with the murder of Kenneth Singleton. (Ill. Rev. Stat. 1973, ch. 38, par. 9—1.) After a jury trial at which defendant appeared pro se defendant was found guilty of murder and was sentenced to a term of not less than 20 years, nor more than 30 years in the Illinois Department of Corrections.
+Defendant now appeals this conviction, raising the following issues for appellate review: (1) Whether defendant received a speedy trial as prescribed by the constitutions of Illinois and the United States; (2) Whether defendant was fit to stand trial; (3) Whether defendant was denied due process of law under the constitutions of Illinois and the United States by being required to proceed to trial without a finding of fitness by a jury upon consideration of evidence; (4) Whether defendant was denied due process of law by reason of representation by incompetent counsel at trial; and (5) Whether defendant was denied due process of law when allowed to waive counsel and proceed pro se to trial. We will address these issues following a review of the testimony adduced at trial.
+The testimony adduced at trial reflects that the murder of Kenneth Singleton occurred in the vicinity of 88th Street and Exchange Avenue in Chicago, Illinois on April 16,1973. Earlier that day defendant appeared in court, at the 89th Street and Exchange Avenue police station, with his ex-wife. This court date was prompted by her efforts to obtain a “peace bond” against defendant. Defendant had allegedly threatened the lives of his ex-wife and mother-in-law.
+Defendant’s case was continued and he hurriedly departed the courtroom and police station. Defendant’s ex-wife, mother-in-law and Kenneth Singleton also exited the police station and proceeded to Mr. Singleton’s automobile, which was parked in the vicinity of 88th Street and Exchange Avenue. Mr. Singleton had driven defendant’s ex-wife and mother-in-law to court.
+As defendant’s ex-wife, mother-in-law and Singleton approached Singleton’s automobile, defendant appeared, pointing a gun at them. Defendant announced that he would kill them. Defendant walked closer and then pointed his gun at Singleton and fired. This shot struck Singleton in the stomach; Singleton fell to the ground, attempted to stand but could only support himself on his knees. At this point defendant moved closer to Singleton, stood over him, and fired a second shot into Singleton’s back. Defendant then fled northbound on Exchange Avenue, entered his automobile and drove west on 88th Street.
+Defendant was pursued by Don Ranos, a fireman employed by the Chicago Fire Department and eyewitness to the shooting. Ranos radioed his activity and defendant’s license number to the Chicago Police Department. A Chicago Police Department investigation ensued ultimately leading to defendant’s arrest, in Chicago, on August 24, 1973.
+Defendant first contends that his right to a speedy trial (Ill. Rev. Stat. 1977, ch. 38, par. 103 — 5) had been violated by the interval of 123 days between his arrest and arraignment. Defendant was arrested on August 24, 1973, and was arraigned on December 27, 1973.
+Our review of the record reveals that two delays within the 120-day statutory period were occasioned by defendant. A delay occurred by defendant tolls the running of the 120-day period, and a new statutory period commences to run from the date to which the case had been delayed. (People v. Donalson (1976), 64 Ill. 2d 536, 356 N.E.2d 776.) Consequently, the record leaves no doubt that the delay referred to by defendant was attributable to defendant. Defendant, therefore, suffered no violation of his right to a speedy trial.
+Defendant next contends that the trial court should not have allowed defendant’s trial to commence in the absence of a fitness hearing. We note that a determination of defendant’s fitness to stand trial is necessary only when a bona fide doubt as to defendant’s fitness is raised. Ill. Rev. Stat. 1977, ch. 38, par. 1005—2—1(c).
+The record before us reflects that defendant had been found unfit to stand trial in December 1975. However, by January of 1976, defendant was discharged from the Department of Mental Health. On March 11, 1976, Dr. Kelleher examined defendant and pronounced defendant fit to stand trial. Dr. Kelleher’s report to the circuit court stated, in relevant part, that:
+* “ * it is my opinion that this defendant is now able to understand the charges pending against him and is able to cooperate with defense counsel. He will be difficult, distrustful and litigious. 006
+Furthermore, the record reflects that defendant had been dissatisfied with every court appointed attorney assigned to defendant’s defense. In fact, as was noted above, defendant conducted a pro se defense subsequent to defendant’s dissatisfaction with the succession of attorneys. In our view, the succession of attorneys who represented defendant prior to trial does not of itself raise a bona fide doubt of defendant’s fitness to stand trial. (People v. Brooks (1976), 40 Ill. App. 3d 996, 353 N.E.2d 234.) Defendant’s unwillingness to cooperate with counsel cannot be deemed equivalent with an inability to do so.
+Finally, we must address the issue of whether defendant was denied due process of law when the circuit court allowed defendant to waive his right to counsel and proceed to trial pro se. This analysis depends upon the determination of whether the circuit court complied with Illinois Supreme Court Rule 401 (Ill. Rev. Stat. 1977, ch. 110A, par. 401(a)).
+Illinois Supreme Court Rule 401(a) contains the conditions which must be met for a trial court to permit a waiver of counsel by a person accused of an offense punishable by imprisonment. Rule 401(a) provides:
+“(a) Waiver of Counsel. Any waiver of counsel shall be in open court. The court shall not permit a waiver of counsel by a person accused of an offense punishable by imprisonment without first, by addressing the defendant personally in open court, informing him of and determining that he understands the following:
+(1) the nature of the charge;
+(2) the minimum and maximum sentence prescribed by law, including, when applicable, the penalty to which the defendant may be subjected because of prior convictions or consecutive sentences; and
+(3) that he has a right to counsel and, if he is indigent, to have counsel appointed for him by the court.” (Ill. Rev. Stat. 1977, ch. 110A, par. 401(a).)
+A finding that the right to counsel has been intelligently and voluntarily waived is not to be made lightly and in order for the trial court to ascertain whether the accused fully understands that right and intentionally relinquishes it more than a routine inquiry is required. People v. Templeton (1978), 60 Ill. App. 3d 711, 377 N.E.2d 228.
+We find that the circuit court substantially complied with the requirements of Rule 401. The record indicates that defendant was well aware of the nature and severity of the charges against him and the punishment. The record further reflects that defendant knew he had the right to counsel and was told that if convicted he could spend the rest of his natural life in jail.
+Despite the severity of the charges against defendant, he was unwilling to have his trial delayed any longer. Defendant assured the court that his pro se defense would be conducted in an orderly fashion. Defendant’s confidence in his ability to represent himself may have been enhanced by the fact that defendant was, as revealed by the record, no stranger to the criminal justice system.
+It is also significant to note that although defendant was adamant in his desire to represent himself at trial, defendant did not dispute the public defender’s advisory role. Defendant did, in fact, confer with and accept the advice of the public defender. It is clear that defendant intelligently and voluntarily waived his right to counsel.
+In concluding, we note that while defendant’s choice in proceeding to trial pro se on a serious charge may have been unwise, defendant had the constitutional right to do so. (Faretta v. California (1975), 422 U.S. 806, 45 L. Ed. 2d 562, 95 S. Ct. 2525.) Defendant’s choice must be honored although he conducted his defense ultimately to his own detriment. (Faretta v. California.) Since defendant knowingly and voluntarily waived his right to counsel he cannot now be heard to complain that his pro se representation prevented him from receiving effective representation of counsel or a fair trial. People v. Smith (1975), 33 Ill. App. 3d 725, 338 N.E.2d 207.
+Accordingly, the conviction of defendant, James O’Neal, of murder, is affirmed.
+Affirmed.
+DOWNING and BROWN, JJ., concur.
