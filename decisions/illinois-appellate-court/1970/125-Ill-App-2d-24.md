@@ -1,0 +1,49 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 69-48"
+decided: "1970-06-08"
+citations: ["125 Ill. App. 2d 24"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Kenney, Executor of the Last Will and Testament of Frank Pasieka, Deceased, Plaintiff-Appellee, v. Mary Pasieka, Surviving Wife of Frank Pasieka, Deceased, et al., Defendant-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/125/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1577210
+cites_cases: ["109 NE2d 213", "114 NE2d 378", "117 NE 1002", "138 NE2d 496", "175 NE 12", "188 NE 419", "23 Ill2d 611", "281 Ill 397", "343 Ill 94", "354 Ill 415", "413 Ill 290", "415 Ill 303", "9 Ill2d 589"]
+---
+
+# Kenney v. Pasieka
+
+## Majority (JUSTICE THOMAS J. MORAN)
+
+JUSTICE THOMAS J. MORAN
+delivered the opinion of the court.
+This case involves three men with the same name— Frank Pasieka. The first is the deceased testator who lived at Tónica, Illinois, and was, in the argument before this Court, called “Tónica Frank”; the second, a nephew of the testator, who resided in Peoria and was called “Peoria Frank”; and the third, a cousin of the testator, who resided in Chicago and was called “Chicago Frank.”
+Tónica Frank died on October 5, 1966, leaving a last will which was executed November 24, 1962. Tónica Frank was twice married and left surviving him his second wife. He had one child by his first marriage, Theodore Pasieka, and none by Ms second marriage. Theodore died on October 11, 1964, after the making of the will in question, but before the death of Ms father.
+During his lifetime, Tónica Frank took into his home two boys, Walter and Joseph, both of whom changed their last name to his and lived with him as his sons. Walter never married and has no children. Joseph, on the other hand, is married and is the father of three children.
+Tonica Frank’s will is relatively simple but the problems it creates are substantial. After providing for the payment of his debts and funeral expenses, he bequeathed all of his personal property to his second wife. He then devised all of his real estate to his son, Theodore, for life and provided that, upon the death of Theodore, the real estate would become part of the residue of his estate. The residue was then devised “one-third thereof to the children of Walter Pasieka, share and share alike; one-third thereof to the children of Joseph Pasieka, share and share alike; and one-third thereof to the children of Frank Pasieka, share and share alike.” The will then provided, “In the event any child shall not be living at the time of the death of my son, Theodore Pasieka, but shall leave brothers and sisters him surviving, said brothers and sisters shall take the share of such deceased child.”
+The second wife renounced the will and the executor filed suit for a proper construction. There is no dispute as to the one-third share to the children of Joseph Pasieka. They do exist, and are entitled to that portion. The difficulty, however, arises in determining which “Frank Pasieka” the testator intended, since there were three, and what happens to the share devised to the children of Walter Pasieka, since he has no children.
+The trial court, after considerable deliberation and effort, wrote a memorandum of decision which concluded that the testator meant himself when he devised a one-third share to the children of “Frank Pasieka” and, therefore, this share was to be divided equally between Joseph and Walter, and finally that the one-third share to the children of Walter did not fail but passed one-half to the children of Joseph and one-fourth each to Joseph and to Walter.
+This appeal followed, raising the issues that the trial court erred in ruling that the testator meant himself and that the disposition of the one-third interest to the children of Walter was erroneous, since there were no such children.
+Both the plaintiffs and the trial court agree that the will before us presents latent ambiguities. Even though the language is clear and suggests a single meaning, extrinsic facts show the clear necessity for an interpretation, Krog v. Hafka, 413 Ill 290, 295-296, 109 NE2d 213 (1952).
+In construing a will, the guiding principal is the intention of the testator, O’Connell v. Gaffney, 23 Ill2d 611, 614, (1962), and the question for our determination is not what the testator meant to say by the language employed, but rather what he meant by what he did say, Barnhart v. Barnhart, 415 Ill 303, 313, 114 NE2d 378 (1953).
+Therefore, in construing this will it was proper for the trial court, and it is proper for us, to consider the surrounding circumstances. The evidence presented clearly indicates that the decedent treated his own son, Theodore, and Joseph and Walter exactly the same. Joseph and Walter were never legally adopted but they were brought into the decedent’s home, they took his name and he treated them as his sons. He never indicated any desire to have one receive more than another. It was really on this basis that the trial court reached its conclusion.
+While that evidence is clear, it is not very helpful in construing the decedent’s will. There, he did not treat the three boys alike because he gave his son, Theodore, all of his property for life and he gave nothing to Walter or Joseph, since the devise is to their children and not to them.
+In determining who is the right “Frank Pasieka,” it appears clear to us that it cannot be Peoria Frank. Peoria Frank had not seen the decedent for twenty-eight years before his death and they had no communication.
+Similarly, it would seem clear that the Frank in question cannot be Chicago Frank, because they were not close and saw each other only about once each year.
+We are hard pressed to find that the decedent referred to himself, because the gift, of course, is not to himself but to his children, and he had already provided for his only natural child by giving him a life estate in all of his property.
+Likewise, we cannot determine what the decedent meant by the gift to the “children” of Walter, since Walter never had and does not now have any children.
+The sad thing about this case is that the decedent went to an attorney and made an attempt to write a will. Unfortunately, he did not make a will which completely disposed of his property and the only way there can be a complete disposition is for this Court to write his will for him or for the property to be administered as though the decedent had no will. While there is a presumption against intestacy and the court should make an effort to construe the will, if that is possible, this Court has no power to write a new will for a decedent if it cannot determine his intention. As our Supreme Court said in Hampton v. Dill, 354 Ill 415, 420, 188 NE 419 (1933), the testator’s “intention must be determined by the language of the will itself and not from any surmise that he used the language to express an intention or meaning he had in his mind which he failed to express. If he has overlooked a condition which he probably would have provided against had he thought of it, the court cannot guess which provision he would have made and read it into his will on the presumption that he would naturally have made such a provision if he had thought of it.”
+In Moeller v. Moeller, 281 Ill 397, 117 NE 1002 (1917), the Court said, at page 399: “. . . Where a testator in disposing of his property overlooks a particular event, which, had it occurred to him, he would have in all probability provided against, the court will not supply a provision by intendment, on a presumption of what the testator would naturally have done.”
+In Foss v. State Bank & Trust Co., 343 Ill 94, 175 NE 12 (1931), the Court said, at page 97: . While it is true that the presumption is always against intestacy, either in whole or in part, where a party has attempted to dispose of property by will, this is only a presumption and does not warrant this court, under the guise of construing a will, to add provisions which are offered in place of those omitted. Such presumptions cannot be indulged in either to overcome express language in a will (citation omitted) or to supply an omission made by oversight, where no language is used to show an intention on the part of testator to dispose of the property.”
+We conclude that the two-thirds of the residue of the decedent’s estate which were devised to the children of “Frank Pasieka” and to the children of Walter Pasieka, go as intestate under the statute.
+The parties spent a good deal of time before us arguing of the effect of the anti-lapse statute, but in view of our decision, we need not and do not reach that question.
+The case is, therefore, reversed and remanded to the trial court with instructions to enter an order consistent with this opinion.
+Reversed and remanded with instructions.
+ABRAHAMSON and SEIDENFELB, JJ., concur.
+SUPPLEMENTAL OPINION on PETITION FOR REHEARING
+Our opinion stated that we need not reach the question as to the effect of the antilapse statute.
+In the petition for rehearing, the plaintiff argues (among other claims) that our conclusion on this point is irreconcilable and in direct conflict with the theory and reasoning found in Schroeder v. Benz, 9 Ill2d 589, 138 NE2d 496 (1956).
+The facts in the Schroeder case show that there was a donee in being at the time the will was drawn to which the antilapse statute would take effect. In the case at bar we concluded that there was, in effect, no donee to which the antilapse statute could be applied. Therefore, we affirm our original decision and deny the petition for rehearing as to this point and others raised herein.
+Petition for rehearing denied.
