@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1880-04-02"
-citations: ["6 Ill. App. 140", "6 Ill. App. 162"]
+citations: ["6 Ill. App. 140"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Robert J. Roy. v. Albert Goings."]
 source_url: "https://static.case.law/ill-app/6/cases/0140-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4746579
-cites_cases: ["1 Barb. 542", "1 Pa. St. 234", "10 Met. 481", "10 Wis. 397", "108 Mass. 347", "11 R. I. 476", "13 Ill. 702", "14 Ill. 473", "16 Minn. 182", "19 Ill. 519", "19 Wall. 544", "2 Story, 644", "20 Barb, 38", "20 Ohio, 304", "23 How. 117", "23 Howard, 117", "23 Ill. 324", "23 Ill. 325", "23 Ill. 425", "23 Ill. 575", "23 Ill. 577", "24 Ill. 17", "25 Ill. 257", "26 Ill. 259", "26 Ill. 356", "3 Brev. 94", "3 Sandf. 230", "30 Ark. 56", "31 Miss. 464", "32 N. Y. 417", "34 Barb. 12", "35 Ill. 487", "36 Vt. 599", "37 Me. 187", "41 Barb. 404", "41 N. H. 456", "44 Vt. 124", "48 Miss. 513", "49 Ill 95", "50 Ill. 512", "51 Cal. 620", "52 Miss. 653", "54 Ill. 307", "54 Ill. 507", "55 Ill. 391", "6 Watts & Serg. 336", "65 Ill. 370", "65 N. Y. 459", "68 Ill. 185", "7 Wis. 159", "71 Ill. 238", "71 Ill. 400", "71 Ill. 648", "72 Ill. 262", "72 Ill. 517", "72 N. C. 231", "77 Ill. 172", "77 Ill. 293", "77 Ill. 32", "77 Ill. 603", "8 Barb. 102", "80 Ill. 574", "81 Ill. 478", "83 Ill. 241", "83 Ill. 291", "83 Ill. 293", "85 Ill. 106", "85 Ill. 135", "9 Bush, 318"]
+cites_cases: ["1 Pa. St. 234", "13 Ill. 702", "14 Ill. 473", "16 Minn. 182", "23 Ill. 425", "23 Ill. 575", "23 Ill. 577", "26 Ill. 259", "26 Ill. 356", "3 Brev. 94", "31 Miss. 464", "35 Ill. 487", "44 Vt. 124", "49 Ill 95", "50 Ill. 512", "54 Ill. 307", "55 Ill. 391", "6 Watts & Serg. 336", "65 Ill. 370", "68 Ill. 185", "71 Ill. 238", "71 Ill. 400", "72 Ill. 262", "72 Ill. 517", "77 Ill. 172", "77 Ill. 32", "77 Ill. 603", "81 Ill. 478", "83 Ill. 241", "83 Ill. 291", "83 Ill. 293", "85 Ill. 106", "85 Ill. 135"]
 ---
 
 # Roy v. Goings
