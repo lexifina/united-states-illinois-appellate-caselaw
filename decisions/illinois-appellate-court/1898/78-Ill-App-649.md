@@ -1,0 +1,44 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-11-18"
+citations: ["78 Ill. App. 649"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Supreme Lodge Order of Mutual Protection v. Mathilda Meister."]
+source_url: "https://static.case.law/ill-app/78/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5788886
+cites_cases: ["23 Ill. App. 341", "33 Ill. App. 175", "37 Ill. App. 306", "65 Ill. 415", "67 Ill. App. 119"]
+---
+
+# Supreme Lodge Order of Mutual Protection v. Meister
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the court.
+The appellant is a mutual benefit society, and accepted one Nicholas Meister as a member of the order and issued to him a membership certificate dated April 19,1889, as follows, omitting formal parts:
+“ This ^certificate, issued by the Supreme Lodge, Order of Mutual Protection,
+Witnesseth, that Nicholas Meister, of Chicago, Ill., has been accepted as a member of the Order of Mutual Protection, upon the faith of the representations contained in his application to the order and medical examination, and that the Supreme Lodge will, upon his death, provided he has, while a member, complied with the charter, constitution, laws, rules and regulations of the order, pay from the widows’ and orphans’ protection fund the amount of one assessment, not to exceed, however, the sum of $2,000, to his wife, Mathilda Meister, unless this certificate should be by him revoked.
+The express condition upon which this certificate is issued, is that the rights of the above named beneficiary or beneficiaries shall be determined by the charter,- constitution, laws, rules and regulations of the order in force at the time that the sum due hereinunder is payable.
+In witness whereof, the Supreme Lodge, Order of Mutual Protection, has caused this certificate to be signed by the Supreme President, and its seal to be hereto affixed and attested by the Supreme Secretary.”
+The member, Meister, departed this life on June 14,1894, and his beneficiary, the appellee, brought suit and recovered a verdict and judgment for $2,260 against the order. From that judgment, this is an appeal.
+The declaration consisted of the consolidated common counts, and the plea was the general issue. About two years after the declaration and plea were filed, the plaintiff (appellee) filed in the cause, what was styled a “ copy of instrument sued upon,” being a copy of the certificate of membership, with the indorsements thereon.
+The point that there could be no recovery by the plaintiff under a declaration consisting only of the common counts, was aptly, but unsuccessfully, raised by the defendant, when the membership certificate was offered in evidence, and was repeated at the close of plaintiff’s case, at the close of all the evidence on both sides, by an offered and refused instruction and upon the motion for a new trial, and the several rulings of the court upon the subject were duly excepted to.
+The liability of a mutual benefit society, upon the death of a member, to pay to the beneficiary named in the member’s certificate “ the amount of one assessment,” not to exceed, however, a stipulated sum, does not attach vpso facto upon the death, of the member.
+. It depends upon the performance by the member, or some one for him, of certain conditions precedent, and upon the doing by the society of certain acts, or its neglect of some duty under the contract, after the' death of the member. This proposition as to the liability of the society is not contended against by the appellee, but is accepted by her, and evidence tending to show a performance was offered and received in support of her case. Upon the sufficiency of that evidence we will not comment, for as we understand the law to be, such evidence was incompetent under the common counts.
+The case of Rockford Insurance Company v. Nelson, 65 Ill. 415, was one of assumpsit upon a policy of insurance, and the declaration averred (merely) that the property was destroyed by fire in such a manner as to render the company liable to pay for the loss. It was there held that the admission of the insurance policy in evidence under the count was error, because of a variance between the count which set out no conditions precedent, and the policy which contained such conditions. The language of the court, discussing the question, is as follows :
+“ The policy, with the conditions annexed, constitute an entire contract, and, in declaring upon the contract, it, or a sufficient portion of it to show a right of recovery, must be set out, either in-terms or in substance. This is not like suing on a penal bond at common law, where the plaintiff might simply count on-the bond and leave the defendant to set up the condition and plead performance. But in a case of this character, the money only being payable upon the assured performing certain acts, all such precedent acts should be set out, and their performance averred. But all conditions subsequent to the right of recovery, and all acts to be done by the company in discharge of their liability, may be omitted and left to be set up as a defense. Precedent conditions, were not set out in the first count, and hence there was such a variance as should have excluded the policy as evidence under the count, or the instruction to disregard it under that count should have been given.”
+The proposition being good as to a special count that was not full enough, it follows that it is good as to the common counts, and this is especially so when the amount of liability is not fixed by the contract but depends upon the result of an assessment to be made by the society.
+So far as we have observed, there is no case in Illinois in which a recovery upon an insurance policy, or a mutual benefit certificate, has been sustained in the absence of a special count.
+The rule is as applicable to suits to recover upon membership certificates in mutual benefit societies as to ordinary insurance policies. “ Where the contract is that the corporation shall make an assessment, and pay over the proceeds,not exceeding a certain amount, it is well settled that the declaration must charge a failure or refusal to make the assessment, and that if such assessment had been made it Avould have resulted in the amount which plaintiff claims as damages.” Ring v. U. S. Life and Accident Association, 33 Ill. App. 175; The Abe Lincoln Mutual, etc., Society, v. Miller, 23 Ill. App. 341.
+But it is said by appellee,-that where on one side nothing remains to be done except the payment of money, assumpsit as for money due and oAving, or for money had and received, is the proper action, and that the contract need not be specially declared upon.
+There is no question but that such is the settled law. The difficulty with the proposition lies in the falsity of its premises, as applied to the case under consideration. Here, the contract, the membership certificate, is open and unexecuted. Hot even by its terms is any certain sum of money due, although the member, has fully performed on his part, and his death has ensued.
+Under certain circumstances a recovery up to the limit of $2,000 might be had, while under others a considerable less amount would be realized from an assessment, and would be all that could be recovered.
+Proper averments of facts showing such conditions will alone furnish the necessary basis of proof of their existence.
+And so, also, of all other essentials of a good declaration • upon an executory contract of this character, when conditions precedent to the right to recover exist.
+Again, it is said by appellee that the filing of the copy of the membership certificate, whereby the nature of appellee’s claim was made known to appellant, made the instrument admissible under the common counts, and cases are cited to support such proposition; but such cases, as well as others that, might be .pointed to, are ones where the contract had been fully executed by the plaintiff, and nothing but the payment of money remained to be done by the defendant.
+The membership certificate did not become a part of the' declaration by merely filing a copy of it in the case, and so filing the copy did not make the certificate any more properly receivable in evidence under the common counts than if no copy had been filed.
+The rule adopted from Moulton v. Trask, 9 Metcalf, 577, in Geary v. Bangs, 37 Ill. App. 306-7, and restated in Wolf v. Schlacks, 67 Ill. App. 119, as to when a contract must be specially declared upon and \vhen not, is precise and clear.
+The judgment must be reversed and the cause remanded, unless appellee shall, within ten days, request us in writing to reverse without remanding.
