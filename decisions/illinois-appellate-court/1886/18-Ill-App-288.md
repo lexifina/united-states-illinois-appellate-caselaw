@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-02-03"
+citations: ["18 Ill. App. 288"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lake Shore & Michigan Southern R. R. Co. v. Harriet Hunt, Adm’r, etc."]
+source_url: "https://static.case.law/ill-app/18/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864979
+cites_cases: ["76 Ill. 31"]
+---
+
+# Lake Shore & Michigan Southern R. R. v. Hunt
+
+## Majority (McAllister, J.)
+
+McAllister, J.
+If a person should take a blanket, and in the night time lie down upon a railroad track to sleep, knowing or having reason to know that trains would be likely to pass, and the servants of the railroad company, in ignorance of his presence there, should run a train over and kill him, no lawyer or jurist would consider that there was any liability on the part of the railroad company, in an action by his personal representatives in respect of such injury and death. And why ? Because he brought the disaster upon himself by his own negligence. It was a maxim of the Roman law that the harm which one’s negligence brings upon himself, he is to be considered as not having received ; so far as his relations to others are concerned the harm is uncaused. Wharton on Neg. § 130; C. & A. R. R. v. Becker, 76 Ill. 31.
+Row, this case is nearly as plain a case of negligence on the part of the deceased, as that above supposed. He was the conductor of a freight train, with a caboose car on the end of it, and it was standing upon a main track, in the night time, where it was likely to remain for an indefinite period of time. The deceased knew that other trains from the eastward were due, or would be due, in a comparatively short time ; that one particular train might come at any time; that when it did come it would be upon the same track on which his train was standing, and that his caboose car was directly exposed to invasion by the locomotive of such incoming train. There was a rule of the company directly applicable to the government of his course of action in such case, which, if it had been followed, would have insured not only his own safety but that of the property he had in charge, and other property of his employer. It is a reasonable rule, and one to which full and complete obedience was imperatively demanded under the then existing circumstances." It imposed specific duties upon him as conductor. He was familiar with that rule. His attention had been pointedly called to, and he had promised to obey it. That the rule might not be forgotten, it had been kept posted in the yard whence he took his trains. We must hold, from the evidence, that McBride was familiar with that rule. On the occasion in question, totally disregarding the duties imposed upon him by it, for his own and the safety of the property of his employer, and without any precautions on his part to warn off incoming trains, by signals, or to apprise them of the presence of his train in that place, he lies down to sleep in that caboose car, thus exposed, in the darkness of the night; and while thus asleep a train comes and the caboose is run into, destroyed, and he receives his death. It is nowhere pretended that any of the persons in charge of the train which did the mischief were aware of the presence of McBride’s train on, the track on which they were going, because there was literally nothing to indicate such presence. It seems to us, in whatever light we view this case, that McBride’s injury was the proximate result of his own negligence. To-recover in this ease two things must concur, viz.: negligence on the part of the deféndant and no want of ordinary care on the part of the deceased. The evidence shows and we think without any conflict, that the deceased, manifestly, was not in the exercise of ordinary care to avoid being injured. The jeopardy to life, limb and property was great and imminent. It was just such a case as was in contemplation when the rule of the company, to which we have frequently adverted, was framed and adopted. The duty of placing the signals as therein required was imperative; and that there might be no failure, it was especially enjoined upon conductors and engineers to personally see to it that, the specific things required were done. If that rule had been complied with, in this instance, the disaster would not have happened.
+We feel constrained to hold that the verdict of the jury should have been set aside by the court below, for the reasons stated; and for denying defendant’s motion to that effect, the judgment will be reversed and the cause remanded.
+Judgment reversed.
