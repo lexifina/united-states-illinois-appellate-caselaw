@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 14,688"
+decided: "1909-12-07"
+citations: ["152 Ill. App. 72"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oliver D. Crilly, Defendant in Error, v. W. K. Young, Plaintiff in Error."]
+source_url: "https://static.case.law/ill-app/152/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2624739
+cites_cases: ["127 Ill. App. 598", "88 Ill. App. 452"]
+---
+
+# Crilly v. Young
+
+## Majority (Mr. Justice Mack)
+
+Mr. Justice Mack
+delivered the opinion of the court.
+The defendant Young was the owner of a flat building in Chicago which he advertised for sale or for exchange. A firm of real estate brokers saw the advertisement and sent one of their employes to plaintiff’s office to submit a proposition with a view to inducing plaintiff’s client to exchange a farm for it. After various negotiations in which the plaintiff and the defendant met, the deal fell through. Plaintiff went to California and subsequently his clients sold their farm. On his return he again sought the defendant with a view to effecting a sale of the property to the same parties for whom he had endeavored to negotiate the exchange. He did not mention his clients to the defendant, but obtained the selling price of $30,000 from the defendant and an agreement that he should have 2%% commission if the sale were consummated. The prospective purchaser subsequently asked him to have the property valued by his brother. The brother valued it at $27,000. The plaintiff concurred in that valuation and the defendant sold the property to plaintiff’s customer at that price. A verbal agreement to sell was entered into before May 2. On May 2 plaintiff procured a broker’s license. Subsequent to May 2 the sale agreement was reduced to writing. Before the transaction was consummated, the defendant informed plaintiff that as he would have to pay off some mortgages he would pay him only $500 instead of the 2%%. Subsequently, on learning that the brokers who had first attempted to effectuate an exchange, were demanding the commissions, the defendant refused to pay even the $500 to the plaintiff unless he would give him an indemnity bond. This plaintiff refused to do and brought this action for the recovery of the entire commission. The jury awarded him the sum of $587.50 from which he remitted, by the requirement of the court, $87.50.
+' The evidence in the case abundantly justifies the finding of the jury, under the instructions of the court, that the plaintiff was the procuring cause of the sale. This is one of those unfortunate cases in which the defendant may by his acts have made himself liable to pay double commissions. In any event, the fact that this court has upheld the verdict of the jury in a suit by the other brokers for commissions on this very transaction, does not justify the court in holding that the jury in this case should not, under the evidence, have found the plaintiff to be the procuring cause of the sale.
+It is urged, however, that the plaintiff’s concurrence in the valuation of the property for the purchaser at less than the then asking price of the defendant is such a fraud on defendant and such a violation of his duties as agent as to preclude any recovery. We cannot, however, find any breach of good faith or of any obligation toward the defendant in the plaintiff’s conduct.
+It is, however, strenuously insisted that as the plaintiff was a broker at the time of the sale and as he had no license at the time of the contract, he is not in a position to enforce his claim. The record, however, furnishes several answers to this contention: first, the jury was justified in believing the plaintiffs’ statement that he had never theretofore acted as a broker but had confined himself to the management of his father’s estate, and that, too, despite the fact, that at a former trial he had, in answer to questions, testified that he was a broker at the time of the trial and had been a broker for a year prior thereto.
+If this was his first transaction as a broker and he had not acted as such theretofore, then the specific contract for compensation could be enforced by him, even if he had not obtained a license. Packer v. Sheppard, 127 Ill. App. 598. More than this, however, it is not essential to a recovery by a broker that he have a license at the time that the property is put into his hands as long as he has it at the time that his work is complete. Loehde v. Halsey, 88 Ill. App. 452. Ordinarily, the broker’s commissions are earned when he shall have brought the parties together and they shall have entered into an enforceable contract. An oral contract, however, is not an enforceable contract, and if, after the oral contract, either party had repudiated the same, the broker would not be entitled to commissions. At the time that an enforceable contract was entered into in writing, the plaintiff had his broker’s license. Moreover the plaintiff testified in this case, and the jury had a right to believe from the evidence, that his employment was not the ordinary employment of a broker, but was a special employment under which the compensation would not have been earned unless the sale was actually consummated. "Whatever plaintiff’s rights might have been if, under such a contract, the sale had been consummated before he obtained his broker’s license, in this case the license was obtained long before the sale was actually completed.
+The judgment of the Municipal Court will be affirmed.
+Affirmed.
