@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,458"
+decided: "1966-11-09"
+citations: ["76 Ill. App. 2d 451"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lucille Malone and Betty Brown, Plaintiffs-Appellants, v. Chicago Transit Authority, a Municipal Corporation, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/76/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2576494
+cites_cases: ["163 Ill 477", "163 NE2d 425", "18 Ill2d 226", "193 NE 529", "206 Ill 615", "358 Ill 507", "402 Ill 270", "45 NE 238", "69 NE 570", "83 NE2d 736"]
+---
+
+# Malone v. Chicago Transit Authority
+
+## Majority (MR. JUSTICE MURPHY)
+
+MR. JUSTICE MURPHY
+delivered the opinion of the court.
+This is a personal injury action. Plaintiff Lucille Malone appeals from an order which dismissed her action on the ground that it was released. Plaintiff Betty Brown appeals from a directed verdict entered at the close of all the evidence.
+Plaintiffs Malone and Brown are sisters. On November 8, 1956, at about 12:30 p. m., plaintiffs boarded a northwestbound Chicago Transit Authority (CTA) bus on Milwaukee Avenue at Wood Street. Lucille entered first and paid her fare. As Betty was about to deposit her fare, she noticed a car making a turn into the middle of the street. She called to the bus driver, “ ‘Do you see that car?’ . . . The bus driver slammed on his brakes and I fell backwards. My back and neck struck the bus. I do not know how fast the bus had been going. The bus did not come in contact with the other vehicle.” She had pains and aches in her back, head and neck. Lucille fell back against the fare box and ended up lying on the floor with her head down. The driver asked if anyone was hurt, and both plaintiffs answered “yes.” However, neither names nor statements were taken — “he did not do anything.” Both Lucille Malone and Betty Brown, after riding a short distance, got off the bus and called a cab.
+Plaintiff Brown missed three weeks’ work and visited her doctor about five times. As the doctor was unable to testify on two occasions (“emergency surgery”), the court declared plaintiff Brown’s case closed without any medical testimony. At the time of the trial she still had pain in her lower back.
+As to plaintiff Malone, the court dismissed her action on the ground that it had been released by operation of a general release executed by her, which was based on a later occurrence, December 25, 1961. Therefore, no evidence of her injuries was introduced.
+On behalf of defendant, the evidence deposition of Isadore Romano was read into evidence. He stated that on November 8, 1956, he was working on Milwaukee Avenue on bus No. 5183. The bus left Devon and Milwaukee at 12:32 “to get Downtown to the Loop.” He estimated, “I would be at Wood Street at about 1:20, going eastbound. No accident occurred where two women fell in the front of my bus that day.” On cross-examination he stated that no report was made of any sudden or emergency stop, and that “the procedure is to take names if someone is hurt. I didn’t make a report.”
+An accident investigator for the CTA testified that he interviewed Betty Brown on February 19, 1957. On cross-examination he stated that the two plaintiffs were together when he obtained the statement, and that “the date of the accident that I have on this case is November 8, 1957, and the bus, car or train number that was involved in this occurrence is number 1396. The words on this statement are the words that Mrs. Brown used. . . . She said an auto going east on Milwaukee Avenue made a sudden turn in front of the bus and the bus driver made a sudden stop to avoid the auto. She did not say anything else that is not included in this description of accident. The claimant supplied the information on the bus number and the date, time, and place of the accident.”
+Initially, we consider the contention of plaintiff Brown that the court erred in directing a verdict as to her action. “Upon motion for a directed verdict for defendant, it is the duty of the trial court to determine whether there was any evidence, together with all reasonable inferences therefrom, tending to support the material allegations of the complaint. In the absence of such evidence, the trial court should grant the motion.” (Watts v. Bacon & Van Buskirk Glass Co., 18 Ill2d 226, 229, 230, 163 NE2d 425 (1959).) Therefore, the issue presented is whether plaintiff Brown adduced any evidence fairly tending to establish the negligence of the defendant CTA.
+The testimony of both plaintiffs does not disclose any fact giving rise to a reasonable inference that defendant was guilty of any negligence. At most, their testimony shows that they were standing in a crowded bus when an automobile “made a turn in the middle of the street” while the bus driver “was looking in the front,” and the bus driver “slammed on his brakes.” The bus made no contact with the other vehicle, and there is no testimony as to the speed of the bus. This, standing alone, does not make a prima facie case against a carrier. (Chicago Union Traction Co. v. Browdy, 206 Ill 615, 617-619, 69 NE 570 (1904); Chicago City Ry. Co. v. Rood, 163 Ill 477, 483, 45 NE 238 (1896).) There is no testimony from which it can be reasonably inferred that the driver failed to exercise due care. “The mere fact that an accident resulting in an injury to a person or in damage to property has occurred does not authorize a presumption or inference that the defendant was negligent.” (Rotche v. Buick Motor Co., 358 Ill 507, 516, 193 NE 529 (1934).) We find no error in directing a verdict for defendant in this case.
+We examine next the contention of plaintiff Malone that the trial court “erred in dismissing her action as having been released by the release of December 27, 1961.” This is not a live issue because of our finding that no error was committed by the trial court in directing a verdict for defendant as to the basic action, on which the claims of both plaintiffs rested and on which both plaintiffs testified. Any questions concerning the release come within the general rule that “when a reviewing court has notice of facts which show that only moot questions or mere abstract propositions are involved or where the substantial questions involved in the trial court no longer exist, it will dismiss the appeal or writ of error.” People v. Redlich, 402 Ill 270, 279, 83 NE2d 736 (1949).
+For the reasons given, the judgment of the trial court as to both plaintiffs is affirmed.
+Affirmed.
+KLUCZYNSKI, P. J. and BURMAN, J., concur.
