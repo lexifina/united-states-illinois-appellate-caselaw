@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1878-05"
+citations: ["2 Ill. App. 555"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julia H. Billings v. Lyman Chapin."]
+source_url: "https://static.case.law/ill-app/2/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4790103
+cites_cases: ["17 Ill. 535", "32 Ill. 331", "52 Ill. 260", "65 Ill. 366", "77 Ill. 567", "78 Ill. 261"]
+---
+
+# Billings v. Chapin
+
+## Majority (Davis, J.)
+
+Davis, J.
+This is an action of forcible entry and detainer, commenced by appellant against ajipellee in the Circuit Court of Scott county, to recover the possession of certain lands situated in said county. To the declaration or complaint filed in the case, appellee filed two pleas. The first setting up that before and at the time of the commencement of the suit, the defendant was, and from thence had been and still was residing in the county of Morgan, and not in said county of Scott; and that he was not found or served with process in said action in said county of Scótt, hut was found and served with process in the said action in the said county of Morgan.
+The second plea, charging that the summons issued in said case was not directed by the clerk of the court to the sheriff 'of his county, to wit: Scott county, to serve, and that defendant was not found or served with process in said case by the sheriff of said county of Scott, but that summons was directed by the clerk to the sheriff of the county of Morgan to serve, and that said summons was served upon defendant by the sheriff of said Morgan county, in said county of Morgan; and that said defendant on, etc. at, etc. resided in said county of Morgan.
+To these pleas, appellant filed her general demurrer. The demurrer was overruled by the court, and the appellant standing by her demurrer, a judgment was rendered against her in favor of appellee, for costs of suit. To reverse this judgment appellant appeals to this court.
+The pleadings present the single question for the determination of this court: whether an action of forcible entry and detainer can be commenced in the county where the land is situated, and the summons sent to the sheriff of the county where the defendant resides, and be legally served upon him there.
+The statute of forcible entry and detainer gives to the party entitled to the possession of the land the right to sue for and recover the same in the county where the premises are situated. Revised Statute of 1874, page 536. By this statute the action is made local and confined to the county in which the land is located. By section 2 of the Practice Act, Revised Statutes of 1874, page 775, suits in local actions may be brought out of the county where the defendant resides or may be found, and in such actions process should be issued to the sheriff of the county where the defendant resides. Revised Statutes of 1874, Sec. 43 to 46 inclusive, page 332. Under this act the appellant had the undoubted right to sue in Scott county, and require the process to be sent to the county of appellee and be served upon him there, unless some provision of the forcible entry and detainer act defeats that right, or in some way modifies or controls it. It is claimed by appellee that the language of the latter act, giving power to the clerk to issue summons in such cases to the sheriff of Ms county, virtually prohibits him from issuing a summons to the sheriff of any other county, and thus limits the jurisdiction of the Circuit Court in actions of forcible entry and detainer to cases in which the defendant resides in the county in which the suit is brought. By this construction the benefits intended to be conferred by the statute would be limited to those claiming the possession of land against defendants who were residents of the county in which the land was situated.
+We cannot adopt so narrow a construction. The intention of the legislature in enacting the forcible entry and detainer law evidently was to give to parties entitled to the possession of land, a more speedy and less expensive remedy against persons who might forcibly enter or unlawfully detain the possession of land to which they had no claim, than the tedious action of ejectment; and we can see no reason which could induce the legislature to restrict the operation of the law to defendants who might reside in the county in which suit was brought.
+Jurisdiction is given in general and unlimited terms to the Circuit Court of the county in which the land is situated in all cases of forcible entry and detainer, and on complaint being filed with the clerk of such court, he is required to issue a summons to the sheriff, and we think in such, cases, as in all others in which the law authorizes the summons to be directed to a foreign county, the plaintiff may direct the clerk to issue it to the sheriff of the county in which the defendant resides.
+The direction to the clerk in section 5 of the statute, to issue a summons directed to the sheriff of Ms county to execute, is intended to apply only in cases where the defendant resides, in the county where the suit is brought, and the language employed being used in connection with the direction to the justice of the peace, in case suit is brought before him; to issue a summons directed to any constable of Ms county to execute, is intended to limit Ms jurisdiction to the county where suit is brought, and not as a prohibition to the clerk, or as a limitation of the jurisdiction of the Circuit Court to cases in which the defendant is a resident of the county where suit is brought.
+We think the court below erred in overruling appellant’s demurrer to the pleas, and for that reason the judgment must be reversed and the case remanded.
+Eeversed and remanded..
