@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-06-21"
+citations: ["76 Ill. App. 661"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Barrett and Charles R. Barrett, Partners as Barrett & Barrett, and John Z. Vogelsang v. John T. Boddie."]
+source_url: "https://static.case.law/ill-app/76/cases/0661-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5792316
+cites_cases: ["51 Ill. App. 612", "73 Ill. 61"]
+---
+
+# Barrett v. Boddie
+
+## Majority (Mr. Justice Horton,)
+
+Mr. Justice Horton,
+after making the foregoing statement, delivered the opinion of the court.
+As this case must be remanded for another trial, we do not review the facts further than may seem desirable in considéring the instructions.
+The first instruction given to the jury at the request of appellee is as follows:
+“ To release a tenant from his lease requires the mutual consent of the landlord and the tenant, and unless the jury believe from the evidence that Boddie, the plaintiff, as well as Barrett & Barrett' and John Z. Vogelsang, mutually consented to rescind and cancel the former lease, entered into between them, and that Boddie entered into a new and different lease with John Mahler, then the jury will find for the plaintiff.” :
+As between the parties to this suit, Barrett' & Barrett stood in the relation of guarantors, and were liable only as such. It follows that if appellee and appellant Vogelsang “ mutually consented to resóind- and cancel the former lease,” they could do so without regard to Barrett & Barrett. Or if appellee released appellant Vogelsang from the payment of rent under the lease and from liability therefor, that would release Barrett & Barrett from all liability upon that lease, and would in law be a rescission and cancellation thereof. There is evidence tending to show that appellee did so release Vogelsang. It was therefore error to instruct the jury, in effect, that Boddie and Vogelsang could not rescind and cancel the lease without the consent of Barrett & Barrett. If the principal is not liable, the guarantor will not be. Harts v. Fowler, 51 Ill. App. 612.
+It was also error to instruct the'jury, as was done by this instruction, that they should find for the plaintiff, unless they should find from the evidence not only that the lease had been canceled by mutual consent of the guarantors and the principals, but that the lessor had “ entered into a new and different lease” with another tenant. If appellee and appellant Vogelsang had rescinded and canceled the lease, then it was entirely immaterial, so far as Barrett & Barrett are concerned, whether or not appellee had made a lease to another party.
+' The second instruction given at the instance of appellee is-as follows:
+“ If the jury believe from the evidence that plaintiff, Boddie, executed a lease to the defendants, Barrett & Barrett and John Z. Vogelsang for the store, Ho. 128 South Clark street, and thereafter that John Z. Vogelsang sold out his interest in the lease to H. H. McCuen, and placed him in possession of the premises, and that such change of ownership was not accepted by Boddie as an extinguishment of his original lease to Barrett & Barrett and Vogelsang, and that thereafter, without the consent of Boddie, the said McCuen sold out his interest in the premises to one John Mahler, and placed him in possession thereof, and that afterward the said Mahler fell behind in the payment of the rent, and that Boddie, the plaintiff, accepted from him such rent as he. paid from time to time, these facts would not release the defendants, Barrett & Barrett and Vogelsang, unless the jury believe from the evidence that Boddie; the plaintiff, intended thereby to release said defendants and to surrender the lease signed by them, and that he did intend to and did accept said Mahler in substitution for the original lessees, the defendants, and made a new lease with him in pursuance of such intention.”
+This instruction says to the jury that.if they believe from the evidence certain things enumerated in the instruction to be true, yet that the facts thus found by the jury would not release appellants, unless the jury also believe from the evidence that the appellee intended thereby to release them. Such an enumeration of facts in an instruction should ordinarily include a reference to all the facts in evidence bearing upon the point thus presented. There is evidence in this record tending to show that appellee, by his conduct, accepted Mahler as his tenant in such manner as to release appellants. What he did in that regard is a question of fact for the jury, which should have been included in the grouping of facts in this instruction. An instruction should not limit a finding "to a part of the facts bearing upon the point presented.
+This instruction also says to the jury that if they find the facts as there referred to, the appellants would not be thereby released unless the jury also find that appellee intended thereby to release appellants and made a new lease to Mahler in pursuance of such intention. Whether appellants were released by the acts of appellee does not depend solely upon the question of his intention. He may have so acted as to release appellants without having intended to release them. It is not necessary that there be an express agreement to release a lessee. Such an agreement may be inferred from the conduct of the parties. Fry v. Patridge, 73 Ill. 61.
+But this instruction goes farther and says to the jury that although appellee may have intended by his acts to release appellants, yet that they were not so released unless appellee “ made a new lease with him (Mahler) in pursuance of such intention.” That is not the law.
+Appellee’s fourth instruction is also erroneous. One reason therefor is that it assumes that appellants placed Mahler in possession, of the premises. The testimony is conclusive that they did not, and did not know of it in advance of its consummation. It also says that appellants assumed to pay the rent. That is not correct. Barrett & Barrett were guarantors only.
+These instructions entirely ignore the fact that Barrett & Barrett were only guarantors. There may have been conduct on the part of appellee such as would have released Barrett & Barrett, which would not have operated to release Vogelsang, and there was evidence tending to establish this. But we will refrain from expressing our views further as to the testimony. The errors indicated in the instructions are such that the judgment must be reversed.
+The judgment of the Superior Court is reversed and the cause remanded.
