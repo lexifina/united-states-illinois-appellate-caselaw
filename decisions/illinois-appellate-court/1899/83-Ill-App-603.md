@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-07-11"
+citations: ["83 Ill. App. 603"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Ripley v. William Leverenz, by his Next Friend."]
+source_url: "https://static.case.law/ill-app/83/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5257388
+cites_cases: ["170 Ill. 298", "30 Ill. App. 38", "60 Ill. App. 612"]
+---
+
+# Ripley v. Leverenz
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the court.
+This is an action in trespass on the case, brought by appellee, by his next friend, to recover for injuries inflicted upon him through the alleged negligence of the appellant in driving his team and carriage against and upon the appellee in a public street in Chicago. The second count of the declaration charges that the alleged negligent driving by appellant was willful, wanton and malicious.
+Both counts allege that the plaintiff was fourteen years of age at the time of the injury complained of. The first plea was the general issue, and under that the case was at issue. Afterward, a plea puis darrein continuance was filed, setting up that since the last pleading in the case there had been executed a written release unto the defendant (appellant] by the plaintiff, of all claims and demands for or on account of the cause of action mentioned in the declaration, and that thereby the plaintiff was barred from further maintaining his suit.
+To that plea a demurrer was interposed and sustained, and it was ordered that the plea not being sufficient in law. to bar the further maintaining of the action, the plaintiff ought to recover his damages to be assessed. A jury was thereupon called, and evidence being heard, a verdict of $2,750 was returned in appellee’s favor, and upon that verdict, judgment was rendered.
+It appears by the bill of exceptions, that after the trial judge had announced his determination to sustain the demurrer to the plea, but before the order sustaining the demurrer was entered of record, the defendant moved for leave to withdraw said plea puis and to reinstate the plea of the general issue, which motion was denied; and that after the entry of the order but before the trial commenced, the defendant moved for leave to tile a new plea on the general issue mstanter, which motion was also denied.
+The particular plea puis here, w as of matter arising after the commencement of the suit and after the plea of the general issue. “The general rule is, that a plea puis darrein continuance supersedes all other pleas and defenses in the cause; and, by operation of law, the previous pleas are stricken from the record, and the cause of action is admitted to the same extent as if no other defense had been urged than that contained in this plea. Everything is confessed except the matter contested by the plea puis." Angus v. Trust and Savings Bank, 170 Ill. 298.
+The effect of the plea was to admit plaintiff’s cause of action, and every material allegation of his declaration.
+To avoid the legal consequences of the acts complained of, and confessed by the plea, the plea puis set up the release executed after plea pleaded, and thereby substituted that issue in place of all other defenses presented by the former plea. Such release executed by the minor plaintiff, was properly held, under the demurrer filed to the plea, not to be binding upon the plaintiff, upon the ground that, as appeared by the declaration, it was executed when he was a minor and not sui juris.
+The plea puis so being held obnoxious to demurrer and bad, no question remained in the case except the amount of damages. Ryan v. B. & O. R. R. Co., 60 Ill. App. 612. (Numerous authorities upon pleas puis darrein continuance are collected in the notes to Puterbaugh’s Pl. & Pr., 17th Ed., 244, et seq.)
+But it is urged that the court erred in not permitting the plaintiff to again file the general issue, either by reinstating the former one or by filing a new one. We do not think there was any available error in such respects. The former plea of the general issue had been voluntarily abandoned by plaintiff, and it was in effect stricken from the files. The record does not show that plaintiff tendered any new plea with his motion, and the court was not bound to give him leave generally to file any paper that he might choose to call a plea of the general issue. McFarland v. Claypool, 30 Ill. App. 38.
+Furthermore, upon the assessment of damages the whole circumstances of the case were gone into, and everything was admitted in evidence that was offered, except the release and what was said and took place at the time it was signed, and we do not see that any harm resulted to defendant, by refusing him leave to file a new plea of the general issue. Had such plea been filed, the release, and what was said and done in the giving of it, although admissible as a general proposition under a plea of that kind, would not have been admissible over objection by the minor plaintiff who signed it.
+So far as the damages are concerned, there was evidence tending to show that appellee, though not aware at first of having received serious injury, was, as a direct result of the injury, obliged to give up working for wages as he had been used to do, and was incapacitated from working in his usual avocation and thereby prevented from earning his living by work according to his lot in life. The jury had the' right, therefore, under the evidence, to award substantial damages, and under the second count of the declaration, might, if the evidence in their opinion justified it, award punitive damages. The testimony of the plaintiff’s witnesses made a case that would justify the jury in finding that the conduct of the defendant was grossly wanton and malicious, and the jury had the right to believe the testimony of such witnesses in preference to the witnesses in behalf of defendant. We discover no good reason for disturbing the judgment under the facts of the case.
+We have considered the argument upon the questions of the refusal by the court to admit evidence, and upon the law of the instructions that were given and refused, but we perceive no error therein, and no sufficient reason for prolonging our opinion. The judgment of the Superior Court is affirmed.
