@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 66-88"
+decided: "1967-10-13"
+citations: ["87 Ill. App. 2d 188"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STOUDER, P. J. and ALLOY, J., concur."]
+parties: ["Henry Kerosec and Genevieve Piwonski, Plaintiffs-Appellants, and Peru Steel Erectors, Inc., etc., Intervening Plaintiff-Appellant, v. Steve Yirga, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/87/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2548697
+---
+
+# Kerosec v. Yirga
+
+## Majority (CORYN, J.)
+
+CORYN, J.
+This is an appeal by Henry Kerosec, Genevieve Piwonski, and Peru Steel Erectors, Inc., plaintiffs, from an order dismissing a three-count complaint and rendering judgment for defendant, Steve Yirga. The various pleadings disclose that on May 5, 1962, Kerosec, Piwonski, and Yirga entered into a Preorganization Subscription Agreement providing for the formation of an Illinois Corporation to be known as Peru Steel Erectors, Inc. Each party subscribed to a definite number of shares of common stock in the proposed corporation at ten dollars per share, payable at such time “as the board of directors may determine.” On May 9, 1962, the Secretary of State filed the articles of incorporation, and on May 19, 1962, the first meeting of shareholders and first meeting of the board of directors were held. On May 21, 1962, a stock certificate was issued to the defendant for the total number of shares subscribed by him. On October 15, 1964, the Secretary of State dissolved said corporation.
+The original complaint, containing Counts I and n, was filed July 1, 1963. Count I of this complaint was brought by Kerosec and Piwonski for the use and benefit of Peru Steel Contractors, Inc., against defendant for failure to pay for the stock subscribed by him and issued by the corporation to him. Count II was brought by said individual plaintiffs against defendant for damages to them allegedly sustained by reason of defendant’s breach of the Preorganization Subscription Agreement. Defendant moved to strike Count I on the ground that the corporation must itself bring suit to enforce a subscription agreement, and moved to strike Count II for the reason that it showed on its face that the alleged stock subscription debt was owed to the corporation and not the individual plaintiffs. On June 9, 1966, the corporation filed a motion to intervene for the purpose of filing a complaint against the defendant, this motion was granted, and Peru Steel Erectors, Inc. filed its complaint, labeled Count III, against defendant, alleging breach of the subscription agreement. On August 24, 1966, the trial court entered an order dismissing, without leave to amend, all three counts of the complaint, and entered judgment for the defendant.
+We are of the opinion that the trial court correctly dismissed Counts I and II as we conclude that “The Business Corporation Act,” Ill Rev Stats, c 32, § 157.16, contemplates that after acceptance by the corporation of subscriptions to its shares, any direct action to collect unpaid subscriptions must be brought by the corporation, its receiver or trustee. 13 ILP, Corporations, §§ 103, 105.
+The trial court dismissed Count III for the stated reason that the intervening plaintiff, Peru Erectors, Inc., was no longer in existence, having been dissolved by action of the Secretary of State. Ill Rev Stats, c 32, § 157.-94, states, in part, that “[T]he dissolution of a corporation ... by the issuance of a certificate of dissolution by the Secretary of State . . . shall not take away or impair any remedy available to . . . such corporation . . . for any right or claim existing . . . prior to such dissolution if action ... is commenced within two years after the date of such dissolution. Any such action . . . by . . . the corporation may be prosecuted ... by the corporation in its corporate name.” The record here clearly shows that Count III is an action by a dissolved corporation for an alleged debt, that is, the unpaid amount owed by defendant for stock subscribed in plaintiff corporation, and that this claim by said corporation against the defendant existed prior to plaintiff’s dissolution, and that action was brought thereon within two years of the date of dissolution. The trial court, then, was in error in ruling that this action did not survive the dissolution of plaintiff corporation.
+Defendant further argues that the provisions of the Preorganization Subscription Agreement provide, in substance, that the subscriptions shall be payable on call of the board of directors of plaintiff corporation, and that “there is no allegation in any pleadings in the case at bar that the board of directors ever made a demand or call on the defendant to pay the amount called for in the subscription agreement.” Paragraph 6 of Count III, and Exhibit C attached thereto, allege that said board of directors, at its first meeting on May 19, 1962, adopted a resolution calling for the full payment forthwith of all stock subscriptions. These allegations, we think, are sufficient to meet the standards of the Civil Practice Act. See Ill Rev Stats, c 110, § 33.
+We, therefore, affirm the action of the Circuit Court of LaSalle County in allowing the motion to dismiss Counts I and II, but reverse that portion of said order allowing the motion to dismiss Count III. This cause is remanded to the trial court with directions to reinstate Count III, and to permit the parties hereto to proceed thereon.
+Affirmed in part and reversed in part.
+STOUDER, P. J. and ALLOY, J., concur.
