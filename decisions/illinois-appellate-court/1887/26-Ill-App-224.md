@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-11-18"
+citations: ["26 Ill. App. 224"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Huddleston v. George Francis and John Halpin."]
+source_url: "https://static.case.law/ill-app/26/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4944732
+cites_cases: ["1 Scam. 258", "10 Ill. App. 318", "78 Ill. 101", "83 Ill. 368", "90 Ill. 606"]
+---
+
+# Huddleston v. Francis
+
+## Majority (Pleasants, J.)
+
+Pleasants, J.
+Assumpsit, brought by appellant, on a. promissory note of John Jones and appellees, of October 1,1872, for §1,000, payable one year after date, with interest at ten per cent. Appellees were sureties. Jones died intestate, October 31, 1873. Letters of administration were granted to appellee Francis and another, November 13, 1873, and they qualified on the same day. The note in suit was never presented against the estate of the decedent for allowance to the proper court, and this action was commenced in March, 1887. Under the plea and proof of these facts tiie court below, on a trial without a jury, found the issue and rendered judgment for the defendants.
+By the act in force March 4, 1869 (Public Laws of 1869, p. 305), it was declared: “ That whenever the principal maker of a joint note shall depart this life, it shall be the duty of the payee or assignee thereof, to present the same against the estate of decedent for allowance, in the proper court, within two years after the granting of letters testamentary or of administration on his estate; and if said payee or assignee shall fail or neglect so to do, the surety or sureties on such note shall be released from the payment thereof. Provided, that this act shall not be construed seas to release any surety or sureties from the payment of the whole or any part of such debt that may remain unpaid after the estate of the decedent is fully administered, nor to prevent the holder of such note from proceeding against the surety or sureties at any time before the expiration of two years after the granting of letters testamentary or of administration upon said estate.
+That the enacting clause of this act unqualifiedly releases the surety, if the holder of the note fails to present it for allowance against the estate of the deceased principal within the time therein limited, would seem to be entirely clear from the language employed. And so it has been held. House v. Trustees of Schools, 83 Ill. 368; Curry v. Mack, 90 Ill. 606; Tipton, Adm., etc., v. Corrigan, 10 Ill. App. 318. But it is said that in these decisions the proviso was not alluded to and has not been specifically held to be inoperative, and counsel proceed to argue with great plausibility that the first part of it either has no meaning, or is directly contrary to the purview of the statute and must prevail, as speaking the last intention of the lawgiver, or limits the release, as in the Revising Act of July 1,1874 (R. S., Ch. 132, Sec. 3), to the amount that might have been collected of the estate, if the claim had been presented in proper time.
+We do not undertake to review the arguments nor to establish any particular construction of that portion of the proviso, for the reason that, to our understanding, the decision of the Supreme Court is conclusive as to the effect of the whole act; hut suggest that, although somewhat awkwardly expressed, the intention of the Legislature was to exclude, by the language there employed, the conclusion that might otherwise be drawn from the enacting clause, that the only remedy left to the creditor, even if he filed his claim within the two years, was against the estate. It applies to a case in which a portion of the claim has been paid before the estate was fully administered, and, therefore, a case in which the entire claim was presented for allowance before that event; and two years is the time allowed to complete the administration. If construed to mean that if presented within the proper time and not paid or not fully paid, the sureties shall not be released from the payment of what so remains, it would be entirely consistent with the enacting clause and yet expressly preserve the right previously existing, to sue the sureties after the two years, as the last clause preserves another right, also previously existing, to sue them within the two years, notwithstanding the concurrent remedy against the estate.
+On the questions of fact whether appellee Francis promised appellant to have the claim allowed or to notify him within the two years in ease the court should refuse to allow it without presentation of the note (which was in appellant’s possession in another State), and whether appellees made him a new promise after the expiration of the two years, the court found against the plaintiff and it is conceded there was evidence enough to support the finding. The payment of interest was made by order of the County Court, and not as a maker of the note.
+Judgment affirmed.
