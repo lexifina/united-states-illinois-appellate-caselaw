@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "3—88—0343"
+decided: "1989-02-03"
+citations: ["180 Ill. App. 3d 74"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BERT J. SWINGER et al., Petitioners-Appellants, v. MUNICIPAL OFFICERS’ ELECTORAL BOARD OF THE VILLAGE OF FAIRVIEW et al., Respondents-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/180/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2613935
+---
+
+# Swinger v. Municipal Officers' Electoral Board
+
+## Majority (JUSTICE HEIPLE)
+
+JUSTICE HEIPLE
+delivered the opinion of the court:
+This appeal involves the annexation of approximately 3,000 acres into the Village of Fairview (Village) in Fulton County, Illinois. On November 2, 1987, the corporate authorities of the Village passed an ordinance annexing the acreage into the Village. Thereafter, the appellants filed with the village clerk a petition calling for a back-door referendum on the question of the annexation of the subject property into the Village. Subsequently, on January 5, 1988, objections to the petition for referendum were also filed with the village clerk. The Village then referred the petition • for referendum and the objections thereto to the Municipal Officers’ Electoral Board (Electoral Board).
+After hearings were held, the Electoral Board found that it had subject matter jurisdiction over the controversy. The Electoral Board then went on to declare that the petition for referendum was invalid since the petition failed to meet mandatory structural requirements of section 28 — 3 of the Illinois Election Code concerning the manner in which signers of the petition are to show their residence addresses, and the need for consecutive numbering of the pages of the petition. (Ill. Rev. Stat. 1987, ch. 46, par. 28 — 3.) The Electoral Board further found that the petition for referendum was a “petition for a public question referendum” (Ill. Rev. Stat. 1987, ch. 46, par. 28 — 1), rather than a section 7 — 1—6 petition for referendum on an annexation matter (Ill. Rev. Stat. 1987, ch. 24, par. 7 — 1—6), two entirely distinct and separate matters. Additionally, the Electoral Board found that under the Illinois Municipal Code a section 7 — 1—6 petition calling for a referendum does not apply to a section 7 — 1—8 annexation. (Ill. Rev. Stat. 1987, ch. 24, pars. 7 — 1—6, 7 — 1—8.) The circuit court affirmed the decision of the Electoral Board. We, however, reverse for the reason that the objections to the petition for referendum were not timely filed. Thus, the Electoral Board never acquired subject matter jurisdiction and therefore had no authority to invalidate or even consider the petition for referendum.
+The petition for referendum states on its face that it is a petition circulated and filed pursuant to section 7 — 1—6 and calls for a back-door referendum. Section 7 — 1—6 provides that a petition calling for a back-door referendum shall be filed within 30 days following the date of final Village Board action on the annexation question. (Ill. Rev. Stat. 1987, ch. 24, par. 7 — 1—6.) The final action taken by the Fairview Village Board on the annexation question occurred on November 2, 1986. Consequently, the last day to file a section 7 — 1—6 petition for referendum was on December 2, 1987. Additionally, section 10 — 8 of the Illinois Election Code provides that a petition for referendum shall be deemed to be valid unless objections are made in writing within five business days after the last day for filing the petition. (Ill. Rev. Stat. 1987, ch. 46, par. 10 — 8.) That is to say, by December 7, 1987. The appellees, however, did not in fact file their objections to the petition until January 5, 1988, a period of time well past the December 7, 1987, deadline for filing objections. Accordingly, the objections were untimely.
+Since the Electoral Board never acquired subject matter jurisdiction, nothing flowing from the Electoral Board’s proceedings and the subsequent circuit court affirmance has any validity. The proceedings of the Electoral Board being a nullity, we reverse the order of the circuit court which affirmed those proceedings.
+As a final comment on the question of subject matter jurisdiction, it should also be noted that the Electoral Board committed an initial jurisdictional and classification error when it characterized the petition for referendum as a “petition for a public question,” which is a wholly different matter. (Ill. Rev. Stat. 1987, ch. 46, par. 28 — 1.) While under such an erroneous classification, the objections to such a petition would have been timely filed, the Electoral Board’s characterization of the petition was incorrect. The petition for referendum was on its face designated as a section 7 — 1—6 petition calling for a backdoor referendum on the question of the annexation of the subject property into the Village. It did not seek an advisory referendum on a public policy question.
+Although the above ruling is a complete disposition of the matter, we further note the following: The initial annexation ordinance of the Village was pursuant to section 7 — 1—8 (Ill. Rev. Stat. 1987, ch. 24, par. 7 — 1—8). This section provides that before annexation can occur all of the landowners and a majority of the resident electors must have agreed in advance to be annexed. This form of annexation under the statute contains no provision for a referendum.
+Petitioners sought a back-door referendum on the annexation, however, pursuant to section 7 — 1—6, a statutory section which was wholly inapplicable to the type of annexation accomplished by the Village acting pursuant to section 7 — 1—8. Had correct procedures been followed, the governing body of the Village, the Village Board, would have simply voted to reject the petition for referendum upon its filing as the nullity that it was. Properly, that would have been the end of the matter.
+For the reasons given, we reverse the order of the circuit court of Fulton County.
+Reversed.
+WOMBACHER and BARRY, JJ., concur.
