@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-185"
+decided: "1975-11-13"
+citations: ["33 Ill. App. 3d 626"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Estate of Melinda Suzanne Stark, a Minor."]
+source_url: "https://static.case.law/ill-app-3d/33/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2871810
+cites_cases: ["11 Ill.App.2d 247", "12 Ill.App.2d 473", "16 Ill.App.2d 428", "307 Ill.App. 209"]
+---
+
+# In re Stark
+
+## Majority (Mr. JUSTICE CARTER)
+
+Mr. JUSTICE CARTER
+delivered the opinion of the court:
+Petitioner, Daniel A. Stark, sought to have Lois J. Paddock, the maternal grandmother, appointed guardian of the person and estate of Melinda Suzanne Stark, a minor. In his petition Daniel Stark stated that he was the father of Melinda and that it was necessary to have a guardian appointed because her natural mother, Melanie Stark (nee Paddock), had died in an automobile accident. On September 18, 1974, the trial court ordered the appointment of the maternal grandmother as guardian to be approved upon presentation of a bond.
+Thereafter, the appellant, David Hall, filed a petition to intervene, alleging that he, not Dan Stark, was the natural father of Melinda. The petition also stated that that Melanie Stark married Dan Stark in July of 1972 and that Melinda was bom on December 7, 1972. In the petition the intervenor further recited that Dan Stark was listed as the natural father on Melinda’s birth certificate, but when Dan Stark divorced Melanie Stark in April of 1974, the divorce decree and stipulation specified that no children were bom of their marriage. Both parties signed the divorce agreement. Subsequently, on April 25, 1974, intervenor married Melanie Stark. Melanie Hall (Stark) was killed on August 28, 1974. Melinda resided with intervenor from the date of his marriage until the date (December 31, 1974) custody was transferred to the maternal grandmother, who was appointed guardian by order of the circuit court. No guardian ad litem was appointed for Melinda either before or during the guardianship proceedings.
+On appeal the intervenor raises the following issues: (1) whether the court’s failure to appoint a guardian ad litem for Melinda resulted in prejudicial error; (2) whether the court erred in finding that intervenor was not Melinda’s father, and, because of this finding, erroneously appointed the material grandmother as guardian.
+At trial, intervenor presented evidence seeking to establish that he was the natural father of Melinda Stark. Intervenor Hall met Melanie Paddock in June 1971 and dated her steadily from September, 1971 to March of 1972. Later, in June of 1972, Melanie’s parents informed intervenor that their daughter was pregnant. He met regularly with the Paddocks until the marriage was called off three days before it was scheduled.
+After the child was bom in December 1972, the intervenor called petitioner Dan Stark and asked to see Melinda. His request was refused. Intervenor had first seen Melinda in Tampa, Florida, in October of 1973, when her mother came to live with him. That month the intervenor began supporting Melinda and continued to do so until the trial court appointed Mrs. Paddock guardian and ordered Dan Stark to pay support. After Melanie Hall’s (Stark) death in August of 1974, Melinda was cared for during the day by intervenor’s sister and by Lois Draper, a 50-year-old lady who is a member of intervenor’s church and a friend of his family. Mrs. Paddock also helped care for the child.
+Mr. Paddock, Lois Paddock’s former husband, testified about the events surrounding his adopted daughter’s pregnancy and subsequent marriage to Dan Stark. Prior to the marriage Stark told him he was not Melinda’s father, but believed he would be a good father to the child.
+The court called as its witness Minne Sigite, a probation officer who had conducted an investigation of the possible living situations for Melinda. In reaching her recommendation that Lois Paddock would be the most suitable guardian, the probation officer considered many factors: the ages of the alleged fathers, the possibility of their remarriage, the stability of the possible guardians, condition of their homes, financial status, prior experience in caring for Melinda. Above all, the probation officer testified she weighed who could best care for the child.
+Petitioner Dan Stark testified that he had supported his wife and Melinda during his marriage. He admitted, however, that he had told a number of people that he was not Melinda’s father, but had acknowledged the child as his on the birth certificate and by supporting her. He related the circumstances of an altercation between the intervenor and himself.
+Intervenor contends that the court erred in not appointing a guardian ad litem for Melinda Stark. We disagree, noting the unusual situation that two “fathers” in this case desire to assume the substantial obligations of support of the minor child. The mother and sister of one of these men are also willing to share in child-rearing responsibilities as is the child’s maternal grandmother. With all these parties interested, it is apparent that the child’s interests were adequately represented.
+Nowhere in our statutes is the appointment of a guardian ad litem for the minor made mandatory. (See Ill. Rev. Stat. 1973, ch. 3, § 131 et seq.) An extensive two-day hearing was conducted by the court. Eleven witnesses testified. The probation officer, who had made extensive investigations of all parties, gave testimony regarding the welfare of the child. Because the appointment of a guardian ad litem was under the circumstances unnecessary to protect the interests of the minor child, we find no abuse of discretion by the court in failing to appoint one.
+Cases cited by the intervenor are distinguishable. Doornbos v. Doornbos, 12 Ill.App.2d 473 (abstract opinion), is an abstract decision where the appeal of the State’s Attorney, as intervenor, was dismissed. The trial court there was not reversed for failure to appoint a guardian ad litem. The cited cases of Haskell v. Perkins, 16 Ill.App.2d 428, Kroot v. Liberty Bank, 307 Ill.App. 209, and Blincoe v. Miller, 11 Ill.App.2d 247 (abstract opinion), were adversarial proceedings in which judgment against the minors involved was entered. Such is not the case here.
+The intervenor’s second and final contention is that the court erred in appointing the maternal grandmother as guardian because he had proved that he was the natural father of Melinda.
+The appointment of a guardian is statutorily controUed. (Ill. Rev. Stat. 1973, ch. 3, § 133.) The sole responsibfiity of the trial comt in this cause was to provide for the best interests and welfare of the minor. The comt recognized this responsibility when it stated in its order that “[t]he minor child must be protected first; the feelings and desires of the adult parties to the care are inferior in this regard.” We have reviewed the record and find that the evidence supports the trial court’s findings and appointment of Lois Paddock as guardian of the person and estate of Melinda Stark. The court correctly limited its findings so as not to deny any right of the intervenor to establish his paternity in a collateral proceeding.
+Finally, we bring to appellant-intervenor’s attention Rule 8 of the Uniform Administrative and Procedural Rules for the Appellate Courts:
+“The opinions of the Illinois Appellate Court which have been published in abstract form only, shall not be cited in the briefs of litigants unless the entire text of said abstract opinion is appended to the brief.” Ill. Rev. Stat. 1973, ch. 110A, § 908.
+For all of the foregoing reasons, we affirm the judgment of the Circuit Court of Madison County.
+Judgment affirmed.
+EBERSPACHER and G. MORAN, JJ., concur.
