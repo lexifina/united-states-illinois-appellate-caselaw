@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-02-21"
+citations: ["31 Ill. App. 234"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. H. Tomlin et al. v. A. A. Blunt et al."]
+source_url: "https://static.case.law/ill-app/31/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 861712
+cites_cases: ["110 Ill. 223", "32 Ill. 183", "42 Ill. 425", "43 Ill. 81", "43 Ill. 85"]
+---
+
+# Tomlin v. Blunt
+
+## Majority (Wall, P. J.)
+
+Wall, P. J.
+This was a bill in chancery by appellants against appellees. It averred that appellants had contributed to the erection of a church edifice upon the land described, which land had, by two of the appellants, been conveyed to three of the appellants and two of the appellees, who were designated as trustees of the Walker’s Grove Baptist church, and their successors in office, for church purposes ; that the conveyance was upon the express condition therein written, “ that the church to be situated on said land is to be open at all times, when not used by the Baptist denomination, to all evangelical orders of Christians;” that the subscription list upon which was raised the money to erect the building, provided that “ said house when completed shall be free for the use of all evangelical orders of Christians when not used by the Baptists;” that for some years after the erection of the building it was used by the Baptists and other said orders, until the time mentioned in the bill, when the.regular pastor and minister of the Methodist order of evangelical Christians and a large number of the congregation of said church (including the said complainants in the bill), many of the congregation being of the Methodist denomination, were unable to gain admittance because the defendants in the bill had placed a new lock upon the door, and that on other subsequent occasions said Methodist order had been excluded, and that at the times when such exclusion occurred, the building was not in actual use by the Baptist order; that the defendants were intending and so avowing, to exclude all except the Baptist order from the use of said building, contrary to the terms of the said conveyance. An injunction was prayed restraining the defendants from continuing such interference and by the order of the circuit judge it was granted. The bill prayed for general relief. At the succeeding term of the Circuit Court the defendants interposed a demurrer to the bill. The demurrer was sustained, the bill was dismissed and damages were assessed at $50. From this order and decree an appeal is prosecuted to this court, and the question is whether the bill upon its face presented such facts as called for the relief desired. The appellees argue that the stipulation in the conveyance is repugnant to the grant and is void for that reason. The grant is to certain persons, trustees of the Baptist church, and to their successors in office, “ for church purposes,” and then as if to define and determine what church purposes were intended, it declares that the church building “ is to be open at all times when not used by the Baptist denomination, to all evangelical orders of Christians.” The condition is not only not repugnant but it is clearly consistent with the grant and with the avowed object of the grant.
+Bor is it void because there is uncertainty as to those who may enjoy the use of the building. The term “Evangelical orders of Christians ” is to be understood in its ordinary sense and is by no means indefinite. It is well understood.
+The plain object of the grantors, and of the subscribers to the building fund, was that the house should be used for public worship by all evangelical orders of Christians, the Baptist to have the preference, and when that order was not so using it, any other such order might have the privilege. The grantees, while described as trustees of the Baptist church, were in effect made trustees for all the orders named, and when the Baptist denomination, by or through its trustees, assumed to exclude all others in the way alleged in the bill, the condition was violated. It is not argued that if the other denominations have the right claimed they can get adequate relief in courts of law, but it seems to be supposed that the relief sought is not practicable.
+There may be difficulties in the matter of carrying out the details, but it seems probable that an injunction against the interference named would be sufficient.
+If, however, the court should find there is a disposition to evade the decree, and by factious opposition to prevent the complainants from the enjoyment of their legal, rights, it may appoint a custodian as prayed, or it may resort to such other' expedients as the circumstances indicate. It will not permit its decree to be disobeyed or disregarded. Until the Baptist denomination have the facilities for constant use and do so use the building, it must be free to the other denominations according to the condition in the deed.
+The decree will be reversed and the cause • remanded for further proceedings consistent with this opinion.
+Reversed, and remanded.
