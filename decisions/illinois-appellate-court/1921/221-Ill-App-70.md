@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 25,942"
+decided: "1921-05-03"
+citations: ["221 Ill. App. 70"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gridley and Matchett, JJ., concur."]
+parties: ["Theresa Linehan, Administratrix of Estate of Charles W. Linehan, Deceased, Appellee, v. Almon W. Morton, Appellant."]
+source_url: "https://static.case.law/ill-app/221/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8499275
+cites_cases: ["189 Ill. 165", "228 Ill. 154", "290 Ill. 85"]
+---
+
+# Linehan v. Morton
+
+## Majority (Mr. PresidiNG Justice Barnes)
+
+Mr. PresidiNG Justice Barnes
+delivered tlie opinion of the court.
+This is a suit for damages where a boy about 12 years old (son of plaintiff) met his death as the result of a collision between a bicycle he was riding and an automobile owned and driven by defendant.
+Both vehicles were going east on the south side of an east and west street, the bicycle being nearer to and about 10 feet from the curb. The bicycle was going about 5 miles, and the automobile, as estimated, from 15 to 30 miles an hour. Decedent was pedaling the bicycle and another boy was riding in front of him on its handlebars. The evidence ■ is conflicting whether while the automobile was passing the bicycle the car ran its fender against the bicycle, or whether the latter turned into the fender of the car. The evidence tends to show that both vehicles had been pursuing practically a straight course in lines about 8 to 15 feet apart until just- about the time of the collision.
+It was plaintiff’s theory that driving at such a rate of speed towards and in full view of a young, immature lad in a situation that was manifestly fraught with danger, the defendant was called upon not only to exercise special care in passing him but to sound his horn and thus give the hoy warning, and that defendant’s negligence to observe his duties in these respects was the proximate cause of the accident resulting in the boy’s death.
+It was defendant’s theory that the collision was caused by deceased’s turning his wheel to the north , about the time the car was passing it, and that he was, therefore, guilty of contributory negligence.
+There was evidence tending to support both theories, but so closely balanced that the jury might perhaps have adopted either one. While fair-minded men might reasonably differ as to where the preponderance of evidence lay, that very fact suggests that we are in no position to say that the verdict was manifestly against the weight of the evidence, as we would have to do, to justify reversal thereon.
+In support of the verdict, however, it may be said that the jury in considering the weight to be given the evidence may have taken into consideration that plaintiff’s witnesses were more disinterested and, therefore, perhaps more credible.
+We cannot agree with .defendant’s contention that it was negligunce per se as a matter of law for deceased to have propelled his bicycle while another boy was riding on its handlebars. Such a situation would naturally require the exercise of greater care on his part in controlling the bicycle. But the theory of the defense is not that he lost control of it but that he carelessly and negligently turned it into the path of the car. But, on the other hand, the very situation of the boy in that respect called for the exercise of special care on defendant’s part in passing him. The jury may well have considered that the most ordinary care for the boy’s safety required not only the giving of a warning that the automobile was about to pass him, but of taking the precaution of allowing sufficient room to pass safely. The jury may well have laid stress on the facts that the boy could not see defendant without looking backward, that he was all the time in the line of defendant’s vision, that defendant could see and avoid danger ahead better than the hoy could from behind, that there was plenty of room to pass by him, that his extreme youth and the situation in which he was placed must have suggested to one driving behind him the possible danger of the bicycle deviating from its course. In any event it was a question of fact for the jury to determine under all the circumstances and conflicting evidence whether defendant’s failure to give the boy warning and make a safe detour about his wheel was not negligence, in the speed he was driving, and whether, if under the circumstances the boy did turn his wheel intentionally, it was contributory negligence in the absence of defendant’s giving him any warning.
+It is urged by defendant that the evidence tends to show that the automobile was not exceeding the speed authorized by statute for such a locality. The speed of the car was immaterial^ whatever it was, if defendant was negligent in the respects pointed out.
+It is also urged by appellant that the physical condition of the bicycle was sufficient to indicate that the accident was caused by the bicycle running into the car, but that alone would not, under all the circumstances, be conclusive of contributory negligence.
+It is also urged that the court erred in not granting defendant’s motion for an instructed verdict. In view of the state of the evidence it is clear that the court could not have properly done so.
+Nor was there reversible error in the court’s refusal to direct a withdrawal of the counts predicated on wanton and reckless driving of the automobile. The verdict was a general one and could,- therefore, rest on any good count sufficiently supported by the evidence. But we are not sure that the evidence did not have some tendency to show recklessness. Under conditions attending onr modern swift methods of street locomotion it is somewhat difficult to draw the line between mere negligence and recklessness. But it will be conceded that those employing slower and less easily controlled methods have equal rights in the streets.
+It is also contended by appellant that the declaration does not state a cause of action in that it does not allege the date 'of death, or when the action was begun. The case of Hartray v. Chicago Rys. Co., 290 Ill. 85, is cited on that point. In that case the declaration gave the date of the injury but not the date of the death, and the suit was brought more than a year after the date of the injury. It was held that there was no cause of action, it not appearing that the action was begun within the statutory period of one year, which fact went to the existence of the right of action itself. In the case at bar, however, it appears from the declaration that the injury which resulted in decedent’s death occurred November 14, 1917, and the record shows that summons was issued in the following May, that defendant entered his appearance to the suit in the following June, and that the declaration was filed in the following July, about 8 months after the injury declared upon. The court takes judicial notice of the date of the institution of the suit as it appears on the record or from the mark on the papers. (17 Amer. & Eng. Encyc. of Law 926, and authorities cited.) And it is unnecessary to allege in a pleading facts of which the court will take judicial notice, (Goodman v. People, 228 Ill. 154; Gunning v. People, 189 Ill. 165.) In fact, such matters should not be pleaded. (12 Encyc. PL & Pr. 1.)
+The judgment will be affirmed.
+Affirmed.
+Gridley and Matchett, JJ., concur.
