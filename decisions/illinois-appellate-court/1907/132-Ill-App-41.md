@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No.13,144"
+decided: "1907-03-18"
+citations: ["132 Ill. App. 41"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank L. Miller v. Chicago & Oak Park Elevated Railroad Company."]
+source_url: "https://static.case.law/ill-app/132/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2477652
+cites_cases: ["170 Ill. 520", "209 Ill. 627", "210 Ill. 70", "219 Ill. 626", "221 Ill. 547", "43 Ill. App. 310"]
+---
+
+# Miller v. Chicago & Oak Park Elevated Railroad
+
+## Majority (Mr. Justice Holdom)
+
+Mr. Justice Holdom
+delivered the opinion of the court.
+This is an action of trespass on the case for personal injuries.
+The trial court sustained a general and special de- ' ruurrer to the amended declaration, and plaintiff electing to stand by his amended declaration, the suit was dismissed, and this appeal is prosecuted.
+The relation of master and servant existed between the parties, plaintiff being a conductor on the electrically propelled trains of defendant.
+The amended declaration avers that the trains were operated by means of a highly dangerous and destructive agency, to wit, electricity; that the engine and motor car were equipped with certain machinery, appliances and fixtures for the transmission and conducting of such electricity in the propelling, operation and management of the train. It is further averred that, while plaintiff was engrossed in the work of his employment as a conductor, without knowledge of the danger surrounding him, and while acting with due care and caution for his own safety, the defendant carelessly, wrongfully, negligently and improperly failed and omitted to provide and maintain adequate guards, controllers, means or appliances for controlling or confining the electricity in use in such manner as to prevent its escaping from the machinery and from being precipitated against and coming in contact with plaintiff, and that by means of such failure to do the things specified the electricity escaped from the machinery, came in contact with plaintiff, striking him with great force and power, burning him, etc.
+Three grounds are stated in the special demurrer, three of which are pertinent to this review. They are as .follows:
+“1. It is not alleged in said amended declaration in what respect the defendant was negligent in failing to provide and maintain reasonably adequate guards, controllers, means or appliances for controlling and confining the electricity by which the train mentioned in said declaration was operated.
+“2. The averment of the negligence of the defendant is not sufficiently specific.
+“3. It is not alleged in said amended declaration that the defendant had any notice that the guards, controllers, means and appliances for controlling and confining said electricity were not reasonably adequate to prevent the same from escaping from the machinery, appliances and fixtures in the motor car in said amended declaration mentioned.”
+The averments of this amended declaration disclose that the servant of defendant was a conductor on its motor car, which was operated by electricity. Over this agency, or the mechanism through and by which it was controlled, it may be assumed plaintiff had no duty or power. Being brought into close contact with this dangerous current in the necessary discharge of his duties, a safe place for him to work, so far as this electrical agency is concerned, was the duty of the master to furnish, and such safe place necessitated that the electricity should be so confined and controlled that it would not escape and injure plaintiff while in the discharge of his duties, in the exercise of ordinary care for his own safety, the proximity of the known danger considered. - That duty, we think, was sufficiently and in apt terms averred in this amended declaration, falling, as it seemingly does, within the suggestion of the character of what is a sufficient averment in Klawiter v. Jones, 219 Ill. 626, where the court said: “The specific act or omission relied upon as constituting the breach of duty must be stated in the declaration in order that a cause of action may appear therefrom, such as that the master failed to use reasonable care to furnish a reasonably safe place in which to work, or to furnish reasonably safe machinery, tools or appliances. In Wells v. O’Hare, 209 Ill. 627, it is said: ‘A declaration to recover for negligence'must allege the negligence or omission relied upon to give the right to recover.’ ”
+It is not the function of the declaration to state the evidence, but to state the act or omission relied upon as constituting the breach of duty. C. & E. I. v. Kemmil, 221 Ill. 547. The statement that plaintiff was a conductor on a motor car, the motive power of which was electricity, was a sufficient statement, which in law raised a duty upon the master to so control the electricity in the operation of its cars that it would not injure the servant while discharging.the duties of his employment, in the exercise of due care.
+While agreeing with defendant that the pleader need not allege that it was the duty of defendant to do any particular thing, yet we disagree with its contention that the duty does not appear from the allegation of the environing condition averred in the declaration, which we regard as sufficient in legal contemplation to impose such duty.
+. WTiat particular means should have been adopted to have avoided the escape of the electricity which injured plaintiff need not be stated. The master might select any one he saw fit, whether it was of modern design or not, so long as it was reasonably safe for the purposes to which it was put. The duty to provide a safe place and protection from dangers which can be avoided by the exercise of reasonable diligence and care, is one the law imposes upon the master. A failure in this respect is negligence attributable to the master.
+A failure on the part of defendant to use some device sufficient, in the exercise of due diligence, to guard against an escape of electricity powerful enough to injure the plaintiff, tends, unexplained or unexcused, to impute to defendant a lack of ordinary care, from which a presumption of negligence arises. Com. Elec. Co. v. Melville, 210 Ill. 70. Plaintiff was not required to charge knowledge of the defective condition to defendant, for it is apparent from the position and employment of plaintiff disclosed by the amended declaration, that the condition was one about which the law assumes defendant had notice, for the law cast the duty upon it to keep its machinery in such a condition of safety that it would not injure'its servants or others, to whom negligence from their conduct is not imputable. Crown Coal Co. v. Hiles, 43 Ill. App. 310; C. & A. v. Maroney, 170 Ill. 520.
+The amended declaration is not obnoxious to a general demurrer, and we regard it as invulnerable against the special demurrer interposed. The duty of the master to the servant to furnish a safe place in which to work is sufficiently inferable from the averments of •the amended declaration, as also a breach of this duty resulting in injury to its servant.
+The judgment is reversed and the cause remanded to the Superior Court, with directions to overrule the demurrer to the amended declaration, with a rule on the defendant to plead thereto.
+Reversed and remanded, with directions.
