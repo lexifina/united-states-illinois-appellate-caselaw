@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-06-12"
+citations: ["89 Ill. App. 628"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James K. P. Weaver ats. E. X. Leseure."]
+source_url: "https://static.case.law/ill-app/89/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5280832
+cites_cases: ["141 Ill. 284", "165 Ill. 347", "21 Ill. 223", "45 Ill. App. 236", "63 Ill. 321", "81 Ill. 43"]
+---
+
+# Weaver v. Leseure
+
+## Majority (Hr. Justice Burroughs)
+
+Hr. Justice Burroughs
+delivered the opinion of the court.
+This was an action .of assumpsit tried by jury in the Circuit Court of Moultrie County, in which appellant, E. X. Leseure, sued appellee, James K. P. Weaver, upon a promissory note, which reads as follows :
+“ Canton, Miss., Feb. 7, 1896.
+November 1st, 1898, after date without grace, for value received, I promise to pay to the order of J. M. Tinsley, eighteen hundred and thirty-three (1833.33) dollars, with interest at the rate of 7 per cent per annum from Nov. 1st, 1896, until paid, and ten per cent additional on amount of principal and interest unpaid for attorney’s fees if placed in the hands of an attorney for collection. Payable at P. O., Arthur, 111.
+James K. P. Weaver.”
+And on the back of which is written the following:
+“ Pay Frank Lindley, without recourse. J. M. Tinsley.”
+“ Payment guaranteed to E. X. Leseure and endorsed to him. F. Lindley.”
+The verdict and judgment were for appellee, and appellant brings the case to this court by appeal, and insists that the court erred in the instructions given at the instance of appellee; and that the verdict and judgment are against the law and evidence.
+The defense interposed is (1) that appellee never executed and delivered the note sued upon; (2) that the note was without consideration, and (3) that the payee of the note obtained possession thereof by fraud, and that appellee had notice of the fraud and want of consideration, or of facts that should have put him on inquiry.
+The evidence shows that appellee lives at Arthur, Illinois, and Tinsley, the payee of the note, lives at Canton, Mississippi, where appellee went in the fore part of 1896, and while there he and Tinsley entered into negotiations to make a trade by which appellant was to get 1,100 acres of land in Mississippi for a house and lot in Arthur, Illinois, and $1,833.33. In these negotiations appellee signed the note in question (except that the time when it was to bear interest, the rate of interest and the per cent of attorney’s fees, were left blank) and left it in the hands of one Platt, an attorney at Canton, Mississippi; it being understood that Platt was to keep the note until appellee notified him to turn it over to Tinsley, when he was to fill in the blanks according to the directions which appellee would give him. The trade was never consummated, but Tinsley represented to Platt that he wanted the note to destroy it, and Platt gave it to him.
+Tinsley formerly lived in Illinois, and had traded considerable land in Mississippi to persons living in Vermilion county, Illinois, and Lindley, an attorney at Danville, Illinois, knew that fact.
+On October 6, 1898, Tinsley offered to sell Lindley the note, and the latter, not being acquainted with the financial standing of appellee, wrote to a firm, of attorneys at Sullivan, Illinois, inquiring as to appellee’s financial worth and general character, to which they replied, “ Appellee owns a farm of 200 acres of good land southwest of Arthur, in Moultrie county, Illinois, upon which there is a small mortgage, also residence property in Arthur, Illinois; is financially responsible and entitled to credit, and is not indebted very much; he also owns 120 acres of land south of Sullivan; and what he owes is a balance of purchase price on it.” After receiving that information, Lindley, on October 10, 1898, purchased the note, the blanks being filled so as to read as appearing in copy of note in fore part of this opinion. Tinsley represented to Lindley that the note was given as a part of the purchase money of 600 acres of Mississippi land which he sold to appellee. On October 14, 1898, Lindley sold, assigned and delivered the note to appellant and guaranteed the payment of the same for $2,065; and as an /inducement for him to purchase it, showed him the information he had received from the attorney at Sullivan concerning the financial condition of appellee.
+Appellant lives at Danville, Illinois, is a money loaner and capitalist. Neither Lindley nor appellant had any other notice than the foregoing concerning the delivery of the note or its consideration before they purchased it as aforesaid.
+Appellee contends that the evidence shows appellant had notice of sufficient facts respecting the infirmities of the note to put him upon inquiry concerning them before purchasing it, and by not making such inquiry and discovering them, he has been guilty of bad faith in purchasing the note, which will preclude his recovering upon it.
+The only evidence of any notice of that kind is the letter from the attorneys of Sullivan, in which they say appellee was not indebted much, and that was for a balance of purchase price of 120 acres of land, which falls far short of being sufficient for that purpose. It is uncontradicted that appellant purchased the note before its maturity, paying full value for it, except a discount of $25, and had no actual notice of any of the infirmities of the note which appellee, the maker, now claim exists, therefore his right to recover does not depend upon the exercise of ordinary prudence in investigating the question of possible defenses to the note by the maker, of which he had no actual notice. Notice of facts that would put an ordinary prudent person upon inquiry, or excite suspicion, is not sufficient to defeat a, recovery; that result can only be produced by bad faith on his part (see DeLong v. Schroeder, 45 Ill. App. 236; Murray at el. v. Beckwith, 81 Ill. 43; Matson et al. v. Alley, 141 Ill. 284; and Bemis v. Horner et al, 165 Ill. 347) and no bad faith is shown by the evidence.
+In this view of the case the court improperly gave all of appellee’s instructions, which, when taken as one charge, were to the effect that the jury should find for appellee if they believed from the evidence that appellant when he purchased the note had notice of such facts as would cause a reasonable and prudent person to make inquiry concerning the want of consideration for the note, or the fraudulent manner in which the possession of the note was obtained by the payee thereof and wrongfully put in circulation.
+In support of the verdict and judgment, it is contended by counsel for appellee that the evidence shows the note was changed in a material respect after it was executed by appellee; but in answer to that contention, we think, inasmuch as the evidence also shows that when appellee left the note in the hands of Platt, he negligently left blank spaces in the same where could easily be written the time when interest was to commence, the rate of interest it should bear, and the per cent of attorney’s fees to be paid, so they could be inserted in a manner not to be detected, and that they were written there after the note was signed; such negligence on the part of the maker of commercial paper, before it gets into circulation, will usually preclude him from taking advantage of such alteration when sued by a l)onafide purchaser for value before maturity, and who had no actual notice of such alteration. Yocum v. Smith, 63 Ill. 321; Young et al. v. Ward, 21 Ill. 223.
+Because the court improperly gave each of the five instructions requested by appellee, we reverse the judgment and remand the case for a new trial.
+Judgment reversed and case remanded.
