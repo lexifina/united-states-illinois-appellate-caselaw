@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "57265"
+decided: "1973-06-13"
+citations: ["12 Ill. App. 3d 935"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Dezell McCray, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/12/cases/0935-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2852944
+cites_cases: ["103 Ill.App.2d 342", "113 Ill.App.2d 231", "219 N.E.2d 662", "221 N.E.2d 133", "221 N.E.2d 232", "238 N.E.2d 205", "238 N.E.2d 378", "243 N.E.2d 628", "246 N.E.2d 287", "250 N.E.2d 152", "252 N.E.2d 29", "266 N.E.2d 330", "268 N.E.2d 378", "269 N.E.2d 720", "277 N.E.2d 866", "282 N.E.2d 273", "282 N.E.2d 742", "35 Ill.2d 564", "388 U.S. 218", "388 U.S. 263", "388 U.S. 293", "4 Ill.App.3d 888", "40 Ill.2d 146", "42 Ill.2d 139", "42 Ill.2d 508", "47 Ill.2d 402", "48 Ill.2d 239", "48 Ill.2d 56", "5 Ill.App.3d 89", "50 Ill.2d 104", "72 Ill.App.2d 419", "74 Ill.App.2d 483", "95 Ill.App.2d 457"]
+---
+
+# People v. McCray
+
+## Majority (Mr. JUSTICE ADESKO)
+
+Mr. JUSTICE ADESKO
+delivered the opinion of the court:
+Defendant, Dezell McCray, was charged with robbery. Following a bench trial, defendant was found guilty and sentenced to four years probation, the first nine months of probation to be served in the House of Correction. On appeal defendant contends that:
+(1) The single identification of the defendant was vague;
+(2) The victim’s highly emotional state precluded adequate observation of the offender;
+(3) One-man showup of defendant while in police custody denied him due process of law; and
+(4) The trial court failed to consider his alibi.
+On February 23, 1971, at 9:00 P.M., Mrs. Antoinette Brannigan drove her car into her garage. As she got out of the car she noticed a man standing near the doorway. Mrs. Brannigan testified that the man stood facing her two feet away. She further testified that the man pushed her to the ground and crouched over her for several minutes with his face directly over her face. She testified that she screamed as the assailant was choking her with one hand and trying to pull down her underclothes with the other. Suddenly the assailant got up, took Mrs. Brannigan s purse from the car and fled. The purse was later found at 1048 West Garfield Boulevard. In further testimony, Mrs. Brannigan stated that the lighting conditions in the garage were very good. Mrs. Brannigan viewed approximately ten photographs and picked out defendant’s picture. Later, Mrs. Brannigan went to the police station and positively identified the defendant as the assailant. Defendant lived at 1052 West Garfield Boulevard, which is next door to where the stolen purse was found.
+Allen Smith, a defense witness, corroborated defendant’s alibi testimony that they were at the Amber Lounge when the robbery occurred. Smith also testified that defendant wore a moustache and goatee on February 23, 1971.
+Defendant’s first contention on appeal was that his identification by a single witness was vague. Positive identification by a single witness who had ample opportunity for observation is sufficient to support a conviction. (People v. Clarke, 50 Ill.2d 104, 110, 277 N.E.2d 866.) The cases relied upon by the defendant (People v. Marshall, 74 Ill.App.2d 483, 221 N.E.2d 133; People v. Martin, 95 Ill.App.2d 457, 238 N.E.2d 205; People v. Fancy, 72 Ill.App.2d 419, 219 N.E.2d 662 and People v. Reed, 103 Ill.App.2d 342, 243 N.E.2d 628) differ significantly from the case at bar. In Marshall, Fincy and Reed, the witnesses did not have a chance to, or faffed to observe, the face of the perpetrator of the offense. In Martin the fighting conditions were poor at the site of the crime and the witness described one of the defendants as being about 5 feet 7 inches taU, while the defendant in question was actually 6 feet 4 inches tall.
+In the case at bar, the complaining witness had an excellent opportunity to view the assailant’s face during the robbery. Mrs. Brannigan testified that the lighting conditions in the garage were very good. She stated that the two overhead garage fights were on when the robbery took place. She also testified that the robber stood facing her two feet away and that she stared at her assailant’s face for the few minutes he was on top of her.
+Defendant and Smith testified that defendant had a moustache and goatee at the time the robbery occurred. Mrs. Brannigan testified that her assailant was clean shaven. This conflict in testimony over whether defendant had a moustache and goatee at the time of the robbery is a credibility question for the trier of fact. (People v. Jones, 4 Ill.App.3d 888, 891, 282 N.E.2d 273.) Furthermore, this is just one of the factors to be taken into consideration in analyzing the identification.
+We find that the identification testimony of the complaining witness was clear and positive and therefore could not characterize defendant’s identification by this witness as vague or uncertain.
+Defendant’s second contention on appeal was that the victim’s highly emotional state precluded adequate observation of the offender. Upon reviewing the record we find that there is no evidence to support this contention.
+Defendant’s third contention on appeal was that the one-man showup of defendant while in police custody denied him due process of tire law. In People v. Sanders, 5 Ill.App.3d 89, 282 N.E.2d 742, the court held at page 93:
+“The practice of showing suspects singly to persons for the purpose of identification, and not as part of a lineup, has been widely condemned. (Stovall v. Denno, 388 U.S. 293, 302; People v. Gardner, 35 Ill.2d 564, 572, 221 N.E.2d 232, 236.) However, whether due process has been denied depends upon the totality of the circumstances. (Stovall v. Denno, 388 U.S. 293.) Stovall requires that ‘a defendant so claiming must prove that the confrontation conducted * * * was so unnecessarily suggestive and conducive to irreparable mistaken identification that he was denied due process of law.’ People v. Blumenshine, 42 Ill.2d 508, 511, 250 N.E.2d 152, 154; People v. Nelson, 40 Ill.2d 146, 150, 238 N.E.2d 378, 381.
+We agree that there was no need for the police in the instant case to resort to a show-up procedure when the defendant was available for a fair lineup. Also to be condemned is the conduct of the police in informing a robbery victim that they think they have the robber before the victim is given an opportunity to view the suspect.
+Even if we were to determine that the pre-trial confrontation was grossly suggestive, the in-court testimony of the identifying witness would still be admissible so long as the record clearly revealed that the witness’ prior observation of defendant was sufficient to serve as an independent basis for his in-court identification. (People v. Cook, 113 Ill.App.2d 231, 252 N.E.2d 29. See also People v. Perry, 47 Ill.2d 402, 266 N.E.2d 330; People v. Bey, 42 Ill.2d 139, 246 N.E.2d 287.) ‘If the witness had an adequate opportunity to observe, and there is little likelihood that the procedures used led to a mistaken identification, the conviction based on a subsequent in-court identification will not be set aside.’ People v. Fox, 48 Ill.2d 239, 246, 269 N.E.2d 720, 725. See also United States v. Wade, 388 U.S. 218; Gilbert v. California, 388 U.S. 263.”
+In the case at bar, the victim had ample opportunity to observe the defendant during the robbery. The victim and defendant were face to face for a few minutes under very good lighting conditions. Following the robbery, Mrs. Brannigan was able to pick out defendant’s picture. Based on all these circumstances, we conclude that Mrs. Brannigan’s positive in-court identification was based upon this independent origin and free from the taint of any suggestive showup.
+Defendant’s fourth contention on appeal was that the trial court failed to consider his alibi. There is no obligation on a trial court to believe alibi testimony over positive identification of an accused, even though the alibi testimony may be given by a greater number of witnesses. People v. Catlett, 48 Ill.2d 56, 64, 268 N.E.2d 378.
+It is the function of the trier of fact to determine the credibility of the alibi testimony. The evidence which the trial court believed proved the defendant guilty beyond a reasonable doubt.
+For the foregoing reasons, the judgment of the Circuit Court of Cook County is hereby affirmed.
+Judgment affirmed.
+BURMAN, P. J., and DIERINGER, J., concur.
