@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "54489"
+decided: "1971-12-13"
+citations: ["3 Ill. App. 3d 121"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Jessie Carter, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/3/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2837483
+cites_cases: ["205 N.E.2d 749", "56 Ill.App.2d 159"]
+---
+
+# People v. Carter
+
+## Majority (Mr. JUSTICE LYONS)
+
+Mr. JUSTICE LYONS
+delivered the opinion of the court:
+Following a bench trial, Jessie Carter was convicted of the offense of aggravated battery (Ill. Rev. Stat. 1965, ch. 38, par. 12 — 4). Judgment was entered on the finding and he was sentenced to a term of not less than two nor more than three years in the Illinois State Penitentiary. On appeal he contends that the evidence presented on the issue of self-defense was, at a minimum, sufficient to create a reasonable doubt of guilt and that the trial court misapprehended the law with respect to the duty of one who is assaulted to retreat.
+The evidence presented by the State established that Charles McKinney was, without apparent provocation, shot by the defendant, a bartender in a lounge in which McKinney was a customer. As a result of the shooting, McKinney lost the sight of his left eye, suffered a broken finger, and received permanent scars.
+Defendant does not deny the shooting. At trial, however, he testified as follows in an attempt to establish self-defense. McKinney and two other men entered the establishment at approximately 8:45 P.M. on the evening in question. After they had been served a drink, McKinney offered to wager defendant that he could get a dog to walk the bar in ten seconds. Defendant attempted to accept the wager, but when it appeared to McKinney that he was not to risk his own funds on the wager it was called off. A short while later McKinney again offered defendant a wager, this one involving McKinney’s physical attributes. Again nothing came of the offer since defendant proposed to cover the bet with funds other than his own. (Apparently he intended to use the money from the cash register.) One of McKinney’s companions then departed. When they had been on the premises for an hour, the other companion departed, stating that he was going to get something to eat.
+McKinney then attempted to start a conversation with a woman who was seated at the bar. Defendant was nearby washing glasses when a record having something to do with a “do right woman” began to play on the juke box. Defendant commented that if a woman were a “do right woman” she would have a “do right man.” McKinney volunteered, “I got one” to which defendant responded, “You haven’t got nothing.” The conversation in the bar had been friendly up to this point, but McKinney, apparently took umbrage at defendant’s comment and threatened to punch him in the eye. Defendant went about his business of waiting on other customers and washing glasses, several times admonishing McKinney to “forget it.” McKinney was not pacified however, and when defendant offered to buy him a drink and placed one before him, he knocked it over saying, “I’ll buy you.”
+McKinney continued to voice the threat and defendant persisted in his advice that he forget it. Finally defendant said to McKinney, “go ahead and punch me.” Jumping off his stool, McKinney struck defendant in the face, causing him to fall backwards against the rear area of the bar. He held his face in his hands as he fell.
+Defendant then testified as follows:
+“# s # I glanced Up and he was laying about like this, and I reached under the bar and grabbed the pistol and shot twice, and I saw his hand coming up from below the bar, thinking he was pulling the weapon or something, and I saw his hand come up and I shot the gun again and hit him in the hand, and he fell.
+Later defendant further testified:
+Q. When you shot the firearm, how many shots did you shoot?
+A. When I first grabbed the pistol I shot twice, pow, pow. Then I saw his arm come up.
+Q. Did you see any effects of the shot?
+A. No, he didn’t move. He didn’t move at all when I first shot, so I didn’t no [sic] whether I did or not. He just stood there, and I saw his hand come up, and I didn’t know what was in it, so I shot at his hand and hit him in the hand. # *
+Edwin Hill, called by the defense, testified that he was present at the lounge when the shooting occurred. Immediately prior to the shooting, he heard profanities exchanged between McKinney and the defendant. When he looked in their direction he saw defendant fall against the bottles at the rear area of the bar. McKinney appeared to be preparing to climb over the bar and defendant reached for a gun and fired.
+Müdred Diane Jasper also testified on behalf of the defendant. She was in the lounge on the evening in question and heard harsh words between defendant and McKinney concerning a record which had been playing on the juke box. She did not see McKinney strike defendant, but saw him reaching over the bar. When she heard shots she left.
+Taking defendant’s testimony at face value we cannot say that the judgment is not supported by the evidence. While it does appear from defendant’s testimony that he was struck by McKinney, that same testimony contains nothing from which it might reasonably be inferred that great bodily harm was about to be inflicted upon him or that he was threatened with a force likely to cause such harm.
+The second portion of defendant’s testimony set out above is particularly damning. He testified that after having been stricken once by McKinney he twice fired at him. McKinney did not move. Then, when he began to draw his hand from below the level of the bar into defendant’s sight, defendant fired again without knowing whether that hand contained a weapon capable of causing great bodily harm and without any other indication of a menacing motion in his direction.
+In People v. Williams, 1965, 56 Ill.App.2d 159, 205 N.E.2d 749, cited by defendant, this court considered the requisites of the defense of exoneration (Ill. Rev. Stat. 1963, ch. 38, par. 7 — 1 which is identical to the corresponding section in the 1965 statute). It was there stated at pages 165 — 6:
+“* * *, we now turn to the elements, which if present, justify the use of force in defense of a person. These elements are:, (1) that force is threatened against a person; (2) that the person threatened is not the aggressor; (3) that the danger of harm is imminent; (4) that the force threatened is unlawful; (5) that the person threatened must actually believe: (a) that a danger exists, (b) that the use of force is necessary to avert the danger, (c) that the kind and amount of force which he uses is necessaiy; and (6) that the beliefs above are reasonable. There is a further principle involved, when, as in the instant case, the defendant uses deadly force. This principle limits the use of deadly force to those situations in which (a) the threatened force will cause death or great bodily harm or (b) the force threatened is a forcible felony.”
+Here the trial court may have reasonably concluded that defendant was proven guilty of the offense charged beyond a reasonable doubt after considering defendant’s evidence and determing that defendant was not threatened with an unlawful use of force which was capable of causing death or great bodily harm. The trial court’s comment to the effect that he did not believe the use of deadly force was justified in the instant case indicates to us that such a finding was made.
+Defendant’s contention that tihe trial court misapprehended the law with respect to the duty of one assaulted to retreat and that this misapprehension was responsible for the finding of guilty is not borne out by the record. While it is true that the trial court did at one point mention that prior to the confrontation which resulted in the shooting defendant had gone to a far end of the bar and returned, this comment was made as part of a summary of the evidence presented only. There is no basis from which it may be inferred from the fact that the comment was made that the trial court believed that defendant was under a duty to retreat after he was struck. On the contrary, as noted above, it is apparent from the comments of the court that the finding of guilty was based on the court’s determination that the degree of force used was not justified. Accordingly, the judgment of the Circuit Court is affirmed.
+Judgment affirmed.
+BURKE, P. J., and GOLDBERG, J., concur.
