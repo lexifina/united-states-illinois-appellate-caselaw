@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "74-282"
+decided: "1976-02-20"
+citations: ["35 Ill. App. 3d 939"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. CINDY BARRETT et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/35/cases/0939-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5305175
+cites_cases: ["418 U.S. 488", "51 Ill. 2d 220"]
+---
+
+# People v. Barrett
+
+## Majority (Mr. JUSTICE RECHENMACHER)
+
+Mr. JUSTICE RECHENMACHER
+delivered the opinion of the court;
+Defendants appeal from their conviction on August 14, 1974, of direct (criminal) contempt of court and the sentence of 100 days in the county jail which was imposed on each of them.
+The issues presented are (1) whether the trial judge in whose presence the contemptuous acts were committed should have recused himself from final determination of the charges and (2) whether under the circumstances here the sentences should be reduced to 30 days, being the time served by them before their release on bond.
+Defendants, each of whom were then 18 years of age, were among the front row spectators in the court room on August 13, 1974, at the preliminary' hearing wherein Lawrence Barrett was charged with bail bond jumping. (Cindy Barrett is Lawrence’s sister and Denise is his wife.) At about 4 p.m. on that day the trial judge found probable cause to believe that Lawrence had committed the offense and remanded him to the custody of the sheriff. After colloquy between Lawrence’s counsel and tire judge, Lawrence made several disrespectful remarks to the trial judge. The judge found him in contempt of court and ordered that Lawrence be brought before the bench. Lawrence struggled with the deputies and was eventually subdued on the floor. In the meantime, Cindy and Denise began shouting; the trial judge and the bailiff told the defendants to sit down and be quiet. Defendants then jumped over the court room rail bar shouting obscenities and profanities and ran to Lawrence’s aid. Denise struck the deputy who was holding Lawrence as well as the deputy who was trying to restrain Cindy. Cindy likewise struck both deputies.
+Defendants were then subdued and removed from the court room and the trial judge adjourned court until the following morning. Defendants remained in custody over night and no bond was set. The following morning defendants were informed by the court that they were charged with direct contempt, the trial judge appointed counsel to represent them and set tire matter for hearing later that afternoon.
+At the hearing defendants’ counsel moved that the trial judge “excuse himself from this case.” The motion was denied. The defendants then pleaded not guilty. The trial judge stated that he had requested the assistant State’s Attorney to examine witnesses and himself proceeded to make a statement as to what he observed. The prosecutor examined the State’s witnesses and defendants were permitted to cross-examine. Tire defendants called witnesses to testify on their behalf and they also testified in their own behalf. At the conclusion of the hearing the trial judge found defendants guilty of direct contempt and sentenced each of them to 100 days in the county jail. Defendants’ motion to stay the sentence was denied but the trial judge reduced their bond to $7000. Defendants were incarcerated until September 12, 1974 (30 days), on which date they were released on bond after we granted defendants’ motion to reduce the bond to $1000.
+Defendants argue that the trial judge should have recused himself from hearing the contempt charge because he was personally reviled by the contemnors, and that by delaying the proceeding until the following day, the trial judge acknowledged that summary disposition was not necessary to preserve decorum. Our examination of the entire record, including the trial judge’s statement as to defendants’ actions and utterances in the court room, shows conclusively that the trial judge did not consider himself the target of defendants’ profanities and obscenities, and that in fact defendants were directing such remarks at the deputies and bailiffs, who were attempting to control Lawrence, rather than toward the judge. The record establishes that the trial judge did not become embroiled in a running controversy, as in Taylor v. Hayes, 418 U.S. 488, 41 L. Ed. 2d 897, 94 S. Ct. 2697, on which defendants rely. Moreover, there was no likelihood or appearance of bias; indeed, any such possibility was commendably removed here by the trial judge’s appointment of counsel to represent the defendants and by his conduct of the hearing on the charge of contempt. Defendants were allowed to cross-examine the State’s witnesses and to present their own witnesses and to testify in their own behalf. The trial judge maintained throughout the hearing a calm detachment and reached a fair adjudication. Although the trial judge could have recused himself if he deemed it advisable, we are unable to say that he was required under the circumstances to do so. (See People v. Jashunsky, 51 Ill. 2d 220.) The contempt conviction of defendants is therefore affirmed.
+The defendants have already served 30 days. When the incident occurred, August 13, 1974, Denise had a six-month-old baby and Cindy was five months pregnant. Their affidavits dated February 20 and 21, 1975, state that Denise’s child was then over one year old; that Cindy’s child was then one month old; that Denise was then employed (after being on Public Aid), and that Cindy was then a recipient of Public Aid and taking care of her child. The record established that defendants’ original outbreak in court was a request directed to Lawrence “to be quiet” and “to stop it” (his behavior). It was only after a deputy grabbed and was attempting to subdue Lawrence that the defendants began yelling obscenities and striking at the bailiffs.
+Under the circumstances both defendants have been punished sufficiently by serving 30 days in the County Jail. We therefore modify the sentence to the time served and as so modified the judgment is affirmed.
+Judgment affirmed; sentence modified.
+T. J. MORAN, P. J., and DIXON, J., concur.
