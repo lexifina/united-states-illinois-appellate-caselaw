@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-504"
+decided: "1980-10-15"
+citations: ["89 Ill. App. 3d 145"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. STEVEN PITTS, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/89/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5542224
+cites_cases: ["15 Ill. 2d 450", "155 N.E.2d 565", "166 N.E.2d 91", "19 Ill. 2d 151", "221 N.E.2d 127", "291 N.W.2d 337", "75 Ill. App. 2d 282"]
+---
+
+# People v. Pitts
+
+## Majority (Mr. JUSTICE SCOTT)
+
+Mr. JUSTICE SCOTT
+delivered the opinion of the court:
+Steven Pitts, the defendant, was indicted for the offenses of attempt rape, intimidation, aggravated battery, and unlawful restraint. After trial by jury in the Circuit Court of Will County he was convicted of these offenses. The trial court vacated the convictions of intimidation and unlawful restraint and then sentenced the defendant to terms of 10 years for attempt rape and five years for aggravated battery and said terms of imprisonment were ordered to run concurrently with each other but consecutive to sentences the defendant was then serving.
+It is the defendant’s contention that his conviction for attempt rape should be reversed since there was no evidence which would support a conclusion that he had a specific intent to have sexual intercourse with complaining witness as opposed to some other form of sexual activity.
+A determination of the issue presented by the defendant necessitates a recitation and analysis of the pertinent evidence adduced at the defendant’s trial. On January 16,1979, Tina Loos was employed as a counselor at the Joliet Correctional Center. Upon arriving at work at approximately 8 a.m. on this date she went directly to her office, and almost simultaneously with her arrival a prison resident, later determined to be defendant, walked into the office. His manner and failure to answer an inquiry concerning an institutional pass made Ms. Loos apprehensive. She attempted to move toward the door of the office; however, the defendant grabbed her and told her that she was not leaving. As Ms. Loos attempted to retreat toward her desk the defendant knocked her to the floor and began hitting her as she screamed and struggled. The defendant told her not to scream and threatened to kill her. The defendant attempted to get his hands underneath the victim’s blouse, he felt her breasts, pulled at her blouse and grabbed at her blue jeans, but it was the testimony of the victim that she did not get the impression that the victim was attempting to open the snap on the jeans. During her struggle with the defendant the victim rolled from her side to her back and then rolled over so that she was lying face down on her stomach. She was told by the defendant to stay in that position, and he then while lying on top of her moved his body up and down until he experienced an orgasm. The defendant then fled but was apprehended within 30 minutes.
+The testimony of the victim Loos was corroborated in many respects by correctional officers and other personnel. A nurse testified that after the attack the victim Loos had bruises over an eye, on a knee, and that her nose and mouth were scratched and swollen.
+In determining the issue presented in this appeal we deem it necessary to direct our attention to certain statutory provisions. The statutory definition of “attempt” is as follows:
+“A person commits an attempt when, with intent to commit a specific offense, he does any act which constitutes a substantial step toward the commission of the offense.” Ill. Rev. Stat. 1977, ch. 38, par. 8—4(a).
+The defendant was charged inter alia with attempting to commit a specific offense, to-wit, rape. In 1961 our legislature substantially narrowed the definition of the offense of rape. No longer would the definition of rape include a number of various kinds of sexual activity. Prior to 1961 the statute (Ill. Rev. Stat. 1959, ch. 38, par. 490) defining rape used the term “carnal knowledge,” which our courts held to include not only sexual intercourse but other unnatural acts, i.e., sodomy and crimes against nature. (See People v. Knapp (1959), 15 Ill. 2d 450, 155 N.E.2d 565.) Since 1961 to the present time the offense of rape is committed by only one type of activity, to-wit, sexual intercourse.
+The pivotal question for determination in this appeal is whether the defendant intended to have sexual intercourse with the victim Loos. In answering this question the utterances and acts of the defendant at the time of his assault upon the victim must be examined. Such an examination discloses that the language of the defendant consisted of threats of harm to the victim if she continued screaming. None of the defendant’s statements ordered the victim of his assault to disrobe, nor did they in any way refer to the act of sexual intercourse. The acts of the defendant in attempting to get underneath the woman’s blouse and his fondling of her constituted lewd conduct. An indecent assault, however, will not warrant a conviction for the offense of attempt rape. See People v. Bush (1960), 19 Ill. 2d 151, 166 N.E.2d 91, and People v. Cain (1966), 75 Ill. App. 2d 282, 221 N.E.2d 127 (abstract opinion — opinion set forth in full in brief of defendant).
+In the instant case it is indisputable that the defendant sought sexual gratification from victim Loos; however, it would be pure speculation and conjecture on the part of this court to hold that he was possessed with the intent to commit the specific offense of rape. As stated, that intent must be established by his acts or statements and they fail to support such a conclusion. The evidence fails to establish that the defendant made any overt move toward the victim’s genital area. (See State v. Baldwin (Iowa 1980), 291 N.W.2d 337.) It should further be noted that the defendant expressed satisfaction with the victim’s position when she was lying on the floor of the office face down and fully clothed. It is also noteworthy that the defendant did not disrobe or expose himself. Briefly, the victim was under his dominance and control, but his actions can only denote that he sought sexual satisfaction in a manner other than engaging in sexual intercourse.
+For the reasons stated the defendant’s conviction for the offense of attempt rape is reversed. His conviction for the offense of aggravated battery and the sentence imposed thereon is affirmed.
+Affirmed in part and reversed in part.
+ALLOY, P. J., and STOUDER, J., concur.
