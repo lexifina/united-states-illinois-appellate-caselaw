@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-11-01"
+citations: ["31 Ill. App. 496"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Metropolitan Life Insurance Company v. George Broach."]
+source_url: "https://static.case.law/ill-app/31/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 861630
+cites_cases: ["11 Ill. 534", "11 Ill. 85", "2 Ill. App. 481", "26 Ill. 53", "27 Ill. 345", "31 Ill. 295", "4 Scam. 400", "47 Ill. 438", "8 Ill. App. 45", "83 Ill. 92", "89 Ill. 581"]
+---
+
+# Metropolitan Life Insurance v. Broach
+
+## Majority (Green, J.)
+
+Green, J.
+The error assigned, is the ruling of the Circuit Court, sustaining plaintiff’s motion, striking said cause from the docket, and rendering judgment against the defendant; the error is well assigned. The cause was properly pending in the Circuit Court on defendant’s appeal, and for that reason should not have been stricken off; also the motion .of plaintiff was not made in apt time, and for that reason should have been denied. The only appeal taken from the justice’s court, so far as either of his transcripts disclose, was taken June 27, 1888, to the Circuit Court. This appeal was perfected by defendant, but the appeal bond being lost, the date of its approval is not shown, but from the use of said words “ appeal taken,” it is fairly to be inferred this appeal to the Circuit Court was perfected June 27th. As against this inference Flannigan states in his affidavit, defendant perfected its appeal July 14, 1888, but he does not show any means he had of knowing that fact, and his statement is contradicted by the transcript. If the further statement in his affidavit be true, “ that plaintiff perfected his appeal June 28th,” he was then advised, or might have been by examining the justice’s docket, that an appeal had already been taken to the Circuit Court, and the law required him to appeal to the same court and not to the city court, if he then desired to take an appeal. But it is said the appearance of defendant in the city court gave that court jurisdiction of its ■ person, and precluded it from the right to a trial or insisting upon the retaining of the cause in the Circuit Court on his appeal. This is not our view of the matter; the defendant learning of plaintiff’s appeal to the city court, appeared, and in order to try the cause there, had the dismissed appeal reinstated and asked leave to file a set-off, but plaintiff at once had his appeal dismissed, for what reason other than that he feared a tr'al does not appear; the court thus, at the instance of plaintiff, surrendered all the jurisdiction it ever acquired over the defendant or the cause, and without awarding a procedendo, or entering a judgment from which an appeal would lie. This was on February 4, 1889, and afterward, on February 25tli, both parties appeared in the Circuit Court, where defendant’s appeal was properly taken, and the cause pending, a motion by plaintiff made at a former term was then argued and submitted by both parties, the motion sustained, and a new trial awarded, and afterward, on March 14th, the court then having jurisdiction of the parties and cause, on motion of plaintiff, struck the cause from the docket and refused to give defendant a trial, although a verdict in his favor had once been' returned. Ffo legal reason is perceived by us sustaining this action of the court. The motion of plaintiff was not made in apt time, and for that reason also should have been denied. Before this motion was entered, and at the September term, 1888, after a verdict for defendant for $106.16 had been returned, plaintiff moved to set the verdict aside and for a new trial, and consented to the continuance of the cause and motion to the next term. At that term the motion was argued and submitted on behalf of both parties, and was sustained. These acts on behalf of plaintiff constituted a full appearance in the case, and his motion to strike the cause from the docket was a dilatory motion and came too late, when made after full appearance. Hohmann v. Eiterman, 83 Ill. 92; Schnell v. North Side Planing Mill Co., 89 Ill. 581.
+The judo-ment is reversed and cause remanded with directions to try the cause on the merits in the Circuit Court.
+Reversed and remanded with directions.
