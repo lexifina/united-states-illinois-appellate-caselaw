@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-01-16"
+citations: ["12 Ill. App. 291"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["O. H. Parke v. Biddy A. Brown et al."]
+source_url: "https://static.case.law/ill-app/12/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4859807
+cites_cases: ["1 Gilm. 187", "1 Gilm. 646", "1 Met. 550", "100 Ill. 204", "100 Ill. 392", "103 Ill. 41", "11 Ill. 194", "11 Ill. 361", "12 Ill. 336", "13 Ill. 610", "16 Ill. 445", "18 How. 263", "2 Marsh, 587", "21 Ill. 17", "24 Ill. 163", "25 Am. Dec. 56", "25 Ill. 266", "25 Ill. 336", "25 Ill. 351", "25 Vt. 234", "26 Ark. 196", "29 Ill. 495", "3 Am. Dec. 230", "3 Gilm. 105", "3 Scam. 453", "32 Ill. 23", "34 Ill. 378", "36 N. H. 449", "4 Scam. 142", "4 Scam. 195", "40 Ill. 438", "40 Ill. 439", "41 Ill. 192", "41 Ill. 447", "42 Ill. 272", "42 Ill. 319", "42 Ill. 78", "43 Ill. 464", "44 Ill. 336", "46 Ill. 323", "47 Ill. 58", "48 Ill. 383", "49 Ill. 212", "5 Gilm. 499", "55 Ill. 52", "58 Me. 437", "6 Leigh, 230", "64 Ill. 181", "68 Ill. 179", "68 Ill. 256", "7 Johns. Ch. 307", "72 Ill. 425", "75 Ill. 205", "75 Ill. 385", "76 Ill. 71", "79 Ill. 192", "79 Ill. 489", "82 Ill. 65", "86 Ill. 313", "9 Ind. 578", "95 Ill. 328", "96 Ill. 181", "97 Ill. 282", "97 Ill. 287", "97 Ill. 389", "97 Ill. 390", "98 Ill. 188", "98 Ill. 626", "99 Ill. 367", "99 Ill. 600"]
+---
+
+# Parke v. Brown
+
+## Majority (Higbee, J;)
+
+Higbee, J;
+On March 22, 1882, Biddy A. Brown, one of the defendants in error, exhibited in the court below, her bill of complaint, alleging that on September 11, 1879, she executed to plaintiff in error, O. H. Parke, six promissory notes for $200, each due in one, two, three, four, live and six years after. date, with interest at the rate of eight per cent, per annum from date, and to secure said notes, she at the same time executed and delivered to Parke a mortgage on certain real estate in said county, which was recorded in the recorder’s office on the same day.
+The bill avers that complainant was the owner of the land at the time of the execution of said mortgage; that she paid said notes in full to said Parke on October 1, 1879, who retained the notes at the time, but promised to cancel and deliver the same up to her and to enter full satisfaction of said mortgage of record. That said Parke fraudulently retained said notes and refused to enter satisfaction of said mortgage. The bill made Crohe a defendant with Parke, and alleged that he claimed some interest in the notes and mortgage; that the mortgage was a cloud upon her title, which she prayed to have canceled.
+The defendants to the bill were both served with process; Parke defaulted and Crohe answered averring that he had purchased said notes from Parke on January 28, 1882, paying him therefor the sum of $1,200; Parke then representing that the mortgage was a subsisting lien on the land, and that the notes were wholly unpaid. Parke indorsed the notes without recourse; prayed that his answer be taken as a cross-bill; that Parke be decreed to refund to him said sum of $1,200 and interest thereon, fraudulently obtained from him as the con. sideration for said notes.
+The decree of the court was that the mortgage be vacated and set aside as a cloud on complainant’s title; that said mortgage be given up to complainant to be canceled and that Parke pay Crohe $1,200, with six per cent, interest in thirty days.
+The first error assigned questions the sufficiency of the bill to justify the decree rendered against plaintiff in error.
+The decree fro confesso only concludes the party to the extent of the averments in the bill; the defendant can not, in case of such a decree, object to the sufficiency of the proof, but he may. on error, insist that the averments of the bill do not justify the decree. Gault v. Hoagland, 25 Ill. 266; Martin v. Hargardine, 46 Ill. 323; Gage v. Griffin, 103 Ill. 41.
+The bill alleges that complainant was, on the 11th day of September, 1879, the day the mortgage was executed, the owner of the land from which she seeks to remove the cloud. It does not aver that she was the owner or in possession at the time the bill was filed, and the allegation that the mortgage depreciates complainant’s title is a mere inference which is not admitted by the default. Cronan v. Frizell, 42 Ill. 319; Madison Co. v. Smith, 95 Ill. 328; Augustine v. Doud, 1 Bradwell, 588.
+The allegation that complainant was seized of title more than two years and a half before the bill was filed will not justify the inference that she was seized on the day it was filed. This averment being the very ground or gravamen of the complainant’s right, can not be left to inference, but must be proved. Spurck v. Forsyth, 40 Ill. 439.
+But even if the allegation'of title in the complainant were sufficient, the bill is fatally defective in not averring either that she was in possession of the premises or that they were unimproved and unoccupied at the time the bill was filed. These are the only cases, since the Act of 1869, in which a party -may file a bill to quiet title or remove a cloud from the title to real property. Emery v. Cochran, 82 Ill. 65; Gage v. Abbott, 99 Ill. 367; Oakley v. Hulburt, 100 Ill. 204; R. S. of 1874, p. 204.
+It is also contended by plaintiff in error that the court erred in granting Crohe affirmative relief on liis answer as a cross-bill. The statute provides, Sec. 30, Chap. 22, R. S., 1880, p. 190, that: “Any defendant may, after filing his answer, exhibit and file his cross-bill, and call upon the complainant to file his answer thereto, in such time as may be prescribed by the court.” By the genera] practice of a court of chancery, independent of the statute, there is no difference between a cross and an original bill. Crohe’s answer had none of the features of a bill in chancery, it made no parties defendant to it, it called on no one to answer it, nor was it ever afterward treated as such. It could not become a cross-bill by simply asking that it be so treated. Purdy v. Henslee, 97 Ill. 389, and authorities there cited.
+Even if the answer could be treated as a cross-bill it was clearly erroneous to take a decree upon it without either an answer or a rule to answer. Blair v. Reading, 99 Ill. 600.
+The parties voluntarily went to trial without taking any steps to have the cross-bill answered and must be regarded as having abandoned it. Purdy v. Henslee, supra; Huntgate v. Reynolds, 72 Ill. 425; Reed v. Kemp, 16 Ill. 445.
+We are also of opinion that the decree should have required Crohe, upon the payment of $1,200, to surrender up the six notes to complainant to be canceled.
+For these errors the decree is reversed and the cause remanded.
+Beversed and remanded.
