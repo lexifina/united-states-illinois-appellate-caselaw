@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-11-20"
+citations: ["13 Ill. App. 505"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wabash, St. Louis and Pacific Railroad Company v. Charles A. Koenigsam."]
+source_url: "https://static.case.law/ill-app/13/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4869677
+cites_cases: ["1 Gilm. 70", "16 Ill. 567", "17 Ill. 412", "20 Ill. 235", "23 Ill. 361", "48 Ill. 523", "49 Ill. 234", "60 Ill. 322", "60 Ill. 409", "61 Ill. 162", "61 Ill. 287", "65 Ill. 366", "73 Ill. 612", "76 Ill. 501", "77 Ill. 217", "78 Ill. 222", "78 Ill. 302", "85 Ill. 80", "86 Ill. 210", "86 Ill. 501", "88 Ill. 418"]
+---
+
+# Wabash, St. Louis & Pacific Railroad v. Koenigsam
+
+## Majority (Davis, J.)
+
+Davis, J.
+This is an action on the case, brought by appellee to recover damages for personal injuries caused by thej alleged negligence of appellant.
+Appellee was a passenger on the road of appellant from Havana to Springfield on the 18th of JSTovember, 1881. The train left the former place about ten o’clock in the morning, about one hour later than the usual time.
+The accident happened about noon, six miles from Springfield, in crossing a trestle bridge over a stream called Dry Creek.
+Appellee was sitting near the rear end of the passenger car, facing the front, and when the train reached the middle of the bridge the bridge fell, carrying with it the passenger and baggage car to the level of the stream, fourteen or sixteen feet below.
+Appellee was thrown over the seat he was sitting on, and • knocked senseless for awhile, but soon recovered and found his way to the rear door of the car, and was helped therefrom by some one standing near.
+He was bruised about the head, neck and back, and had an extensive lacerated wound of the scalp, which left almost the entire top of the skull exposed. He was under the doctor’s care about five weeks and required constant care for three weeks of that time, and was unable to resume his accustomed occupation for about four and a half months. He recovered a judgment in the court below of $2,000, which appellant seeks to reverse, by appeal to this court, on the ground that the verdict of the jury was contrary to the law and the evidence; also that the amount of the verdict is excessive, and also that the court erred in giving and refusing instructions.
+The ground on which appellee bases his claim to a recovery is the negligence of appellant in the faulty construction and maintenance of the bridge which fell and injured him; and in negligently running its train at a high rate of speed over a part of its track, that it was its duty to have known was in a dangerous condition.
+In the view we take of the case the only question necessary for us to pass upon is the one of negligence. Was appellant guilty of negligence in the construction and maintenance of the bridge, or in running its trains at a high rate of speed, over a part of its track that it was its duty to have known was in a dangerous condition as averred by appellee in his declaration.'
+Ho evidence was introduced by appellee to show any fault in the construction of the bridge. It was shown affirmatively by appellant that the bridge was built in 1873, of good materials and in good condition, and has remained in good condition, with occasional repairs put upon it, from that time until the accident happened.
+It is contended by appellee, however, that there was quicksand in the creek bed of Dry Branch, at the point where the trestle of appellant was constructed and that the soil was washy and liable at any flood to wash from under the foundation of the trestle, of which facts appellant had knowledge; and that no precaution was taken at the time the trestle "was built to guard against the treacherous character of the soil. The answer to that is, that when the bridge was built in 1873, it was properly built, for it was then in good condition,, and there is no evidence that the soil under the trestle showed any tendency to wash, until March, 1881, when a small wash was discovered and repairs were immediately made, by making a water drain and putting in heavy timbers at the bottom of the branch, and hauling iron slag and filling it in below the bridge some nine or ten feet, and tamping it in, which was considered the proper mode of overcoming the difficulty and preventing further washing in the direction of the trestle.
+As to the care bestowed by appellant in maintaining the bridge after its construction, the evidence shows that the bridge was thoroughly examined in 1878 and every month thereafter, and again between the first and fifteenth of September, 1881, about two months before the accident, when it was examined above and below, and the tests then applied were the best in use to ascertain its safety, and it was then considered in fair condition and safe, and strong enough to last for at least two years thereafter.
+Some evidence was introduced by appellee tending to show that some of the timbers of the bridge, after the accident, were found in a bad condition and some unsound, but the evidence is overwhelming that the fall of the bridge was not occasioned by any unsoundness of the timbers or the condition of them, but solely by the waters of Dry Creek having washed the earth from beneath the sills supporting the bridge and letting the whole structure down to the level of the stream.
+It is clearly established by the evidence that the bridge was safely crossed about eight o’clock of the morning of the accident by an accommodation train of freight cars and passenger coach hauled by a locomotive, four tons heavier than the one hauling the injured train, and the same train which fell through the bridge, had also safely crossed about six o’clock the night before.
+On the evening before the accident the bridge foreman had crossed the bridge on a hand-car, from which he alighted and passed over on foot, examining as he passed, and then he considered the bridge in safe condition, and then, and when the two trains passed over, there was no wash-out or any signs of any injury to the bridge; and when the bridge foreman crossed over the evening before, there was but little water in the branch.
+It seems from all the evidence that the evening before the accident it commenced raining very heavily, and rained very hard that night and the day of the accident, so as to be described by the witnesses as unprecedented, and so hard as to wash away fences and bridges in the neighborhood, flood the farms and raise the streams very suddenly.
+Dry Greek was affected as were the other streams, and the washing out of the earth from under the sills of the bridge, alone caused it to fall.
+We think also that it is clearly shown by a preponderance of the evidence that at the time of the accident the speed of the train was less than twenty miles an hour, which was its usual speed, and that the first warning or knowledge of the dangerous condition of the bridge was when it fell. Taking the case in every aspect presented by the evidence, we think appellee has failed to establish negligence on the part of appellant, and even any presumption of negligence which might arise under the ruling of our Supreme Court in the cases of T. W. & W. Railroad Co. v. Beggs, 85 Ill. 80, and Peoria, Pekin & Jacksonville R. R. Co. v. Reynolds, 88 Ill. 418, is overcome and rebutted.
+The verdict of the jury is therefore not sustained by the evidence and the judgment of the court below must be reversed and remanded.
+Judgment reversed.
