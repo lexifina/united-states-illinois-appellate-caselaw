@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1901-03-11"
-citations: ["95 Ill. App. 101", "95 Ill. App. 99"]
+citations: ["95 Ill. App. 101"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Benjamin F. Horn v. Charles E. Noble et al."]
 source_url: "https://static.case.law/ill-app/95/cases/0101-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5294873
-cites_cases: ["16 Ill. App. 555", "3 Gil. 227", "42 Ill. 500", "5 Gil. 273", "62 Ill. App. 77", "78 Ill. 606", "80 Ill. 489"]
+cites_cases: ["78 Ill. 606", "80 Ill. 489"]
 ---
 
 # Horn v. Noble
