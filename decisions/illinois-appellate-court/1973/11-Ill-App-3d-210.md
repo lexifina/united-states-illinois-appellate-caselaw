@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "72-294"
+decided: "1973-05-09"
+citations: ["11 Ill. App. 3d 210"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis R. Bessler, Plaintiff-Appellant, v. Board of Education of Chartered School District No. 150 of Peoria County, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/11/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2934286
+cites_cases: ["201 Ill.App. 281", "208 N.E.2d 423", "280 N.E.2d 286", "283 N.E.2d 718", "3 Ill.App.3d 1090", "5 Ill.App.3d 600", "60 Ill.App.2d 56"]
+---
+
+# Bessler v. Board of Education of Chartered School District No. 150
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court:
+Plaintiff-Appellant, Louise Bessler, appeals from a summary judgment entered by the Circuit Court of Peoria County in favor of the DefendantAppellee, The Board of Education of Chartered School District No. 150 of Peoria County. In the plaintiffs Petition for Writ of Mandamus and Complaint for Declaratory Judgment and Injunctive Relief, she sought to compel the defendant to assign her duties as a full-time teacher for the school year 1972-1973.
+The following facts are relevant for our consideration. Louise Bessler was employed by School District No. 150 in October, 1970 and commenced teaching duties in November, 1970. She was employed by the District almost two months after the school term began. She completed the remainder of the 1970-1971 school year and was re-employed to teach in the District in the school year 1971-1972.
+On March 28, 1972, Louise Bessler was notified by Byron McCormick, Personnel Director of the District, that she would not be re-employed to teach in the school year 1972-1973. The deadline for notifying her of the nonrenewal of her contract was April 3, 1972. Public action was taken by the Board at its regularly scheduled meeting on April 10, 1972.
+According to the School Code (Ill. Rev. Stat. 1971, Chap. 122, Sec. 24—11), the “employing board” is to give written notification to a teacher as to whether such teacher will be re-employed. Notice is to be given at least 60 days before the end of the school term. The plaintiff pleaded that since she was not notified by the School Board during the time specified by the statute, she must be considered re-employed. According to the defendant, notice by the Personnel Director and the subsequent School Board action was sufficient to comply with the statute. In support of its affirmative defense that plaintiff was properly discharged, it filed a motion for summary judgment supported by affidavits which was granted by the trial court. No motion for summary judgment was filed by the plaintiff so the only question is the propriety of the judgment granted pursuant to the defendant’s motion.
+Although the affidavits and pleadings of the parties appear somewhat sketchy, the undisputed facts indicate the real issue before us is whether the School Board meeting which took place subsequent to the notification given by the Personnel Director constituted compliance with the statute.
+It is the contention of the plaintiff that the authority of the School Board to hire and fire a teacher cannot be delegated nor exercised by someone other than the Board. In support thereof plaintiff cites (Elder, v. Board of Education of School Dist. No. 127½, 60 Ill.App.2d 56, 208 N.E.2d 423), where the court considered the power of a board of education to discharge teachers as a discretionary power which cannot be delegated even to a superintendent. This is true even where the delegation is expressly authorized by the School Board. (Board of Education in and for the School District of the City of Rockford v. Rockford Education Association, 3 Ill.App.3d 1090, 280 N.E.2d 286.) Plaintiff also cites Stroh v. Casner, 201 Ill.App. 281, where the court stated that the people have chosen the members of the Board who are to exercise these discretionary powers and the people have a right to have such powers exercised only by those in whom they have placed their confidence.
+It is claimed in the affidavit by the Director of Personnel for the School District that he “understood” the responsibility to so notify teachers they will not be re-employed was delegated to the Director of Personnel by the Board of Education. Although we doubt that the affiant’s “understanding” is sufficient compliance with the rules relating to affidavits in support of a motion for summary judgment, we do not quarrel with the proposition that some member of the administrative staff may communicate the Board’s action to a teacher under the terms of the statute. However, so far as the notice itself and the affidavits are concerned, there is nothing from which it can be reasonably inferred that the affiant was merely conveying the action of the Board. In fact the circumstances are to the contrary since the notice appeai-s to be the action of only the Personnel Director and official action of the School Board did not take place until two weeks later.
+An argument is made by the defendant that a decision not to re-employ the plaintiff was made by the Board of Education in an executive session prior to the sending of the notice, however, there is no claim made that this was an official Board action. There is nothing in the record to indicate what happened at that meeting, if in fact it was held. In relying upon Collinsville Community Unit School District No. 10 v. Witte, 5 Ill.App.3d 600, 283 N.E.2d 718, defendant contends that the public action taken by the Board in its meeting on April 10, 1972 constitutes ratification of the executive session and the action of the Personnel Director. We do not think the doctrine of ratification is applicable to this case because a statutory duty was imposed on the Board which it failed to perform within the time allowed by the statute. Under these circumstances, the prior action of the Personnel- Director in determining and notifying the plaintiff of dismissal was without legal effect. Therefore the trial court was in error in entering summary judgment for the defendant, the facts being insufficient to entitle him to a judgment as a matter of law.
+Accordingly, the summary judgment entered in favor of defendant is reversed and the cause remanded to the trial court for further proceedings.
+Reversed and remanded.
+SCOTT, P. J., and DIXON, J., concur.
