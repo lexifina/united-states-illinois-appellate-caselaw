@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "73-160"
+decided: "1973-12-28"
+citations: ["16 Ill. App. 3d 291"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellant, v. David G. Loe, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/16/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2524314
+cites_cases: ["11 Ill. App.3d 414", "128 Ill.App.2d 126", "15 Ill.App.3d 374", "261 N.E.2d 431", "267 U.S. 132", "296 N.E.2d 864", "304 N.E.2d 512"]
+---
+
+# People v. Loe
+
+## Majority (Mr. PRESIDING JUSTICE ALLOY)
+
+Mr. PRESIDING JUSTICE ALLOY
+delivered the opinion of the court:
+The State of Illinois appeals from an order entered in the Circuit Court of Iroquois County which granted the motion of defendant David G. Loe, to suppress evidence obtained by search of an automobile which defendant was driving. The indictment in this cause was for an unlawful possession of Lysergic Acid Diethylamide, commonly known as LSD, in violation of 1971 Illinois Revised Statutes, ch. 56½, par. 1402(b). When defendant was arraigned, he made a motion to suppress the evidence on the basis that the warrantless search of the automobile was in violation of defendant’s rights under the Fourth Amendment of the Constitution of the United States. The trial court granted the motion.
+Illinois State Trooper William Willis, while on a routine patrol on March 9, 1973," stopped a vehicle, on Interstate 57 in Iroquois County, which he observed had only one license plate. The driver of the vehicle, defendant, left his vehicle in a hurried manner and met Trooper Willis between the Illinois State Police Squad Car and the Loe car, after it had been stopped. On examination of defendant’s driver’s license, the Trooper found that the license had expired. At the time Trooper Willis had turned on his red lights to stop the vehicle, he noted that a passenger on the right-hand side of the car reached down and “ducked from view”.
+After Trooper Willis had examined defendant’s license, he walked to the passenger side of the vehicle. Apparently without any request from Trooper Willis, the passenger lowered the window of the automobile. Trooper Willis, who had a great deal of experience and training in detecting narcotic drug violations, testified that he then smelled the odor of marijuana. He thereupon ordered the passenger to move out of the car and, as the door opened, Trooper Willis observed what he believed to be a marijuana cigaret roach butt on the floor of the automobile. He then observed, also, a camera case which was sticking half out and half under the passenger seat of the car, which Trooper Willis removed, opened and searched. It was there that the LSD was found. The only question before us on appeal is whether the arresting officer had probable cause to believe that an item which could be properly siezed, was located in defendant’s vehicle and would, therefore, justify a search of the vehicle without a warrant.
+We have had occasion recently to discuss the same issue here involved, in People v. Wolf, Third District Illinois Appellate Court Nos. 73-125 and 73-126, 15 Ill.App.3d 374, 304 N.E.2d 512. In that case we pointed out that under Carroll v. United States, 267 U.S. 132, 69 L.Ed. 543, 45 S.Ct. 280, the Supreme Court recognized the mobility of motor vehicles and the need for speedy law enforcement when the object to be searched is a motor vehicle and that thereby a different rule exists than is required in search of homes. The only basic requirement (in searches of motor vehicles lawfully stopped by officers) is that probable cause exists to justify a belief that a crime has been or is being committed.
+In the cause before us, the officer made a traffic stop of defendant’s automobile for the reason that defendant was not displaying proper registration of the automobile since only one license plate was affixed to the automobile. When the officer turned on his red flashing signals, he observed the passenger in the automobile disappear from sight. He noted, also, that the driver left the vehicle in a hurried manner and went back to meet the officer. When the officer had examined defendant’s driver’s license, which he found had expired, he simply walked to the passenger side of the vehicle. So far as the record shows, the passenger rolled down the window without any order or direction from the officer. Without entering the vehicle in any fashion, the officer testified that he smelled, what was in his opinion, marijuana which he had been trained to detect, and had a great deal of experience in so doing. When he ordered the passenger to come out of the vehicle following his detection of the smell of marijuana, the officer testified that he could see, before he entered the car-, that there was a marijuana roach butt on the floor of the automobile.
+It appears that at the point when the officer had detected the odor of marijuana and, also, noted the roach butt on the floor, he had probable cause for entering the automobile and searching for marijuana. The smell of the contraband was a sufficient basis for a police officer to believe that a crime was being committed in his presence. (See People v. Erb, 128 Ill.App.2d 126, 261 N.E.2d 431, and People v. Laird, 11 Ill. App.3d 414, 296 N.E.2d 864.) In both of these cases, the smell of marijuana in itself was determined to be enough to justify a search of the automobile by the officer. While the smell of marijuana was enough to justify the search, the additional element of seeing the roach butt on the floor prior to the officer’s entry into the car in any manner, further supported the officer’s probable cause for searching the automobile.
+It is, therefore, our conclusion that the search of the automobile was based upon probable cause and was not made in violation of defendant’s constitutional rights. Since the evidence consisting of LSD was uncovered as a product of a valid search, even though warrantless, such evidence should not have been suppressed on defendant’s motion,
+The issue as to whether defendant Wás in possession may be resolved when and if the evidence is tendered in this cause.
+The order of the Circuit Court of Iroquois County will, therefore, be reversed and this cause is remanded to such court for proceedings in conformity with this opinion.
+Reversed and remanded with directions.
+DIXON and SCOTT, JJ., concur.
