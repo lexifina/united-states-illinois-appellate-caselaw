@@ -1,0 +1,21 @@
+---
+court: "Illinois Appellate Court"
+decided: "1891-02-02"
+citations: ["39 Ill. App. 401"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Olney v. Thomas B. Riley."]
+source_url: "https://static.case.law/ill-app/39/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5018980
+---
+
+# City of Olney v. Riley
+
+## Majority (Green, J.)
+
+Green, J.
+This suit in case was brought by appellee to recover for personal injuries alleged to have been occasioned by the failure of appellant to keep a certain street crossing in reasonably safe condition. The jury found for plaintiff and assessed his damages at $225, and judgment was entered on the verdict. To reverse this judgment, defendant appealed. No witnesses were introduced on behalf of defendant below, and the evidence on behalf of plaintiff fully sustains the verdict. The damages were not excessive. Plaintiff’s leg was broken and his ankle injured when he fell at the crossing. Tie was confined to his room by reason of his injuries, five or six weeks, and was unable to work for a period of more than three months. He suffered 'great pain during the time he was confined to the house, and his physician’s bill was $34.50. He was a miller by trade, earning $2.50 per day at the time of his injury. These facts would have justified the jury in allowing a much larger sum than the amount recovered if they found defendant guilty. The instructions given for plaintiff stated the law correctly and were applicable to the facts proven. Complaint is made of the modification of several instructions asked on behalf of defendant, but an inspection of the record discloses the modification of but one. The first instruction for defendant, which appellant claims was modified by the court, is preceded by these words: “And, thereupon, the defendant asked the court to give the jury the following instructionsthen follows the instruction (including the language claimed to have been added by the court), which is marked, “ Given,”-and nothing in the record indicates that the instruction as given is not the instruction as requested by defendant, unless two bracket marks, in pencil, inclosing the words said to have been added, should be held to furnish such indication. How or when these marks were so placed is not explained. The instruction which the record does show was modified, was as follows:
+“ You are instructed that a city is not liable for every accident that may occur upon its sidewalks, but to establish a liability to the plaintiff, it must be shown by a preponderance of the evidence that the officers of the city are guilty of gross negligence, or want of ordinary care; not only that an injury was received by the plaintiff, but must also show that the injury was occasioned by a failure of the city to keep in a reasonably safe condition the sidewalk or crossing at the time and place in question; further, that the plaintiff was, at the time of the injury, using ordinary and reasonable care for his own safety.” The court changed the language and then gave the instruction as follows: “ Yon are instructed that a city is not liable for every accident that may occur upon its sidewalks, but to establish a liability it must be shown by a preponderance of the evidence, not only that an injury was received by the plaintiff, but must also show that the injury was occasioned by a failure of the city to keep in a reasonably safe condition the sidewalk or crossing at the time and place in question; further, that the plaintiff was, at the time of the injury, using ordinary and reasonable care and prudence for Ms own safety.” It is quite apparent the instruction as asked for ought to have been modified or refused. It was not required that the evidence should show the officers of the city guilty of gross negligence to entitle the plaintiff to recover, but a want of reasonable care on their part would be negligence creating liability. Perhaps the modified instruction might have been framed with more accuracy, but as given it was quite as favorable for defendant as it could demand. We discover no error requiring the reversal of the judgment, and it is affirmed.
+Judgment affirmed.
