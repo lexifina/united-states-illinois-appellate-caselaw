@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "14444"
+decided: "1977-12-22"
+citations: ["55 Ill. App. 3d 676"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAVERN SWORDS, Plaintiff-Appellee, v. JACKIE M. RISSER et al., Defendants.—(DONALD J. RISSER, Defendant-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/55/cases/0676-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3411474
+cites_cases: ["125 N.E.2d 292", "191 N.E.2d 69", "201 N.E.2d 649", "222 N.E.2d 49", "238 Ill. App. 85", "249 Ill. 394", "250 Ill. App. 468", "41 Ill. App. 2d 423", "5 Ill. App. 2d 214", "51 Ill. App. 2d 479", "76 Ill. App. 2d 334", "94 N.E. 495"]
+---
+
+# Swords v. Risser
+
+## Majority (Mr. JUSTICE TRAPP)
+
+Mr. JUSTICE TRAPP
+delivered the opinion of the court:
+On January 7, 1974, plaintiff, Lavem Swords, President of Swords Engineering Company, filed a mechanic’s lien foreclosure suit against defendant, Donald J. Risser, and other defendants, for surveying services. All the other defendants were later dismissed and are not parties to this appeal.
+The complaint alleged that defendant owned certain property on August 15, 1972. On that date, defendant entered into an oral contract with plaintiff for surveying services. Plaintiff was to be compensated on the basis of time and expense. The work was to be completed by September 7, 1972. The work was completed on October 15, 1972, and *4,395 was due. The complaint prayed for an accounting, for an adjudication of the superiority of plaintiff’s lien and for an order of sale. The complaint did not pray for a deficiency decree or for a personal money judgment. Attached to the complaint as an exhibit was a “Statement of Claim for a Lien,” indicating that Lavem Swords, president of Swords Engineering Company, had recorded a claim of lien on behalf of Swords Engineering Company, a corporation, on January 11, 1973.
+Defendant filed a motion to dismiss, premised on nonownership. The motion was denied. No answer was filed and on November 20,1974, the circuit court entered a default decree of foreclosure. A motion to vacate the decree of foreclosure was denied.
+On September 17, 1976, the real estate was ordered sold and on February 16, 1977, the sheriff of Woodford County reported that he was unable to sell the real estate because it had been sold by defendant on September 15, 1972. On March 9, 1977, the plaintiff filed a motion for judgment against defendants. Plaintiff’s motion cited that the real estate had been sold to someone named Clark, not a party to this action, on September 15,1972. Plaintiff’s motion further recited that the foreclosure sale could not be carried out and the plaintiff moved for a personal judgment against defendant. Defendant filed an answer to the motion for judgment and filed a jury demand. At a hearing on that motion on April 1, 1977, the circuit court entered judgment in favor of plaintiff and against defendant in the amount of *4,395 and costs. Defendant appeals from that judgment order.
+Defendant contends that the trial court erred in entering a money judgment on plaintiff’s motion filed subsequent to the entry of a default judgment, although the complaint did not pray for a personal judgment. We agree.
+In a mechanic’s lien foreclosure suit, a lien may attach to the property as of the date of the contract. The lien attaches to the property and not to the owner. While there is a statutory provision for a deficiency judgment against the defendant should a sale upon foreclosure not yield enough to satisfy the amount of the lien, a deficiency necessarily requires a sale. (Beaudry v. Bell (1928), 250 Ill. App. 468; mechanics’ liens act, section 19 (Ill. Rev. Stat. 1973, ch. 82, par. 19).) There was no sale in this case and there could have been no deficiency.
+The plaintiff sought to modify his judgment providing for a lien to one providing for a personal money judgment. As previously noted, plaintiff’s prayer for relief did not ask for a money judgment. In cases of default, the relief granted is limited to that asked for in the complaint. (Park Avenue Lumber & Supply Co. v. Nils A. Hofverberg, Inc. (1966), 76 Ill. App. 2d 334, 222 N.E.2d 49.) A defendant should be compelled to pay no more than he was called upon to defend.
+We recognize that plaintiff had to plead and prove a contract in order to establish his right to a hen. It does not follow, however, that he should be permitted to recover on the contract rather than on the lien. To permit a recovery on the contract in this case would deprive defendant of his right to jury trial by a most circuitous route.
+Plaintiff claims that under section 34 of the Civil Practice Act (Ill. Rev. Stat. 1973, ch. 110, par. 34), the trial court may grant any remedy appropriate to the case. However, that section does not provide authority to grant a personal judgment on a mechanic’s lien.
+In Turnes v. Brenckle (1911), 249 Ill. 394, 94 N.E. 495, the court determined that an amendment to the mechanics’ liens act which would authorize a judgment at law against the owner if no right to a lien existed was unconstitutional for the reason that it deprived the defendant of the right to trial by jury upon an action in contract.
+In Wise v. Jerome (1955), 5 Ill. App. 2d 214, 125 N.E.2d 292, plaintiff sought a mechanic’s lien, foreclosure, and such further relief as equity might require. The trial court denied the lien, but entered a decree for a money judgment in favor of plaintiff. The appellate court held that where plaintiff has failed to establish his mechanic’s lien, the trial court has no authority to enter a money judgment or personal decree. The court noted that plaintiff sought relief under the mechanics’ liens statute that he had failed to amend his complaint and that his relief must be limited by the statute.
+If the plaintiff’s motion for judgment at law is treated as an amendment to the complaint to foreclose the mechanic’s lien seeking judgment under a contract, the right to jury trial upon timely demand for purposes of such judgment remains the law. Prior to the filing of such pleading defendant had no right to demand a jury trial. Rozema v. Quinn (1964), 51 Ill. App. 2d 479, 201 N.E.2d 649.
+Plaintiff in our case erred by not filing an amended pleading which would have entitled him to new relief. The trial court erred in not requiring an amended pleading before granting the new relief, and in proclaiming that the issues were res judicata. It is well established that a substantial amendment to a complaint under which a default judgment has been entered vacates the default judgment. Klehm v. Klehm (1963), 41 Ill. App. 2d 423, 191 N.E.2d 69, makes clear that this is the rule under the Civil Practice Act, and Dahlin v. Maytag Co. (1925), 238 Ill. App. 85, illustrates that the rule is of long standing:
+“The rule is, that where the defendant to a suit has been defaulted for want of a plea or answer and there is a pro confesso order entered against him, and the pleadings are subsequently amended in a matter of substance, the effect of such amendment is to automatically set aside the default and the order pro confesso. Increasing the ad damnum is an amendment of substance. Where such an amendment is made, it becomes essentially a new declaration, which the party has the right to defend.” 238 Ill. App. 85, 88.
+The judgment is reversed and the cause is remanded for further proceedings not inconsistent with the views expressed herein.
+Reversed and remanded.
+GREEN, P. J., and WEBBER, J., concur.
