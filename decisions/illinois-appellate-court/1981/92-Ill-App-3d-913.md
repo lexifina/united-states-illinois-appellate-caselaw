@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "80-190"
+decided: "1981-01-21"
+citations: ["92 Ill. App. 3d 913"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ROBERT VAUGHN, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/92/cases/0913-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5533490
+cites_cases: ["281 N.E.2d 626", "30 Ill. App. 3d 546", "319 N.E.2d 507", "333 N.E.2d 546", "375 N.E.2d 1283", "384 N.E.2d 793", "385 Ill. 175", "51 Ill. 2d 302", "52 N.E.2d 120", "59 Ill. 2d 125", "67 Ill. App. 3d 638", "71 Ill. 2d 378"]
+---
+
+# People v. Vaughn
+
+## Majority (Mr. JUSTICE JONES)
+
+Mr. JUSTICE JONES
+delivered the opinion of the court:
+The defendant was convicted of aggravated battery in the Circuit Court of Fayette County. He was sentenced to probation for a term of two years. He appeals his conviction, claiming that (1) the trial court neglected to enter judgment on the jury’s verdict of guilt, (2) the court abused its discretion in permitting defendant’s appointed counsel to withdraw on the day of trial and in denying defendant’s motion for a continuance on that day, and (3) the court did not allow him to present evidence of his theory of the case. We only consider the first argument.
+This court has not been provided with a transcript of any of the proceedings below which took place after closing arguments and before the sentencing hearing. Therefore, even though the jury found the defendant guilty, the transcript fails to show that the trial court entered judgment on that verdict. The relevant portion of the minutes of the court reads as follows: “At 2:33 p.m. the jury returns into open court and announces it has found defendant guilty of aggravated battery. Jury polled on court’s motion, all jurors responding that this is their verdict. Jury discharged. Cause set for sentencing hearing February 29,1980 at 10 »> a.m.
+We agree with the defendant that it is not apparent from this record that the trial court entered judgment on the jury’s verdict. We cannot agree with the State, however, that this is an immaterial defect. In their brief, the People argue that the final judgment in a criminal case is the sentence, which it is. But those cases cited as authority for that proposition merely state that a criminal conviction without a sentence is incomplete for purposes of appeal. (People v. Warship (1974), 59 Ill. 2d 125, 319 N.E.2d 507; People v. Allen (1978), 71 Ill. 2d 378, 375 N.E.2d 1283.) They do not purport to stand for the rule that a sentence may be imposed on a defendant without entry of a judgment by the court.
+Case and statutory law points to a different conclusion. It is a well-accepted rule of law that the verdict of a jury is not final until accepted by the court. (People v. Wilson (1972), 51 Ill. 2d 302, 281 N.E.2d 626; People v. Chisum (1975), 30 Ill. App. 3d 546, 333 N.E.2d 546; People v. Lindsay (1978), 67 Ill. App. 3d 638, 384 N.E.2d 793.) That acceptance cannot, as the State urges, come in the form of any further action consistent with the verdict, such as sentencing the defendant or ruling on post-trial motions, but must be an explicit judgment apparent of record.
+A “judgment” is defined in the criminal code as “an adjudication by the court that the defendant is guilty or not guilty, and if the adjudication is that the defendant is guilty, it includes the sentence pronounced by the court.” (Ill. Rev. Stat. 1979, ch. 38, pars. 102 — 14,1005—1—12.) The fact that a judgment only “includes” the sentence lends credence to the concept that a sentence alone is not a complete judgment. The sentence is a necessary part of a complete judgment of guilt, but it is not sufficient to constitute the entirety of a judgment.
+It is the function and office of the trial judge, not the jury, to render the judgment in the case. The verdict of a jury constitutes only the finding of fact or facts that pertain to the law of the case. It remains for the judge to determine finally that the verdict is consonant with the law, is properly rendered, is supported by the evidence and is to stand, fall or suffer modification in response to a post-trial motion. It is the well-established purpose of the judgment entered by the judge which puts these dangling issues to rest and gives proper logical and reasoned finality to the litigation. In civil cases these concerns are embodied in section 68(2) of the Civil Practice Act (Ill. Rev. Stat. 1979, ch. 110, par. 68(2)), which provides: “Promptly upon the return of a verdict, the court shall enter judgment thereon.” Although this statute is inapplicable to criminal cases, practice and reason point to the conclusion that the rule should be followed in criminal as well as civil cases.
+The trial court does not obtain jurisdiction to sentence the defendant until it enters a judgment of conviction. Section 5 — 4—1 of the Unified Code of Corrections provides that “except when the death penalty is sought under hearing procedures otherwise specified, after a determination of guilt, a hearing shall be held to impose sentence.” (Ill. Rev. Stat. 1979, ch. 38, par. 1005 — 4—1(a).) Since, as noted above, the court must make an adjudication that the defendant is guilty or not guilty, that adjudication must be the determination of guilt mentioned in section 5 — 4—1. Without that adjudication, the court does not have the authority to sentence the defendant.
+The People assert that the defendant did not make this argument in the trial court and that therefore he has waived it for purposes of this appeal. But this question of the existence of a conviction cannot be waived in that manner; it will be noticed as plain error on appeal.
+As we have determined that a proper judgment of guilt is not apparent from the record here, we must remand this cause to the trial court for the entry of judgment on this verdict if it is the court’s decision that such should be done. This opinion does not affect the validity of the verdict of guilt. (People v. Friedrich (1944), 385 Ill. 175, 52 N.E.2d 120.) This cause is therefore reversed and remanded to the circuit court of Fayette County.
+Finding that oral argument would be of no assistance to the court in reaching its conclusion and that there is no substantial question presented, we have taken the case under advisement without oral argument pursuant to Supreme Court Rule 352(a) (Ill. Rev. Stat. 1979, ch. 110A, par. 352(a)).
+Reversed and remanded.
+KASSERMAN, P. J„ and HARRISON, J„ concur.
