@@ -1,0 +1,52 @@
+---
+court: "Illinois Appellate Court"
+docket: "55781"
+decided: "1972-04-19"
+citations: ["5 Ill. App. 3d 118"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Estate of John E. Sullivan, Deceased—(Elizabeth Sullivan et al., Petitioners-Appellants, v. McCormick & Company, Inc., Defendant-Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/5/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2523995
+cites_cases: ["107 Ill.App.2d 227", "27 Ill.App.2d 330"]
+---
+
+# Sullivan v. McCormick & Co.
+
+## Majority (Mr. PRESIDING JUSTICE DIERINGER)
+
+Mr. PRESIDING JUSTICE DIERINGER
+delivered the opinion of the court:
+This is an appeal from a judgment of the Circuit Court of Cook County, dismissing a petition for citation on the pleadings.
+This action was brought by the executors of the estate of John E. Sullivan to recover shares of stock that had been loaned by him pursuant to written agreements to Thomas E. Hosty, Sr., and Thomas E. Hosty, Jr., who were associated with Sincere and Company, a brokerage firm. Pursuant to separate written agreements these securities were subsequently loaned by the Hostys to McCormick & Co., Inc., also a brokerage firm. When the securities were not returned to the estate by the Hostys on the termination dates of the Sullivan-Hosty agreement, the executors of the estate filed a petition for citation against the Hostys and McCormick and requested either a return of the securities or damages for their value.
+McCormick answered the petition for citation and subsequently filed a motion for judgment on the pleadings. After a hearing on the motion the Circuit Court entered judgment in favor of McCormick against the Estate of Sullivan on the grounds that there was no triable issue of fact between the estate and McCormick.
+The issue on appeal is whether the executors’ petition for citation stated a cause of action and whether the pleadings raised any issues of fact.
+The agreement dated September 13, 1968, between Sullivan and the Hostys, provided in part:
+“Thomas E. Hosty Sr. and Thomas E. Hosty Jr. may make this stock, borrowed by them, available to the Firm as part of the Firm’s assets, and such securities may be held, pledged, sold, transferred, disposed of or otherwise dealt with by the Firm as partnership property, as though Thomas E. Hosty Sr. and Thomas E. Hosty Jr. had so contributed or made available their own securities.
+# # #
+It is further agreed that all obligations created or evidenced hereby are solely those of the borrowers individually, and neither the Firm of Sincere and Company or any successor firm is in any way liable in connection therewith.
+The term ‘the Firm’ as used in this agreement shall mean the Firm of Sincere and Company as presently constituted or as it may hereafter be constituted from time to time, and also any firm which may succeed to its business.”
+On January 15, 1969, another agreement was entered into between Sullivan and the Hostys for additional stock and repeated the above-stated terms.
+On July 3, 1969, an agreement between the Hostys and McCormick provided in part:
+“Transmitted with this letter are agreements signed by the lenders of the securities hereinafter detailed, and Thomas E. Hosty, Sr. and Thomas E. Hosty, Jr. as borrowers.
+[The securities were described, and John E. Sullivan was noted as the lender of the securities.]
+# # 4*
+The attached agreements indicate that the obligations evidenced thereby are those of Thomas E. Hosty, Sr. and Thomas E. Hosty, Jr. individually, and that neither the firm of Sincere and Company or any other of its partners is in any way liable in connection therewith.
+4* 4* 4*
+Pursuant to the provisions of the attached agreements we herewith deliver to you the securities herein above described, with the understanding that McCormick & Co. Incorporated may make such securities available to it as part of the corporation’s assets, and that said securities may be held, pledged, sold, transferred, disposed of or otherwise dealt with as though McCormick & Co. Incorporated had contributed or made available its own securities.
+We request the subordinated character of the loan of such securities shall be noted on the books, accounts and records of McCormick & Co. Incorporated, and that you please sign a copy of the agreement and retain another for your file.”
+The amended petition for citation stated the Hostys and/or McCormick & Co. still retained certain listed securities and these securities were not returned to the executors although the agreements require the return of the securities one year after the date of each agreement and repeated requests for their return have been neglected or refused. Dividends were paid to the Hostys and McCormick on account of the securities and from time to time were paid to the executors by McCormick along with interest in accordance with the terms of the SullivanHosty agreement.
+The Hostys replied to the petition for citation by stating they did not have any of the securities in their possession; that they had turned them over to McCormick because “on or about June 1, 1969, the respondent, McCormick & Co., Inc. succeeded to the business of Sincere and Company, by reason whereof these respondents were authorized to transfer and deliver said securities to the respondent, McCormick & Co., Inc. as the successor to the businss of Sincere and Company.” McCormick did not adopt the allegations contained in the Hostys’ answer and did not make any such allegation.
+McCormick replied and stated two affirmative defenses: First, the language of the Sullivan-Hosty agreement allowed the Hostys to heat the securities as their own property and pursuant to the Hosty-McCormick agreements, McCormick received right, title and interest in the securities subject to the terms of the August 1, 1969, agreement between them, and that the Hostys are indebted to McCormick in an amount in excess of the value of said securities and McCormick has a right of setoff against the Hostys in an amount equal to such indebtedness.
+The second affirmative defense states the Hostys are indebted to McCormick & Co., Inc. in an amount in excess of the value of the securities and that Reg. § 220.3(a) and (b) of Regulation T promulgated by the Federal Reserve Board of the United States pursuant to Sections 7 and 8(a) of the Securities Act of 1934 prohibits defendant from returning said securities to the Hostys.
+Their answer admitted forwarding interest and dividends to the executors of the Sullivan estate but stated it did so only pursuant to oral and written authority of the Hostys who were the only parties to whom McCormick was obligated.
+In the reply to the answer and affirmative defense of McCormick, the executors deny the dividend and interest payments were made to them only upon the authority of the Hostys, or that the Hostys were the only parties to whom McCormick was obligated. The executors stated the payments were made to them in recognition of their rights. The executors also deny the Sullivan-Hosty agreement permitted the Hostys to treat the securities as their own property, deny that McCormick obtained rights, titles or interest in the securities paramount to that of the executors, and deny McCormick has a right of setoff against the executors’ property for any claim against the Hostys. The executors also deny the regulations of the Federal Reserve Board or the Securities Exchange Act could in any manner bear upon the relief sought by them.
+In the motion for judgment on the pleadings, McCormick states the Hostys were “expressly and specifically granted the absolute power to make said securities available to the firm of McCormick & Co., Inc. as though the Hostys had contributed or made available to McCormick & Co., Inc. the Hostys’ own securities; that said agreement between decedent and the Hostys, as disclosed from the pleadings herein, expressly and specifically provided that the obligations created between the Hostys and petitioners were solely those of the Hostys individually; that pursuant to the powers granted them in said agreements with decedent, which powers allowed them to treat the securities as their own property, the Hostys turned over the securities to the defendant under the terms of the agreement dated July 3, 1969, and defendant obtained all right, title, and interest in said securities, subject to the terms of such agreement.”
+The executors responded to the motion by stating there was a contractual relationship between them and McCormick because they are third-party beneficiaries of the July 3 agreement, and the motion specifically relies upon the contracts between Hosty and the decedent to define McCormick’s rights. The executors also deny the Hostys were “expressly and specifically granted the absolute power to make [the] securities available to McCormick & Co., Inc.”
+We hold that enough factual issues were raised on the pleadings to warrant a full hearing on the facts, and it was error for the trial court to have decided the case on the pleadings. It is well settled that where the pleadings put in issue one or more material facts, evidence must be taken to resolve such issues of fact and a judgment may not be entered on the pleadings. (Swidler v. Litvin (1969), 107 Ill.App.2d 227; Minor v. Universal C.I.T. Credit Corp. (1960), 27 Ill.App.2d 330.) In the instant case the pleadings disclose the existence of several fact issues including: whether McCormick was the successor to Sincere when the Hostys turned the securities over to it; whether McCormick’s books and records prove McCormick to be a creditor of Hosty and what, if any, effect it has on the Sullivan-Hosty contract in light of the subordinated nature of the Hosty-McCormick contract; and whether the payment of dividends and interest to the Sullivan estate by McCormick affected the rights of McCormick in this action.
+Inasmuch as the securities are alleged to be worth $90,000, all of the facts should be heard by the court before arriving at a decision. Proofs should be taken on all factual issues raised in the pleadings, including those listed above, and should be taken not only as to McCormick but also as to Hosty because the facts are so intertwined.
+For the above-stated reasons, the judgment is reversed and the cause remanded with directions.
+Reversed and remanded with directions.
+BURMAN and ADESKO, JJ., concur.
