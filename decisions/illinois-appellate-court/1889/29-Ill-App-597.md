@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-01-10"
+citations: ["29 Ill. App. 597"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence Moore et al. v. Helen R. Williams et al."]
+source_url: "https://static.case.law/ill-app/29/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4971867
+cites_cases: ["2 Gilm. 414", "2 Gilm. 701", "40 Ill. 82", "46 Ill. 181", "76 Ill. 246"]
+---
+
+# Moore v. Williams
+
+## Majority (Beeves, J.)
+
+Beeves, J.
+Appellants filed their bill in chancery against appellees, alleging that on the 27th day of April, 1881,Will-iam B. Finney and Helen B. Finney, his wife (now Williams), conveyed by warranty deed certain lands to appellants. The consideration of the deed was expressed to be, “ that the grantees herein (appellants) shall provide for the wants of and take care of the grantors (William B. and Helen B. Finney) during their natural lives.” Before Helen B. Finney would sign the deed she required that this provision should be inserted in the deed, viz.: “ It is further agreed that this deed is not to exclude II. B. Finney of her rights under and by virtue of the homestead laws of this State.” The bill sets forth the death of William B. Finney about the 25th day of May, 1881, and that Helen B. continued in possession of the lands until about April 10, 1887, when she married A. D. W. Williams, and abandoned the lands and went to live with her husband upon his lands, as their homestead; that because of her abandonment of the lands in controversy, and for other reasons set out in the bill, she had forfeited the right of homestead reserved to her by said deed.
+Appellants prayed for a decree declaring an extinguishment of said homestead claim, and that appellants be put in possession of said lands, and to this end that a writ of possession issue. The answer of Helen It. Williams, appellee, admits all the allegations of the bill except the alleged abandonment of the lands or the commission of waste, which she specifically denies. Mrs. Williams also tiled a cross-bill, and the allegations upon which she sought affirmative relief were that appellants had failed and refused to provide for the wants and take care of the said William B. and Helen 17. Finney during their natural lives, and that she had been compelled to meet these wants and pay for the necessary care out of her own funds, and claiming that there was due her on this account the sum of §1,451.50, praying for a decree against appellants for that amount. Appellants filed their answer to the cross-bill, and denied seriatim all the allegations of the cross-bill upon which affirmative relief was sought. After replication to the answers the case went to a hearing and decree. The decree found that there had been abandonment by Mrs. Williams of her homestead in the said lands and decreed the same to be extinguished, and that appellants were entitled to the immediate possession of said lands, and ordered that a writ of restitution issue, etc. The decree further found that appellants had wholly failed, neglected and refused to provide for the wants and take care of appellee, Helen It., and that she had been compelled to rely for the necessaries of life upon her own efforts and the charity of friends, and that the reasonable value of such' necessaries was the sum of §600, and decreed that appellants pay her that sum within thirty days, etc.
+An appeal was prayed and allowed to this court, and the record, abstract and brief filed by appellants within the time required by law and the rules of this court.
+On the 7tli day of September, 1888, a motion was made by appellees to dismiss the appeal, and the disposition of the motion was reserved until the final hearing. The motion sets forth, after reciting the terms of the decree, that on the 19th day of June, 1888, the appellants caused to he issued the writ of possession ordered by the decree, and on the 28th day of June, 1888, the sheriff of Franklin county,-by virtue of said writ, put appellee, Helen R. Williams, out of possession of the lands described in the decree and put appellants into possession of the same. A copy of said writ, and the return of the sheriff thereon, duly certified, were filed in support of the motion. The legal ground upon which the motion is based is that a party can not avail himself of that portion of a decree which is favorable to him and secure its fruits, and then reverse, in the Appellate Court, such portions as militate against him; in this case, that appellants could not avail themselves of that-part of the decree giving them the right to the immediate possession of the land in controversy, and the aid of the court in enforcing this right by a writ of possession, and, after securing the fruits of this portion of the decree, seek a reversal of that part of the decree which required them to pay Mrs. Williams $600. We think this point is well taken. Holt v. Rees, 46 Ill. 181; Corwin v. Shoup, 76 Ill. 246.
+The appeal will be dismissed and proceeds awarded.
+Appeal dismissed.
