@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1894-12-13"
-citations: ["56 Ill. App. 517", "56 Ill. App. 396"]
+citations: ["56 Ill. App. 517"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Lewis E. Dillman et al. v. John W. Nadelhoffer."]
 source_url: "https://static.case.law/ill-app/56/cases/0517-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5781802
-cites_cases: ["1 Gilm. 397", "100 Ill. 451", "103 Ill. 121", "118 Ill. 292", "12 Ill. 417", "123 Ill. 381", "124 Ill. 104", "136 Ill. 627", "136 Ill. 634", "14 Ill. 144", "144 Ill. 77", "15 Brad. 261", "17 Ga. 217", "17 Ill. 286", "17 Iowa, 195", "20 Ill. App. 132", "23 Me. 75", "26 Ill. App. 341", "27 Ill. 181", "3 A. K. Marsh. 239", "3 Gilm. 522", "3 Gratt. 26", "34 Me. 407", "35 Ill. 553", "37 Ill. 286", "4 Gil. 3", "4 Scam. 382", "41 Ill. App. 627", "47 Ill. App. 224", "49 Ill. 62", "49 Ill. App. 655", "5 J. J. Marsh. 545", "50 Ill. 377", "52 Ill. 98", "54 Ill. 324", "56 Ill. 254", "6 Paige 62", "6 Wall. 78", "68 Ill. 157", "69 Ill. 537", "7 Pick. 52", "81 Ill. 186", "86 Ill. 128", "86 Ill. 226", "87 Ill. 518", "94 Ill. 386", "97 Ill. 396", "97 Ill. 41"]
+cites_cases: ["1 Gilm. 397", "100 Ill. 451", "103 Ill. 121", "118 Ill. 292", "123 Ill. 381", "124 Ill. 104", "136 Ill. 627", "136 Ill. 634", "144 Ill. 77", "15 Brad. 261", "17 Ga. 217", "17 Ill. 286", "17 Iowa, 195", "20 Ill. App. 132", "23 Me. 75", "26 Ill. App. 341", "3 A. K. Marsh. 239", "3 Gilm. 522", "3 Gratt. 26", "34 Me. 407", "35 Ill. 553", "41 Ill. App. 627", "47 Ill. App. 224", "49 Ill. 62", "49 Ill. App. 655", "5 J. J. Marsh. 545", "50 Ill. 377", "52 Ill. 98", "54 Ill. 324", "56 Ill. 254", "6 Paige 62", "6 Wall. 78", "68 Ill. 157", "69 Ill. 537", "7 Pick. 52", "81 Ill. 186", "86 Ill. 128", "86 Ill. 226", "87 Ill. 518", "94 Ill. 386", "97 Ill. 396", "97 Ill. 41"]
 ---
 
 # Dillman v. Nadelhoffer
