@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-05-27"
+citations: ["23 Ill. App. 186"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Elgin v. Francis McCallum."]
+source_url: "https://static.case.law/ill-app/23/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 863696
+cites_cases: ["83 Ill. 537"]
+---
+
+# City of Elgin v. McCallum
+
+## Majority (Lacey, L)
+
+Lacey, L
+The appellee, in an action on this case against appellant in the court below, received the sum of §450, for damages claimed to have been sustained by him in consequence of the appellant so raising the grade of and constructing a sidewalk in front of his premises, as to interfere with ingress and egress. His premises were on Grove Avenue, in the City of Elgin. The appellee’s premises were a dwelling and blacksmith’s shop. In 1885 the City of Elgin raised the grade in front of his premises so that the sidewalk was raised some eighteen inches above the old grade. , The new sidewalk came about, to half the height of his picket fence, necessitating the removal of his gate and the construction of steps to go down from it into his lot. His shop was also cut off, as he claims, from easy access from the street, and he was compelled to build an incline to reach the sidewalk from the street, and another incline from the sidewalk to get into his shop.
+The amount of damages claimed by the appellee was $600, and consisted, as he swears, in the expense of raising the shop and house and underpinning them, filling in the lots, loss of time, and one thing “ and another.”
+The appellee’s witnesses testify to substantially the same estimate of damages, though two of them think the property, even after the buildings were raised to meet the necessities of the new sidewalk, would be damaged $600. The appellant’s witnesses testify substantially that the property,, as a whole, is generally benefited by the raising of the sidewalk, and some of the witnesses estimate the benefits to the property, by raising the grade, to be to the extent of $2,000.
+If the special benefits to the property should not be considered, there would be no question but the appellee should he allowed to recover what it would cost to put the house and shop in the same condition that it was in before the sidewalk was raised, if the raising of the sidewalk required it. But if those benefits are considered, the evidence tends strongly to show that the appellee is not damaged; that in fact his property is worth as much or more than it was before. In the City of Elgin v. Eaton, 83 Ill. 537, a case in its personal points the same as this, it was held that such benefits should be offset against the costs of changes made necessary by the improvements. In other words, if the property, after the necessary improvements had been made, was worth enough more than it was before the city had improved the streets to pay for the costs of the changes in the property necessitated thereby, then there was no damage. The same rule of law - has been announced in other cases since then. How, the first two instructions given by the court for appellee, the giving of which is assigned for error, are faulty in excluding such special benefits as above alluded .to. The first instruction, after reciting the main facts in a hypothetical form, concludes thus: “tlieu they [the jury] should find the defendant guilty, and assess the plaintiff’s damages at such sum as they shall believe from the evidence the said premises have been depreciated by the aforesaid cause, etc. ” The second instruction concludes: “ Then the jury should find the defendant guilty and assess the plaintiff’s damages at such sum as the evidence shows, if any, he has sustained thereby.” These instructions ignore the question of special benefits. The third instruction appears to he correct and announces the rule correctly, as follows: * * * “and if the jury believe from the evidence that said premises, by reason thereof, were damaged over and above the benefits received therefrom, and that such damages are permanent and substantial to said premises, then the jury should find for the plaintiff such a sum as the proofs show to be sustained, not excluding the amount claimed in the declaration.” Which of these instructions the jury followed we are unable to say, but we can not clearly see that no damage to the appellant was done by giving the first two instructions. The evidence is so strong on the part of appellant that the jury should have been accurately instructed in all the instructions.
+There was error on the point of the court striking out of the appellant’s second instruction the words, “if the property is shown by the evidence to be worth as much after the raising of the grade as it was before.” Although this instruction was proper, as asked, yet the error might not have been sufficient to reverse, as the last part of the instruction announced substantially the same rule, and the two clauses were written in the alternative as the instruction was originally drawn.
+For these errors the judgment of the court below is reversed and the cause remanded.
+Heversed and remanded.
