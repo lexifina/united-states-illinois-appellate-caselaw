@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-529"
+decided: "1977-05-31"
+citations: ["48 Ill. App. 3d 963"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RALPH E. LYNCH, Plaintiff-Appellee, v. NANCY MULLENIX, Defendant-Appellant.—(JAMES D. BARBOUR et al., Defendants.)"]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0963-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3371002
+cites_cases: ["103 Ill. App. 2d 449", "12 Ill. App. 3d 808", "243 N.E.2d 27", "25 Ill. App. 3d 864", "299 N.E.2d 442", "323 N.E.2d 435", "397 Ill. 522", "74 N.E.2d 865"]
+---
+
+# Lynch v. Mullenix
+
+## Majority (Mr. PRESIDING JUSTICE STENGEL)
+
+Mr. PRESIDING JUSTICE STENGEL
+delivered the opinion of the court:
+Defendant Nancy Mullenix appeals from the order of the Circuit Court of Tazewell County compelling her answers to certain questions posed during the taking of a discovery deposition and awarding plaintiff Ralph Lynch $150 costs. The sole issue is whether the trial court’s order was proper.
+On July 29, 1976, plaintiff’s attorney requested defendant to produce certain documents within 28 days pursuant to Supreme Court Rule 214 (Ill. Rev. Stat. 1975, ch. 110A, par. 214). On August 24, a day or two before the production deadline, defendant appeared at the offices of plaintiff’s attorney for the purpose of taking her discovery deposition. Defendant was asked certain questions about some documents she had brought with her, but she could not answer from memory. After an off-the-record discussion between the parties’ attorneys, the following exchange occurred:
+“Plaintiff’s Attorney: You will not allow Mrs. Mullenix to look at the documents she brought with her?”
+Defendant’s Attorney: That’s right, all you will do is ask questions about these documents, there is no use getting into that mess right now.”
+Defense counsel steadfastly refused to allow his client to look at the documents, and, of course, she was unable to answer any questions concerning them.
+On August 27, 1976, plaintiff filed a motion to compel defendant to answer these questions, which was granted by the trial court on September 3, 1976, after the matter was argued by counsel. Defendant filed a motion asking the trial court to reconsider its order on September 15, 1976, which was denied on September 22. Defendant thereafter filed her notice of appeal on October 18, 1976.
+The problem presented is largely a matter of statutory construction since the court’s power to compel a deponent to answer is governed by statute and court rules (People ex rel. Prince v. Graber (1947), 397 Ill. 522, 74 N.E.2d 865).Under section 58(1) of the Civil Practice Act (Ill. Rev. Stat. 1975, ch. 110, par. 58(1)) the taking of depositions shall be in accordance with rules. In this connection Supreme Court Rule 219(a) (Ill. Rev. Stat. 1975, ch. 110A, par. 219)(a)) provides that if a deponent refuses to answer any question, the proponent may move for an order compelling an answer and permits the court to order the payment of reasonable expenses, including attorney’s fees, to the aggrieved party if the refusal was made without substantial justification. In determining the propriety of the instant order we are concerned with whether or not there was a refusal to answer any question and whether the refusal, if any, lacked substantial justification.
+Defendant first contends that she did not technically refuse to answer any questions but merely refused to look at the relevant documents. However, the duty to provide discovery cannot be avoided by technical maneuvers. (Slatten v. City of Chicago (1st Dist. 1973), 12 Ill. App. 3d 808, 299 N.E.2d 442.) The purpose of discovery is to further litigation with a minimum of delay and expense (see Savitch v. Allman (3d Dist. 1975), 25 Ill. App. 3d 864, 323 N.E.2d 435), and given this function we think it is evident that defendant’s refusal to look at the documents amounted to a refusal to answer any questions relating thereto.
+Defendant cannot justify her refusal on the basis that her attorney had not seen the documents and that their production was not yet due. The production of documents is governed by Supreme Court Rule 214 (Ill. Rev. Stat. 1975, ch. 110A, par. 214), whereas the method of taking depositions on oral examination is controlled by Supreme Court Rule 206 (Ill. Rev. Stat 1975, ch. 110A, par. 206). Plaintiff’s motion to the court was directed solely toward defendant’s refusal to answer certain questions on oral examination, and raised no question with respect to the request for production of documents of July 29, 1976. The record indicates that plaintiff’s attorney made no attempt whatsoever to inspect the documents defendant brought along for the deposition, but rather that he asked she be allowed to look at them in order to refresh her memory. Thus, the fact there was no duty to produce these documents for inspection at the time of defendant’s oral examination is wholly immaterial to the present appeal. Since no contention is made that these documents were privileged from discovery, it follows that there was no substantial justification for defendant’s refusal to answer.
+The same conclusion applies to defense counsel’s argument that the refusal was warranted because Supreme Court Rule 206(e), providing that evidence objected to shall be taken subject to the objection, was not applicable to the instant discovery deposition. Rule 206(e) is not limited on its face to evidence depositions and therefore the fact defendant’s answers were being sought for the purpose of discovery, and not as evidence, cannot substantially justify her refusal to answer.
+Defendant finally contends that the trial court abused its discretion in awarding plaintiff *150 costs. However, under Rule 219 the trial court has broad discretionary powers once it finds there has been an unjustified refusal to answer, and its decisions will not be disturbed by us absent an abuse of discretion. (Savitch v. Allman (3d Dist. 1975), 25 Ill. App. 3d 864, 323 N.E.2d 435.) Having properly concluded that defendant’s refusal to answer the questions was unjustified, the trial court was well within its statutory powers in ordering her to answer the questions and awarding plaintiff costs. So long as the imposition of costs against the deponent is intended as restitution, and not as a penalty, there is no abuse of discretion. (See Savitch v. Allman; cf. Gillespie v. Norfolk & Western Ry. Co. (4th Dist. 1968), 103 Ill. App. 2d 449, 243 N.E.2d 27.) The costs imposed against the deponent here were clearly in the nature of restitution since any further questioning of the defendant about these documents would entail additional time and expense for plaintiff’s attorney. We feel the trial court acted properly as a sanction, for failure to comply with the rules of discovery.
+Accordingly, the judgment of the Circuit Court of Tazewell County is affirmed.
+Affirmed.
+BARRY and SCOTT, JJ., concur.
