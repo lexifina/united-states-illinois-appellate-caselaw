@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 47,525"
+decided: "1958-12-16"
+citations: ["20 Ill. App. 2d 57"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LEWE, P. J. and MURPHY, J., concur."]
+parties: ["Howard Dragstrem, Plaintiff-Appellee, v. North Branch Metal Products, Inc., a Corporation, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/20/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5195422
+cites_cases: ["247 Ill. App. 270", "8 Ill.2d 293"]
+---
+
+# Dragstrem v. North Branch Metal Products, Inc.
+
+## Majority (JUSTICE KILET)
+
+JUSTICE KILET
+delivered the opinion of the court.
+This is an action to recover damages alleged to he due to the negligence of defendant in unloading plaintiff’s truck. Verdict and judgment were for plaintiff for $1,550 in the main suit and against defendant on its third party action. Defendant has appealed only from the judgment for plaintiff.
+Plaintiff is an independent trucker who hired his services and his truck to Miller Transportation Company to carry scrap zinc from Anderson, Indiana, for use in defendant’s smelting and refining business in Chicago. His truck arrived at defendant’s plant on Friday, October 14, 1955, and several other truckers engaged in the same work had arrived before him. Defendant had employed a crane and operator for the purpose of unloading the trucks. This unloading technique was the lifting of the front end of the trailer and letting the load slide off. The crane lifted plaintiff’s trailer which broke in two.
+The main question is whether plaintiff was guilty of contributory negligence and, if not, whether the finding that defendant was guilty of negligence was contrary to the manifest weight of evidence.
+Defendant argues that plaintiff was guilty of contributory negligence by submitting his trailer to an unloading technique which he knew would risk the safety of the trailer. The jury answered in the negative a special interrogatory whether plaintiff realized the danger and knowingly exposed himself to the risk. The rule is: “A party has no right to knowingly expose himself to a danger, and then recover damages for an injury which he might have avoided by the use of reasonable precaution,” Munden v. East St. Louis Light & Power Co., 247 Ill. App. 270, 273.
+Plaintiff had leased equipment to various companies since 1938. He testified that the trailer was in good condition; that it was a “frameless” type; that his trailer had never been unloaded by crane; that before the unloading he had told defendant’s superintendent, Barnett, “I didn’t think my trailer would stand to be unloaded in that manner,” because of the frameless construction and heavy load, and that he said, “There was too much weight to lift in that manner”; that he was told to wait until the rest of the trailers were unloaded; that Barnett then said, “All we can do is try it and see how it will work,” and then “if it shows any signs of weakening we can let it back down”; that Barnett, not plaintiff, decided to unload that way; and that the crane picked up the front of plaintiff’s truck with the resultant damage.
+This is the evidence favorable to plaintiff which we think tended to prove the negligence of defendant in going ahead with the crane-unloading in the face of plaintiff’s anxiety, and to prove due care on plaintiff’s part in expressing that anxiety to Barnett. The distinction between this case and the Munden v. East St. Louis Light & Power Co. case (247 Ill. App. 270) is in plaintiff’s expressed doubt as to the danger to his trailer. There, the evidence was undisputed that Mrs. Munden “made no inquiry or advised Bahr in any way what she was about to do.” We cannot decide, as a matter of law, as the court did in that case, that plaintiff was guilty of contributory negligence barring recovery. The trial court in the case before us did not err in denying motions for directed verdict and for judgment notwithstanding the verdict.
+We cannot reverse because plaintiff put his truck into position for unloading by the crane, made no objection to the unloading “at that time,” and was not “coerced.” Barnett testified that he told plaintiff “our other company” unloaded “frameless” trailer trucks with a crane and that there never had been any damage done. He also told plaintiff that since the day was Friday, the unloading of plaintiff’s trailer by hand could not be started until Monday. Plaintiff said “I don’t think he said they could promise it by Tuesday.” From this evidence the jury could reasonably infer that plaintiff was reluctant to submit his trailer to the crane-lifting unloading practice, but that his reluctance was overcome by Barnett’s persuasive statements about the “other company’s” frameless trailers. We see no merit in defendant’s contention that plaintiff had a choice between hand-and crane-unloading, and chose the risky mode. The jury could have found the choice was not free because of the fear of the several days’ delay in hand-unloading as well as the expressed confidence of Barnett and his suggestion that the crane-unloading process be tried.
+Our conclusion is that the case was properly submitted to the jury; that the jury could reasonably infer negligence of defendant through the conduct of Barnett; that the special interrogatory is supported by the evidence; and that there is no basis for a claim that the verdict or special interrogatory is against the manifest weight of the evidence.
+We see no merit in a point made by defendant that there was a variance between the complaint and proof. It contends that the complaint alleged negligence in the operation of the crane whereas the proof purported to show negligence on defendant’s part in employing the crane to unload plaintiff’s truck. But we think the allegation was broad enough to cover the proof, and there was no request for a more particular statement. Furthermore the answer indicates defendant understood that the negligence charged was that proved.
+The court struck the part of defendant’s answer “that plaintiff knew of the danger of damage to his property and took no precautions to avoid such damage.” If this was error any prejudice to defendant was cured when the court submitted the special interrogatory to the jury.
+The record does not show objection to plaintiff’s attorney’s argument to the jury. We shall not therefore consider the claim of prejudicial argument. Belfield v. Coop, 8 Ill.2d 293, 312; 2 I. L. P. sec. 263. The argument was not “seriously prejudicial” so as to justify our considering it, under the rule in Belfield v. Coop, p. 313.
+Finally defendant argues that prejudicial error was committed in refusing instructions it tendered. There is no argument in the brief relating defendant’s instruction #11 to the evidence and showing prejudicial error. Instruction #14 was properly' refused since it is peremptory and assumes that plaintiff’s truck would have been unloaded by hand “the next business day.” Instruction #20 was properly refused. It purports to state the issues of fact, not as alleged in the pleadings, but from what defendant incorrectly assumed were the proper issues for the jury. And it is not denied that one of plaintiff’s instructions contained the substance of the refused instruction.
+For the reasons given the judgment is affirmed.
+Affirmed.
+LEWE, P. J. and MURPHY, J., concur.
