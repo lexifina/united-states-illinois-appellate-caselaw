@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 17,469"
+decided: "1913-04-30"
+citations: ["179 Ill. App. 83"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George J. Cooke Company, Appellee, v. Gustaf Johnson, Appellant."]
+source_url: "https://static.case.law/ill-app/179/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2816352
+cites_cases: ["245 Ill. 431"]
+---
+
+# George J. Cooke Co. v. Johnson
+
+## Majority (Mr. Justice Baume)
+
+Mr. Justice Baume
+delivered the opinion of the court.
+On May 15, 1909, judgment by confession was entered in the Circuit Court in favor of appellee and against appellant for $189.78 upon a note for the sum of $150, executed by appellant, dated September 24, 1907, payable to appellee on demand with 6 per cent, interest. The warrant of attorney provided for an attorney’s fee of $50, but only $25 was included in the judgment for that service. On June 18, 1909, the said judgment was opened up on motion of appellant and leave was given him to plead to the declaration. In addition to the general issue appellant pleaded specially that at the time the said note was signed by him a verbal agreement was entered into with appellee, whereby appellant was to use and sell the draught beer of appellee in certain premises in the City of Chicago during the period covered by the lease that appellant then had on said premises for-the term ending May 1, 1909, and that said note was held by appellee as collateral security for the performance by appellant of the terms of said agreement and for no other purpose; that at the termination of said lease said note was .to be surrendered and cancelled if appellant complied with the terms of said agreement; that appellant did comply with the terms of said agreement and used and sold the draught beer of appellee up to and including the 30th day of April, 1909. Appellee filed its similiter to the general issue, and replied to the special plea that it did not make the verbal agreement there set forth, and that appellant did not comply with the terms of any such agreement. A trial of the issues resulted in a verdict against appellant for $200, including an attorney’s fee of $25, and judgment upon such verdict.
+Appellee introduced in evidence the note sued on and rested, and appellant then sought to prove the verbal agreement set up in his special plea. In rebuttal, appellee over the objection of appellant, was permitted to introduce in evidence a written contract purporting to be executed by the parties on September 24, 1907, which provides, in substance, that appellee sells and appellant buys 1,800 barrels of beer to be delivered by appellee to appellant at his stated place of business; that said beer shall be of good and merchantable quality and shall be delivered from time to time as appellant shall direct; that all of said beer shall be delivered and taken within and during the period beginning October 1, 1907, and ending May 1, 1911; that no less than 10 barrels and no more- than 40 barrels shall be delivered or taken during each week of said period; that appellant shall pay therefor the market price per barrel, cash on delivery, and so much per barrel additional as the government tax may be increased above $1 per barrel; that in the event of the failure of either party to perform said contract the party so failing shall pay to the other party as liquidated damages $2 for each and every barrel of beer contracted for and not delivered. The concluding provision of said contract is as follows:
+“For the faithful performance of this contract by the second party first party agrees to rebate to second party, about the first day of each month fifty cents (50(¿) per barrel. Second party has deposited his note for $150 as evidence of good faith. Fixtures are to remain property of first party. Said note is to cover expense of putting in and tailing out fixtures.”
+The main contention of appellant relates to the admission of this written contract in evidence. It is insisted that the note and not the written contract is the instrument sued upon, and that in the absence of any reference to said contract in the declaration or in the replication to the special plea, it was not admissible in evidence.
+The suit is upon the note and not upon the contract, and if no issue had been raised as to the consideration for the note, the contract would have had no proper place in the record. The contract might be properly resorted to for the purpose of showing a consideration for the note, when want of consideration or failure of consideration was pleaded. It is not claimed that the note might not be properly given to cover the expense of putting in and taking out any fixtures which might be installed by appellee, and in this suit upon the note the other provisions of the contract are not open to consideration.
+Appellant made an attempt to deny the execution by him of the contract, but it clearly appears from the evidence that the contract was in fact executed by him.
+It is uncontroverted that appellee installed in the premises occupied by appellant saloon fixtures of the value of $1,400, and that such fixtures were removed by appellee at the request of appellant or after appellant had arranged to purchase beer elsewhere, and that the cost of installing said fixtures was $398.
+If, however, the written contract be excluded from consideration, there is sufficient evidence in the record of an oral agreement between the parties that the note should be given and accepted as security to cover the expense of installing and removing the fixtures, and this was a sufficient reason for the action of the court in refusing to give the instruction which it is insisted was improperly refused.
+The vacation by the court of the judgment by confession operated to nullify the power of attorney and the act of the attorney thereunder, and the cause of action was in the same state as if commenced in the ordinary procedure by summons. Morrison Hotel & Restaurant Co. v. Kirsner, 245 Ill. 431. In this state of the record the inclusion in the verdict and judgment of $25 as attorney’s fees, provided for in the warrant of attorney to confess judgment, was unauthorized, and such verdict and judgment are to that extent excessive.
+If appellee will within ten days remit $25 from the. judgment the same will be affirmed for $175; otherwise the judgment will be reversed and the cause remanded.
+Affirmed on remittitur.
+Eemittitur filed and judgment affirmed May 1, 1913.
