@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-23"
+decided: "1978-11-09"
+citations: ["65 Ill. App. 3d 732"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL S. GLASS, Plaintiff-Appellant, v. EDWARD JACKSON et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/65/cases/0732-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3326421
+cites_cases: ["115 Ill. App. 2d 148", "253 N.E.2d 85", "349 N.E.2d 385", "356 N.E.2d 842", "359 N.E.2d 236", "360 U.S. 564", "42 Ill. App. 3d 900", "45 Ill. App. 3d 105", "64 Ill. 2d 1"]
+---
+
+# Glass v. Jackson
+
+## Majority (Mr. JUSTICE STOUDER)
+
+Mr. JUSTICE STOUDER
+delivered the opinion of the court:
+Plaintiff, Michael Glass, commenced this action in the circuit court of Peoria County against the defendants, Edward Jackson, Jerry Sternstein and Frank Kirk, seeking to recover damages for libel. Defendants moved for summary judgment arguing that based on the pleadings and supporting affidavits, the statements alleged to be libelous were absolutely privileged and therefore there were no disputed facts to be tried. The court agreed with the defendants and entered judgment in their favor from which this appeal follows. We affirm.
+Plaintiff began employment for the Illinois Department of Local Government Affairs on March 15, 1973, as an administrative assistant for the Experimental Housing Allowance Program in Peoria, Illinois. The Experimental Housing Allowance Program was a joint program carried on by the Illinois Department of Local Government Affairs under contract with the United States Department of Housing and Urban Development. Plaintiff’s immediate supervisors in ascending rank were defendants Edward Jackson, Jerry Sternstein, and Frank Kirk. Edward Jackson was the experimental housing assistance program director. Jerry Sternstein was the chief of the office of housing and buildings. Frank Kirk was the director of local government affairs.
+After approximately nine months on the job, plaintiff’s work performance was evaluated by both Edward Jackson and Jerry Sternstein. As plaintiff’s immediate supervisors, it was the duty of both Jackson and Sternstein to make periodic progress reports to their superiors concerning plaintiff’s work performance.
+On January 3, 1974, Jerry Sternstein notified plaintiff that due to plaintiff’s inadequate job performance his services would no longer be needed. Plaintiff was given an opportunity to resign which he did effective April 30, 1974. Shortly thereafter plaintiff contacted the Federal Bureau of Investigation concerning alleged irregularities and improprieties occurring in the Experimental Housing Assistance Program. These allegations resulted in a complaint which was filed with the Department of Justice on or about August 1, 1974. Kenneth Alies, the regional director for housing assistance research experiments and the individual responsible for monitoring the State’s performance in the Experimental Housing Assistance Program, was charged with the duty of investigating the allegations in plaintiff’s complaint. Alies requested a point-by-point response to plaintiff’s complaint from Edward Jackson and Jerry Sternstein. On August 20,1974, Jackson and Sternstein sent their reply to Alies concerning each of plaintiff’s charges. In addition to defendants’ point-by-point response to plaintiff’s allegations, the defendants also included in their reply plaintiff’s work evaluation reports which had been compiled by both defendants Jackson and Sternstein.
+The complaint filed in this action itemizes twenty-seven statements or observations contained in the documents forwarded by the defendants. The statements alleged to be libelous range from observations that the items contained in the plaintiff’s charges were not true to comments that plaintiff was not professionally able to grasp the problems or adequately deal with other people.
+The only issue raised on this appeal is the plaintiff’s argument that the trial court erred in holding that the defense of absolute privilege was a bar to the plaintiff’s action for libel. In view of the nature of this case and the trial court’s judgment, we consider for the purpose of argument only that the statements were made and that they may have been libelous.
+The leading case dealing with absolute privilege is Barr v. Matteo (1959), 360 U.S. 564, 3 L. Ed. 2d 1434, 79 S. Ct. 1335, upholding absolute privilege where the director of a Federal agency issued a press release as to why he intended to suspend two of his employees. In Barr the court concluded that communications made by a public official within the scope of his authority which concerned matters committed by law to his control or supervision are absolutely privileged. In such cases as Blair v. Walker (1976), 64 Ill. 2d 1, 349 N.E.2d 385; Savarirayan v. English (1977), 45 Ill. App. 3d 105, 359 N.E.2d 236; Loniello v. Fitzgerald (1976), 42 Ill. App. 3d 900, 356 N.E.2d 842, and McLaughlin v. Tilendis (1969), 115 Ill. App. 2d 148, 253 N.E.2d 85, Illinois has recognized and applied the doctrine of absolute privilege as a defense where the statements might be otherwise regarded as defamatory.
+The only question to be decided is whether the communications in this case are outside the parameters of duty and responsibility of the defendants and in our opinion they are not. By virtue of the relationship between agencies and personnel, both the request for information and the point-by-point response were part of the usual and customary activities carried on by the persons involved. On this issue the plaintiff has failed to show how the request by Alies or the fact of a response by the defendants was not completely in accord with the duties of each. Rather, the plaintiff insists the defendants employed personal invectives and overreacted or overresponded to his efforts to investigate malfeasance in the agency’s activities. Such reasons do not support any claim that any of the parties were dealing outside the course of their duties or beyond the scope of responsibilities committed to them. We also note that periodic evaluation of job performance is required by statute. Ill. Rev. Stat. 1975, ch. 127, par. 63b108b.l4.
+For the foregoing reasons the judgment of the circuit court of Peoria County is affirmed.
+Judgment affirmed.
+BARRY, P. J., and STENGEL, J., concur.
