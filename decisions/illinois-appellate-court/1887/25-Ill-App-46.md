@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-02-17"
+citations: ["25 Ill. App. 46"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois v. William Toomey et al."]
+source_url: "https://static.case.law/ill-app/25/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4935864
+cites_cases: ["11 Barb. 91", "11 Vroom, 207", "11 Vroom, 215", "13 Mass. 295", "17 N. Y. 242", "21 Wis. 695", "3 Scam. 207", "33 Barb. 198", "37 Wis. 44", "60 N. Y. 428"]
+---
+
+# People v. Toomey
+
+## Majority (Wall, J.)
+
+Wall, J.
+It appears from the record in this case that William Toomey was County Clerk of Logan County, and as such gave the bond, as required by laxv, upon xvhich the present action xvas brought. The term of his successor began on the 4th day of December, 1882, and the last official day of the term of said Toomey was the 2d day of said month.
+On said last mentioned day he made out a statement in the form of an account, showing the county indebted to him in the sum of §2,133.78 for his fees in extending State and county taxes, xvhich paper he certified officially to be correct and left it in the office. He also made out his semiannual report of receipts and expenses of the office for the last six months of his term. This report can not be found, but it appears from the proceedings of the Board of Supervisors that it shoxved a balance in his hands of §414.23 due the county, xvhich sum he paid over. Whether, in this report, there is any reference to the account for §2,133.78, does not clearly appear. Ho official acts were performed by Toomey after the 2d of December. On the 4th of December his successor took charge, and on the same day there was a regular meeting of the County Board, to which Toomey presented said account, asking an allowance therefor.
+The bill was referred to the committee on claims. The committee reported, December 6th, recommending the payment of the claim, which report was adopted and the claim paid.
+To recover the money so paid this suit is brought on the official J)ond of said Toomey. There was judgment for the defendants in the Circuit Court, and the case comes here by the appeal of the plaintiffs.
+It is a familiar principle that the contract of a surety is to be construed strictly and he is not to be held responsible beyond the precise terms of his undertaking, and where the contract relates to the acts and conduct of one holding an official position the violation of the condition must occur during the term of office.
+The surety is responsible only for official acts done or omitted. It must be conceded that the making of the account in the form here stated was not the proper performance of the official duty of the County Clerk. He should, in the regular semi-annual report, have incorporated all the earnings as well as the receipts and expenses of the office, and therefore it was not necessary or proper to place the matter in that form for any purpose, so far as we are advised. The condition of the bond sued on is as follows: “The condition of the above bond is such, that if the above bounden, William Toomey, shall perform all the duties which are or may be required by law to be performed by him as County Clerk of the said County of Logan, in the time or manner prescribed by law, or to be prescribed by law, and when he shall be succeeded in office, he shall surrender and deliver to his successor in office all books, papers, moneys and other things belonging to said county and appertaining to his said office, then the above bond to be void, otherwise to remain in full force.”
+The default complained of must be in respect to the manner of performance of the duties required of him by law in his official capacity and must be the efficient cause of the plaintiff’s loss. Admitting the impropriety of making and leaving this account, so certified, in the office, and with the conceived purpose of afterward using it in the way it was used, is there such a necessary connection between it and the injury complained of as to hold his official sureties for the money so obtained? We think not. It was clearly illegal to pay him this money. This must have been known to the County Board. They can not plead ignorance of the law which forbade them to make the allowance. They are in pari delicto with liim> and for this reason, if for no other, should not be heard to demand restitution as against his sureties!
+Whether the county might not maintain an action against him for the money is not the question.
+But the efficient cause of the loss was the act of Toomey in demanding and of the Board in allowing the claim after the term of office had expired, for which act the sureties can not, according to well settled rules, be held liable. It may be tine that the certificate made on the 2d of December was the evidence upon which the Board based its action; but this was proof merely that the fees were earned as therein stated, a fact which is nowhere denied, and which might have been proved by producing the books of the office from which the statement was derived. The sole ground upon which this action can depend is, therefore, that a- certificate improperly made, because unnecessarily made, by the officer during his term, amounting merely to a tabulated statement of what is shown by the official records, was, after the term expired, by him presented to the County Board and by the Board accepted as sufficient proof upon which to make an allowance not warranted by the facts so proved. In our opinion this is no such breach of the condition of the bond as to justify a recovery against the sureties.
+Suppose this certificate had been used by some other person as proof upon which to support an unjust claim against the Board. Ho one would urge that in such case the bondsmen of the clerk could be held for the amount obtained thereby. The fact that the claimant and the person making the certificate are identical can make no difference. The substantial matter of which complaint is made, is an act done after the term had expired, and for which the sureties are not responsible, because it is not within the scope of their undertaking.
+' The judgment of the Circuit Court will be affirmed.
+Judgment affirmed.
