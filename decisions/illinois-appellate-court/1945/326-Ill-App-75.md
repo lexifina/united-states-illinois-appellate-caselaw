@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 9,447"
+decided: "1945-05-28"
+citations: ["326 Ill. App. 75"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John J. Lingle, Appellee, v. Board of Supervisors of Macon County, Illinois and County of Macon, State of Illinois, Appellants."]
+source_url: "https://static.case.law/ill-app/326/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4941449
+cites_cases: ["257 Ill. App. 349", "364 Ill. 150"]
+---
+
+# Lingle v. Board of Supervisors
+
+## Majority (Mr. Justice Hayes)
+
+Mr. Justice Hayes
+delivered the opinion of the court.
+John J. Lingle filed an application for a blind pension with the board of supervisors of Macon county, Illinois on November 18, 1938 which contained the necessary averments to comply with the Blind Pension Act. (Ill. Rev. Stat. 1943, ch. 23, sec. 279 et seq. [Jones Ill. Stats. Ann. 18.071 et seq.]) A report of the committee of pensions and public institutions at a subsequent meeting of the board of supervisors disclosed that Lingle’s application and others had been investigated and that all the applicants had been referred to the medical examiner. The report continues: “Your Committee wishes to state that all of the above applications have been returned to us from the Medical Examiner, Dr. Strickling, under his signature, as being blind . . . .” The committee then recommended that all the applicants including Lingle be added to the blind pension roll. In their action on this report, the supervisors limited the pension roll to *158 pensioners to be selected by the committee, the remaining applicants to be placed on a waiting list by the committee and this action was approved by the board but for some unexplained reason, Lingle’s name was added to the roll and he received a pension from April 1, 1939 to June 11, 1940. On this last date the board removed several pensioners including Lingle from the roll.
+In November 1942 Lingle prayed a writ of mandamus from the circuit court of Macon county compelling the board of supervisors of that county to pay him a blind pension from June 11, 1940 to July 1, 1944 when blind relief became an obligation of the State. The circuit court allowed the writ and the board of supervisors and the County of Macon have appealed to this court.
+The County of Macon contends that Lingle was not entitled to a pension because the blind examiner did not indorse on Lingle’s application a certificate showing that Lingle was blind as required by the statute (Ill. Rev. Stat. 1943, ch. 23, par. 283 [Jones Ill. Stats. Ann. 18.075]) and cite our opinion in People ex rel. Howse v. County of Shelby, 257 Ill. App. 349. In that case we held subject to demurrer a petition that did not aver “that the application of the petitioner was referred to the physician who was appointed ‘examiner of the blind’ by the supervisors, nor that this examiner indorsed on the application a certificate showing that the applicant was blind . . . . ” In any case an allegation and proof thereof that an applicant was referred to the blind examiner would be essential; and in a normal case, an averment and its proof that the examiner’s certificate was indorsed on the application would follow. We believe however, that substantial compliance with this latter provision of the statute is sufficient where the proof is clear and convincing that the blind examiner did in some definite manner certify to the board of supervisors that the applicant was blind. We do not mean to condone a lax administration of this statute or deviations from its requirements, but it seems clear that the legislature could not have intended to deny applicants the benefit of the statute because of errors made by those charged with administering it. See Waters v. Heaton, 364 Ill. 150. For the same reason we do not believe that it was fatal to Lingle’s case that the county clerk read to the board at their meetings the names and residences of the applicants determined by the examiner to be entitled to pensions instead of presenting a formal certificate containing that information.
+The County of Macon also contends that John J. Lingle was never placed on the blind pension roll by action of the board of supervisors. In its answer to the complaint in this cause, however it admitted “that the Board of Supervisors of Macon County, by its action on March 15, 1939, authorized the placing of said applicant upon the Blind Pension Roll as of the 1st day of April 1939, but state that said action of said Board of Supervisors was unlawful, erroneous and occurred through inadvertence and mistake. ...” While certain records of the board of supervisors showing that Lingle’s name was merely placed upon a so-called “waiting list” appear in the record it does not appear that these records evidence all the action taken by the board in this matter. Having made the above quoted admission in its pleadings, we believe it was necessary in order to avoid its effect, for the county to furnish proof that Lingle’s name was placed upon the roll by mistake and to explain how that mistake occurred. Instead, the county offered no evidence and stated through counsel that it was content to reply upon a “legal defense.” In the absence of proof to the contrary, it must be assumed that Lingle’s name was in some manner properly placed upon the roll.
+The judgment of the circuit court of Macon county is therefore affirmed.
+Judgment affirmed.
