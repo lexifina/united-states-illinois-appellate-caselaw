@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-111, 79-94 cons."
+decided: "1980-01-17"
+citations: ["83 Ill. App. 3d 41"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. NORMAN WILKINS, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/83/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5551662
+cites_cases: ["370 N.E.2d 540", "373 N.E.2d 20", "382 N.E.2d 227", "56 Ill. App. 3d 430", "69 Ill. 2d 85", "73 Ill. 2d 7"]
+---
+
+# People v. Wilkins
+
+## Majority (Mr. JUSTICE BARRY)
+
+Mr. JUSTICE BARRY
+delivered the opinion of the court:
+This is a consolidated appeal instituted by the defendant, Norman Wilkins, from his conviction for armed robbery and aggravated battery and from the subsequent revocation of his probation. At the trial on the charges of armed robbery and aggravated battery, the State’s evidence tended to establish, through the testimony of William Jette, the custodian and night watchman of the Harlem Inn, that at approximately 4:30 a.m. on October 2,1977, while seated in one of the restrooms, he heard a noise in the barroom of the tavern. As Jette opened the restroom door to investigate, he was struck twice on the head by a club wielded by the defendant.
+Thereafter, Jette was ordered by the defendant to deliver the proceeds from the bar’s cash register, Jette’s watch, and money from Jette’s pants pocket. Jette testified that he was also ordered by the defendant to assist in removing whiskey from the storeroom. As Jette was doing this he was struck a third and final blow to the head.
+While loading the whiskey, Jette was able to gain access to a gun, which he then fired at the defendant who, in turn, fled, leaving behind the club. Other testimony established that Jette was later treated at a hospital for a wound to his forehead which required stitches.
+Jette’s identification of the defendant was corroborated by both the testimony of the police officer who investigated the incident and by the testimony of the police officer who arrested the defendant. The officers indicated, respectively, that defendant had been seen earlier in the evening with the club in his possession, and that, at the time of his arrest, the defendant was suffering from two small wounds to his head.
+Alibi witnesses were presented by the defense. Sylvester Dobbins and Lorraine Williams testified that on October 2, 1977, the defendant arrived at Williams’ home at 2:30 a.m. The defendant was undressed by Williams and put to bed, and he did not wake up until 9 a.m., at which time Williams observed that the defendant’s clothes and shoes were exactly where she had put them at 2:30 a.m. The defendant did not leave the house until 12 noon.
+After the case was given to the jury, the jury asked to view the exhibits. Over the objection of the defendant that the jury had already viewed the exhibits, the court ruled that People’s exhibits Nos. 1 and 6, a bludgeon and a diagram, could be taken to the jury. Subsequently, the jury requested “[t]he exact answers of Sylvester Dobbins to the question — ‘On October 2nd during the hours while you were in your sister’s house, did anyone leave?’ ” To this request, the trial court replied, in writing:
+“In response to your question regarding testimony of Sylvester Dobbins, you heard the testimony — saw the witness testify — heard the arguments of counsel regarding the testimony and that is all the law allows.”
+One hour later, the jury returned guilty verdicts.
+The next day, a petition to revoke the defendant’s probation was filed, alleging that the defendant violated his probation in that on October 2, 1977, he committed the offenses of armed robbery and aggravated battery and that on January 9,1978, he was found guilty of these offenses. A hearing was held at a later date at which the defendant admitted the allegations of the petition.
+A consolidated sentencing hearing was held on March 20, 1978. At that time, the defendant was sentenced to what appeared to be concurrent terms of imprisonment of not less that six nor more than 12 years for armed robbery and aggravated battery and an additional concurrent term of not less than three nor more than nine years for burglary, the offense for which defendant had previously been sentenced to probation.
+In this appeal, the defendant raises three issues. The first is whether the trial court erred by refusing to exercise its discretion to allow or refuse the jury’s request to review the testimony of Dobbins. In a second, related issue, the defendant contends that he was denied his constitutional right to be personally present at every stage of the trial where the record does not disclose that the defendant was personally present on two occasions when the trial court considered communications from the jury. However, neither of these alleged errors was included in the defendant’s post-trial motion.
+As a general rule, consideration of issues on review is waived if the appellant has failed to properly preserve the alleged errors in a post-trial motion. (People v. Whittaker (1978), 56 Ill. App. 3d 430, 373 N.E.2d 20.) Even alleged errors of constitutional magnitude can be so waived. (People v. Precup (1978), 73 Ill. 2d 7, 382 N.E.2d 227.) While a reviewing court has the authority to consider the alleged error if it is determined to be plain error substantially affecting justice and the fairness of the proceeding (Ill. Rev. Stat. 1977, ch. 110A, par. 615(a)), we do not believe the first two assignments of error fit that category, and therefore, should not be considered.
+The remaining issue has changed in form, somewhat, since it was first expressed in the appellant’s brief. There, the defendant asked that the cause be remanded so that the sentencing order and mittimus could be amended to reflect the actual sentencing intention of the trial court. It appeared that the trial court imposed two concurrent sentences of six to 12 years for each of the convictions, armed robbery and aggravated battery. A problem arises because the maximum sentence which may be imposed for aggravated battery, under the sentencing law in effect prior to February 1, 1978, was not less than 3 1/3, nor more than 10 years’ imprisonment (Ill. Rev. Stat. 1977, ch. 38, pars. 12 — 4 (d), 1005 — 8—1 (b) (4), (c) (4)).
+The confusion is compounded by the State’s argument that the trial court sentenced the defendant on only the armed robbery conviction and the cause should be remanded for the imposition of a sentencce for the aggravated battery conviction. As a result of the State’s argument, the defendant has sought, by motion, to add a supplemental issue, which is, in essence, whether the failure to impose a sentence upon the finding of guilty of aggravated battery renders null and void any so-called conviction for aggravated battery. The defendant’s motion to add a supplemental issue is allowed, as is the State’s motion to respond to the defendant’s supplemental issue.
+Where a trial court fails to pronounce a sentence on one of a number of convictions, the judgment is not rendered a nullity. Instead, the cause should be remanded for the imposition of a sentence on the finding of guilty of aggravated battery since the judgment of conviction for which no sentence was imposed would not otherwise be final. See People v. Scott (1977), 69 Ill. 2d 85, 370 N.E.2d 540.
+Here, in rendering the sentence, the trial court refers to only one term of imprisonment. Since it would have been improper to impose this sentence for aggravated battery, we must infer that the sentence was imposed only on the armed robbery conviction.
+Accordingly, while the judgment of the Circuit Court of Kankakee County is affirmed, the cause is remanded for the imposition of a sentence on the aggravated battery conviction.
+Affirmed and remanded.
+ALLOY and SCOTT, JJ., concur.
