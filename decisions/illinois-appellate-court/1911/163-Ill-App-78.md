@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 15,664"
+decided: "1911-10-03"
+citations: ["163 Ill. App. 78"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gertrude Glaspy, Plaintiff in Error, v. United Brotherhood, Defendant in Error."]
+source_url: "https://static.case.law/ill-app/163/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2737693
+cites_cases: ["126 Ill. App. 15", "86 Ill. 479"]
+---
+
+# Glaspy v. United Brotherhood
+
+## Majority (Mr. Justice Smith)
+
+Mr. Justice Smith
+delivered the opinion of the court.
+In February, 1902, Belvert Glaspy, deceased, became a member of Maceo Council, one of the subordinate councils of the United Brotherhood, a fraternal organization. At the same time the Imperial Council of the United Brotherhood issued a policy of insurance on the life of Glaspy in the sum of $648, in which the plaintiff in error, Gertrude Glaspy, is named as the beneficiary.
+For a number of years prior to his death on June 16, 1908, Glaspy had been treasurer of the Imperial Council of the Organization, and also treasurer of Maceo Council. In December, 1907, being ill, Glaspy sent for the Imperial Begent or President of the organization and told him he was so ill that the work of the treasuryship was a hardship on him and he wished to resign. In February following the Imperial Begent went to Glaspy’s home for the purpose of checking up the Glaspy cash book with the book of the Imperial Secretary, which the Begent brought with him. After comparing the books in Glaspy’s presence, Mr. Smith, the Begent, claimed that Glaspy owed the organization $192.88, while both Mr. and Mrs. Glaspy maintained that the amount due was $70. Mr. Glaspy finally said that he was willing to settle for whatever the books called for, and this was satisfactory to both parties. Matters were left in this condition until Glaspy’s death.
+Glaspy was also in arrears with his dues as a member of the order. The evidence shows that Grlaspy paid his April, 1908, dues on April 4,1908. He paid no dues in May 1908, and on the first day of June, 1908, under Section 21 of the by-laws of the organization, he was suspended as a member by that fact. That section provides as follows:
+“Section 21. On the first day of each and every month each member shall pay in cash to the collector of his Council, or to the Imperial Secretary, if the member is an unattached member-at-large, a sum sufficient to cover for such month all assessments, dues, fees, taxes, fines and other demands of the order, required under the Constitution and Laws of the Order, to be paid by such member, or such payments shall be in default, provided, that each member shall have thirty days grace within which to make such payments, and upon failure to pay within the said time, the member shall ipso facto stand suspended from the order; provided, also, that a member may pay in advance for as many months as he likes; provided, further, that the foregoing provisions of this Section as to the time of payment shall not apply to the initial or first assessment. Council dues, fees, taxes and, other demands of the Order which must be paid on or before the last day of the month in which a member is initiated or otherwise admitted or reinstated or the member shall ipso facto stand suspended from the Order on the first day of the month succeeding initiation or admission or reinstatement.”
+If the by-laws so provide a member of a fraternal order may be ipso facto suspended without any action of the order or any officer thereof. Benevolent Society v. Baldwin, 86 Ill. 479; Nat. Council Knights & Ladies of Security v. Burch, 126 Ill. App. 15.
+In our opinion Grlaspy at the time of his death stood suspended from the order for non-payment of dues in May, 1908, and for not paying over funds in his hands as treasurer of the Imperial Council, under and by force of Section 141 of the by-laws of the Order. The books of the Imperial Council, and of Maceo Council were in Grlaspy’s possession, and after his death they were in the possession of the plaintiff in error. Smith, the Imperial Begent, testified that he demanded the books and she did not turn them oyer to the order. Grlaspy’s cash book showing his account with the Imperial Council was afterwards presented in court during the trial, and introduced in evidence. It appears attached to the record in the case. It apparently shows total cash received $5,080.10, and total amount paid out $4895.19, showing a balance of $184.91 in Glaspy’s hands at the time of his death. This was never paid over by him. Section 141 of the By-Laws of the order provides:
+“Section 141. Any officer of a Grand Council, or of a subordinate Council, or of a cq-operative Council, or any deputy, or any member, who has received any funds whatsoever paid by any member or candidate, either for the Charter fee, or for any benefit fund of the order, or for any tax or dues or for any other funds, fees or dues whatsoever, and failing to pay same or any part thereof to the Imperial Council, or to the Grand Council, or to the subordinate Council, or to the co-operative Council, as the case may be, at the time directed in the Constitution and Laws of the Order, shall ipso facto stand suspended and he may be dealt with summarily or otherwise by and at the direction of the Imperial Begent or the Executive Council. ’ ’
+The Imperial Begent, in our opinion, had no authority under the constitution and by-laws of the defendant in error to waive Glaspy’s suspension as a member, and the letter dated June 20, 1908, offered in evidence by plaintiff in error, had no such effect. Section 1 of Article 5 of the Constitution and Laws of the order provides: “No officer of the Imperial Council, Grand Council or subordinate Council has or shall have power to waive any part of the Constitution or Laws of the United Brotherhood. ’ ’
+We find no material error in the propositions of law held applicable to the case by the court. The court found the issues in the case for the defendant. We think upon the evidence the judgment of the Municipal Court is just, and the judgment is therefore affirmed.
+Affirmed.
