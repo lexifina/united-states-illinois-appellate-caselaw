@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 34,016"
+decided: "1930-03-17"
+citations: ["257 Ill. App. 41"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rudolph Singer, Appellee, v. G. T. Cross et al., Appellants."]
+source_url: "https://static.case.law/ill-app/257/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3262863
+cites_cases: ["200 Ill. App. 612", "205 Ill. 77", "214 Ill. 463", "225 Ill. App. 209", "231 Ill. App. 183", "233 Ill. App. 196", "234 Ill. App. 596", "236 Ill. App. 300", "236 Ill. App. 587", "238 Ill. App. 25", "316 Ill. 60", "328 Ill. 269"]
+---
+
+# Singer v. Cross
+
+## Majority (Mr. Presiding Justice McSurely)
+
+Mr. Presiding Justice McSurely
+delivered the opinion of the court.
+In a fourth class case brought by plaintiff to recover damages to his -automobile, upon trial by the court plaintiff had a judgment against defendants jointly for $331.95, from which they appeal.
+Plaintiff’s statement of claim alleged that the defendants or their servants owned, operated and controlled an automobile which was so carelessly operated that it collided with plaintiff’s automobile. In the affidavit of merits the defendant Illinois Hertz Driv-UrSelf Stations, Inc., a corporation, alleged that it was not operating, maintaining or controlling any automobile at the time and place alleged. The other defendants, Cross and Wilbert, denied that they were guilty of the negligence charged. The amount of damages was also denied.
+The evidence shows that between 4 and 5 o’clock p. m. of March 10, 1929, plaintiff was driving his automobile north on Wabash Avenue in Chicago, when there was a collision at the intersection of 39th Street with another automobile coming from the east. This latter automobile was owned by the Illinois Hertz Driv-Ur-Self Stations, Inc. It was rented for a consideration to Wilbert, who had taken in the defendant Cross, who was driving the automobile at the time of the accident.
+The defendant Hertz Company argues here that, as it rented the automobile to the codefendant Wilbert, he thereupon became a bailee with respect to the auto- . mobile and that the law is that a bailor is not liable to third persons for injuries received through the negligence of the bailee. That this is the rule has been stated in a number of cases in this State. City of Rockford v. Nolan, 316 Ill. 60; Woods v. Bowman, 200 Ill. App. 612; Freeman v. Dixon, 233 Ill. App. 196; Mansfield v. Shapiro, 234 Ill. App. 596.
+Plaintiff replies that the affidavit of merits admitted ownership of the automobile by "the Hertz Company and this made a prima facie case that the driver was the servant of the Hertz Company at the time of the accident, citing Howard v. Amerson, 236 Ill. App. 587. This rule may be conceded, but the evidence sufficiently proves that the Hertz Company was not operating or controlling the automobile at the time of the accident. It was stipulated that this company had rented the car to the defendant Wilbert for a money consideration, and the contract of rental was introduced in evidence. There was no evidence that the defendants Cross and Wilbert had any legal relation with the Hertz Company except that Wilbert was a bailee for hire. In addition to the cases above cited, 3 R. C. L. 145 may be cited, where it is said:
+“It seems to be very well settled that a bailor cannot be held responsible to a third person for the negligent use by his bailee of the chattel bailed. Such a liability could only be sustained on the theory that a bailor stands in the relation of principal or master to the bailee, and that such a relationship does not exist is indicated by the fact that the duties and obligations of the bailor and bailee are totally different and that the former has no control over the servants of the latter. Thus in accordance with this principle it has been held that the owner of a team demised for a term is not liable for an injury done by it while being driven along the highway by the bailee, although the owner is in the vehicle at the time, if there is no positive and active concurrence in the injury on his part. Pro hac vice the bailee is the exclusive owner of the thing bailed.” See also 6 C. J. 1151.
+We are urged to declare that there must be an exception to this rule, as a matter of public policy, where, as here, the bailor is engaged in the business of renting automobiles. There is some merit to. this 'suggestion, but we are unable to find any substantial ground for mailing such an exception. The obligations and responsibilities of a bailor and bailee, respectively, would seem to be the same whether or not the parties are individuals or corporations engaged in letting vehicles for hire.
+The judgment having been entered jointly as to all the defendants and being void as to the defendant Illinois Hertz Driv-Ur-Self Stations, Inc., it is invalid as to all the defendants. Woods v. Bowman, 200 Ill. App. 612; South Side Elevated R. Co. v. Nesvig, 214 Ill. 463; Seymour v. Richardson Fueling Co., 205 Ill. 77; Freeman v. Dixon, 233 Ill. App. 196.
+Defendants argue that the greater weight of the evidence proves the plaintiff was guilty of contributory negligence. Plaintiff testified that, when he had passed the northerly street car track on 39th Street, going about 18 miles an hour, he first saw the other car coming from the right 200 feet away, at the rate of 45 to 50 miles an hour. It is doubtful if defendant’s car, even at the rate of speed estimated by plaintiff, could have reached plaintiff’s car before it crossed 39th Street. Defendant Cross testified he was driving about 15 miles an hour and that when he was 10 feet east of the intersection he saw plaintiff’s car approximately the same distance to the south of the intersection, traveling at 35 miles an hour. Wilbert gave corroborating testimony, saying in effect that the respective cars reached the street intersection at about the same time. If this was the position of the cars, plaintiff should have yielded the right of way to the other car. Partridge v. Eberstein, 225 Ill. App. 209; Fisher v. Johnson, 238 Ill. App. 25; McCarthy v. Fadin, 236 Ill. App. 300.
+Production of a repair bill and evidence of payment thereof, where'there is nothing to show that it was not rendered and paid in good faith, is sufficient proof of damage. Byalos v. Matheson, 328 Ill. 269; Cloves v. Plaatje, 231 Ill. App. 183.
+For the reasons above indicated the judgment as to all defendants is reversed and the cause is remanded as to defendants Cross and Wilbert, and judgment of nil capiat will be entered here as to the defendant Illinois Hertz Driv-Ur-Self Stations," Inc.
+Reversed and remanded as to certain defendants. Judgment of nil capiat as to one defendant.
+Hatchett and O’Cohhor, JJ., concur.
