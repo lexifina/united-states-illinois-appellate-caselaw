@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "15631"
+decided: "1980-02-14"
+citations: ["81 Ill. App. 3d 136"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re MARY ANN JACKSON.—(THE PEOPLE OF THE STATE OF ILLINOIS, Petitioner-Appellee, v. RONALD JACKSON et al., Respondents-Appellants.)"]
+source_url: "https://static.case.law/ill-app-3d/81/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3227832
+cites_cases: ["363 N.E.2d 820", "368 N.E.2d 775", "376 N.E.2d 49", "379 N.E.2d 872", "387 N.E.2d 923", "392 N.E.2d 929", "53 Ill. App. 3d 353", "59 Ill. App. 3d 412", "63 Ill. App. 3d 328", "66 Ill. 2d 515", "69 Ill. App. 3d 565", "74 Ill. App. 3d 214"]
+---
+
+# People v. Jackson
+
+## Majority (Mr. JUSTICE CRAVEN)
+
+Mr. JUSTICE CRAVEN
+delivered the opinion of the court:
+The State filed a petition for adjudication of wardship on November 14, 1978, seeking to have a child, born September 14, 1978, declared a ward of the court. The petition charged the child’s natural parents with neglect under section 2 — 4 of the Juvenile Court Act (Ill. Rev. Stat. 1977, ch. 37, par. 702 — 4) because her environment was harmful to her health and alleged that the parents were not able to provide necessary care and that her father hit her repeatedly on November 10, 1978.
+The court appointed a guardian ad litem on November 16, 1978.
+The trial court’s order, entered and filed March 1,1979, declared the baby to be a neglected minor. The court order specifically found that the parents were unable to provide necessary care for the child, that her home environment was injurious to her health, and that the baby had been abused physically. The parents filed their notice of appeal March 27, 1979.
+The State has the burden of proving neglect by a preponderance of the evidence. (In re Gomez (1977), 53 Ill. App. 3d 353, 368 N.E.2d 775.) The trial court has broad discretion in deciding child neglect cases; its decision will be overturned on appeal only when the challenging party shows either that the trial court has abused its discretion, or that the decision is contrary to the manifest weight of the evidence. In re Stilley (1977), 66 Ill. 2d 515, 363 N.E.2d 820.
+A review of the trial evidence shows clearly that the lower court’s decision finding neglect should not be disturbed upon appeal. The infant had several medical problems. She was bom four weeks premature and had an imperforated anus; to correct the latter, surgeons opened a fistula below the vagina to function as an anus. The parents — both are mentally retarded, classified as trainable, mentally handicapped, with intelligence quotients in the sixties — received considerable instmctions regarding the feeding necessary for a premature infant and the special hygienic measures necessary to aid the specially opened fistula. While all witnesses — nurses, counselors, and caseworkers — testified that the parents were enthusiastic about their child, they also testified that the parents frequently failed to follow feeding and bathing schedules set up by the nurses.
+Several witnesses testified to bruises they saw on the child. One nurse saw a bmise the size of a quarter by the elbow on the baby’s left arm November 1, 1978. A caseworker testified that the father told her on November 10 or 11 that he had spanked the baby when it was crying; the witness saw six to eight black-and-blue bruises covering the baby’s buttocks; X rays failed to show any broken bones. Earlier, on October 23, the same witness noticed a bruise the size of a dime on the baby’s left shin. On November 5, the witness noticed a bruise the size of a dime or smaller on the baby’s left elbow. On November 1, the father told this witness that he had bitten the baby on the nose because it was crying; the nose bled, and the parents took the child to the hospital.
+The mother testified that she had never hit or spanked the child. The father was not sure what had caused the bruises, but admitted to biting the baby’s nose — he did it because he was “nervous.”
+Physical abuse alone will support a finding of neglect. (In re Christenberry (1979), 69 Ill. App. 3d 565, 387 N.E.2d 923; In re Brooks (1978), 63 Ill. App. 3d 328, 379 N.E.2d 872; In re Jones (1978), 59 Ill. App. 3d 412, 376 N.E.2d 49.) These instances of abuse, together with the difficulty the parents have in caring for their child, show that the trial court’s decision is not contrary to the manifest weight of the evidence.
+The parents also argue that the trial court improperly admitted testimony concerning their mental capacities contrary to the privilege in the Mental Health and Developmental Disabilities Confidentiality Act (MHDDCA). (Ill. Rev. Stat., 1978 Supp., ch. 91½, par. 801 et seq.) The trial court overruled the guardian’s and the parents’ objection under the confidentiality statute to testimony by a caseworker pertaining to the father’s psychiatric treatment in a State facility for the developmentally disabled. Later, the trial court sustained an objection to testimony by a social worker pertaining to the parents’ mental capacities. This objection was made by the guardian, but not by the parents’ attorney. The minor’s guardian could not properly claim this privilege or base his objection on it; the MHDDCA provides that in civil, criminal, administrative, or legislative proceedings, the privilege belongs to the recipient of mental health or developmental disabilities services. Ill. Rev. Stat., 1978 Supp., ch. 91½, par. 810(a); Laurent v. Brelji (1979), 74 Ill. App. 3d 214, 392 N.E.2d 929.
+With regard to the first exercise of the privilege, the objectionable testimony pertained only to the psychiatric treatment and not to the caseworker’s estimation of the parents’ abilities. Admitting this testimony was proper; section 11 of the MHDDCA (Ill. Rev. Stat., 1978 Supp., ch. 91½, par. 811) provides that records and communications may be disclosed in connection with the Abused and Neglected Child Reporting Act (Ill. Rev. Stat. 1977, ch. 23, par. 2051 et seq.) and proceedings stemming from such disclosure. Although the record does not indicate whether this witness reported her suspicions to the Department of Children and Family Services, the use of the testimony in this case fits within the intention of that section of MHDDCA. Even if the trial court committed error in admitting the testimony pertaining to the father’s treatment in the State facility, the error was surely harmless, given the great mass of evidence supporting the trial court’s decision.
+Judgment affirmed.
+MILLS, P. J., and TRAPP, J., concur.
