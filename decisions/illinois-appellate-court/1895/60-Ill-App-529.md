@@ -1,0 +1,48 @@
+---
+court: "Illinois Appellate Court"
+decided: "1895-12-02"
+citations: ["60 Ill. App. 529"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["De La Vergne Refrigerating Machine Co., John C. De La Vergne and Thomas L. Rankin, v. Mae R. McLeroth."]
+source_url: "https://static.case.law/ill-app/60/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5155895
+cites_cases: ["131 Ill. 557", "150 Ill. 580", "3 Ill. App. 602", "37 Ill. App. 203", "37 Ill. App. 601", "40 Ill. App. 304", "41 Ill App. 229", "69 Ill. 426"]
+---
+
+# De La Vergne Refrigerating Machine Co. v. McLeroth
+
+## Majority (Mr. Justice Waterman)
+
+Mr. Justice Waterman
+delivered the opinion oe the Court.
+This was an action brought to recover for personal injuries sustained by plaintiff while riding as an invited guest on the “ ice railway ” in the Midway upon the World’s Exposition grounds. The railway had not been opened for business ; experimental trips, only, were being made. ¡Numbers of people took a free ride. The plaintiff claims to have been invited by the defendants, and to have ridden upon such invitation.
+Whether the plaintiff was, when injured, riding upon the invitation of the agents of the- defendants, or any of them, and whether, if so invited, such agents were acting within the scope of the authority to them given, either express or implied, as well as whether the car upon which the plaintiff rode was then in the possession or control of the defendants, or either of them, or being operated by any of the defendants, were disputed questions on the trial below.
+There is not in this case, arising from the injury, any presumption of negligence by the defendants, or either of them. None of appellants was acting as a common carrier.
+It was incumbent upon appellee to show, by a preponderance of the evidence, that the accident was not only the result of negligence, but in what the negligence consisted, and that such of the defendants as she obtained a judgment against were responsible for the lack of care of which she complains.
+Counsel for appellee make- in their brief what appears to be a correct statement of the manner and cause of the accident; this is as follows:
+“ The accident occurred in rounding the acute curve at the west end of the structure; the front sleigh box in which appellee Avas seated left the runners, by the jolting out of the coupling pin, which was dropped loosely through a hole in the bottom of the sleigh into a hole in the bob or runner.
+The sleigh crashed through the slight rail at the side and fell to the ground Avith its occupants.”
+By the term “dropped loosely,” counsel mean, was, in the construction of the sleigh, put so as to fit loosely in a hole in the bottom of the sleigh, passing from this hole into a hole in the bob or runner.
+A material question in the trial below, it thus appears, Avas, who was responsible for the coming out of this coupling pin ? By whose negligence was it that the “ sleigh crashed through the slight rail at the side and fell to the ground ? ”
+Appellants contended that the construction of the Avood work, sleighs, cable and engines of this ice railway Avas let out to a contractor named Thompson; that he had possession of the premises, and appellants did not, nor did either of them, retain any control over the manner in which such contractor should do what he had undertaken; and that Thompson had not delivered any of the Avork to appellants, or either of them, but was in full control and possession of the same when plaintiff was injured.
+Upon this premise, appellants insisted that for any accident happening in consequence of any negligence of said Thompson while doing such work, as the coming out of the coupling pin, they were not responsible.
+Notwithstanding this position of appellants, and the giving of much evidence tending to sustain it, the court instructed the jury as follows:
+“ If the jury find from the evidence that the so-called ice railway and its appliances were erected and placed on the Midway Plaisance in Chicago under and by virtue of the authority of the concession from the World’s Columbian Exposition to De La Vergne and Rankin, offered in evidence, and that L. A. Thompson, but for said concession, would have had no right or authority to erect any part or portion thereof under any agreement that he might have made with De La Vergne and Rankin, or the De La Vergne Refrigerating Machine Company, then the court instructs the jury that the terms of any such agreement so made can not be and are not binding on the plaintiff in this cause; that as to the plaintiff such an agreement would but constitute said Thompson the employe of the concessionaires, and the act of said Thompson in so carrying out the terms of said agreement would, as to the plaintiff, be the acts of said concessionaires, or of such defendants as you may find from the evidence said Thompson so performed them for.”
+It is quite true that the terms of any agreement made by appellants, or either of them, with L. A. Thompson, are not binding upon appellee; she had nothing to do with, or any notice of, such agreement. The question of whether she was bound by such agreement, was not before the court below. Such agreement was not admissible in evidence to bind her, but to show the state of affairs which existed when the accident occurred.
+Appellants had a right to show their relation to the mechanical appliances in the operation of which plaintiff was injured, and for this purpose the agreement with Thompson was admissible. The fact that the concession from the World’s Exposition Company was to De La Vergne & Rankin, and that the written agreement giving such concession forbade an assignment thereof save by the written consent of the grantor, which was never given, did not make said Thompson, under his contract with the De La Vergne Company, an employe of said concessionaires; so that his acts in carrying out his contract were, as to the plaintiff, the acts of such concessionaires.
+It is quite likely that the World’s Exposition Company might, as against De La Vergne & Lankin, have insisted that the work they procured to he done should be treated as done by them.
+No controversy as to the relative rights of De La Vergne & Lankin with the Exposition Company was before the uourt below. The plaintiff had been injured, she claimed, by the negligence of the defendants; what they had to do with the machinery or railway upon which she rode, and her being thereon, were questions for the consideration of the court. In other words, did they owe a duty to her which they neglected, by reason of which neglect she was injured %
+Neither duty to her nor neglect by them was established by proving the fact that they were the concessionaries in a concession under which the ice railway was built.
+Two instructions for the plaintiff, upon a hypothetical case, directed the jury to find the defendants operating the railway guilty, and assess the plaintiff’s damages, not to exceed, however, $25,000. Such method of calling the attention of the jury in an action of tort, to a sum the verdict is not to exceed, has been frequently condemned. The East St. Louis Connecting Ry. Co. v. O’Hara, 150 Ill. 580; Chicago, R. I. & P. Ry. Co. v. Austin, 69 Ill. 426; Village of Warren v. Wright, 3 Ill. App. 602; Lake Shore & Mich. So. Ry. Co. v. Parker, 131 Ill. 557; Benson v. C. & N. W. Ry. Co., 41 Ill App. 229.
+Nor is it the case that all the defendants operating the railway are responsible for the negligence of any one of the defendants so operating, inviting and permitting the plaintiff to become a passenger upon the railway.
+It is not contended that when this injury occurred, the railway was being operated for hire, or that plaintiff became a passenger by reason of any contract with her. While it is true that the fact that she paid no fare, as is stated in the fourth instruction, “ in no manner altered the duty of the defendants,” yet it is a fact bearing upon the question of what duty, if any, was owing to her.
+In actions for negligence, the first requisite is to show the existence of the duty which it is insisted has not been performed. Angus v. Lee, 40 Ill. App. 304; L. S. & M. S. Ry. Co. v. Pauly, 37 Ill. App. 203.
+One who invites another to come to his house for no specific business, does not owe to him a duty to make it" safe; while an owner so inviting is liable for anything in the nature of a trap or concealed source of mischief of which he has knowledge and the invited guest has not. Gibbon, Parish & Co. v. Syiepenski, 37 Ill. App. 601.
+A shop-keeper owes a higher duty to those who, under his implied invitation, come to his place of business to buy. Wharton on ¡Negligence, Sec. 351.
+Plaintiff was described in the instructions as a passenger in a way that was quite apt to mislead the jury.
+The word passenger ordinarily conveys the idea of one who, for hire, has taken a place in a public conveyance for the purpose of being transported from one place to another. Webster’s Dictionary; Bouvier’s Law Dictionary; Anderson’s Law Dictionary; Penna. Ry. Co. v. Price, 256 -267.
+The accident resulted from the coming out of a coupling bolt. What caused the bolt to come out was, not shown. As before said, neglected duty is the basis for an action for negligence. To justify a recovery it must appear that the injury complained of was the result of some neglect alleged and proven.
+The judgment rendered in the court below can not be justified under the above rules, and it is reversed and the cause remanded.
