@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1880-06-17"
+citations: ["6 Ill. App. 454"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah M. Hawley v. Rachel Burd, Adm’x."]
+source_url: "https://static.case.law/ill-app/6/cases/0454-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4748190
+cites_cases: ["12 Mass. 153"]
+---
+
+# Hawley v. Burd
+
+## Majority (Lacey, J.)
+
+Lacey, J.
+This was an action of account by the appellant against the appellee, who was administratrix of James S. Burd, deceased, who was tenant in common with appellant, in a certain tract of land. The deceased occupied the land and enjoyed the use of it and the profits, whatever they were. The declaration charged that appellee’s intestate received and used the issues and profits of the land in greater proportion than his interest; that deceased and appellant were joint owners, and that no account had ever been made, and demand for an account and refusal. There was verdict of the jury against appellant. It appears that John Burd, who was the father of appellant, and James S. Burd, died in 1854, leaving his above named, children his only heirs-at-law, and his widow, Eliza Burd. The widow lived on the land with James Burd till she died. The latter occupied the land three years after his mother’s death, which took place in May, 1872. The balance of the year in which his mother died he occupied under the same agreement he had with her. During the next two years, 1873 and 1874, James S. Burd occupied it alone, and had the full use and control of the land, and enjoyed whatever rents and profits there were, after which he died. He, as well as the appellee, refused to make any account or settlement with appellant for her share of the rents and profits. It appears that the use of the land for the years 1873 and 1874, are the only years that an account was asked for.
+Sec. No. 1, Chap. 2, R. S. 1874, provides “that where one or more joint tenants, tenants in common, or co-partners in real estate, etc. shall take and use the profits or benefits thereof in greater proportion than his or their interests, such person * * * * shall account therefor to his or their co-tenant, jointly or severally, ” etc. Section 3 provides that when any person is liable to account, etc., and will not give an account willingly, then the party entitled to have an account may bring his action of account, etc. The judgment as provided in section six of the same act, if the verdict shall be against the defendant, is that he “do account.” Sec. 7 provides that the count shall then appoint one or more able, disinterested and judicious men as auditors to hear, determine and adjust the accounts between the parties * * * who shall take and state the account between the parties and make .report to the court.
+Sec. 11 provides that “ the auditors, or a majority of them shall .... adjust the accounts and state the balances, io whom due, and report to the court. If the court approves the account, judgment shall be rendered on such report for such sum as shall be found in arrear from either party, with costs,” etc.
+As a defense to this action, appellee was allowed to introduce the evidence of one Aldrich to show what crops were raised on the farm for 1873; that Burd was not a- successful farmer, and made no money out of the farm; that Burd had 200 bushels corn in one crib and 60 bushels in the other, and that he left some corn and oats on the place; that Burd had a team to farm with, and what the use of the team and his wages and board were worth per month, and what it cost to harvest the grain, thresh the oats, and the use of the tools; that he did not know of Burd’s selling any corn; that after deducting the labor of himself and team and expenses of seed, threshing, harvesting and repairs, there was no profit in the farm for these two years. Scroggins was allowed to testify over appellant’s objection, to the same effect.
+The court then, on the part of the appellee, gave one instruction, that the jury, in forming their judgment as to whether James S. Burd received, during the years 1873 and 1874, more than his due proportion of the profits and benefits of the land, they were to consider whether said Burd received any profits or benefits over and above the necessary and reasonable expense and cost of taking care of the farm and keeping up the fences, and the cost of raising the crops and harvesting them; and if you find from the evidénee that this was as much or more than the profits and benefits then the law was for the defendants.
+To the giving of this instruction the appellant excepted.
+We are of the opinion, that in allowing the above evidence, and giving of such instruction, the court below erred.
+The language of the statute, “ shall take and use the profits thereof in greater proportion than his or her interest,” means the gross profits, and not the net profits.
+The issue in the case is not whether upon a final settlement the account is balanced, but whether there should be an account made. The adjusting of balances is left entirely to the auditors. It will be seen that after the judgment that the defendant “ do account,” and the auditors appointed have reported the final balance, that in case the plaintiff owes the defendant, judgment may be rendered against plaintiff for the amount found due, and costs, or the account may be found exactly balanced, or in favor of plaintiff. If it were the issue in this action, whether anything were due from defendant on final balance, then the verdict of the jury should be conclusive that defendant owed plaintiff some amount, and the auditors would not be át liberty to find that plaintiff owed defendant, but must find against the latter at least some amount; but by statute they may find in defendant’s favor — at least that he owes nothing for profits.
+Such has been the ruling of other courts in construing this statute. McPherson v. McPherson, 11 North Carolina (Iredel) It. 400; Freeman’s Illinois Pleading and Practice p. 284, 266, and Henderson v. Bastion, reported in full in that work.
+For the above reasons the judgment is reversed, and the cause remanded.
+Reversed and remanded.
