@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "61617"
+decided: "1976-03-18"
+citations: ["37 Ill. App. 3d 173"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CURTIS HOWARD, Plaintiff-Appellant, v. DECOR HOME BUILDERS, INC., et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/37/cases/0173-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2715662
+cites_cases: ["28 Ill. App. 3d 1014", "34 Ill. App. 3d 922"]
+---
+
+# Howard v. Decor Home Builders, Inc.
+
+## Majority (Mr. JUSTICE McGLOON)
+
+Mr. JUSTICE McGLOON
+delivered the opinion of the court:
+This is an appeal from an order of the circuit court of Cook County which granted defendants’ section 72 petition and vacated a prior default judgment which had been entered as a sanction. Plaintiff appeals.
+We affirm.
+The facts, stated simply and directly, are as follows. On August 7,1973, the trial judge orally ordered the defendants Herda to file their answers to plaintiff’s interrogatories on the morning of August 10, three days later, or judgment would be entered against them as a sanction for noncompliance with discovery rules. (Supreme Court Rule 219.) On the morning of August 10, the answers had not yet been filed so the trial court struck defendants’ answer and entered a default judgment in favor of plaintiff and against the individual defendants. A few hours later that day, believing that they were in compliance with the court’s order and before learning of the default judgment, defendants filed their answers to interrogatories with the clerk of the circuit court of Cook County, and also mailed a copy of the answers to plaintiff’s counsel.
+On August 27, 1974, over a year later, the individual defendants filed a motion to vacate the default judgment, pursuant to section 72 of the Civil Practice Act. (Ill. Rev. Stat. 1973, ch. 110, par. 72.) The affidavits accompanying the section 72 petition alleged that the answers were filed on August 10, 1973, and that defendants exercised due diligence inasmuch as they first learned of the judgment against them when they were served with a writ of execution on June 24, 1974. The affidavits also alleged the details of defendants’ meritorious defense to plaintiff’s complaint. The trial judge denied the motion, but later reconsidered the matter and entered an order vacating the default judgment. In entering the order, the judge stated: “But I am not going to enter a judgment for *4000 on a technicality, I won’t do it. I don’t think its fair.” Plaintiff appeals.
+PlaintifFs position on appeal is that defendants’ section 72 petition and accompanying affidavits are insufficient to show due diligence, and that defendants were not entitled to vacation of the judgment. Particularly, plaintiff argues that defendants’ counsel’s absence from court on August 10 was inexcusable because counsel knew that the hearing had been continued to that day, yet he failed to appear. Defendants’ position is that they thought that filing the answers in the clerk’s office on August 10 was sufficient to comply with the court’s order, and that they did not know about the default judgment until the writ of execution was served upon them on June 24, 1974, over 400 days after the judgment was entered.
+We believe that the decision in Manny Cab Co. v. McNeil Teaming Co. (1975), 28 Ill. App. 3d 1014, 1018-19, is dispositive of the issue in the instant case, which is whether the trial court abused its discretion in granting defendants’ section 72 petition. In that case, this court stated the applicable law in such controversies:
+“It is well settled that a section 72 petition is subject to the same rules of pleading as any other action, and must, therefore, state adequate grounds for relief and petitioners’ entitlement thereto. It is further recognized that a litigant has the duty and obligation to follow the progress of its case and that generally relief under section 72 is granted only after a showing of due diligence. However, the question of due diligence need not be viewed in a vacuum. For the sufficiency of a petition to set aside a default judgment under section 72 addresses itself to the equitable powers of the court, and where, in the interest of justice and fairness, a default judgment has been entered under unfair, unjust, or unconscionable circumstances, that judgment will be vacated. Under these circumstances, justice and good conscience may require that a judgment be vacated even though there may be a lack of due diligence. In this regard, it is important to note all the circumstances of the proceedings, including the conduct of the parties and of counsel. When the decision of the trial court is based upon these equitable considerations, a court of review is not disposed to overturn it unless an abuse of discretion is clearly demonstrated.” (Citations deleted.)
+With regard to knowledge of the judgment as relating to due diligence the court wrote:
+“Defendants were not notified of the entry of judgment, nor did they know of its existence until garnishment proceedings had been initiated some 100 days later. It has been repeatedly stated that service of an execution more than 30 days after rendition of a judgment casts a ‘cloud’ upon the proceedings which a court may consider when determining the sufficiency of a section 72 petition.” 28 Ill. App. 3d 1014, 1020.
+In the instant case, the default judgment was entered as a sanction for noncompliance with discovery rules. Defendants complied only a few hours after judgment was entered, believing that they had complied in a timely fashion, and already having explained to the trial court the reasons for delay to August 10. This case does not present the type of contumacious behavior we discussed in 612 N. Michigan Avenue Building Corp. v. Factsystem, Inc. (1975), 34 Ill. App. 3d 922, leave to appeal denied, where compliance three days after the entry of the judgment order was insufficient to warrant setting aside the sanction order in light of defendants’ behavior. Defendants herein alleged not having notice of the entry of the default judgment until they were served with the writ of execution over 400 days later. The delayed service of execution, as described in Manny Cab Co., cast a cloud upon the proceedings which may be considered by a court in determining due diligence.
+Under these conditions, the trial court considered the section 72 petition as being addressed to its equitable powers, and believed that fairness, justice, and fair play required vacation of the judgment. Having reviewed the circumstances, we hold that the trial court entered the vacation order in its discretion, and we do not believe that discretion was abused.
+For the abovementioned reasons, the order of the circuit court of Cook County granting defendants’ section 72 petition, vacating the judgment, and setting the cause for trial is affirmed.
+Order affirmed.
+DEMPSEY and McNAMARA, JJ., concur.
