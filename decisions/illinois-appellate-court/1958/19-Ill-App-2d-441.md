@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 47,405"
+decided: "1958-11-06"
+citations: ["19 Ill. App. 2d 441"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MURPHY and KILEY, JJ., concur."]
+parties: ["Chicago Housing Authority, a Municipal Corporation, Petitioner, v. Sam Cooper, et al., Defendants. On the Petition of Joseph D. Orloff and Ben Turovitz, Petitioners and Appellees, v. M. S. Gans, Philip Richard Burke, et al., Respondents and Appellants."]
+source_url: "https://static.case.law/ill-app-2d/19/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5191556
+cites_cases: ["11 Ill.2d 268", "132 Ill. 342", "214 Ill. 330", "268 Ill. 232", "321 Ill. App. 91", "331 Ill. App. 143", "404 Ill. 417", "65 Ill. App. 124", "9 Ill.2d 382", "9 Ill.2d 63"]
+---
+
+# Chicago Housing Authority v. Cooper
+
+## Majority (PRESIDING JUSTICE LEWE)
+
+PRESIDING JUSTICE LEWE
+delivered the opinion of the court.
+This is an action by petitioner for a condemnation award held by the Cook County Treasurer. After a full hearing judgment was entered for petitioner for the amount of the award. Respondents appeal.
+Petitioners’ motion to dismiss the appeal on the ground that the abstract is insufficient to present the issues involved, was taken with the case. We agree that the abstract is insufficient, but since the additional abstract filed by petitioners supplies the deficiencies we feel that the cause should be heard on the merits, therefore petitioners’ motion is denied.
+The petition alleges in substance as follows: Petitioner Orloff acquired the property in question about 14 years ago from William A. Luety, Sr., and has since been in possession. Several years ago an interest in the property was sold to the other petitioner. In October, 1956, it was discovered that the deed had never been recorded. The Chicago Housing Authority condemned the property and served petitioners by summons and the record title holder by publication. Petitioners alone appeared through their attorney and an $11,000 settlement was agreed upon. The Chicago Housing Authority had judgment entered accordingly in June, 1957.
+It is further alleged that respondents had fraudulently obtained a quitclaim deed to the property and an assignment of the $11,000 award from William A. Luety, Jr., the sole heir of the record title holder, William A. Luety, Sr., in consideration of $250, by stating that they represented petitioners.
+The answer of Gans and Bnrke states that they have no independent knowledge of the truth or falsity of the first 25 allegations in the complaint and demand strict proof thereof; that Philip Burke was the nominee of Morris Gans; denies that the assignment from Luety, Jr., was fraudulently obtained; and states that “the Assignment of the Award obtained from William Luety was an arms length transaction free from fraud of any kind.” The answer concludes with a prayer that the petition of Orloff and Turovitz be denied.
+The pertinent part of the statute, Ill. Rev. Stat., 1955, ch. 47, § 14, which was in force at the time the suit was commenced and judgment entered, reads:
+“Should payment be made to the county treasurer, as is in this section provided, the court in the same eminent domain proceeding in which the award is determined, shall have exclusive jurisdiction to hear and determine all conflicting claims to the compensation so paid to the county treasurer, except where the parties claimant are engaged in litigation . . . prior to the time of such payment to the county treasurer. . . .” (Emphasis added.)
+The pleadings raise an issue of fact as to whether respondents fraudulently conspired to deprive petitioners of their award. This, it seems to us, gives the court exclusive jurisdiction to hear and determine conflicting claims between petitioners and respondents. The law is well.settled that a court in a condemnation proceeding has general jurisdiction to determine all legal and equitable interest in the property. City of Chicago v. Gage, 268 Ill. 232; Forest Preserve Dist. v. Christopher, 321 Ill. App. 91. See also 17 I. L. P., Eminent Domain § 99.
+Respondents contend that petitioners did not furnish sufficient proof of title. The evidence shows that petitioner Orloff has been in possession about 14 years; that he made payments on the mortgage, paid the taxes, maintained the property and collected the rents. Orloff testified that he bought the property from Luety, Sr.; that he saw the warranty deed executed by Luety (the record title holder), saw it notarized and delivered to his attorney who is now deceased. Dr. Luety, Jr., the sole heir, testified that he knew of his own knowledge that his father had sold the property to Orloff. In referring to the quitclaim deed, he said that he had been “used.”
+On the basis of the above evidence the trial court found that title was in petitioners. It should first be noted that the mere loss of petitioners’ deed after delivery does not deprive them of title. Gibson v. Brown, 214 Ill. 330. Petitioners offered evidence of execution, delivery and loss of their unrecorded deed. Also the prima facie evidence of ownership resulting from petitioners’ possession may be considered. See Frank v. Palmer, 65 Ill. App. 124; 30 I. L. P., Property § 15.
+Since respondents offered no positive evidence and made no attempt to rebut the presumption of ownership, we think petitioners’ evidence justifies the inference that their unrecorded deed was validly executed and delivered and is presently unavailable. These fact findings of the trial court cannot be upset unless clearly against the manifest weight of the evidence. Schneiderman v. Interstate Transit Lines, Inc., 331 Ill. App. 143. Since all of the evidence presented was favorable to petitioners’ position we do not think that the trial court’s finding was against the manifest weight of the evidence. On the contrary we feel that the lost deed was established by clear and convincing evidence, and it is well settled that a deed can be established by parol evidence of this nature. See Franzen v. Donichy, 9 Ill.2d 382; Schnepper v. Ashlock, 404 Ill. 417. Orloff testified to the execution and delivery of the deed and his possession. Luety, Jr„ testified that he knew his father had sold the property to Orloff. This evidence brings the • case within the principles enunciated in the recent case of Holland v. Richards, 11 Ill.2d 268, where testimony of the plaintiff and her father as to the language of a lost deed was held sufficient to establish plaintiff’s rights in the property involved. Likewise, in Thompson v. Wiegand, 9 Ill.2d 63, the uncontradicted testimony of two witnesses was enough to conclusively establish a lost memorandum concerning the partition of certain real estate.
+Respondents’ claim of error in the court’s permitting petitioners to question one of the witnesses as to whether Luety, Sr., was the owner of the property involved, is without merit since it was agreed that Luety, Sr., was the record title holder. Kirkpatrick v. Clark, 132 Ill. 342, does not apply.
+In our opinion it is unnecessary to consider any other points raised because we hold that petitioners’ title is valid and they are entitled to the award. Accordingly, the judgment of the Circuit Court is affirmed.
+Affirmed.
+MURPHY and KILEY, JJ., concur.
