@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-05-10"
+citations: ["94 Ill. App. 612"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["South Chicago City Ry. Co. v. Ellena McDonald."]
+source_url: "https://static.case.law/ill-app/94/cases/0612-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5291209
+cites_cases: ["77 Ill. App. 186"]
+---
+
+# South Chicago City Ry. Co. v. McDonald
+
+## Majority (¥r. Presiding Justice Shepard)
+
+¥r. Presiding Justice Shepard
+delivered the opinion of the court.
+This was a suit to recover for personal • injuries suffered by appellee, by reason of the alleged negligence of appellant. The appellee was a passenger on an electric car, owned and operated by the appellant, running on Ewing avenue and crossing One Hundred and Fourth street. She was injured while in the act of alighting, and recovered a verdict and judgment for $8,500. Appellant, in his reply brief, fairly states as follows, that at the trial
+“ The question of fact as to the accident narrowed itself to the question as to whether the car was standing still when the appellee attempted to alight and was suddenly started in motion as she was alighting from it, as she claimed in'her testimony, or whether it had started up before she attempted to alight, and was in motion when she arose from her seat and missed her footing.”
+The evidence in such respects was of the most conflicting kind. It was absolutely irreconcilable. And so far as the record discloses the witnesses were of equal credibility. Appellant insists, however, that the verdict was contrary to the great weight and clear preponderance of the evidence.
+After a careful examination of all the evidence upon that branch of the case, and a full consideration of all the arguments of counsel, we are unable to agree to the contention of appellant, so far, at least as to permit us to overthrow the verdict. On closely and fairly contested questions of fact a reviewing court should proceed with much caution before substituting ‘ its judgment for that of the jury, to whom the law has intrusted the determination of such matters. The rules are well known, and need not be repeated, as to when a reviewing court may justly interfere with verdicts on the ground of their being opposed to the weight of evidence. So far as the main questions of negligence, etc., are concerned, the verdict in favor of appellee must stand.
+Coming, next, to the amount of compensation to which, under the evidence, appellee is justly entitled for the injuries sustained by her, we are constrained to differ with the jury. That also is a question of fact, but the evidence is much less conflicting, and is much more subject to fair review, than the question as to by whose fault the accident occurred.
+The appellee’s injuries were severe and painful, and for a time were very disabling. But we do not discover that they are of a permanent character, except in some particulars that do not justify such large compensation as the jury awarded. Appellee, though in an advanced stage of pregnancy, was not forced into premature confinement, and the subsequent birth of the child was not attended by any unusual or unnatural consequences. There is evidence of the condition of appellee subsequent to the birth of the child that may or maj^ not be because of the accident, but ■ they are not of so certain a character as to furnish a basis for large damages. The decided weight of the evidence is that the womb troubles of which appellee has suffered are not due to the accident. Still, there is the objective fact established by the evidence that since the accident appellee’s weight has fallen off from forty-five to fifty pounds, . and it appears quite clearly that she is unable any longer to do the work that she was accustomed to do formerly, and is not in the good health she enjoyed before the accident. Adding these circumstances to the injury directly received by appellee, and the pain and suffering endured by her as the certain result of the injuries, the appellee is clearly entitled to substantial damages. While the verdict 'is thus plainly warranted to a partial extent, but is not as to its whole amount, the question arises whether we should allow a remittitur to cure the excess. Such a practice finds justification in a great variety of cases, and is commendable where no substantial error has occurred in the trial, and a hardship would be visited upon the appellee by remanding the cause for another trial and the long delay attendant upon it. (See, Chicago and Eastern Illinois R. R. Co. v. Cleminger, 77 Ill. App. 186.)
+The point is made and argued that there was substantial error committed in the giving of appellee’s seventeenth instruction, which was as follows:
+“ 17. The jury are instructed that they, the jury, are the sole judges of the questions of fact in this case, and the court does not by any instructions given the jury in this case intend to instruct the jury how they should find any question of fact in this case.”
+It is urged that this was in effect abdicating the functions of the court, by taking from it and laying upon the jury, how they should find what the facts were, whereas it was the duty of the court to instruct the jury how they should find the facts at issue in arriving at their verdict, and instruct them as to the rules of law which should govern them in so doing.
+We think the argument as applied to the particular instruction is too refined, and that the instruction was not liable to be understood by the jury in any such sense as is urged against it. . Though more apt language might have been used, and was employed in a subsequent instruction covering substantially the same ground, we do'not think the instruction, in view of all the other instructions, should be condemned as constituting sufficient error to cause a reversal of the judgment.
+In conclusion, our opinion is that justice will be advanced by permitting appellee to enter a remittitur, to avoid a reversal of the judgment because of excessiveness of damages. If, therefore, appellee shall, within ten days, remit in this court the sum of $1,000 from the judgment recovered, the judgment for the balance will be affirmed; otherAvise the judgment of the Circuit Court will be reversed and the cause remanded.
+In either event the costs of this court will be recovered by the appellant. Affirmed if remittitur made—otherwise reversed and remanded.
