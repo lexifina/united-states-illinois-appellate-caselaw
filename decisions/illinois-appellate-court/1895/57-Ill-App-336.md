@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1895-01-28"
-citations: ["57 Ill. App. 336", "57 Ill. App. 339"]
+citations: ["57 Ill. App. 336"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Patrick H. Heffron v. John J. Knickerbocker et al."]
 source_url: "https://static.case.law/ill-app/57/cases/0336-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 856650
-cites_cases: ["40 Ill. App. 257"]
 ---
 
 # Heffron v. Knickerbocker
