@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1886-02-25"
-citations: ["19 Ill. App. 274", "19 Ill. App. 277"]
+citations: ["19 Ill. App. 274"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["James C. Ware v. Lazarus Hirsch."]
 source_url: "https://static.case.law/ill-app/19/cases/0274-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4904443
-cites_cases: ["68 Ill. 887", "74 Ill. 242"]
+cites_cases: ["74 Ill. 242"]
 ---
 
 # Ware v. Hirsch
