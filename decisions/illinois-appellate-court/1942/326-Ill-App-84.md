@@ -2,7 +2,7 @@
 court: "Illinois Appellate Court"
 docket: "Gen. No. 41,697"
 decided: "1942-01-07"
-citations: ["326 Ill. App. 84", "312 Ill. App. 654"]
+citations: ["326 Ill. App. 84"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
