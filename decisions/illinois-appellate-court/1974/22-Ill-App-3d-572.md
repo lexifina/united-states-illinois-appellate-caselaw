@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "58638"
+decided: "1974-08-28"
+citations: ["22 Ill. App. 3d 572"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Georgia M. Klomann, Plaintiff-Appellee, v. Sol K. Graff & Sons et al., Defendants—(Robert J. Graff, Defendant-Appellant)."]
+source_url: "https://static.case.law/ill-app-3d/22/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2938954
+---
+
+# Klomann v. Sol K. Graff & Sons
+
+## Majority (Mr. JUSTICE DIERINGER)
+
+Mr. JUSTICE DIERINGER
+delivered the opinion of the court:
+This is an appeal from a judgment entered by the Circuit Court of Cook County. The plaintiff brought suit to recover monies from the defendants based upon three promissory notes. The court granted plaintiff’s motion for summary judgment on Count II of the complaint and entered judgment against defendant Robert J. Graff.
+The issue presented on appeal is whether the court erred in finding there was no genuine issue as to any material fact relating to Count II of the complaint and entering judgment thereon.
+Sol K. Graff & Sons, a partnership conducting business as real estate brokers, negotiated the trade and sale of certain parcels of real estate on behalf of Fred Klomann. The transactions culminated in the purchase by Fred Klomann of the Countryside Shopping Plaza, and the partnership, Sol K. Graff & Sons, owing Fred Klomann $13,000. On August 31, 1967, defendant Robert J. Graff, one of the partners of Sol K. Graff & Sons, executed three promissory notes naming Fred Klomann as payee on each note. One note in the sum of $5,000 was signed “Sol K. Graff & Sons by Robert Graff.” The two additional notes in the sum of $4,000 each were signed “Robert J. Graff.” Simultaneously with the execution of the notes by the defendant, Fred Klomann gave Sol K. Graff & Sons an exclusive agency contract for the sale of said Countryside Shopping Plaza. The partnership was also retained to manage the shopping center with the oral stipulation that monies earned by Sol K. Graff & Sons for the management of the shopping center would be applied as a set-off against monies owed by Sol K. Graff & Sons to Fred Klomann.
+Robert J. Graff (hereinafter referred to as defendant), acting on behalf of Sol K. Graff & Sons, managed the shopping center from August 31, 1967, to October 1, 1971. The defendant estimated the value of his services as manager of the plaza to be $300 per month, thereby accumulating $14,700 in credits to Sol K. Graff & Sons.
+Fred Klomann held the three notes in question for a period of time and then by special indorsement gave the notes to his daughter, Candace Klomann. Fred Klomann signed the notes and handed them to Candace. She examined the notes and then handed them back to Fred for collection. In April, 1970, Fred Klomann scratched out Candace’s name in tire special indorsement, inserted the name of his wife, Georgia Klomann, and delivered the three notes to Georgia.
+On May 18, 1971, the plaintiff, Georgia Klomann, brought suit against Sol K. Graff & Sons and Robert J. Graff in two counts for the value of the three notes. Count I sought judgment against Sol K. Graff & Sons and Robert J. Graff based upon the single promissory note in the amount of $5,000. Count II sought judgment against Robert J. Graff based upon the two promissory notes in the amount of $4,000 each. Plaintiff filed a motion for summary judgment as to Count II alleging the monies earned by the defendant could not be taken as a set-off against monies due Fred Klomann on the notes executed by Robert J. Graff individually.
+On November 17, 1972, the trial court sustained the plaintiff’s motion for summary judgment and entered judgment for plaintiff on Count II of the complaint.
+The defendant contends the plaintiff has no right, title or interest in the promissory notes, thereby raising an issue of fact which precluded the entry of summary judgment in favor of the plaintiff.
+The plaintiff maintains the defense of whether Georgia Klomann has an interest in the notes is not available to the defendant. In support of her contention, the plaintiff relies on section 3 — 306(d) of the Uniform Commercial Code (Ill. Rev. Stat. 1971, ch. 26, par. 3 — 306(d)), which provides:
+“Unless he has the rights of a holder in due course any person takes the instrument subject to * * # (d) the defense that he or a person through whom he holds the instrument acquired it by theft, or that payment or satisfaction to such holder would be inconsistent with the terms of a restrictive indorsement. The claim of any third person to the instrument is not otherwise available as a defense to any party liable thereon unless the third person himself defends the action for such party.” (Emphasis added.)
+We believe the plaintiff has no right, title or interest in the promissory notes. Section 3 — 204 of the Uniform Commercial Code (Ill. Rev. Stat. 1971, ch. 26, par. 3 — 204) provides:
+“(1) A special indorsement specifies the person to whom or to whose order it makes the instrument payable. Any instrument specially indorsed becomes payable to the order of the special indorsee and may be further negotiated only by his indorsement.”
+A review of the record in the instant case reveals Fred Klomann specially indorsed the promissory notes to his daughter, Candace, in August, 1967. The notes, therefore, could only be further negotiated by Candace. Examination of the record further reveals Candace, the special indorsee, has never negotiated the notes. Fred Klomann, in April, 1970, improperly scratched out Candace’s name in the special indorsement and inserted the name of his wife, Georgia. Section 3 — 201 of the Uniform Commercial Code (Ill. Rev. Stat. 1971, ch. 26, par. 3 — 201) provides in pertinent part:
+“(1) Transfer of an instrument vests in the transferee such rights as the transferor has therein * *
+When Fred Klomann assigned the notes in question to his daughter he no longer had any interest in them. His attempted assignment to Georgia approximately 3 years later conveyed only that interest which he had in the notes, which was nothing. Plaintiff, therefore, has no interest in the notes sued on in the instant case. We do not believe, as the plaintiff contends, that the Uniform Commercial Code intends a situation where there is an indorsement to a second party (Candace Klomann) and delivery; second party gives the note back to the payee for collection; payee subsequently strikes the name of the indorsee and puts in the name of a third party (Georgia Klomann), to not allow the maker of the note to look into the situation and see where title really lies. The defendant in his answer to plaintiff’s complaint denied that plaintiff had any right, title or interest in the notes. Defendant also filed an affirmative defense alleging improper special indorsement. Furthermore, the defendant took the deposition of Fred Klomann wherein Klomann admitted he should not have scratched out the name of Candace Klomann and inserted the name of Georgia Klomann. We believe the trial court erred in striking the defendant’s affirmative defense and that part of the deposition of Fred Klomann which pertained to the question of rights in the notes. The question of Georgia Klomann’s interest in the notes was raised by the pleadings and was argued by the defendant at the first opportunity.
+For the reasons stated herein, the judgment of the Circuit Court of Cook County is reversed and remanded.
+Reversed and remanded.
+ADESKO, P. J., and BURMAN, J., concur.
