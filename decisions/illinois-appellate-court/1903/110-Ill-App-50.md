@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1903-07-17"
-citations: ["110 Ill. App. 50", "110 Ill. App. 57"]
+citations: ["110 Ill. App. 50"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Henry Parish and Osgood Welsh, Trustees, et al., v. William L. Vance 
 source_url: "https://static.case.law/ill-app/110/cases/0050-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2556446
-cites_cases: ["1 Daly, 35", "102 Mass. 365", "103 Ill. 410", "107 N. Y. 384", "117 Ill. 643", "124 Mass. 317", "125 Mass. 287", "139 Pa. St. 492", "142 Ill. 104", "149 Ill. 556", "15 Ill. 423", "16 Ill. 480", "173 Ill. 192", "180 Ill. 99", "199 Ill. 324", "3 Colo. App. 212", "4 Ill. App. 431", "40 Ill. App. 252", "40 Ill. App. 326", "41 Ill. 470", "41 Ill. 471", "50 Ill. App. 378", "50 Ill. App. 379", "64 N. Y. 437", "66 Ill. App. 504", "69 Ill. App. 560", "70 Ill. App. 384", "73 Ill. App. 107", "75 Ill. 118", "76 Ill. App. 688", "77 Ill. App. 339", "77 Ill. App. 350", "83 Ia. 714", "86 Ill. App. 354"]
+cites_cases: ["1 Daly, 35", "103 Ill. 410", "107 N. Y. 384", "117 Ill. 643", "125 Mass. 287", "139 Pa. St. 492", "142 Ill. 104", "149 Ill. 556", "16 Ill. 480", "173 Ill. 192", "180 Ill. 99", "199 Ill. 324", "3 Colo. App. 212", "4 Ill. App. 431", "40 Ill. App. 252", "40 Ill. App. 326", "50 Ill. App. 378", "50 Ill. App. 379", "64 N. Y. 437", "66 Ill. App. 504", "69 Ill. App. 560", "70 Ill. App. 384", "73 Ill. App. 107", "75 Ill. 118", "76 Ill. App. 688", "77 Ill. App. 339", "77 Ill. App. 350", "83 Ia. 714", "86 Ill. App. 354"]
 ---
 
 # Parish v. Vance
