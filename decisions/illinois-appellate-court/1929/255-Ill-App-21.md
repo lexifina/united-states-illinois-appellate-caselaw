@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 32,767"
+decided: "1929-11-06"
+citations: ["255 Ill. App. 21"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. Frank Lindsey, Trading as Lindsey Company, Appellee, v. Louis Rosen, Appellant."]
+source_url: "https://static.case.law/ill-app/255/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5541809
+cites_cases: ["235 Ill. App. 35", "250 Ill. App. 638", "275 U. S. 120", "327 Ill. 145", "335 Ill. 202", "335 Ill. 402"]
+---
+
+# Lindsey v. Rosen
+
+## Majority (Mr. Justice Holdom.)
+
+Mr. Justice Holdom.
+delivered the opinion of the court.
+The chronological history of this case is to be found in the opinion of this court in Lindsey v. Rosen, Gen. No. 32,767, not reported [250 Ill. App. 638, Abst.] and same case 335 Ill. 402. The Supreme Court reversed the judgment of this court and remanded the cause to this court “with directions to consider and determine all errors assigned by plaintiff in error upon the record.” We do not think the Supreme Court meant literally what it said, for that court has for many years consistently held (which this court has. as consistently followed), that errors assigned and not argued are waived. The latest ipse dixit on this subject is contained in an opinion by Mr. Justice Stone in Sluka v. Bielicki, 335 Ill. 202, in these words “other errors are assigned on this record, but as those considered are conclusive against appellee’s right to specific performance of this contract, it is unnecessary to consider furtlier errors.” We will, therefore, proceed to consider all the errors assigned and argued pertinent to the conclusions to which we have arrived.
+The Supreme Court reversed the judgment of this court for erroneously striking the bill of exceptions from the record and affirming the judgment without considering the errors assigned upon the record. To that omitted task we will direct our energy. The facts sufficiently appear in our former opinion, supra, so that we will not here again recite them.
+We have examined and considered all the errors assigned upon the record, and argued by defendant, but as we have concluded to reverse the judgment and send the cause back to the trial court for a new trial for errors of procedure, as hereinafter stated, we refrain from passing any opinion upon the probative force of the evidence, leaving that to be hereafter determined on the proofs adduced upon a new trial.
+Defendant assigns and argues for error the refusal of the trial court to give instructions 10 and 11. These instructions in effect directed a verdict for defendant without stating any of the elements deducible from the evidence which would justify the jury, in rendering such a verdict. The refusal to give these instructions was proper.
+Plaintiff’s counsel complain of the insufficiency of the abstract in many particulars and that it does not comply with the rules of this court regarding the preparation of such abstracts. The criticism is well taken in many respects, such as failing to abstract an affidavit of merits. But plaintiff’s counsel is equally remiss in not correcting the abstract in the manner provided by the same rules, viz., the filing of an additional abstract supplying the omissions of the original. Quoting from the record omitted matter in the brief and so informing the court is not a compliance with the rule. The abstract is the pleading of the parties and the purpose of the rule regarding the filing of an additional abstract is to relieve this court of the task of ascertaining from the record the correctness or not of abbreviations of the record which should be a part of either the original or additional abstract.
+There are many irrelevant matters injected into the evidence by plaintiff. Why Judge Hatchett’s name should have been dragged into the case and for what purpose, if any, is somewhat mystifying. The judge in no way was involved in the litigation. . This fact is not controverted. Then the letting in of evidence upon promising to “connect it up,” when in fact most of such evidence which counsel promised to make admissible by appropriate evidence was not forthcoming. However this may be, defense counsel on failure “to connect up” should have moved to eliminate such evidence from the record. This not having been done, the point was waived. We mention this matter in passing so that counsel may on a new trial have advantage of this ruling. The record discloses in several instances remarks by the court in its rulings, which might have carried to the jury the impression that the court was in some measure impressed with the merits of plaintiff’s claim. On a new trial this attitude should be avoided.
+The reference to a purchase from Eyan of Oak Park property brought out by counsel for plaintiff against .the objection of defendant was improper and error of the court in not excluding the same on defendant’s objection. This was utterly immaterial and irrelevant to any issue or claim made by plaintiff in the instant case. On a new trial such evidence, if sought to be adduced, should be excluded. Such evidence simply tends te confuse a jury as to the issues being tried.
+The letter of March 21, 1925, of plaintiff to defend^ ant stating the several items of his claim, was a self-serving document, and should not have been admitted in evidence against defendant’s objection. The principle here involved is forcefully stated in Leach & Co. v. Peirson, 275 U. S. 120 in these words:
+“A man cannot make evidence for himself by writing a letter containing the statements that he wishes to prove. He does not make the letter evidence by sending it to the party against whom he wishes to prove the facts. He no more can impose a duty to answer a charge than he can impose a duty to pay by sending goods.”
+, The offending letter above referred to contained an itemized statement of plaintiff’s claim against defendant and for the amount of which, with interest, the jury returned a verdict in plaintiff’s favor, the judgment upon which is before this court for review.
+The plaintiff’s claim seems to be of a dual nature. First, under a writing, hereinafter set forth, of date November 20, 1924, in which there is a claim that it is the contract which governs the rights of the parties. Second, that the money sought to be recovered from the defendant was money received by defendant to plaintiff’s use, set forth in the self serving letter of plaintiff to defendant of March 21,1925. The writing above referred to is as follows:
+“11/20/24
+Louis Rosen:
+On all d,eals wherein I represent you and your associates where title is taken and the deal closed I am to receive 25% of the commission agreed upon in the several contracts covering the sale and purchase.
+On all deals wherein you or your associates refuse or fail to go thru with any respective deal, I will rebate you 90% of the commissions which I receive on any and all deals that come under this category to-wit: on defaulted contracts.
+On all deals wherein you take title or purchase for yourself, that is for your private investment I am to receive as my compensation 50% of the agreed commission. The balance of 50% to be paid to you.
+J. Frank Lindsey.”
+The question of the legal construction of this contract, if such it is, is of law for the court, such interpretation to be covered by pertinent instructions to the jury, if there should be a trial by jury. It must be borne in mind in construing a contract in writing that the same cannot be modified, enlarged or changed in any material matter by parol. It is said, inter alia, in Sallo v. Boas, 327 Ill. 145:
+“Evidence was introduced by both parties of the negotiations and conversations resulting in the execution of the written agreement . . . All this evidence was incompetent and its admission had no tendency to prove the bill, which was based upon a written contract. It is elementary that when parties deliberately reduce their agreements to writing, parol evidence is not admissible to contradict, add to, explain or modify the writing. It would not seem necessary to cite authorities in support of the proposition that a written contract is one which is all in writing, so that all its terms and provisions can be ascertained from the instrument itself, but this court has found occasion to make that statement several times.”
+Neither can a written contract be changed or abrogated unless the contract so doing is supported by a valid consideration. Board of Education of Villa Grove Township High School v. Barracks, 235 Ill. App. 35, where citation of supporting authority may be found.
+Should plaintiff proceed upon the theory of money had and received by defendant for the use of plaintiff, such theory may be supported by either documentary or parol evidence or both.
+We may suggest to counsel that the issues might be clarified by a recasting of the pleadings, if such suggestion should .appear to counsel to be timely.
+The judgment of the circuit court is reversed and the cause remanded for a new trial in accord with the views in this opinion expressed.
+Reversed and remanded.
+Wilson, P. J., and Ryner, J., concur.
