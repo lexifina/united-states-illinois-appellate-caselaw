@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1900-12-07"
-citations: ["92 Ill. App. 447", "92 Ill. App. 445"]
+citations: ["92 Ill. App. 447"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["People, etc., for the use of the State Board of Health, v. B. E. Jone
 source_url: "https://static.case.law/ill-app/92/cases/0447-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5284326
-cites_cases: ["71 Ill. App. 236", "77 Ill. 322", "80 Ill. 283", "84 Ill. App. 453"]
+cites_cases: ["71 Ill. App. 236", "84 Ill. App. 453"]
 ---
 
 # People v. Jones
