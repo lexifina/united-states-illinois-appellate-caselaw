@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-10-05"
+citations: ["24 Ill. App. 322"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Illinois & St. Louis Railroad & Coal Company v. John Beaird et al."]
+source_url: "https://static.case.law/ill-app/24/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5779321
+cites_cases: ["11 C. B. 545", "11 Ill. App. 258", "14 Ill. App. 579", "67 Ill. 11"]
+---
+
+# Illinois & St. Louis Railroad & Coal Co. v. Beaird
+
+## Majority (Green, P. J.)
+
+Green, P. J.
+Appellees brought suit in case against appellant in the court below and at the February Term, A. D. 1886, the cause was tried by the court without a jury, and resulted in a finding and judgment for plaintiffs for $1,550 and costs of suit, and defendant thereupon took this appeal. Plaintiffs’ amended declaration, upon which the cause proceeded to trial, was in substance that John Beaird and Charles Schroeder, late partners under the firm name of Beaird & Company, complained of the Blinois & St. Louis Eailroad and Coal Company: for, that the said defendant in February, 1880, was a railroad corporation, operating a railroad and branches extending from the City of Belleville, Illinois, to the bank of the Mississippi Eiver, opposite the City of St. Louis, Missouri, to a point commonly known as the Pittsburg Dyke, and defendant had a branch or switch extending from its main track in said City of Belleville, in a northerly direction, into the land of one Becherer, and that along the line of said switch and branch and along the main track of said railroad, there were twenty coal mines connected with the main line of the railroad by switches; that the railroad company every day received a large number of cars of coal from said mines and transported said coal over said branches and switches, and over its main line to said Pittsburg Dyke; that defendant collected, as hire for transportation of such coal from the persons operating said pit, the sum of two and one-half cents per bushel for each bushel so transported.
+Plaintiffs further aver that at said time, and on each and every day from said time to the commencement of this suit, the plaititiffs were operating two coal mines situated on the line of said road ; that on each day defendant received coal for transportation on its switch connected with its main track to be transported to said Pittsburg Dyke, altogether receiving from the plaintiffs during said time 5,000,000 bushels of coal, and for so transporting said coal to the Pittsburg Dyke charged the plaintiffs two and one-half cents a bushel for every bushel of coal transported ; and that the coal transported from the Becherer mines was the same class of freight transported in the same manner, in the same direction and to the same place as the said coal transported by defendant from the coal mines of the plaintiffs. The plaintiffs charged that the coal hauled for the owners of the Becherer was transported by defendant a distance of sixteen miles, and that the coal hauled by the defendant for the plaintiffs was hauled a distance of only eight miles; and that the defendant collected the same sum from the plaintiffs as they collected from the owners of the Becherer mines, each one being charged two and one-lialf cents a bushel, to the plaintiffs’ damage of $5,000.
+The averments in this declaration, relied on by the pleader as sufficient to charge defendant with an injury to plaintiffs, recoverable in this action, are that defendant charged and collected from operators of coal banks located on its road, the same price for transporting coal from their mines over its road sixteen miles, that it charged plaintiffs for like transportation of coal from their mines for a distance of eight miles. This suit is not brought under the statute, but at commqn law, and it will be observed, there is no averment that the discrimination was unjust or injured the plaintiffs, nor is the rate charged and collected from them by the defendant for transportation averred or proved to have been an extortionate rate. • 0
+At common law, no duty is imposed upon common carriers to charge a greater rate or price for transporting goods a longer distance, than for a lesser distance, for like transportation of like kind of goods over their lines. Hence no action would lie at common law against such carriers for failing to charge and collect a greater rate for such greater distances, but common carriers are not permitted, at common law, to charge shippers extortionate rates. From what has been said it follows that no cause of action was averred and proved by plaintiffs for which they had a right to recover. Hence the finding and judgment of the Circuit Court is erroneous and must be reversed.
+Reversed and remanded.
