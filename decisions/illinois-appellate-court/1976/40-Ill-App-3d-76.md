@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "62311"
+decided: "1976-06-23"
+citations: ["40 Ill. App. 3d 76"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. GEORGE SETING, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/40/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2966911
+cites_cases: ["110 Ill. App. 2d 73", "13 Ill. App. 3d 411", "19 Ill. App. 3d 757", "23 Ill. App. 3d 730", "237 N.E.2d 697", "249 N.E.2d 129", "276 N.E.2d 721", "292 N.E.2d 728", "293 N.E.2d 600", "297 N.E.2d 142", "300 N.E.2d 308", "312 N.E.2d 789", "320 N.E.2d 138", "40 Ill. 2d 4", "49 Ill. 2d 565", "53 Ill. 2d 390", "53 Ill. 2d 537", "54 Ill. 2d 384"]
+---
+
+# People v. Seting
+
+## Majority (Mr. PRESIDING JUSTICE JOHNSON)
+
+Mr. PRESIDING JUSTICE JOHNSON
+delivered the opinion of the court:
+George Seting was charged with aggravated assault (Ill. Rev. Stat. 1973, ch. 38, par. 12 — 2(a)(6)). After a bench trial, he was found guilty and sentenced to 30 days in the House of Corrections. The sole issue raised on review is whether the defendant’s guilt was proved beyond a reasonable doubt.
+The State called one witness, Officer John Nowak, who testified that on January 22,1975, at about 6:25 a.m., he was stopped by two men who told him that their car had just been stolen. The two men entered the police car and the officer notified the communications center and proceeded to chase the alleged stolen vehicle. When the officer reached 59th and Damen, one of the passengers told him that the car was just ahead so he curbed the vehicle at 2030 East 59th Street. After curbing the vehicle, the officer testified that the defendant exited from his car with a “slam puller,” a device used to pull dents out of automobiles, and attempted to strike the officer as he exited from the police car. The officer feared for his life so he pulled his service revolver and fired at the defendant.
+After the State rested its case, the defendant took the stand in his own behalf and testified that he was a self-employed repossessor who worked for car dealerships and finance companies. The witness continued stating that while in the process of returning a car to Junior Auto Sales, he heard a siren and then pulled his car over to permit a police car to pass. Instead of passing his vehicle, the police car stopped behind him and moments later a shot was fired that blew the window out of the squad car. Then two men who were riding in the police car got out and opened the door of the car he was in and proceeded to beat him. Finally, the defendant denied having the slam puller in his hand and testified that he never attempted to use it on the officer.
+Richard Still, the last witness called by the defense, testified that he worked for the defendant in the repossession business and was following the defendant in his car when the defendant was stopped by the police. After the police halted the defendant’s car, the witness testified that two men got out of the police car, entered the defendant’s car and proceeded to beat him. Then the witness stated that a shot was fired and a paddy wagon pulled up and took the defendant away.
+The defendant contends that his guilt was not proved beyond a-reasonable doubt because the testimony of the complaining witness was improbable, unconvincing, and contrary to human experience. We disagree with defendant’s contentions. The basic duty of a reviewing court is to carefully scrutinize the evidence that is the basis of the criminal verdict. (See People v. Torres (1973), 54 Ill. 2d 384, 393, 297 N.E.2d 142; People v. Farnsley (1973), 53 Ill. 2d 537, 545, 293 N.E.2d 600; People v. Coleman (1971), 49 Ill. 2d 565, 573, 276 N.E.2d 721.) Defendant argues that his testimony is much more convincing than that of the complaining witness; therefore, this case raises the question of which witness is to be believed. In Illinois, the resolution of conflicts in evidence is a matter peculiarly within the province of the trier of fact. (People v. Gilmer (1969), 110 Ill. App. 2d 73, 78, 249 N.E.2d 129.) It is well established that it is the function of the trier of fact to weigh the evidence, determine the credibility of the witnesses (People v. Mills (1968), 40 Ill. 2d 4, 19, 237 N.E.2d 697; People v. Flynn (1974), 23 Ill. App. 3d 730, 735, 320 N.E.2d 138), and its decision concerning the guilt or innocence of the accused should not be lightly set aside. (People v. Ellis (1973), 53 Ill. 2d 390, 395, 292 N.E.2d 728.) Moreover, a reviewing court will only reverse a conviction when the evidence is unreasonable, improbable, or so unsatisfactory as to leave a reasonable doubt as to defendant’s guilt. People v. Mills (1968), 40 Ill. 2d 4, 19, 237 N.E.2d 697.
+In the instant case, the police officer, the sole witness for the State, testified that defendant got out of the car he was driving and approached the officer with a slam puller. The mere fact that defendant’s version conflicted with the officer’s testimony does not mean that the trier of fact was compelled to believe the defendant’s account of the altercation, and corroboration of a portion of the defendant’s testimony by another witness, herein the defendant’s employee, does not mean that a court of review is required to believe all of defendant’s testimony. (People v. Brown (1974), 19 Ill. App. 3d 757, 762, 312 N.E.2d 789; People v. Watkins (1973), 13 Ill. App. 3d 411, 413, 300 N.E.2d 308.) In our opinion, there was sufficient evidence for the trier of fact to conclude that the complaining witness, known by the defendant to be a peace officer, was in reasonable apprehension of receiving a battery. Therefore, we hold that the evidence was not unreasonable, improbable or unsatisfactory, but established beyond a reasonable doubt the culpability of the accused.
+For the foregoing reasons, the judgment of the circuit court of Cook County is affirmed.
+Affirmed.
+DIERINGER and BURMAN, JJ., concur.
