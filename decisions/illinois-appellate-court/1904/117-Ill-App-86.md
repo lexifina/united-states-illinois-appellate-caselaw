@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1904-11-18"
+citations: ["117 Ill. App. 86"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Jerseyville v. William Becker."]
+source_url: "https://static.case.law/ill-app/117/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2531660
+cites_cases: ["33 Minn. 102"]
+---
+
+# City of Jerseyville v. Becker
+
+## Majority (Hr. Presiding Justice Baume)
+
+Hr. Presiding Justice Baume
+delivered the opinion of the court.
+This is a suit by appellant against appellee, a licensed dram-shop keeper, to recover a penalty for the violation of a dram-shop ordinance. The trial in the court below by a jury resulted in a verdict of not guilty, and judgment thereon.
+Error is assigned in the giving and refusing instructions, and in overruling the motion for a new trial upon the ground that the verdict is contrary to the evidence.
+It is'urged by appellee that the assignment of errors is-not properly before this court for review because it does not appear from the record that appellant saved an exception to the ruling of the court denying the motion for a new trial. The record in the respect indicated, is not as clear and definite as it might be, but we are of the opinion it sufficiently appears that the exception noted by appellant was an exception to the decision of the court overruling the motion for a new trial, and that this court is authorized to pass upon the questions raised.
+The section of the ordinance, for a violation of which appellee was put upon trial, is as follows: “ No person or persons licensed as aforesaid, shall keep open his or their saloon or place of business, nor in any way dispose of any of the liquors aforesaid upon Sunday, nor upon any day upon which an election for either city, county or state purposes is being held in said city, nor between the hours of eleven o’clock p. m. and five o’clock a. m. Any person or persons who shall violate any provision in this section, upon conviction thereof, shall forfeit and pay to said city of Jerseyvilie, not less than twenty-five dollars, nor more than one hundred dollars for each offense.” Appellee is charged with having violated the above section, by disposing of liquor from his place of business, between the hours of eleven o’clock p. m. and five o’clock a. m. on the night of December 11, 1903.
+At eleven o’clock on the night in question, the night policeman had called the hour at appellee’s saloon, as notice to appellee that it was time to close, and the evidence tends to show that appellee then locked or bolted his door. Shortly thereafter and while appellee was counting the receipts in the cash register, one Grant Thompson, who was engaged in playing pool with one Wadding in a restaurant and podl room adjoining appellee’s saloon, went to the door of appellee’s saloon and knocked, whereupon appellee came to the door, recognized Thompson and partially opened the door. Gibbons, the night policeman, in his testimony, details the conversation between Thompson and appellee, as follows: “ Thompson said, 61 want to get some beer, Bill.’ Becker replied, ‘ 1 can’t let you have it; it is eleven o’clock; but I will tell you what I will do, I will bring you some in the pool room.’ ” The witness Thompson substantially corroborates the night policeman, Gibbons. Appellee testified that he told Thompson, ‘I cannot sell you; I will tell you, if you will go back in the pool room, I will bring some beer, and we will have a drink together on me.” Shortly after the conversation between Thompson and appellee, appellee took two bottles of beer into the pool room, where it was drank by those present there. Policeman Simon Wright testified that, in response to his inquiry, appellee said Thompson had bought the beer before eleven o’clock. This appellee does not deny. Thompson further testified that he offered to pay appellee for the beer and that appellee refused to accept any pay; that this occurred after the officers came into the pool room.
+At the request of appellee, the court instructed the jury that before they could find appellee guilty of a violation of the ordinance, they must believe from the evidence that he sold or disposed of liquors for sale, between eleven o’clock p. m. and 5 o’clock a. m. ; that if appellee invited Thompson and others to drink, to drink beer in the restaurant as a matter of sociability, and did not intend to make a sale of the beer, nor make a charge for the same, the jury should find him not guilty.
+We are of opinion that the court erred in interpreting the words in the ordinance, “ nor in any way dispose of any of the liquors aforesaid,” to mean, a sale of the liquors only. The expression, “ in any •way dispose of” signifies more than to sell. Selling is but one mode of disposing of property. Phelps v. Harris, 101 H. S. 380; State v. Deusting, 33 Minn. 102. The ordinance was manifestly framed in its existing form to prevent evasion and to make it more effective as a police regulation.
+It is. urged on behalf of appellee that the construction of the ordinance contended for by appellant, would render a private gentleman, giving his guest a social glass at his home between the hours of eleven o’clock p. m. and five o’clock a. m., liable to a penalty. The case at bar does not present the question raised by appellee. Assuming appellee did not in fact sell nor intend to sell the beer to Thompson, the evidence shows he obtained the beer from his place of business, as a licensed dram-shop keeper, and disposed of it in a public resort, under circumstances clearly indicating a purpose on his part to evade the provisions of the ordinance. A consideration of the evidence leads us to the conclusion that the effort on the part of appellee to assume the role of host is strained, and attempted only as a subterfuge.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
