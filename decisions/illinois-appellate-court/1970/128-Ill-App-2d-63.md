@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 54,249"
+decided: "1970-08-06"
+citations: ["128 Ill. App. 2d 63"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. William J. West, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/128/cases/0063-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2653224
+cites_cases: ["126 Ill App2d 9", "168 NE2d 726", "182 NE2d 683", "19 Ill2d 406", "212 NE2d 97", "230 NE2d 843", "24 Ill2d 598", "240 NE2d 635", "261 NE2d 417", "33 Ill2d 527", "38 Ill2d 255", "40 Ill2d 463", "404 Ill 268", "88 NE2d 727"]
+---
+
+# People v. West
+
+## Majority (MR. JUSTICE McNAMARA)
+
+MR. JUSTICE McNAMARA
+delivered the opinion of the court.
+Defendant William J. West was indicted for the crime of abortion. After pleading not guilty and waiving a jury, he was found guilty of that charge in a bench trial. Thereupon defendant moved for an acquittal or for a new trial charging that he had been convicted on an indictment which was unintelligible and void. After a hearing, the trial court found that the copy of the indictment which had been furnished to defendant and certified in the record contained a typographical error, but that the error did not mislead defendant as to the nature of the charge. The trial court also found that the original indictment which was returned by the Grand Jury and filed in the clerk of the court’s office did not contain the typographical error in question. The trial judge denied defendant’s motions and placed defendant on probation for 5 years. On appeal, defendant contends that because of an unintelligible indictment, the court did not acquire jurisdiction of the subject matter, and that defendant was not adequately informed of the charges against him. Defendant also maintains that, even assuming the absence of the typographical error, the original indictment upon which the trial court relied was insufficient to charge a crime.
+At the post-trial motion for acquittal or for a new trial, it was brought out that when an indictment is returned by the Grand Jury, it is signed and taken to the clerk of the court’s office where copies are typed. The original indictment is then placed in a vault at that office. In the instant case, the original indictment charged defendant as follows:
+“. . . that on February 12th, 1966 at and within said County William J. West committed the offense of abortion, in that he, used instruments and medicine, with the intent to procure the miscarriage of Nancy Auburn.”
+The Clerk of the Circuit Court certified that this was a true, perfect and complete copy of the indictment. However, the copy of the indictment furnished to defendant and which was certified in the record charged defendant with abortion “in that he, was instruments and medicine, with the intent to procure the miscarriage of Nancy Auburn.” As we have noted, the trial court found that the use of the word “was” constituted a typographical error, and was not misleading to defendant as to the nature of the charges against him. Defendant first argues that this ruling by the trial court was erroneous, maintaining that the court never acquired jurisdiction of the cause because the indictment was void and unintelligible.
+The Code of Criminal Law and Procedure, Ill Rev Stats 1967, c 38, § 111-3(a), provides:
+“A charge shall be in writing and allege the commission of an offense by:
+“(1) Stating the name of the offense;
+“(2) Citing the statutory provision alleged to have been violated;
+“(3) Setting forth the nature and elements of the offense charged;
+“(4) Stating the date and county of the offense as definitely can be done; and
+“(5) Stating the name of the accused, if known, 99
+A void indictment may be attacked at any time. People v. Wilfong, 19 Ill2d 406, 168 NE2d 726 (1960). On the other hand, objections to an indictment which go merely to form and not to the real merits of the offense charged are waived if not raised on a motion to quash. People v. Day, 404 Ill 268, 88 NE2d 727 (1949), Ill Rev Stats 1967, c 38, § 111-5.
+In The People v. Patrick, 38 Ill2d 255, 230 NE2d 843 (1967) , the indictment charged that the crime was committed between April 1, 1963, and April 21, 1965. The court held that the elements of time and place in an indictment were subsidiary matters which were separate and distinct from the substantive matters of stating the nature and elements of the offense charged. In The People v. Campbell, 40 Ill2d 463, 240 NE2d 635 (1968) , an indictment named defendant and another party as committing the offense jointly, but in describing the offense stated that “he” instead of “they” committed the offense. The court held that while the indictment was grammatically incorrect, it was only a defect as to form which could have been corrected at any time on motion. The court further held that the fact that defendant understood the nature of the charge against him was demonstrated by the proceedings at the time of his plea of guilty.
+Similarly in the instant case, we find that use of the word “was” in the indictment rather than the word “used” amounted to a defect only in form and did not render the charge fatally deficient. Defendant did not question the sufficiency of the indictment prior to trial, nor did he ever request that he be furnished a bill of particulars. Moreover an examination of the record clearly reveals that both defendant and his comisel were well aware of the charge against defendant. We conclude that the trial court was correct in finding that the defect was a typographical error, and that the error did not violate defendant’s constitutional right to be apprised of the nature of the charge against him. In so holding, we reject the State’s argument that defendant had a duty to search the public records for the proper indictment. If an indictment in the record is void, it will not be cured by a properly worded indictment on file in the clerk’s office. Cf. People v. Ball, 126 Ill App2d 9,261 NE2d 417 (1970).
+Defendant next contends that, even assuming the absence of a typographical error, the indictment upon which the trial court relied was insufficient to charge a crime. Defendant concedes that the indictment was framed in the language of the statute, but argues that the failure to allege in the indictment that he used the instruments on Nancy Auburn rendered the indictment void.
+An indictment which charges an offense in the language of the statute is deemed sufficient when the words of the statute so particularize the offense that by their use alone an accused is apprised with reasonable certainty of the precise offense with which he is charged. People v. Blanchett, 33 Ill2d 527, 212 NE2d 97 (1965). And an indictment which fairly charges the crime, enables the defendant to prepare his defense, and protects him from subsequent prosecution for the same offense, is sufficient. The People v. Wilson, 24 Ill2d 598, 182 NE2d 683 (1962).
+We believe that the indictment in the instant cause sufficiently fulfilled the specifications set out above. Defendant was charged with the crime of abortion, was made aware of when and upon whom he allegedly performed the abortion, and clearly could not be tried for the same offense again. A fair reading of the indictment indicates that defendant used certain instruments to procure an abortion. The only reasonable inference possible is that these instruments were used upon the victim, and that they were capable of causing a miscarriage. We are not persuaded by defendant’s contention that under the language of the indictment in question, a witch doctor brewing medicines in a bowl could be charged with causing the abortion of a woman located in another country. It is sufficient that an indictment advise defendant with reasonable certainty of the precise offense charged, including its essential elements, and that it adequately notify defendant of the nature and cause of the accusation against him. This the instant indictment did.
+The judgment of the Circuit Court is affirmed.
+Judgment affirmed.
+DEMPSEY, P. J. and SCHWARTZ, J., concur.
