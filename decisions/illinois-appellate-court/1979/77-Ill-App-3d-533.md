@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-540"
+decided: "1979-10-19"
+citations: ["77 Ill. App. 3d 533"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STAN DANAJ, d/b/a Stan’s Service, Plaintiff-Appellant, v. BILL ANEST et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/77/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3288853
+cites_cases: ["129 Ill. 318", "21 N.E. 920", "25 Ill. App. 3d 546", "251 Ill. App. 572", "255 Ill. 545", "323 N.E.2d 588", "34 N.E.2d 854", "376 Ill. 486", "99 N.E. 638"]
+---
+
+# Danaj v. Anest
+
+## Majority (Mr. JUSTICE WOODWARD)
+
+Mr. JUSTICE WOODWARD
+delivered the opinion of the court:
+This is an action for declaratory judgment in which plaintiff, Stan Danaj, d/b/a Stan’s Service, seeks to determine his rights regarding certain property he possesses as a tenant. Plaintiff appeals from an order declaring that he is a sublessee and not an assignee of the original lease, and that as sublessee he did not acquire the right to exercise certain options to extend the term provided by the original lease.
+The property in question is owned by John and Mary Stack, d/b/a Stack Enterprises (hereinafter Stack). The property was leased in December 1970 for a term of 5 years to Bill and Peter Anest, d/b/a S & S Petroleum (hereinafter Anest) to be used as a gas station and auto repair shop, and for no other purpose; the printed clause in the lease requiring lessor’s consent for assignment was stricken. In April of 1971 by oral agreement Anest transferred possession of the property to plaintiff; in October of 1971 plaintiff and Anest entered into a written agreement which incorporated the original lease by reference. The agreement further provided for plaintiff to pay rent to Anest under slightly different terms than under which Anest paid Stack; that plaintiff remain in possession so long as he operates a gas station on the premises; that plaintiff comply with all the terms of the original lease; that plaintiff nonetheless was purportedly given the right to install an automatic car wash on the premises; and that should plaintiff fail to comply with any terms of either the agreement or the original lease, the agreement would terminate, Anest having the right to demand possession. The agreement provided for Anest to “demise and lease” the premises to plaintiff.
+Plaintiff installed the car wash in 1971 and operated it thereafter; apparently Stack never objected to this use. In September of 1975, he served notice on Stack that he intended to exercise the option to extend the term under the provisions of the original lease. Anest would not agree to the exercise of the option, and Stack refused to allow the extension without Anest’s approval. Plaintiff then brought this action to declare his rights in the leased premises.
+The first issue is whether the agreement between Anest and plaintiff was in the nature of a sublease or an assignment. Plaintiff contends that under the 1971 written agreement, Anest transferred his entire estate in the premises to the defendant, reserving no part to himself; that the transfer is accordingly an assignment, and that plaintiff therefore has the right to exercise the option to extend the original lease. It has long been the law that where one assigns his whole estate without reserving a reversionary interest to himself, a privity of estate is immediately created between his transferee and the original lessor, and in such a case, the transfer is an assignment. (Sexton v. Chicago Storage Co. (1889), 129 Ill. 318, 21 N.E. 920; Urban Investment & Development Co. v. Maurice L. Rothschild & Co. (1975), 25 Ill. App. 3d 546, 323 N.E.2d 588.) However, if any reversion in the leased premises is retained or reserved, no matter how small, the privity of estate between the transferee and the original lessor is not established and there is no assignment. Sexton v. Chicago Storage Co.; Urban Investment 6- Development Co. v. Rothschild & Co.
+It has been argued that the provision in the agreement that plaintiff shall remain in possession of the premises so long as he operates a gas station thereon creates a reversionary interest in Anest, and it could occur that Anest could come back into possession. However, such language creates a determinable fee, and where one grants a determinable fee there is no reversion in the grantor. Pure Oil Co. v. Miller-McFarland Drilling Co. (1941), 376 Ill. 486, 34 N.E.2d 854.
+It is also urged that the language in the agreement which states that Anest is to “demise and lease” the premises to plaintiff manifests an intent that the agreement is a sublease rather than an assignment. Where all of the lessee’s estate is transferred, the instrument by which the transfer is made is, in effect, an assignment, even though words of demise rather than assignment are used, and even though the original lessee receives a rental slightly different than the rent he pays the original lessor. Taylor v. Marshall (1912), 255 Ill. 545, 99 N.E. 638.
+Stack also contends that because the agreement contains deviations from the lease, such as allowing the installation of the car wash, the agreement must be viewed as a sublease. Clearly, Anest could not convey greater rights in the property than he possessed or assign rights he did not have. As a result, the rights contained in the original lease were, in fact, assigned to plaintiff. The attempt to assign rights which Anest did not have, however, creates no rights in plaintiff as against Stack. See Glanz v. Halperin (1929), 251 Ill. App. 572.
+Accordingly, we hold that Anest assigned the original lease to plaintiff, but that plaintiff is thereby possessed only of those rights contained in the original lease. Plaintiff is therefore entitled to exercise the option to renew that lease, but only on such terms as are contained in the original lease. We reverse the decision of the trial court and remand the cause for a further determination of plaintiff’s rights in accordance with this opinion.
+Reversed and remanded.
+GUILD, P. J., and NASH, J., concur.
