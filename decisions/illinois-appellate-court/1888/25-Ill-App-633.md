@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-01-07"
+citations: ["25 Ill. App. 633"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John G. Schumm and Fred. W. Schumm v. The Village of Gardener."]
+source_url: "https://static.case.law/ill-app/25/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4933018
+cites_cases: ["120 Ill. 627"]
+---
+
+# Schumm v. Village of Gardener
+
+## Majority (Baker, J.)
+
+Baker, J.
+The village of Gardener is organized under the general act for the incorporation of cities and villages, in force Julv 1, 1872. Clause 46 of Sec. 1 of Art. 5 of that act con, fers upon cities and villages incorporated under its provisions power “to license, regulate or prohibit the selling or giving away of any intoxicating, malt, vinous, mixed or fermented liquor, the license not to extend beyond the municipal year in which it shall be granted, and to determine the amount to be paid for such license; provided, that the City Council, in cities, or President and Board of Trustees, in villages, may grant permits to druggists for the sale of liquors for medicinal, mechanical, sacramental and chemical purposes only, subject to forfeiture, and under such restrictions and regulations as may be provided by ordinance; provided, further, that in granting licenses such corporate authorities shall comply with whatever general law of the State may be in force relative to the granting of licenses.”
+Sec. 1 of ordinance No. 10 of the village of Gardener imposes a penalty of not less than §20 nor more than §100 upon any person who sells or gives awTay, within the limits of the village, any intoxicating, malt, vinous, mixed or fermented liquors, in any quantity whatever, without first having obtained a license so to do. Secs. 2, 3, 4 and 5 make provision for issuing licenses to keep dram shops, in which may be sold or given away such liquors in a less quantity than one gallon; and See. 6 provides for the issuing of licenses upon the payment of the sum of §100, authorizing the sale or giving away, within the corporate limits, of all or any of such liquors, “ in a quantity of one gallon or exceeding one gallon.”
+On the fourth day of July, 1885, the above mentioned ordinance being then in force, appellants, who held a license from the village authorities to keep a dram shop and “ sell, vend and retail vinous, spiritous, malt, mixed and fermented liquors in a less quantity than one gallon,” sold, at their dram shop in said village, such liquors in quantities over one gallon.
+In this suit, brought by the village against appellants for the violation of the ordinance, the Circuit Court of Will County found the issues for the village, and entered judgment against appellants for a fine of §20 and costs.
+A dram shop license to sell intoxicating liquors in quantities Jess than one gallon, does not exhaust the power given by clause 46 of Sec. 1 of Art. 5 of the general incorporation act of 1872, and an ordinance requiring a license before making sales of liquor in excess of one gallon is valid. The license which the appellants paid for and had at the time of the sales in question, only authorized them to make sales of liquors “in a less quantity than one gallon; ” and when they sold in quantities over one gallon, it was in plain violation of Sec. 1 of the ordinance which made it unlawful to sell liquor in any quantity whatever that was not authorized by the license which was held.
+The principal points made by appellants are, that Sec. 6 of the ordinance is void because it is not a proper and legitimate exercise of the power “to license, regulate and prohibit” the sale of intoxicating liquors, and that said section is invalid because it is not in conformity with the dram shop act. These points are fully met in the elaborate and exhaustive opinion of the Supreme Court in the late case of Dennehy v. City of Chicago, 120 Ill. 627.
+It was there held that the words contained in the said clause 46, “to license, regulate and prohibit the selling or giving away of intoxicating malt, vinous, mixed or fermented liquors” are generic, and authorize the classification of sales and gifts by quantity or purpose, or both, and the imposition of different charges for licensing, as classified, subject only to the qualification expressed in the dram shop act, and the amendment thereto; and that the sum charged for a license to sell liquors in quantities of one gallon or more is not a tax, but is a burden imposed as the price of a privilege which may be denied altogether, and that the reasonableness of the amount exacted is not a question for the courts to pass upon. It is also plainly deducible from the opinion of the Supreme Court, that the requirement in the amendatory dram shop act of June 15, 1883, that no dram shop license shall be granted for less than $500 per year, does not affect the matter of licenses granting the privilege of selling liquors in quantities of one gallon or more. In fact, the case cited seems to be decisive of the suit in hand, and to fully meet the various objections urged by counsel to the judgment herein.
+We may remark, in conclusion, that if the license issued to appellants to keep a dram shop is invalid for the alleged reason that Secs. 2, 3, 4 and 5 of the ordinance are in conflict with the general law and void, as seems to be intimated, we are wholly nnable to see how that would benefit appellants when charged with violating Sec. 1 by selling liquor without having a license that authorized such sale.
+If Secs. 2, 3, 4 and 5 are disregarded, as being invalid and void, then the state of the case would seem to he that See. 1 imposes a penalty for selling liquor in any quantity whatever without a license, and that the only license the ordinances provide for is one under Sec. 6 for the sale of liquors in a quantity of one gallon or exceeding one gallon. Appellants make no claim that they have a license of that kind.
+We find no error and the judgment is affirmed.
+Judgment affirmed.
