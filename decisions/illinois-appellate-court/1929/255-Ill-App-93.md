@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 8,324"
+decided: "1929-10-23"
+citations: ["255 Ill. App. 93"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Gasen, Appellee, v. Firemen’s Insurance Company, Appellant."]
+source_url: "https://static.case.law/ill-app/255/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5541700
+cites_cases: ["1 Scam. 63", "15 Ill. 56", "167 Ill. App. 175", "169 Ill. 515", "175 Ill. 370", "180 Ill. App. 648", "181 Ill. 132", "189 Ill. App. 110", "189 Ill. App. 396", "237 Ill. App. 349", "26 Ill. 68", "57 Ill. 132"]
+---
+
+# Gasen v. Firemen's Insurance
+
+## Majority (Mr. Presiding Justice Eldredge)
+
+Mr. Presiding Justice Eldredge
+delivered the opinion of the court.
+In an action of. assumpsit appellee recovered a judgment against appellant for sum of $1,500 on a policy of insurance.
+The first part of the declaration is as follows: “The plaintiff complains of defendant of a plea of trespass on the case on promises,'and alleges: ■■
+“That the defendant on or about the 13th day of November, 1926, made its policy of insurance and delivered the same to the plaintiff, and for the consideration therein expressed promised..the plaintiff, in the terms of said policy and .the conditions -thereto annexed, a photostatic copy of said policy and the conditions thereto annexed being attached hereto, marked Exhibit A and incorporated herein, the original of Exhibit A being ready to be produced in. court by this plaintiff. And the plaintiff avers that at -the time of the making of the said policy, and from thence until the happening of the loss and damage hereinafter mentioned, he had an interest in the said property to the amount of the said sum so by the defendant insured thereon as shown more fully by Exhibit A aforesaid.”
+The balance of the declaration consists of negative averments with several references to “Exhibit A.” Not one single provision or condition of the policy is set forth in the declaration, but attached to the declaration is a copy of the policy marked “Exhibit A.” On the trial appellant objected to, the admission of the policy in evidence on the ground that it was not based upon the declaration in the case, that it is attached to the declaration as an exhibit, and not admissible thereunder and that neither the policy nor the substance thereof is set out in the declaration.
+It has been uniformly held in this State that copies of papers or documents attached to declarations in actions at law form no parts of the declarations and cannot be made so by references thereto. Bogardus v. Trial, 1 Scam. 63; Harlow v. Boswell, 15 Ill. 56; Stratton v. Henderson, 26 Ill. 68; Humphrey v. Phillips, 57 Ill. 132; Hippach v. First Nat. Bank of Rushville, Nebraska, 169 Ill. 515; Boyles v. Chytraus, 175 Ill. 370; Chicago Portrait Co. v. Chicago Crayon Co., 118 Ill: App. 98; McKinstry v. Bras, 180 Ill. App. 648; Inter Ocean Newspaper Co. v. West Hammond, 189 Ill. App. 110; Shultz v. Miller-Hamilton, 189 Ill. App. 396; Ogren v. Rockford Star Printing Co., 237 Ill. App. 349.
+We will comment on but a few of the above cases. In Hippach v. First Nat. Bank of Rushville, Nebraska, supra, the action was at law based upon a decree in chancery and the court held that a copy of the decree, if filed, would not have formed a part of the declaration, and so not being a part of the pleading it was not a part of the record proper. In Chicago Portrait Co. v. Chicago Crayon Co., supra, the declaration attempted to make a contract a part thereof by filing it therewith, and the court held that this was contrary to all rules of good pleading and that common-law pleading cannot be done by exhibits. In Jones v. City of Chicago, 167 Ill. App. 175, the court held that while it is a common practice in equity to make exhibits a part of the pleading, it is not permissible under common-law pleading prevailing in this State, citing numerous authorities, among which is the case of Gunton v. Hughes, 181 Ill. 132, where the’ court in passing upon the ruling on a demurrer held: “To overrule it here would unsettle rules of pleading long established, and introduce confusion and uncertainty where none now exist. The distinctions between common law and equity pleading are well defined and well understood by the legal profession and cannot be ignored.” In the case of McKinstry v. Bras, supra, the court said that it would not look to the copy of a policy filed to support a declaration as it is the well established practice in this State that a paper cannot be made .a part of the declaration by attaching it as an exhibit or by referring to it. In Shultz v. Miller-Hamilton, supra, the court held that a count in a declaration was defective because it undertook to make the contract and other agreements in question parts of the pleading by referring to them as attached exhibits, and that while this is a familiar practice in chancery, it is not recognized either at common law or under our modified form of practice. In Inter Ocean Newspaper Co. v. West Hammond, supra, it was held that a count in a declaration merely referring to a certain exhibit thereto attached, did not add to the strength! of the count, change its character or modify it.
+Counsel for appellee practically concede that the declaration is a- departure from the established form of common-law pleading but insist that it is but an irregularity of form and not of substance and could be taken advantage of only by special demurrer and also that the verdict cures the defect. They are in error in this contention as the defect is not one of form, but one of substance. No contract is set up in the declaration either in verbatim or in substance and as the court cannot look to the exhibit to determine what the contract was, the declaration states no cause of action whatever and cannot be aided by the verdict.
+It is only when a declaration states a good cause of action, though defectively, that the defects will be cured by the verdict. From what we have said, it will be unnecessary to pass upon the other errors assigned.
+The judgment of the circuit court is reversed and the cause remanded.
+Reversed and remanded.
