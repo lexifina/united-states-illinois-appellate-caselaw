@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1887-05-27"
+citations: ["23 Ill. App. 36"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Burke v. The People of the State of Illinois."]
+source_url: "https://static.case.law/ill-app/23/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 863735
+cites_cases: ["103 Ill. 408", "104 Ill. 544", "28 Ill. 208", "28 Ill. 518", "30 Ohio St. 405"]
+---
+
+# Burke v. People
+
+## Majority (Baker, P. J.)
+
+Baker, P. J.
+The conviction in this case was for maintaining a nuisance. The indictment contains but one count, and charges that the plaintiff in error, Burke, unlawfully removed a certain culvert from a certain highway in Wallace Township “ and then and there filled up said culvert with dirt and other material, and lias during all the time aforesaid and now c&itinues to keep said culvert filled up with said dirt. That because of the filling of the culvert as aforesaid the water coming onto said highway remains stagnant and during the greater portion of the year last past has been flooded and under water, whereby the people’s common highway aforesaid, then and there and from thence hitherto and for and during all the time aforesaid was and is obstructed, etc.” The indictment is predicated on Secs. 221 and 222 of the Criminal Code. Sec. 221 declares it to be a public nuisance “ to obstruct or encroach upon public highways; ” and Sec. 222 provides that “whoever causes, creates or continues any such nuisance” shall be liable to the penalties specified in said section.
+The contention of plaintiff in error is, that the count charges only the offense of creating a nuisance by filling up the culvert with dirt, and that the allegation that plaintiff in error has continued to keep the culvert filled up with dirt, i§ merely the continuando to enable the prosecutor to obtain an order to have the nuisance abated. Bishop’s Criminal Procedure, V. 1, Sec. 393 and V. 2, Sec. 866. It is plain that if this position is correct the judgment must be reversed, for in that event not only, was the conviction for an offense not charged in the indictment, but, as the evidence very clearly shows, the only misdemeanor alleged in the count, i. e., creating the nuisance, was committed on the 7th day of September, 1884, which was more than eighteen months prior to the finding of the indictment, and the offense therefore barred by the Statute of Limitations in that behalf enacted.
+The contention of defendant in error is, that the count charges both the creation and the continuance of a nuisance, and that although the bar of the statute had run against the offense of creating the nuisance, plaintiff in error was properly convicted of the offense of maintaining the nuisance. If the premises claimed by defendant in error be conceded, that is, that both misdemeanors—the creation of a nuisance and the maintenance of a nuisance—are alleged and joined in the count, then the indictment is had on the ground that separate and distinct offenses are charged in the same count, and it was error to overrule the motion to quash that had been interposed by plaintiff in error.
+The rule is that where there is but one offense and the statute provides different ways in which that offense or act may be committed or done, using the disjunctive conjunction “ or,” then one, or more, or all of these different ways may be charged in one count, using the copulative conjunction “and”; hut that where the acts constitute separate offenses and the acts are distinct and done at different times, then they can not be joined in one count. In the case first stated, the different “ ways ” charged are regarded as only one offense and for which no more than one penalty can he imposed, although, at the same time, it is not incumbent npon the prosecution to prove more than barely constantes a crime or misdemeanor. Bishop on Statutory Crimes, Sec. 383; 1 Bishop Crim. Prac. Sec. 436; The State v. Conner, 30 Ohio St. 405. Where a statute makes two or more distinct acts connected with the same transaction indictable, they may frequently he coupled in one count, but we do not regard the case before ns as falling within the category in which such rule prevails. The matters charged here can not be considered as representing different stages in the same offense; and the acts were not done at one and the same time. Wharton on Criminal Law, Sec. 390. The misdemeanor of obstructing a public highway and of continuing such obstruction in a public highway, are separate and distinct offenses; one person may be guilty of causing or creating such obstruction and nuisance, and another and different person be guilty of afterward maintaining such nuisance; as to the same person, a conviction for the one offense would be no bar to a prosecution for the other, and the Statute of Limitations might be a bar to a prosecution for the one and not a bar to a conviction for the other. Sweeney v. People, 28 Ill. 208; Lowe v. People, 28 Ill. 518; Boyd v. Town of Farm Ridge, 103 Ill. 408; Waters v. People, 104 Ill. 544.
+In either view that can be taken of the indictment the conviction was erroneous and can not be sustained.
+The judgment is reversed.
+Reversed.
