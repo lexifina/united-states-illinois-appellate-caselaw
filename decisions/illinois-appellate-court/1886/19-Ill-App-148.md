@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-06-12"
+citations: ["19 Ill. App. 148"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Groff v. Nicholas Ankenbrandt."]
+source_url: "https://static.case.law/ill-app/19/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4905502
+cites_cases: ["12 N. Y. 486", "13 Conn. 304", "35 Wis. 675", "39 Ill. 206", "40 Cal. 396", "44 Me. 164", "50 Ill. 325", "8 Bush, 404", "9 N. H. 884", "98 Mass. 39"]
+---
+
+# Groff v. Ankenbrandt
+
+## Majority (Pillsbury, P. J.)
+
+Pillsbury, P. J.
+Construing the count most strongly against the plaintiff, as we are to do under the rules of pleading, we must assume that the defendant is not responsible for the erection of the embankment that caused the injury to the plaintiff. He is charged simply with maintaining and continuing it. The mere construction of the embankment upon the land of the defendant was no invasion of the property rights of the plaintiff, and he could have no right of action until the injurious results to his premises determined its character of a private nuisance. In such case the rule appears to be that a grantee of land with such a nuisance upon it can not be made liable for permitting it to remain in the condition he found it, although it works injury to another, without a notice to remove or abate it. This case is somewhat like that of Berwick v. Camden, Cro. Eliz. 620, where the declaration charged that the defendant kept and maintained a bank by which a brook was caused to flow around the plaintiff’s land. The court said: “ There is not here any offense committed by the defendant for he allegeth that he kept and maintained a bank; which is that he kept it as he found it, and it is not any offense done by him, for he did not do anything; and if it were a nuisance before his time, it is not any offense in him to keep it.”
+Cases of this kind are to be distinguished from those where the nuisance consists in the use of the erection, and every act of using it is a fresh nuisance, as the operating of manufactories that emit noisome smokes or smells, the using of a pipe that wrongfully takes the water from another, and the like, where every act of user is a new nuisance. There no notice to abate or remove the nuisance, or knowledge of its injurious consequences, is necessary to be alleged or proven in order to sustain the action for continuing it. It was resolved in Penruddock’s Case, 5 Co. 100 b, that an action lies against one who erects a nuisance, without any request to abate it, but not against the feoffee, unless he does not reform the nuisance after request made.
+Winsmore v. Greenbank, Willes, 583, is an authority that Peuruddock’s Case was a correct statement of the law, and Hornblower, C. J., in Pearson v. Glean, 2 Green (N. J.), says the law as there settled has never been seriously questioned since. That this is the generally accepted rule in this country, we may refer to Brown v. Cayuga R. R. Co., 12 N. Y. 486; Ray v. Sellers, 1 Duv. (Ky.) 254; Pillsbury v. Moore, 44 Me. 164; West v. Louisville R. R. Co., 8 Bush, 404; Grigsby v. Clear Lake Water Co., 40 Cal. 396; Slight v. Gutzlaff, 35 Wis. 675; Johnson v. Lewis, 13 Conn. 304; Nichols v. Boston, 98 Mass. 39; and Woodman v. Tufts, 9 N. H. 884. Prom these authorities it is clear that the defendant does not render himself liable to an action for simply perm tting the embankment to remain in the condition he found it when he became possessed of the land upon which it was constructed, as it does not appear he was ever notified to remove it and thereby prevent a further continuance of the nuisance to the plaintiff, or had knowledge of its injurious consequences to the plaintiff.' There is no averment that he has ever done any affirmative act toward its maintenance that would of itself constitute a fresh nuisance, or that increased or aggravated the injurious effects of the one already existing when he acquired the land. In the absence of any such showing, notice to abate was necessary to charge him in an action for damages. Had the parties proceeded with the trial upon such count, and a verdict found for the plaintiff, the defect might have been considered as cured by the verdict, as was held in Tomlin v. Fuller, 1 Mod. 27; but the count was demurred to, and containing no averment of -notice or request to abate the nuisance, we are of the opinion no error was committed.by the court in sustaining the demurrer, and it follows that the judgment should be" affirmed.
+Judgment affirmed.
