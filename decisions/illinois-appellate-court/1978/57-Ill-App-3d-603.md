@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-1673"
+decided: "1978-02-16"
+citations: ["57 Ill. App. 3d 603"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BEVERLY C. GOLDBERG, Plaintiff-Appellee, v. HARVEY S. GOLDBERG, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/57/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3420403
+cites_cases: ["12 Ill. 203", "130 Ill. App. 2d 424", "133 N.E. 761", "21 Ill. App. 3d 550", "25 Ill. App. 3d 524", "264 N.E.2d 723", "279 N.E.2d 405", "3 Ill. App. 3d 892", "30 Ill. App. 3d 769", "301 Ill. 284", "316 N.E.2d 1", "323 N.E.2d 541", "332 N.E.2d 710"]
+---
+
+# Goldberg v. Goldberg
+
+## Majority (Mr. JUSTICE ROMITI)
+
+Mr. JUSTICE ROMITI
+delivered the opinion of the court:
+The defendant husband in this case appeals from an order awarding attorneys’ fees for services rendered in a 1975 appeal to this court. We agree with the appellant that the appellate court’s order in the 1975 opinion reversing the award of attorneys’ fees for services in defending that appeal is res judicata and reverse.
+The parties in this case were divorced in 1964. Several years later Beverly Goldberg filed two post-decretal divorce petitions. One asked for an increase in alimony, the other for an order directing Harvey Goldberg to pay certain medical bills. The trial court in that case granted both petitions. After the above proceedings, Mrs. Goldberg’s attorneys filed a petition seeking attorneys’ fees from Mr. Goldberg both for services performed during the trial court proceedings and to defend the appeal. After an evidentiary hearing the trial court awarded attorneys’ fees of *3,000 to one firm and *1,500 to another attorney for trial court service and awarded an additional *1,500 for defense of the appeal. The appellate court in Goldberg v. Goldberg (1975), 30 Ill. App. 3d 769, 332 N.E.2d 710, reversed the increase in alimony, affirmed the order directing payment of medical expenses, affirmed the *3,000 award to the one law firm but reversed the award to the other attorney pro forma since the attorney had abandoned his case, and reversed the *1,500 award for attorneys’ fees for defending the appeal. Subsequently, Mrs. Goldberg filed a new petition again seeking to recover attorneys’ fees for the defense of the 1975 appeal. Mr. Goldberg defended, on the ground, inter alia, that this matter had already been adjudicated in the appellate court opinion. The trial court again awarded attorneys’ fees in the amount of *1,500 for services rendered in defending the 1975 appeal.
+On appeal, Mrs. Goldberg has attempted to explain away the original appellate court ruling by pointing to its statement in enumerating the issues raised by Mr. Goldberg in that first appeal “(4) whether the trial court was authorized to award attorneys’ fees to defend the appeal in this cause before the services were even performed.” Mrs. Goldberg concludes from this that the court merely ruled that the award of attorneys’ fees before the services were even performed was improper. But we cannot merely look to a court’s statement of the issue to determine what a court decided; rather we must look to what the court says it is deciding and what it says is its decision. The court in Goldberg in ruling on the issue at 30 Ill. App. 3d 769, 775, 332 N.E.2d 710, 715-16, said:
+“Mr. Goldberg next contends that the trial court erred when it ordered him to pay *1,500 in attorneys’ fees to defend the appeal. We agree. In the instant case, the appeal is from a post-decretal order concerning alimony and the payment of certain medical bills. In Horwitz v. Horwitz (1970), 130 Ill. App. 2d 424, 264 N.E.2d 723, this court ruled that it was error for the trial court to award attorneys’ fees in an appeal from a post-decretal order. (Also see Hall v. Hall (1975), 25 Ill. App. 3d 524, 323 N.E.2d 541; contra, Waltrip v. Waltrip (1972), 3 Ill. App. 3d 892, 279 N.E.2d 405, and Rosenberger v. Rosenberger (1974), 21 Ill. App. 3d 550, 316 N.E.2d 1.) In accordance with the rule in Horwitz, we reverse the trial court’s order requiring Mr. Goldberg to pay $1,500 to defend the appeal.” (Emphasis added.)
+The rule in Horwitz which expressly was followed in Goldberg was that “[the statute] by its express terms applies only to matters culminating in the original divorce decree and does not authorize an allowance of attorney’s fees to defend an appeal from a post-decretal order. Therefore, the trial court erred in ordering plaintiff to pay defendant’s attorney an allowance for defense of plaintiff’s initial appeal.” (Horwitz v. Horwitz (1970), 130 Ill. App. 2d 424, 428, 264 N.E.2d 723, 725.) Likewise Hall, Waltrip, and Rosenberger, cited in Goldberg, all concerned the question whether the award of attorneys’ fees in an appeal from a post-decretal order was proper. None concerned the issue whether they could only be awarded after the services were performed, indeed in all the cases the trial court had awarded the attorneys’ fees before the services were actually performed. Accordingly, it is clear that the appellate court in Goldberg ruled that the plaintiff could not recover attorneys’ fees for the defense of the appeal since the appeal was from a post-decretal order. Plaintiff’s contention that this court’s decision in Goldberg was erroneous because it was in conflict with other decisions by the First District allowing attorneys’ fees in post-decretal matters is irrelevant. Since the plaintiff failed to appeal that determination to the Illinois Supreme Court she is foreclosed from litigating it anew before this court:
+“There must be an end to litigation somewhere, and there would be none if parties were at liberty, after a case had received the final determination of the Court of last resort, to litigate the same matter anew, and bring it again and again before the Court for its decision.”
+Hollowbush v. McConnel (1850), 12 Ill. 203, 204; People ex rel. Kastning v. Militzer (1921), 301 Ill. 284, 287, 133 N.E. 761, 762.
+Accordingly, the judgment of the trial court is reversed.
+Reversed.
+JOHNSON, P. J., and LINN, J., concur.
