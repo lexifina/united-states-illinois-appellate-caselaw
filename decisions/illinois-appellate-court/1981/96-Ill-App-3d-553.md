@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "16620"
+decided: "1981-05-26"
+citations: ["96 Ill. App. 3d 553"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WEBBER and LEWIS, JJ., concur."]
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. DOUGLAS A. TRESTER, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/96/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12137039
+cites_cases: ["101 Ill. App. 2d 286", "123 N.E.2d 146", "24 Ill. App. 3d 1062", "243 N.E.2d 413", "288 N.E.2d 697", "29 Ill. App. 3d 738", "3 Ill. App. 2d 551", "322 N.E.2d 553", "331 N.E.2d 359", "372 N.E.2d 1115", "398 N.E.2d 1129", "57 Ill. App. 3d 164", "7 Ill. App. 3d 741", "79 Ill. App. 3d 784"]
+---
+
+# People v. Trester
+
+## Majority (Mr. JUSTICE GREEN)
+
+Mr. JUSTICE GREEN
+delivered the opinion of the court:
+On August 18, 1980, following a bench trial in the circuit court of Sangamon County, defendant, Douglas A. Trester, was convicted of disorderly conduct (Ill. Rev. Stat. 1979, ch. 38, par. 26 — 1(a)(1)) and sentenced to 7 days’ imprisonment. On appeal he maintains his conviction should be reversed because his actions did not “provoke” a breach of the peace. Alternatively, he requests a new trial claiming his waiver of jury trial to have been ineffective or a new sentencing because of the failure of the court to hold a sentencing hearing. Our conclusion that the evidence was not sufficient to prove the offense renders moot the alternate claims of-error.
+The following evidence was undisputed. On the morning of March 4, 1980, John Diefenbach, a police officer, was in the hallway of the Sangamon County Court Building when defendant approached him and swore at him. That afternoon, Diefenbach entered an elevator at the second floor of the building. Defendant, three women, and another police officer were on the elevator. As the elevator went up to the fourth floor, defendant again swore at Diefenbach. Two of the women then left the elevator. As the elevator started to descend, defendant stated to Diefen-bach that if the latter would take off his gun and badge, he, defendant, would punch Diefenbach in the nose and they would fight. The statement was made in a normal speaking voice, and the only movement made by defendant was to step away from the wall of the elevator upon which he had been leaning.
+Diefenbach testified that he would have liked to have fought defendant but did not. He also stated that he was disturbed by defendant’s remarks and thought that defendant might have hit him.
+Section 26 — 1(a)(1) of the Criminal Code of 1961 (Ill. Rev. Stat. 1979, ch. 38, par. 26 — 1(a)(1)), under which defendant was charged, provides that one type of disorderly conduct occurs when one knowingly acts “in such unreasonable manner as to alarm or disturb another and to provoke a breach of the peace.” The revised comments of the committee drafting the Code (Ill. Ann. Stat., ch. 38, par. 26 — 1(a)(1), Committee Comments, at 149 (Smith-Hurd 1977), indicate that the drafters deemed the gist of the offense to be unreasonable conduct by the accused “which he knew or should have known would tend to disturb, alarm or provoke others.” (Emphasis added.) However, section 26 — 1(a)(1) is phrased in such a way as to state that alarming or disturbing must be in conjunction with the provocation and does not list the three elements in the disjunctive as do the comments.
+Moreover, the phrasing of the statute indicates that the prohibited conduct must actually bring about a breach of the peace and not merely tend to do so as the comments indicate. Unlike the comments, the statute does not use the word “tend.” Webster’s New International Dictionary 7 (2d ed. 1949), current at the time of the drafting of the Code, stated that a former definition of the word “provoke” as “to call forth or out, to summon, to invoke, to challenge, invite” had become obsolete and that the primary definition was “to excite (one), as to doing or feeling; to goad, move, arouse, as, to provoke one out of inertia, or to wrath.” (Emphasis added.) Thus, under the definition, a challenge to commit acts that would constitute a breach of the peace would be insufficient to constitute the offense.
+No case directly in point has been cited to us but the general trend of the cases has been for the courts, with varying rationale, to give a narrow construction to the offense. In People v. Slaton (1974), 24 Ill. App. 3d 1062, 322 N.E.2d 553, yelling at a police officer in a profane manner did not constitute disorderly conduct. In People v. Davis (1979), 79 Ill. App. 3d 784, 398 N.E.2d 1129, a verbal threat made to an elderly woman in her home did not support a conviction. In People v. Justus (1978), 57 Ill. App. 3d 164, 372 N.E.2d 1115, a conviction of a violation of a city ordinance very similar to the legislation here was reversed. The defendant had argued with a police officer in public. The court stated:
+“Arguing with a police officer, even if done loudly, will not of itself constitute disorderly conduct. (People v. Douglas (1975), 29 Ill. App. 3d 738, 742, 331 N.E.2d 359, 363.) Here, even if we accept Officer Santopadre’s version, it only establishes that defendant argued with Santopadre and reached for his pen. This conduct, while perhaps imprudent does not amount to disorderly conduct. As this court stated in Oratowski v. Civil Service Com. (1954), 3 Ill. App. 2d 551, 561, 123 N.E.2d 146, 151:
+‘An officer of the law must exercise the greatest degree of restraint in dealing with the public. He must not conceive that every threatening or insulting word, gesture, or motion amounts to disorderly conduct.’ ”
+57 Ill. App. 3d 164, 166-67, 372 N.E.2d 1115, 1117.
+The State relies on People v. D’Amore (1972), 7 Ill. App. 3d 741, 288 N.E.2d 697 (abstract), and City of Chicago v. Williams (1968), 101 Ill. App. 2d 286, 243 N.E.2d 413 (abstract). In D’Amore, the defendant’s conduct was held to have been sufficient to support the offense when he not only used vile and profane language in front of a substantial crowd of people but disregarded warnings of officers, threatened physical harm to a male friend of his wife and terrified his children. In Williams, the question of the sufficiency of the evidence was not raised.
+In the case before us, the defendant’s language was not loud. Its profane nature did not give rise to a breach of the peace. Under our interpretation of the statute, construction of defendant’s remarks as a challenge to Diefenbach to fight would also be insufficient. As the words were couched in terms of what might happen if the officer removed his badge and guns, the words cannot be construed as an immediate threat even when accompanied by a step away from the wall. We thus conclude, as a matter of law, that no breach of the peace occurred.
+By including the Justus quote from Oratowski in our opinion, we do not intend to condone the disgraceful conduct of the defendant nor to place an inhibition on the rights of police officers to defend themselves. We are merely indicating the limits of the offense of disorderly conduct.
+The propriety of the appearance of the public defender in this case was discussed at oral argument. Although the offense was a misdemeanor, the public defender properly appeared because the defendant was sentenced to 7 days’ imprisonment. Ill. Rev. Stat. 1979, ch. 38, par. 208 — 10(a).
+For the reasons stated, we reverse.
+Reversed.
+WEBBER and LEWIS, JJ., concur.
