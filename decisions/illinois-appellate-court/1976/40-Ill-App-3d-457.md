@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "62568"
+decided: "1976-07-20"
+citations: ["40 Ill. App. 3d 457"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. MICHAEL J. ALEXANDER, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/40/cases/0457-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2971212
+cites_cases: ["11 Ill. App. 3d 782", "13 Ill. App. 3d 60", "17 Ill. App. 3d 102", "265 N.E.2d 120", "274 N.E.2d 65", "282 N.E.2d 467", "292 N.E.2d 400", "298 N.E.2d 355", "299 N.E.2d 792", "307 N.E.2d 776", "309 N.E.2d 1", "342 N.E.2d 360", "47 Ill. 2d 211", "49 Ill. 2d 491", "5 Ill. App. 3d 205", "53 Ill. 2d 388", "53 Ill. 2d 572", "53 Ill. 2d 585", "54 Ill. 2d 593", "56 Ill. 2d 493", "62 Ill. 2d 350"]
+---
+
+# People v. Alexander
+
+## Majority (Mr. JUSTICE DOWNING)
+
+Mr. JUSTICE DOWNING
+delivered the opinion of the court:
+Following a jury trial in August 1971, defendant, Michael Alexander, was convicted of rape and burglary with intent to commit rape. He received concurrent penitentiary sentences of 10 to 15 years for each offense. The judgments were affirmed on direct appeal by this court on May 3, 1973 (People v. Alexander, 11 Ill. App. 3d 782, 298 N.E.2d 355), and the supreme court denied leave to appeal (54 Ill. 2d 593). On April 23, 1975, defendant filed a “motion for resentencing under the Illinois Correction Code” in the circuit court seeking to have each concurrent sentence reduced to 5 to 15 years. Defendant asserted that his direct appeal was pending on January 1, 1973, the effective date of the Unified Code of Corrections (Ill. Rev. Stat. 1973, ch. 38, par. 1001 — 1—1 et seq.), thereby entitling him to such relief. The circuit court denied the motion and defendant has appealed.
+I.
+Before we reach the merits of defendant’s contention, we deem it appropriate to consider the State’s position that this action is untimely.
+The State says defendant’s contention is improper because his direct appeal had been finally adjudicated before his challenge to the correctness of his sentences. In support thereof the State cites People v. Holmes (1974), 17 Ill. App. 3d 102, 307 N.E.2d 776, and People v. Null (1973), 13 Ill. App. 3d 60, 299 N.E.2d 792. Both decisions, in pertinent part, held that post-conviction relief was not an appropriate method to seek a sentence modification under the Unified Code of Corrections. In Holmes, the petitioner’s process of direct appeal had been terminated prior to the Code’s effective date; and examination of the Null opinion does not show whether a direct appeal was pending at the time the Code became effective. Those cases are therefore distinguishable. Conversely, in the present case the defendant’s direct appeal was pending at the time the Code became effective.
+In People v. Nicks (1976), 62 Ill. 2d 350, 342 N.E.2d 360, our supreme court said:
+“Section 8 — 2—4 of the Unified Code of Corrections (Ill. Rev. Stat., 1972 Supp., ch. 38, par. 1008 — 2—4) required that, if the criminal prosecution had not reached ‘a final adjudication,’ the sentences under the Code would apply if they were less than under prior law. In People v. Chupich, 53 Ill. 2d 572, we interpreted the term ‘final adjudication,’ as used in the Controlled Substances Act, to include that period until the criminal case is decided by the last direct appeal. And in People v. Harvey, 53 Ill. 2d 585, we applied this construction to require reduction of the minimum sentences therein imposed to conform to the requirement specified in the Unified Code of Corrections.
+The impact of Chupich and Harvey was to require the resentencing of a defendant who was sentenced under prior law if the initial sentence was less favorable than that established by the Unified Code of Corrections and a direct appeal of his conviction was pending at the time that the Code became effective.” (62 Ill. 2d 350, 353-54.)
+The court in Nicks concluded that to deny the defendant the ameliorative effect of the Code, which became effective during the pendancy of his direct appeal, while affording its benefits to other defendants, who were similarly situate, would be violative of the equal protection guarantees of the State and Federal constitutions. In this case if the sentences imposed were contrary to the Code and defendant was precluded from challenging their validity, under the circumstances presented, the defendant would be deprived of the equal protection of the law.
+We are cognizant that the present case is a collateral attack upon the sentences imposed. Under People v. Ballinger (1973), 53 Ill. 2d 388, 292 N.E.2d 400, a claim that the sentence is excessive may not be raised in post-conviction proceedings. However, unlike Ballinger, it is asserted that the present sentences are not within the statutorily authorized limits. In view of this factor and our conclusion that defendant would be denied equal protection of the law, if his assertions were correct yet not resolved on the merits, we are of the opinion that this matter may be considered under the Post-Conviction Hearing Act. Ill. Rev. Stat. 1975, ch. 38, par. 122 — 1 et seq.
+The State, however, urges that defendant has waived consideration of the propriety of the sentences by failing to advance the matter on direct appeal. This court will take judicial notice of its records. (People v. Siglar (1971), 49 Ill. 2d 491, 274 N.E.2d 65.) Our records indicate that the briefs of counsel in defendants direct appeal were filed prior to the effective date of the Code and this court granted defendant’s motion to waive oral argument on December 28, 1972. The opinion affirming defendant’s convictions and sentences was filed shortly after the supreme court’s opinions in People v. Chupich and People v. Harvey were modified upon a denial of petitions for rehearing. Under these circumstances, we do not believe that the doctrine of waiver should be applied. (See People v. Ikerd (1970), 47 Ill. 2d 211, 265 N.E.2d 120.) We will consider the issue raised as to defendant’s sentences. Cf. People v. White (1972), 5 Ill. App. 3d 205, 282 N.E.2d 467.
+H.
+We find that the imposition of a concurrent 10- to 15-year sentence for burglary is improper. That offense is a Class 2 felony wherein the minimum sentence may not exceed one-third the maximum sentence imposed. (Ill. Rev. Stat. 1973, ch. 38, pars. 19 — 1(b) and 1005 — 8— 1(c)(3).) Under the authority of Supreme Court Rules 651(d) and 615(b) we reduce the minimum sentence for the burglary conviction to 5 years.
+Defendant urges that the sentence of 10 to 15 years imposed for rape is improper under the Unified Code of Corrections, arguing that it would be inconsistent to be sentenced for burglary under the Code and for rape under the old law. People v. Lilly (1974), 56 Ill. 2d 493, 309 N.E.2d 1, is directly on point for this issue and points out that the minimum term for rape under the Code is not less than under the prior law. The defendant does not qualify for a reduction of sentence under the Code.
+Accordingly, the judgment of the circuit court of Cook County denying defendant’s request for a sentence modification as to his rape conviction is affirmed. Defendant’s burglary sentence, as heretofore indicated, is modified.
+Affirmed in part; modified in part.
+STAMOS, P. J., and JIGANTI, J., concur.
