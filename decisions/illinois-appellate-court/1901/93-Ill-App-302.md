@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-19"
+citations: ["93 Ill. App. 302"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. C. Rogers v. The Concord Apartment House Co., and The Northern Trust Co., Trustee."]
+source_url: "https://static.case.law/ill-app/93/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5288600
+cites_cases: ["185 Ill. 172", "90 Ill. 380"]
+---
+
+# Rogers v. Concord Apartment House Co.
+
+## Majority (Mr. Justice Freeman)
+
+Mr. Justice Freeman
+delivered the opinion of the court.
+The principal objection to appellant’s claim for a lien, upon which apparently the demurrer was sustained, is that the written contract provided no definite time within which the work therein agreed upon should be completed or paid for. While the answer in the nature of an intervening petition sets forth that the work was to be done within a reasonable time and to be paid for when done, the written instrument, which purports to contain the whole of the actual agreement, is silent upon those points. Tt is probable that, the work being actually completed within “ less than three years ” from the .date of the agreement, and immediately accepted, a contract for such completion and for payment within a reasonable time, less than one year thereafter, may be properly implied from the acts of the parties. If the mechanics’ lien laws of 1861 and 1874 were still in force, this might suffice to give appellant a lien. Clark v. Manning, 90 Ill. 380 (382).
+But it has been held in Freeman v. Rinaker, 185 Ill. 172 (179), in view of the omission from the act of 1895 of certain provisions relating to implied contracts or contracts partly implied or partly expressed, which were contained in the mechanics’ lien statutes of 1861 and 1874, that under the present act “ the law can not imply any time for completion,” and therefore the claimant was not entitled to a lien. In that case as in the case at bar, the contract “ was an expressed contract as distinguished from an implied contract, and no time was agreed upon for completion of the work.”
+It is, however, argued with some force, that the court in that case could not have had its attention called to the language of section 1 of the act of 1895, if that opinion is intended to be understood as holding that all provisions “in relation to implied contracts or contracts partly implied and partly expressed are omitted from the act of 1895;” that said act not only states (section 1) that “ any person who shall by any contract with the owners ” furnish material or perform labor shall have a lien, but expressly states (R. S., Chap. 82, Sec. 21) that a contractor may enforce a lien where he has filed with the clerk of the Circuit Court “ a claim for lien * * * which shall consist of a brief statement of the contract, the date the same was made, the date fixed therein or the time implied for completion and for final payment, and the date the same was completed, if completed,” etc. It is urged that as all such requirements were complied with in the present case, the decision in Freeman v. Rinaker is clearly inapplicable. The language of the statute above quoted might perhaps, except for that decision, be deemed broad enough to bring the case at bar within the scope of the opinion in Clark v. Manning, supra, and make applicable what is there said in reference “ to implied contracts or to expressed contracts, where no time had been agreed upon for doing the work or furnishing the materials, or where no day of payment had been agreed upon.” If, as was there said, referring to the failure of the law of 1845 to provide for liens under such contracts, “undoubtedly it was to correct these defects in the law of 1845 that the act of 1861 was passed,” there is perhaps plausibility in the contention that the provision in section 1 of the present act as above quoted, and which is not found in the law of 1845, was intended to have the same effect. But such is not the view expressed by our Supreme Court in the Rinaker case, and it is our duty to follow the law as that court has stated it, until otherwise advised by that tribunal.
+Appellee urges that the appellant’s lien claim is defective in that. it is filed in the name of “ W. 0. Rogers & Company,” instead of by Rogers himself. But the amended answer sets up that Rogers is doing business under that name, and is himself the claimant. W. 0. Rogers & Company is, in other words, but the business name and style of W. C. Rogers personally, and not the name of a copartnership. We do not regard the objection as material.
+In view, however, of the express holding in Freeman v. Rinaker, supra (p. 177), that “ no lien can be enforced * * * under this contract for the reason that the contract is in writing, and contains no provision as to the time within which the work was to be performed or the money to be paid,” the question is not open for argument in this court, and the judgment must be affirmed.
