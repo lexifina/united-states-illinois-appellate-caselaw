@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-1761"
+decided: "1980-09-22"
+citations: ["89 Ill. App. 3d 248"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF CHICAGO, Plaintiff-Appellant, v. WILLIAM GILLESPIE, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/89/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5537670
+cites_cases: ["1 Ill. App. 3d 460", "275 N.E.2d 270", "345 N.E.2d 493", "369 N.E.2d 903", "406 N.E.2d 923", "54 Ill. App. 3d 488", "63 Ill. 2d 128", "85 Ill. App. 3d 319"]
+---
+
+# First Federal Savings & Loan Ass'n v. Gillespie
+
+## Majority (Mr. JUSTICE CAMPBELL)
+
+Mr. JUSTICE CAMPBELL
+delivered the opinion of the court:
+Plaintiff, First Federal Savings and Loan Association of Chicago, brought an action against defendant, William Gillespie, seeking to foreclose a mortgage on certain property owned by defendant located in Cook County. The trial court subsequently dismissed plaintiff’s complaint for foreclosure and reinstated defendant’s delinquent mortgage. On appeal, plaintiff contends that the trial court erred in dismissing its complaint. Defendant has not filed a brief, but we shall consider the case on its merits. First Capitol Mortgage Corp. v. Talandis Construction Corp..(1976), 63 Ill. 2d 128, 345 N.E.2d 493.
+On March 27,1979, plaintiff filed a complaint alleging in part that the mortgage had been in default since July 1, 1978, and that an accelerated principal balance of $17,529.98 was due and owing. The complaint further alleged that plaintiff had previously filed a complaint for foreclosure against defendant within a 5-year period. According to the complaint, that action was dismissed upon reinstatement of the mortgage pursuant to section 7 of the mortgage statute. Ill. Rev. Stat. 1977, ch. 95, par. 57.
+On August 16, 1979, defendant filed an answer to plaintiff’s complaint, denying that the mortgage was in default since July 1, 1978. Defendant claimed that he had financial difficulties due to the bankruptcy of his employer, but that he was currently employed and capable of making the mortgage payments. Defendant requested the court to enter an order dismissing plaintiff’s complaint and directing plaintiff to accept the amounts of payment in default. Plaintiff thereafter filed an answer to defendant’s motion, realleging defendant previously sought relief pursuant to section 7 within a 5-year period and that defendant was precluded from asserting his right to cure the amount in default on the mortgage. The trial court subsequently granted defendant’s motion in a written judgment order and directed plaintiff to accept the sum of $4,079.35 as full payment for arrearages in mortgage payments, court costs and attorney’s fees. The trial court also dismissed plaintiff’s complaint and reinstated defendant’s mortgage to current status.
+Plaintiff contends that the trial court erred by permitting defendant to cure his mortgage delinquencies for a second time within a 5-year period. (Ill. Rev. Stat. 1977, ch. 95, par. 57.) Under the provisions of section 7 of the mortgage statute, a defaulting mortgagor has the right to cure a default in payment by tendering the principal then due, excluding acceleration payments, plus costs, expenses, and reasonable attorney’s fees within 90 days after service of summons or prior to the entry of the foreclosure decree, whichever occurs first. (Paulauskas v. Rumsas (1971), 1 Ill. App. 3d 460, 275 N.E.2d 270.) Section 7 further provides as follows:
+“The relief granted by this Section shall not be exhausted by a single use thereof, but shall not be again available under the same trust deed or mortgage for a period of 5 years from the date of the dismissal of such proceedings.” Ill. Rev. Stat. 1977, ch. 95, par. 57.
+Recently, the Fourth District Appellate Court in State Farm Life Insurance Co. v. Town & Country Associates (1980), 85 Ill. App. 3d 319, 406 N.E.2d 923, addressed the same issue now brought by plaintiff. In State Farm, the plaintiff filed a complaint seeking to foreclose three mortgages on adjoining tracts of property owned by the defendants. Defendants responded with a motion alleging their tender of the amount of installments due without acceleration together with interest, and defendants requested that the court fix reasonable attorney’s fees, costs and expenses to be paid by them to the plaintiff. Plaintiff responded asserting that defendants previously exercised the section 7 remedy in regard to the same mortgages in a foreclosure suit which had been dismissed within a 5-year period. The trial court found that the dismissal of the prior foreclosure suit after the mortgagors’ payment of past due amounts prevented the defendants’ reliance on section 7 to prevent the present foreclosure by tendering the overdue mortgage payments. The majority of the appellate court affirmed the trial court’s determination and found that the defendants were precluded from the reuse of section 7 relief since they had previously used this statutory remedy within 5 years. Therefore, based on the language of the section 7 limitation heretofore set forth, the decree of foreclosure was sustained.
+In the present case, we believe that State Farm is controlling. Plaintiff alleged in its complaint that defendant previously availed himself of the section 7 remedy within a 5-year period. The record shows that defendant did not deny this allegation in his answer to the complaint. (Ill. Rev. Stat. 1977, ch. 110, par. 40(2); compare American National Bank & Trust Co. v. Schultz (1977), 54 Ill. App. 3d 488, 369 N.E.2d 903.) The clear import of the language of section 7 prevents defendant’s use of such remedy in the present case. Thus, we reverse the judgment of the circuit court and remand the matter to reinstate the complaint for foreclosure and to conduct further proceedings thereon.
+Judgment reversed and cause remanded.
+GOLDBERG, P. J., and O’CONNOR, J., concur.
