@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-12-21"
+citations: ["50 Ill. App. 640"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["West Chicago Street Railroad Co. v. Herbert B. Coit, a Minor, by William B. Coit, His Next Friend."]
+source_url: "https://static.case.law/ill-app/50/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5119140
+cites_cases: ["10 Minn. 335", "11 Brad. 215", "111 Ill. 40", "114 Ill. 641", "123 Ill. 280", "134 Ill. 209", "35 Ill. App. 430", "41 Ill. App. 254", "41 Ill. App. 329", "43 Ill. App. 337", "91 Ill. 104"]
+---
+
+# West Chicago Street Railroad v. Coit
+
+## Majority (Gary, J.)
+
+Opinion of the Court,
+Gary, J.
+This court has, in sundry places, asserted that an allegation of duty—-that a certain act or line of conduct was a duty—is superfluous; that if, from the facts stated, the law would imply the duty, the allegation was unnecessary, if not useless. So far as has come to our knowledge, our assertion has attracted little attention. It is probable that the sanction of the doctrine by the Supreme Court will meet with the same reception. People v. Zingraf, 43 Ill. App. 337; Chicago Con. Bot. Co. v. Milton, 41 Ill. App. 254; Zjednoczcnie v. Sadecki, 41 Ill. App. 329; Ayres v. Chicago, 111 Ill. 40.
+The declaration upon which the appellee has recovered is as follows:
+“ For that whereas, the defendant, on, to wit, the 18th day of February, A. D. 1891, at, to wit, the county aforesaid, was the possessor and owner of a certain double track street railroad, running over, along, and upon West Madison street, in the city of Chicago, in the county of Cook aforesaid, and was then and there engaged in running cars thereon, propelled by an endless cable, for the carrying of passengers for hire; and the plaintiff avers that, on said day, he became a passenger upon one of the cars of said defendant company, then and there going east on the south track of said street railroad, and alighted from the said car at or about the intersection of Oakley avenue and said West Madison street, and did then and there pass around the rear of said car from which he had alighted, going northward, and, while crossing the north track of said street railroad, using all due care and caution, he was struck by a cable car of the defendant company, moving westward upon the said north track, and was thereby violently thrown upon the ground, severely wounding, cutting and bruising plaintiff on his head and face, to such an extent that the plaintiff was compelled to have the said cuts sewed up by a surgeon, and was then and thereafter confined to the house for the period of, to wit, three weeks, and by reason of said cuts and bruises, his head and face is scarred and will remain permanently scarred during his life.
+Plaintiff further avers that it was the duty of the defendant company, through its agents and servants in control and management of its said ca/r moving west on the north track of said street railroad, when, the said car met the ca/r from which plaintiff alighted, to cause said car to stop or move so slowly as not to endanger the lives of persons alighting from said car and passing to the rear thereof, aaid at the same to warn them of the approach of said car going westw-ardly by the ringing of a bell or other alarm.
+But plaintiff avers that the agents and servants of the defendant company then and there in charge of and managing the cable car of the defendant, then and there running west on the north track of said street railroad, the same being the said car which struck the plaintiff, did not regard their duty in this behalf, but were grossly careless and negligent, in this: '
+That they did not cause said car to stop or to move slowly so as not to endanger passengers alighting from the east bound oar and passing to the rear thereof to the north, nor did they then and there ring or cause to be rung any bell or give any other warning of the approach of said car, and that by reason of said carelessness and negligence on the part of the agents and servants so in charge of and managing, conducting and running said cable car, the plaintiff, while using all due care and caution, was injured as aforesaid.
+Plaintiff further avers, that by reason of the injuries aforesaid, he became sick, sore, lame and disordered, and so remained from thence hitherto, and is and will remain permanently scarred, and by reason thereof has been. obliged to and has paid, laid out and expended divers large sums of money in physicians’ and surgeons’ services and other expenses, to wit, two hundred dollars, in and about endeavoring to be cured of his said injuries so received as aforesaid, to the damage of the plaintiff of ten thousand (10,000) dollars, and therefore he brings his suit,” etc.
+Striking out of that declaration the useless verbiage of the italicized lines, all that remains is in effect that if a passenger alights from a street car while it is in motion— that not being denied—about a street intersection which takes in the whole length of the line, and goes around behind the car, another street car going in the opposite direction should be stopped or slowed up, or a bell rung, or some other warning given, though nobody connected with the movements of that other car had any notice of the passenger.
+Does the law imply a duty by those conducting a street car to stop or slow up, or ring a bell or give some Warning every time it meets another ?
+The law imposes upon those controlling vehicles in public streets the duty of exercising ordinary care uot to injure other people; but what particular acts or course of conduct are or is consistent with the discharge of duty, is not a matter of judicial knowledge, but for a jury to decide.
+It does not help to aver that this, that or the other thing should have been done. Whether the omission was negligence or not, the court can not decide; the jury are to determine. Hegligence is the fact to be averred. L. S. & M. Ry. v. Johnson, 35 Ill. App. 430; McCauley v. Davidson, 10 Minn. 335.
+Apply the principle to matters of less common knowledge and the matter is clear. How should the photogravure process be conducted ? By what acts or omissions is a workingman in that process guilty of negligence, and so liable to the employer for loss of materials %
+After verdict the appellant moved in arrest of judgment and excepted to the denial of the motion. Ho reasons were specified, which leaves the appellant at liberty to urge any sufficient reason. Ottawa, O. & F. R. V. R. Co.v. McMath, 91 Ill. 104.
+Without a motion in arrest, it might have been assigned as error here that the declaration is insufficient. Chi., Md. & St. P. Ry. v. Hoyt, this court, Aug. 8, 1893.
+The instructions on the part of the appellee put his right to recover upon the hypothesis that the appellant had been “ guilty of negligence as charged in the declaration ”—that is, guilty of omissions of acts which there is no implication of law the appellant ought to have performed. Joliet Steel Co. v. Shields, 134 Ill. 209.
+It is unnecessary to review the evidence and instructions on this record. The judgment is reversed and the cause remanded.
