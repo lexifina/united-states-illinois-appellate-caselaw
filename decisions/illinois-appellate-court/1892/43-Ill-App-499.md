@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-01-14"
+citations: ["43 Ill. App. 499"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Illinois Paper Company v. The Northwestern National Bank."]
+source_url: "https://static.case.law/ill-app/43/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5052624
+cites_cases: ["120 Ill. 208", "120 Ill. 223", "126 Ill. 461", "126 Ill. 584", "133 Ill. 45", "20 Ill. 448", "26 Ill. 36", "35 Ill. App. 164", "37 Ill. 341", "52 Iowa, 518", "74 Ill. 414"]
+---
+
+# Illinois Paper Co. v. Northwestern National Bank
+
+## Majority (Wateemaht, P. J.)
+
+Wateemaht, P. J.
+The question presented in this case, is, whether the reception of payment by a creditor from an insolvent debtor, who, when he makes the payment has determined to make an assignment, and who, in pursuance of such determination does thereafter make an assignment, is such a preference, under the provisions of the insolvency law of this State, as that the payment will be set aside and the creditor be compelled to pay the money into court for the benefit of a creditor or creditors of the debtor; the creditor at the time of the payment to him receiving it in good faith, without knowledge or notice either that the debtor was insolvent or contemplated making an assignment.
+True, the bill in this case sets forth that the notes paid were not due when payment was made, and that the debtor, the day after payment, made an assignment; but these allegations are immaterial, because it is not charged that the bank had even a suspicion of either the insolvency of its debtor or that he contemplated making an assignment. Had notice to the bank of the determination to make an assignment been charged, upon a hearing, the fact that the notes were paid before they were due, might have been material as tending to show such notice, and so also, if an answer denying the charges of this bill had been filed, the limited time that elapsed between the payment and the assignment would have been material, as tending to show that the determination to assign existed when the payment was made; but as notice to the creditor is not charged, and the demurrer admits the determination to assign, neither the fact that the notes when paid were no,t due, nor the fact that an assignment was made the next day, is material.
+The question remains as stated : Does the mere fact of payment of a debt by an insolvent when he has determined to make an assignment, and who thereafter, in pursuance of such determination, does assign, constitute a preference which will be set aside ? If so, logically, it can make no difference that the determination to assign is not carried into effect for a year afterward.
+Counsel for appellant quote at large from published opinions of the Supreme Court in Preston v. Spaulding, 120 Ill. 208; Hide & Leather Nat'l Bk. v. Rehm, 126 Ill. 461; and Hanford Oil Co. v. First Nat'l Bk., 126 Ill. 584. It is sufficient to say in respect to the quotations from those cases, urged upon this court, as this court and the Supreme Court said in Farwell v. Nilsson, 133 Ill. 45, 35 Ill. App. 164, that “ The language of an opinion is to be confined by the facts of -the case which the court is considering.” Each of the cases upon which appellant relies, was an instance in which the act held to be a fraudulent preference was not a payment, but was a giving of security or.a placing of the creditor in a position which enabled him to obtain a preferential lien. The distinction between making a payment whereby an absolute title at once passes, and the creating of amere lien, is pointed out in Van Patten & Marks v. Burr, 52 Iowa, 518, cited as Van Patten v. Marks, by the Supreme Court in Preston v. Spaulding, 120 Ill. 223.
+Such cases are not authority for the contention of appellant in this case. The construction of the act concerning assignments for the benefit of creditors, insisted upon by appellant, is not in accordance with that placed upon the statutes of this State concerning'fraudulent transfers. "It has uniformly been held in respect to the provisions of the statutes for the prevention of frauds and perjuries, that both parties must have had an intent to hinder, delay or defraud creditors, in order to bring the transaction within the purview of the statute. Ewing v. Runkle, 20 Ill. 448; Hatch v. Jordon, 74 Ill. 414; Myers v. Kinzie, 26 Ill. 36; Hessing v. McCloskey, 37 Ill. 341.
+It is sought, as regards the statute regulating assignments, to change the salutary rule of the above mentioned cases and to punish a perfectly innocent party for a fraudulent act of another, of which he had no notice. The far-reaching consequences of the position assumed by appellant are obvious. If appellant apprehends the law correctly, no creditor is safe in treating as his own, money he has received in payment of debts, until time and circumstances have demonstrated that in paying him, his debtor had no intention of giving a preference, or then had not determined to make an assignment. We can not believe that the legislature in enacting this statute intended to bring within its scope, payments bona fide received, without notice by the creditor that his debtor contemplated making an assignment.
+The decree of the Circuit Court dismissing the bill will be affirmed.
+Decree affirmed.
