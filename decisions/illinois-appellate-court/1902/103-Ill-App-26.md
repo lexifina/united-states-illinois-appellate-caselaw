@@ -1,0 +1,21 @@
+---
+court: "Illinois Appellate Court"
+decided: "1902-07-18"
+citations: ["103 Ill. App. 26"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Galesburg Sanitarium v. John Jacobson."]
+source_url: "https://static.case.law/ill-app/103/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2589513
+---
+
+# Sanitarium v. Jacobson
+
+## Majority (Me. Justice Dibell)
+
+Me. Justice Dibell
+delivered the opinion of the court.
+Appellant is a corporation which conducts a hospital. Appellee was a patient therein for some two months. He alleges he ivas assaulted, beaten, mistreated and injured by the servants and employes of appellant, and brought this suit to recover damages therefor. To an appropriate declaration appellant pleaded not guilty. Appellee recovered a verdict and a judgment for §100 from which the sanitarium prosecutes this appeal.
+Appellee was a section hand, and became violently insane at his boarding house, and was removed to the county jail by officers, after a struggle with him. He was afterward removed to the hospital. At first he wras violent, and it is probable harsh measures were required to repress him, but he soon became much better, so that he wTas allowed to be at large, around the hospital, and wTas taken out for walks. He testified to numerous and serious acts of .mistreatment, most of them inflicted by an attendant named Thorsen. As to his complaints of mistreatment when he was first taken to the hospital the preponderance of the proof by the officers and attendants was against appellee, and warranted the conclusion no more force was used than was necessary. But appellee’s testimony as to the later impositions by Thorsen was not contradicted, Thorsen not being a witness. Moreover, as to some of them appellee was corroborated. Blakemore, a court reporter, testified he was at the hospital on one occasion, taking massage treatment. Thor-sen got up a boxing match between appellee and a traveling man who was present. Neither of them wished to box, but Thorsen urged it. In the language of Blakemore, Thorsen was “ egging them on.” Appellee got the better of his opponent. Thorsen, to stop the contest he had inaugurated, hit appellee “ a pretty good clip back of the ear,” and knocked him down upon the lounge. Blakemore testified that upon another occasion appellee did not start quick enough to take a bath which Thorsen wanted him to take, and Thorsen slapped appellee on the side of the head. Appellee testified that on another occasion Thorsen hit him with a leather belt which had a buckle on the end, and made a dent in his side. He is corroborated by a physician who examined him at the hospital and found an abrasion on his side to which he directed medicine to be applied to heal it. Appellee testified another attendant, Stambaugh, struck him in the mouth when he had on a pair of boxing gloves, and knocked three of his teeth loose, and that he went to Dr. Olson to have them fixed. Stambaugh denied this. A physician testified he found one of appellee’s teeth loose, and Dr. Olson, a dentist, testified he found three of appellee’s teeth loose and the alveolar plate broken. Omitting all testimony given by appellee of abusive treatment, wherein he is not corroborated, we are of opinion that the testimony he gave in which he was corroborated warranted the verdict. Appellee was ill and was a patient residing at the hospital for treatment, and was paying for the services he received, and he was entitled to reasonably kind treatment, so far as the nature of his malady would allow. Ho assault upon him was justifiable except so far as it was necessary to control him at times when he was insane or delirious. Appellant’s servants on the occasions above referred to unnecessarily abused plaintiff, and inflicted upon him injuries for which the jury were warranted in holding their master responsible. There is no claim this was a charitable institution, nor any question as to its liability for the negligence of its employes on that account. The fact the jury awarded but $100 as damages indicates they were not governed by passion or prejudice. The judgment is affirmed.
