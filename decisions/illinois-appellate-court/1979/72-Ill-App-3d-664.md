@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-975"
+decided: "1979-05-23"
+citations: ["72 Ill. App. 3d 664"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. DARWIN PERNELL, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/72/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5584177
+cites_cases: ["24 Ill. App. 3d 536", "321 N.E.2d 52", "341 N.E.2d 431", "348 N.E.2d 199", "35 Ill. App. 3d 342", "358 N.E.2d 17", "370 N.E.2d 293", "370 N.E.2d 532", "370 N.E.2d 864", "378 N.E.2d 293", "38 Ill. App. 3d 447", "382 N.E.2d 303", "43 Ill. App. 3d 1039", "55 Ill. App. 3d 263", "61 Ill. App. 3d 732", "65 Ill. App. 3d 525", "69 Ill. 2d 61"]
+---
+
+# People v. Pernell
+
+## Majority (Mr. JUSTICE RIZZI)
+
+Mr. JUSTICE RIZZI
+delivered the opinion of the court:
+Defendant, Darwin Pernell, was convicted of murder in a jury trial and sentenced to 20-40 years imprisonment. He contends that the jury was not properly instructed regarding the State’s burden of proof on the issue of self-defense, and that the trial judge improperly precluded him from testifying as to his state of mind at the time of the occurrence. We reverse and remand because the jury was not properly instructed on the issue of self-defense.
+On November 12,1976, the defendant shot and killed Julian Beasley. The defendant maintains that he acted in self-defense; this issue was properly raised during the trial. Self-defense is an affirmative defense. Once it is properly raised, the burden is on the State to prove beyond a reasonable doubt that the defendant was not justified in using the force which he used. Ill. Rev. Stat. 1977, ch. 38, pars. 3—2(b), 7—14; People v. Graves (1978), 61 Ill. App. 3d 732, 742, 378 N.E.2d 293, 301; People v. Ortiz (1978), 65 Ill. App. 3d 525, 532, 382 N.E.2d 303, 308.
+Whether the jury was properly instructed on the issue of self-defense is the decisive point in this case. The State tendered Illinois Pattern Jury Instructions, Criminal, No. 7.02 (1968) (hereinafter IPI), which was given to the jury over defendant’s objection. IPI Criminal No. 7.02 is the issue instruction for murder cases when an affirmative defense is not an issue. It is an improper instruction when the affirmative defense of self-defense has been properly raised. (People v. Sunquist (1977), 55 Ill. App. 3d 263, 266, 370 N.E.2d 864, 866.) IPI Criminal No. 25.05 must be given in lieu of IPI Criminal No. 7.02 when self-defense is an issue. (Sunquist, 55 Ill. App. 3d 263, 266-68, 370 N.E.2d 864, 866-68; People v. Wright (1974), 24 Ill. App. 3d 536, 541, 321 N.E.2d 52, 56.) IPI Criminal No. 25.05 adds to the propositions of IPI Criminal No. 7.02, the issue of whether the defendant was not justified in using the force which he used; it places the burden upon the State to prove this issue beyond a reasonable doubt. Plainly, in this case IPI Criminal No. 25.05 should have been given to the jury rather than IPI Criminal No. 7.02.
+Although the defendant objected to IPI Criminal No. 7.02, he did not tender IPI Criminal No. 25.05. The State, therefore, argues that the defendant waived any claim that IPI Criminal No. 25.05 rather than IPI Criminal No. 7.02 should have been given to the jury. While the failure to tender a particular instruction may constitute a waiver of any claim that the instruction should have been given, we believe the defendant’s failure to tender IPI Criminal No. 25.05 is not as important with reference to fundamental fairness as the quintessential requirement that the jury be properly instructed when one stands to lose his liberty. (See Sunquist, 55 Ill. App. 3d 263, 266-67, 370 N.E.2d 864, 867; Graves, 61 Ill. App. 3d 732, 741-42, 378 N.E.2d 293, 300-01; Wright, 24 Ill. App. 3d 536, 541, 321 N.E.2d 52, 57; cf. People v. Jenkins (1977), 69 Ill. 2d 61, 65-67, 370 N.E.2d 532, 534.) When there are such grave errors in proffered jury instructions so as to affect plain justice, it is the duty of the court in our judge-and-jury system to inform the jury as to the law. See Jenkins, 69 Ill. 2d 61, 66, 370 N.E.2d 532, 534; Graves, 61 Ill. App. 3d 732, 741, 378 N.E.2d 293, 301.
+Here, we have a murder trial where the affirmative defense of self-defense was properly raised. The Illinois Pattern Jury Instructions, Criminal, clearly provide the basic jury instructions that are to be used in every case of this nature. (Supreme Court Rule 451; People v. Diaz (1976), 38 Ill. App. 3d 447, 455, 348 N.E.2d 199, 206.) The IPI Criminal Committee Comments for affirmative defenses state that when an affirmative defense has been raised, the appropriate issue and burden of proof instruction should be included in the instructions to the jury. (IPI Criminal Committee Comments, IPI Criminal No. 25.00, at 435-36.) Moreover, appropriate sample instructions are provided in the book. (See IPI Criminal Sample Instruction No. 27.01, at 460.) Under the circumstances, the trial judge should have known that the appropriate issue and burden of proof instruction, IPI Criminal No. 25.05, should have been given to the jury. Consequently, it was the duty of the judge to make certain that IPI Criminal No. 25.05 was included in the instructions given to the jury. See Graves, 61 Ill. App. 3d 732, 741, 378 N.E.2d 293, 301; Sunquist, 55 Ill. App. 3d 263, 268, 370 N.E.2d 864, 867-68; cf. Jenkins, 69 Ill. 2d 61, 66, 370 N.E.2d 532, 534.
+We have examined the cases cited by the State for the contention that the defendant waived any claim that IPI Criminal No. 25.05 should have been given to the jury. Since these cases antedate Justice Dooley’s opinion in Jenkins and are not in accord with the holding or rationale of Jenkins, they are no longer viable on this issue; the same conclusion must be reached as to other similar cases. In order to establish a degree of certainty in the area of jury instructions, we hold that if the issue of self-defense is properly raised, IPI Criminal No. 25.05 must be given to the jury; the requirement that the instruction be given is not waived by defense counsel’s failure to tender the instruction. (See Graves, 61 Ill. App. 3d 732, 742, 370 N.E.2d 293, 301; Sunquist, 55 Ill. App. 3d 263, 266-67, 370 N.E.2d 864, 867.) The State’s argument of waiver is, therefore, untenable.
+The State also argues that the instructions taken as a whole sufficiently informed the jury of the State’s burden of proof regarding self-defense. Specifically, the State relies upon the fact that the jury was given IPI Criminal No. 24.06 at the State’s request. This instruction defines the use of force in defense of a person, but does not tell the jury that the State has the burden of proving the defendant was not justified in using the force which he used. This distinction is important becaúse in a case such as this, where self-defense is properly raised, the jury must be instructed that the State carries the burden of proof on the issue; the instruction must be given in the form of IPI Criminal No. 25.05 since that is the applicable instruction. (Ortiz, 65 Ill. App. 3d 525, 532-33, 382 N.E.2d 303, 308; Graves, 61 Ill. App. 3d 732, 742, 378 N.E.2d 293, 301; Sunquist, 55 Ill. App. 3d 263, 266, 370 N.E.2d 864, 867-68; Supreme Court Rule 451(a).) The State’s argument that the jury was sufficiently instructed is, therefore, without merit.
+Since this case is being remanded for a new trial, we shall consider the defendant’s claim that he was improperly precluded from testifying as to his state of mind at the time of the occurrence. Specifically, on direct examination of the defendant, the following occurred:
+“Defense counsel: What did you think was going to happen if you didn’t pull the trigger?
+Prosecutor: Objection.
+The Court: Sustained.
+Defense counsel: What were you thinking at the time you pulled the trigger?
+Prosecutor: Objection.
+The Court: Sustained.”
+The trial court erred in sustaining the State’s objections to the questions posed to the defendant. Because the intention or belief of the accused is a material fact in self-defense cases, the defendant must be allowed to testify directly to that fact. (Ortiz, 65 Ill. App. 3d 525, 533, 382 N.E.2d 303, 309; Graves, 61 Ill. App. 3d 732, 741, 378 N.E.2d 293, 300.) On retrial the defendant should, therefore, be allowed to testify with respect to his intentions and beliefs at the time he shot the decedent.
+We have examined the other contentions raised on appeal but they are not significant, nor do they affect our decision of the case. The judgment of conviction is accordingly reversed, and the case is remanded for a new trial in a manner consistent with what is stated herein.
+Reversed and remanded for a new trial.
+SIMON, P. J., and McNAMARA, J., concur.
+IPI Criminal No. 25.05 provides:
+“To sustain the charge of _, the State must prove the following propositions:
+First: Element of the crime; and
+Second: Element of the crime; and
+Third: That the defendant was not justified in using the force which he used.
+If you find from your consideration of all the evidence that each of these propositions has been proved beyond a reasonable doubt, then you should find the defendant guilty.
+If, on the other hand, you find from your consideration of all the evidence that any of these propositions has not been proved beyond a reasonable doubt, then you should find the defendant not guilty.”
+IPI Criminal No. 7.02 differs from IPI Criminal No. 25.05 in that the Third proposition is not included.
+People v. Lynch (1976), 43 Ill. App. 3d 1039, 358 N.E.2d 17; People v. Allen (1976), 35 Ill. App. 3d 342, 341 N.E.2d 431.
+Jenkins lays to rest the claim of waiver with regard to jury instructions when the error affects one’s fundamental right to a fair trial in a case involving his loss of liberty.
+O.W. Holmes, The Common Law 127 (1881): “The tendency of the law must always be to narrow the field of uncertainty.”
