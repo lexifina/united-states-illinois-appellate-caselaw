@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-283"
+decided: "1976-11-24"
+citations: ["44 Ill. App. 3d 420"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ANTHONY SPICUZZA, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/44/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2817047
+cites_cases: ["10 Ill. App. 3d 447", "156 N.E.2d 551", "16 Ill. 2d 82", "241 N.E.2d 665", "288 N.E.2d 463", "294 N.E.2d 105", "311 N.E.2d 112", "335 N.E.2d 437", "344 N.E.2d 456", "52 Ill. 2d 400", "57 Ill. 2d 152", "61 Ill. 2d 335", "63 Ill. 2d 23", "99 Ill. App. 2d 454"]
+---
+
+# People v. Spicuzza
+
+## Majority (Mr. PRESIDING JUSTICE KARNS)
+
+Mr. PRESIDING JUSTICE KARNS
+delivered the opinion of the court:
+The defendant, Anthony Spicuzza, was charged by indictment with the offense of theft over $150 in that, on August 11,1970, he knowingly obtained unauthorized control over an automobile with intent permanently to deprive the owner of its use and benefit, in violation of section 16—1 of the Criminal Code (Ill. Rev. Stat. 1969, ch. 38, par. 16—1). After a bench trial in the Circuit Court of St. Clair County, at which the evidence established that the defendant obtained possession of the car from the Yates Oldsmobile Corporation in St. Louis, Missouri, and was arrested in possession of the car some time later in East St. Louis, Illinois, defendant was found guilty and sentenced to three years’ probation, with credit given for nine months spent in the county jail.
+Defendant’s sole contention, raised for the first time on appeal, is that because it was established at trial that the allegedly unauthorized taking occurred in the State of Missouri, “the State’s own evidence disproved the essential element of venue,” and his conviction must be reversed.
+Defendant is not arguing here that the place of his trial was improper, as he could not in light of section 1—6(a) of the Criminal Code, which expressly provides that all such objections are waived unless made before trial. (Ill. Rev. Stat. 1969, ch. 38, par. 1—6(a); see People v. Dunn, 52 Ill. 2d 400, 288 N.E.2d 463 (1972).) He is, rather, raising a question about the requirement that the county in which the offense occurred be set forth in the indictment and proved beyond a reasonable doubt at trial. (See Ill. Rev. Stat. 1969, ch. 38, par. 111—3(a)(4); People v. Pride, 16 Ill. 2d 82, 156 N.E.2d 551 (1959); People v. Ross, 99 Ill. App. 2d 454, 241 N.E.2d 665 (1st Dist. 1968).) The argument depends on the fact that the indictment alleged that the defendant “obtained," not “exerted,” control over the car in St. Clair County. Stated more precisely, the contention is that venue was not proved because, although the indictment alleged commission of the offense in St. Clair County, the proof showed that the offense occurred in Missouri. Citing section 1—5(a)(1) of the Criminal Code (Ill. Rev. Stat. 1969, ch. 38, par. 1—5(a)(1)), defendant concludes that the Illinois court “had no power” to find him guilty.
+Counsel for defendant on appeal studiously avoids the word “jurisdiction,” but we think he is actually raising a jurisdictional question foreclosed by our supreme court’s decisions in People v. Pujoue, 61 Ill. 2d 335, 335 N.E.2d 437 (1975), and People v. Gilmore, 63 Ill. 2d 23, 344 N.E.2d 456 (1976). Those cases make it clear that, when attacked for the first time on appeal, an indictment is sufficient if it apprises the accused of the precise offense charged with sufficient specificity to prepare his defense and allow pleading a resulting conviction or acquittal as a bar to future prosecution arising out of the same conduct.
+Here it is clear that the failure of the indictment to add the words “or exerted” to the charge that defendant “obtained” unauthorized control of the car in St. Clair County did not affect the preparation of a defense, nor will it result in his inability to plead his conviction as a bar to future prosecution. While the indictment would have been better if framed in the language of the statute, it did not deprive the Illinois court of jurisdiction, and it is apparent that defendant was not misled or prejudiced in his defense by the omission. A person commits theft in Illinois when he knowingly “[ojbtains or exerts unauthorized control over property of the owner” with intent permanently to deprive him of the use or benefit of it. (Ill. Rev. Stat. 1969, ch. 38, par. 16—1.) A person is subject to prosecution in this State for an offense committed either wholly or partly within the State. (Ill. Rev. Stat. 1969, ch. 38, par. 1—5.) One who commits theft may be tried in any county in which he exerted control over the stolen property. (Ill. Rev. Stat. 1969, ch. 38, par. 1—6(g).) In the instant case it is undisputed that defendant exerted control over the automobile in St. Clair County, Illinois. As he does not contend that the lack of authorization of his exertion of control was not proved beyond a reasonable doubt, the judgment of the Circuit Court of St. Clair County will be affirmed.
+Affirmed.
+CARTER and EBERSPACHER, JJ., concur.
+Some explanation for the passage of more than six years between the date of the offense and the filing of this opinion seems in order. Defendant was indicted on December 14,1970. On October 12,1971, the Circuit Court of St. Clair County entered an order discharging the defendant pursuant to statutory speedy-trial provisions, and the State appealed. We affirmed, but the Illinois Supreme Court reversed and remanded. (People v. Spicuzza, 57 Ill. 2d 152, 311 N.E.2d 112 (1974), rev’g 10 Ill. App. 3d 447, 294 N.E.2d 105 (5th Dist. 1973).) The case was then set for trial, which took place on January 20, 1975.
