@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1885-03-03"
+citations: ["16 Ill. App. 167"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank F. Cole et al. v. John C. Cosgrove."]
+source_url: "https://static.case.law/ill-app/16/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 854350
+---
+
+# Cole v. Cosgrove
+
+## Majority (Wilson, P. J.)
+
+Wilson, P. J.
+This case was before ns at the March term, 1884, when the judgment of the court below was affirmed. Subsequently, a petition for a rehearing was filed, which was allowed, further arguments heard, and the case is now before us for determination.
+The action was replevin, for a quantity of boots and shoes, brought by appellee against Cole and King, and also against Gore & Co., as to whom it was subsequently dismissed. The greater portion of the goods not having been found on the replevin writ, a count in trover was added to the declaration as to the goods not found. There was a plea of not guilty to the count in trover, also pleas of non cepit, non detinet, and property in King and Gore, to the counts in replevin by all the defendants named in the' writ, upon which issues were joined.
+There was a jury trial resulting in a verdict for the plaintiff against Cole and King, for $3,380, for which sum and costs the plaintiff had judgment. Cole and King appealed to this court.
+It appears from the record that King was named as a party defendant in the praecipe and writ, but notin the declaration, nor was he served with process. He, however, appeared to the action, and joined with the other defendants in pleading to the merits and also in the trial of the case, without objection. As the case is to be reversed on other grounds and remanded for a new trial where the plaintiff may apply for leave to amend his declaration if he shall see fit, we express no opinion as to the effect of the omission of King’s name in the declaration.
+It appears that Cosgrove and one Dillon, borrowed from Cole, $1,000, for which they gave their note, and deposited with him as collateral security therefor, the goods in question, indorsing and delivering to him the warehouse receipt which they held for the goods. The note contained a stipulation authorizing Cole to sell the property, with or without notice, in case of default in the payment of the note or interest according to its terms. Default having been made, Cole gave notice of the sale by posting printed notices in various places and sending like notices around amongst boot and shoe dealers, that the property would be sold at public auction at 10 a. m., October 20, 1881, at the court house door, in Chicago, and the goods were sold at the time and place designated in the notices.
+The goods were not present at the sale, but a list was exhibited, and after bids had been received by the auctioneer, oinmencing with §700 and ending at §1,100, the goods and warehouse receipt were struck off in bulk to King, at the latter sum, that being the highest bid made. The goods were paid for by King at the time of the sale, with his check on one of the banks on which Cole drew the money.
+It does not appear that subsequently to the sale Cole had any ostensible control over the goods, but it was claimed on the trial in the court below that the sale was fictitious and was collusively made to cheat and defraud Cosgrove; that the property was many times greater in value than the amount of the note; that although professedly fair and public, the sale was so contrived and managed as to avoid publicity and prevent bidding; that King was acting wholly in the interest of Cole and as his instrument, using his money to make the pretended purchase, and that no title to the goods passed to King by the sale. And this appears to have been the principal subject of controversy on the trial below, and to which the evidence was largely directed.
+The court, at the request of the plaintiff, instructed the jury in substance, that if they believed from the evidence that Cole caused sale to be made of the warehouse receipt to King for the purpose and with the intent to defraud Cosgrove, and to fraudulently deprive him of the goods in question, and that by reason of fraudulent acts and practices on the part of Cole the warehouse receipt was sold to King for a grossly inadequate price as compared with the value of the goods, and that Cosgrove has sustained a pecuniary loss thereby, such fraud and fraudulent practices on the part of Cole render the sale void and of no effect, and no title either to the warehouse receipt or the goods passed to King as against Cosgrove.
+The error in this instruction is manifest, and need only be suggested. It is a familiar principle, that in order to impeach a sale of goods on the ground of fraud, both parties must participate in the fraud. Benjamin on Sales, p.--. It is not enough to avoid the sale to show that Cole acted fraudulently or with a fraudulent purpose. Asale of the goods was in fact made, and King was the purchaser. The fact that Cole may have acted fraudulently could not affect King’s rights as purchaser, unless he was a participator in or had notice of the fraud; and whether he had or not was a question of fact which lie was entitled to have the jury pass upon. We can not assume, nor could the court below properly assume that King was guilty of a fraud. To do so would be a clear invasion of the province of the jury, whether we regard the evidence tending to prove the fraud as slight or strong. The instruction should have embraced as a part of its hypothesis that King was a participator in the fraudulent purpose of Cole, or acting in collusion with him in making a fraudulent sale.
+For the error of the court in giving said instruction, the judgment is reversed and the cause remanded for a new trial.
+"Reversed and remanded.
