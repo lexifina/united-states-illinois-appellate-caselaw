@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "74-69"
+decided: "1975-11-05"
+citations: ["33 Ill. App. 3d 503"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. James Ransom, a/k/a Melvin Ransom, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/33/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2868945
+cites_cases: ["11 Ill.App.3d 132", "190 N.E.2d 738", "239 N.E.2d 690", "28 Ill.2d 116", "296 N.E.2d 19", "392 Ill. 355", "64 N.E.2d 531", "97 Ill.App.2d 130"]
+---
+
+# People v. Ransom
+
+## Majority (Mr. JUSTICE GEORGE J. MORAN)
+
+Mr. JUSTICE GEORGE J. MORAN
+delivered the opinion of the court:
+The defendant, James Ransom, and a codefendant, Freddie Macklin, were indicted for the murder of Ernest Tiller. The case was tried before a jury and at the close of the State’s evidence the court directed a verdict of acquittal for Macklin. The jury subsequently found Ransom guilty of murder. Ransom was sentenced to a term of not less than 14 nor more than 30 years.
+The defendant advances two grounds for reversal or in the alternative for reversal and remandment of his conviction — first, that the State failed to prove him guilty beyond a reasonable doubt, and second, that the court committed reversible error in allowing, over objection, testimony of a coroner’s physician as to the identity of the subject of his postmortem examinátion.
+Several people congregated at the home of Ransom’s grandmother, Mattie Bond, on the evening of March 5, 1973. Among those present were Edna Bolden, Jimmie Harris, Freddie Tiller (the victim’s brother) and Annie Moore, all of whom testified for the State. Ransom’s mother, Fanny Miller, was there but did not testify. Neither defendant testified.
+The testimony of the State’s witnesses was consistent, differing only in small details. The defendants arrived sometime between 9 p.m. and 10 p.m. About 15 minutes later, Ernest Tiller arrived. Before he could enter the house, the defendants shoved the victim out of the front door. The people inside heard yelling and went outside. The victim was lying face down in the dirt road in front of the house. Ransom was standing over the victim holding a board. He struck Tiller with the board at least twice. Two witnesses observed a pool of blood around Tillers head. Fred Tiller tried to intercede but was knocked unconscious by Macklin who was wearing brass knuckles. Jimmie Harris also attempted to help and was knocked out by Macklin. The witnesses helped Fred Tiller and Harris up and took them to the hospital. None of the witnesses observed what happened to Ernest Tiller. Mrs. Bolden did state, however, that Tillers mother said he had gotten up after the beating and had come to her house. That was the only evidence introduced concerning Ernest Tiller’s whereabouts from March 5 until his examination by the St. Louis Coroner’s physician on March 12.
+The physician testified that he performed an autopsy on the body of a black male in St. Louis, Missouri, on March 12. He stated that he did not know the man’s identity. Over objection, he testified that a tag attached to the body bore the name “Ernest Tiller.” The doctor described the wounds he observed, including a half-inch laceration on the back of the head and a three-inch laceration above the left eyebrow, both of which had been sutured. There were no signs of skull fracture but he found a moderate subarachnoid hemorrhage and pneumonia in the right lung. He stated that the primary cause of death was traumatic subarachnoid hemorrhage and that the second cause was pneumonitis pneumonia, right lung. At the time of the autopsy, the man had been dead no longer than 24 hours.
+When the State has shown the existence, through the act of the accused, of a sufficient cause of death, tire death is presumed to have resulted from such act unless it appears death was caused by a supervening act disconnected from any act of the defendant. (People v. Meyers, 392 Ill. 355, 64 N.E.2d 531.) The corpus delicti is an element of the crime which must be proved beyond a reasonable doubt, but it can be proved by circumstantial evidence (People v. Meyers; People v. Mundorf, 97 Ill.App.2d 130, 239 N.E.2d 690). Even though the deceased’s whereabouts were unaccounted for for seven days prior to his death, it appears that the circumstantial evidence is sufficient to prove that the defendant murdered the decedent. The record indicates that one witness saw the defendant swing a board at the victim who was lying on the ground. In describing the blow, the witness stated, “[H]e came down from the shoulder up to his head.” Two other witnesses observed blood around the face and head of the victim as he lay face down in the dirt street. From this testimony it can be inferred that the defendant landed blows on the deceased’s head and face.
+In our opinion there was sufficient evidence for a jury to find that Ernest Tiller’s death was caused by the beating administered to him by the defendant James Ransom. However, we agree with defendant’s contention that the physician’s testimony concerning the name on the tag attached to the body on which he performed the autopsy was hearsay. Hearsay evidence is testimony in court or written evidence of an out of court statement being offered to prove the truth of the matter therein stated. (People v. Carpenter, 28 Ill.2d 116, 190 N.E.2d 738.) The out-of-court statement here is the statement on the tag attached to the corpse. The tag read “Ernest Tiller.” The testimony was offered to prove that the corpse was that of Ernest Tiller, the victim in this case. Timely objection was made to the admission of this evidence. The court allowed the testimony concerning the tag as well as the rest of the physician’s testimony on the assurance of the prosecutor that he would “connect up the links.” This was never accomplished. The only link connecting the physician’s testimony to the victim Ernest Tiller was his hearsay testimony that the tag bore the name “Ernest Tiller.” Because that testimony should have been excluded and because it was the only link establishing tire relevance of the balance of the physician’s testimony involving the nature of the wounds on the body and the cause of death, its admission was highly prejudicial. We have searched the record but have found nothing which would justify the admission of the testimony conerning the tag, which could establish that the autopsy was performed on the body of Ernest Tiller.
+Because of the prejudicial nature of the hearsay testimony, we reverse the judgment of conviction and remand for a new trial.
+Reversed and remanded.
+CARTER, J., concurs.
+
+## Dissent (Mr. PRESIDING JUSTICE JONES,)
+
+Mr. PRESIDING JUSTICE JONES,
+dissenting.
+I respectfully dissent.
+Although it may have been hearsay testimony for the doctor who performed the autopsy to identify the corpse upon the basis of the name tag, evidence regarding the tag was nevertheless admissible to identify the body in question as being the same body that was brought to the Officer Funeral Home in East St. Louis. Once there, positive identification of the body, and the corpus delicti, were furnished by an employee of the funeral home who had been personally acquainted with Ernest Tiller during his lifetime. Further identification of the body was furnished by the circumstance that the wounds found by the doctor performing the autopsy were consistent with the blows struck by defendant as they were described by the occurrence witnesses. See People v. Jennings, 11 Ill.App.3d 132, 296 N.E.2d 19.
