@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 48,010"
+decided: "1960-10-04"
+citations: ["27 Ill. App. 2d 298"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FRIEND and BRYANT, JJ., concur."]
+parties: ["Helen Baltes, Plaintiff-Appellee, v. Checker Taxi Company, a Corporation, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/27/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5785780
+cites_cases: ["11 Ill.App.2d 282", "121 N.E.2d 337", "137 N. E. 92", "137 N.E.2d 92", "145 Ill. 551", "164 N.E.2d 512", "24 Ill.App.2d 138", "3 Ill.App.2d 235", "305 Ill. 106", "33 N. E. 958", "33 N.E. 958"]
+---
+
+# Baltes v. Checker Taxi Co.
+
+## Majority (ME. PEESIDING JUSTICE BUEKE)
+
+ME. PEESIDING JUSTICE BUEKE
+delivered the opinion of the court.
+Helen Baltes obtained a verdict and judgment for $9900 against the Checker Taxi Company, awarded as damages for injuries suffered while she was a passenger in defendant’s taxicab. Following the denial of post trial motions defendant appealed.
+The complaint filed on October 14, 1953, averred that plaintiff became a passenger in a vehicle owned and operated by the defendant, that she was in the exercise of due care for her own safety, and that as a result of one or more acts of negligence of the defendant the taxicab collided with another automobile, resulting in her injuries. The defendant denied each allegation of negligence. The trial commenced on October 6, 1959. In his opening statement to the jury the attorney for the defendant indicated that the evidence would show that its driver suffered a heart attack. On objection by the attorney for the plaintiff, stated outside the presence of the jury, the court excluded any testimony that the accident was caused by a sudden heart attack suffered by the driver. The basis for the ruling was that the defense mentioned should be specifically pleaded, in the absence of which the evidence would not be admissible. The defendant sought leave to amend its answer by adding an averment that the accident occurred by reason of a sudden illness suffered by the driver resulting in his death a short time thereafter. The court felt that because the plaintiff was 75 years of age and seven years had elapsed since the occurrence that she would be prejudiced by the amendment and testimony in support of it, and refused to permit the amendment.
+Defendant insists that the proffered evidence that its driver died of a heart attack is admissible in negation of the plaintiff’s charges of negligence, and that this is not an affirmative defense and need not be specifically pleaded. Plaintiff maintains that the defense that death or sudden illness was the cause of the mishap is an affirmative defense which must be specifically pleaded, and not having been pleaded the testimony offered to prove such defense is not admissible, citing Sec. 43(4) of the Civil Practice Act; McClean v. Chicago Great Western Ry. Co., 3 Ill.App.2d 235, 121 N.E.2d 337, 33 N.E. 958; Villegas v. Kercher, 11 Ill.App.2d 282, 137 N.E.2d 92, and other cases. The cited cases are not helpful because of the variance in the pleadings and the factual situations. The defendant was required to exercise the highest degree of care, skill and diligence for the safety of plaintiff, consistent with the mode of conveyance. North Chicago St. R. Co. v. Cook, 145 Ill. 551, 33 N. E. 958; Lundquist v. Chicago Rys. Co., 305 Ill. 106, 137 N. E. 92. A carrier is liable only for injuries to passengers which are caused by its negligence in failing to exercise the proper degree of skill and diligence for the passenger’s safety. In the absence of negligence on the part of the carrier, it is not liable to a passenger where the injury is due to a natural cause, overwhelming force or other cause beyond the control of the carrier. The negligence of the carrier must be the proximate cause of the mishap. It has been held that the carrier is liable although the immediate cause of the mishap is an act of God, if the negligence of the carrier concurs in causing the injuries. 13 C.J.S., Sec. 697. It is essential to show, in order to hold a carrier liable for personal injuries to a passenger, that the negligent acts attributed to the carrier constituted the proximate cause of the injuries complained of. 10 Am. Jur., Carriers, Sec. 1241. On the issue of negligence the burden of proof remains at all times upon the plaintiff. The pleadings in the instant case presented the issue as to whether the negligence of the defendant, if any, was the proximate cause of the mishap resulting in the injuries to plaintiff. Under these pleadings the parties are permitted to introduce evidence showing all the facts and circumstances on this issue. Evidence, if any, tending to support defendant’s theory that the mishap occurred solely because of a heart seizure suffered by its driver and not because of any negligence, was admissible under the pleadings. Under the defendant’s theory the heart seizure was something that occurred at the time of the mishap and evidence of it was admissible as part of the transaction. Testimony about the heart attack would not be likely to take the plaintiff by surprise.
+It is unnecessary to consider the contention of the defendant that the court erred in refusing to allow it to amend its answer.
+The defendant, relying on Gundich v. Emerson-Comstock Co., 24 Ill.App.2d 138, 164 N.E.2d 512, urges that the evidence, proffered and admitted, of the driver’s heart seizure requires a judgment in its favor. We are satisfied that the testimony viewed in its aspect most favorable to the plaintiff presented a case which should go to the jury for a verdict. Because of the age of plaintiff and the lapse of time, the case should be tried without delay.
+The judgment is reversed and the cause is remanded with directions to proceed in a manner consistent with these views.
+Judgment reversed and cause remanded with directions.
+FRIEND and BRYANT, JJ., concur.
