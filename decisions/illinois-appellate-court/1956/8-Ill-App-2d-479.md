@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "Term No. 55-0-10"
+decided: "1956-02-01"
+citations: ["8 Ill. App. 2d 479"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARDENS, P. J. and SCHEINEMAN, J., concur."]
+parties: ["Shannon D. Rice, Plaintiff-Appellee, v. Louisville & Nashville Railroad Company, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/8/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5151159
+cites_cases: ["219 F.2d 701", "302 Ill. App. 289", "330 Ill. App. 136", "337 Ill. App. 538", "343 Ill. App. 593", "4 Ill.2d 611", "406 Ill. 573"]
+---
+
+# Rice v. Louisville & Nashville Railroad
+
+## Majority (JUSTICE CULBERTSON)
+
+JUSTICE CULBERTSON
+delivered the opinion of the court.
+This action arises by reason of a suit under the Federal Safety Appliance Act, Boiler Inspection Act, and Federal Employers’ Liability Act on behalf of plaintiff, Shannon D. Rice, as against Louisville & Nashville Railroad Company, a Corporation, for monetary damages, including loss of wages, pain and suffering, and for permanent disability sustained while the plaintiff was in the employ of the defendant in 1951.
+Plaintiff had been employed as a fireman by defendant Railroad, but while temporarily operating an engine he stepped into or caught his left shoe in a defective floor board on the deck of the engine, which caused him to fall down, with the resulting injury to the ankle and foot. Defendant does not deny that the record shows a submissible case on liability and the facts of employment and interstate commerce. The trial of the case resulted in a verdict of $41,500, upon which verdict the Trial Court entered judgment.
+On appeal in this Court defendant raises only two basic issues. First, it is the contention of the defendant that the City Court of East St. Louis in which the trial was held, does not have jurisdiction because the action arose outside the territorial limits of the City of East St. Louis. It is admitted that the Illinois Supreme Court has specifically found, in the cases of Turnbaugh v. Dunlop, 406 Ill. 573, and Starck, Adm’x v. Chicago & N. W. Ry. Co., 4 Ill.2d 611, that the City Court has jurisdiction of the cause of action even though the action arose outside the territorial limits of the City.
+The only other fundamental question raised by defendant is that the verdict is excessive. It is contended on appeal in this Court that there is no proof of permanent disability, and that the verdict must have resulted from passion and prejudice and should be set aside for that reason. Normally, where there is conflicting medical evidence, it is a question of fact for the jury to decide the amount of damages to be assessed (Lanni v. Wyer, Trustee of Long Island R. Co., 219 F.2d 701; Hannigan v. Elgin, J. & E. Ry. Co., 337 Ill. App. 538). We also have, frequently expressed the conclusion that the question of damages is ordinarily peculiarly one of fact for the jury to determine (Ford v. Friel et al., 330 Ill. App. 136; Smith v. Illinois Cent. R. Co., 343 Ill. App. 593, 612). It has also been observed in our Courts that where a contention is made that the verdict results from passion and prejudice on part of the jury there should be a specific showing of passion or prejudice (Mueth v. Jaska, 302 Ill. App. 289).
+In the case before us it appeared from the evidence that on two different occasions for long periods of time plaintiff’s foot was placed in a cast, and that in March 1952 plaintiff was fitted with a steel brace which extended from the foot to the knee and which was strapped onto the leg in order to keep the leg immobile. The steel brace was worn from that time until the time of the trial, except when the steel brace was removed so that a cast might be applied to the leg. The record also shows that the plaintiff suffered pain and continued to suffer pain by reason of such condition. There was further testimony to the effect that the condition of plaintiff’s leg, which was described as causalgia, had caused a reduction in sensory perception in the foot; and while causalgia is usually not a permanent disability, since plaintiff had suffered with it for three years prior to trial, it was viewed as probably being permanent. Plaintiff testified that he was unable to perform his duties as a fireman; that he is in continuous pain; is still wearing a steel brace; does not have the use of his foot when he gets np in the morning, and that it becomes more painful the more he walks on it; and also, that it is very difficult for him to go up and down steps.
+As we have indicated, there was some conflicting medical evidence which would tend to minimize the injuries of plaintiff and to indicate that plaintiff’s injuries were not permanent. There is nothing in the record to show any appeal to sympathy, emotion, or prejudice. The jury was properly instructed, and the only question fundamentally before us is whether a verdict in the substantial sum of $41,500 is in and of itself so excessive as to require a reversal. In the light of the precedents outlined in the cases referred to in this opinion and the nature of the injury and loss of earnings (plaintiff had earned $2072 in the six months preceding his injury), and the fact that he would have been entitled to a greater rate of pay had he continued in his work, makes it difficult for this Court to conclude that the verdict in such amount, in and of itself, was so excessive as to justify reversal. The verdict was consistent with the medical evidence presented on behalf of plaintiff. This Court should not substitute its judgment as to the propriety of the am mint, for the determination of the jury in absence of evidence of passion and prejudice where the record sustains the conclusions of the jury. The judgment of the City Court of East St. Louis will, therefore, be affirmed.
+Judgment affirmed.
+BARDENS, P. J. and SCHEINEMAN, J., concur.
