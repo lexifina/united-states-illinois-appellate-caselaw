@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 64-94"
+decided: "1965-06-18"
+citations: ["60 Ill. App. 2d 376"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EBERSPACHER, P. J. and GOLDENHERSH, J., concur."]
+parties: ["In the Matter of the Estate of Herman Handmacher, Deceased. Leonard E. Handmacher, (Executor)-Appellant, v. Ruth C. Handmacher, (Administrator)-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/60/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2604837
+---
+
+# Handmacher v. Handmacher
+
+## Majority (MORAN, J.)
+
+MORAN, J.
+The executor of the estate of Herman Handmacher appeals from the following orders of the Circuit Court of Madison County, Illinois:
+I. Allowing a widow’s award totaling $9,000 to Ruth C. Handmacher, surviving widow of Herman Handmacher, deceased;
+II. Requiring him to post a surety bond in the amount of $40,000;
+III. Allowing claims of the widow’s former attorneys and allowing her certain claimed expenses ont of the assets of the estate.
+Appellees having conceded that the trial court erred in entering orders titled II and HI, it will be necessary to consider only the propriety of the court’s allowance of the widow’s award.
+Herman Handmacher, a resident of Alton, Illinois, died testate on December 11, 1963. On January 30, 1964, Leonard E. Handmacher, the only brother of the decedent, filed a petition to probate the last will and testament of Herman Handmacher and for letters testamentary to issue to him as the named executor in the will. Decedent willed his hunting guns, golf clubs, clothing and jewelry to specific persons and certain other items of personal property to his widow, certain relatives and friends. He then willed one-third of his net estate to his widow and the remaining two-thirds to the said Leonard E. Handmacher and two surviving sisters. The widow filed her renunciation of this will.
+The appraisers appointed by the court estimated the value of decedent’s estate to be $38,342.06 and fixed the widow’s award at $15,000. The executor filed detailed objections to this award and the court, after a hearing, reduced the award to $9,000.
+The Hlinois Probate Act provides for an award “reasonable for the proper support of the surviving spouse for the period of nine months after the death of the decedent in a manner suited to the condition in life of the surviving spouse and to the condition of the estate.” (Ill Rev Stats, 1963, c 3, § 178.)
+The decedent had been a general agent for Modern Life and Accident Insurance Company since 1947. He earned $20,000 in 1960, $19,000 in 1961, $18,000 in 1962 and $17,000 in 1963. The partiés stipulated that the renewal commissions due the estate through June of 1964 amounted to $7,524.38. The vice president and general manager of Modern Life testified that the value of the future insurance renewals was approximately $10,000. Decedent left a late model Cadillac which was sold for $2,850, building and loan stock worth $10,000, life insurance of $4,000, cash, $342.06 and household furnishings, clothing and equipment which the appraisers valued at $3,000.
+The Handmachers owned, in joint tenancy, a large, expensive, air-conditioned residence which included a large entertainment area with a closed-in patio in the backyard. They vacationed in Florida every winter for several years prior to his death, wore expensive clothing and belonged to the country club. Decedent played golf two or three times a week until he became sick. His “A” membership in the country club cost $500. Decedent’s widow, who actively participated in country club and other activities, had no income apart from her husband’s.
+The aforesaid statute does not restrict the widow to the bare necessities of life, but rather provides for a sum of money which will allow her to live in the manner that she has been accustomed to for a period of nine months after the death of her spouse. The Handmachers had evidently been accustomed to living on a rather lavish scale. Counsel for the widow in his oral argument in this court said, “The record will show that ‘Butch’ Handmacher never went second class in his life.” The record bears out this succinct statement. One cannot go. to Florida every year, belong to the country club, fish, hunt and wear expensive clothes on an average income. The statute recognizes that it is impossible to change one’s mode of living overnight. Since she lived comfortably before her husband’s death, the statute entitles her to an award adequate to live in equal comfort for a period of nine months after his death.
+It must be remembered that practically the same family expenses that exist before a husband’s death continue unabated and it is incumbent upon the widow to pay them. The taxes are the same, the utility bills are the same, the gasoline is just as expensive. In addition to the economic problem brought about by her husband’s death," a widow must go through a severe transitional emotional experience which makes it extremely difficult for her to adjust to the new problems confronting her. This statute was designed to help alleviate the widow’s problems by removing as many of her financial worries as possible during this difficult period. The spouse’s award was made a second class claim by the Legislature to further the purpose of the aforesaid statute. (Ill Rev Stats, 1963, c 3, § 202.) We must, therefore, give this statute a liberal construction in order to carry out its legislative purpose.
+Neither party to this controversy has cited and the court has not been able to find any cases later than 1917 involving a dispute over the amount of an award under the aforesaid statute. Cases of this vintage are of little or no help in deciding what an award should be when measured by present day conditions.. After all, two wars with their accompanying inflation have transpired since that time and things which were luxuries then are necessities now. However, both parties cite an excellent article. “The Widow’s Award — How Much?” Vol 52, No. 8, Illinois Bar Journal, page 688-91, in which the author reviews the Illinois law on this subject and comes to the conclusion that “(t)he widow’s award statute is to be liberally construed. The fact that the widow has independent means will not bar her from an award. The decedent’s standard of living will be considered; a larger award may be proper for tbe widow of a ‘free liver’ than for tbe widow of a more penurious man.”
+Tbe trial court reduced tbe $15,000 widow’s award made by tbe court-appointed appraisers to $9,000 after a full bearing. We find from tbe evidence in tbis record that tbe.trial court was amply justified in allowing a widow’s award of $9,000 in tbis case. Tbe order of tbe trial court allowing a widow’s award to Rutb C. Handmacber, widow of Herman Handmacber, deceased, is affirmed. Tbe order requiring Leonard E. Handmacber, executor of tbe estate to post bond in tbe amount of $40,000 is reversed. Tbe order of tbe trial court allowing tbe claims of Rutb C. Handmacber and ber former attorneys for expenses and services not related to tbe administration of tbe estate is reversed.
+We remand tbis case to tbe Circuit Court of Madison County for further proceedings not inconsistent with tbis opinion.
+Affirmed in part and reversed in part.
+EBERSPACHER, P. J. and GOLDENHERSH, J., concur.
