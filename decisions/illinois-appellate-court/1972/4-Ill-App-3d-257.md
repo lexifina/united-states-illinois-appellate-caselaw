@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "55702"
+decided: "1972-02-29"
+citations: ["4 Ill. App. 3d 257"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward T. Szeliga, Plaintiff-Appellant, v. The City of Des Plaines, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/4/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2915497
+cites_cases: ["12 Ill.2d 40", "121 Ill.App.2d 358", "145 N.E.2d 65", "187 N.E.2d 233", "189 N.E.2d 302", "195 N.E.2d 627", "242 N.Y.S.2d 770", "257 N.E.2d 473", "26 Ill.2d 515", "27 Ill.2d 350", "30 Ill.2d 251"]
+---
+
+# Szeliga v. City of Des Plaines
+
+## Majority (Mr. PRESIDING JUSTICE STAMOS)
+
+Mr. PRESIDING JUSTICE STAMOS
+delivered the opinion of the court:
+This action commenced as a suit to enjoin the enforcement against plaintiff’s property of the minimum frontage and area requirements of the City of Des Plaines zoning ordinance. Plaintiff’s complaint alleged that, as applied to his property, the restrictions constituted an unconstitutional deprivation of property without due process of law. Defendant denied the gravamen of the complaint and raised as an affirmative defense the failure of plaintiff to comply with the procedural requirements of the Administrative Review Act. The trial court entered a decree dismissing plaintiff’s suit for want of equity, following which plaintiff filed a petition to vacate. He appeals from the denial of that petition and requests this court to declare the Des Plaines zoning ordinance invalid as applied.
+OPINION
+Initially, we note that the jurisdictional issue raised by defendant’s affirmative defense is rendered moot by our disposition of plaintiff’s challenge to the decree of the trial court. Accordingly, we pass immediately to the substantive issue raised by plaintiff’s complaint and appeal; whether the minimum frontage and area provisions of the Des Plaines zoning ordinance are unconstitutionally confiscatory as applied to plaintiff’s property.
+In assessing plaintiff’s contention we are guided by the well-established principles of La Salle National Bank v. County of Cook, 12 Ill.2d 40, 46 — 47, 145 N.E.2d 65. Zoning ordinances are presumptively valid. It is a challenger’s burden to prove by clear and convincing evidence that the application of a zoning ordinance to his property is arbitrary, capricious or unrelated to the public health, safety and morals. While the validity of each zoning ordinance must be determined on its own facts and circumstances, the following factors are commonly taken into consideration:
+1. The existing uses and zoning of nearby property;
+2. The extent to which property values are diminished by the particular zoning restrictions;
+3. The extent to which the destruction of property values of plaintiff promotes the health, safety, morals or general welfare of the public;
+4. The relative gain to the public as compared to the hardship imposed upon the individual property owner;
+5. The suitability of the subject property for the zoned purposes;
+6. The length of time the property has been vacant as zoned considered in the context of land development in the vicinity of the subject property.
+The only evidence presented was plaintiff’s testimony and his exhibits purporting to represent the neighborhood surrounding his lot. This established that plaintiff’s lot has a •iO-foot frontage on Third Avenue between Oakwood Avenue and Walnut Street and a depth of 137.5 feet. The lot is presently zoned R-2, Single Family Residence. The zoning ordinance restricts the construction of single family dwellings within this district to lots of not less than 55 feet frontage and 6,875 square feet in area.
+The evidence bearing on the character and use of nearby lots reflected uniform development by single family residences. The evidence also reflected numerous variations from the minimum frontage and area restrictions, but none as substantial as that proposed by plaintiff. Of the 13 lots fronting on Third Street between Oakwood Avenue and Walnut Street, eight had frontages of less than 55 feet, but none were less than 51 feet. Three of the lots, including the two immediately north of plaintiff’s property, had frontages of 63 feet. The lot adjoining to the south had a 51-foot frontage. The diagram submitted with plaintiff’s brief also reflects numerous non-conforming frontages to the rear of plaintiff’s property — on Webster Avenue. However, only one of those lots possesses a frontage of less than 50 feet. From this diagram and the other evidence adduced, it appears that a 40-foot frontage on a lot containing a single family residence would constitute a substantial deviation from the general character of the neighborhood.
+It is clear that some hardship will be incurred by plaintiff as a result of the application of the zoning ordinance to his property. While it is zoned for single family residence, the frontage and area do not satisfy the ordinance’s minimum requirements for construction of a single family residence. We recognize that an inability to develop land because of a challenged restriction is strong evidence of hardship, (La Salle Nat. Bank v. City of Highland Park, 27 Ill.2d 350, 189 N.E.2d 302), but we are less than satisfied with plaintiff’s affirmative proof conceming the extent of the hardship he faces. First, plaintiff asserts that his lot, as zoned, is totally unsuitable for development, yet his testimony revealed an unfamiliarity with the other uses permitted under the R-2, Single Family Residence, classification. Second, plaintiff emphasizes the diminished value of his property as zoned. However, he admits that he received a “bargain price” on the subject lot because of these zoning restrictions. Plaintiff also testified that the lot was unavailingly offered to the adjoining owners, but admitted that the offers were made only after this suit was filed and only at the urging of his attorney. No record of the offers was presented at trial, and plaintiff was unsure whether specific prices were even mentioned. Third, plaintiffs assertions of hardship are substantially undermined by his admitted failure to determine the pertinent zoning restrictions before purchasing the subject lot. He had been engaged in the purchase and sale of real estate since 1948, specializing in the purchase and development of undersized lots. It was the finding of the trial court that a real estate developer of such extensive experience must be charged with knowledge of existing zoning restrictions, and the plaintiffs claim of hardship must be evaluated in the context of such constructive knowledge. This was a proper consideration for the trial court. American Nat. Bank & Trust Co. v. City of Chicago, 30 Ill.2d 251, 195 N.E.2d 627; Manger v. City of Chicago, 121 Ill.App.2d 358, 257 N.E.2d 473.
+We conclude that plaintiffs evidence presented an inconclusive showing of hardship and a conclusive showing that his proposed use would be a substantial deviation from the prevailing character of the surrounding neighborhood. Against this evidence, the trial court balanced the recognized value to the community of maintaining frontage and area restrictions. (Galpin v. Village of River Forest, 26 Ill.2d 515, 187 N.E.2d 233; Riviere v. Town of Hempstead, 242 N.Y.S.2d 770, 772), and found that the equities were with defendant and against plaintiff. We hold that this finding was not against the manifest weight of the evidence and affirm the decree.
+Decree affirmed.
+LEIGHTON and SCHWARTZ, JJ„ concur.
+Ill. Rev. Stat. 1969, ch. 110, par. 267.
