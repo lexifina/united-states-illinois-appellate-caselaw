@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,174"
+decided: "1965-07-14"
+citations: ["62 Ill. App. 2d 353"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCORMICK, P. J. and ENGLISH, J., concur."]
+parties: ["People of the State of Illinois, ex rel. Robert F. Scholtes, Plaintiff-Appellee, v. Village of Oak Lawn, Illinois; Board of Fire and Police Commissioners of the Village of Oak Lawn, Illinois; J. J. Salovaara, Village Manager, Village of Oak Lawn, Illinois; Herbert O. Tobin, Village Treasurer, Village of Oak Lawn, Illinois; and Robert G. Parke, Village Clerk, Village of Oak Lawn, Illinois, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/62/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5299402
+cites_cases: ["145 F Supp 351", "246 F2d 215", "246 F2d 735", "32 FRD 19", "328 US 275"]
+---
+
+# People ex rel. Scholtes v. Village of Oak Lawn
+
+## Majority (MR. JUSTICE DRUCKER)
+
+MR. JUSTICE DRUCKER
+delivered the opinion of the court.
+This is an appeal from the issuance of a writ of mandamus ordering that plaintiff receive seniority credit for salary and other purposes for the time served in the United States Army.
+The facts indicate that plaintiff was certified and appointed as a police officer in the police department of the Village of Oak Lawn on April 1, 1960. He performed his duties as a police officer from that date until December 5, 1960, when he was inducted into the military. On October 1, 1960, plaintiff had received a salary increase from Grade A to Grade B, pursuant to section 3(c) of a village ordinance providing salary increases for police employees as follows:
+[T]he first increase to Step B shall be automatic at the end of a six month probationary period and increases to subsequent steps shall be automatic after the completion of one full year at the next lowest step.
+On December 4, 1962, plaintiff was honorably discharged from the army and returned to his job as a police officer of Oak Lawn. However, he was placed in pay Grade B and given no seniority or service credit for pay purposes for the time spent by him in the military. On January 17, 1964, plaintiff filed a petition for a writ of mandamus praying: that defendants be ordered to compensate him for the salary illegally withheld from him since December 4, 1962, and that he may hereafter receive the proper salary for his grade, as provided for by the ordinances of the Village of Oak Lawn, Illinois; and that he may be credited with seniority for salary and other purposes for the time spent by bim in the military service of the United States Army between December 5, 1960, and December 4, 1962.
+Section 2 of the Municipal Employees Inducted into Land or Naval Forces Act provides that any civil service employee of a municipal corporation, upon release from military service, shall he considered as having been on furlough or leave of absence, and shall:
+... be restored to such position without loss of seniority or to such other position as his civil service status would have entitled him had he been continuously in the active service of such municipal corporation during the period of such furlough or leave of absence. (Emphasis added.)
+At oral argument the parties agreed that the sole issue in this case is whether “seniority” applies to salary or to purposes exclusive of salary. Both parties stated that this is a case of first impression in Illinois and that interpretations by federal courts of a similar federal statute should be utilized as a guide. Both cite Fishgold v. Sullivan Dry Dock & Repair Corp., 328 US 275, where the Supreme Court interpreted a federal statute which provides that a veteran shall be restored “without loss of seniority.” There the court had before it the claim of a returning veteran that he was entitled not only to seniority rights for the period of his military service but to superseniority over non-veterans of like seniority. The court rejected the superseniority contention but, commenting generally upon a returning veteran’s rights, said at pages 284-85:
+Thus, he does not step back on the seniority escalator at the point he stepped off. He steps back on at the precise point he would have occupied had he kept his position continuously during the war.
+This legislation is to be liberally construed for the benefit of those who left private life to serve their country in its hour of great need.
+Defendants argue that Fishgold is limited in its applicability to questions of seniority exclusive of salary and that Brown v. Denver Post, 145 F Supp 351, is authority for its contention that a returning veteran is not entitled to salary increases. Brown involved a union contract which provided for salary increases based upon the step rate system, with a clause that each step was for the stated years of experience in the respective job classifications. The court equatéd “experience” with actual on the job performance and consequently found that the increases were not automatic but meritorious. The court distinguished between automatic and merit increases and held that where salary increases were not automátic but were based upon merit, a veteran — upon reemployment — is not entitled to increases which he might have obtained by continuous meritorious employment. Therefore, since in the instant case the salary increases in question were automatic, Brown is not convincing support of defendants’ contention.
+Defendants also cite Borges v. Art Steel, 246 F2d 735, and Alfarone v. Fairchild Engine and Airplane Corp., 32 FRD 19, as support for their position. Borges, however, distinguishes between automatic and meritorious salary increases as did Brown, supra, and allows automatic increases to come within “seniority.” The court in Borges expressly says, at page 739, that “seniority” as used in the act covers “benefits flowing from the length of tenure on the job, whether these benefits consist of the right to advance to a better job classification ... or the right to pay increases.” (Citing cases.) Also see Moe v. Eastern Air Lines, Inc., 246 F2d 215. The court in Alfarone, in denying summary judgment, held that whether a step rate salary increase system was geared to skill and proficiency or to mere passage of time constituted a question of fact. After reviewing the available case law, in dicta the court, citing Borges, indicated that the plaintiff was entitled to seniority credit for salary increases geared to mere passage of time but not to those related to skill and proficiency.
+In the instant case, since under section 3(c) of the village ordinance (quoted above) the salary increases were automatic, we find that plaintiff is entitled to those increases he would have received had he been continuously employed as a police officer instead of serving in the military. In computing damages the trial court mistakenly assumed that plaintiff would have reached Grade E on April 1, 1962, if he had received credit for military service. The court relied on section 2 of the village ordinance under which increases may be granted to village employees each six months through Grade D. Since we have held that salary increases for police employees are covered expressly by section 3(c), under which increases are automatic at the end of each year, plaintiff would not have reached Grade E until October 1,1963. Therefore, specific damages will have to be recomputed.
+The judgment of the Circuit Court is reversed and the cause remanded with directions to issue a writ of mandamus in accordance herewith.
+Reversed and remanded with directions.
+McCORMICK, P. J. and ENGLISH, J., concur.
+Ill Rev Stats ch 24½, § 151 (1963).
+50 USC Appx § 459(b), (c) (1).
