@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1901-09-11"
-citations: ["96 Ill. App. 607", "96 Ill. App. 609"]
+citations: ["96 Ill. App. 607"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
