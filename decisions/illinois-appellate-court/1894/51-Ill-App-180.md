@@ -1,0 +1,48 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-02-01"
+citations: ["51 Ill. App. 180"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bayor v. The Estate of Herman Schaffner & Co., Insolvents."]
+source_url: "https://static.case.law/ill-app/51/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5112698
+cites_cases: ["138 Ill. 127", "140 Ill. 146", "141 Ill. 261", "15 Fed. Rep. 858", "25 Ill. 73", "37 Ill. App. 212", "39 Fed. Rep. 684"]
+---
+
+# Bayor v. Estate of Herman Schaffner & Co.
+
+## Majority (Mr. Justice Shepard)
+
+Mr. Justice Shepard
+delivered the opinion of the Court.
+The firm of Herman Schaffner & Co. was engaged in the banking business, in Chicago, for a considerable period, and on June 3, 1893, made an assignment for the benefit of creditors.
+At the time the assignment was made, the appellant was the holder of a certain certificate of deposit issued to her by said banking firm, of which the following is a copy:
+“ Certificate of Deposit.
+$2,700.00. Herman Schaffner & Co.,
+Ho. 6,501. Chicago, June 1, 1893.
+Susan Bayor has deposited in this bank twenty-seven hundred (2,700) dollars, payable to the order of herself on the return of this certificate.
+Countersigned, Herman Schaffner & Co.
+A. Schwartz, Teller.”
+That certificate was the last one of eight certificates of deposit, precisely alike in form, and varying only in dates and amounts, which had been issued by the firm to appellant. The first certificate was for thirty-four hundred dollars and was issued and bore date on April 26, 1893.
+The circumstances under which the first certificate was1 issued, were substantially as follows:
+Mr. W. B. Cunningham was a depositor and kept a general account with said banking firm. Being indebted to the appellant for moneys received for her in the sale of some real estate, Mr. Cunningham drew his check on said firm in favor of the appellant for the sum" of thirty-four hundred dollars and accompanied her and her husband to the bank. Arriving at the bank, Cunningham asked appellant if she wanted the money or wanted to leave it in the bank.
+Mo suspicions existed at that date of the solvency of the banking firm. Appellant replied that she did not want the money, but would prefer to leave it there temporarily. Expressing a further wish not to open an account with the bank, against which she could check, Mr. Cunningham referred her to the teller to arrange matters in accordance with her wishes, and went away. It was thereupon arranged between her and the teller of the bank that she should receive fifty dollars in cash and a certificate of deposit for the balance of the check, $3,350, payable to her order on demand, dated that day, April 26, 1893,,andit was so done, and such certificate was delivered to her by the teller, with the remark: “ If you want any of this money come down and surrender this certificate and I will give you another.”
+Three days later, on April 29th, the appellant surrendered that first certificate, drew two hundred dollars and took a new certificate of deposit for three thousand one hundred and fifty dollars.
+The samé conduct was repeated on May 2d, when appellant drew $50; on May 11th, when she drew $50; on May 17th, when she drew $50; on May 19th, when she drew §50; and on May 27th, when she drew §50; the appellant in each instance talcing a new certificate of deposit for the reduced amount, the last one, issued on May 27th, being for the sum of $2,900.
+After the first transaction, resulting, as stated, in the giving to appellant of the first certificate of deposit for §3,350, the appellant does not appear to have been personally present in the bank, but was represented there by her husband, whom she had authorized to draw the sums mentioned and take new certificates payable to her order.
+Down to this point there can be no question, as one of law, that the relation of creditor and debtor was all that existed between appellant and the bank. The bank owed its depositor, Cunningham; he owed appellant and gave her his check against his account in the bank. She presented the check and took fifty dollars in cash and a certificate of deposit for the balance.
+The funds of the bank were not thereby in any wise changed. It amounted simply to an exchange of appellant’s demand against Cunningham for one against the bank. Cunningham was discharged, and the bank substituted as appellant’s debtor. And so the appellant’s counsel, with characteristic candor, to the court admits, for in hjs brief he says: “ That the deposit in this case was, at its inception, a general deposit, and so continued to be until June 1, 1893, may be conceded.”
+It has been necessary, however, to state the transactions up to this time in order that light may be shed upon what followed. On the first day of June, 1893, the appellant again sent her husband to the bank with the certificate for $2,900 which was issued on May 27th, duly indorsed by the appellant, as had been the case with all the previously surrendered certificates. The only substantially controverted question of fact presented on the record, is as to what occurred between the husband of appellant and Mr. Schaffner, on the first of June, when the former was in the bank with the $2,900 certificate. Mr. Schaffner died shortly afterward, and his testimony was, in consequence, never heard upon the question. The occurrences and conversation at that time between Mr. Bayor, the husband of appellant, and Mr. Shaffner, the principal member of the banking firm, are related in the testimony of Mr. Bayor, and a Mr. Scott, who were called as witnesses for appellant.
+It is strenuously insisted by counsel for appellee that there are such inconsistencies between the testimony of the witnesses Bayor and Scott, and such contradictions in the testimony of each of them, as to discredit their evidence, but we do not propose to follow counsel in an analysis of their testimony. It may be assumed that their testimony is in substance true, and that it is proven in the case, that when Mr. Bayor went into the bank on June first, for the purpose of surrendering the $2,900 certificate and getting $200 in cash and a new certificate for $2,700, he observed a condition of things which made him suspicious of the soundness of the bank, and that he then partly concluded to withdraw all the money represented by the certificate, but before fully deciding upon what he should do he had a conversation with Mr. Schaffner, in which it was agreed between himself and Mr. Schaffner that he should draw out $200 and take a certificate of deposit for the remaining $2,700, and that the $2,700 so left should be put away in a separate package and kept until he should come again for it as he needed it.
+Coupled with such assumption the further fact must be considered, that neither the $2,700, nor any part of it, was ever separated from the other funds of the bank, or put away in a separate package for the appellant or her husband, but remained just as it always had existed, as a mere credit to appellant on the books of the banking firm. Under such circumstances was the general fund in the hands of the assignee of the banking firm, impressed with a trust in favor of appellant for the amount of the certificate of deposit for $2,700 issued to her on said June first? The County Court held that it was not, and dismissed the appellant’s petition for want of equity, and we are asked to reverse that judgment. We can not do so. The County Court was clearly right. In order to impress a trust upon moneys deposited in a bank so that they may be reclaimed as against the .general funds of the bank, they must be susceptible of identification as distinct from' other funds, and must not be so mixed up or mingled with other moneys as to be incapable of specific separation. Mutual Accident Association v. Jacobs, 141 Ill. 261; Wetherell v. O’Brien, 140 Ill. 146; Union National Bank v. Goetz, 138 Ill. 127; School Trustees v. Kirwin, 25 Ill. 73; Illinois Trust and Savings Bank v. First National Bank, 15 Fed. Rep. 858; Commercial Bat. Bank v. Armstrong, 39 Fed. Rep. 684.
+It may be that cases can be found in some other States wherein the general rule above stated has been departed from under peculiar circumstances, but the law of Illinois is too well settled on the question to admit of argument.
+In this case there never existed from inception to conclusion, a single dollar nor any fund represented by the certificate of June 1st, that could have been distinguished from any other dollar or fund held by the bank.
+The entire transaction from beginning to end consisted merely of an exchange of credit by the bank from one of its customers to another, and in a change in the amount of such credit, from time to time, as it was reduced by payments on account of it.
+If Schaffner had fulfilled his agreement, and separated and kept apart from the other moneys of the bank, the particular sum of $2,700, or any part of it, for and as appellant’s peculiar property, a different question would have arisen.
+But it is useless to speculate as to what appellant’s rights would have been under a different state of facts.
+The principle decided in Starr Cutter Co. v. Smith, 37 Ill. App. 212, having been repudiated in Wetherell v. O’Brien, supra, the former case can no longer be considered as binding upon this court.
+The conclusion we have arrived at renders it unnecessary for us to consider the motion of appellee to strike the bill of exceptions from the record.
+The judgment of the County Court will be affirmed.
