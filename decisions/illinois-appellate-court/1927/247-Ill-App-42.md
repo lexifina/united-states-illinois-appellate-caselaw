@@ -1,0 +1,51 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 31,791"
+decided: "1927-12-21"
+citations: ["247 Ill. App. 42"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elias Mayer et al., Appellants, v. Yellow Cab Company, Appellee."]
+source_url: "https://static.case.law/ill-app/247/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3303511
+cites_cases: ["181 Ill. 170", "186 Ill. App. 531", "211 Ill. App. 158", "261 Ill. 362", "74 Ill. 375", "78 Ill. 96"]
+---
+
+# Mayer v. Yellow Cab Co.
+
+## Majority (Mr. Justice Holdom)
+
+Mr. Justice Holdom
+delivered the opinion of the court.
+The case at bar is a proceeding to enforce petitioners’ claim against defendant under the Attorney’s Lien Act, Cahill’s St. ch. 13, ¶ 13; section 14, chapter 13, Smith-Hurd Illinois Revised Statutes 1925. That section reads:
+“That attorneys at law shall have a lien upon all claims, demands and causes of action, including all claims for unliquidated damages, which may be placed in their hands by their clients for suit or collection, or upon which suit or action has been instituted, for the amount of any fee which may have been agreed upon by and between such attorneys and their clients, or, in the absence of such agreement, for a reasonable fee, for the services of such attorneys rendered or to be rendered for their clients on account of such suits, claims, demands or causes of action: Provided, however, such attorneys shall serve notice in writing upon the party against whom their clients may have such suits, claims or causes of action, claiming such lien and stating therein the interest they have in such suits, claims, demands or causes of action, and such lien shall attach to any verdict, judgment or decree entered and to any money or property which may be recovered, on account of such suits, claims, demands or causes of action, from and after the time of service of the aforesaid notice. ” .
+It appears that the petitioners were the attorneys for one Helen Stofferan, who had a claim for damages against the Yellow Cab Company, to enforce which claim she, through her attorneys, the petitioners, commenced action against respondent in the superior court of Cook county. It also appears that the petitioners took the case on a contingent fee, in which they contend there was an agreement that their client should pay them a fee of one-third of the amount recovered without a trial, and one-half of the amount recovered through a trial of the suit. Pending the trial of ihe suit the attorneys for respondent settled the case, personally and without the knowledge of petitioners, for the sum of $1,000. The settlement was made after the case had been set for trial for a day certain, and was so made without any consultation with the petitioners, who were the attorneys for Helen Stofferan. Thereafter respondent sent a check to petitioners for the sum of $333.33, being one-third-of the amount of the sum settled for, respondent having agreed with petitioners’ client to pay that amount in addition to the $1,000, her lawyers’ fees. Petitioners refused to accept the check in payment of their fees and returned the same to respondent.
+On March 19, 1925, petitioners prepared a notice to respondent in the following form:
+“To: Yellow Cab Company, a Corporation,
+Chicago, Illinois.
+“You are hereby notified that Helen Stofferan has employed us as her attorneys in a claim, demand, or cause of action against you, growing out of certain personal injuries received by her on or about January 23rd, 1925, while a passenger in one of your vehicles, and in consideration of services rendered and to be rendered by us in the collection of said claim, has transferred, assigned, and set over to us an interest therein; and that we have and claim a lien on said claim, demand, or cause of action of said Helen Stofferan for the amount of said interest so transferred, assigned, and set over to us, in accordance with the statute in such case made and provided.
+Stein, Mayer & David and Kaplan & Kaplan. ”
+Upon said notice appears an affidavit of what petitioners claim to. be service of said notice upon the respondent. It is as follows:
+“State of Illinois,) County of Cook
+“Emil Schlan, being first duly sworn, on oath deposes and says that he served the foregoing notice upon the Yellow Cab Co., a corporation, by leaving a copy of same with Beulah Schulman, a person over the age of 12 years, agent, then being on and in charge of the office of the said corporation on March 19, 1925, at 1:00 o’clock P. M.
+Emil Schlan.
+‘ ‘ Subscribed and sworn to before me this 19th day of March, 1925.
+Alfred M. Loesser, Notary Public (Seal).”
+Respondent contends that the service of the notice should have been personally upon respondent, and that the so claimed service, not being personal, was abortive, and was no service at ail.
+The written contract was originally made by Helen Stofferan for counsel fees with the petitioners Kaplan & Kaplan, but she thereafter retained Stein, Mayer & David, the other petitioners, to act as counsel with Kaplan & Kaplan.
+The action of the counsel for respondent in settling the case behind the backs of Helen Stofferan’s counsel and without any notice of their intention so to do, was highly unprofessional from .any view point, and contrary to Rule 9 of the Code of Professional Ethics of the American Bar Association, which Code of Ethics was thereafter adopted by both the Illinois State Bar Association and the Chicago Bar Association. While the rule has no legal force or effect as a matter of law, yet it states ethical propositions which every lawyer of good repute, without such code, would in his practice follow. Therefore, we cannot accord our approval of such professional unethical conduct.
+The trial judge held that the service of the notice upon respondent was insufficient, and dismissed petitioners’ petition, and they bring the record to this court for our review.
+Petitioners seek to invoke the doctrine of estoppel against respondent, because they had knowledge of petitioners’ claim for an attorney’s lien. With this contention we are unable to agree. The attorney’s lien statute is unknown to the common law, and therefore must be strictly construed so that he who attempts to advantage of it must fulfil the requirements of the statute in every substantial particular.
+One of the petitioners, Sigmund W. David, gave evidence and testified that on April 6, 1925, he met Mr. Benjamin Samuels (who was assistant secretary and chief attorney for respondent, and in charge of all cases against respondent pending in court) at the Covenant Club in Chicago. Mr. David testified that as he came into the room, Mr. Benjamin Samuels was sitting at a large table about the center of the restaurant, and came up to him and said, “ ‘Ben, what about the case? ’ He said, ‘What case? ’ I said, ‘You received my letter, didn’t you? ’ He said, ‘Oh, that letter, haven’t I answered that? Hasn’t that letter been answered yet? ’ I said, ‘No, it has not.’ He said, ‘I turned that all over to one of my associates to answer, and you will get an answer.’ ”
+Samuels denied the meeting and the conversation, and denied that he had received the letter of Stein, Mayer & David of March 20, 1925. As to the letter, secondary evidence was offered of. the mailing of the same in due course after it had been copied in the firm’s letter book.
+While we accord verity in the consideration of the case to Mr. David’s testimony regarding the1 letter and the meeting of Mr. Samuels in the Covenant Club, yet true as it may be, it is not sufficient on the circumstances of this case to work an estoppel.
+The notice in itself was defective- in that it did not state the interest which petitioners had in the damage suit in question. However, aside from all other questions, the attempted service of the lien notice did not constitute service as required by the statute. The service must be personal and in accord with the statute providing for service of process upon corporations and, without which, however meritorious the lawyer’s claim for fees may be, there can be no recovery.
+Haj v. American Bottle Co., 261 Ill. 362, is a controlling authority, and that decision has not been departed from by our Supreme Court since it was rendered. It was there held that the Attorney’s Lien Act was unknown before the passage of the act, and that the provisions of the statute must be strictly followed in order to establish such liability, and it was further held that service of such notice must be personal.
+In Carney v. Tully, 74 Ill. 375, it was held that service of a written notice always means actual, personal service; and in Chicago & A. B. Co. v. Smith, 78 Ill. 96, the court said: “When a notice is required, and the mode of service is not specified, the law requires that it shall be personal.” In Wade on Law of Notice, section 1334, the author says: “In general, however, where notice is required by statute or rule of court and the method of serving the same is not laid down, it is understood that there shall be personal service.” In section 1342 the writer says: “We have seen that when the manner and mode of service is not pointed out by the statute, personal service is generally understood.” Wilson v. Lowmaster, 181 Ill. 170.
+In Haj v. American Bottle Co., supra, the court said: “The statute creating the attorney’s lien creates a liability unknown before the passage of the act, and where that is the case the statute must be strictly followed. It requires notice, differing in that respect from the statute in New York and perhaps other States, and as it specifies no other method of service, personal service, under all the authorities, is required. The appellee not having complied with the statute creating the lien is not entitled to one.” Reynolds v. Alton, Granite & St. Louis Traction Co., 211 Ill. App. 158; Jackson v. Toledo, St. L. & W. R. Co., 186 Ill. App. 531.
+So in the case at bar, petitioners, not having complied with the statute creating the lien, are not entitled to one.
+There is no error in this record and the judgment is therefore affirmed.
+Affirmed.
+Taylor, P. J., and Wilson, J., concur.
