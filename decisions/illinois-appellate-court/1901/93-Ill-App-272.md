@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-19"
+citations: ["93 Ill. App. 272"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Guaranty Construction Co. v. Fred Broeker."]
+source_url: "https://static.case.law/ill-app/93/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5288844
+cites_cases: ["110 Ill. 340"]
+---
+
+# Guaranty Construction Co. v. Broeker
+
+## Majority (Me. Presiding Justice Shepard)
+
+Me. Presiding Justice Shepard
+delivered the opinion of the court.
+Appellee brought suit against the appellant corporation to recover for injuries sustained by him while at work, as a common laborer, for appellant, in and about the construction of a large building in Chicago, and recovered the judgment for $6,0(30, now appealed from.
+The specific injury sustained by appellee was caused by the falling of a lump of moist plaster down the elevator shaft of the building, striking him in the eye.
+The building was an eighteen-story structure that had been substantially completed as to the exterior, and when hurt, appellee was at work in the elevator shaft at the second floor, hoisting bags of cement up the shaft by means of a rope and pulley, from the second to the twelfth story, the pulley being located at about the eighteenth story.
+Another man stationed at the twelfth story floor received the bags of cement from one end of the hoisting rope to which they were attached, and would then pull down the rope until the same end should again reach appellee at the second story. In the course of the descending part of the rope it would become somewhat twisted around the ascending part, so as to require to be untwisted before it could be successfully used in hoisting another bag of cement.
+To do this, it was necessary that both parts of the rope should be taken hold of by appellee and untwisted, and that he should look upward in the process of so doing, and to see when they were clear of each other.
+Some plasterers were at the time at work plastering the shaft, at a point about or above the fifth floor. Possibly it was from their work that the lump of plaster fell that struck appellee. There was no protection against falling plaster between such plasterers and appellee, as there was between the plasterers and another gang above them.
+It would seem that appellee had never worked with the plasterers until on the day he was hurt, although he had worked about the building for several months doing different kinds of work incident to his job as a common laborer; and the evidence tends to show that he was doing the job engaged in at the time of the injury, by express directions of his superior in authority.
+In the view we are obliged to take of the case, we do not attempt to state more of the facts than will convey a reasonably fair idea of the physical situation at the time of the accident. The case having to be remanded for another trial, we desire to refrain from an expression of any opinion of our own that might prejudice either party on that trial, as to the facts that are in dispute.
+The trial now before us is the third one that has been bad. with a favorable result for the appellee, though never up on appeal before, and it is to be regretted that because of errors that do not attach to the merits of the case, a still further trial must be had.
+On its own motion, and without the request of either party, the court gave to the jury the following instruction, to the giving of which the defendant duly excepted:
+“(2) You are instructed that in arriving at your verdict you should do so after a careful consideration of the evidence and instructions of the court, and not by the use of any method of chance, and none of you should consent to any verdict which does not meet with the approval and approbation of your individual judgment; and you are further instructed that you must not compromise between the questions of liability and amount of damages; that is, if after due consideration of the evidence and instructions of the court, and based upon a view as to the preponderance of the evidence, some of you should believe the defendant not guilty, and others of you upon like basis believe the defendant guilty, and plaintiff entitled to substantial damages, you must not, in such event, merely as a matter of compromise, or, as it were, to split the difference between you, bring in a verdict for some unsubstantial amount against the plaintiff. Further, you must not fix or assess the damages, if there should be occasion therefor, by adding together the amount individual jurors may think ough t to be awarded and then dividing the amount so obtained by the number of jurors voting.”
+Omitting to consider the possible ambiguity of the expression, “ based upon a view of the preponderance of the evidence,” we regard the instruction as, in effect, meaning that their verdict must be either not guilty, or élse they must give the plaintiff substantial damages, which, of course, was inadmissible.
+It is possible that a process of reasoning such as appellee’s counsel have formulated might render the instruction unobjectionable in that particular, but jurors are not required to enter upon such refinements, even if capable of so doing.
+To the ordinary mind there is conveyed by the instruction the idea that if some of the jury believe the defendant not guilty and others of them believe the plaintiff is entitied to “ substantial ” damages they may not reconcile their differences by bringing in a verdict for an “unsubstantial” amount.
+Lexicographers recognize a material difference between an amount that is substantial, or considerable in amount, and one that is unsubstantial, or not considerable. Century Dictionary.
+And so do men, generally, in ordinary speech; which is the way jurors are entitled to consider instructions. That the instruction was material, is apparent from the fact that there was evidence tending to show that the loss of the power of appellee’s eyesight in one eye, was relievable by a comparatively easy and successful operation, which might, except for the instruction, have inclined the jury to return a much smaller verdict. The effect of a virtual telling the jury that their verdict should be for a substantial or considerable sum if they gave 'anything, can scarcely be measured.
+Other reasons can easily be thought of why the instruction was material and prejudicial, but we will not prolong the discussion. Its giving was material error that we do not find was cured by any other instruction.
+The modifying by the court of the instruction number 20, offered by the defendant, in our opinion, constitutes further error.
+The instruction as modified was as follows, the modifying words being italicized by us:
+“ (20.) The court instructs the jury if they believe from the evidence that the plaintiff knew the hazards of his employment as the business was conducted and was injured while engaged therein, and by means of some rish or danger assumed v/nder the instructions herein, he can not maintain an action against the defendant for the injury merely on the ground that there was a safer mode in which the business might have been conducted, the adoption of which would have prevented the injury.”
+It is not altogether clear what is meant by the modifying words. The instruction, as originally prepared, invoked the defense that if the plaintiff knew the hazards of his employment in the manner the business he was engaged in was conducted, he could not recover merely because a safer method of conducting the business might have been adopted, the adoption of which would have prevented the injury. A defense of that kind (stated generally) is a good one, in a proper case.
+See Simmons v. Chicago and Tomah Railroad Company, 110 Ill. 340, where it is said (at p. 347):
+“ If a servant, knowing the hazards of his employment as the business is conducted, is injured while engaged therejn, he can not maintain an action against the master for the injury, merely on the ground that there was a safer mode in which the business might have been conducted, the adoption of which would have prevented the injury.”
+The instruction was right as offered. The addition to the instruction of the element of a special assumption by appellee of the risk or danger of the employment (if that is, as we suppose, what the added words mean) was unauthorized and improper. It was enough that he knew the hazards of the business as conducted, without the addition of a special assumption of them by him, to make out a defense to his action.
+The question of whether there was an assumption by appellant of the risk of being injured in the manner he was, was an exceedingly close one in the case, and, under well-understood rules, the instructions bearing upon that question should have been accurately given.
+There are in this case, as is usual in cases of like character, other questions discussed, but those concerning the instructions referred to imperatively require the case to be sent back for another trial. The order is that the judgment of the Superior Court be reversed and the cause remanded.
