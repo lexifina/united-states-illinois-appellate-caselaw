@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 52,216"
+decided: "1968-04-24"
+citations: ["95 Ill. App. 2d 138"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. Joseph Daly, et al., Plaintiffs-Appellants, v. Golden Rule Life Insurance Company, an Illinois Corporation, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/95/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2537809
+cites_cases: ["148 NE2d 9", "16 Ill App2d 159", "197 NE2d 153", "218 NE2d 225", "46 Ill App2d 413", "72 Ill App2d 267"]
+---
+
+# Daly v. Golden Rule Life Insurance
+
+## Majority (MR. JUSTICE DRUCKER)
+
+MR. JUSTICE DRUCKER
+delivered the opinion of the court.
+Plaintiffs appeal from a summary judgment in favor of defendant in their suit under a contract of insurance for expenses of $300 incurred in a Caesarean delivery. The sole issue raised on this appeal is whether the insurance contract, fairly construed, provided compensation for these expenses which were incurred after the policy’s termination.
+Plaintiffs’ complaint alleged that plaintiff Kathleen A. Daly had become pregnant in May of 1965 when the insurance policy was in effect, and that a Caesarean delivery was performed on February 11, 1966. Defendant’s answer admitted the facts but denied liability asserting that plaintiffs’ policy was a group policy; that it contained a provision stating that the company could refuse to renew if renewal was refused to all policies held by members of the group; that the employer of the group members had instituted a new insurance plan because of which a majority of the members of the group had terminated their coverage with defendant and that defendant had exercised its option to refuse to renew the remaining policies on or before October 31, 1965. Plaintiffs’ reply to these defenses contested defendant’s construction of the insurance policy.
+Plaintiff does not question the right of the defendant to terminate the policy under the circumstances recited in the answer and defendant’s motion for summary judgment. The only question on appeal is — does this insurance policy provide coverage for expenses incurred in a pregnancy after the termination of the policy where conception took place while the policy was still in force? The policy provides initially that defendant:
+HEREBY INSURES the person listed on line 1 of the Family Group Schedule (herein called the Insured) against loss occurring while this Policy is in force for which a specific sum is specified in the Schedule of Benefits, which loss is incurred by the Insured and the eligible members of the Insured’s family, if any, named in the Family Group Schedule below (all of whom, including the Insured, are hereafter called the Family Group and shall individually be called a “Covered Person”), resulting from accidental bodily injuries sustained while this Policy is in force (hereinafter referred to as “such injuries”), or caused by illness which is contracted while this Policy is in force (hereinafter referred to as “such illness”), in the manner and to the extent herein provided. (Emphasis ours.)
+Plaintiffs assert that the Caesarean operation was caused by an illness contracted while the policy was in force. Since pregnancy benefits are included in the Schedule of Benefits, “illness” covers pregnancy. Plaintiffs, however, contend that it is a sufficient precondition to recovery that the loss be a result of an illness contracted while the policy was in force. It is apparent that the clause “or caused by illness which is contracted while this Policy is in force” qualifies the clause “against loss occurring while this Policy is in force.” We believe that these clauses read together require both that the loss occur and that the illness be contracted while the policy is in force.
+Plaintiffs also argue that the section entitled “Pregnancy Benefit” should be treated as a separate matter. However, this section appears under the general heading “Schedule of Benefits” and is not an assumption of liability separate from the insuring clause heretofore discussed.
+Plaintiffs’ next contention is that a paragraph appearing in a section of the policy entitled “Exceptions And Reductions” actually expands the coverage of expenses resulting from pregnancy. The paragraph reads:
+The Policy shall cover Pregnancy, childbirth, miscarriage or complications arising therefrom only under the Pregnancy Benefit and only in respect to the Member or the Member’s spouse, and provided the loss occurs 9 months after the effective date of coverage of the Member or spouse for whom claim is made. There shall be no coverage under the policy for loss resulting from pregnancy, childbirth, miscarriage or complications arising therefrom in respect to any Member or such Member’s spouse unless the Family Premium, has been paid in respect to the Member and the Member’s dependents for a period of 9 consecutive months prior to the occurrence of such loss.
+Plaintiffs interpret the clause “provided the loss occurs 9 months after the effective date of coverage” to mean that, regardless of any other policy provisions, a pregnancy loss will be compensable, if it occurs nine months after the policy is terminated. However, this interpretation would make ineffective the requirement that the premiums be paid “for a period of 9 consecutive months prior to the occurrence of such loss.” We believe that these provisions mean that the policy must be in effect at least nine months before the pregnancy loss and that it must not have lapsed in the intervening period. In Bartulis v. Metropolitan Life Ins. Co., 72 Ill App2d 267, 218 NE2d 225, where plaintiff sought to recover for hospitalization, after termination of the policy, for illness incurred prior to termination, the court denied recovery stating at page 271:
+We cannot agree with the plaintiff that liability arose when the injuries were sustained. The coverage was not for expense caused by injuries sustained during the life of the policy, but for the cost of hospitalization and surgery obtained during the life of the policy. We recognize the rule that insurance contracts are construed in favor of the insured, but construction does not degenerate into a perversion of plain language to create an ambiguity where none exists or to father a contract obligation where none is stated or reasonably implied. Miller v. Madison County Mut. Automobile Ins. Co., 46 Ill App2d 413, 197 NE2d 153; Thompson v. Fidelity & Casualty Co. of New York, 16 Ill App2d 159, 148 NE2d 9. Nor does either justice or public policy compel a different result.
+The judgment in favor of defendant is affirmed.
+Affirmed.
+MCCORMICK, P. J. and ENGLISH, J., concur.
