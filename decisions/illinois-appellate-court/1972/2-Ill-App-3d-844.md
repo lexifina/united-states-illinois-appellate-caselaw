@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-45"
+decided: "1972-01-11"
+citations: ["2 Ill. App. 3d 844"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Johnson, Indiv. and as father and next friend of Janet Johnson et al., Plaintiffs-Appellants, v. Phyllis Myers, Admr. of Estate of Sidney A. Johnson, Deceased, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/2/cases/0844-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2751407
+cites_cases: ["100 Ill.App.2d 199", "122 N.W.2d 193", "128 Ill.App.2d 165", "135 A.2d 65", "161 N.W.2d 631", "186 N.W.2d 250", "224 A.2d 588", "245 N.E.2d 192", "267 A.2d 490", "282 A.2d 351", "336 S.W.2d 68", "34 Ill.2d 451", "435 P.2d 8", "438 F.2d 236", "462 P.2d 1007", "471 P.2d 282", "479 P.2d 648", "5 CCA 1971", "7 Ill.2d 608"]
+---
+
+# Johnson v. Myers
+
+## Majority (Mr. JUSTICE SEIDENFELD)
+
+Mr. JUSTICE SEIDENFELD
+delivered the opinion of the court:
+We are asked to decide whether the rule of parental immunity bars an action by unemancipated minors to recover damages for personal injuries alleged to have been caused by the ordinary negligence of a parent, now deceased, in the operation of a motor vehicle.
+The complaint by George Johnson, as the father and next friend of Janet Johnson and Cynthia Johnson minors under the age of seven, alleged, in Counts II and IV, that Sidney A. Johnson, deceased, with her daughters as passengers negligently drove into a fence, tree and telephone pole. The appeal is from the dismissal of these counts. (Counts I and III which allege wilful and wanton misconduct were dismissed. Count V which alleged loss of consortium in an individual action by George Johnson was also dismissed, but the appeal has been abandoned as to this count.)
+We will not review the long history and divergent views on the basis for the doctrine of parental immunity in tort actions. Clearly, it is a court-formulated rule which is not based on an absence of duty but upon immunity from suit. The principal policy basis for the immunity as stated in Nudd v. Matsoukas (1956), 7 Ill.2d 608, 619, “can be found only in a reluctance to create litigation and strife between members of the family unit.” See also Mroczynski v. McGrath (1966), 34 Ill.2d 451, 454, 455, in which the court again approved the rationale of Nudd but found that no tortious act was involved in the alleged break-up of the family unit.
+In Nudd, the court held that the stated policy basis could not prevent a minor from obtaining redress for wilful and wanton misconduct of a parent, with the preface that “* * # this policy might be such justification to prevent suits for mere negligence within the scope of the parental relationship * * 7 Ill.2d at 619.
+In Schenk v. Schenk (1968), 100 Ill.App.2d 199, 206, the court allowed a suit by a father against a seventeen-year-old unemancipated daughter for injuries sustained when she negligently ran into him while he was a pedestrian on the street. The court reasoned, within the rationale of Nudd and Mroczynski, supra, that negligence of either a parent or a child which has no necessary or direct connection with the family relationship is not within the immunity doctrine. The court therefore held that acts which occurred during the exercise of individual rights on the public streets and with no such direct connection were outside the scope of the parent-child relationship.
+In Cosmopolitan Nat. Bank of Chicago v. Heap (1970), 128 Ill.App.2d 165,169, a suit by an unemancipated minor against his father for personal injuries caused by the fathers alleged negligence in permitting a loose stairway rug to be used in the home was held to be barred under the immunity doctrine.
+One of the arguments which the plaintiffs have made concedes the public policy in maintaining harmony, avoiding strife and insuring a proper atmosphere of cooperation, discipline and understanding in the family, but denies the basis for its application when the parent charged with negligence is deceased, as here. We agree that when the family relationship has been dissolved by death the stated policy behind the rule of family immunity ceases. We see no reason then to apply the immunity doctrine to prevent an otherwise valid tort action from proceeding. See Brennecke v. Kilpatrick (Mo. 1960), 336 S.W.2d 68, 73; Barnwell v. Cordle (5 CCA 1971), 438 F.2d 236; Parks v. Parks (Pa. 1957), 135 A.2d 65; Plumley v. Klein (Mich. 1971), 186 N.W.2d 250.
+The plaintiff has argued alternatively that the operation of a motor vehicle is not a peculiarly parental function inasmuch as the parent owes the same duty to others as she does to her children who are passengers. We do not agree that the operation of a motor vehicle with minor children as passengers must necessarily be outside the family relationship. In a modem society the motor vehicle plays an intimate and necessary part in the accomplishment of many family purposes. While the complaint sufficiently pleads acts of negligence in faffing to maintain a proper lookout, failing to keep the vehicle under control, driving at excessive speed, and driving while under the influence of intoxicating liquor and while tired and exhausted, it alleges no particular facts which would show that the conduct of decedent arose outside of the family relationship. We therefore do not decide the case on this issue.
+We reverse the judgment of the trial court which dismissed counts II and IV of the complaint. The cause is remanded with directions to reinstate these counts, with leave to the plaintiff to amend if desired, and to thereafter proceed in accordance with this opinion.
+Reversed and remanded with directions.
+MORAN, P. J., and ABRAHAMSON, J., concur.
+Appellants have not taken the position in brief or oral argument that the doctrine of parental immunity should be abolished entirely. However, on leave granted to file additional authorities, they have cited numerous cases which abolish the doctrine. See Hebel v. Hebel, 435 P.2d 8 (Alaska 1967); Goller v. White, 122 N.W.2d 193 (Wis. 1963); Gelbman v. Gelbman, 245 N.E.2d 192 (N.Y. 1969); Briere v. Briere, 224 A.2d 588 (N.H. 1966); Gibson v. Gibson, 479 P.2d 648 (Cal. 1971); Petersen v. City and County of Honolulu, 462 P.2d 1007 (Hawaii 1970); Silesky v. Kelman, 161 N.W.2d 631 (Minn. 1968); Streenz v. Streenz, 471 P.2d 282 (Ariz. 1970); France v. A.P.A. Transpon, 267 A.2d 490 (N.J. 1970); Falco v. Fados, 282 A.2d 351, 355 (Pa. 1971). We feel bound by the continued expression of a different policy in the Illinois authorities,
