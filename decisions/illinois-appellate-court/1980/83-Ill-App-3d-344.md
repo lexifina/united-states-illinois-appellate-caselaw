@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+docket: "15776"
+decided: "1980-04-16"
+citations: ["83 Ill. App. 3d 344"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v. THOMAS G. MALLOY, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/83/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5555412
+cites_cases: ["17 Ill. App. 3d 1058", "309 N.E.2d 249", "345 N.E.2d 493", "371 N.E.2d 1291", "385 Ill. 228", "395 N.E.2d 381", "52 N.E.2d 769", "56 Ill. App. 3d 632", "63 Ill. 2d 128", "76 Ill. 2d 513"]
+---
+
+# People v. Malloy
+
+## Majority (Mr. JUSTICE WEBBER)
+
+Mr. JUSTICE WEBBER
+delivered the opinion of the court:
+This appeal presents solely a question of statutory construction. The facts are not controverted.
+On December 9, 1977, defendant was arrested by an Illinois State police officer for driving while intoxicated. Defendant refused to take the test required by the statute (Ill. Rev. Stat. 1977, ch. 95%, par. 11 — 501.1) (herein implied-consent law), and thereafter filed a request for hearing as provided in the same statute. At the hearing in the circuit court of Moultrie County, the trial court dismissed the case on defendant’s motion, for reasons hereinafter explained, and the State appealed to this court. We dismissed the appeal for want of an appealable order, based on our erroneous decision in People v. Quinn (1974), 17 Ill. App. 3d 1058, 309 N.E.2d 249. The State further appealed to the supreme court which reversed Quinn and remanded the case to this court with directions to reinstate the appeal and address the merits. People v. Malloy (1979), 76 Ill. 2d 513, 395 N.E.2d 381.
+The general outline of the statutory scheme of the implied-consent law is reasonably clear. Upon arresting a person for driving under the influence of intoxicating liquor, the officer is required to inform that person of the requirement that he submit to a test to determine by chemical analysis the alcoholic content of his blood, and of the consequences of his failure to submit. If that person refuses to submit, then the officer is required to file with the circuit clerk of the county in which the arrest was made a sworn statement concerning the arrest and the refusal. The clerk is then required to notify the person of his right to request a hearing and further that his driving privileges will be suspended unless he does request a hearing within 28 days from the date of mailing the notice.
+If the arrested person desires the hearing, he is required to file a complaint in the circuit court of that county. A hearing is then required to be held and is limited to the determination of whether there were reasonable grounds for arrest, whether proper admonitions were given to the arrested person by the officer, and whether that person persisted in his refusal to submit to the test. The court is required to notify the Secretary of State of its decision and the Secretary is required to suspend the license if that be the court’s decision.
+The trial court dismissed, finding that an irreconcilable conflict existed in the implied-consent law. Two parts of that law are involved. The first is concerned with the admonitions given by the officer at the time of arrest and is found in subparagraph (a)(2) which reads as follows:
+“(2) that he may refuse to submit to either such analysis and that his refusal to submit to either analysis within 90 minutes after receiving the notice may result in the suspension of his privilege to operate a motor vehicle for 3 months on his first such arrest# * *.” (Emphasis added.) Ill. Rev. Stat. 1977, ch. 95M, par. 11— 501.1(a)(2).
+The second part is found in subparagraph (d), which concerns the scope of the proceedings at the hearing requested by the arrested person and reads as follows:
+“* * ° the scope of the proceedings shall cover only the issues of * * * whether the person was informed orally and in writing as provided in paragraph (a) that his privilege to operate a motor vehicle would be suspended if he refused to submit to and complete the test * * (Emphasis added.) Ill. Rev. Stat. 1977, ch. 95/2, par. 11 — 501.1(d).
+The record discloses a printed form identical to the one used in this case which was given to defendant at the time of arrest, and also then read to him. It contains the exact language of the statute and advises the recipient that refusal to submit to the test “may” result in suspension of his license. The trial court, in substance, held that the latter part of the statute controls, and that defendant should have been advised that refusal to submit to the test “would” result in suspension of his license; that, therefore, defendant did not receive the proper admonition; and the trial court then dismissed. We do not agree and reverse.
+The error of the trial court was in reading “would” in a colloquial manner and in giving the word a mandatory implication. While such an interpretation might find sanction in workaday idiom, it is not approved by authorities on grammar and syntax.
+Wilson Follett’s Modem American Usage (Hill and Wang, Inc., 1966), edited and completed by Jacques Barzun, devotes an entire appendix to “Shall (Should), Will (Would)” and starts by saying:
+“The auxiliaries shall and should, will and would lead the user of English into as confused a jungle as he is ever called on to clear a way through.”
+At page 369 of the same work it is said:
+“In fine, no rules and no digest of usage can reduce this department of the language to order and harmony or altogether get rid of the exceptional, the optional, and the doubtful.”
+Follett states that the auxiliaries may have both a future and a volitional usage and at page 375 gives some examples which he says are “divested of avoidable complications” as follows:
+“I would have signed the petition if I had been asked to (hypothetical choice).
+You would have doubted his story if you had heard him tell it (hypothetical fact).”
+A further refinement is found in A Dictionary of Contemporary American Usage (Random House 1957) by Bergen Evans & Cornelia Evans. The authors say at page 558:
+“When used in a conditional clause would always expresses volition or willingness, as in if he would tell me. To express a simple condition without the idea of willingness we must use a simple past subjunctive, as in if he told me, or the auxiliary should, as in if he should tell me.”
+In our view the implied-consent law is volitional in nature. The arrested person has the option by the exercise of his will to decide whether to take the test; he has the further option by the exercise of his will to demand a hearing if he concludes not to take the test; and he has the further option of assessing the consequences. The conditional clause in the statute (or more properly, the indirect question), “whether the person was informed * * therefore demands the volitional word “would.” Otherwise, as Bergen points out, the conditional clause demands “should.”
+We are thus drawn to the conclusion that there is no substantive difference in the uses of “may” and “would” in the implied-consent law.
+While the implied-consent law is something less than a model of clarity in its use of language, it is the duty of this court to follow the familiar rules of statutory construction as laid down and summarized in Morris v. The Broadview, Inc. (1944), 385 Ill. 228, 52 N.E.2d 769:
+“Among the primary rules of construction necessarily to be applied in this case are the following: the entire section must be read together and so construed as to make it harmonious and consistent in all its parts; [citation;] if possible we must give meaning to each word, clause and sentence; [citations;] the section should be so construed that no clause, sentence or word should be superfluous; [citation;] any construction that leads to any absurd consequence should be avoided, as courts will assume that no such absurdity was intended; [citation;] the section must be interpreted according to its intent and meaning and reasonably, so as to accomplish its general object; [citations;] and the history of the legislation involved may be considered, tvith the objects to be accomplished, in arriving at the legislative intent. [Citations.]” 385 Ill. 228, 231-32, 52 N.E.2d 769, 770-71.
+The obvious purpose of the implied-consent law is to provide objective evidence of the offense and at the same time preserve the due process rights of the offender. This requires a very delicate balance which should not be disturbed for technical reasons. (Compare People v. Fancher (1978), 56 Ill. App. 3d 632, 371 N.E.2d 1291.) The far-reaching, and perhaps unintended, effect of the trial court’s holding in this case would be to make any hearing under subparagraph (d) impossible, even though the offender himself might want such a hearing for purposes of vindication. A very real possibility exists that the court might find that there were no reasonable grounds for the arrest but under the trial court’s' theory in this case, the court could never reach that issue.
+Our interpretation, we believe, subsumes Barzun’s “jungle” into a harmonious and consistent whole, as dictated by Morris; it gives appropriate meaning to each word without rendering either superfluous; and most especially, it does not yield an absurd result.
+The failure of the defendant to file a brief upon remand of this case to this court does not affect our handling of it under the authority of First Capitol Mortgage Corp. v. Talandis Construction Corp. (1976), 63 Ill. 2d 128, 345 N.E.2d 493.
+For the foregoing reasons, the decision of the circuit court of Moultrie County is reversed, and the cause is remanded to that court with directions to reinstate the cause, and then proceed in accordance with the views expressed herein.
+Reversed and remanded with directions.
+MILLS, P. J., and TRAPP, J., concur.
