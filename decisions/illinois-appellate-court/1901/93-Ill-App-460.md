@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-13"
+citations: ["93 Ill. App. 460"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. J. Buckley v. W. F. Meidroth."]
+source_url: "https://static.case.law/ill-app/93/cases/0460-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5287202
+cites_cases: ["1 L. R. A. 645", "108 Pa. St. 291", "66 Wis. 218"]
+---
+
+# Buckley v. Meidroth
+
+## Majority (Me. Presiding Justice Higbee)
+
+Me. Presiding Justice Higbee
+delivered the opinion of the court.
+This was an action of assumpsit brought by the appellant against appellee to recover the contract price for an acetylene gas generator and certain fixtures, claimed by appellant to have been sold by him to appellee, to light his place of business. The jury was waived and there was a finding and judgment in favor of appellee.
+It appeared from the evidence that on March 4,1899, and prior thereto, appellee conducted a large saloon and restaurant in the city of Peoria; that on said date appellant, through his Peoria agent, S. L. McClintick, submitted to appellee a written proposal to furnish him the generator and fixtures in question, together with a hundred pounds of carbide, for $350. The proposal provided that said articles were to be furnished “ subject to acceptance and approval as herein specified at the expiration of thirty days from the time generator is started. The generator is guaranteed to continue to give as good light as when started.” It further provided that the title to the property should remain in appellant until it was fully paid for. On the same day appellee signed an acceptance of the proposal and shortly afterward the generator was shipped to him and installed in his place of business by McClintick. Appellee’s main room was fifty-five by eighty feet and contained.five arc lights. Behind the bar and in other places he also used five incandescent and twelve gas lights. After the generator was installed the gas from it was turned on to take the place of all but the arc lights. The lights gave reasonably fair satisfaction and on March 30th a test was made of all the lights. After about a week’s trial appellee, claiming that the lights were unsatisfactory, cut them off and resorted to the former means of lighting his establishment. Appellant claims that the lights were not given a fair trial; that their efficiency was impaired by changes made by appellee, and that the latter, by failing to return the generator and fixtures, indicated an intention to accept them and must be bound thereby.
+The generator, however, was sold “subject to acceptance and approval ” of appellee. It is the rule that where a vendor sells an article subject to the approval of the vendee he thereby constitutes the vendee the judge of his own satisfaction, with the exception, .however, that if the vendee claims to be dissatisfied, that dissatisfaction must be real and not feigned. Campbell Printing Press Co. v. Thorp et al., 1 L. R. A. 645; Exhaust Ventilator Co. v. C., M. & St. P. Ry. Co., 66 Wis. 218; Singerly v. Thayer, 108 Pa. St. 291.
+During the time the lights were used appellee claimed to be dissatisfied with them and McClintick made efforts from time to time to overcome that dissatisfaction by making changes in them. The evidence is overwhelming that the burners did not give sufficient light to enable appellee to carry on his business in a satisfactory way. McClintick claimed that the light could be made satisfactory by the use of “sunlight reflectors” which he said he would furnish, but after he left appellee’s place he was drawn on a jury and detained several days, and in the meantime appellee had disconnected the generator, refusing to try the experiment longer. Changes were made at the request of appellee, but all for the purpose of increasing the lighting power, and they were agreed to by the agent, who in effect admitted the insufficiency of the light by proposing other changes which were not carried out. Under the facts of the case it is- certain that appellee’s dissatisfaction was real and not feigned. It is true that the trial of the lights was not continued for thirty days, but it can not be said as a matter of law that appellee should have permitted the trial to continue for thirty days to the detriment of his business, when it had been continued for a sufficient length of time to demonstrate that the room could not be satisfactorily illuminated by them. We are satisfied from the evidence that the lights were given a reasonable trial and found insufficient for the proposed purpose; that appellee’s dissatisfaction was real and not feigned, and that such a dissatisfaction Avas brought by him to the knowledge of the duly authorized agent of appellant at once.
+Under such circumstances, and by reason of the further fact that the title to the property remained in appellant, there is no basis for his claim that appellee should either return or pay for the same. The court gave all the propositions of law offered by appellant except one, and that one ignored the right of acceptance and approval as provided for by the written proposal, and was therefore properly refused.
+We find no error in the record and the judgment of the court below is therefore affirmed.
