@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 11,826"
+decided: "1964-02-24"
+citations: ["46 Ill. App. 2d 172"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ABRAHAMSON, P. J. and MORAN, J., concur."]
+parties: ["William H. Barrick and William C. Jackson, Plaintiffs-Appellees, v. Donald H. Barnes and Mary Lou Barnes, Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/46/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5264729
+cites_cases: ["113 NE2d 184", "25 NE2d 132", "274 Ill App 253", "303 Ill App 286", "350 Ill App 437"]
+---
+
+# Barrick v. Barnes
+
+## Majority (CARROLL, J.)
+
+CARROLL, J.
+On August 29, 1962 tbe Circuit Court of Winnebago County entered judgment by confession on a promissory note in favor of plaintiffs and against defendants, Donald H. Barnes and Mary Lou Barnes, in the amount of $3,987.26. On September 26, 1962 defendants filed a motion supported by affidavit to open the judgment. The, affidavit recited that subsequent to the execution of the note upon which the judgment was confessed, the defendant, Donald H. Barnes was adjudicated a bankrupt, and that plaintiffs had actual notice of said bankruptcy proceeding. On the same date defendants filed a jury demand. On October 11, 1962 plaintiffs filed a motion which is captioned “Motion for denial of request to re-open judgment by confession” and in which they prayed that defendants’ motion be quashed and denied. A counter-affidavit was attached to such motion. The counter-affidavit is in the form of an answer to matters set forth in defendants’ affidavit and in addition it recites that plaintiffs had no knowledge as to when the defendant vas adjudicated a bankrupt until March 30, 1962. Defendants filed an answer on October 18, 1962 at which time the motion came on for hearing» The record recites that after hearing a portion of the arguments of counsel the eourt continued the matter to November 2, 1962. Upon leave of court being granted the defendants filed a supplemental affidavit in which it is averred that the amount of the judgment is excessive. Since it fails to set forth the facts upon which such conclusion was based, it disclosed no additional defense. The hearing was resumed on November 2, 1962 at which time the eourt heard the testimony of a number of witnesses. Subsequently an order was entered denying the motion to open the judgment. The defendants have appealed.
+The practice on motions to open a judgment by confession is regulated by Supreme Court Rule 23, section 101:23, chap 110, Illinois Revised Statutes, 1961. Under the above rule such a motion must be supported by an affidavit setting forth the facts upon which the defense is based and shall be accompanied by an answer which defendants propose to file. If the motion and affidavit disclose a prima facie defense the eourt shall set the motion for hearing. Plaintiff has a right to file counter-affidavits. If on the hearing it appears- that defendant has a defense on the merits and has been diligent in presenting his motion, the courts shall sustain the motion and the case then proceeds to trial upon the complaint, answer and any other pleading which may be filed. The scope of the hearing on such motions is confined to the question whether the defendants’ motion and affidavits to open the judgment disclose a prima facie defense. ILP Judgments, Section 195. Lietz v. Ankrom, 350 Ill App 437, 113 NE2d 184. The taking of oral testimony on controverted fact questions is not authorized. Determination as to whether defendant has a meritorious defense is to be determined solely on the affidavits and for sneh purpose the allegations of the affidavits are to be taken as true. Walrus Mfg. Co. v. Wilcox, 303 Ill App 286, 25 NE2d 132. In passing on the question whether the defendant has a defense entitling him to a trial on the merits, the court does not inquire into the merits of such defense. If it were permissible to do so it would result in the court determining the merits of the defenses upon affidavits. Lietz v. Ankrom, supra.
+In the instant case the motion of defendants to open the judgment set forth a prima facie defense to plaintiffs’ case against the defendant, Donald H. Barnes. Proof that said defendant was entitled to the benefits of the Bankruptcy Act would be a good defense to plaintiffs’ case. It is apparent from the record, which includes a transcript of the oral testimony of witnesses who testified on the hearing, that the trial court’s consideration of the motion was not confined to the affidavit and counter-affidavit. Evidence as to the merits can be considered only on a trial after the judgment has been opened and the defendant has been given leave to plead.
+We think defendants’ motion sets up a meritorious defense to the case against Donald H. Barnes, and the trial court erred in denying the motion as to such defendant. However, we are of the further opinion that the defendants’ motion did not disclose a prima facie defense to plaintiffs’claim against Mary Lou Barnes. Bankruptcy was a personal defense as to Donald H. Barnes, and did not defeat plaintiffs’ right to a judgment against Ms co-defendant. Goodman American Ice Cream Co. v. Mendelsohn, 274 Ill App 253.
+For the reasons indicated the judgment as to Donald H. Barnes is reversed and the cause remanded with directions to the trial court to grant the motion to open the judgment and for leave to plead. As to the defendant, Mary Lou Barnes, the judgment is affirmed.
+Reversed and remanded with directions.
+ABRAHAMSON, P. J. and MORAN, J., concur.
