@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+decided: "1884-11-21"
+citations: ["15 Ill. App. 432"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George H. Cox. v. Henry Keiser."]
+source_url: "https://static.case.law/ill-app/15/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4885080
+cites_cases: ["1 Gilm. 92", "11 R. I. 113", "16 Md. 396", "21 Cal. 11", "24 Ill. 203", "27 Ala. 254", "35 Ala. 689", "48 N. Y. 313", "78 Ill. 440", "8 Phila. 44"]
+---
+
+# Cox v. Keiser
+
+## Majority (Davis, J.)
+
+Davis, J.
+This was a petition for a mechanic’s lien filed by appellee on the 26th day of October, 1882, against Thomas J. Cox et al.
+Thomas J. Cox was the owner of a flouring mill and Keiser was a millwright in Bloomington. Keiser commenced on the 20th of April, 1882, and from that time until the 19th of June, of same year, did certain repairs and applied certain machinery for this mill, amounting in the aggregate to the sum of §850, under the orders of Thomas J. Cox. Ho specific contract as to price was made between the parties, but appellee was to receive what said labor, repairs and improvements were reasonably worth, and they were to be completed, furnished and put in within a reasonable time. Ho time was specified in the contract when payment should be made for such work and materials, but on the 1st day of July, 1882, appellee and the said Thomas J. Cox had a settlement, and Oox on that day accepted three drafts drawn on him by appellee for 8283.33 each, with interest, one payable in two, one in four, and the other in six months after date. These acceptances were not received by appellee in absolute payment. He deposited them with the People’s Bank, of Bloomington, and the bank credited him with the full amount of them on his account and in his bank hook. He indorsed them to the bank, bnt as they fell due and were not paid he took them up. They were in the hands of the bank at the time of the commencement of this suit.
+On the 12th of September, 1882, Thomas J. Oox conveyed by warranty deed the premises in controversy to appellant.
+On the trial appellee produced the three acceptances which he had taken from Thomas J. Cox on the settlement, and proved that he had paid the money back to the bank for them after he had filed his petition in this case.
+On the hearing the court below found the issues for appellee, and rendered a decree in his favor for $795 and a lien on the premises in controversy. To reverse the decree the case is brought by appellant to this court.
+It is claimed by appellant that when proceedings were commenced by appellee to enforce the lien in this ease the debt was not due, for that appellee, by taking the three acceptances of Thomas J. Cox, due at a future day for the amount found due on settlement, suspended the right of appellee to enforce his lien until the maturity of the notes.
+Sec. 1, of chapter 32, entitled Liens, Revised Statutes, page 717, provides, among other things, that the person who furnishes labor, materials or services to the owner of land, shall have a lien upon such land for the amount due to him for such labor, material or services. By this section it seems that to entitle a party claiming a lien to file a petition to enforce it, his debt must be due. If his debt is not due he can not commence the proceeding originally. He must wait until some party entitled to a lien commences a proceeding, when, under section 16 of same chapter, page 718, he may become a party and have his claim allowed, subject to a reduction of interest from the date of the judgment to the time such claim is due or payable. Was appellee’s claim due when he filed his petition in this case for a lien?
+In the cise of Happy v. Mosher et al., 48 N. Y. 313, it was held that taking a note upon time for an antecedent debt does not operate as payment of the debt for which it was given, but it always has the effect of extending the time of payment of the debt until the note matures, and until its maturity no suit could be brought upon it.
+In McCrary v. Carrington, 35 Alabama, 698, it is held, the only effect which the giving by a debtor of his bill of exchange for a pre-existing debt, has upon such debt, is to suspend the creditor’s remedy upon it until the maturity of the bill.
+The rule in ¡Rhode Island is, giving a note for a precedent debt does not prima faeie operate as absolute payment of the debt, but rather as an extension of credit or as only conditional payment; and if the note at maturity is not paid, the right to sue the original debt and enforce its securities revives. Wilbur et al. v. Jernegan et al., 11 Rhode Island, 113.
+In Black et al. v. Zacharie & Co., 3 Howard (U. S.), 433, the facts were that Black had sold on account of Zacharie & Co. a cargo of sugar and molasses, and the supposed debt for which the attachment in the case was issued was for the proceeds of the same. One question arising in the case was whether at the time of the commencement of the suit of Zacharie & Co. there was any debt due to them upon which the attachment could, under the circumstances, be maintained. Justice Story in delivering the opinion of the court said, “It is plain to us that there was no debt due to Zacharie & Co. at the time when the attachment was made. The supposed debt was for the proceeds of a cargo of sugar and molasses, sold by Black on account of Zacharie & Co. Assuming those proceeds to be due and payable, Zacharie & Co. had drawn certain bills of exchange upon Black, which had been accepted Jby the latter for the full amount of those proceeds, ahd all of those bills had been negotiated to third persons, and were then outstanding, and three of them were not yet due. It is clear upon principles of law that there was a suspension of all right of action in Zacharie & Co., until after those bills had become due and dishonored, and were taken up by Zacharie& Co. It amounted to a new credit to Black for the amount of those acceptances, during the running of those acceptances.”
+Chitty in his work on Contracts, page 1134says: “Where the creditor accepts a bill or note on account of his debt, it is held to be taken by him as a qualified or conditional payment, and accordingly during the currency thereof, the original remedy is suspended or in abeyance.”
+We are aware that some courts have held differently, but we are inclined to uphold the doctrine that the taking a note or acceptance for a pre-existing debt extends the time of payment of such debt until the maturity of the note or acceptance taken, and suspends the remedy of the creditor until the maturity of the note or bill.
+In this case, therefore, the claim of appellee was not due when he filed his petition for a mechanics’ lien, and the court erred in granting him a decree for a lien on the premises in controversy, and for a sale of the same. The decree must be reversed and the cause remanded.
+Decree reversed.
+MoOullotjoit, J., dissents.
