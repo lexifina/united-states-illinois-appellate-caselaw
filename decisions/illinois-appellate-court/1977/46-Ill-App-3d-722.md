@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "13309"
+decided: "1977-03-24"
+citations: ["46 Ill. App. 3d 722"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARDWARE MUTUAL CASUALTY COMPANY et al., Plaintiffs-Appellants, v. BOB WHITE OLDSMOBILE-CADILLAC, INC., Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/46/cases/0722-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2975658
+cites_cases: ["131 N.E.2d 100", "24 Ill. App. 3d 483", "241 N.E.2d 439", "321 N.E.2d 338", "326 N.E.2d 400", "41 Ill. 2d 32", "60 Ill. 2d 312", "7 Ill. 2d 393"]
+---
+
+# Hardware Mutual Casualty Co. v. Bob White Oldsmobile-Cadillac, Inc.
+
+## Majority (Mr. JUSTICE TRAPP)
+
+Mr. JUSTICE TRAPP
+delivered the opinion of the court:
+Acting upon their contract rights after payment upon lessor’s insurance policies, plaintiffs sued the defendant, lessee, for damages alleged to have been sustained by reason of negligently causing a fire which destroyed lessor’s property. Plaintiffs appeal from the order of the trial court dismissing the complaint with prejudice as a judgment on the pleadings.
+The trial court’s memorandum stated that the issue was a question of law and that:
+“It is held that the intent of the lease is to free the Lessee from liability where the leasehold is damaged or destroyed by fire, whether or not the fire resulted from Lessee’s negligence.”
+The lease is prepared upon a printed form with blanks for the parties, the description of real estate and the terms of the lease. Fifteen paragraphs are printed, four typed paragraphs are added, but none are relevant to this issue. No paragraph of the lease makes specific reference to the requirements concerning insurance, fire or otherwise.
+Plaintiffs argue that they are entitled to recover damages by reason of the clause of the lease in the language:
+“SECOND. The Lessee shall make all repairs necessary to keep the demised premises and the building and appurtenances situated thereon in as good order and condition as when delivered to it, except exterior and structural repairs, repairs to the roof, and such other repairs as may be necessary by reason of ordinary wear and tear, damage by fire, the elements, casualty, or other cause or happening not due to the negligence of the Lessee, which repairs the Lessor hereby agrees to make.”
+Plaintiffs argue that the lease, as a whole, does not reveal any intent of the parties concerning insurance, that the lease does not show an intent to relieve lessee of his common law liability and that unless the lease expresses a contrary intent, a lessee is liable for fire damage caused by the lessee’s negligence.
+Defendant first argues that it is exonerated from liability for the reason that there is no ambiguity in the “yieldback” provision and in the alternative, it argues that the lease when read as an entity shows that defendant is exonerated.
+The trial court concluded that the quoted clause of the lease could be interpreted in at least two ways so that there is a question whether the phrase “not due to the negligence of Lessee” modifies only the immediately preceding language “or other cause or happening,” or whether the negligence phrase modifies each of the preceding specified items, i.e., structural and exterior repairs, roof, ordinary wear and tear, elements, or other casualty. Grammatically, the phrase “not due to the negligence of Lessee’s” is in the disjunctive and directly related only to an “other cause or happening.” Historically, structural and roof repairs are made by the landlord, although conceivably such might be necessitated by the lessee’s negligence. There is some contradiction in terms in associating “ordinary wear and tear” with the negligence of the lessee. The words “damage by fire” are intermingled between “ordinary wear and tear” and “the elements” and its position in the sentence is separated from the negligence provision by reference to “the elements,” which are not obviously associated with lessee’s negligence.
+We review the issue in the light of the conclusions of the supreme court found in Cerny-Pickas & Co. v. C. R. Jahn Co. (1955), 7 Ill. 2d 393, 131 N.E.2d 100; Stein v. Yarnall-Todd Chevrolet, Inc. (1968), 41 Ill. 2d 32, 241 N.E.2d 439, and One Hundred South Wacker Drive, Inc. v. Szabo Food Service, Inc. (1975), 60 Ill. 2d 312, 326 N.E.2d 400. In each case the opinion reversed the appellate court and affirmed the trial court which had entered judgment on the pleadings for the lessee. In Cerny-Pickas and Stein it was contended, as here, that the lease did not expressly exonerate the lessee from liability where fire resulted from his own negligence. It was held that the intent of the parties was determined from a consideration of all provisions and terms of the lease and that the issue of liability upon the part of the lessee would not be construed from a single portion of the lease considered in isolation. While in each of the cited opinions the leases at issue contained varying statements concerning obligations to provide insurance coverage and such statements were discussed by the court in reaching its conclusion, it does not appear that the absence of such a specific statement concerning insurance alters the rule that the intent or expectation of the respective parties must be ascertained from the lease as examined in its entirety.
+This case has the common factors noted by the supreme court that the plaintiffs’ argument would require that each party to the lease procure fire insurance upon the same property, although the standard fire insurance policy procured by the landlord insures against both negligent and nonnegligent fires. Similarly, there is the reasonable expectation that business people executing commercial leases would compensate or provide for the insurance premiums of the landlord in fixing the rental to be paid.
+Apart from the “yieldback” clause, the lease does show that the parties contemplated that the property might be damaged or destroyed by fire and made provision for such contingency. In paragraph 6(a), it is provided that if the lease interest “shall be so damaged by fire, casualty, or other cause or happening as to substantially destroy * ° the lease shall terminate and unearned rent be refunded. Paragraph 6(b) provides that if the “premises shall be partially destroyed by fire, casualty or other cause ” ” *,” the leased premises shall be restored within 100 days by the lessor, or otherwise the lessee may cancel. Upon either contingency, the lessor retains the option of restoration, but neither provision contemplates an obligation in the lessee where the fire results from his own negligence or indicates that upon such event the lessor looks to the lessee to restore the premises.
+Again, the twelfth clause of the lease provides that the lessor shall replace the plate glass broken or damaged during the term. Such item appears to be particularly susceptible to damage by the negligent conduct of the lessee, but the lease does not require replacement of the glass broken by the negligence of the lessee.
+As suggested in One Hundred South Wacker Drive, Inc. v. Szabo Food Service, Inc. (1975), 60 Ill. 2d 312, 326 N.E.2d 400, the lessor can effectively and specifically reheve himself from damage caused by the negligence of the lessee if he so desires and chooses. See Kokenes v. Cities Service Oil Co. (1974), 24 Ill. App. 3d 483, 321 N.E.2d 338.
+Upon the consideration of the authorities and the provisions of the lease at issue, we find that the judgment of the trial court is affirmed.
+Affirmed.
+CRAVEN, P. J., and GREEN, J., concur.
