@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 65-43"
+decided: "1965-09-28"
+citations: ["62 Ill. App. 2d 274"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MORAN and DAVIS, JJ., concur."]
+parties: ["Harold E. Dato, Mount Vernon Estates, Inc., a Corporation, and Elmer Clavey, Inc., a Corporation, Plaintiffs-Appellees, v. Village of Vernon Hills, a Municipal Corporation, of Illinois, Defendant; Kildeer Countryside School District No. 96 and Board of Education of Kildeer Countryside School District No. 96, Lake County, Illinois, Petitioners to Intervene as Party-Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-2d/62/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5299037
+cites_cases: ["129 NE2d 177", "145 NE2d 777", "15 Ill App2d 250", "157 NE2d 266", "171 NE2d 814", "21 Ill App2d 79", "28 Ill App2d 507", "283 Ill App 378", "7 Ill App2d 65"]
+---
+
+# Dato v. Village of Vernon Hills
+
+## Majority (ABRAHAMSON, P. J.)
+
+ABRAHAMSON, P. J.
+This appeal is taken from an order of the Circuit Court of Lake County denying the petition of a school district to intervene in a zoning case.
+On July 7,1964, the Board of Trustees of the Village of Vernon Hills, pursuant to a recommendation of their Zoning Board of Appeals, rezoned certain property in the Village from a “Rr-5” classification to “R-4.” The pertinent distinction between the classifications is that “R-4” zoning permits only single family residential uses while “R-5” permitted, among other uses, mobile-home parks.
+Plaintiffs-appellees filed a complaint under the Declaratory Judgment Act alleging that they are the owners of a certain tract of land affected by the rezoning that they had purchased with the intention of operating a mobile-home park. They seek a determination that the new zoning is “unreasonable, discriminatory, invalid, null and void” insofar as it affects their property.
+The appellants herein, the Kildeer Countryside School District No. 96 and Board of Education of Kildeer Countryside School District No. 96, both appeared and testified at public hearings before the Zoning Board of Appeals and the Village Trustees in opposition to the old “R-5” zoning. Thereafter, they filed their Motion to Intervene in the pending Declaratory Judgment Action under Section 26.1 of the Civil Practice Act (Ill Rev Stats c 110, § 26.1) and prosecute this appeal from the trial court’s denial of that motion.
+The Petition states that if the property in question is used for a mobile-home park that it would increase the number of school children in the district and, at the same time, be taxed as vacant property, thus greatly reducing the assessed valuation per child in the district. It also alleges that the Village itself is without sufficient funds to employ experts to adequately defend the suit. The allegations in the Petition are not denied by any of the other parties.
+Section 26.1 provides for the intervention, under certain specified circumstances, by third parties, into pending lawsuits. The section enumerates instances where intervention is a matter of right, and others where it is permissible at the discretion of the trial court. Since appellants contend that they were entitled to intervene as a matter of right, we shall concern ourselves only with that portion of Section 26.1.
+“(1) Upon timely application anyone shall be permitted as of right to intervene in an action: (a) when a statute confers an unconditional right to intervene; or (b) when the representation of the applicant’s interest by existing parties is or may be inadequate and the applicant will or may be bound by a judgment, decree or order in the action; or (c) when the applicant is so situated as to be adversely affected by a distribution or other disposition of property in the custody or subject to the control or disposition of the court or an officer thereof.”
+While it is not clear on what sub-section of this paragraph appellants rely, it does appear that they feel a recent amendment to the Municipal Code confers upon them the unconditional right to intervene. A new paragraph was added to the Zoning Division of the Municipal Code (Ill Rev Stats 1963, c 24, § 11-13-20) which provides as follows:
+“In any hearing before a zoning commission, board of appeals or commission or committee designated pursuant to Section 11-13-14, any school district within which the property in issue, or any part thereof, is located shall have the right to appear and present evidence.”
+Prior to this amendment, school districts had no standing to appear at zoning hearings or, obviously, to intervene in any litigation growing out of such hearings. Appellants here urge that the new provision implies the authorization to go beyond the hearing and appear in any resulting litigation.
+We cannot agree with this contention. A school district derives its existence and powers wholly from the General Assembly. It has no inherent powers. Goedde v. Community Unit School Dist. No. 7, Macoupin County, 21 Ill App2d 79, 89, 157 NE2d 266; People ex rel. Dilks v. Board of Education of Paxton Community High School No. 117, 283 Ill App 378, 388, 389.
+We cannot but conclude that the General Assembly would have clearly so stated had it intended that school districts should be permitted to engage in any litigation resulting from zoning disputes in which they may have an interest.
+It is well known that zoning is primarily a legislative function. School districts often have a real and significant interest in zoning, but only indirectly. It is proper that they should be allowed to bring their views to the attention of the particular legislative body considering zoning which affects their interests. The new provision cited grants them this right. But to conclude that this grant inevitably implies the further right to join in any resulting litigation is warranted neither by logic nor the law.
+Appellants also cite a number of recent Illinois cases permitting intervention by third parties in rezoning proceedings. However, these cases involve the rights of owners of adjoining or nearly adjoining property to intervene in rezoning cases where it appears that their interests would not be adequately represented by the existing parties to the suit. Oakton-Crawford Corp. v. Village of Skokie, 28 Ill App2d 507, 171 NE2d 814, and In re East Maine Twp. Community Ass’n v. Pioneer Trust & Sav. Bank, 15 Ill App2d 250, 145 NE2d 777. In none of the cases cited were the rights and powers of the owners dependent wholly on statutory authority as in the case of school districts.
+The case of Wauconda Tp. High School Dist. No. 118 v. County Board of School Trustees of McHenry County, 7 Ill App2d 65, 129 NE2d 177, also cited by appellants, is also clearly distinguishable. That case involved the right of a school district to institute an action to review a decision of the county board of school trustees under the Administrative Beview Act. The School Code itself provided that written notice be given to school districts of proceedings to change the boundaries of the district to provide an opportunity to appear at the hearing. The court held that the written notice was in the nature of a summons and that the school district was, in effect, a “party” to the proceeding and, hence, eligible for judicial review of the decision. In any event, Section 4B-5 of the then existing School Code (Ill Rev Stats 1953, c 122) clearly gave school districts the right to seek judicial review in such administrative decisions and the case is not authority for the position that a school district has any right to appear in a suit of this nature.
+For the reasons we have stated, the order denying the petition of appellants to intervene will be affirmed.
+Affirmed.
+MORAN and DAVIS, JJ., concur.
