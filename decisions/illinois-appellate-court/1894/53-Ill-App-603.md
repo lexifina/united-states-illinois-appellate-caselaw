@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-06-23"
+citations: ["53 Ill. App. 603"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago & Alton Railroad Company v. Louis C. Willi."]
+source_url: "https://static.case.law/ill-app/53/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 858504
+cites_cases: ["11 Ill. App. 17", "118 Ill. 203", "118 Ill. 229", "121 Ill. 160", "121 Ill. 164", "123 Ill. 440", "123 Ill. 443", "124 Ill. 124", "143 Ill. 133", "143 Ill. 136", "28 Ill. 73", "34 Ill. App. 552", "50 Ill. 241", "72 Ill. 155", "75 Ill. 42", "75 Ill. 524", "91 Ill. 312", "92 Ill. 19"]
+---
+
+# Chicago & Alton Railroad v. Willi
+
+## Majority (Mr. Presiding Justice Sample)
+
+Mr. Presiding Justice Sample
+delivered the opinion of the Court.
+The appellee recovered damages to his crops caused by overflow of water, resulting, as alleged, from an insufficient culvert in the road bed of appellant, and insufficient ditches along said road bed.
+That the appellee’s-crops were injured by an overflow of water is not disputed. The amount of the damages caused thereby is in controversy. That the culvert was only one foot in diameter, and the water causing the damage stood about two and one-half feet above the culvert, which was one foot above the bottom of the ditch, is proven. It is also proven the appellant had been notified that the culvert was insufficient before the damage occurred. There was evidence tending to show there should have been another culvert through appellant’s road bed at another point, so as to have divided the water, and thus permit it to run off more rapidly. One of appellant’s witnesses concedes such a culvert would have been proper had there been one in the “ Big Four ” road opposite.
+This brings us to the consideration of the defenses interposed by appellant.
+It appears that in 1854 the Alton & Terre Haute E. B. Co. constructed its road over the farm in controversy, having obtained the right of way from one J. J. Gilchan, the then owner of the land, and constructed a culvert at what it deemed the longest point. In 1859, the Alton & St. Louis E. E. Co. also obtained a right of way of same owner, and having leased its railroad to appellant, the latter company in 1865 built its road bed parallel with that of the other road, and about fifty feet west therefrom, and constructed a culvert nearly opposite that of the one before mentioned. In 1880 Gilchan conveyed his farm to another, who in 1888 conveyed the same to Haclcen, the present owner and landlord of the appellee. The land in controversy is west of both roads with drainage in an easterly direction.
+The appellant contends, 1, that the damages here claimed should have been, and in contemplation of law were allowed the original owner at the time of obtaining the right of way, and therefore his grantees can not maintain this action; 2, that the appellant “ by over twenty years maintaining and continuously using its road bed, ditches and culvert, causing the water which fell on said land to remain against its embankment, and upon the land until thus carried off, acquired an easement or right, which had ripened into a perfect right to so maintain its road bed, ditches and culvert, and to thus carry off the water from the land, and this right had matured before the appellee’s lessee purchased the land, and therefore appellee took the land subject to that burden;” 3, that the same damage would have been caused by the other road bed, fifty feet east of appellants, and therefore there can be no recovery.
+As to the first point it is sufficient to say that both a common law and statutory duty rested upon appellant to so construct and maintain its road bed that the water should flow unobstructed through such road bed, as it freely had done before such construction, so that the land should not be overflowed. This is a continuing duty, and each overflow causing damage to crops, creates a new cause of action. O. M. Ry. Co. v. Wachter, 123 Ill. 443; same v. same, 143 Ill. 133; St. L., A. & T. H. R. R. Co. v. Brum, 34 Ill. App. 552; O. & M. Ry. Co. v. Elliott, Ibid. 589.
+As to the second point, it is sufficient to say if, as held in the Wachter case, 143 Ill. 133, each overflow upon the land of an adjoining owner, caused by negligent construction of the road, creates a new cause of action, then the twenty years’ limitation has no application.
+In addition to this view, it may be said that such a limitation only applies to damages of a permanent character, apparent at the time of the creation of the nuisance causing them, and that go to the entire destruction of the estate affected thereby. C. & E. I. R. R. Co. v. McAuley, 121 Ill. 164, and Wood on Nuisances, Secs. 865, 869. In this case the culvert may have been sufficient at the time of its construction, especially if the land avbs then in a state of nature, and subsequently, as the land was brought into a state of cultivation, have become entirely insufficient.
+The third point, that the same damage would have been done by the other road bed, is not Aveli taken. It may be that the company operating the other road Avould have enlarged its culverts. So far as disclosed by the evidence, the culverts of the other company Avere sufficient to take all the water that could pass through appellant’s culvert.
+The point made that there is a variance betAveen the proof and the declaration as to the course of the Avater after it passed through appellant’s road bed, is not sustained. That averment was for the purpose of describing the general course of the Avater. The damages received were justified by the evidence. The instructions given by the court were in conformity Avith the views herein expressed. The fifth refused instruction might properly have been given, but the substance of it was embodied in the first and second given on behalf of the appellant. There being no substantial error in the record, the judgment is affirmed.
