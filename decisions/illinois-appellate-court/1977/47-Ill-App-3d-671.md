@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-127"
+decided: "1977-03-31"
+citations: ["47 Ill. App. 3d 671"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STANLEY JOHNSON, Plaintiff-Appellant, v. WILLIE E. COLEMAN, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/47/cases/0671-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3367137
+cites_cases: ["1 Ill. App. 2d 387", "102 Ill. App. 2d 373", "109 Ill. App. 2d 133", "117 N.E.2d 683", "12 Ill. App. 3d 1030", "197 N.E.2d 736", "216 N.E.2d 278", "22 Ill. App. 3d 621", "242 N.E.2d 901", "248 N.E.2d 299", "26 Ill. App. 3d 688", "299 N.E.2d 421", "317 N.E.2d 774", "325 N.E.2d 406", "356 N.E.2d 1261", "358 N.E.2d 1315", "396 Ill. 477", "43 Ill. App. 3d 164", "45 Ill. App. 3d 1", "48 Ill. App. 2d 171", "69 Ill. App. 2d 104", "72 N.E.2d 177"]
+---
+
+# Johnson v. Coleman
+
+## Majority (Mr. JUSTICE ROMITI)
+
+Mr. JUSTICE ROMITI
+delivered the opinion of the court:
+The plaintiff, after the entry of a final judgment for the defendant on the merits, appeals from the earlier entry of an order, pursuant to a section 72 motion (Ill. Rev. Stat. 1975, ch. 110, par. 72), vacating a default judgment entered against the defendant. We find we have no jurisdiction and dismiss.
+On January 30, 1975, a default judgment for $1500 was entered in favor of the plaintiff against the defendant, who at that time was acting pro se. On July 16, 1975, the defendant, who had now obtained an attorney, moved pursuant to section 72 of the Civil Practice Act, to have the judgment vacated alleging that he had been unaware of the trial date although he had exercised due diligence; that he did not discover the facts until he received a notice that his driver’s license was suspended on April 28, 1975, and that he had a meritorious defense. Service of the motion was made by ordinary mail upon the plaintiffs attorney. The plaintiff in his answer to the motion alleged that the defendant had not been diligent and furthermore that the defendant failed to comply with section 72(2) and Supreme Court Rules 105 and 106 regarding service of notice upon the parties. The default judgment was vacated on July 31, 1975, and a motion to vacate the July 31 order was denied on September 17, 1975. On December 10, 1975, the court, having heard the evidence, found for the defendant. The plaintiff then appealed, ostensibly from the orders of July 31, September 17 and December 10. On appeal the plaintiff has at no time contended that the final judgment was erroneous, nor has he included in the record any report of proceedings. Thus it is clear that the plaintiff has conceded that the final judgment was justified and only contends that the default judgment should never have been vacated. This being true, and even though the question of jurisdiction has not been raised by the defendant, we must dismiss the appeal since we have no jurisdiction at this point to consider the propriety of the lower court’s action in vacating the judgment.
+As we have pointed out, the defendant’s petition was a proceeding under section 72 of the Civil Practice Act. It is well-established law in Illinois that such proceeding is not a continuation of the original action in which the final judgment or decree was entered, but is a new action (Cowen v. Harding Hotel Co. (1947), 396 Ill. 477, 72 N.E.2d 177; In re Estate of Knazek (1954), 1 Ill. App. 2d 387, 117 N.E.2d 683), and therefore an order denying or granting any relief prayed for in such a petition is final and appealable. (Cowen v. Harding Hotel Co. (1947), 396 Ill. 477, 72 N.E.2d 177; Diners Club, Inc. v. Gronwald (1976), 43 Ill. App. 3d 164, 356 N.E.2d 1261; Trisko v. Vignola Furniture Co. (1973), 12 Ill. App. 3d 1030, 299 N.E.2d 421; Burkitt v. Downey (1968), 102 Ill. App. 2d 373, 242 N.E.2d 901; In re Estate of Knazek (1954), 1 Ill. App. 2d 387, 117 N.E.2d 683.) This rule has long been codified, first in section 76(6) of the Civil Practice Act which provided that “any order entered denying or granting any of the relief prayed in the petition is appealable” and now in Supreme Court Rule 304(b)(3) which provides:
+“The following judgments and orders are appealable without the finding required for appeals under paragraph (a) of this rule:
+* * *
+(3) A judgment or order granting or denying any of the relief prayed in a petition under section 72 of the Civil Practice Act (Ill. Rev. Stat., ch. 110, par. 72).”
+A judgment, order or decree from which an appeal might have been taken may not be reviewed on appeal from a subsequent order entered in the same cause. (Harty v. Kirby (1975), 26 Ill. App. 3d 688, 325 N.E.2d 406; see also Rone v. Boncar Construction Co. (1976), 45 Ill. App. 3d 1, 358 N.E.2d 1315.) Where no timely appeal is taken from a final and appealable order this court is without jurisdiction to consider the propriety of that order. (Goldstick v. Saporito (1974), 22 Ill. App. 3d 621, 317 N.E.2d 774.) Accordingly, where a final order is vacated pursuant to a section 72 petition and the parties go to trial, the party whose judgment was vacated having failed to prosecute a direct appeal, is precluded, after the subsequent trial and judgment, from making an indirect or collateral attack on the order vacating the first judgment. (Halter v. Schoreck (1966), 69 Ill. App. 2d 104, 216 N.E.2d 278.) In other words, a party choosing not to take a timely appeal from an order granting or denying any of the relief prayed for in a section 72 petition waives his right to appeal from that order. Accordingly, a reviewing court, after a trial on the merits, has no jurisdiction to consider the propriety of the order granting a section 72 petition.
+Since we are without jurisdiction at this point to consider the impropriety of the July 31 order, we must dismiss the case on our own motion even though the question of jurisdiction was not raised by the parties. (2 Ill. L. & Prac. Appeal and Error § 590 (1953).) The parties cannot waive the timely filing of a notice of appeal. Country Mutual Insurance Co. v. National Bank (1969), 109 Ill. App. 2d 133, 248 N.E.2d 299; McHale v. Mans (1964), 48 Ill. App. 2d 171, 197 N.E.2d 736 (abstract).
+Appeal dismissed.
+DIERINGER, P. J., and JOHNSON, J., concur.
