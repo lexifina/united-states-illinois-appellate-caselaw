@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-05-28"
+citations: ["54 Ill. App. 180"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. B. Tibbetts v. West and South Town Street Railway Company."]
+source_url: "https://static.case.law/ill-app/54/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5098896
+cites_cases: ["101 Ill. 157", "101 Ill. 561", "102 Ill. 379", "102 Ill. 64", "106 Ill. 511", "106 Ill. 60", "11 W. R. 852", "118 Ill. 203", "119 Ill. 200", "121 Ill. 160", "121 Ill. 161", "131 Ill. 522", "136 Ill. 407", "141 Ill. 35", "2 Duer, 663", "20 Fla. 889", "21 Ill. 516", "24 How. 287", "27 N. Y. 188", "3 Allen, 501", "40 Ill. 481", "40 N. J. Eq. 557", "5 Blatchf. 356", "50 Ga. 444", "54 Pa. St. 401", "75 Ill. 588", "75 Ill. 74", "75 Ill. 75", "82 Fed. Rep. 270", "84 Ill. 135", "85 Ill. 232", "88 Ill. 544", "92 Ill. 170"]
+---
+
+# Tibbetts v. West & South Town Street Railway Co.
+
+## Majority (Mr. Justice Waterman)
+
+Mr. Justice Waterman
+delivered the opinion of the Court.
+At the time the ordinances permitting the construction of appellee’s railway were enacted, there was in existence the following statute:
+“ The city council or board of trustees shall have no power to grant the use of, or the right to lay down, any railroad tracks in any street of the city, to any steam or horse railroad company, except upon a petition of the owners of the land representing more than one-half of the frontage of the street, or so much thereof as is sought to be used for railroad purposes.”
+The question here presented is not as to the necessity for such a petition as is prescribed by the statute, but the council having acted upon what purported to be such a petition, and appellee having proceeded under the ordinances, thus obtained, to construct its railway, will a court of equity enjoin the operation of the railway, at the instance of a property holder whose property will be damaged by such operation.
+It is manifest that to the city council itself is presented the determination of whether a petition authorizing it to grant the use of a street has been presented. The decision of such question may require the making of surveys, the hearing of evidence, and the examination of titles.
+The favored property owners, it would seem, should, if they desire, be heard, in order that the council may come to a correct decision as to this matter; and when it has in good faith determined this matter, there is reason for holding its conclusion to be quasi judicial. Black on Judgments, Sec. 532; Bissell v. City of Jeffersonville, 24 How. 287.
+Appellant in his bill does not show that any fraud was practiced in obtaining the judgment of the council that the requisite petition had been presented. His allegation is that the signatures of certain owners were by agents; he does not allege that such signatures were unauthorized. The allegation in effect is that a petition containing the requisite signatures was presented, but that the petition itself did not upon its face show that each signature was authorized.
+The streets of a city are controlled by the municipal authorities for the benefit of the public. The municipal authorities may, subject to certain restrictions imposed by the statute, prescribe the manner - in which the streets may be used by the public, may close and vacate them. Cairo & Vincennes R. R. Co. v. The People, 92 Ill. 170; Chicago and Union Bldg. Ass’n, 102 Ill. 379; Mayer v. Village of Teutopolis, 131 Ill. 522; Carney v. Marseilles, 136 Ill. 407.
+An owner has not even a right to the perpetual maintenance of a street upon which his property abuts; although he may be entitled to recover damages because of the vacation of the street by the municipal authorities. Mayer v. Village of Teutopolis, supra; Dillon on Municipal Corporations, Sec. 666.
+While an abutting property owner is by the statute made one of a favored class upon whose petition alone can the council permit the laying of railroad tracks in a street, it does not follow that to such owner is given a right to insist that the courts shall interfere and protect the rights of the public in respect to the streets.
+The abutting property owner’s right to use the street is no greater than that of each and all of the public. He is but one of the millions composing the public, .and unless he sustain from the use to which the street is put by the municipal authorities, a damage special and peculiar to himself, he can not maintain a suit to compel the abandonment of such use; he can not assume to represent the public, and by his individual suit conclude its rights. Davis v. Mayer, 2 Duer, 663; Winterbottom v. Lord Derby, Law R. 2 Q. B. 316; Hartshorn v. South Reading, 3 Allen, 501; McDonald v. English, 85 Ill. 232; High on Injunctions, Sec. 762; Pomeroy’s Eq. Juris, Sec. 1379; City of East St. Louis v. O’Flinn, 119 Ill. 200; City of Chicago v. Union Bldg. Ass’n, 102 Ill. 379; Patterson v. C. D. & V. Ry. Co., 75 Ill. 588; Vanderpoel et al. v. The West and South Towns Ry. Co., Chicago Legal News, March 24, 1894.
+For damage special and peculiar to himself an abutting| property owner has, under the constitution and laws of this State, a remedy at law. The fact that by permission to use the street for a particular public purpose, an abutting property owner will be specially damaged, affords no ground for restraining such use, so long as the property holder is able to recover and collect all the damage he suffers. Vanderpoel v. The West and South Towns Ry. Co., supra; Loire v. North Chicago St. Ry. Co., 82 Fed. Rep. 270; People v. Kerr, 27 N. Y. 188; Moses v. Pittsburgh R. R., 21 Ill. 516, 523; Stetson v. C. & E. I. R. R., 75 Ill. 74; Patterson v. C. D. & V. R. R., Id. 588; Peoria, etc., R. R. v. Schertz, 84 Ill. 135; C. & E. I. R. R. v. Loeb, 118 Ill. 203; C. & E. I. R. R. v. Ayers, 106 Ill. 511; Pittsb. & Ft. W. R. R. v. Reich, 101 Ill. 157, 176; C. & E. I. R. R. v. McAuley, 121 Ill. 161; Penn., M. L. I. Co. v. Heiss, 141 Ill. 35, 58, 59.
+In the present case it appears that nineteen months elapsed between the presentation to the council of the petition for permission to construct this railway and the filing of the bill in this case; during this period the appellee did a great deal of work and expended large sums of money, the benefit of which appellant now seeks to deprive it of.
+One who would avail himself of the remedy afforded by an injunction should be diligent in the assertion of his rights, and not allow the defendant to go on expending large sums of money in that which an injunction will deprive him of the benefit of High on Injunctions, Secs. 785, 786; Johnson v. Wyatt, 11 W. R. 852; Redfield on Railways, Vol. 2, Chap. 29, Sec. 16.
+So far as appears from the bill filed in this case,- not only has appellant a remedy at law for the damage, imperfectly stated, he alleges he will sustain, but he has been guilty of such laches as precludes his right to an injunction.
+The decree of the Circuit Court dismissing the bill is therefore affirmed.
+Mb. Justice Gaby took no part in the consideration or decision of this case.
