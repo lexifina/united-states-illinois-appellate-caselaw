@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+decided: "1894-07-02"
+citations: ["54 Ill. App. 551"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New York, Chicago and St. Louis Railroad Company vs. Fredrich Luebeck, by Gotfried Luebeck, His Next Friend."]
+source_url: "https://static.case.law/ill-app/54/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5102796
+cites_cases: ["146 Ill. 29", "33 Ill. App. 307", "46 Ill. App. 566"]
+---
+
+# New York, Chicago & St. Louis Railroad v. Luebeck
+
+## Majority (Mr. Presiding Justice Shepard)
+
+Mr. Presiding Justice Shepard
+delivered the opinion of the Court.
+This is an appeal from a judgment for $10,000, recovered in an action of trespass brought by the appellee against the appellant.
+The injury for which the recovery was had Occurred at the crossing of 53d street in Chicago, by the appellant’s tracks on May 1Y, 1889.
+At the time of the accident the appellee was about sixteen years of age, and the trial took place about four and one-half years afterward, when he was twenty.
+It is not denied that the appellee was struck by one of appellant’s locomotives at the place stated, and the evidence tended to show that, he was thrown by the blow a distance of about twenty-five feet.
+The evidence tended to disclose that a permanent and serious mental impairment resulted to the appellee from the stroke of the locomotive.
+A very considerable amount of evidence, by physicians and others, covering the period of four and one-half years from the time of the accident to the date of trial, was heard upon the subject of appellee’s mental infirmity after the blow, and it is evident that the jury believed from such evidence that a permanent impairment of appellee’s mind Avas produced to an extent seriously interfering with, if not Avholly unfitting and incapacitating the appellee from attending to the ordinary business affairs of life.
+In the very nature of things there will always remain room for inquiry and uncertainty upon a subject so incapable of exact demonstration as mental capacity at one time as compared with that at another. For that reason, if for no other, it is impossible for a court of review to say from an inspection of a record, upon which there appears evidence in support of a conclusion reached by a jury upon such a question, that it should have been determined the other way.
+Whether the disabling effects will be permanent, in the sense of affecting the appellee during all his life, may be said to be conjectural, but that they have lasted more than four years, with no diminishing tendency, seems to be pretty clearly established by competent evidence; and, judging from the evidence alone, we can not say that the conclusion arrived at by the jury as to the effect produced upon mental capacity of the appellee by the shock of the stroke inflicted upon him, "was not fully warranted.
+With a permanent disability of such a nature, the judgment, though large, is no more than just compensation.
+At the time and place of the accident, the physical situation was substantially as follows:
+There were seven railroad tracks running north and south across 53d street, at right angles, over some of which the appellant company had the right to operate its trains; the east track was a side track, on which was standing a string of freight or stock cars extending across part of the north half of 53d street; the second track from the east was the track on which appellant’s train that struck the appellee was moving toward the south; on the third track from the east there was a train moving toward the north, and on the fourth track from the east another train, belonging to the appellant, was moving toward the south; the fifth, sixth and seventh, tracks, from the east, seem to have been unoccupied at that moment; the railroad bed was higher than the surface of the street at a little distance away, and from the east, the approach of the street, which was not graded to the tracks, was up an incline of a few feet.
+Although one witness for appellant testified that the appellee was, at the moment of being hit, crossing the tracks from the west, the decided preponderance and weight of the evidence establishes that he approached the tracks from the east, and was going westwardly across the tracks on an • errand for his brother; that when he reached the tracks, he passed around the south end of the string of cars that partly occupied 53d street, on the side track, without observing the train that was approaching from the north on the second track; that his view of that approaching train was obstructed by the standing cars, around which he passed, until he got past them; that his attention was absorbed in watching the passing north bound train on the third track over 'which -his route lay; that he paused for a moment, for the caboose of that train to pass, and was instantly run upon by the south bound train on the second track.
+There was evidence from which the jury could find that no bell was rung, or other warning given, by the approaching train that ran upon the appellee.
+The locomotive was being run backward, or “ tender forward,” and the rate of speed ivas from twenty miles an hour, according to the testimony of appellee’s witnesses, to eight miles per hour, according to appellant’s witnesses.'
+It was a freight train that ran upon the appellee, and an ordinance of the town of Lake, within which jurisdiction the territory where the accident occurred was then situated, prohibited the running of freight trains within the town at a greater rate of speed than six miles per hour.
+Under such circumstances, “ negligence and due care, degrees and comparisons of negligence, are all questions of fact for the determination of a jury,” and an interference therewith by a court of review is not warranted by law, unless it is apparent that the jury have disregarded their duty. C. & N. W. Ry. Co. v. Trayes, 33 Ill. App. 307.
+The instructions were as favorable to appellant as could properly have been given, and under the law of the instructions, and the evidence heard, the jury found adversely to the appellant both as to the question of appellant’s own negligence and the contributory negligence of the appellee, and their verdict must stand. I. C. R. R. Co. v. Nowicki, 146 Ill. 29; same case, 46 Ill. App. 566.
+It is contended that error was committed by the court in refusing to strike out the answer of one of appellee’s witnesses to the question whether he knew where the appellee was going at the time of the accident. The witness answered “ Yes, I sent him to get some glass at Wentworth avenue.”
+It does not appear in which direction Wentworth avenue lay from the place of the accident, but assuming that it lay to the west, and that therefore the answer had a tendency to support the theory that the appellee was going westwardly and had come upon the tracks from behind the cars standing upon the side track, whereby his view of the approaching train was obstructed, we do not regard the contention as well taken.
+The question itself was not objected to. The motion and exception related only to the answer. Strictly speaking we can nob approve of the question, but unless the answer was harmful to the appellant, it ought to be allowed to stand. The same .witness testified, in answer to other questions, that within about five minutes after he had sent the appellee upon an errand he was called from his butcher shop and told that appellee had been run over. The'legitimate effect of the answer was no more, therefore, than that five minutes before the appellee was hurt, the witness had seen and spoken to the appellee at a point two short blocks east of the place where the accident occurred, and therefore the inference or conclusion that he was going west. And this was but in corroboration of what was proved by a decided preponderance and weight of other evidence, as to the direction in which appellee was going when he was run upon. It made no difference whether he was going for glass or was going to Wentworth avenue, if he was in fact going westward across the tracks. We think it was not material error to refuse to strike out the answer.
+It is again contended that the court erred in admitting evidence as to the frequency of trains going over that crossing per clay. And .this is urged because other railroads used the same tracks, and that appellant should not be prejudiced on account of their frequent trains.
+Such evidence was proper in order to show the degree of care which appellant was bound to employ under the circumstances.
+If appellant chooses to operate its trains over tracks that are used by other railroads to an extent that render their operation dangerous—in other words, if it chooses to employ a dangerous agency in its business, it must exercise á degree of care commensurate with the dangers of the situation.
+We think the court committed no error in admitting the evidence.
+The judgment will be affirmed.
