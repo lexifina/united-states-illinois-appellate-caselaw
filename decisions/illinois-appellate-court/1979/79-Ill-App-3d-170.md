@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-398"
+decided: "1979-11-28"
+citations: ["79 Ill. App. 3d 170"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ACHIM ZELLER, Plaintiff-Appellant, v. FIRST NATIONAL BANK AND TRUST COMPANY OF EVANSTON, Trustee, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/79/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5609557
+cites_cases: ["10 Ill. App. 3d 13", "108 Ill. App. 2d 443", "128 Ill. App. 2d 410", "14 Ill. App. 2d 443", "144 N.E.2d 816", "199 N.E.2d 613", "248 N.E.2d 131", "262 N.E.2d 758", "293 N.E.2d 638", "342 Ill. App. 258", "49 Ill. App. 2d 312", "96 N.E.2d 372"]
+---
+
+# Zeller v. First National Bank & Trust Co.
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court:
+Plaintiff filed a complaint in two counts alleging a contract to sell real estate to him. Count I sought specific performance of the contract, while count II sought damages from the attorneys who represented the seller. The trial court entered summary judgment against plaintiff on both counts, and he appeals.
+The property in question is held in trust. Defendant First National Bank and Trust Company of Evanston was trustee. William Jennings, who is not party to these proceedings, was beneficiary of the trust and executor of the estate containing the trust property. Austin L. Wyman, Jr., an attorney, and the law firm of Tenney & Bentley represented the estate.
+In November 1977, plaintiff and Jennings began negotiations with respect to the sale of the property. On December 23,1977, Wyman wrote plaintiff, stating that he had been instructed by his principals to offer plaintiff the building for *240,000. The letter also recited interest rates and loan fees. Following receipt of this letter, plaintiff met with his attorney, Roger Jamma, and instructed him to communicate a counteroffer to Wyman. Accordingly, on January 10,1978, Jamma sent Wyman a written counteroffer offering *230,000 and suggesting varying interest and loan arrangements.
+On the same day, Jamma telephoned Wyman, and the two men discussed the offer and counteroffer. In his discovery deposition, Jamma stated that he might have mentioned the contents of the counteroffer to Wyman. Wyman testified at his deposition that Jamma informed him that a counteroffer of *230,000 had been sent and detailed the substance of the counteroffer. Both men agree that Wyman informed Jamma that he believed the letter of December 23, 1977, was no longer effective and would not be honored since the owner was entertaining offers exceeding *240,000.
+Jamma informed plaintiff of his conversation with Wyman, and plaintiff directed Jamma to accept the original offer of *240,000. Jamma then sent Wyman a telegram purporting to accept the offer of December 23,1977. The telegram was delivered on January 10,1978, prior to receipt of the written counteroffer. Thereafter, the trustee bank refused to convey the property to plaintiff.
+On March 21, 1978, plaintiff filed his complaint. In count I, he charged that the trustee through its agent, Wyman, offered in writing to sell the property; that plaintiff accepted the offer in writing; and that the offer was not withdrawn prior to his acceptance. Plaintiff asked that the trustee be directed to convey the property to him. In count II, plaintiff stated that Wyman and the law firm were liable in damages for offering to sell property which they had no authority to convey.
+The defendant bank filed a motion for summary judgment and plaintiff filed an answer and memorandum of law in opposition. On December 15, 1978, after considering the pleadings, depositions, certain records of defendants, and arguments of counsel, the trial court found: that the Statute of Frauds barred count I of the complaint; that the alleged contract under which relief was sought in both counts was never formed because plaintiff made a counteroffer, thereby extinguishing his power to accept, and because seller’s offer was withdrawn prior to plaintiff’s acceptance; and that there was no genuine issue as to any material fact. Based upon these findings, the trial court entered summary judgment in favor of all defendants and dismissed both counts of the complaint.
+On review, we deem it necessary to consider only the finding that the contract under which relief is sought was never properly formed.
+It is elementary that for a contract to exist, there must be an offer and acceptance. (O’Keefe v. Lee Calan Imports, Inc. (1970), 128 Ill. App. 2d 410, 262 N.E.2d 758; C. Iber & Sons, Inc. v. Grimmett (1969), 108 Ill. App. 2d 443, 248 N.E.2d 131.) Moreover, to create a binding contract, an acceptance must comply strictly with the terms of the offer. An acceptance requesting modification or containing terms which vary from those offered constitutes a rejection of the original offer, and becomes a counterproposal which must be accepted by the original offeror before a valid contract is formed. Brook v. Oberlander (1964), 49 Ill. App. 2d 312, 199 N.E.2d 613; Johnson v. Whitney Metal Tool Co. (1950), 342 Ill. App. 258, 96 N.E.2d 372.
+On December 23, 1977, Wyman offered to sell plaintiff the property for *240,000. In a telephone conversation with Wyman on January 10, 1978, plaintiff’s attorney discussed the counteroffer of *230,000. This counteroffer, containing terms varying from the original offer, operated as a rejection and terminated plaintiff’s power to accept Wyman’s offer. There was no suggestion that Wyman, the offeror, assented to the price modification in plaintiff’s counteroffer so as to create a contract. Once having rejected Wyman’s offer, plaintiff could not revive the offer by later telegraphing acceptance. Johnson v. Whitney Metal Tool Co. (1950), 342 Ill. App. 258, 96 N.E.2d 372.
+Plaintiff urges, however, that the counteroffer which was disclosed in the telephone conversation had no legal significance because it was oral rather than written. We do not agree. It is clear that the language of an offer may govern the mode of acceptance required. (Nationwide Commercial Co. v. Knox (1973), 10 Ill. App. 3d 13, 293 N.E.2d 638.) Where an offer requires a written acceptance, no other mode of acceptance may be used. (Brophy v. City of Joliet (1957), 14 Ill. App. 2d 443, 144 N.E.2d 816.) Since the offer in the present case did not require acceptance or other communications regarding the sale to be in writing, verbal communication of the counteroffer was an effective rejection. Thus, contrary to plaintiff’s contention, it is not determinative that the subsequent written acceptance arrived prior to the written counteroffer. In view of plaintiff’s rejection prior to acceptance, no binding contract was created.
+We conclude that the contract under which plaintiff sought relief in both counts of his complaint was never properly formed. Therefore the trial court correctly entered summary judgment in favor of defendants.
+For the reasons stated, the judgment of the circuit court of Cook County entering summary judgment for all defendants and dismissing plaintiff’s complaint is affirmed.
+Judgment affirmed.
+SIMON, P. J., and McGILLICUDDY, J, concur.
