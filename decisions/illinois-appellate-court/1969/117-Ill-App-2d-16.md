@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 50,784"
+decided: "1969-11-19"
+citations: ["117 Ill. App. 2d 16"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. John Shaw, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/117/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1586058
+cites_cases: ["233 NE2d 73", "282 US 687", "385 F2d 200", "390 US 129", "390 US 144", "394 US 214", "396 F2d 952", "407 F2d 735", "410 F2d 468", "89 Ill App2d 285"]
+---
+
+# People v. Shaw
+
+## Majority (MR. JUSTICE ENGLISH)
+
+MR. JUSTICE ENGLISH
+delivered the opinion of the court.
+This case is now before us for reconsideration on a mandate from the United States Supreme Court. Shaw v. Illinois, 394 US 214.
+Defendant was convicted of the unlawful sale of narcotic drugs, and sentenced to life imprisonment, that sentence being mandatory under Illinois law because of a prior federal conviction for a similar offense.
+The question at issue is whether or not defendant was unduly restricted in cross-examination of an informer who had testified to a purchase of heroin from defendant. The trial judge had taken the position that, because of defendant’s acquaintance with the informer (a woman), he was sufficiently well informed to identify her with her environment, and therefore the State’s objection was sustained to inquiry as to her current places of residence and employment. We affirmed the conviction, noting that defendant himself had testified that he had known the informer and that she had been in his home earlier the same day to pick up her radio which she had left with him as security for a loan. We also took judicial notice, in effect, of the possibility that, within the context of the crime charged, more precise information of the kind sought could result in physical harm or other reprisal to the witness.
+Our opinion was filed December 5, 1967. People v. Shaw, 89 Ill App2d 285, 233 NE2d 73. A petition for leave to appeal was filed in the Illinois Supreme Court on January 30,1968, and denied on March 27,1968. Shortly thereafter, defendant filed in that court a petition for reconsideration on the basis of the decision in Smith v. Illinois, 390 US 129, which had been handed down on January 29, 1968, after our opinion had been filed and too late, as a practical matter, for inclusion in defendant’s petition for leave to appeal. This petition to reconsider was denied on May 15,1968.
+Defendant then sought certiorari. The United States Supreme Court granted the writ, vacated the judgment of this court, and remanded the case to us “for further consideration in the light of Smith v. Illinois.” Shaw v. Illinois, 394 US 214. Since then, the parties have filed suggestions and countersuggestions, and oral argument has been heard, to assist in our reconsideration.
+In Smith, which also involved a conviction for sale of narcotics, it was disclosed, on cross-examination of the informer, that he had not testified to his true name. Defense counsel then asked for his correct name and for his residence address, to which questions objections were sustained. The record did show that both the defendant and his attorney knew the informer, and that the attorney had once represented him. It was noted by the court, however, that this was not proof that they knew the informer’s correct name or where he was living at the time of the trial.
+The Supreme Court reaffirmed the general proposition, stated in Alford v. United States, 282 US 687, 693-694, that “the extent of cross-examination with respect to an appropriate subject of inquiry is within the sound discretion of the trial court. It may exercise a reasonable judgment in determining when the subject is exhausted.” And, further, that a court has the obligation to protect a witness from an attempted invasion of his constitutional protection against self-incrimination, and “from questions which go beyond the bounds of proper cross-examination merely to harass, annoy or humiliate him.”
+Smith then held, however, that the curtailment of cross-examination in that case had deprived the defendant of a constitutional right guaranteed to him under the Sixth and Fourteenth Amendments. The court recognized that the defendant had not been denied all cross-examination of the informer-witness, but indicated the relative importance it attached to the character of the unanswered questions when it said at page 131:
+[Wjhen the credibility of a witness is in issue, the very starting point in “exposing falsehood and bringing out the truth” [footnote omitted] through cross-examination must necessarily be to ask the witness who he is and where he lives. The witness' name and address open countless avenues of in-court examination and out-of-court investigation. To forbid this most rudimentary inquiry at the threshold is effectively to emasculate the right of cross-examination itself.
+We therefore interpret the Smith opinion as holding that the questions should have been answered because they did not involve self-incrimination, nor did they “harass, annoy or humiliate the witness.” Alford, supra. In our opinion, the Smith court did not intend to require reversal in all cases failing to meet these Alford tests, regardless of other factual circumstances, but only in those cases involving convictions essentially dependent upon the credibility of the witness being cross-examined. We conclude, however, that this is that kind of case, and that the opinion in Smith is controlling of our decision. Accord, United States v. Garafolo, 385 F2d 200; 390 US 144; 396 F2d 952. The judgment of the Circuit Court is therefore reversed and the cause is remanded for a new trial.
+Reversed and remanded.
+DRUCKER, P. J. and McNAMARA, J., concur.
+The informer’s testimony received strong corroboration from the police officers, one of whom testified that he had watched, through the window of defendant’s living room, the transfer of money and tinfoil package between the informer and defendant. The defendant was promptly arrested with the prerecorded money in his hand, and the tinfoil package was found to contain heroin.
+What we consider an important additional ground for protection of the witness was suggested by Justice White, with the concurrence of Justice Marshall, in the former’s concurring opinion in the Smith case. He said (390 US, at 133-134):
+In Alford v. United States, 282 US 687, 694 (1931), the Court recognized that questions which tend merely to harass, annoy, or humiliate a witness may go beyond the bounds of proper cross-examination. I would place in the same category those inquiries which tend to endanger the personal safety of the witness.
+We would favor the adoption of this principle (see United States v. Varelli, 407 F2d 735, 750; and United States v. Palermo, 410 F2d 468, 472-473, where this was done), but it would not assist the State in the instant case because of the condition set forth by Justice White (390 US, at p 134):
+But in these situations, if the question asked is one that is normally permissible, the State or the witness should at the very least come forward with some showing of why the witness must be excused from answering the question. The trial judge can then ascertain the interest of the defendant in the answer and exercise an informed discretion in making his ruling. Here the State gave no reasons justifying the refusal to answer a quite usual and proper question.
+In this record there is no evidence of danger to the witness, and in the ordinary case it might well be impossible for the State to prove, since the threat of reprisal may only be inherent in the situation, rather than susceptible to proof.
