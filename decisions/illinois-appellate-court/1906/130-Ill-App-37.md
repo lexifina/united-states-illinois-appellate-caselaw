@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1906-11-27"
+citations: ["130 Ill. App. 37"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Bradshaw v. The Edgar County National Bank of Paris, Illinois."]
+source_url: "https://static.case.law/ill-app/130/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2528231
+---
+
+# Bradshaw v. Edgar County National Bank of Paris
+
+## Majority (Mr. Presiding Justice Ramsay)
+
+Mr. Presiding Justice Ramsay
+delivered the opinion of the court.
+William H. Bradshaw brought suit in the Circuit Court of Edgar county against the Edgar County National Bank of Paris to recover damages claimed to have resulted from the alleged negligence of the bank. The bank filed a demurrer to the declaration which was sustained by the court. Bradshaw stood by his declaration and appealed.
+The declaration sets up in substance that appellee had been doing a banking business in Paris, Illinois, in a building then owned by it, occupying the entire first floor of its building which ran from Wood street, on which it fronted, to an alley in the rear; that appellant occupied a building adjacent to that of the appellee, divided therefrom by a partition wall, made of brick, in which adjacent building appellant was conducting the business of a jeweler having in his possession a large amount of jewelry, glassware, etc.; that appellee had ceased to do business in its said building but still retained possession and control of the room and had therein a large amount of money and other valuable drafts, papers, etc.; that for twenty days prior to the eighth day of June, 1905, appellee kept said money, etc., in their said building with both its front and alley entrances open and exposed both by day and night; that all of said moneys, drafts, papers, etc., were then and there kept in strong iron safes and in a strong vault; that the public generally knew of these facts; that appellee knew, or should have known that by so leaving said money, etc., in said safes and vault, with the entrances to said building not securely closed, and without any guard or person in charge thereof to protect and secure the same from assault and from being blown up by the use of dynamite, that the same was likely to be destroyed and that persons were likely to go therein and discharge large quantities of dynamite, etc., for the purpose of securing said money and valuable articles, etc; that appellee then knew that appellant had a large stock of valuable goods in his store-room, and that it was likely some person would dynamite the vault of appellee to secure the money, etc., of the bank, and that the same would destroy such partition wall and damage appellant; that appellee negligently left its building exposed as aforesaid and no person to guard the same; that on the eighth day of June, 1905, a person unknown entered the building of appellee and then and there discharged a large amount of dynamite in an attempt to break open the vault and safes of appellee, and that such explosion destroyed a large portion of such partition wall, which fell in and upon the articles of merchandise of appellant of great value, whereby he was injured and damaged, etc.
+The substance of the negligence charged against appellee is that it left its own doors unlocked and unguarded and thereby exposed its own treasures to the depredations of a criminal.
+Where an act is complained of as being not wrong in itself, but one likely to become a wrong to a particular individual through injurious consequences resulting from such act, it is essential to a recovery that such consequences appear to have resulted therefrom according to the ordinary course of events. Cooley on Torts, 2nd ed., p. 75.
+How can it be said that the loss to the appellant was one likely to occur in the ordinary course of events, or one that appellee should reasonably have anticipated? It would be stating a very harsh rule to say that after appellee had put its valuables in safes which in turn were placed in a vault,- that it was guilty of such negligence in not locking the outside doors of its building that appellant could recover, because a criminal entered through the unbarred doors and committed a crime resulting in damage to appellant.
+If under such circumstances, leaving an outside door unlocked is negligence, and locking it is due care, who is to say what lock or bar shall be sufficient to relieve a party from liability in case of a burglarious entry? Would not some criminals open locks that others would fail to turn? What locks do criminals leave untried and what ones do they fail to break? Who is to establish the line between locks burglar-proof and those not burglar-proof, so that a party may know just when he can be called negligent in not locking his own door ?
+Can it be claimed, as a matter of law, that appellee’s treasure would have been safe with the outside door locked in the present case? Is the lock on the outside door the only one that burglars do not break or pick? Common knowledge teaches us that they defy all locks, whether on doors, windows, vaults or safes. Appellant cannot say and does not aver in his declaration that if the outside doors of appellee’s building had been locked, the same burglary would not have taken place and the same damage, resulted.
+No one is legally bound to transact a legitimate business in anticipation that a felony will be committed. Appellee is not liable in this case under the declaration, and the judgment of the lower court is affirmed.
+Affirmed.
