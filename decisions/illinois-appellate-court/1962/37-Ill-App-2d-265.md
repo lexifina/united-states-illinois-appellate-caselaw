@@ -2,7 +2,7 @@
 court: "Illinois Appellate Court"
 docket: "Gen. No. 11,481"
 decided: "1962-03-27"
-citations: ["37 Ill. App. 2d 265", "34 Ill. App. 2d 269"]
+citations: ["37 Ill. App. 2d 265"]
 reporter: "ill-app-2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
