@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "56618"
+decided: "1973-02-16"
+citations: ["10 Ill. App. 3d 153"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Gerald Stallcup, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/10/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5399213
+cites_cases: ["116 Ill.App.2d 241", "117 Ill.App.2d 436", "118 N.E.2d 1", "129 Ill. 521", "162 N.E.2d 381", "17 Ill.2d 502", "2 Ill.2d 311", "202 N.E.2d 506", "21 N.E. 821", "253 N.E.2d 546", "253 N.E.2d 575", "31 Ill.2d 462"]
+---
+
+# People v. Stallcup
+
+## Majority (Mr. JUSTICE LORENZ)
+
+Mr. JUSTICE LORENZ
+delivered the opinion of the court:
+Upon a complaint signed by the victim’s mother, defendant Gerald Stallcup was charged with the theft of $5.00 from Thomas Delaney, a mute. At the close of the State’s case in a bench trial, defendant moved for a finding in his favor which was denied, and the defense rested without presenting evidence. The court found defendant guilty and sentenced him to a term of one year at the Vandalia State Farm.
+On appeal defendant contends: (1) that the complaint was defective because it failed to allege the requisite mental state by omitting the word “knowingly,” (2) that the court erred by not determining the competence of a thirteen year old witness before permitting him to testify, (3) that the evidence failed to show that defendant exercised unauthorized control over the victim’s property, and (4) that the court erred by relying on a subsequent offense not charged in the complaint.
+The complaint contained the following allegation:
+“that Gerald Stallcup has, on or about 8 Sept. 1971 at 2448 N. Lincoln Ave. Cook County, Illinois committed the offense of THEFT in that he did obtain unauthorized control ovér property, to-wit: $5.00 U.S.C. of value less than $150.00, the property of, Thomas Delaney, with the intent to deprive said Thomas Delaney permanently of the use and benefit of said property in violation of Chapter 38 Section 16 — l(a)(l) ILLINOIS REVISED SÍATUTE AND AGAINST THE PEACE AND DIGNITY OF THE PEOPLE OF THE STATE OF ILLINOIS.”
+Although the complaint omitted the word “knowingly” contained in the statute, defense counsel made no objection to the form of the complaint either before or during trial.
+Thomas Delaney, being mute, did not himself testify at trial although he may have had the ability to do so through his mother. However, three other witnesses testified for the State: Mark Scott, Officer Haisch the arresting officer, and Roseanna Delaney, the victim’s mother. Without defense objection to his competence, a thirteen-year-old boy Mark Scott testified at trial as the State’s only occurrence witness. He testified that as he was playing center field in a baseball game, a ball was hit into the street. While retrieving the ball, he saw defendant hit Thomas Delaney, take a package of Camel cigarettes from him, take out the $5.00 which was in the package, hit Delaney four more times, and then leave. The witness and some of his friends took Delaney home and then returned to their game. The witness further testified without defense objection that about twenty minutes later Delaney returned along the same course and was again accosted by defendant who turned Delaney’s pockets inside out taking some change from him. When the witness saw this second incident, he and his friends approached defendant demanding him to return the money but defendant refused.
+At the close of its evidence, the State asked the court to take judicial notice of the fact the victim was mute and that the taking was without consent. The court did take judicial notice of the fact that the victim was mute. However, regarding judicial notice of lack of consent the court stated:
+“I have evidence before me of a striking, of a hand going in the pocket, and the pulling the pocket inside out. There is no question as to whether that in itself indicates it was without consent. I would have to base my decision on all the facts before me. If the state has nothing further to offer.”
+When asked to clarify its ruling the court stated: “The other notice [of lack of consent] I may take would be based on the evidence. There is no testimony from the victim that he gave permission.”
+OPINION
+Defendant first contends that the complaint was defective because it failed to allege the requisite mental state. The statute insofar as it applies to the instant case reads as follows:
+“A person commits theft when he knowingly: (a) obtains or exerts unauthorized control over the property of the owner * * * and (1) Intends to deprive the owner permanently of the use or benefit of the property.” (Ill. Rev. Stat. 1969, ch. 38, sec. 16 — 1(a) (1).) (Emphasis added.)
+The word “knowingly” was omitted from the complaint in the instant case.
+In support of his contention, defendant cites People v. Hayn (1969), 116 Ill.App.2d 241, 253 N.E.2d 575, where the court reversed a conviction for theft by receiving stolen property because the indictment was defective. Defense counsel in that case moved to dismiss the indictment but the trial court denied his motion. The indictment there did use the word “knowingly” to describe the criminal act involved but it failed to allege the requisite mental state under subsections (1), (2), or (3) of the statute.
+In the instant case, defense counsel made no objection to the form of the complaint and the testimony of Mark Scott did indicate that the act was committed “knowingly.” Moreover, the requisite mental state of “knowingly” having done something may be considered as having been covered in this case by the allegation in the complaint that defendant had obtained unauthorized control over the property “with the intent to deprive said Thomas Delaney permanently of the use and benefit of said property.” Under these circumstances we believe that the complaint was not fatally defective.
+Defendant secondly contends that the court erred by not determining the competence of a thirteen year old witness before permitting him to testify. However, this point is raised for the first time on appeal. There having been no objection interposed to the competency of this witness at the trial, the error alleged has not been preserved for review. People v. Matthews (1959), 17 Ill.2d 502, 506, 162 N.E.2d 381, 384; People v. Mueller (1954), 2 Ill.2d 311, 315, 118 N.E.2d 1, 3.
+Defendant thirdly contends that the evidence admitted at trial failed to establish that he exercised unauthorized control over the victims property. Lack of authority to exercise control over the property of another is an element of the offense of theft. (Ill. Rev. Stat. 1969, ch. 38, sec. 16 — 1(a)(1).) The State, not defendant, has the burden to prove this element of the offense of theft, as all other elements, beyond a reasonable doubt. (Ill. Rev. Stat. 1969, ch. 38, sec. 3 — 1.) However, the victim of a crime need not testify in order to establish guilt beyond a reasonable doubt. (People v. Jolliff (1964), 31 Ill.2d 462, 463-464, 202 N.E.2d 506, 507.) In the instant case, the uncontroverted testimony of the State’s occurrence witness establishes that defendant struck the victim both before and after taking his property. We believe this testimony proves the element of lack of authority to exercise control over the victim’s property beyond a reasonable doubt, especially where, as here, the evidence indicates an inability of the victim to communicate.
+Defendant lastly contends that the court erred in relying on a subsequent offense not charged in the complaint. This testimony related to defendant’s return (after taldng the $5.00) to strike the victim again, empty his pockets and take some change. Evidence of a subsequent offense unrelated to the offense charged is generally inadmissible in a criminal case. (Farris v. People (1889), 129 Ill. 521, 531, 21 N.E. 821, 823.) However, an objection at trial is normally necessary to preserve an issue for review. (People v. Dickman (1969), 117 Ill.App.2d 436, 440, 253 N.E.2d 546, 548.) In the instant case, not only does the subsequent offense appear related to the offense charged, but no objection to such testimony was raised at trial.
+For the reasons heretofore mentioned, the decision of the trial court is affirmed.
+Affirmed.
+DRUCKER, P. J„ and ENGLISH, J., concur.
