@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1885-11-25"
+citations: ["17 Ill. App. 235"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kalkaska Manufacturing Company v. Levi H. Thomas."]
+source_url: "https://static.case.law/ill-app/17/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 867360
+cites_cases: ["104 Ill. 630", "17 Ill. 474", "2 Wend. 286", "51 Ill. 232", "57 Ill. 274", "57 Ill. 284", "62 Ill. 135", "72 Ill. 421", "75 Ill. 435", "83 Ill. 192", "85 Ill. 582", "90 Ill. 543", "97 Ill. 402"]
+---
+
+# Kalkaska Manufacturing Co. v. Thomas
+
+## Majority (McAllister, J.)
+
+McAllister, J.
+The court below permitted the plaintiff, against the objections of the defendant’s counsel, to introduce voluminous affidavits in opposition to the motion of defendant to open the default, and for permission to plead, and it is very probable that such counter affidavits controlled the action of the court in denying the motion. We are of opinion that the admission of counter affidavits, ujron a motion to open a default, is improper. In Phillips v. Blagge, 3 Johnson, 141, the plaintiff’s attorney offered counter affidavits upon the hearing of a motion to set aside an inquest; but the court said it was settled, that no counter affidavits could be read in such a case. In Hanford v. McNair, 2 Wend. 286, the same principle was recognized. In Mendell v. Kimball, 85 Ill. 582, the court said : “ The record in this cause shows that counter affidavits were read by plaintiffs on the hearing of the motion to set aside this default. This is a vicious practice. Courts can not do justice to parties in thus trying the merits upon affidavits, when the affiants áre not subject to cross-examination. Such motions should be determined ujion the ex 'parte affidavits in support of the motion, and they should be strictly scrutinized.” It does not appear that any exception to their introduction was taken in that case, and it did appear that the affidavit in support of the motions failed to show any excuse for the negligence of defendant’s attorney. In the case at bar, the affidavit in support of the motion shows a good excuse for not filing a plea or keeping closer watch of the case. (1) The announcement of the court that the rules of practice of that court required notice to the attorney of the opposite party before any proceeding could be taken. (2) The piendency of negotiations for a settlement, brought, as it was supposed, to a successful termination. The affidavit shows by facts positively stated and in detail, that the defendant had a good defense to the action upon the merits, and there is no pretense that the motion to open the default was not made in apt time, it being at the same term and only a few days after the judgment.
+We have no means of ascertaining precisely what the practice of the Superior Court is, in respect to requiring notice of assessment of damages in such case, where the defendant has entered an appearance. In Cairo, etc., R. R. Co. v. Holbrook 72 Ill. 421, the court said : “ By our practice, the defendant not having entered its appearance, was not entitled to notice of the execution of the writ of inquiry, so that if no time was fixed for its execution by order of the court, the defendant, if it would contest the amount of damages, would be under the necessity of keeping watcli and being ready whenever the plaintiff, with the consent of the court, chose to have them assessed.”
+The damages in the case at bpr were unliquidated. If no time was fixed by the court for their assessment, and notice thereof given to defendant’s attorney, then it would seem but just and reasonable, considering the number of courts in the city, and their press of business, that the plaintiff should have been required to give notice to the defendant’s attorney of the motion for the inquest of damages, because the defendant had the undoubted right to contest the matter of damages at such inquest. How, disregarding the counter affidavits, as the law requires us to do, it clearly appears from that, in support of the motion to open the default, that the seeming negligence of defendant’s attorney is explained and excused; that the defendant had a good defense on the merits to the action which is set out in detail; and, it not being pretended that there was any real laches as to making the application, we are of opinion that it should have been granted and it was error to refuse it. Dunlap v. Gregory, 14 Bradwell, 601. The judgment will therefore he reversed and the cause remanded for further proceedings not inconsistent with this opinion.
+Judgment reversed.
