@@ -1,0 +1,45 @@
+---
+court: "Illinois Appellate Court"
+docket: "57910"
+decided: "1973-11-14"
+citations: ["15 Ill. App. 3d 987"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adolph J. Moehling et al., Plaintiffs-Appellants, v. N. & J. Enterprises, Ltd. et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/15/cases/0987-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462705
+cites_cases: ["101 Ill.App.2d 440", "278 Ill.App. 70", "3 Ill. App.3d 209", "55 Ill.App.2d 406"]
+---
+
+# Moehling v. N. & J. Enterprises, Ltd.
+
+## Majority (Mr. JUSTICE DIERINGER)
+
+Mr. JUSTICE DIERINGER
+delivered the opinion of the court:
+This is an appeal from an action in chancery brought in the Circuit Court of Cook County. The plaintiffs requested a temporary injunction enjoining the use of parking facilities leased by plaintiffs to the defendants, which the court denied.
+The issue is whether the request for the temporary injunction was properly denied.
+The defendants, N. & J. Enterprises, Ltd., a corporation, and Nick Vangel and John Dimas, operate banquet hall facilities under an existing lease in premises owned by the plaintiffs, Adolph and Margaret Moehling, at 783 Lee Street, Des Plaines, Illinois. The original lease included within its terms certain parking facilities immediately adjacent to the existing building.
+The defendants’ business increased to such an extent that in the summer of 1971, negotiations began between plaintiffs and defendants to expand the facilities and construct an addition to the present structure immediately south and upon part of the parking facilities provided under the original lease. An agreement was arrived at in October of 1971, and construction contracts and a. supplemental lease covering the building addition were executed. The defendants were parties to the construction contract since they were responsible for all construction costs incurred in constructing the addition in excess of $150,000 with a maximum liability of $100,000. The construction contract provided the addition be completed by February 28, 1972, so as to allow the defendants to be ready to open by April 1, 1972. The defendants’ busiest season was the months of April, May and June, and construction was to be completed so as not to interfere with that business and to accommodate the additional bookings that were being taken for the new facility.
+The supplemental lease provided it would become effective upon completion of the building addition and thereafter defendants would pay a specified rent for the structure over a ten year period. The lease also provided it would be void in the event the addition was not constructed.
+Because of restrictions prohibiting holders of liquor licenses from operating within a specified distance of a nearby school, it was necessary for the plaintiffs to secure a resubdivision of the property and a zoning variation. Although plaintiffs tried to secure the zoning alterations they were unable to do so until January 26, 1972, and were unable to secure a building permit as late as June 26, 1972.
+On February 16, 1972, the defendants wrote a letter to plaintiffs advising them they could no longer go through with the construction agreement because it was apparent the addition could not be completed in time for their busy season.
+On May 24, 1972, the complaint was filed alleging the defendants had breached the contract and sought temporary and permanent injunctive relief correcting fire violations, compelling defendants to vacate the parking area so as to allow construction to proceed, specific performance of the surety bond to be executed in conjunction with the building contract, specific performance of the supplemental lease and damages for the alleged breach of contract. In the alternative, they prayed for a writ of restitution, eviction and restoration of the original premises and damages.
+On June 8, 1972, the plaintiffs filed a motion for a temporary injunction requiring the defendants to eliminate fire violations and restrain the defendants and their customers from using the parking area so construction could begin by July 26, 1972, when the zoning variation granted by the City of Des Plaines would expire.
+After a hearing on the motion the court granted the requested relief regarding the fire violations but denied the other injunctive relief, and specifically declined to rule on the validity of the supplemental lease. The defendants were then given seven days to answer the complaint in preparation for a trial on the merits.
+The plaintiffs contend the injunction with respect to the parking spaces should have been granted because the original lease reserved to the plaintiffs the right to build immediately to the south of the existing building and the supplemental lease incorporated this provision with regard to the proposed addition. They argue they should be permitted to build upon their own property when they have leases granting them the right to do so.
+The use of temporary injunctions is applicable only to situations where an extreme emergency existed and irreparable and serious injury would result in the absence of the injunction (Centennial Laundry Co. v. West Side Organization (1965), 55 Ill.App.2d 406; Hoffman v. City of Evanston (1968), 101 Ill.App.2d 440), and the granting of such relief is in the sound discretion of the trial court. This court will not interfere with the exercise of discretion unless the chancellor has patently violated some established rule of law or principle of equity. Cleaning and Dyeing Plant Owners Ass’n of Chicago v. Sterling Cleaners and Dyers, Inc. (1934), 278 Ill.App. 70.
+Furthermore, where complete relief may be afforded the complainant upon a final hearing, the plaintiffs are. not entitled to a temporary injunction which is mandatory in nature. (Cleaning and Dyeing Plant Owners Ass’n of Chicago v. Sterling Cleaners and Dyers, Inc. (1934), 278 Ill.App. 70.) In that case the court stated:
+“Extreme caution should be exercised in the issuance of a mandatory injunction. The Plaintiff must make out a clear case free from doubt or dispute.”
+In National Bank of Austin v. River Forest State Bank (1971), 3 Ill. App.3d 209, the court stated:
+“A mandatory injunction is not granted as a matter of right, but is a form of relief, extraordinary in nature, to be granted only in rare cases of great necessity or extreme urgency when sound judicial discretion requires the court to act. [Citation.]
+The requirements are even more stringent for the issuance of a mandatory temporary injunction prior to final hearing, and is permissible only if the right of one party is clearly established and the infringement of that right by another is causing serious injury. [Citations.] This is particularly true if * * * complete relief may be afforded after final hearing.”
+In the instant case the plaintiffs have failed to satisfy the requirements for the relief requested. With regard to the issue of parking spaces by the defendants, there has been no showing that the case is “free from doubt or dispute.” The court found there was no evidence at all with respect to that issue, and there is a conflict over whether the original lease grants the plaintiffs the right to build on the parking spaces immediately south of the existing building. The defendants contend they have a right to the use of a 20-foot strip immediately south of the building and any right to build under the original lease contemplates a structure totally separate and apart from it. The lease provides in pertinent part:
+“If Lessors decide to construct improvements over the property immediately south of the building, Lessors may at their option notify Lessees to remove at Lessees’ cost any canopy by the south wall of the demised building. Upon said notification by Lessees and removal of said canopy, Lessees may have the non-exclusive use of a walking and driving area twenty (20) feet wide immediately south of and adjoining the demised building in addition to the said minimum number of parking stalls as heretofore required.”
+In addition, the plaintiffs have not shown “great necessity” or “extreme urgency.” Indeed, they waited from February 16, 1972, when the defendants notified them of their intentions not to go through with the project, until May 24, 1972, to file a complaint. The plaintiffs initially argued it was necessary for them to begin construction by July 26, 1972, when the zoning variance expired. However, they do not allege that such a variation would not be available upon reapplication and at this point the variation has already lapsed, therefore there is no reason to grant this extraordinary remedy prior to a hearing on the merits.
+We hold the chancellor did not abuse his discretion and properly denied the prayer for injunctive relief regarding the parking facilities pending a trial on the merits.
+The judgment of the Circuit Court of Cook County is affirmed.
+Affirmed.
+BURMAN, P. J., and ADESKO, J., concur.
