@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+docket: "11444"
+decided: "1972-07-18"
+citations: ["6 Ill. App. 3d 620"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. David Claypool, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/6/cases/0620-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466098
+---
+
+# People v. Claypool
+
+## Majority (Mr. JUSTICE SMITH)
+
+Mr. JUSTICE SMITH
+delivered the opinion of the court:
+Defendant was convicted of robbery in a jury trial. For reversal, he says he was not proved guilty beyond a reasonable doubt and, if not, he is entitled in any event to a new trial because the State used false testimony against him.
+Ordinarily, we synopsize the evidence where the point is raised that outright reversal is required because guilt beyond a reasonable doubt was not proven as a matter of law. However, here, the point narrows down as to whether the eyewitnesses were credible — as a matter of law. One witness’ identification was positive. The robbery had occurred in daytime without disguise. This witness further had identified the defendant at a line-up. Another witness identified the defendant as the person who entered the premises in question — Kentucky Fried Chicken — with a gun and returned to his car which, significantly, had no license plates. Another witness saw defendant leaving and followed him in his car, though he lost it and discovered it in a parking lot at a tavern. When arrested at the tavern, he told the arresting officer that he had been there for thirty minutes, but there was testimony that his stay had been but five.
+The argument is made that the identifications are incredible because of discrepancies in description between the witnesses themselves and what they told the police after defendant’s apprehension and how he actually appeared. One witness, we are told, should not be believed, because she confused one lawyer with another. While embarrassing to the egos of those involved, it is hardly a reason for characterizing a person as unworthy of belief — as a matter of law. One witness said he was clean-shaven, another that he had a stubble. There was disagreement as to clothing, but all this is argument for the triers of the fact, not for a reviewing court. The only time we can reverse a finding of fact is when we can say that the findings are based on insufficient evidence or no evidence. Because the jury chose to believe the witnesses, even though they could have disbelieved them, is not in and of itself ground for reversal — i.e., it presents no question of law. They were there to try the facts, this they did, and this they had a right to do.
+One of the witnesses for the State was at the cash register at the time the robber entered. Apparently, his eyes were riveted on what appeared to be a gun under the coat, and while he was able to describe certain aspects of apparel, he was unable to identify the defendant at the trial. On cross-examination, it was brought out that at the line-up he had selected someone other than the defendant. How his testimony can be characterized as false or perjured is not apparent. A witness who testifies that he made no observation of a person except as to apparel and therefore was unable to identify anyone but goes ahead and picks the wrong person in a line-up with the defendant there, is hardly a liar. Presumably he was called only to corroborate testimony as to the type of coat and hat the robber was wearing. The fact that he saw the robber, but was unable to identify him, is an argument that maybe his observation as to apparel might be mistaken, but that is about all. His selection of the wrong person, is also an argument that maybe in the situation he was in at the time, his powers of observation were somewhat lacldng — to say the least. But this doesn’t mean that his testimony was false. Quite simply, what we have is the not very unusual situation of a person caught in an intensely dramatic episode, in the unwiHing spot of being on the spot, and his powers of observation fail or rather his remembrance of what he observed, fails. Ordinarily, in a case where identification is of supreme moment, one presenting a witness who should be able to identify but cannot, and indeed, has picked the wrong person from a line-up at which the person on trial was present, would attempt to bring such out on direct to lessen the dramatic impact of mistaken identity. However, it is probably not technically proper to do so, i.e., one offering a witness cannot, over objection, have him testify as to matters which detract from his credibility. Here the prosecution obviously knew of the mistake, and left it to be brought out on cross-examination, where it properly was. Whatever the jury may have thought of his testimony, with regard to its weight, they at least had the complete picture. Finding proof sufficient to justify triers of the fact in returning a verdict of guilty and not detecting any error, the judgment appealed from is affirmed.
+Judgment affirmed.
+TRAPP, P. J., and SIMKINS, J., concur.
