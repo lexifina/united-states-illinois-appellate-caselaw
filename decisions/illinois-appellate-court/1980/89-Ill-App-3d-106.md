@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+docket: "16213"
+decided: "1980-10-03"
+citations: ["89 Ill. App. 3d 106"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES D. HENRY et al., Plaintiffs-Appellants, v. BLOOMINGTON THIRD WARD COMMUNITY CLUB et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/89/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5541698
+cites_cases: ["20 Ill. App. 3d 695", "229 N.E.2d 504", "313 N.E.2d 689", "33 Ill. App. 3d 916", "339 N.E.2d 43", "360 N.E.2d 108", "37 Ill. 2d 494", "372 N.E.2d 637", "45 Ill. App. 3d 809", "69 Ill. 2d 534"]
+---
+
+# Henry v. Bloomington Third Ward Community Club
+
+## Majority (Mr. PRESIDING JUSTICE MILLS)
+
+Mr. PRESIDING JUSTICE MILLS
+delivered the opinion of the court:
+Dramshop action.
+The issue is intoxication.
+Was it a jury question?
+Yes — we reverse.
+The Henry family filed suit under the Dramshop Act against the Bloomington Third Ward Community Club and other defendants for personal injuries sustained by Charles Henry when Moses Pickett, the allegedly intoxicated person, shot Henry in the hip and then struck him in the head with the barrel of his gun. This appeal is from a judgment entered at the close of plaintiffs’ case directing a verdict in favor of the defendants.
+The only issue raised on appeal is whether the trial court erred in directing a verdict for the defendants at the close of plaintiffs’ case. Pedrick v. Peoria & Eastern R.R. Co. (1967), 37 Ill. 2d 494, 229 N.E.2d 504, sets forth the applicable standard, namely, that it is appropriate to direct a verdict in defendants’ favor if all of the evidence when viewed in its aspect most favorable to the plaintiffs so overwhelmingly favors defendants that no contrary verdict based on that evidence could ever stand. With that standard in mind, we briefly review the evidence.
+Between 2 and 4 p.m. on August 17, 1975, plaintiff Charles Henry entered the Bloomington Third Ward Community Club with his brother-in-law, and the two men purchased some alcoholic liquor. Charles’ brothers, Lloyd and Curvin, entered the bar shortly thereafter. Between 4:30 and 5 p.m., Elmer Thomas and Moses Pickett arrived at the tavern. Pickett and Thomas each ordered one mixed drink at the bar, each drink containing one ounce of alcoholic liquor. Plaintiff testified that he thought that both men had been drinking when they entered the bar and that both were intoxicated. At that time plaintiff knew Thomas but did not know Pickett. Plaintiff based his opinion regarding their intoxication on the manner in which the two men walked into the bar and leaned on the bar counter. The sole bartender of the dramshop on the date and time in question testified that in his opinion neither Thomas nor Pickett appeared intoxicated when they entered the bar and ordered their drinks. The bartender testified that he served Pickett and Thomas only one drink each on that date.
+According to plaintiff, both men drank some of their drinks while walking to a table, and by the time they reached the table Thomas had finished his drink but Pickett was still drinking out of his glass. Thomas left the table three to four seconds later without his glass, but with a bottle of beer in his hand. Plaintiff did not see Thomas purchase the beer which he was holding. Thomas walked to the back door and into a back room of the bar out of plaintiff’s sight. Thomas remained in the back room five minutes at most and came out of the room with something in his hand which plaintiff soon realized was a gun.
+Thomas then approached plaintiff’s brother Lloyd and slapped the side of Lloyd’s head with the gun; the gun discharged up toward the ceiling. Lloyd fell to the floor; plaintiff then grabbed the hand in which Thomas was holding the gun and pushed Thomas up against the wall. Plaintiff tried to get Thomas to drop the gun. At that point, Pickett had a pistol in his hand. Pickett fired once at plaintiff and missed, then fired a second shot which hit plaintiff in the hip. Pickett then walked up to plaintiff, hit him with the barrel of the pistol, and plaintiff blacked out.
+Plaintiff stated that three shots were fired in total, and that the two men, Pickett and Thomas, were in the bar a total of 15 to 20 minutes. The bartender testified that two shots in total were fired and that Pickett and Thomas were in the dramshop for approximately 15 minutes in total.
+(Evidence was also presented by plaintiff on the nature and extent of the injuries he received as a result of this occurrence.)
+The trial court directed a verdict for defendants, finding that sufficient evidence had been presented on the issue of Thomas’ and Pickett’s intoxication to entitle plaintiff to a jury determination, but further found that the absence of evidence that the particular dramshop caused the intoxication made a directed verdict appropriate. Thus, the question we must decide, is whether the evidence of causation, when viewed in a light most favorable to the plaintiffs, is sufficient to present a jury question.
+Article VI, section 14, of the Dramshop Act, states in pertinent part:
+“Every person who is injured in person or property by an intoxicated person, has a right of action ” ” severally or jointly, against any person who by selling or giving alcoholic liquor, causes the intoxication of such person.” Ill. Rev. Stat. 1979, ch. 43, par. 135.
+The foregoing statute in its present form is a result of a 1971 amendment which removed the reference in the statute to causing intoxication “in whole or in part.” See Ill. Rev. Stat. 1969, ch. 43, par. 135.
+Two appellate court cases have squarely dealt with the meaning of the 1971 amendment to section 14. (Thompson v. Tranberg (1977), 45 Ill. App. 3d 809, 360 N.E.2d 108; Caruso v. Kazense (1974), 20 Ill. App. 3d 695, 313 N.E.2d 689.) In Thompson the court stated:
+“We have concluded that the legislative intention in the use of the word ‘causes’ in the Dramshop Act is best effectuated by a focus on whether the defendant’s conduct was a material and substantial factor in producing or contributing to produce the intoxication. * * * It seems fair to conclude that the intent of the legislature with respect to the 1971 amendment was to eliminate the possibility that dramshop liability could be founded on any consumption of alcohol no matter how slight but to impose liability only when intoxication could be said as a matter of fact to have been caused by a dramshop.” 45 Ill. App. 3d 809, 812, 360 N.E.2d 108, Ill.
+In both Thompson and Caruso the trial court decisions denying directed verdicts to plaintiff and defendant, respectively, were affirmed on appeal, the court finding that in both cases jury questions existed.
+These two cases were cited with approval by the supreme court for their holding that serving a negligible amount of alcoholic liquor does not constitute causing intoxication within the meaning of the statute. Nelson v. Araiza (1978), 69 Ill. 2d 534, 540-41, 372 N.E.2d 637, 639-40.
+In the instant case it is clear that defendant dramshop served only one drink of alcoholic liquor to the allegedly intoxicated persons. Defendants argue that the trial court was correct in directing a verdict in their favor because the service of one ounce of alcoholic liquor clearly constitutes the service of a negligible amount of liquor, and therefore, as a matter of law, defendants cannot be held to have caused the intoxication of Pickett and Thomas.
+As noted by the supreme court in Nelson, the Dramshop Act is to be liberally construed to protect the health, safety, and welfare of the people from the dangers of traffic in liquor. 111. Rev. Stat. 1979, ch. 43, par. 94.
+Under that guiding light we believe that what constitutes serving of a material and substantial amount of alcoholic liquor must be viewed relative to the person’s level of intoxication prior to that service. A dramshop which serves a negligible amount of liquor to a sober person would clearly not have “caused” that person’s intoxication, and a directed verdict in its favor would be proper. But whether a dramshop is liable under section 14 for serving a relatively small amount of liquor to a person who is allegedly already intoxicated presents a jury question, as the jury might properly decide that defendant’s conduct was a material and substantial factor in producing, contributing to produce, or exacerbating that person’s intoxication.
+We believe the instant case falls into this latter category. Although the evidence of Pickett’s intoxication was based solely upon plaintiff’s personal opinion, the trial court properly determined that the evidence was sufficient to present a jury question on the issue of intoxication. (Weeks v. Witek (1975), 33 Ill. App. 3d 916, 339 N.E.2d 43.) If Pickett was intoxicated when he was served a drink of alcoholic liquor by defendant dramshop, a jury question is present as to whether that drink was a material and substantial factor in exacerbating his state of intoxication. Accordingly, we believe the trial court erred in directing a verdict in favor of defendants.
+Reversed and remanded.
+CRAVEN and WEBBER, JJ., concur.
