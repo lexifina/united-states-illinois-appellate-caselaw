@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-200"
+decided: "1972-08-02"
+citations: ["6 Ill. App. 3d 770"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Florine Swearingen, Plaintiff-Appellee, v. John Le Conte, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/6/cases/0770-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2469413
+cites_cases: ["115 S.W.2d 1056", "177 N.E.2d 254", "273 Ky. 230", "32 Ill.App.2d 163", "381 Ill. 300", "45 N.E.2d 665"]
+---
+
+# Swearingen v. Conte
+
+## Majority (Mr. JUSTICE SCOTT)
+
+Mr. JUSTICE SCOTT
+delivered the opinion of the court:
+The defendant, John LeConte, owned certain real estate in East Peoria, Illinois, which was improved with an apartment building. This building had been constructed in either the year 1931 or 1932 and for approximately 20 years Hubert Sonny Blanche had leased from the defendant a second story two-room apartment in the premises. The plaintiff, Florine Swearingen, had lived with the tenant Blanche from time to time throughout this 20 year period.
+On May 10, 1966, the plaintiff was either sitting or lying on the bed in Blanche’s apartment watching television while Blanche was asleep on the couch. At approximately 8:00 o’clock P.M. on this date the plaintiff saw flares and then flames burst forth from an electrical outlet or switch located in the kitchen near the refrigerator. The plaintiff either from excessive drinking of alcoholic beverages or panic or a combination of the two “froze on the bed” and it was necessary for Blanche to forcibly drag and push her from the burning apartment. In rescuing the plaintiff Blanche either threw or let plaintiff fall down a stairway leading from the apartment to the ground level.
+The plaintiff suffered from first or third degree burns on her back, chest and face and she also received a laceration of her right leg.
+The record discloses that there is ample evidence to support a finding that there had been a long history of electrical problems in the defendant’s apartment building. The defendant for a period of 20 years had called upon Jimmy Lierle, a railroad engineer and part time handyman, to do his electrical work. The tenant Blanche testified that light bulbs burned out frequently and that no longer than two weeks prior to the fire he complained to the defendant of sparks flying from a switch located near the ice box. Blanche paid a rent of $35.00 a month to the defendant and.the defendant landlord assumed the payment of all utility bills. There is testimony that the tenant Blanche had done some work for the defendant but that this work was confined to painting and the record is barren of any evidence whatsoever that he performed any electrical work on the premises with the exception of placing pennies in the fuse box, which he stated was necessary if he was to have electricity and he further stated that the defendant was well aware of this practice and that it was necessary for him to follow this practice if he was to have electric power in his apartment.
+The plaintiff filed suit against the defendant charging him with negligence in Count I of her complaint and wilful and wanton misconduct in Count II of said complaint in that he failed to maintain, repair or improve the leased premises. After trial by jury in the circuit court of Tazewell County a general verdict was returned for the plaintiff and against the defendant and judgment was entered thereon.
+A further recital of the facts, evidence and procedure will be set forth as they become pertinent to the issues raised by this appeal.
+The defendant claims error in that as landlord he did not owe any duty to the plaintiff as to the maintenance, repair or improvement of the premises since she was upon the same as a licensee through the invitation of landlord’s tenant; and that further error was committed in that the trial court refused to grant defendant’s motion for directed verdict and permitted the jury to return a general verdict when the evidence failed to support a charge that the defendant’s conduct was wilful and wanton.
+While there is conflicting evidence in the record, we are of the opinion that the evidence favorable to the plaintiff supports a verdict that the defendant was guilty of both negligence and wilful and wanton misconduct in permitting the wiling system in his building to remain in a dangerous condition.
+From the record it is indisputable that the defendant knew the wiring system was inadequate since lights were burning out, sparks were flying, and there was a continuous difficulty with “fuses blowing” because of overloaded circuits. The defendant employed a “handyman”, not a qualified electrician, to do his electrical work for a period in excess of 20 years. The “handyman” installed an extension of electrical wiring in the presence of the defendant which in the opinion of an expert witness may well have caused the fire. An investigation conducted by the fire chief of the city of Peoria resulted in the discovery of unorthodox wiring throughout the kitchen area where the fire originated and deep burns into the woodwork which indicated that the fire had been electrical in its origin. The electrical installation made by the “handyman” was in violation of ordinances of the city of East Peoria and there is ample evidence in the record to support a finding that the defendant landlord knew he needed a permit or subsequent inspection of such work by proper city authorities. Without making an undue recital of the testimony adduced during the course of the trial, we can only conclude that the defendant had knowledge of a potentially dangerous situation, yet he displayed an almost utter indifference or conscious disregard in seeing to it that this dangerous procedure was eliminated. We are cognizant of the fact that the tenant Blanche on occasions inserted pennies behind the fuses in the fuse box, but this dangerous practice was well known to the defendant. The danger of electrical energy is a matter of common knowledge to all persons of ordinary intelligence and experience. Withey v. Illinois Power Company, 32 Ill.App.2d 163, 177 N.E.2d 254. See also Merlo v. Public Service Co. of Northern Illinois, 381 Ill. 300, 45 N.E.2d 665; Elcomb Coal Co. v. Grays Administratrix, 273 Ky. 230, 115 S.W.2d 1056.
+We find no error in the trial court’s denial of the defendant’s motion for a directed verdict and further are of the opinion that the jury had ample evidence before it to find the defendant guilty of wilful and wanton misconduct.
+On appeal the defendant attempts to classify the plaintiff as a licensee rather than as an invitee, but having determined there was sufficient evidence to support a finding of wilful and wanton misconduct, this distinction as to classification becomes meaningless.
+For the reasons set forth the judgment of the circuit court of Tazewell County is hereby affirmed.
+Judgment affirmed.
+STOUDER, P. J., and DIXON, J., concur.
