@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+decided: "1896-11-05"
+citations: ["67 Ill. App. 53"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Milo G. Kellogg v. Western Electric Co. et al."]
+source_url: "https://static.case.law/ill-app/67/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5195634
+cites_cases: ["36 Ill. 396", "83 Ill. 171", "91 U. S. 587"]
+---
+
+# Kellogg v. Western Electric Co.
+
+## Majority (Mr. Justice Waterman)
+
+Mr. Justice Waterman
+delivered the opinion oe'the Court.
+The bill filed by appellant is based upon the idea that appellees took title to the patent mentioned, under an implied trust to hold the same and account to appellant for profits derived therefrom. There is nothing that amounts to a charge of an express or agreed trust. The allegation that the complainant assigned the patent, fully understanding and believing that he would be adequately compensated for the same, and that the company knew this and accepted said transfer with that understanding, is, in the absence of any setting forth of what the actual written assignment was, or any statement that there was anything more than a mere mental understanding, not a charge of an express trust.
+Was there an implied trust ? The bill sets forth that the attorney of the company “ prepared an assignment of applications to the Western Electric Manufacturing Company, which your orator signed and gave back to said Barton, expecting to receive reasonable compensation for said patents from said company, and executing and delivering the same, relying upon that understanding, that he was to receive reasonable compensation from the company, that had been induced from the fact that the executive officers and representatives of the majority of the stock of said company had determined upon the policy of obtaining control of all telephone patents within their ability or power, in order that they might build up a large and successful business for said company, and to that end had, theretofore, instructed your orator as superintendent to pursue that policy and purchase all such patents which in the opinion of the managing officers of said company would probably prove advantageous to that end.
+Your orator, therefore, when said attorney asked him to assign said pending applications, did so,fully understanding and believing that he would be adequately compensated for the same; all of which said company and its managing officers well knew and accepted said transfer with that understanding.”
+It thus appears that complainant’s understanding that he would be adequately compensated for assigning his applications for patents, was based upon his knowledge of the policy, determined upon by the company, to obtain control of telephone patents, and its instructions to him to purchase such patents, and not upon any holding out or promise made to him.
+The bill also sets forth a reason operating upon his mind inducing the-assignment, and explaining the manner in which he expected to derive benefit therefrom, in the following allegation :
+“Your orator further shows to the court that he was at this same period a large stockholder in said company, and believing that the use of said patents by said company would be advantageous to said .companv and to him, both as a stockholder and owner, did not press the sale thereof while such diverse views existed respecting its value, but allowed said assignment to stand, with such legal or equitable rights to the company and to himself as might result therefrom; all of which the officers and agents of said company well knew, and by their conduct, at least, assented thereto.”
+There is in the bill no charge that there was an agreement or understanding that the company should account to him for use or profits; the charge is that the company knew that complainant understood “that he would be adequately compensated for the same ” (that is, for the assignment of an application for a patent), as the bill charges, of “ then uncertain value.” The charge is not that the complainant understood that the company would hold the patent in trust or account to him for profits. If any cause of action is shown by the bill, it is in assumpsit for the value of the assigned application at the time of the assignment.
+Waiving other consideration, we are of the opinion that the complainant has been guilty of such laches as warrants a refusal by a court of equity to entertain his claim. The assignment appears to have been made in April, 1881; soon afterward complainant attempted to come to an agreement with the company for a reasonable compensation on account of the assignment, and failed.
+October 23, 1891, he first asked the company to account for profits. December 15, 1891, it refused; and February 20, 1894, he filed his bill.
+An absolute assignment in 1881, of an application of uncertain value, which, it is charged, has since come to be of great value, is asserted, in 1894, to have been the creation of a trust to pay the expenses of obtaining, holding, managing and to account for profits of an expected patent.
+“ The statute of limitations is not necessarily controlling as to the time within which relief is to be sought in the case of a constructive trust by reason of fraud. A demand may be stale and not entitled to relief under the circumstances of the case, although much less than the time allowed by the statute of limitations has elapsed; and so a party may be entitled to relief, although much more than the statute limit has gone by. * * * If a party has knowledge of the fraud, a want of evidence will not excuse his delay, nor will poverty and an inability to prosecute the action. If there has been great delay, the courts will require very clear evidence to impeach a transaction as fraudulent, and to convert the fraudulent party into a trustee.” 1 Perry on Trusts, 3d Ed., Sec. 230; Pratt v. California Mining Co., 24 F. Repts. 869; Twin Lick Oil Co. v. Marbury, 91 U. S. 587; 12 A. & E. Ency. of Law, 546.
+In Castner v. Walrod, 83 Ill. 171, the court said:
+“ A court of equity will, however, often treat a lapse of a less period than that provided in actions of law as a presumptive bar, on the ground of discouraging stale claims or gross laches, or unexplained acquiescence in the assertion of an adverse right. 2 Story, Eq. Jur., Sec. 1520. * * * If fraud had been established, that can not be held a sufficient excuse for the laches of the complainants.” * * *
+. The case of Cox v. Montgomery, 36 Ill. 396, was a bill in equity to avoid a contract for the exchange of lands on the ground of fraud. The proof established the existence of fraud, but in deciding the question in regard to time in which a bill was filed, it was said: “ This species of remedy
+must be invoked with reasonable diligence. In a country where the value of real estate changed as rapidly as in Illinois, it would be clearly unwise to permit a purchaser of land to retain it for nearly eighteen months after the discovery of the fraud before filing his bill to rescind. This is an unreasonable delay which a court of chancery can not . tolerate.”
+The decree of the Superior Court is affirmed.
