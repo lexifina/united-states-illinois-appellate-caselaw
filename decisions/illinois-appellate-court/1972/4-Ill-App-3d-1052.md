@@ -1,0 +1,62 @@
+---
+court: "Illinois Appellate Court"
+docket: "55817"
+decided: "1972-04-14"
+citations: ["4 Ill. App. 3d 1052"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Isabel Orozco, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/4/cases/1052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2920203
+cites_cases: ["120 Ill.App.2d 71", "161 N.E.2d 325", "17 Ill.2d 287", "177 N.E.2d 168", "22 Ill.2d 582", "236 N.E.2d 731", "256 N.E.2d 67", "94 Ill.App.2d 330"]
+---
+
+# People v. Orozco
+
+## Majority (Mr. JUSTICE ENGLISH)
+
+Mr. JUSTICE ENGLISH
+delivered the opinion of the court:
+OFFENSE CHARGED
+Murder. Ill. Rev. Stat. 1969, ch. 38, par. 9 — 1.
+JUDGMENT
+After a bench trial, defendant was found guilty as charged in the indictment, and sentenced to a term of 15' to 35 years in the Illinois State Penitentiary.
+CONTENTION RAISED ON APPEAL
+Defendant was not proved guilty beyond a reasonable doubt because the identification of defendant was doubtful and uncertain and because defendant’s alibi was positive and unimpeached.
+EVIDENCE
+Paul Rodriguez, for the State:
+He attended a New Year’s Eve party at the home of his sister at 17th and Wood Streets in Chicago on December 31, 1969. He and other members of Ms family began to leave at approximately 12:15 A.M. As he and Ms wife got into his car, parked at the corner, he saw defendant, whom he identified in court, and another man near his car. The witness’ brother Roberto had followed Mm out of the house and got into Ms own car parked 15 or 25 feet away. Roberto’s wife and eight children also got in the car. He saw defendant and the other man go over to Roberto’s car and try to get inside, so he went over to Ms brother’s car to see what was happening. By then, there were about Mne Mexicans standing around the car. He talked to them, could tell that they had been drinking, and he thought they were “looking for trouble.” His brother Carlos was there too. He told the group that he and his brother didn’t want any trouble, and then saw defendant shoot his brother in the head with a pistol which he saw in defendant’s hand. After firing another shot at the deceased, he also shot at Carlos two or tMee times and hit him in the hand. Defendant then fled. The witness was about ten feet away at the time of the shooting and the street lights were on, and the deceased was standing up. He identified the defendant in court as the person who fired the shot. He stated that at the time of the shooting, defendant was wearing a yellow sMrt with a sweater over it and black pants. He saw defendant about ten or fifteen minutes later in a crowd which had gathered at the scene, caught him, and turned him over to the police. He was wearing the same clothes at the time of his arrest. He did not know if defendant wore a beard at the time of the shooting. He did not know what a goatee was.
+Carmen Rodriguez, for the State:
+She testified that she had been at a New Year’s Eve party and left with her brother-in-law, Roberto, at about 12:15 A.M. She had just entered Ms car when defendant attempted to force Ms way into the car. She then saw defendant argue with Roberto and heard a shot. She positively identified defendant at trial as the man arguing with deceased just before the shooting. She said that at the time of the argument, defendant was wearing a goatee but that when she saw Mm later at the time of Ms arrest, he did not have one.
+Mildred Rodriguez, for the State:
+She left the New Year’s Eve party with her husband, Raul, and got into their car across the street from Roberto’s car. She saw defendant side view from across the street — about 15 feet away — arguing with Roberto. Defendant was wearing a yellow shirt. She saw defendant shoot Roberto from the front, pointing the gun directly at him. He fell over in the street. Roberto had no weapon of any kind. Defendant wore a goatee at the time of the shooting but did not have one when arrested a few minutes later; nevertheless, she was able to identify him by his face and yellow shirt.
+Carlos Rodriguez, for the State:
+He was at the New Year’s Eve party with his family and some friends. He left the party when he heard that his brother, Riberto, was in trouble. He left the house and approached two men who were talking to his brother. One of the men, identified in court as defendant, was wearing black pants and a yellow shirt. The witness told the man to leave his brother alone and said he didn’t want any trouble. The defendant replied, “No, we want some trouble,” and started shooting. The witness was shot in the arm and chest and his brother was killed by defendant, whom he identified in court. Defendant wore a goatee at the time of the shooting but was not wearing one when he was arrested; he had a yellow shirt on. He was only two feet away from defendant at the time he was shot, and was looking at his face. The street lights were on.
+Miguel Rodriguez, for the State:
+He left the party when his little brother came running in to get Carlos Rodriguez because Roberto was in trouble. When he went out, he saw a man, identified as defendant, starting a fight with Roberto and Raul. He returned to the house to call the police. He identified tire defendant as the man arguing with Roberto. When he came out again, he saw Roberto lying in the street about ten feet from the corner, and Raul was hiding behind a car. He then saw defendant shoot Roberto in the head. At the time, he was 15 feet away and the street lights were on. He saw the gun in defendant’s hand about a foot from Roberto’s head, and he saw a flame come out of the gun when he shot Roberto. Defendant had a goatee at the time of the shooting, but not when he returned. He had seen defendant about three times before, while swimming at Harrison Park.
+Jack Michaelson, for the State:
+At 12:45 A.M. on January 1, 1970, he was at 17th and Wood Streets where there were numerous people. Carlos and Raul Rodriguez were dragging defendant, who was identified by the crowd as the killer of their brother. Carlos had also been shot. The witness ordered the arrest of defendant.
+Several others were pointed out as having taken part in the crime, and three of them were taken to the station. After interrogation, one was charged with unlawful use of a weapon. He had a gun in his belt, but it had not been used. Another was charged with disorderly conduct. None of the three was charged with the murder.
+Dr. Jerry Kearns, pathologist, for the State:
+The body of Roberto Rodriguez had been entered by five bullets: (1) through the ear lobe, head and neck into the chest, (2) through the back between ribs and into the left lung, (3) through the back near the shoulder blade into the liver, (4) through the back and heart into the chest, (5) across the front of the abdomen. Number (5) did superficial damage only. Number (4) caused the death. Decedent was falling down or lying down flat when he was hit by bullets (2), (3), (4) and (5).
+Manuelita Gonzales, for the defense:
+She had known defendant for about six months prior to the date oí the shooting and had never seen him wearing a beard or goatee. She and defendant and some friends went to a New Year’s Eve party about a half block from the corner of 17th and Wood Streets. They returned home just before midnight. Shortly after midnight, she and Mary Garcia, accompanied by defendant, decided to go to the comer tavern to have a beer. As they left the house, they heard quite a few shots and ran to the corner of 17th and Wood to see what was going on. A man was lying on the ground on the side of the street next to a car. They were separated from defendant in the large crowd there, and the next time they saw him, he was being chased by some men and he was taken into police custody. She told a police officer that defendant was with them at the time the shots were fired, but the police arrested him anyway, saying “These people say he did it.” She picked up some cartridge things near where the body had been lying, and gave them to the police.
+Mary Garcia, for the defendant:
+Her testimony was substantially the same as that of Manuelita Gonzales.
+Isabel Orozco, in his own behalf:
+On the night in question, he met Mary Garcia and Manuelita Gonzales at their house and went to a party. He returned to their house shortly before midnight and left with them to have a beer shortly thereafter. As he left their house, he heard shots being fired. They walked to the ■ corner and asked someone what happened. Then they started chasing somebody, so he started running too. He went around the block and was not caught by anyone, but when he came back, someone grabbed him and the police put him in the wagon. He was wearing dark green pants and a gold shirt and did not change clothes between the time he was at 17th and Wood Streets and the time he came back again. He never wore a goatee, had never been to Harrison Park, and did not know how to swim. He did not have a gun and he did not shoot anybody. He didn’t see anybody wounded.
+Mary Zuniga, for the defense:
+She knew defendant' and she knew Miguel Rodriguez. In the summer of 1970, she overheard Miguel Rodriguez, who was about 20 feet away, say that defendant didn’t do it. She didn’t tell this to anyone until the time of trial, September 28,1970.
+Miguel Rodriguez, recalled for the State in rebuttal:
+At no time between January 1, 1970, and September 28, 1970, did he ever say that defendant did not kill Roberto. He had never seen Mary Zuniga before he saw her in the courtroom.
+There was a stipulation that if the defense attorney were called as a witness, he would testify that in court on July 13, 1970, Carlos Rodriguez told him that when defendant returned to the scene of the killing, he was wearing a goatee and had on different clothes.
+OPINION
+Defendant contends that the evidence of his identification was doubtful and uncertain primarily because the gunman wore a goatee, and defendant, at the time of his arrest, did not have one. Yet the evidence discloses that five witnesses to the shooting positively identified defendant as the person arguing with the deceased moments before the shooting. Four of the witnesses said they actually saw defendant shoot the deceased, and one of them, Carlos Rodriguez, who was also wounded by defendant, was only two feet from defendant’s face at the time of the shooting. Also, four of the witnesses who positively identified defendant as the killer, stated that he was wearing a goatee at the time of the shooting; when he returned to the scene 10 to 15 minutes after he had fled from the crowd, the same witnesses still positively identified him without a goatee. Other witnesses also described the clothes worn by the killer, and they were the same worn by defendant upon his arrest.
+Considering that the credibility of the witnesses was a matter for the trial judge, we believe that the foregoing evidence was sufficient to establish the identification of defendant as neither doubtful nor uncertain.
+Defendant next contends that his alibi evidence was positive and unimpeached and, as such, justifies reversal. In most cases where an alibi is interposed, the trier of fact must weigh the credibility of various witnesses and resolve any conflicts in their testimony. (People v. Parker, 120 Ill.App.2d 71, 78, 256 N.E.2d 67.) The court in the present case resolved the conflicts in the evidence against the accused, and we will not substitute our judgment for that of the trier of fact. (People v. Lobb, 17 Ill.2d 287, 294, 161 N.E.2d 325.) Furthermore, when there is a positive identification of the accused by credible witnesses, we may sustain a finding of guilt by the court even where there is uncontradicted alibi evidence offered by the defense in an attempt to rebut the identification. (People v. Habdas, 94 Ill.App.2d 330, 338, 236 N.E.2d 731.) There is no obligation on the trial court or jury to believe alibi testimony over the positive identification of the accused. People v. Setzke, 22 Ill.2d 582, 586,177 N.E.2d 168.
+We have examined all of the evidence, including, but not limited to, that which is recited above, and we conclude that defendant’s guilt was established beyond a reasonable doubt.
+The judgment is affirmed.
+Judgment affirmed.
+LORENZ, P. J., and DRUCKER, J., concur.
