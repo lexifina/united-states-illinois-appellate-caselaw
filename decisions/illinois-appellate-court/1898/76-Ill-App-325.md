@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1898-05-09"
+citations: ["76 Ill. App. 325"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles S. Owen v. Ætna Iron Works, J. Louis Pfau, Jr., Pauline M. Pfau and Lenore P. Pfau."]
+source_url: "https://static.case.law/ill-app/76/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5791482
+cites_cases: ["106 Ill. 584", "115 Ill. 431", "119 Ill. 30", "12 Ill. 203", "121 Ill. 452", "122 Ill. 641", "130 Ill. 515", "149 Ill. 536", "44 Ill. App. 48", "83 Ill. 250"]
+---
+
+# Owen v. Ætna Iron Works
+
+## Majority (Mr. Presiding Justice Adams)
+
+Mr. Presiding Justice Adams
+delivered the opinion of the court.
+This case was before the court at the October term, 1895, on the appeal of the ¿Etna Iron Works et al. v. Charles S. Owen. Appellant's claim, with others involved in the suit, was considered, and the court reversed the decree of the Circuit Court, and by its mandate directed as follows : “ Therefore it is considered by the court that for that error, and others in the record and proceedings aforesaid, the decree of the Circuit Court of Cook County in this behalf rendered, be reversed, annulled, set aside and wholly for nothing esteemed, and that this cause be remanded to the Circuit Court of Cook County, with directions to enter a decree in favor of appellee for the amount of his judgment against the ¿Etna Iron Works, with interest, and to order to be paid thereon so much as may be necessary to satisfy it, out of the moneys paid to and held by the clerk of the Circuit Court, to abide the result of the suit as shall remain thereof, after allowing to said Lenore P. Pfau out of said moneys the amount of $750 paid by her to the Illinois Steel Company, with interest at five per cent per annum from the date of the assignment by the Steel Company to her.” The above is all of the mandate necessary to be considered on this appeal.
+The amount of money held by the clerk of the Circuit Court, referred to in the mandate, was $1,200, and appellant’s judgment against the ¿Etna Iron Works, exclusive of 'interest, was $793.22. The Circuit Court, on receiving the mandate, entered a decree, the only part of which relevant to the question now presented, is as follows :
+“ It is further ordered, adjudged and decreed, that of the sum of $1,200, being the amount on deposit with the clerk of this court under previous order herein, the clerk pay and turn over to the solicitors oí Lenore P. Pfau, Sidney C. Eastman and Bowen W. Schumacher, the amount of $750 (being the amount paid by her to the Illinois Steel Company for its claim against said AEtna Iron Works as aforesaid) together with interest thereon at the rate of five per centum per annum from the 13th day of February, A. D. 1894, to the date of the payment of said money to her.
+“ And it is further ordered, adjudged and decreed that the clerk of this court pay the balance of said sum of $1,200, remaining in his hands, after the payment to said Lenore P. Pfau, to the solicitors of said Charles S. Owen, to be credited by him on his judgment obtained by him on the 16th day of June, A. D. 1894, against said JEtna Iron Works and J. Louis Pfau, Jr.”
+Appellant’s counsel complain of this decree on two grounds: First, that it is not in accordance with the mandate of this court; and, second, that the Circuit Court should have decreed that appellant recover his costs in that court. The clear meaning of the mandate is, that from the amount held by the clerk of the Circuit Court Lenore P. Pfau should first be paid the sum of $750, with interest from the date mentioned in the mandate, and that the remainder should be applied, as far as it would go, to the satisfaction of appellant’s judgment. The money to be paid to appellant was, by the express terms of the order, to be paid out of the moneys which should remain after payment to Lenore P. Pfau of the amount decreed to be paid to her, and it is apparent that if she was entitled to be preferred to appellant in the distribution of the fund, as this court found, the mandate could not have been otherwise. The decree of the Circuit Court is in conformity with the mandate, and that court was powerless to enter any decree other than that directed by the mandate. Parker et al. v. Shannon, 121 Ill. 452; Sanders v. Peck et al., 131 Id. 407.
+The Circuit Court having rendered the only decree which it could legally render, the citation of authorities, to the effect that errors in the decree can not be successfully assigned, would be superfluous. Appellant’s counsel claim that this court erred in its judgment, in the former appeal, in holding that- Lenore P. Pfau was entitled' to any of the fund held by the clerk of the Circuit Court, and, also, that the court was mistaken as to the amount of the fund so held. If these contentions are correct, appellant’s remedy was by petition to this court for a rehearing. Appellant pursued that remedy, and his petition was denied for reasons stated in the opinion of the court, Hr. Justice Gary delivering the opinion. This exhausted appellant’s remedy in this court. We are powerless to review the former judgment of this court (Ry. Co. v. Hoyt, 44 Ill. App. 48), and no assignment of errors lies to that judgment on the record before us. Union Mut. L. Ins. Co. v. Kirchoff, 149 Ill. 536.
+The mandate contained no directions as to costs, and neither did the decree appealed from. It was a matter resting in the direction of the Circuit Court whether the appellant should recover his costs. 1 S. & C. Stat., Ch. 33, Sec. 18.
+The decree will be affirmed.
