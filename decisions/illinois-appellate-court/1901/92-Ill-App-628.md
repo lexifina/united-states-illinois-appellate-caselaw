@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-01-15"
+citations: ["92 Ill. App. 628"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LehighValley Transportation Co. v. Pillsbury-Washburn Flour Mills Co."]
+source_url: "https://static.case.law/ill-app/92/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5286728
+cites_cases: ["115 Ill. 407", "165 Ill. 570", "54 Ill. 88", "70 Ill. 217"]
+---
+
+# LehighValley Transportation Co. v. Pillsbury-Washburn Flour Mills Co.
+
+## Majority (IVr-R.. Justice Horton)
+
+IVr-R.. Justice Horton
+delivered the opinion of the court.
+In April, 1895, appellee shipped from Minneapolis, Minnesota, seventeen car loads of flour by the Chicago, Milwaukee and St. Paul Railway and six car loads by the Wisconsin Central Railroad, consigned to itself at Mew York. Upon the shipping receipts or bills of lading issued by the railroad companies at Minneapolis, and below the name of the consignee and the place of destination, are the following, viz.: “ Care L. V. T. Co., Milwaukee. Lighterage free. Hold at Buffalo, N. Y., for orders.” The letters “ L. V. T. Co.” refer to appellant. Also, upon the bills of lading is the following, viz. : “ Rate from Minneapolis to Mew York, 22% cents per 100 pounds.’
+Appellant owned and operated a line of boats between Milwaukee and Buffalo. The flour was delivered by the railroad companies in Milwaukee to appellant and by the latter shipped upon its steamer Oayuga en route to Buffalo. The steamer was wrecked on Lake Michigan and the flour wholly lost. It was the custom for appellant to pay the charges of the initial carrier. In this case the steamer was lost the next day after she sailed and before the charges had been paid to the railroad companies. The bills were presented to appellant by the railroad companies for their charges but such bills were returned with the request on behalf of appellant that the railroad companies collect the same from appellee. This the railroad companies sought to do but the appellee declined to pay them. Afterward appellant paid the bills to the railroad companies, amounting to $629.76. This suit is brought by appellant to recover from appellee the amount thus paid. A jury was waived and the cause submitted to the court for trial. The court found the issues for the appellee and entered judgment against appellant for costs.
+The English rule obtains in this State, which is as follows, viz: “ In the absence of restrictions, consented to by the shipper, limiting its contract of carriage to its own line, a carrier, by accepting for shipment goods marked to a° point beyond its own terminus, impliedly agrees to carry the goods to their destination.” (I. C. R. R. Co. v. Carter, 165 Ill. 570, 574; I. C. R. R. Co. v. Frankenberg, 54 Ill. 88, 97; W. St. L. & P. Ry. Co. v. Jaggerman, 115 Ill. 407, 410.) But the carrier may, “ by special contract with the shipper, limit its liability to such damage or loss as might arise on its own line of carriage,” as it is held in the same cases.
+There is no uncertainty as to the law in this State upon this point. Is there sufficient in the case at bar to take it out of the rule stated ? The point of destination is definite, viz., New York. The rate of charges from the point of shipment to the point of destination is specific. Such rate is not left to any general tariff of rates but is fixed by special entry upon the shipping receipts.
+The agent of appellant in the Northwest testified that where a through rate is made by a western railroad company, then when that company delivers the goods to appellant it would compute its proportion of that through rate and make a bill therefor to appellant, and appellant would pay that bill. There was an arrangement between the appellant and the railroad companies to that effect. Said agent also testified that the rate from Minneapolis to Milwaukee was 8.1 cents per hundred pounds, as fixed under the interstate commerce act. The through rate fixed by the bill of lading is 22J cents per hundred. .The proportion thereof included in the bills paid by appellant to the railroad companies is 8.55 cents per hundred. It thus appears that appellant did not pay to the railroad companies the regular rate as fixed under the interstate commerce act, but a computed proportion of an agreed or fixed through rate. Thus it is shown not only that there was a through shipment at a through rate, but that appellant knew that fact.
+It does not appear at whose instance the words and letters “ care L. V. T. Co., Milwaukee,” were inserted in the bill of lading. They may have been put there at the instance of the railroad companies to show that the shipments were not “ all rail.” Neither does it appear that appellee had any business relation or connection with appellant. On the contrary, Mr. Hubbard, a representative of appellee, and the only witness who was examined upon this point, said that he thought there was no relation.
+And the testimony also shows that the words upon the bills of lading “ Hold at Buffalo ” meant that the shipment was on a through rate from Minneapolis to New York.
+We are fully convinced that the shipments in question were, and were intended to be, through shipments to the place of destination named in the bills of lading. If that conclusion be correct the appellee can not recover and the judgment of the trial court was not erroneous.
+It is, however, contended by appellant that it was agent of appellee to make the advances to the railroad companies, That depends upon the question of whether the shipment was a through shipment to New York. If it was such a through shipment then the appellant was not the agent of appellee to make such advances. (C. & N. W. Ry. Co. v. Packet Co., 70 Ill. 217, 222; The Frankenberg case, ante.) Being a through shipment as above shown, it follows that the appellant was not the agent of appellee for the purpose claimed.
+The judgment of the Superior Court is affirmed.
