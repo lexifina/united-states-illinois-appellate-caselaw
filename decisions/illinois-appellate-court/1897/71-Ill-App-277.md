@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1897-09-13"
+citations: ["71 Ill. App. 277"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Lennox v. Floyd Harsh."]
+source_url: "https://static.case.law/ill-app/71/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2450817
+cites_cases: ["20 Ill. 9", "71 Ill. 174"]
+---
+
+# Lennox v. Harsh
+
+## Majority (Mr. Justice Burroughs)
+
+Mr. Justice Burroughs
+delivered the opinion of the Court.
+On June 1, 1896, appellee commenced this suit before a justice of the peace of Moultrie county, Illinois, for $111.50, that being the amount indorsed on the back of the summons issued on that date by the justice before whom the suit was commenced. After trial before the justice of the peace, a judgment was rendered by the justice in favor of appellee against appellant for the full sum claimed, to wit, $115.50. Appellant, by appeal, took the case to the Circuit Court of Moultrie County, where the case was tried in that court by jury, and a verdict returned for appellee for $120. After verdict, before judgment, and during the term of court at which verdict was rendered, appellant made and filed in writing a motion to set aside the verdict and grant a new trial, assigning six reasons therefor, the sixth reason being stated as follows: “ The verdict of the jury is for a sum greater than the demand stated on the summons issued by the justice of the peace.” But the court below overruled said motion for a new trial, and gave judgment on the verdict for appellee against appellant for $120 and costs, to which action of the court below in overruling said motion, appellant then and there excepted. Appellant brings this case to this court by appeal, and among others assigns the following error: “ Third. The court erred in rendering judgment against the defendant (appellant) for an amount greater than the demand on back of summons issued by the justice of the peace.”
+“ Fourth. The court erred in overruling defendant’s (appellant’s) motion for a new trial.” This is the showing made on the transcript of the record herein, filed in this court on March 6,1897. Ón May 18, 1897, appellee files a motion in this court suggesting a diminution of the record, and for leave to file additional record, which motion, upon being presented to this court on June 29, 1897, one of the days of the May term, A. D. 1897, was by this court taken with the case.
+We have fully considered this motion and concluded that we can not allow same, because, while the learned judge who presided when this case was tried in the Circuit Court, when the bill of exceptions herein was, on January 28, 1897, presented to him for his signature, did run a line with his pen through the words constituting the sixth reason why a motion for a new trial should be allowed, and wrote over the same: “ I erase these two lines because point was not made on motion for new trial,” and signed his name thereto. Yet the fact does appear from the record as first sent up to this court, together with the showing made in this motion, that appellant did file his motion for a new trial in writing with the clerk of the court below in apt time, and it did contain the sixth reason as originally certified here; but because, in his oral presentation of said motion to the Circuit Court, he did not urge to the court below his sixth reason, therefore, appellant contends it should by this court be considered, that he did not in writing assign said sixth reason why a new trial should be given him by the court below. The only effect, if said motion for leave to file additional record should be allowed by this court, would be to have the record show that appellant did in writing file with the clerk of the court below, in apt time, his motion for a new trial with his sixth reason, as before stated, but that in his oral argument on said motion in the court below he did not make that point.
+We are of the opinion that when appellant filed with the clerk of the court below, in apt time, his motion in writing for a new trial, which contained the sixth reason why his motion should be allowed by the trial court; he did all that section 57 of chapter 110 of Hurd’s Revised Statutes of Illinois required him to do, to save that point.
+That section among other things provides: “ * * * If either party may wish to except to the verdict, or for other causes to move for a new trial, * * * he shall, before final judgment be entered, or during the term it is entered by himself or counsel, file the points in writing, particularly specifying the grounds of such motion * *
+Inasmuch, therefore, as the trial court gave- judgment for $120, when the demand on the summons in the justice court was only for $111.50, it committed an error, which compels us to reverse the judgment of the court below in this case, under the holding of our Supreme Court in the case of Chicago, Burlington & Quincy R. R. Co. v. Minard et al., 20 Ill. 9, in which it says: “ We think we are judicially informed, of the contents of the summons and of the claim indorsed upon it, and that the judgment of the Circuit Court was for more than the amount of such claim and interest, which was erroneous.” See also T., P. & W. Ry. Co. v. Pence, 71 Ill. 174.
+Appellant assigns and urges other errors on the record here, but for the reasons above given, the judgment of the court below, in this case, must be reversed, and the cause remanded to the Circuit Court of Moultrie County for a new trial. Hence we deem it unnecessary to consider and decide the other errors assigned.
+Beversed and remanded.
