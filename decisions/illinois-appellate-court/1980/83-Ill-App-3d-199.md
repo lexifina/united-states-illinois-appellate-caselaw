@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-804"
+decided: "1980-04-18"
+citations: ["83 Ill. App. 3d 199"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. GREGORY STEPHENS, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/83/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5554751
+cites_cases: ["356 N.E.2d 358", "361 N.E.2d 357", "362 N.E.2d 464", "373 N.E.2d 1385", "389 N.E.2d 670", "399 N.E.2d 334", "42 Ill. App. 3d 546", "46 Ill. App. 3d 826", "48 Ill. App. 3d 399", "58 Ill. App. 3d 149", "71 Ill. App. 3d 267", "80 Ill. App. 3d 36"]
+---
+
+# People v. Stephens
+
+## Majority (Mr. JUSTICE SCOTT)
+
+Mr. JUSTICE SCOTT
+delivered the opinion of the court:
+After pleas of guilty by the defendant, Gregory Stephens, in four interrelated cases charging the offenses of unlawful delivery of a controlled substance, the circuit court of Peoria County sentenced the defendant to concurrent terms of 4M years of imprisonment and this appeal ensued.
+The sole issue presented is whether the sentences imposed were excessive due to the trial court’s failure to properly consider all relevant factors of mitigation.
+The factual basis presented by the State pertaining to the offenses was that the defendant made four deliveries of cocaine for a total sum of $1560. Each delivery of the substance was for one-quarter of an ounce or less. All deliveries occurred within a time span commencing on March 13, 1978, and terminating on June 21, 1978.
+From the defendant’s testimony at the sentencing hearing it was established that he was 33 years old, that he had participated in a number of drug transactions in which he had delivered cocaine, strawberry mescaline and marijuana. The defendant denied being a drug dealer but admitted passing the same for 10 years. The defendant had a good employment record as a television repairman and had been an aircraft mechanic during his four years of service in the Air Force. He was a veteran of the Vietnam War.
+It was the further testimony of the defendant that he had used some drugs, usually marijuana and some cocaine. The defendant, while admitting that he supplied drugs to friends, stated that he did not sell them for a profit. He admitted that he had emotional problems, that his father had a condition of mental illness and would frequently assault him when he was a youngster. The defendant stated that he had no prior criminal record and that he received an honorable discharge from the United States Air Force.
+The defendant’s girl friend, Sandra Weite, testified that she was unaware of his drug activity and that he was emotionally unstable and would do anything to make friends and help people.
+The defendant argues that there are three separate statutory sections which set forth specific factors of aggravation and mitigation which the court should have but failed to consider in determining the sentence to be imposed. Those sections are sections 5 — 5—3.1 and 5 — 5—3.2 of the Unified Code of Corrections (Ill. Rev. Stat., 1978 Supp., ch. 38, pars. 1005 — 5—3.1, 1005 — 5—3.2), and section 411 of the Illinois Controlled Substances Act (Ill. Rev. Stat. 1977, ch. 56%, par. 1411). The statutory provisions do set forth various factors which the trial court may consider in arriving at a sentence. The factors set forth are numerous and no useful purpose would be served by setting them forth in their entirety. This conclusion is reached because it is clear from the record that the trial court did consider the factors offered in aggravation and mitigation during the sentencing hearing.
+The trial judge commented upon the fact that the defendant had no prior criminal record and discussed the defendant’s conduct and its effect on others. The trial court concluded that (1) the defendant was 33 years of age and thus well beyond the age of maturity, (2) the transactions were not casual deliveries, (3) the defendant was a drug supplier who was willing to supply large quantities of drugs, (4) the supplying of drugs is an abominable activity, (5) the defendant had no remorse for his offenses, (6) the offenses were likely to recur, (7) serious physical harm could come to others as the result of defendant’s behavior, (8) there was no provocation for the offenses, (9) no grounds existed that justified or excused the defendant’s conduct, and (10) a sentence to the Department of Corrections was necessary to deter others from committing the same offense.
+By setting forth the foregoing it is evident that the trial court gave considerable consideration to various factors before sentencing the defendant. By his own admission the defendant had been engaged extensively as a supplier of drugs. The extent of such involvement is a proper factor to be considered. In People v. Villanueva (1977), 46 Ill. App. 3d 826, 361 N.E.2d 357, and People v. Bevard (1977), 48 Ill. App. 3d 399, 362 N.E.2d 464, this court affirmed convictions for single deliveries of cocaine. The defendant argues that the trial judge placed undue emphasis on his opinion that drug offenses are of a serious nature. We cannot agree with this assertion of the defendant, since the seriousness of such offenses has been recognized by reviewing courts. (People v. Douglas (1978), 58 Ill. App. 3d 149, 373 N.E.2d 1385; People v. Smith (1976), 42 Ill. App. 3d 546, 356 N.E.2d 358.) These cases also recognize that serious harm can result from the selling of drugs. Our legislature considered that “deterrence” is a factor to be considered in a sentencing hearing. Ill. Rev. Stat., 1978 Supp., ch. 38, par. 1005 — 5-3.2(a) (7).
+The trial court concluded that the defendant lacked any remorse concerning the offenses he committed, and an examination of his testimony fails to disclose that he was in fact remorseful. The trial court found that no provocation existed for the defendant’s criminal acts and we believe rightfully so, since we are not impressed with the testimony of a 33-year-old defendant who attempts to justify his acts on the grounds that he was trying to please his friends.
+In an appeal challenging the propriety of a sentence there is a rebuttable presumption that the sentence imposed was proper. (Ill. Rev. Stat., 1978 Supp., ch. 38, par. 1005 — 5—4.1.) This means that the sentence should not be reduced unless the appealing party affirmatively demonstrates that it is improper. People v. Choate (1979), 71 Ill. App. 3d 267, 389 N.E.2d 670. See also People v. Gossage (1980), 80 Ill. App. 3d 36, 399 N.E.2d 334.
+© 2 In the instant case the defendant has not made an affirmative showing that the trial court failed to consider factors in mitigation of sentence. The record on the contrary discloses that the trial court considered many factors and then specifically enumerated a list of those which he felt necessitated the imposition of the sentences received by the defendant.
+For the reasons stated the judgments of the circuit court of Peoria County and the sentences imposed thereon are affirmed.
+Affirmed.
+BARRY and STQUDER, JJ., concur.
