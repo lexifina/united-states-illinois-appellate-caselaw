@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-2179"
+decided: "1980-07-07"
+citations: ["86 Ill. App. 3d 673"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE COUNTY OF COOK, Plaintiff and Counterdefendant-Appellee, v. JOHN SEXTON CONTRACTORS CO., Defendant and Counterplaintiff-Appellant.— (THE ENVIRONMENTAL PROTECTION AGENCY, Defendant; COSMOPOLITAN NATIONAL BANK et al., Counterplaintiffs-Appellants; THE VILLAGE OF RICHTON PARK, Intervenor-Appellee.)"]
+source_url: "https://static.case.law/ill-app-3d/86/cases/0673-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3184467
+cites_cases: ["100 S. Ct. 86", "186 N.E. 152", "352 Ill. 417", "382 N.E.2d 217", "387 N.E.2d 285", "387 N.E.2d 312", "389 N.E.2d 529", "389 N.E.2d 553", "444 U.S. 844", "62 L. Ed. 2d 56", "73 Ill. 2d 19", "74 Ill. 2d 574", "75 Ill. 2d 22", "75 Ill. 2d 443", "75 Ill. 2d 494"]
+---
+
+# County of Cook v. John Sexton Contractors Co.
+
+## Majority (Mr. PRESIDING JUSTICE GOLDBERG)
+
+Mr. PRESIDING JUSTICE GOLDBERG
+delivered the opinion of the court:
+This record brings before us an attempted continuation of litigation upon matters disposed of by the opinion of the supreme court in County of Cook v. John Sexton Contractors Co. (1979), 75 Ill. 2d 494, 389 N.E.2d 553. A reading of that opinion is essential.
+In that case, the supreme court affirmed in part, reversed in part, and remanded the cause to the circuit court. The supreme court mandate directed-entry of “an order in accordance with the views expressed” in the opinion. We regard this direction as specific. It did not permit further litigation. It required the entry of an order by the circuit court which would stop Sexton’s activity in operation of a sanitary landfill under the existing R-4 zoning of the tract in question. “Precise and unambiguous directions in a mandate must be obeyed.” Stuart v. Continental Illinois National Bank and Trust Co. (1979), 75 Ill. 2d 22, 28, 387 N.E.2d 312, cert. denied (1979), 444 U.S. 844, 62 L. Ed. 2d 56, 100 S. Ct. 86.
+However, the cause did not proceed as directed. Instead, Sexton filed a fourth affirmative defense and added count V to its counterclaim. As Sexton states, these pleadings “are essentially similar in form.” They allege the Cook County zoning ordinance in its application to sanitary landfills is invalid and void because it fails to conform to the uniform statewide environmental standards and regulations adopted by the Illinois Pollution Control Board. The county of Cook, plaintiff, filed a motion to strike these additional pleadings. The village of Richton Park, intervenor, filed a motion for judgment on the pleadings on the entire complaint and counterclaim as thus amended.
+On September 18, 1979, the trial court struck Sexton’s fourth affirmative defense and count V of its counterclaim and granted the motion of the village for judgment on the pleadings. Sexton has appealed from these orders. Sexton’s brief states that on October 16,1979, the trial court entered a permanent injunction restraining Sexton from operating the landfill. No appeal was taken from this order.
+In this court Sexton urges under the supreme court decision home-rule units have concurrent jurisdiction as to sanitary landfills with the Illinois Environmental Protection Agency and the Illinois Pollution Control Board. But, as a condition to its jurisdiction, the home-rule unit must first have adopted a local zoning ordinance which conforms to the uniform statewide environmental standards adopted by the Pollution Control Board. Sexton also contends the county zoning ordinance is void because it does not conform to the statewide environmental standards and regulations established by the Pollution Control Board.
+I.
+Close reading of the supreme court decision requires us to disagree with Sexton’s first point. The supreme court held the power and authority of the board and of the county are “distinct but concurrent powers that must be exercised cooperatively in the interest of environmental protection.” (County of Cook, 75 Ill. 2d 494, 516.) Immediately after this language the supreme court added:
+“To this end, the County, in zoning land for landfill sites, must adhere to the environmental regulations adopted by the Board, while the Agency, operating under the Board’s regulations, must comply with the County’s zoning ordinance when issuing permits for landfill sites. Thus, the authority granted the Board under the Act and the home rule authority granted to the County under the Constitution’s article VII, section 6, can be exercised in unison to accomplish the public policy expressed in article XI, section 1, of the 1970 Constitution.
+We conclude that Sexton, who has complied with the regulations of the Board, must also comply with the zoning restrictions of the County.” 75 Ill. 2d 494, 516-17.
+Under no circumstances can we construe the opinion of the supreme court, or any language therein, as requiring a local implementation ordinance as a condition precedent to the validity of the county zoning ordinance as suggested by Sexton.
+II.
+Sexton next urges sanitary landfills are allowed as special uses under County Industrial Districts designated as 1-1,1-2,1-3,1-4 and also on Open Land Districts under P-2 zoning. Sexton then compares the requirements of the county ordinance pertaining to sanitary landfills in those zoning districts with the statewide regulations of the Pollution Control Board pertaining to operation and design of sanitary landfills. Sexton concludes the county standards do not conform to the uniform standards required by the Pollution Control Board.
+This argument overlooks entirely the fact the property here involved and owned by Sexton is located in a county zoning area designated as R-4 devoted to single-family residential uses. It is undisputed that the ordinance expressly forbids location of sanitary landfills in this R-4 zoning. In our opinion, this argument raised by Sexton is therefore factually invalid and legally inapplicable for these reasons:
+(1) Since the Sexton property has been zoned R-4, the ordinance provisions relating to industrial zoning necessarily have no relation to the matter before us. Sexton is attempting to challenge the constitutionality of an ordinance which does not and cannot place Sexton in immediate danger of sustaining any direct injury from any enforcement of industrial zoning by the County. Manifestly, Sexton has no claim, status, or property right which is conceivably capable of being affected by the industrial zoning regulations. Sexton, therefore, lacks standing to attack the industrial zoning provisions of the ordinance. See Illinois Gamefowl Breeders Association v. Block (1979), 75 Ill. 2d 443, 450-51, 389 N.E.2d 529.
+(2) Even if this point did have relevancy to the instant case, it may not be raised by Sexton at this stage of the litigation. This constitutes an attempt to litigate a matter which could have been raised and passed upon by the supreme court in the former case between these identical parties. (See Consolidated Distilled Products, Inc. v. Allphin (1978), 73 Ill. 2d 19, 25-26, 382 N.E.2d 217, quoting from Charles E. Harding Co. v. Harding (1933), 352 Ill. 417, 426-27, 186 N.E. 152):
+“[A] cause of action finally determined between the parties on the merits, by a court of competent jurisdiction, [which] cannot again be litigated by new proceedings before the same or any other tribunal * * *. A judgment or decree so rendered is a complete bar to any subsequent action on the same claim or cause of action, between the same parties or those in privity with them. The doctrine extends not only to the questions actually decided but to all grounds of recovery or defense which might have been presented. [Citations.]”
+The previous appeal settled all questions which “were or could have been raised” therein. Serbian Eastern Orthodox Diocese for the United States of America and Canada v. Milivojevich (1979), 74 Ill. 2d 574, 579, 387 N.E.2d 285.
+This litigation should now be terminated by an affirmance of the order appealed from.
+Order affirmed.
+McGLOON and CAMPBELL, JJ., concur.
