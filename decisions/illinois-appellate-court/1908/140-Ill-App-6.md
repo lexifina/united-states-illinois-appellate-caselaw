@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1908-03-18"
+citations: ["140 Ill. App. 6"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John G. Dillinger, Appellee, v. Malinda Dillinger, Appellant."]
+source_url: "https://static.case.law/ill-app/140/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2616209
+cites_cases: ["207 Ill. 512", "26 Ill. 165", "79 Ill. 196"]
+---
+
+# Dillinger v. Dillinger
+
+## Majority (Mr. Presiding Justice Higbee)
+
+Mr. Presiding Justice Higbee
+delivered the opinion of the court.
+On November 12,1906, appellee filed a bill for divorce against appellant in the Circuit Court of Jackson county, alleging that the parties were married on July 21, 1892, and lived together as husband and wife until November 27,1897, at which time appellant wholly regardless of her marriage covenants and duty, wilfully deserted and absented herself from appellee without any reasonable cause, for the space of two years and upwards, and has persisted in such desertion and continues so to absent herself from appellee.
+Appellant was served with summons, appeared and filed her answer to the bill.' By her answer she admits the marriage and other matters stated in the bill up to the charge of desertion. She denies that at the time named in the bill she wilfully deserted appellee and absented herself from him without any reasonable cause for doing so, and that she wilfully continued in such wilful desertion from said date until the present time. She admits that she and appellant are not living together at the present time, but says it is not her fault that they are living separate and apart. She states that she did everything in her power to make the home of appellee pleasant and agreeable, but that her life was rendered so unhappy at the home of appellant by certain members of his family, by a former marriage, that she could no longer bear the treatment she received and at about the date last mentioned she and appellant ceased to live together as husband and wife, since which time appellant has not contributed anything whatever to her support. She also sets out her manner of life and surroundings previous to her marriage, and states that appellee had filed a former bill for divorce against her which he had dismissed and charges that he has no just ground for bringing the present suit for divorce. *
+To this answer appellee filed four exceptions, the first of which covering that part of the answer denying the material allegations of the bill, was overruled by the court and the others which covered the remaining portions of the answer, except some formal matters at the end, were sustained by the court, and a rule entered by the court on appellant to file a further answer.
+Appellant thereupon filed another answer which specifically denied the material allegations of the bill and set up no other or further matter. To this answer the court also sustained exceptions and ordered appellant to file a supplemental answer. Subsequently appellant filed a supplemental answer which also denied the material allegations of the bill and set up specifically and at length the same reasons substantially, for leaving the home of appellant, as those stated in the first answer, except that it also alleged that on or about the 27th day of November, 1897, appellant by and with the knowledge and consent of appellee, went to the home of her married children, in the same township where appellee lived, where she has since remained.
+Appellee filed exceptions to appellant’s supplemental answer which the court also sustained. Appellant then asked leave of court to file a further answer, which the court denied and over the objection of appellant, entered a default against her and heard evidence offered by appellee in open court. Upon the evidence so heard, the court entered a decree in favor of appellee granting him a divorce from appellant as prayed for in his bill. Appellant preserved proper exceptions to the rulings of the court against her and has brought the same to this court by appeal.
+The main question presented is whether or not the rulings of the court in reference to the several answers of appellant were correct. We are of opinion that the original answer and the supplemental answer being the first and third answers filed by appellee, contained statements and allegations to which the court might and did properly sustain exceptions, but that after all improper matter was excluded enough remained to constitute a denial of each of the material allegations of the bill and present a material issue. This is especially true of the third or supplemental answer which expressly stated that appellant left appellee’s house with his knowledge and consent and went to the home of her married children. The court therefore erred in ruling the defendant to answer further after sustaining certain of the exceptions to the first answer, and in causing a default to be entered, after sustaining exceptions to a portion of the supplemental or third answer. Where exceptions to portions of an answer are allowed, and the remainder of the answer presents a material issue, it is improper to decree that the bill of complainant be taken as confessed for want of an answer. Yates v. Continental Ins. Co., 207 Ill. 512; Work v. Hall, 79 Ill. 196.
+The second or amended answer filed by appellant, directly denied all the material issues presented by the bill and contained nothing else except formal matter.
+An answer may either deny the facts stated in the bill or show some new matter in avoidance of the fact submitted. Stone v. Moore, 26 Ill. 165.
+Appellee says this answer would have been sufficient if appellant had simply denied the desertion but that her answer does not do this. While appellant’s answer did not conform to the exact language of the bill in denying the desertion and used some additional words, yet upon the whole we think it must be fairly construed as a denial of the charge of desertion contained in the bill. We are of opinion this was a good answer and that the court below erred in sustaining the exceptions to it.
+For the errors above indicated the decree in this case will be reversed and the cause remanded.
+Reversed and remanded.
