@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. Nos. 48,278, 48,297, 48,298"
+decided: "1962-07-09"
+citations: ["37 Ill. App. 2d 95"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SCHWARTZ and MoCORMICK, JJ., concur."]
+parties: ["Robert J. Weidler, Plaintiff-Appellee, Cross-Appellee, and Separate Appellant, v. Westinghouse Electric Corporation, Defendant-Appellant and Counter-Defendant-Appellee, and The Pennsylvania Railroad Company, Defendant-Appellee, Counter Plaintiff-Appellee, Separate Appellant and Cross-Appellant. On Appeals of Robert J. Weidler, Westinghouse Electric Corporation and The Pennsylvania Railroad Company."]
+source_url: "https://static.case.law/ill-app-2d/37/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5257892
+cites_cases: ["13 Ill2d 200", "148 NE2d 787", "151 NE2d 449", "18 Ill App2d 106"]
+---
+
+# Weidler v. Westinghouse Electric Corp.
+
+## Majority (MR. PRESIDING JUSTICE DEMPSEY)
+
+MR. PRESIDING JUSTICE DEMPSEY
+delivered the opinion of the court.
+Bobert J. Weidler, a yard conductor of the Pennsylvania Bailroad Company, was injured in an accident involving an industrial truck owned and operated by the Westinghouse Electric Corporation. The accident took place on the premises of Westinghouse in Sharon, Pennsylvania, while Weidler was weighing a railroad car on scales which were located on a switch track within the Westinghouse building.
+He brought suit against both defendants in Cook County, Illinois. The Pennsylvania Bailroad was sued for negligence under the Federal Employers’ Liability Act and Westinghouse for common law negligence. A verdict was returned against both defendants for $42,750. Subsequently, the verdict was set aside as to the Railroad and a judgment non obstante veredicto was entered in its favor.
+The Railroad had filed a counterclaim against Westinghouse seeking indemnity for all expenses it might incur and all damages it might have to pay. The jury did not return a verdict on the counterclaim although it had received forms of verdict and instructions on the issue.
+All parties have appealed: Westinghouse from the judgment for Weidler, Weidler from the judgment n.o.v. for the Railroad and the Railroad from the refusal of the trial court to direct a verdict on its counterclaim. The Railroad has also cross-appealed from the Weidler appeal.
+This case involves multiple parties and multiple claims for relief. It, therefore, comes under the following provision of the Civil Practice Act:
+“(2) If multiple parties or multiple claims for relief are involved in an action, the court may enter a final order, judgment or decree as to one or more but fewer than all of the parties or claims only upon an express finding that there is no just reason for delaying enforcement or appeal. In the absence of that finding, any order, judgment or decree which adjudicates fewer than all the claims or the rights and liabilities of fewer than all the parties does not terminate the action, is not enforceable or appealable, and is subject to revision at any time before the entry of an order, judgment or decree adjudicating all the claims, rights and liabilities of all the parties.” Ill Rev Stats (1959), ch 110, sec 50(2).
+The issue raised by the counterclaim was submitted to the jury but the jury ignored it. This claim for relief remains unresolved. Under this circumstance, before the several parties could appeal, it was necessary for tbe court to make an express finding that there was no just reason for delaying the appeal. This the trial court was not requested to do. It was an understandable omission inasmuch as the issue of indemnity was of diminishing importance to the Railroad following the post-trial judgment in its favor. Its present appeal from the refusal of the trial court to direct a verdict in its favor on the counterclaim is merely an assignment of error, is not an appeal from a final judgment and appears to be for the purpose of protecting itself in the event its judgment n.o.v. should be reversed.
+If the ruling of the trial court on the motion for a directed verdict is affirmed and if the judgment n.o.v. is reversed, the indemnity issue would become of paramount importance to the Railroad and Westinghouse. The case would have to be remanded for determination of this issue and another appeal might well ensue. This highlights the wisdom of section 50(2) which “was aimed at discouraging piecemeal appeals. . . .” Ariola v. Nigro, 13 Ill2d 200, 148 NE2d 787.
+Section 50(2) became effective January 1,1956. The first cases arising under the statute were treated indulgently by the courts out of consideration to counsel who were unfamiliar with the new requirements. In the Ariola case (1958) the Supreme Court dismissed the appeal but said that “particularly in the formative stages of proceedings under section 50(2)” it would entertain a new appeal upon entry of the new judgment and an express finding that no just reason existed for delaying the appeal. This court, in O’Hara v. Carillo, 18 Ill App2d 106, 151 NE2d 449 (1958), likewise said:
+“Should, however, the court below on the application of the appellant see fit to enter an order that no just reason exists for delaying the appeal, and if the appellant files a supplemental record in this court incorporating such order therein within thirty days from the date of the filing of this opinion, on appellant’s motion this court will vacate the order dismissing the appeal and will decide the present appeal on the record as thus supplemented and the abstract and briefs heretofore filed herein.”
+Six and one-half years have elapsed since the effective date of the statute and we feel it is time to discontinue the procedure temporarily permitted in Ariola and O’Hara—a procedure which encourages appeals because the trial court invariably feels impelled to enter the order when invited to do so by the reviewing court. It must be presumed that attorneys are now familiar with the provisions of the statute and with the decisions interpreting them. If the past procedure is further approved it will soon become routine practice ; what was thought to be temporary will have become permanently imbedded in our ease law, the statute will become meaningless and one of its primary purposes nullified.
+The unresolved claim must be adjudicated. The delay this will cause will not be unduly harmful to either the plaintiff or the defendants. The defendants cannot assume that if the present appeals are entertained the result would be such that the indemnity issue would not have to be tried. The plaintiff was injured in Pennsylvania; his case was filed in Hlinois and advanced for trial a year later. He was given preferred treatment ahead of thousands of cases previously filed by Illinois citizens. He is not so physically incapacitated that he cannot earn a livelihood. His physician testified that, although he could no longer climb on and off railroad cars, he conld perform many kinds of manual labor.
+The case is still pending in the trial court and the several appeals will be dismissed.
+SCHWARTZ and MoCORMICK, JJ., concur.
