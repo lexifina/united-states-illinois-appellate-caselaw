@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1919-10-21"
+citations: ["216 Ill. App. 6"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Mt. Sterling, Illinois, Appellee, v. John R. Buss, Appellant."]
+source_url: "https://static.case.law/ill-app/216/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2993631
+cites_cases: ["55 Ill. App. 94"]
+---
+
+# City of Mt. Sterling v. Buss
+
+## Majority (Mr. Justice Waggoner)
+
+Mr. Justice Waggoner
+delivered the opinion of the court.
+During the month of July, 1918, and prior thereto, appellant, John R. Buss, was the owner of a bam within three blocks from the court house in the City of Mt. Sterling, in which he kept two stallions and two jacks. A family lived directly across the street from the bam, another just west from it, another in the same block, and still others in the immediate vicinity.
+On June 3, 1918, appellee passed an ordinance prohibiting the standing and breeding of certain male animals, and fixing a penalty for the violation thereof. The ordinance is numbered one hundred and forty-eight, and section one provides, “that no person * * * shall within the corporate limits of said city keep nor stand for breeding purposes any stallion (or) jackass * * *; and that such keeping, standing or breeding is hereby declared a nuisance, and that any person * * * who shall so keep or breed any such animal contrary to this ordinance, upon conviction thereof, shall forfeit and pay to said city the sum of twenty-five dollars for each first offense, and the sum of two hundred dollars for each and every offense thereafter.”
+On July 10, 1918, complaint was made before a justice of the peace in the City of Mt. Sterling, wherein it was charged that appellant on or about the 5th and 8th days of July A. D. 1918, did violate section one of such ordinance by keeping and standing stallions and jacks for breeding purposes.
+• A warrant was issued on this complaint, a trial had before a justice of the peace, and an appeal taken to the circuit court, wherein appellee recovered judgment against appellant for fifty dollars and costs.
+On the trial had in the circuit court it was stipulated, by the parties, that the ordinance was legally passed, was in full force and effect at the time of the commencement of this suit and is still in force; that from July 1, 1918, and continuously thereafter, appellant was the owner of a barn in the residential portion and within the corporate limits of the City of Mt. Sterling, in which he kept two stallions and two jacks; that mares were not served in the barn but were served outside the corporate limits of the city during that time; that the stallions and jacks would be taken from the bam to a place outside the corporate limits, mares would be served by them, and then the stallions and jacks would be returned to the bam.
+The evidence showed-that men would bring mares to appellant’s place, unhitch and take them into the bam for the purpose of determining whether or not they were in season. ' If in season the mare and a stallion or jack would be brought from the barn, and taken out of the corporate limits of the city, where the service would be had and the stallion or jack brought back. Appellant would ride to and from the place of service in the conveyances of the owners of the mares. People living in the vicinity of the barn testified to noises being made by the stallions when mares were taken into the barn, and that the jacks brayed day and night.
+Appellant submitted to the court propositions to be held as the law, one of which was that the only keeping of a stallion in the city that would constitute a violation of the ordinance would be where the consummated act of breeding takes place within the corporate limits. Under such a construction of the ordinance stallions could be kept, for service, in the thickly-settled parts of a city or village, and the inhabitants would have to be annoyed by the indecent noises and other offensive accompaniments, which have been declared by the court to be offensive to the public sense of decency, detrimental to public morals and a source of annoyance and discomfort to others (Hoops v. Village of Ipava, 55 Ill. App. 94 [97]), and be without remedy if the service is deferred until the owners of the stallion and of the mare take the animals just outside the corporate limits. According to appellant’s idea of decency he can continue such practice, as he has been engaged in, from day to day and as often each day as mares are brought by patrons to his barn without violating the provisions of the ordinance in question, and that an effort to prevent his so doing is an infringement of his rights. In this he is mistaken.
+The ordinance does not flatly prohibit the keeping of a stallion or jack within the corporate limits of the city, and appellant is not charged, in the complaint upon which a warrant was issued in this case, with so doing, but the ordinance does prohibit the keeping of such animals for breeding purposes, and the complaint charges appellant with keeping stallions and jacks within the corporate limits of the city, for breeding purposes. Under the stipulation and evidence in this ease it was proper .to render a judgment in favor of appellee.
+Appellant says in his brief that he might have been fined twenty-five dollars for the first offense and two hundred dollars for the second offense, but never fifty dollars.
+The words “each first offense” include all violations of the ordinance proven on the first prosecution of a person charged with having violated it. The words “each and every offense thereafter” have reference to subsequent violations. The penalty for such subsequent violations is eight times greater than that prescribed for each first offense, and is only to be imposed in cases where the lesser penalty was ineffectual. A second offense, carrying with it a severer penalty, is not committed in law until there has been a conviction for a first offense (8 R. C. L., p. 275), and the appellee could not have been fined twenty-five dollars for a first offense and two hundred dollars for a second offense, in this case, but was fined twenty-five dollars for each of two first offenses charged in the complaint, or fifty dollars.
+Finding no reversible error in the record, the judgment of the trial court is affirmed.
+Judgment affirmed.
