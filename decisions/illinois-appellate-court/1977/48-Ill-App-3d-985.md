@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "13845"
+decided: "1977-05-31"
+citations: ["48 Ill. App. 3d 985"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DON B. JARRELL et al., Plaintiffs-Appellants, v. STEVE HARTMAN et al., d/b/a S & L Developments, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0985-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3370299
+cites_cases: ["280 N.E.2d 208", "282 N.E.2d 149", "336 Ill. App. 533", "4 Ill. App. 3d 838", "84 N.E.2d 676"]
+---
+
+# Jarrell v. Hartman
+
+## Majority (Mr. PRESIDING JUSTICE CRAVEN)
+
+Mr. PRESIDING JUSTICE CRAVEN
+delivered the opinion of the court:
+On December 11, 1975, defendants, as lessors, entered into a written lease with plaintiffs, as tenants, wherein plaintiffs agreed to rent an apartment located at 202 East John Street, Champaign, Illinois, for seven months beginning January 15, 1975, at a rate of *230 per month. Subsequently, a controversy arose as to whether the building complied with the Champaign building code which is the Code of the Building Officials and Code Administrators International, Inc. (BOCA) 1970. The Champaign city manager requested and received the report from BOCA on the building in question which noted many code violations.
+Plaintiffs then brought suit in Champaign County circuit court. All but counts I and II were dismissed voluntarily. The court struck a portion of count I and dismissed all of count II on defendants’ motion for failure to state a cause of action. Plaintiffs then amended count I and defendants moved for summary judgment. The court entered an order granting the previous motion to dismiss instead of ruling on the summary judgment motion. This appeal involves the validity of the order dismissing counts I and II and the complaint.
+Count I sought damages on the theory of breach of implied warranty of habitability. This requires us to decide whether a tenant states a good cause of action based on a theory of implied warranty of habitability where he alleges that the premises he rents are in violation of the local housing ordinance. And if so, does the complaint here state a cause of action under such a theory? Resolution of the threshold issue depends upon the applicability oi Jack Spring, Inc. v. Little (1972), 50Ill. 2d 351, 280 N.E.2d 208, to the instant situation. In Jack Spring, the Illinois Supreme Court recognized an implied warranty of habitability in multiunit dwellings which is fulfilled by substantial compliance with the provisions of the local building code. In Jack Spring, the implied warranty was raised as an affirmative defense. In the present case, the tenant seeks to use it as a basis for a complaint. In Gillette v. Anderson (1972), 4 Ill. App. 3d 838, 282 N.E.2d 149, Jack Spring was extended to allow a tenant to bring a cause of action based on the implied warranty of habitability, the standards of that warranty being the local housing ordinance of Waukegan. We see no reason not to follow Gillette and provide the tenant a cause of action.
+It would be an anomalous result to deny a tenant a remedy when he has paid his rent where, on the other hand, he could use the breach of the implied warranty as a defense in a suit for rent brought by the landlord. It makes no difference whether the tenant has paid his rent or not, if he alleges substantial violations of the local housing ordinance affecting his leasehold in a multiple unit dwelling, he has stated a good cause of action under the theory of implied warranty of habitability. Here plaintiff failed to specifically allege his apartment was part of a multiunit dwelling; however, it is clear from all the pleadings that the building is a multiple unit.
+We are unpersuaded by the defendants’ argument that since the defects complained of primarily pertain to the common area, i.e., halls and stairways, they are not “substantial.” Building code violations in the common areas of a multiunit dwelling may be as dangerous or uncomfortable to the tenants as defective conditions within their respective apartments. The public policy considerations that permit of a cause of action are not so fractured as to allow for a cause of action for a substantial defect in an apartment and deny any remedy for defects in halls or stairs leading to the apartment. Defendants further argue that even if a tenant can maintain a cause of action for breach of the implied warranty of habitability, he should first be required to give the landlord notice and a chance to repair. We see no merit to this argument. No such requirement was discussed in Jack Spring. It would be strange indeed to require a tenant to give a landlord notice of what the law is with reference to the landlord’s duty or duties. Furthermore, we are unaware of any common law contract principle which requires the nonbreaching party to fulfill such conditions precedent prior to suit against the breaching party. It is, therefore, our conclusion that count I was dismissed erroneously.
+Count II sought damages for the diminished value of the leasehold, lost income, pain and suffering and punitive damages — all under a tort theory. We need not reach the question of whether intentional building code violations can create liability under a negligence theory, since count II contains no allegation that plaintiff was free from fault. It is elementary that where, as here, the complaint charges defendant with wilful and wanton misconduct, it is essential that plaintiff allege freedom from contributory wilful and wanton misconduct. (Prater v. Buell (1949), 336 Ill. App. 533, 84 N.E.2d 676.) For this reason, count II was properly dismissed.
+For the foregoing reasons, the judgment of the circuit court of Champaign County is affirmed in part, reversed in part and remanded for proceedings not inconsistent with this opinion.
+Affirmed in part, reversed in part, and remanded with directions.
+REARDON and HUNT, JJ., concur.
