@@ -1,0 +1,43 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-145"
+decided: "1977-04-28"
+citations: ["48 Ill. App. 3d 459"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. LAWRENCE HAYES et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3370151
+cites_cases: ["224 N.E.2d 242", "24 Ill. App. 3d 489", "26 Ill. App. 3d 691", "268 N.E.2d 695", "27 Ill. App. 3d 408", "297 N.E.2d 129", "304 N.E.2d 276", "317 N.E.2d 529", "321 N.E.2d 489", "325 N.E.2d 336", "327 N.E.2d 261", "356 N.E.2d 779", "36 Ill. 2d 524", "47 Ill. 2d 510", "54 Ill. 2d 372", "55 Ill. 2d 521", "58 Ill. 2d 202", "64 Ill. 2d 536"]
+---
+
+# People v. Hayes
+
+## Majority (Mr. PRESIDING JUSTICE DIERINGER)
+
+Mr. PRESIDING JUSTICE DIERINGER
+delivered the opinion of the court:
+The defendants, Lawrence Hayes and James Woodland, were found guilty of armed robbery (Ill. Rev. Stat. 1973, ch. 38, par. 18 — 2) after a jury trial in the circuit court of Cook County. Woodland was sentenced to a term of 5 to 10 years, and Hayes was sentenced to a term of 8 to 15 years in the penitentiary. The issues are whether the court erred by allowing the admission of the defendants’ prior convictions for impeachment purposes and whether the court erred in denying Woodland’s motion for a Fourth Term discharge.
+The complainant, Ronald Christensen, testified that he left his job between 5 and 6 a.m. on February 17, 1974, and boarded a northbound CTA train at Grand Avenue and State Street. While he was on the train, he noticed the defendants were looking at him suspiciously. He left the train at Fullerton and Sheffield, and the defendants followed him out. As he proceeded down the stairs from the train platform, the defendant Hayes ran past him and then turned around. Hayes first asked directions and then took out a razor knife and pinned him against the wall, holding the knife against his neck. Hayes and Woodland went through his pockets and took $15 and a wristwatch. The defendants then fled up the stairs to the platform, and Christensen continued down the stairs where he talked to the station master.
+Shortly thereafter, the police arrived. Christensen told them the station master was holding the train, and he described the robbers. He followed the officers up the stairs to the train platform and then entered one of the cars of the southbound train where he identified Hayes, Woodland and a third man. Christensen also identified a knife taken from Hayes as being the one that was held against his neck.
+Officer Charles Santo testified that upon arriving at the train station, he had a conversation with Christensen for about 30 or 40 seconds, and then he and his partner, Officer Holtzman, went up the stairs to the platform. After Christensen identified Hayes, Holtzman conducted a search and recovered a razor knife. He also testified that at the Fullerton platform it is possible to enter either a northbound or southbound train.
+Neither defendant testified at trial.
+Prior to the trial, defense counsel moved to exclude the defendants’ prior convictions for the purpose of impeaching their testimony should they take the stand. The State indicated that Woodland had pleaded guilty to a robbery charge in 1971, and Hayes had been sentenced on two robbery charges in 1971. The defense counsel asked that the court exercise its discretion and exclude the previous convictions under the case of People v. Montgomery (1971), 47 Ill. 2d 510, 268 N.E.2d 695. He argued that the probative value would be outweighed by the prejudice, but the corut denied the motion.
+The defendants contend the court erred by failing to hold a proper hearing to elicit information upon which to exercise its discretion, as required by People v. Montgomery. The defendants argue the court should have considered the remoteness or nearness of the prior conviction and the type of conviction (People v. Montgomery), and also whether it might be appropriate to rule on the motion after the defendants had testified (People v. Barksdale (1974), 24 Ill. App. 3d 489, 321 N.E.2d 489).
+A similar contention was advanced in the case of People v. Washington (1973), 55 Ill. 2d 521, 523-24, 304 N.E.2d 276, wherein the court stated:
+“While it would normally be assumed that a trial judge had given appropriate consideration to the relevant factors without requiring a specific evaluation in open court of each of them, it is clear from this record that the trial court in fact had an adequate basis upon which to exercise its sound discretion.”
+Also see People v. Graham (1975), 27 Ill. App. 3d 408, 413, 327 N.E.2d 261; People v. Dee (1975), 26 Ill. App. 3d 691, 325 N.E.2d 336.
+In the instant case the record reflects that the court based its determination on the Montgomery standards and allowed the defense an opportunity to present its motions without restriction. We conclude the trial court did not abuse its discretion and it properly denied the defendants’ motions with respect to admitting their prior convictions for purposes of impeachment.
+The defendant Woodland contends the trial court improperly denied his petition for discharge under section 103 — 5(a) of the Four Term Act (Ill. Rev. Stat. 1973, ch. 38, par. 103 — 5(a)). Woodland was arrested on February 17, 1974, and at a hearing on May 29, 1974, defense counsel requested that bonds set at the preliminary hearing be maintained for each defendant. The cause was continued until June 13, 1974, by agreement of the parties, and at the close of the hearing the assistant public defender representing both defendants, stated:
+“I would indicate to each of the defendants that if they are able to make bond that they must be in the courtroom on June 13, at 10 o’clock in the morning.”
+On June 13,1974, Woodland failed to appear, and the State asked for a bond forfeiture which was entered and continued until July 2,1974. When Woodland failed to appear on that date, a bond forfeiture warrant was issued, and the case with respect to Woodland was dismissed with leave to reinstate.
+Woodland was arrested on the bond forfeiture warrant on October 28, 1974, and on November 25, 1974, the State moved to reinstate and redocket the case. On November 27, 1974, Woodland made an oral motion for a Fourth Term discharge, and on December 5,1974, a written motion was filed. The defendant asserted that even though he was unable to make bond on May 29, 1974, he was released and told to go home. After a hearing on February 5, 1975, the motion for discharge was denied.
+Woodland contends he did not cause any delay on June 13,1974, and the term commenced on that date. He argues that because he was improperly released on May 29, 1974, without making bond, he must be considered to have been in custody; therefore, the 120-day limitation of section 103 — 5(a) which pertains to those incarcerated while awaiting trial, applies rather than the 160-day limitation of section 103 — 5(b), which pertains to defendants who are free on bond awaiting trial. (Ill. Rev. Stat. 1973, ch. 38, par. 103 — 5.) Consequently, he concludes the reinstatement of the case on November 25, 1974, 164 days later, was not timely. However, in the case of People v. Fosdick (1967), 36 Ill. 2d 524, 528-29, 224 N.E.2d 242, the court stated the applicable rule when considering if the delay in the trial was “occasioned by the defendant.”
+“In determining this question, the criterion in each case is whether the defendant’s acts in fact caused or contributed to the delay. In the varied fact situations that involve the 120-day rule, we have carefully examined the facts to prevent a ‘mockery of justice’ either by technical evasion of the right to speedy trial by the State, or by a discharge of a defendant by a delay in fact caused by him.”
+Also see People v. Nunnery (1973), 54 Ill. 2d 372, 375-76, 297 N.E.2d 129 and People v. Shields (1974), 58 Ill. 2d 202, 204, 317 N.E.2d 529.
+With respect to offenses committed prior to March 1,1977, a delay occasioned by the defendant tolls the running of the statute and a new statutory period commences to run from the date to which the case has been delayed. (People v. Donalson (1976), 64 Ill. 2d 536, 540, 356 N.E.2d 779.) In this case the delay was caused when Woodland failed to appear on June 13, 1974, and the running of the statute was tolled until Woodland was arrested on October 28, 1974.
+For the reasons stated herein the judgment of the circuit court of Cook County is affirmed.
+Affirmed.
+JOHNSON and LINN, JJ., concur.
