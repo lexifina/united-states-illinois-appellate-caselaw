@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-09-11"
+citations: ["97 Ill. App. 43"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. S. Merchant et al. v. Edward Manion."]
+source_url: "https://static.case.law/ill-app/97/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5298133
+---
+
+# Merchant v. Manion
+
+## Majority (Mr. Justice Wright)
+
+Mr. Justice Wright
+delivered the opinion of' the court.
+In the first instance this was a suit in attachment by appellee against Merchant alone, and afterward by amendment M. J. Sullivan was added as joint defendant, and thereafter the suit proceeded jointly against both the appellants. The plea of the general issue, and a special plea denying joint liability, were pleaded to the declaration, which was in assumpsit for the work, labor and services of the plaintiff, done, performed and bestowed to appellants at their request, and for money lent, paid out and expended at the request of the defendants, and for goods, chattels and effects sold to them. The issues formed upon the attachment and the declaration were tried by a jury and resulted in a finding for appellee on both issues, and the damages were assessed against both defendants at $375. The court overruled appellants’ motion for a new trial, and gave judgment upon the verdict, to reverse which they bring their appeal to this court, and it is insisted various errors occurred upon the trial, but it is chiefly argued the verdict is contrary to the law and the evidence of the case, and the evidence fails to prove a joint liability of the defendants.
+Appellee claims he was employed by appellant Merchant at $100 per month, to have charge of race horses then in the possession of Merchant; that in pursuance of such employment he took the charge of the horses, performed the services required of him, paid out money for shipping and entering the horses in several races, and for their feed and keeping. To these facts appellee testified upon the trial. Merchant denied that he employed appellee or that he rendered the services or paid out the money for him as claimed. Merchant claimed that appellee was but a tout, following the horses from place to place, in pursuit of his own business. And other witnesses testified, more or less, to the same effect, so that the evidence between appellee and Merchant was conflicting.
+As far as we have been able to discover from the evidence, independently of the possession by Merchant, there is no exúdence of the ownership of the horses, and in the absence of such, it will be presumed from such possession, that Merchant oxvned them.
+Upon examination we find no sufficient evidence to support a verdict against appellant Sullivan. It does not appear that there was any business relation between the two appellants or that Merchant had any authority as agent or otherwise to bind Sullivan in whatever relation or transactions he may have had with appellee. The burden of proof was upon appellee to prove that Sullivan was jointly liable with Merchant, and this, we think, he failed to prove, and hence the verdict that was returned is not supported by the evidence.
+Complaint is made by counsel for appellants that the court did not instruct the jury that they might find against one and not both of the defendants. In this respect the court was right, for it is the familiar rule in actions ex contractu;, the verdict must be against all or none of the defendants; and if appellants desired the jury to have been correctly instructed upon this point they should have presented an instruction to the court, which doubtless would have been given if requested.
+It is argued also bv appellant Sullivan, that the court erred in overruling his motion to quash the attachment writ that was issued and served upon him, after the original writ was issued and served upon Merchant. We find in the record an interpleader filed by Sullivan, claiming the attached property, the horses in controversy, as his property, and denying the same to be the property of Merchant.. As we have already said, no evidence is contained in the record as to the actual ownership of the horses, and Ave presume they Avere the property of Merchant merely from his- possession of them. Appellant Sullivan was entitled to have the issue tendered by his interpleader tried, if he had insisted upon it, notwithstanding he Avas afterward made a party defendant to the suit, but so far as we are able to see from the record, he Avaived this right. If the attached property belonged to Merchant the only office the alias writ of attachment performed against Sullivan Avas that of a summons, and if the issuance and service of such writ upon him was irregular, as contended by counsel, he, by pleading to the declaration as he did, Avaived this irregularity, and can not now avail himself of it as error in this court.
+Because there was no joint liability proved against appellants the verdict is contrary to the law and the evidence of the case, and the judgment of the County Court is therefore reversed and the cause remanded for further proceedings not inconsistent with the views herein expressed. Reversed and remanded.
