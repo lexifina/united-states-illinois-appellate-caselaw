@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-189"
+decided: "1975-10-14"
+citations: ["33 Ill. App. 3d 365"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David L. Czerny, Plaintiff-Appellee, v. Judith A. Czerny, n/k/a Judith A. LaCour, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/33/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2874680
+cites_cases: ["105 N.E.2d 300", "107 Ill.App.2d 74", "245 N.E.2d 784", "26 Ill.App.3d 131", "324 N.E.2d 645", "411 Ill. 408"]
+---
+
+# Czerny v. Czerny
+
+## Majority (Mr. JUSTICE KARNS)
+
+Mr. JUSTICE KARNS
+delivered the opinion of the court:
+This is an appeal from an order of the Circuit Court of Madison County modifying certain terms of a divorce decree granted plaintiffappellee in 1972. The decree incorporated a stipulation of the parties and established custody of two minor children in defendant-appellant, the mother, subject to certain visitation rights in plaintiff, including two specified evenings each week from 5:30 p.m. to 8 p.m., alternate weekends, alternate specified national holidays and one-month continuous visitation each summer. Subsequently, several petitions and counter-petitions to modify the decree and for other relief were filed by both parties. In June, 1974, an order was entered disposing of all pending petitions and reaffirming the original decree. In July, 1974, defendant filed a petition for leave to remove the children to Missouri. Plaintiff filed an answer to the petition and filed a petition for modification of the decree to extend summer visitation rights and for relief from certain child support payments. In September, 1974, a hearing was held on the two petitions. The primary change of circumstances from the time of the initial decree was defendant-appellant’s remarriage and relocation with her new husband in Hazelwood, Missouri. Plaintiff sought to relinquish visitation for the two evenings a week but asked for longer continuous visitation during the summer. After evidence was heard, the court entered an order terminating the weekday visitation and allowed two months’ continuous visitation in the summer to plaintiff without visitation by defendant during that period. The court further allowed defendant’s request that she be allowed to remove the children to Missouri and denied plaintiff relief from child support for the summer months during which he had custody of the children. On appeal, defendant contests only the extension of summer visitation from one month to two without any visitation by defendant.
+Defendant contends that the order of the trial court is, in effect, a change of custody and that the record contains no evidence of a change in circumstances which would justify such action. Plaintiff, on the other hand, denies that a change of custody has been effected and argues that defendant’s relocation in Missouri was a sufficient change to justify the court’s decision to terminate the twice weekly evening visits and extend summer visitation.
+There is no doubt that a change of custody is to be based solely upon a substantial change of circumstances materially affecting the welfare of the minor children. (Nye v. Nye, 411 Ill. 408, 105 N.E.2d 300 (1952); Brady v. Brady, 26 Ill.App.3d 131, 324 N.E.2d 645 (1975).) On the other hand, a change in visitation, being a less drastic procedure, is founded upon the best interests of the children. (Keefer v. Keefer, 107 Ill.App.2d 74, 245 N.E.2d 784 (1969).) We are not called upon, however, to distinguish between these rules since we believe that the record contains no evidence which would warrant a change of visitation in this case.
+Both parties argued at the hearing that plaintiff’s twice weekly evening visitation had become impractical because of the distance separating plaintiff from his children. The evidence, however, was that defendant’s new residence in Hazelwood, Missouri, is neither more distant nor more inconvenient of access than her former residence in Illinois. The court apparently attempted to compute the days of visitation lost by plaintiff because of this termination and compensate plaintiff by adding a month of continuous visitation. This quid pro quo bore no relation to the interest of the children or even the convenience of the parties. Once this decision was made, defendant attempted to secure some visitation during this two-month period. When the parties quibbled about details of such visitation, the court made its ruling that the two months would include no visitation by defendant. This ruling again bore no relation to the needs or interest of the children, but apparently was designed simply to avoid further unfortunate squabbling between the parents.
+We believe that the continuous two-month visitation in the summer without visitation by the mother unnecessarily deprives her, the custodial parent, of her right to see and care for the children and is therefore not in the best interest of the children. We further believe that the original visitation period of one month during the summer and alternate weekend visitation adequately provides for the necessity of both parents to establish lasting and intimate relations with the children necessary for their proper development.
+That portion of the order of the Circuit Court of Madison County entered on October 23, 1974, establishing visitation rights in plaintiff for two months during each summer is modified to establish such rights for one month to include plaintiff's vacation period. In all other respects, the order is affirmed, and the cause is remanded for further proceedings not inconsistent with this opinion.
+Reversed; decree modified; cause remanded.
+JONES, P. J., and CARTER, J., concur.
