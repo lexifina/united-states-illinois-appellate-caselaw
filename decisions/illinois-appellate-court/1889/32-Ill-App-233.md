@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-11-23"
+citations: ["32 Ill. App. 233"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anton Mayer v. Orpy E. Oldham and John M. Oldham."]
+source_url: "https://static.case.law/ill-app/32/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4980556
+cites_cases: ["127 Mass. 583", "16 Ill. 94", "4 Harrington, 311", "52 Ill. 27", "52 Ill. 313", "56 Ill. 542", "6 Mass. 506", "96 Ill. 301"]
+---
+
+# Mayer v. Oldham
+
+## Majority (Conger, J.)
+
+Conger, J.
+This was a bill to foreclose a mortgage executed by appellee and her husband to appellant. Several defenses were set up by appellees, only one of which it is necessary to notice and that was duress.
+Upon the hearing the Circuit Court dismissed the bill and appellant brings the record to this court for review.
+The principal facts appearing from the evidence are that the note which the mortgage secured was for the sum of $904.50 and was executed September 20, 1884, at Terre Haute, Indiana, and made payable at a bank in Harsh all, Clark county, Illinois, where the land included in the mortgage was situate. John H. Oldham had been at work for appellant driving a beer wagon and, as claimed by the latter, Oldham, during the months of July and September, 1884, embezzled about $810, and upon failure to pay this money was discharged from appellant’s employment.
+In the evening of September 20th, J. D. Early, a police officer of Terre Haute, about half past six o’clock met Oldham on the back stairway of his residence, and told him Mr. Vandever, who was the chief of police of the city, wanted to see him at police headquarters, and Oldham went thither with him. This is the way the circumstance is stated by Early, while Mrs. Oldham says at about eight or nine o’clock Saturday night the policeman came into their home, and took her husband out in the hall, when she followed and asked what was wanted, and that Early replied that he did not know, but that the chief, of police wanted Oldham at police headquarters. \
+Shortly afterward Mrs. Oldham went to police headquarters to ascertain what the trouble was, when she learned that her husband was .held upon this charge of embezzlement, and propositions were made by appellant and his attorney, Mr. Hendrich, to settle the matter by Mrs. Oldham giving the note in question and securing it by a mortgage upon her land in Clark county, Illinois; appellant, Mayer, his attorney, Mr. Hendrick, and appellees, Oldham and his wife, then went to the latter’s residence, accompanied by Early, the policeman, who went along as he says by instructions of Vandever, the chief of police, and who says he staid outside the door where he could see what became of Oldham, and remained there on guard until the matter was arranged, and Mayer and Hendrich came out, of the house, when the latter told him that the matter was all straightened up and he could go home, which he did.
+As to what took place at Oldham’s house when the note and mortgage was executed, there is in the evidence a direct contradiction, Oldham and his wife testifying that both Mayer and his attorney, Hendrich, said if she did not sign the note and mortgage her husband would be taken to jail, and then sent to the penitentiary, but that if she would sign them, no one except the four present would ever know anything about the charge made against Oldham. That Mrs. Oldham was sick and frightened, and asked time to consider of the matter, and consult an attorney, which was refused by Mayer and his attorney, and that she finally signed the papers, as she says, because she was frightened and thought if she did not they would send her husband to the penitentiary. These statements are denied by Mayer and Hendrich who say that they made no threats whatever.
+While, therefore, it may not be satisfactorily established that the threats spoken of by appellees were made, a consideration of the circumstances under which the note and mortgage was executed by appellee, Mrs. Oldham, will show that it was induced by the unlawful imprisonment of her husband. The arrest and detention of Oldham was unlawful, without reference to the question of his guilt or innocence, because such arrest was used by Mayer and Hendrich, his attorney, for the sole purpose of enforcing a settlement of a claim, and with no purpose of enforcing the criminal law. This was an abuse and perversion of criminal process, against public policy, and no court will allow the results followingfrom it to be enjoyed by him who so uses it. Bane v. Detrick, 52 Ill. 27; Gorham v. Keys, 127 Mass. 583.
+To show the purpose of the arrest, it is only necessary to give a few extracts from the evidence of the actors in the proceeding.
+Appellant, Mayer, says: “ I had two talks with Oldham, and my bookkeeper talked with him; I had another talk with him on the evening he was arrested. Mr. Hendrich was my attorney in the matter; he sent for Vandever and told him about it; Vandever was chief of police; we sent for him to arrest Oldham; I told him to bring Oldham up to me; they had no orders to take him to police headquarters; I had him in the custody of the police to get a settlement out of him.”
+Vandever, chief of police, says: “We had no papers for taking him (Oldham); he was in custody on instructions from Mr. Mayer; we would not have permitted him to go if he had wanted to; Mayer instructed me to find Oldham and then he thought he (Oldham) would fix the matter all right. The understanding was, that they were to settle the trouble and Oldham was then to be released, and not until then.”
+Mr. Hendrich, the attorney, says: “He (Oldham) was in charge of an officer all the evening. The object in having an officer was to keep him in sight, as we had difficulty in finding him.”
+Appellant, by his own showing, seems thus to have -had the police force of the city so completely under his control that upon his declaration to the chief of that body that he desired one of his debtors an arrested and held in custody until he should settle, it was done. Ho thought seems to have been entertained of carrying this alleged defaulter before any other tribunal than Mayer and his attorney; and when the arrest had accomplished its intended purpose, an order of discharge from Hendrich seems to have been accepted by all parties as a complete end of this novel transaction.
+It can not be doubtful, we think, but that for the unlawful means thus employed the contract would not have been entered into; that there was unlawful imprisonment and duress because the criminal law was used for an unlawful purpose, and therefore the note and mortgage executed by Mrs'. Old-ham should not be held binding upon her.
+The decree of the Circuit Court will be affirmed.
+Decree affirmed.
