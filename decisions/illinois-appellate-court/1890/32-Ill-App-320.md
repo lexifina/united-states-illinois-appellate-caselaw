@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1890-02-14"
+citations: ["32 Ill. App. 320"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The President and Trustees of the Town of Rushville v. Town of Rushville et al."]
+source_url: "https://static.case.law/ill-app/32/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4979125
+cites_cases: ["111 Ill. 527", "12 Ill. 339", "123 Ill. 659", "14 Ill. 334", "38 Ill. 274", "4 Gil. 221", "4 Gilm. 221", "42 Ill. 490", "43 Ill. 297", "44 Ill. 198", "64 Ill. 528", "75 Ill. 605", "78 Ill. 548", "84 Ill. 590", "92 Ill. 569"]
+---
+
+# President of Rushville v. Town of Rushville
+
+## Majority (Conger, J.)
+
+Conger, J.
+John S. Stutsman, during the year 1888, was treasurer and ex-officio collector of delinquent taxes of Schuyler county, and he filed this bill of interpleader, requiring the president and trustees of the town of Rushville, and the town of Rushville (the former being an incorporated village and the latter the township), to interplead as to the sum of $43.70—■ being one-half of the amount of the highway tax levied by the commissioners of highways of the town of Rushville on property within the corporate limits of Rushville (the village) for road and bridge purposes.
+The corporation relies upon Sec. 4, Art. 7 of its charter (Private Laws of 1869, Vol. 4, page 38), which is as follows: “Prom and after the passage of this act, the collectors of the several townships in which said town of Rushville is located and included, shall, in the collection of all bridge or road tax levied and collected for township purposes, by township authorities, keep an account of the amount of all such taxes by them collected, on property within the corporate limits of said town of Rushville; and upon the collection thereof shall pay to the town treasurer of the'town of Rush-ville such amount as shall have been collected upon property within the limits of said town; and the same shall be exclusively expended by said town in improving the streets and highways, and in building and repairing the bridges within the corporate limits of the town; and said town is hereby, made a road district, under the management and control of the said corporation.” The town of Rushville, on the other hand, insists that the foregoing provision of the charter has been repealed and rendered nugatory by Sec. 16 of the act entitled “ Roads, Highways and Bridges.” See Session Laws of 1883, p. 136.
+The last half of said Sec. 16, the only part that is germane, provides: “ Provided that one-half the tax provided to be levied in Sec. 13 of ‘ this act ’ (tax levied on the property of the town for road and bridge purposes, Sec. 13 of said act), and collected for road and bridge purposes, on the property lying within an incorporated village, town or city in which the streets and alleys are under the care of the corporation, shall be paid over to the treasurer of such village, town or city, to be appropriated to the improvement of the roads, streets and bridges, either within or without said village, town or city, and within the township, under the direction of the corporate authorities of such village, town or city.” The Circuit Court held that' the general law of 1883 repealed the foregoing provision of the chapter, and that the corporation was entitled to but one-half of the highway taxes raised within its limits, and the correctness of such holding is the only question presented by the record.
+The rules in reference to a repeal by implication are: “A statute will never be held to be repealed by implication if it can be avoided on any reasonable hypothesis. A statute will not be repealed by implication unless the subsequent act is so inconsistent and repugnant to its provisions that the two can not stand together. A subsequent general law will not, by implication, operate as a repeal of a special law on the same subject, though inconsistent with it. And a repealing clause of a general statute will not repeal a special one on the same subject, unless a clear intention is manifested that such repealing clause shall embrace special as well as general laws.” Bruce v. Schuyler, 4 Gilm. 221; Board of Supervisors v. Campbell, 42 Ill. 490; Town of Ottawa v. La Salle Co., 12 Ill. 339; Butz v. Kerr, 123 Ill. 659.
+We see no difficulty in holding that the provision of the charter of Rushville may be sustained and enforced, notwithstanding the subsequent general law. It is not unreasonable, we think, to say that the legislature intended, by the law of 1883, to provide a rule applicable to all corporations not having any special provision in their charters upon the subject, but did not intend to interfere with provisions inconsistent with such general rule when found in special charters. The case of Butz v. Kerr, supra, is, we think, very much in principle like the one at bar.
+The decree of the Circuit Court will be reversed, and the cause remanded, with directions to that court to enter a decree for the amount of money in controversy in favor of appellants, the president and trustees of the town of Rushville.
+Reversed and remanded, with directions.
