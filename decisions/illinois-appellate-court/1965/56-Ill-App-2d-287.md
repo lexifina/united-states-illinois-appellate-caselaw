@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 49,969"
+decided: "1965-03-19"
+citations: ["56 Ill. App. 2d 287"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BRYANT and LYONS, JJ., concur."]
+parties: ["Gerald W. Getty and Helen M. Getty, Plaintiffs-Appellees, v. Union Bank of Chicago, et al., Defendants, Victor G. Nardi, Successor to Union Bank of Chicago as Trustee Under Trust Agreement Dated February 5, 1926, and Known as Trust No. 1163, Intervening Petitioner-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/56/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5285165
+cites_cases: ["124 NE2d 643", "4 Ill App2d 385"]
+---
+
+# Getty v. Union Bank of Chicago
+
+## Majority (MR. PRESIDING JUSTICE BURKE)
+
+MR. PRESIDING JUSTICE BURKE
+delivered the opinion of the court.
+This is an appeal from an order dismissing intervenor’s petition and amendment to petition by which he sought to vacate a decree quieting title in plaintiffs to certain real estate.
+On June 4, 1962, plaintiffs filed their complaint to quiet title to the following described real estate:
+Lots 28 and 29 in Block 5, and Lots 20, 21 and 22 in Block 2 in Torrence Bernice Addition, a Subdivision in the South West quarter of the North West quarter of Section 30, Township 36 North, Range 15, East of the Third Principal Meridian in Cook County, Illinois.
+Named as defendants in the complaint were the Union Bank of Chicago, William M. Jeffery, unknown beneficiaries of the Trust of the Union Bank of Chicago, Trustee under Trust Agreement Number 1163 and dated February 5, 1926, and “Unknown Owners.”
+In addition to the complaint, plaintiffs filed two affidavits, one of which stated that, upon diligent inquiry, all parties named as defendants cannot be found so that process cannot be served upon them, that their places of residence cannot be ascertained and that their last known place of residence is and are unknown. The second affidavit related to “unknown owners” and recited that, in addition to the persons designated as defendants by name, other persons exist who claim some interest in the real estate, that plaintiffs are unable to ascertain the identity of these persons upon diligent inquiry and that they are made parties defendant as “unknown owners.”
+Numerous parcels of real estate were included in Trust Agreement Number 1163, among which were the five lots in question. Subsequent to the creation of the Trust, trustee Union Bank went into liquidation and James S. Rodie was appointed receiver. On February 1, 1933, a letter allegedly' signed by the beneficiaries of the Trust was delivered to Union Bank and its receiver appointing intervenor successor trustee of Trust Number 1163 and directing that all property included in the Trust be conveyed to intervenor. On the same day a deed was given to intervenor by the Union Bank conveying to intervenor specific parcels of real estate in the Trust, which deed did not include the lots in question. The deed, which was recorded with the County Recorder on March 19, 1934, in no way purported to be a conveyance of all of the property of the Trust.
+In May of 1934, John W. Guild was appointed successor trustee of all unclosed trusts and fiduciary accounts of which the Union Bank had been trustee. Mr. Guild administered the trusts and closed several of them prior to his death in 1957. The five lots in question had not been the subject of a conveyance during his administration. Upon his death, Mr. Guild’s heirs and next-of-kin filed a petition for the appointment of a successor trustee to administer all remaining unclosed trusts of which Mr. Guild had been successor trustee. An order was entered on October 27, 1957, appointing Jacob B. Courshon as successor to Mr. Guild, vesting him with full and complete legal title to “all the real estate now constituting all or any part of the Estate of said unclosed Trusts.”
+Mr. Courshon, as trustee, conveyed the lots in question to plaintiffs by quit claim deeds on November 8, 1960, and November 25, 1960. The decree quieting title in plaintiffs was entered July 17, 1962. Pursuant to Section 50(8) of the Civil Practice Act (Ill Rev Stats 1961, c 110, par 50(8)) intervenor filed his petition and amended petition to vacate the decree, which were dismissed on motion of plaintiffs and from which dismissal intervenor appeals.
+Intervenor maintains that plaintiffs’ affidavit relating to “unknown owners” is defective, resulting in complete lack of jurisdiction in the trial court over the subject matter; that intervenor had an absolute right to file his petition and to have a hearing thereon; and that the petition questioned the title of successor trustee Courshon to the lots and his right to convey them to plaintiffs, and therefore presented facts which were admitted by plaintiffs by their motion to dismiss. Intervenor’s position presumes he was one of those defendants designated in the complaint as an “unknown owner” which in turn gave him the right to file his petition and be heard thereon. The record, however, clearly shows that he does not have, nor did he ever have, any interest in the lots in question such as would give him standing before the court as an “unknown owner.” The trial court properly dismissed intervenor’s petition and amendment to petition.
+The deed of February 1, 1933, conveyed to intervenor only those parcels of real estate of Trust Number 1163 specifically referred to in the deed, and in no way purported to be a conveyance of all of the real estate under the Trust. The five lots in question were not a part of this conveyance, nor were they the subject of any conveyance by the Union Bank or its receiver before Mr. Guild was appointed successor trustee. Trust Number 1163 was therefore one of the “unclosed trusts” of which Mr. Guild was appointed successor trustee. Through the decree of October 21, 1957, Mr. Courshon succeeded to the title formerly held by Mr. Guild. Mr. Courshon then conveyed the five lots in question to plaintiffs. Intervenor at no time could have exercised any rights in the five lots commonly connected with legal ownership as a trustee since plaintiffs’ chain of title extends back to the original trustee, the Union Bank of Chicago.
+Intervenor’s attempt to classify himself as an “unknown owner” by virtue of the letter purportedly signed by the beneficiaries of the Trust in 1933 is unavailing. The letter at most was a mere direction to convey all the property included under Trust Number 1163 and in no way can be considered a prior unrecorded deed or interest. See Prassas v. Jana, 4 Ill App2d 385, 124 NE2d 643. Further, not only was intervenor a party to the February 1, 1933 conveyance which plainly did not include the five lots in question, but he waited almost thirty years before attempting to enforce any rights he claims he received through the letter and then only after the rights of innocent third parties had intervened. Finally, any interest to which intervenor may have laid claim was foreclosed by the decree of October 21, 1957, which vested title to all property in the unclosed trusts in successor trustee Courshon.
+The order is affirmed.
+Order affirmed.
+BRYANT and LYONS, JJ., concur.
