@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-04-16"
+citations: ["94 Ill. App. 471"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clinton B. Wiser v. Springside Coal Mining Co."]
+source_url: "https://static.case.law/ill-app/94/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5292102
+---
+
+# Wiser v. Springside Coal Mining Co.
+
+## Majority (Mr. Presiding Justice Shepard)
+
+Mr. Presiding Justice Shepard
+delivered the opinion of the court.
+One Braggins had been in the coal business for some years in the city of Chicago, and until the end of June or the first of July, 1895, he did his business under the guise of the corporate name of “The Standard’Coal and Coke Company,” of which he purported to be president. It was in evidence that nobody except Braggins owned any of the stock of that corporation, except enough to comply with the corporation statute. In the expressive language of a witness, “ the whole thing was Mr. Braggins.”
+Some time in September, 1895, and prior to September 11th, Braggins solicited appellant to buy of him appellant’s supply of coal for the winter at a stated price per ton delivered at appellant’s house. Braggins was owing appellant, at the time, an unpaid balance of purchase price for a house and lot, and it was agreed between Braggins and appellant that the latter should, in payment for the coal, assume to pay some arrears owing by Braggins for insurance premiums and taxes on the property, and credit Braggins on his debt for the house and lot, with the remainder of the price for coal. The proper book entries were accordingly made. At the same time the coal was so bought, Braggins handed to appellant his business card, and on the back thereof made a memorandum concerning the transaction. The face of the card, and the indorsement made by appellant, read as follows :
+“Wm. Braggins, Pres. B. W. Campbell, Sec. and Treas.
+Standard Coal and Coke Comp ant.
+Mine agents and shippers of coal and coke.
+102 Adams Express Bldg., 183-185 Dearborn street.
+Telephone, Main 3424.”
+(Indorsement.)
+“ Bought of Wm. Braggins 44 tons of coal, delivered at my house at $4.85 per ton, same to be credited on house, amounting to $213.40. I to advance money to pay insui anee and taxes out of same.”
+It seems to be pretty clearly established by the evidence that at the time of this transaction Braggins was no longer in business for himself or the Standard Coal and Coke Company, but was employed as agent in the selling of coal for the appellee. But the appellant was in entire ignorance of such fact, and believed Braggins was acting for himself, as theretofore. About a year before this transaction appellant had bought his supply of coal for the ensuing winter of Braggins, under substantially the same circumstances, and no questions had arisen because of that transaction.
+About the time of that previous year’s transaction, appellant investigated and ascertained that Braggins and the Standard Coal and Coke Company were substantially the same as Braggins individually, and nothing had occurred after that time-to put appellant on inquiry as to any change in his business relations.
+The coal in question appears to have been delivered on September 11, 1895, but appellant did not know or have reason to know, until after its delivery, that appellee claimed to be entitled to receive pay for it, or even that it was delivered by appellee. The opening proposition in appellee’s brief is:
+11 If there was anything in the circumstance attending the sale and purchase of the coal in question, which was sufficient to put appellant upon inquiry as to the capacity in which Braggins was acting, then it was his duty to inquire and ascertain, if practicable, what Braggins’ true situation was. We contend that sufficient facts were within the knowledge of appellant to impose upon him the duty of such inquiry, taking his own statement of the case.”
+We may agree with the first paragraph of the proposition, as to the, law, but we can not assent to the contention as to the facts. It is said, in support of that contention, that because Braggins produced, at the time of the transaction, the card of the Standard Coal and Coke Company, above quoted, it was notice to appellant that the Standard Company, of which Braggins was president, was merely an agent of the mine owners, and it became appellant’s duty to inquire into the extent of the company’s and of Brag-gins’ authority. Conceding that the printed matter on the card constituted enough to put appellant on inquiry, we must also consider such notice in connection with the further fact that appellant had already investigated and ascertained that the corporation was nothing but a cloak under which.Braggins did business for himself; and the further fact that appellant had previously done business with Brag-gins, in a similar transaction, without Braggins’ authority to collect for coal sold by him being in any manner questioned. Surely there was nothing on the card that would require appellant to inquire of every coal owner doing business in Chicago, and especially of the appellee, as to the extent of Braggins’ authority.
+The circumstance that at the time the coal was delivered by the appellee through another corporation, the teamster’s delivery tickets left at appellant’s house showed the coal was delivered by some one other than Braggins or the Standard Coal Company, was not notice of anything that would bind appellant, in the absence of evidence that he ever saw the tickets until after the coal was fully delivered.
+The, proof in the case is overwhelming that appellant did not mean to deal with appellee, but did mean to deal with Braggins individually, and had no knowledge or reason for knowledge that Braggins was acting for the appellee until after the transaction had ended.
+Every man has a right to determine for himself what party he will deal with; and if he has expressly dealt with the agent to the exclusion of the principal, without knowledge or reason to know of the rights of the principal, he can not be made liable -to the principal. Mechem on Agency, Sec. 771.
+“Where a third person who has entered into a contract with the agent in ignorance of the fact that he was not the real principal as he assumed to be, is sued upon the contract-by the principal, he may avail himself, as against the principal, of every defense, whether it be by common law or statute, which existed in his favor against the agent at the time the principal first interposed and demanded performance to himself.” Mechem on Agéncy, Secs. 773 and 774-5.
+There was here one party, besides Braggins, and only one, the appellee, who had the means within its power to protect appellant by giving notice to appellant of the transaction of which appellee claimed the benefit, but it was not done until after the coal was delivered. It would be manifestly unjust to strain the law by holding that under such circumstances appellant is liable.
+The case was tried by the court Avithout a jury, and so many propositions of law to be held by the court were submitted as to make it impracticable to quote them. We think the action of the court with respect of some of them was under a mistaken apprehension of the law. Notably, in the cases of holding the fourth, fifth, sixth and seventh offered by appellee. The fourth, fifth and sixth did not contain all the required elements to constitute a correct proposition of laAv as applied to the proved facts, and one or more of them assumed the existence of relations between the parties that were at least in dispute. The seventh was clearly bad because it assumes that the card (not the one quoted above) a part of which is quoted in the proposition, was presented by Braggins at the time the coal was bought; whereas, according to all the evidence, that card was not presented to appellant until brought to him pinned to a letter from Braggins “ a few days after the coal was delivered.”
+We think the modifications made by the court to se\Teral of the propositions of law submitted by the appellant were proper, and that those refused to be held were properly so done.
+But for the errors referred to in the fourth, fifth, sixth and seventh propositions held for the appellee, the judgment will have to be reversed.
+Reversed and remanded.
