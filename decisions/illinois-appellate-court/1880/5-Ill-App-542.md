@@ -1,0 +1,23 @@
+---
+court: "Illinois Appellate Court"
+decided: "1880-01-13"
+citations: ["5 Ill. App. 542"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anthony Schenck v. David Cooter."]
+source_url: "https://static.case.law/ill-app/5/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4760608
+cites_cases: ["42 Ill. 223", "46 Ill. 112"]
+---
+
+# Schenck v. Cooter
+
+## Majority (McCulloch, J.)
+
+McCulloch, J.
+It appears from the record in this case that appellee had rented some land from one Houston for one-third the corn to be raised thereon, to be delivered in the crib. He had also entered into some arrangement with one Strouse to farm the land for him, and for that purpose had let Strouse into possession. Appellant having obtained a judgment against Strouse, caused an execution to be issued,- and levied upon the corn growing upon this land, as the property of Strouse; but whether or not the levy was made upon the whole crop or upon only two-thirds of it, does not very clearly appear from the record. Thereupon, appellee claimed two-thirds of the corn as his own, and demanded a trial of the right of property. A trial was thereupon had before the justice, and an appeal from his judgment was taken to the Circuit Court. While this appeal was pending the crop matured, and appellant proceeded to and did gather one-third of the crop, which he had previously purchased at constable’s sale, either under the same or another execution issued upon the same judgment.- This one-third he removed from the land without opposition from any one so far as we can learn from the evidence. At this juncture Houston, becoming somewhat anxious about his rent corn, went to see appellant about it while the latter was engaged in gathering the crop in the field. Thereupon, these two went to see appellee, when an arrangement was entered into between appellant and appellee, out of which this suit originated. Appellee’s version of it as set out in his declaration is, that while the proceeding for the trial of the right of property for two-thirds of the crop of corn in the field was pending in the Circuit Court on appeal, it was agreed by and between appellant and appellee that appellant should gather and take Care of said corn, and, in case the Circuit Court should adjudge the said property to belong to appellee, appellant would pay him the price and value thereof; that thereupon appellant did enter upon the premises and gather and take to his own use the said corn; that the Circuit Court decided the case in favor of appellee; that appellant thereby became liable, and in consideration thereof promised to pay appellee what the corn was reasonably worth.
+A trial was had before a jury resulting in a judgment against appellant for the sum of one hundred and forty dollars, from which judgment he appeals to this court. Had appellant taken away all the corn upon the land at the time this agreement was entered into, this judgment would not have been excessive. But it appears very conclusively from the evidence that, instead of his gathering and taking all the corn then in the field, appellee entered and took one-half of it, and delivered the same to Houston for rent. So while it is true that appellant actually got two-thirds of the crop, yet he got only one-half of that in controversy in the Circuit Court, and this is all the declaration claims to have been embraced in the agreement. The one-third which had previously been sold on execution and taken away by appellant does not seem to have been in controversy. So, appellant having taken only one-half of the corn then in the field, was only bound to pay for what he got.
+The court below took a different view of the case and instructed the jury substantially, that if it was agreed that appellant should go on and gather the corn and pay for it if the court decided against him, then if the court did decide against him they should find for appellee the value of the corn. The court also refused an instruction asked by appellant, to the effect that if they believed from the evidence that after said agreement was made appellee got one-half the corn, appellant agreed to pay for, then appellant should not be required to pay for what appellee took away. In the view we have taken of the case, the latter of these instructions should have been given, and the former refused, or so modified as to limit the amount of recovery to the value of the corn received by appellant by virtue of said agreement. For these errors, the judgment is reversed and the case remanded.
+Reversed and remanded.
