@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. M-51,753"
+decided: "1967-04-21"
+citations: ["82 Ill. App. 2d 414"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ENGLISH, P. J. and McCORMICK, J., concur."]
+parties: ["Floyd A. Di Carlo, et al., Plaintiffs-Appellants, v. State Farm Automobile Insurance Company, a Corporation, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/82/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2560630
+cites_cases: ["217 NE2d 814", "70 Ill App2d 357"]
+---
+
+# Di Carlo v. State Farm Automobile Insurance
+
+## Majority (MR. JUSTICE DRUCKER)
+
+MR. JUSTICE DRUCKER
+delivered the opinion of the court.
+This is an appeal from the dismissal of plaintiffs’ complaint in which the plaintiffs sought judgments upon arbitration awards allegedly received in compliance with the provisions of the Uninsured Automobile Coverage of their automobile insurance policy.
+On April 16, 1964, Floyd Di Carlo, one of the plaintiffs, purchased an automobile insurance policy from the defendant. Under one of the provisions of the policy (Coverage U-Insuring Agreement in — Uninsured Automobile Coverage) the defendant undertook the following obligation:
+To pay all sums which the insured or his legal representative shall be legally entitled to recover as damages from the owner or operator of an uninsured automobile because of bodily injuries sustained by the insured, caused by accident and arising out of the ownership, maintenance or use of such uninsured automobile; provided, for the purposes of this coverage, determination as to whether the insured or such representative is legally entitled to recover such damages, and if so the amount thereof, shall be made by agreement between the insured or such representative and the Company, or if they fail to agree, by arbitration ....
+An uninsured automobile was defined to mean:
+(1) a land motor vehicle with respect to the ownership, maintenance or use of which there is no bodily injury liability bond or insurance policy applicable at the time of the accident ....
+(2) a hit and run automobile as defined . . .
+Hit and run automobile — means land motor vehicle which causes bodily injury to insured arising out of physical contact of such vehicle with the insured or with an automobile which the insured is occupying at the time of the accident ....
+Arbitration procedures are set forth in Condition 15 of the policy:
+If any person making claim hereunder and the Company do not agree that such person is legally entitled to recover damages from the owner or operator of an uninsured automobile because of bodily injury to the insured, or do not agree as to the amount payable hereunder, then each party shall, upon written demand of either, select a competent and disinterested arbitrator. The two arbitrators so named shall select a third arbitrator, or if unable to agree thereon within 80 days, then upon request of the insured or the company such third arbitrator shall be selected by a judge of a court of record in the county and state in which such arbitration is pending. The arbitrators shall then hear and determine the question or questions so in dispute, and the decision in writing of any two arbitrators shall be binding upon the insured and the company, each of whom shall pay his or its chosen arbitrator and shall bear equally the expense of the third arbitrator and all other expenses of the arbitration. . . .
+While the policy was in full force and effect plaintiffs presented a claim to the defendant which assertedly arose from an accident with an “uninsured automobile.” However, the parties could not reach an agreement. Plaintiffs selected an arbitrator and requested the defendant to select an arbitrator, but the latter refused. Plaintiffs then appeared before a judge of the circuit court and obtained the appointment of an additional arbitrator. This arbitrator and the one selected by plaintiffs met and rendered awards to the plaintiffs, a copy of which was sent to the defendant. Upon defendant’s refusal to satisfy the aforesaid awards plaintiffs filed a complaint to obtain judgments thereon. In their complaint plaintiffs alleged that they suffered bodily injuries as the result of an accident involving physical contact with an uninsured automobile, or hit and run automobile, within the meaning of the insuring agreement. An order of default was entered against the defendant for failure to appear, which was vacated upon defendant’s petition. Defendant then filed a motion to dismiss the complaint (thereby admitting the allegation of physical contact with an uninsured or hit and run automobile) alleging that the arbitration awards had not been rendered in the manner required by the insurance policy and by the Uniform Arbitration Act. Defendant’s motion was allowed and plaintiffs appealed.
+Plaintiffs contend that the arbitration awards were obtained in accordance with the provisions of the insurance policy; that defendant, having previously refused to arbitrate, waived its right to assert plaintiffs’ noncompliance with the Uniform Arbitration Act; and that the default judgment should not have been vacated.
+Under the insurance policy in question, if an agreement cannot be reached between the insured and insurer, then each party shall select an arbitrator who in turn shall select a third arbitrator. If the third arbitrator cannot be agreed upon then, upon request of either the insured or insurer, the third arbitrator shall be appointed by the court. The method of selecting a third arbitrator by the court, in the event the two arbitrators are unable to agree upon a third arbitrator, does not empower the court to select an arbitrator when one of the parties fails to exercise its prerogative of selection. The policy of insurance itself provides no remedy whatever if the insurer refuses to appoint an aribtrator initially. Therefore, we find that the arbitration awards were not obtained in accordance with any provision of the policy of insurance and are of no effect.
+We further find that the awards were not obtained in compliance with the Uniform Arbitration Act (Ill Rev Stats 1965, c 10). Sections 102 and 103 of that Act provide that upon the showing of an agreement to arbitrate and the failure of a party to comply therewith, the court shall order the parties to proceed with arbitration with the arbitrators to be selected in the manner specified in the agreement. However, to invoke that Act summons must be served in accordance with section 115. Plaintiffs did not comply with that section. We find no merit in plaintiffs’ contention that defendant has waived its right to assert noncompliance with the Arbitration Act. Since the purpose of the Act is to compel arbitration where an agreement to arbitrate is breached by one of the parties thereto, we cannot say that by failing to arbitrate in accordance with the agreement a waiver has taken place. Nor has defendant committed such a waiver by failing to proceed under the Arbitration Act to set aside the award, since plaintiffs did not bring their proceeding under that Act.
+Plaintiffs’ final contention is that the default judgment was improperly vacated. In support of its petition to vacate the default judgment defendant filed a verified petition, which was uncontradicted, in which defendant stated that it failed to appear because of some confusion in the claims office. After an examination of the record we find that defendant’s petition, filed on the same day the judgment of default was entered, was properly allowed.
+Therefore, we find that the plaintiffs’ complaint was properly dismissed by the trial court.
+Affirmed.
+ENGLISH, P. J. and McCORMICK, J., concur.
+Plaintiffs rely upon Andeen v. Country Mut. Ins. Co., 70 Ill App2d 357, 217 NE2d 814, in support of their contention. We find that case to be inapplicable to the instant case.
