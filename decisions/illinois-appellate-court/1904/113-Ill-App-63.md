@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 4,267"
+decided: "1904-03-14"
+citations: ["113 Ill. App. 63"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John W. Russell v. Clair Hurd."]
+source_url: "https://static.case.law/ill-app/113/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 872884
+cites_cases: ["1 Brad. 217", "10 App. 603", "16 App. 365", "188 Ill. 96", "40 App. 195", "79 Ill. 435", "82 App. 558", "83 App. 139"]
+---
+
+# Russell v. Hurd
+
+## Majority (Mr. Justice Vickers)
+
+Mr. Justice Vickers
+delivered the opinion of the court.
+This is an action of assumpsit brought by defendant in error against plaintiff in error, to recover §250 claimed to be due as commission for services of defendant in error as a real estate broker. A trial was had in the Peoria Circuit Court without a jury, resulting in a finding for defendant in error and assessing his damages at the amount of his claim, to which exceptions were taken and the plaintiff in 'error brings the record up on writ of error.
+The facts are not seriously controverted.
+Defendant in error is a real estate agent in Peoria. Plaintiff in error was the owner of real estate in the city of Peoria. Plaintiff in error called at the office of the defendant in error and asked if he had any trade, and defendant in error told him what he had, and told Bussell “he would keep a look out for a trade for him.” Bussell called two or three times on Hurd. Finally, another real estate agent by the name of Conner called on Hurd. Conner represented a man by the name of W. C. Gunn, who was offering to trade 640 acres of land in Kansas; Bussell met Conner through Mr. Hurd. Conner described the Kansas land to Bussell, and he became interested, and made arrangements to go to Kansas and look at the Gunn lands. Before going away he asked Hurd what his commission would be in case the deal went through. Hurd said “ §250,” and Bussell said he thought that was very reasonable. He went to Kansas, saw the lands, and he arid Gunn entered into the following contract:
+“ This agreement between "W. C. Gunn and J. W. Bus-sell is to the effect that Gunn has traded to Mr. Bussell the southwest quarter of section nineteen (19), township twenty-seven (27) of range twenty-three (23), Bourbon County, Kansas, and the northwest quarter of section thirty (30), township twenty-seven (27) of range twenty-three (23) and the north half of section twenty-five (25) in township twenty-seven (27) of range twentyr-two (22), Crawford County", Kansas, for all of the southwest corner, also all of the northwest fourth of block ten (10) William Bussell’s addition to the city of Peoria, Peoria County, fetate of Illinois, containing six hundred and fifty (650) front feet, more or less. Mr. Bussell to give warranty deed and abstract showing good title except mortgages for sixtv-five hundred ($6500) dollars against said property, interest to be paid up to July I, 1900.
+Gunn to give warranty deed and abstract showing good title to the six hundred and forty (640) acres, but Mr. Bus-sell to assume or give mortgages on said land for the sum of fifty-five hundred (§5500) dollars, with interest from July 1,1900, averaging six and one-half (6-£) per cent. Possession to be exchanged March 1, 1901.
+It is agreed in case either party refuses or fails to carry out his part of this contract, one thousand ($1,000) dollars shall be liquidated damages. Gunn to pay taxes for the year 1900 on the lots, one special sewer tax due in 1901, for not over $11 per lot.
+W. 0. Gunn,
+. J. W. Bussell.”
+Hurd never had any further connection with the deal. Hurd did not know anything about the Kansas lands or the title to the same. Gunn refused to carry out the contract and the exchange was never in fact made.
+The principal contention of the plaintiff in error is, that nothing could become due the defendant in error until the trade was fully consummated by the actual exchange of deeds, while the defendant in error contends that when he had found a party whom his client, relying on his own judgment, was willing to accept, and with whom he entered into a valid and binding contract to exchange lands, the contract was executed by defendant in error and fully performed and his compensation due; and that it was not in any way dependent upon whether the trade was ever in fact carried out. The determination of the question involved in these respective contentions virtually settles the whole controversy.
+A broker who procures a purchaser for his client’s land and with whom the client enters into a valid contract of sale is entitled to his commission,, but if the seller rejects the proposed purchaser, and the agent claims commission, then he is required to show before he can recover, that the proposed purchaser was able and ready to perform his part of the contract. Pratt v. Hotchkiss, 10 App. 603; Springer v. Orr, 82 App. 558; Goodrich v. Holladay, 16 App. 365; Green v. Hollingshead, 40 App. 195.
+In Jenkins v. Hollingsworth, 83 App. 139, the court say :
+“ It can no longer be doubted the rhle in such cases in this state is that when the parties enter into a valid contract, capable of being enforced, and one or both of the parties refuse to comply with such contract, still the commission of the broker is earned, and he may recover,” and further the court in the same case say : “ The true rule is that the broker is entitled to his commission if the purchaser presented by him and the vendor, his employer, enter into a valid, binding and enforceable contract.” If after the making of such contract, even though it is executory in form, the purchaser declines to go on and consummate the deal, the broker is still entitled to recover. 83 App. ib.
+There is no claim that the plaintiff in error refused to enter into a contract with Gunn because of 'his inability to carry out the deal, but on the contrary he went to Kansas, and entered into a valid and enforceable contract with the party defendant in error had furnished. There was, therefore, nothing further to be done by defendant in error; his service was at an end, and plaintiff in error having accepted a contract with Gunn, he must look to his contract for relief against any loss or damage he may have sustained by reason of Gunn’s failure to carry it out. It would clearly be an injustice to require defendant in error to lose the benefit of his contract simply because Gunn failed to carry out his deal with 'plaintiff in error. Plaintiff in error is protected by a clause in the contract fixing $1,000' as the agreed damages in case either party failed to carry out the contract. The question of the ability of the contracting party to carry out his contract; as affecting the right of the agent to his commission, only arises where the proposed purchaser is rejected, notwithstanding his offer and readiness to comply with the terms. Lawrence v. Atwood, 1 Brad. 217; Carter v. Webster, 79 Ill. 435.
+The case of Lawrence v. Rhodes, 188 Ill. 96, does not depart from the general doctrine so well established by numerous cases in this state. There the purchaser did not buy or agree to buy the land but merely took an option to buy, and agreed to forfeit a certain amount of earnest money in case he decided not to purchase. The court there held that furnishing a purchaser willing to take an option was not finding a buyer who was willing to enter into a valid, binding and enforceable contract and the broker was not permitted to recover.
+The case at bar is clearly distinguishable from the Lawrence case and other cases of like character, where from some inherent defect in the contract, it-was illegal and unenforceable.
+The rulings of the court on the propositions of law were in accordance with the law as laid down in the cases in this state and are not open to the criticisms made by plaintiff in error.
+It is urged that the court erred in refusing to admit in O O ( evidence certain letters written by Gunn to plaintiff in error advising him of the reasons why he did not go on and complete the trade. These letters were clearly hearsay and were properly excluded.
+The judgment is affirmed.
+Affirmed.
