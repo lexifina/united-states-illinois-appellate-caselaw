@@ -1,0 +1,61 @@
+---
+court: "Illinois Appellate Court"
+docket: "17669"
+decided: "1982-07-22"
+citations: ["108 Ill. App. 3d 73"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. JOSEPH D. PENERMON, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/108/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3012975
+cites_cases: ["104 Ill. App. 3d 62", "182 N.E.2d 736", "24 Ill. 2d 586", "29 Ill. App. 3d 103", "329 N.E.2d 835", "353 N.E.2d 711", "371 N.E.2d 1284", "372 U.S. 335", "374 N.E.2d 1307", "378 N.E.2d 342", "390 N.E.2d 426", "399 N.E.2d 1374", "407 U.S. 25", "41 Ill. App. 3d 364", "416 N.E.2d 688", "432 N.E.2d 660", "56 Ill. App. 3d 126", "59 Ill. App. 3d 32", "61 Ill. App. 3d 762", "71 Ill. App. 3d 728", "80 Ill. App. 3d 616", "92 Ill. App. 3d 1106"]
+---
+
+# People v. Penermon
+
+## Majority (JUSTICE WEBBER)
+
+JUSTICE WEBBER
+delivered the opinion of the court:
+Defendant was charged in the circuit court of Macon County with four offenses: (1) aggravated assault in violation of section 12 — 2(a)(1) of the Criminal Code of 1961 (Ill. Rev. Stat. 1981, ch. 38, par. 12— 2(a)(1)); (2) battery in violation of section 12 — 3(a)(1) of the Code (Ill. Rev. Stat. 1981, ch. 38, par. 12 — 3(a)(1)); (3) disorderly conduct in violation of section 26 — 1(a)(1) of the Code (Ill. Rev. Stat. 1981, ch. 38, par. 26-l(a)(1)); and (4) failure to possess a valid firearm owners identification card in violation of section 2(a) of “An Act relating to the acquisition, possession, and transfer of firearms ***” (Ill. Rev. Stat. 1981, ch. 38, par. 83 — 2(a)). He entered a plea of guilty to the offense of failure to possess and at trial was found not guilty of disorderly conduct. These matters are not involved in this appeal. Following a bench trial he was found guilty of aggravated assault and battery and was sentenced to 364 days’ imprisonment.
+On appeal defendant alleges two errors which are to a large extent interrelated: (1) summary denial of counsel by the trial court, and (2) failure of the trial court to obtain a knowing and intelligent waiver of counsel. The evidence is not disputed; the transcript of it has been submitted and it was prima facie sufficient to sustain the finding and judgment of the trial court. Since we find that the alleged errors deprived defendant of a fair trial, the case will be remanded for a new trial.
+The record indicates that an admonition of rights occurred en masse to a group of accused persons. It included the possible penalties of each class of misdemeanor and the right to counsel. Following the general admonition, defendant was called forward to the bench and entered a plea of not guilty to all charges except the failure to possess. These events occurred on August 21, 1981. We have heretofore approved of such a general admonition as a useful tool in the expedition of judicial business. People v. Henderson (1982), 104 Ill. App. 3d 62, 432 N.E.2d 660.
+The judge handling the matters on this occasion then “transferred” the case to another judge and fixed a date of September 17, 1981, for that appearance for the purpose of fixing a trial date. On September 17 defendant appeared as ordered and the court set October 8, 1981, as the date for trial by the court. Defendant orally moved for the appointment of the public defender and tendered an affidavit of assets and liabilities. The record contains no colloquy between the defendant and the court and does not indicate that the court examined the affidavit. We have only the terse statement by the court, “Motion for the appointment of public defender denied.”
+On October 8, 1981, defendant again appeared as ordered and the record contains the following:.
+“THE COURT: 81-CM-1015. People vs. Joseph D. Penermon.
+Defendant present. People present by James Majors. Cause called for Court Trial as allotted. Defendant announces not ready and moves to continue cause.
+I am going to give you time to obtain your attorney, Mr. Penermon. I want to advise you, you have previously been advised the Public Defender would not be appointed to represent you. You have adequate assets to take care of it yourself. That was done on September 17th. You indicated to me this morning you have not done anything to obtain an attorney yet. I am going to reallot this for Court Trial October the 29th at 1:30 p.m., in this courtroom. You are to be ready for trial at that time. I am advising you that you should have your attorney at that time. If you do not have your attorney present at that time the Court is going to deem that as a waiver of right to counsel. You have any questions?
+DEFENDANT: No.
+THE COURT: You understand what I am saying.
+DEFENDANT: Uh-huh.
+THE COURT: If you show up at that time without an attorney we are going to proceed to trial because I am going to then assume that you do not want an attorney.
+DEFENDANT: Uh-huh.
+THE COURT: Do you have any questions?
+DEFENDANT: No.
+THE COURT: Defendant admonished to have counsel present for Court Trial on October 29, 1981, 1:30 p.m., Courtroom 7. Failure to do so will be deemed a waiver of right to counsel. Cause so continued.”
+The bench trial commenced on October 29, 1981. Prior to trial, the court initiated the following colloquy with the defendant:
+“THE COURT: You don’t have an attorney here, do you, Mr. Penermon?
+MR. PENERMON: No, I don’t.
+THE COURT: Pardon.
+MR. PENERMON: No.
+THE COURT: You were previously admonished that failure to appear today without an attorney would be deemed a waiver of that right.
+MR. PENERMON: Right.
+THE COURT: So we are going to proceed on your case.”
+The case so proceeded with the defendant acting pro se. He did not testify and presented no evidence. He was found guilty and later sentenced as heretofore described.
+We hold that defendant’s fundamental constitutional right to counsel in this misdemeanor case has been so seriously infringed as to require a new trial. Gideon v. Wainwright (1963), 372 U.S. 335, 9 L. Ed. 2d 799, 83 S. Ct. 792; Argersinger v. Hamlin (1972), 407 U.S. 25, 32 L. Ed. 2d 530, 92 S. Ct. 2006.
+The court’s abrupt order of denial on September 17 of the services of the public defender indicates that no serious inquiry had been made of defendant’s financial status. The determination as to the defendant’s indigency should be on a basis of as complete a financial picture as possible. It is not necessary that the defendant be totally devoid of means; rather, it is sufficient if the defendant lacks financial resources on a practical basis to retain counsel. (People v. Castile (1979), 71 Ill. App. 3d 728, 390 N.E.2d 426.) The method of arriving at a determination of a defendant’s ability to pay must include a balancing of assets against liabilities and also the defendant’s income. People v. Wright (1976), 41 Ill. App. 3d 364, 353 N.E.2d 711.
+It is evident from the presentence report filed in this case that the defendant was a person of limited education, a fact which should have been apparent to the trial court, or at least should have been inquired into in connection with the execution of the affidavit of assets and liabilities. It contains some remarkable inconsistencies which should have alerted the trial court to make further inquiry. It shows $125 per month income “from rents, royalties, bonds, securities or interest,” the quoted portion being printed on the form; yet it discloses no assets from which such income might be derived. In fact, total assets are disclosed to be $313 and debts of $200, leaving a net worth of $113. The $125 rent item is an obvious misapprehension of fact. By referring again to the presentence report, we may ascertain that this was the rent paid by defendant for his apartment. This could have been ascertained by the trial court on October 8 by only the briefest inquiry, but it was not done. The affidavit reveals a monthly income of $750 from wages, but there is no indication whether this is a gross or net figure.
+It may well be that detailed inquiry would have revealed ineligibility for the public defender. It is the failure to make even a pro forma inquiry which has fatally flawed the trial court’s procedure. The cases cited by the People (People v. Maretti (1978), 61 Ill. App. 3d 762, 378 N.E.2d 342; People v. Losacano (1975), 29 Ill. App. 3d 103, 329 N.E.2d 835) are factually inapposite. Each of them demonstrated substantial assets from which private counsel might be paid.
+We observe a certain anomaly in the fact that on appeal the trial court found the defendant to be indigent and appointed the State Appellate Defender, even though no change in circumstance appears of record between the date of trial and the date of sentencing. Certainly anything which defendant had accumulated in that period, if at all, was not spent on trial counsel.
+•The People argue that defendant has waived his right to counsel by his conduct. Waiver of counsel is governed by Supreme Court Rule 401(a) (87 Ill. 2d R. 401(a)), and we know of no exceptions to its mandate. It is plain from this record that there was no attempt by the trial court to comply with Rule 401(a). The question then becomes: can there be compliance by inference? We think not.
+The majority of the reported cases are ones in which the defendant himself insisted on proceeding pro se. Examples of this type are People v. Derra (1981), 92 Ill. App. 3d 1106, 416 N.E.2d 688, People v. Roberts (1978), 56 Ill. App. 3d 126, 371 N.E.2d 1284, and People v. Bolden (1978), 59 Ill. App. 3d 32, 374 N.E.2d 1307. In all of these a strict compliance with the requirements of Rule 401(a) has been ordered.
+A second type of case is one in which the defendant has refused the- services of the public defender and demanded appointment of private counsel. This is exemplified in People v. Brown (1980), 80 Ill. App. 3d 616, 399 N.E.2d 1374. Even though the defendant’s conduct in Brown was exasperating and provocative almost beyond endurance, the appellate court held that Rule 401(a) must be complied with.
+As will be observed from our brief statement of facts in the instant case, it falls somewhere between the two foregoing types. Defendant did not elect to proceed pro se; on the contrary, he asked for the services of the public defender. Nor did he ask for the appointment of private counsel. His only transgression was his financial inability to obey the trial court’s peremptory order to retain counsel. We are unable to perceive that such conduct is a waiver by inference, but even if it were, under Brown, as adopted in Derra, the specific admonitions of Rule 401(a) are required. Furthermore, this case is not one in which the defendant sought to thwart the administration of justice by using selection of counsel as a delaying tactic. (People v. Solomon (1962), 24 Ill. 2d 586, 182 N.E.2d 736.) His dilemma was forced upon him by the court.
+The People argue that the general admonitions of September 17 were sufficient under Rule 401(a). We do not agree. Those admonitions were principally directed to proceedings under Rule 402(a). In addition, the court made it plain that no waiver was being considered on September 17. It stated in part:
+“*** y0U are charged with a misdemeanor you may have a lawyer. You’re not required to have a lawyer. If you want a lawyer and you are charged with a misdemeanor and you can’t afford a lawyer all you have to do is ask me for one this morning. I’ll give you a form to complete and then tell you to come back and see Judge Hendrian on another day and he will make the decision.”
+A trial court may not erroneously order a defendant to obtain private counsel and then upon his failure to do so, infer a waiver of Rule 401(a) without any admonition. The admonition is required upon any waiver, voluntary or otherwise. In the instant case the trial court erred in failing to make specific inquiry as to defendant’s financial status and further erred in proceeding upon a supposed waiver of counsel.
+The judgment and sentence of the circuit court of Macon County are reversed and the cause is remanded for a new trial.
+Reversed and remanded.
+LONDRIGAN and TRAPP, JJ., concur.
