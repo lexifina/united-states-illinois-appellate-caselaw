@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-11-01"
+citations: ["97 Ill. App. 629"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter McFarland v. Edmunds Manufacturing Co."]
+source_url: "https://static.case.law/ill-app/97/cases/0629-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5297577
+cites_cases: ["106 Ill. 563", "143 Ill. 242", "54 Ill. App. 578", "78 Ill. App. 526", "93 Ill. App. 284"]
+---
+
+# McFarland v. Edmunds Manufacturing Co.
+
+## Majority (Mr. Presiding Justice Freeman)
+
+Mr. Presiding Justice Freeman
+delivered the opinion of the court.
+This is an action to recover for personal injuries. The plaintiff was engaged with otliers in the work of making changes in or repairing the building of defendant in error.
+It is stated by the attorneys of the latter, that the roof of the original building was flat, sloping from front to rear, supported by rafters. The repairs or alterations involved the addition of two stories. To uphold these, holes were cut in the old roof, every sixteen feet, and posts, ten by ten inches square, were put in extending through the roof and the plates below. At each post a rafter was cut to allow the posts to be placed in position. The cut rafters, sixteen feet apart, were held in position by the roof boards nailed to the rafters, including those not cut. The hole around the posts was covered by tarred pa per to keep the rain' or . snow out pending the construction of the new roof above the old one. It is said that these posts had been erected, and. the rafters cut, two months before plaintiff began work on the job. He had been at work there about two weeks before he was injured. At the time of the injury, the work had so far progressed that the old roof was in process of removal. -
+The plaintiff had been working all the forenoon, ripping boards and tar paper from the rafters of the old roof and carrying them to the front of the building, apparently -walking on the bared rafters or joists in so doing. While so engaged in the afternoon of. that day, carrying away the old boards, he stepped on one of the cut rafters and fell some eighteen feet to the floor below. He testifies: “Up to the time I dropped, I did not know anything was the matter with the joists. They appeared to be all right.” He also states that “ no person at any time explained or told me anything about the condition of that part of the building.” It does appear, however, that the covering of the rafters haying been removed, they were exposed to observation. Whether the cut place was plainly apparent from where plaintiff had been working, the testimony does not disclose, though it would appear that in ripping off the old boards nailed to the cut rafters, their loosened condition ought to have been made manifest. There is also evidence by plaintiff on cross-examination as follows:
+“ Q. Before you were injured there, had you ever done anything with those scantlings- that had been sawed off ? A. Yes, sir.
+Q. Tied up some of them, hadn’t you ? A. Tied up, or helped to tie up one.
+Q. That was where an upright post went through, wasn’t it ? A. Yes, sir.
+Q. That had been sawed off — sawed off there where the upright post went through % A. I don’t know whether it was sawed off or not — loose.”
+At the close of the plaintiff’s evidence, the court, at the request of the defendant, instructed the jury to find the defendant not guilty. The only question now is whether the evidence was sufficient to make it the duty of the court to submit the case to the jury. It is clear that, as has been held by this court in Clark v. Liston, 54 Ill. App. 578, Chicago Edison Co. v. Davis, 93 Ill. App. 284, and others, an employer does not undertake and is not required to make a building in process of destruction safe at all times for the workmen who are expressly employed to make it insecure by tearing it down. But it is nevertheless the master’s duty to notify the employed of any latent defect or danger existing at the place where he is employed to work, which increases the ordinary risk of his employment, if the defect or danger is not known to the servant, or so open and visible that by ordinary care it would be so seen and known. Even in tearing down a building, if the master has cut away supports which the servant has a right to expect are still firmly in place, it is the former’s duty to notify or warn the servant. P. P. C. v. Laack, 143 Ill. 242-254. The question in the present case is, therefore, whether the plaintiff in error knew, or by the use of ordinary care should have known, that one rafter in every sixteen feet had been cut. There is some evidence, above referred to, which may create a strong suspicion that he did know this. But' on the other hand, he expressly swears that he did not know anything about it. Upon a motion to instruct the jury to find for the defendant it is not the province of the court to weigh the evidence a,nd find out where the preponderance lies. That must be left to the jury. The court can only determine whether there is or is not evidence legally tending to prove facts which,if established, might entitle the plaintiff to recover. Frazer v. Howe, 106 Ill. 563-573; Pullman Palace Car Co. v. Laack, 143 Ill. 242-252; Roberts v. C. & G. T. Ry. Co., 78 Ill. App. 526-530. In the present case there is evidence which, if the jury believed it, would authorize a verdict. It was a question which the law requires should be submitted to them. This not having been done the judgment of the Circuit Court must be reversed and the cause remanded.
