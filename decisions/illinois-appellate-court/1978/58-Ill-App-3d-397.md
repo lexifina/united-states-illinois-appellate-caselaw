@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-598"
+decided: "1978-03-03"
+citations: ["58 Ill. App. 3d 397"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ARCHIE ROSE, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/58/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5627285
+cites_cases: ["175 N.E.2d 553", "21 Ill. App. 3d 777", "22 Ill. 2d 347", "315 N.E.2d 926", "319 N.E.2d 43", "370 N.E.2d 37", "370 N.E.2d 797", "420 U.S. 377", "54 Ill. App. 3d 603", "58 Ill. 2d 260", "69 Ill. 2d 44"]
+---
+
+# People v. Rose
+
+## Majority (Mr. JUSTICE WILSON)
+
+Mr. JUSTICE WILSON
+delivered the opinion of the court:
+Defendant was sentenced to 3 years probation upon his guilty plea to robbery. Subsequently he was found in violation of his probation when he committed the offense of unlawful use of a weapon. His probation was revoked and he was sentenced to a term of 2 to 6 years. On appeal, the sole issue presented by defendant is whether the court erred in using criminal charges against him that had been stricken from the docket with leave to reinstate as the basis to revoke his probation from a separate conviction.
+While on probation defendant was arrested and charged with aggravated battery and unlawful use of a weapon. On the date a trial was scheduled on these charges, police officer John McIntyre, who was the only witness called to testify, stated that the complaining witness on the aggravated battery charge had informed him that he no longer wanted to pursue the matter. Officer McIntyre also testified that he did not know who discarded the gun at the time of defendant’s arrest, although he signed the complaint against defendant charging him with a weapons’ offense. The record shows that the State then moved to strike the charges against defendant with leave to reinstate.
+Thereafter, the State filed a petition to revoke defendant’s probation alleging the same offense of aggravated battery and unlawful use of a weapon as the basis therefor. At the probation revocation hearing two other police officers, James Pierce and Thomas Stevens, testified concerning the incident in question. They related that, as they approached defendant, they saw defendant throw the gun under a parked car causing it to discharge.
+Defendant admitted that he heard the shot fired, but testified that another youth, who was arrested at the same time, had admitted possessing the gun. Defendant further testified that the charge of unlawful use of a weapon had been previously adjudicated by the trial court and was dismissed. A stipulation was entered that this charge had been stricken with leave to reinstate.
+Opinion
+Defendant contends that Officer McIntyre’s sworn testimony given at the trial was wholly inadequate to support the charge of aggravated battery and unlawful use of a weapon and the case was dismissed. He maintains that the dismissal of the case bars the use of the same evidence as a basis for the revocation of his probation because such a hearing placed him in double jeopardy contrary to the Fifth Amendment to the Federal Constitution. Defendant invokes the doctrine of collateral estoppel to challenge the validity of the revocation proceeding based upon the same offense which had been previously adjudicated. Defendant concedes that the dismissal or nolle prosequi of a complaint does not, of itself, serve as a bar to a future prosecution for the same conduct. (People v. Gault (1974), 21 Ill. App. 3d 777, 315 N.E.2d 926.) However, he maintains that jeopardy attached when Officer McIntyre testified prior to dismissal of the substantive charge.
+In Serfass v. United States (1975), 420 U.S. 377, 388, 43 L. Ed. 2d 265, 274, 95 S. Ct. 1055, 1062, the Supreme Court stated:
+“The Court has consistently adhered to the view that jeopardy does not attach, and the constitutional prohibition can have no application, until a defendant is ‘put to trial before the trier of the facts, whether the trier by a jury or a judge.’ ”
+The court further remarked:
+“Without risk of a determination of guilt, jeopardy does not attach, and neither an appeal nor further prosecution constitutes double jeopardy.” 420 U.S. 377, 391-92, 43 L. Ed. 2d 265, 276, 95 S. Ct. 1055, 1064; see also People v. Gray (1977), 69 Ill. 2d 44, 370 N.E.2d 797.
+Defendant argues that a final disposition of the substantive charges was made at the time his trial was scheduled because the trial court granted the State’s motion to confiscate and destroy the gun, pursuant to section 24—6 of the Criminal Code of 1961 (Ill. Rev. Stat. 1975, ch. 38, par. 24—6). This statute provides for the confiscation of a weapon upon conviction or upon a final disposition of the case when the weapon is unclaimed. The granting of the State’s motion by the trial court was not dispositive of the basic issue of whether a judicial determination was made of the charge against the defendant herein. In fact it might be said that the trial court’s confiscation order was improper. See People v. Mudd (1977), 54 Ill. App. 3d 603, 370 N.E.2d 37.
+In the instant case the record reveals that Officer McIntyre’s sworn statement during a hearing on the substantive charges merely disclaimed personal knowledge of who threw the weapon that discharged. His testimony was not offered as proof of the State’s case. Rather it appears that he testified in order to establish the State’s current inability to proceed with prosecution of the substantive offenses.
+We find there is no basis to conclude that defendant was placed on trial for the substantive offenses or that his subsequent revocation proceedings placed defendant in double jeopardy as proscribed by the Federal Constitution. See People v. Drymalski (1961), 22 Ill. 2d 347, 175 N.E.2d 553.
+Defendant attempts to compare the present case with that of People v. Grayson (1974), 58 Ill. 2d 260, 319 N.E.2d 43. Grayson involved a probation revocation hearing predicated on a charge of armed robbery following an acquittal at trial of the defendant based on the same evidence. The only proof introduced at both proceedings linking defendant to the offense was the testimony of an eyewitness. The supreme court concluded that it was impermissible to relitigate the identical issue on the same evidence. It applied the doctrine of collateral estoppel and stated:
+“Collateral estoppel # ” means simply that when an issue of ultimate fact has' once been determined by a valid and final judgment, that issue cannot again be litigated between the same parties in any future lawsuit.’ ” 58 Ill. 2d 260, 263.
+The principle of collateral estoppel is inapposite to the present case. Unlike the situation in Grayson, the present defendant was not acquitted upon the issue of whether an offense was committed and whether he committed it. The record reveals that the trial court did not examine the issue of defendant’s guilt or innocence upon the hearing on the substantive charge nor was evidence to that effect introduced. The action of granting the State’s motion to strike the case from the docket actually suggests that a valid finding, judgment or determination as to whether the defendant unlawfully used a weapon was not made. Moreover, unlike Grayson new evidence was introduced at the revocation proceedings to establish defendant’s culpability.
+Similarly, jeopardy as defined in section 3—4 of the Criminal Code of 1961 (Ill. Rev. Stat. 1975, ch. 38, par. 3—4(a)(3)), is not applicable. This statute bars a subsequent prosecution if a former prosecution “was terminated improperly * * ° after the first witness was sworn but before findings were rendered by the trier of facts.” However, a probation revocation hearing is not included in the statutory definition of the word “prosecution.” (Compare Ill. Rev. Stat. 1975, ch. 38, par. 2—16, with Ill. Rev. Stat. 1975, ch. 38, par. 1005—5—3.) We conclude that defendant was not subjected to a second prosecution for the same offense in this case.
+For the reasons stated judgment of the circuit court of Cook County revoking defendant’s probation is affirmed.
+Judgment affirmed.
+MEJDA and LORENZ, JJ., concur.
