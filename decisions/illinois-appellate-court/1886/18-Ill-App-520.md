@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-04-28"
+citations: ["18 Ill. App. 520"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles J. Gorham v. John Farson et al."]
+source_url: "https://static.case.law/ill-app/18/cases/0520-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 865045
+cites_cases: ["105 Ill. 327", "37 Ill. 381", "41 Ill. 215", "41 Mich. 593", "5 Gilm. 573", "67 Ill. 34"]
+---
+
+# Gorham v. Farson
+
+## Majority (Bailey, P. J.)
+
+Bailey, P. J.
+A large number of errors are assigned in this case, most of which we do not deem it necessary to discuss further than to say that we have examined the record with attention, and are of the opinion that the decree should be in all respects affirmed. It does not appear to be questioned that the judgment recovered, by Gorham, the appellant, against Colby, became a lien upon Colby’s interest in the premises covered by the deed of trust, the instant such interest was acquired by Colby, under the contract with Preston, Kean & Co., of May 1, 1881, and his lien having thus accrued, it is not claimed that it could be changed or extinguished without his consent, by any subsequent transaction or agreement between Colby and Preston, Kean & Co. This seems to have been the view taken by the court below, and it was manifestly upon this theory that the decree was rendered. Although the deed of trust in some respects changed the rights and obligations of Colby in relation' to said land, by providing for the payment of a higher rate of interest, by securing on the land an indebtedness for borrowed money, etc., the decree, so far as Gorham was concerned, remitted the parties to their rights as they existed under the contract, and relieved Gorham from all the additional burdens imposed upon the land by the stipulations contained in the deed of trust.
+Counsel for the appellant are clearly in error in the view taken by them, and which seems to lie at the foundation of their argument, that the interest of Preston, Kean & Co. in said premises, prior to the conveyance to Colby and the execution by him of the deed of trust, was merely that of a vendor’s lien. Their interest was not a vendor’s lien nor anything of that nature. Colby was a holder of a mere equitable estate in the land under a contract of sale, and Preston, Kean & Co. held the legal title as security for the payment of the purchase money. Hansbrough v. Peck, 5 Wallace, 506. Gorham’s lien was subject to such legal title, and to all such rights in the land as were secured to Preston, Kean & Co. by the contract.
+It is claimed that, by including other indebtedness in the deed of trust, and stipulating for a higher rate of interest, Preston, Kean & Go. must be deemed to have waived and abandoned their security so far as Gorham is concerned, so as^, to postpone their lien to his. Whatever may be the rulo applicable to vendor’s liens, we can not see that such consequences should follow in this case from such changes in the form or terms of the security. The execution of a deed of trust to secure the deferred payments of purchase money was contemplated and stipulated for in the contract, and all the additional burdens placed upon the land by the deed of trust are easily separable from those imposed by the contract. The decree enforced the deed of trust to the extent of Preston, Kean & Co.’s prior lien as it existed by virtue of the original contract, and we see no equitable ground of complaint on Gorham’s part, nor are we aware of any rule, either equitable or technical, which forbids its enforcement to that extent. .The numerous authorities cited by the counsel do not seem to us to have any application.
+The point is made that no steps should have been taken in the case during the pendency in this court, and in the Supreme Court, of the writ of error bringing up for review the order of the court discharging the receiver and awarding possession of the mortgaged premises pendente lite to Gorham. The writ in each court having been made a supersedeas, it was clearly improper for the court below, during the pendency of such writ, to proceed with the execution of the order thus brought up for review. But the effect of the supersedeas was only to stay the execution of that particular order and had no effect, as far as we can see, upon any other proceeding in the case. It does not appear that any steps were taken to enforce the order by turning possession of the property over to Gorliam, or that the court has not in all respects obeyed the supersedeas. The question -of possession of the mortgaged premises pendente lite was in no way material to a final hearing of the bill and the entry of a decree of foreclosure and sale. We see no reason why it was not proper for the court to proceed with the hearing as it has done, reserving the question of the disposition of the assets in the hands of the receiver until the writ of error is finally disposed of.
+As we find no error in the record the decree will be affirmed.
+Decree affirmed.
