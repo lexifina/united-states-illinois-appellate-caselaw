@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-11-21"
+citations: ["98 Ill. App. 207"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter A. Anderberg, Adm’r, etc., v. Chicago & N. W. Ry. Co."]
+source_url: "https://static.case.law/ill-app/98/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5302498
+cites_cases: ["145 U. S. 418", "184 Ill. 477", "187 Ill. 337", "87 Ala. 708", "92 Ill. App. 308"]
+---
+
+# Anderberg v. Chicago & N. W. Ry. Co.
+
+## Majority (Mr. Justice Sears)
+
+Mr. Justice Sears
+delivered the opinion of the court.
+It is difficult to perceive how any negligence of the appellee can be predicated upon the facts of this case. No negligence is charged in the construction or maintaining of the structure by which appellant’s intestate was knocked from the car. None could be, for the structure was built and maintained by another, company, viz., the Lassig Bridge Works, upon its own property. It is charged by the declaration that there was negligence in the managing of the train, but none is shown by the evidence, unless it can be held that the very running of any train under the box or bridge constituted negligence. But it can not be held that the mere fact of running a train under a structure or into a building is negligence, if it be safe to do it under proper management. The facts of this case do not disclose that a train when properly managed could not easily be safely run under this structure and into the scale-house. On the contrary, it is disclosed that it had been done daily for months and by the deceased himself, with others. The declaration charges also negligence in that appellee failed to warn its employe, appellant’s intestate, of the danger incident to passing beneath this structure. But the employe Avas Avell aAvare of the existence of the structure and its relation to the track upon Avhich he worked, and he had been thus aware for months. The dangers incident to the structure were apparent; there was no latent or uncertain peril in it. Ho one of mature years and of ordinary intelligence could fail to see the dangers and all the dangers incident to the use of a railroad track passing beneath this structure and into a building. The duty of any further warning to an employe, thus familiar Avith the conditions and the danger, would of necessity involve the proposition that the company should have told its intelligent employe that he could not stand upright and pass safely through a space of three feet and seven inches, Avhich Avas betAveen the top of the car and tlie bottom of the bridge, or that it should haATe sent some one to Avarn the employe each time that he approached the structure upon a train. The absurdity of either proposition is apparent. 1 Shearman & Rediield on Heg. (4th Ed.), Sec. 203; 2 Bailey on Personal Injuries, Secs. 2729, 2731; Aerkfetz v. Humphreys. 145 U. S. 418; L. & N. R. R. Co. v. Hall, 87 Ala. 708.
+But if there was any negligence imputable to appellee, and we are clearly of opinion that there is none, yet a recovery by appellant Avould be precluded upon the ground that this peril Avas'a hazard assumed by the employe as an ordinary risk of his employment.
+Cases are cited by the learned counsel for appellant which hold that Avhere the defect is knoAvn to the employe, but the dangers incident to the defect may not be fully known and appreciated, then the doctrine of an assumed hazard can not apply to bar a recovery. Of such are: Swift v. O’Neill, 187 Ill. 337, and C., R. I. & P. Ry. Co. v. Cleveland, 92 Ill. App. 308. But Ave are aware of no case which holds, Avhere the peril is obvious and Avhere no explanation by the employer could make it more clear and apparent to the ordinary intelligence than does the mere vieAV of it, that then the doctrine of unknown dangers incident to a knoAvn defect can apply. The distinction between the rule as to perils which are obvious and those which are not is very clearly stated in N. C. St. R. R. Co. v. Dudgeon, 184 Ill. 477, wherein the court said, quoting from the decision in another case:
+“ Simply failing to see the dangerous obstruction overhanging the track is not enough, unless the danger was obvious to him at the time, though it might have been seen if he had been on the lookout; for the law imposes no obligation on the train crew, or any of them, to be on the lookout for such things, but, on the other hand, they may give their whole and undivided attention to the careful and diligent performance of their duties, relying on the master to give them a safe, clear and unobstructed track. This does not mean that if they see the danger or know thereof, or it is obvious to them, they are not required to avoid it by the exercise of ordinary care, but it means that they are not required to anticipate it, look for or expect it.”
+Counsel contend at some length for a distinction between the doctrine of assumed risk, as affecting this case, and contributory negligence. In our opinion the application of either doctrine equally bars a recovery. The risk with its obvious perils was assumed, and appellant has failed to show that his intestate exercised any care for his own safety. The deceased stood upon the top of a car, approaching the structure with which he was familiar, his back turned toward it, and remained in this position until the car reached and passed beneath the structure. Eo relieving or excusing facts appear.- The burden of showing an exercise of ordinary care upon the part of his intestate rested upon appellant. This he failed to show, but on the contrary, established by the evidence that the deceased was,'through momentary heedlessness or inattention to his surroundings, brought to his death. We are of opinion that upon the facts of this case no recovery could be sustained, and therefore that the learned trial court did ’ not err in peremptorily directing a verdict.
+The judgment is affirmed.
+
+## Concurrence (Mr. Presiding Justice Windes)
+
+Mr. Presiding Justice Windes
+concurs in the conclusion reached to the extent that a recovery is barred by the contributory negligence of appellant’s intestate.
