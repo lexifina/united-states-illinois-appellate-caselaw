@@ -1,0 +1,27 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 5,094"
+decided: "1909-03-24"
+citations: ["149 Ill. App. 47"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary L. Farrell, Appellee, v. John Farrell, Appellant."]
+source_url: "https://static.case.law/ill-app/149/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2644407
+cites_cases: ["111 Ill. 315", "138 Ill. 515", "144 Ill. 588", "160 Ill. 563", "200 Ill. 170", "211 Ill. 572", "47 Ill. 353", "47 Ill. 413", "69 Ill. 167", "69 Ill. 448", "91 Ill. 167"]
+---
+
+# Farrell v. Farrell
+
+## Majority (Mr. Justice Dibell)
+
+Mr. Justice Dibell
+delivered the opinion of the court.
+By the course pursued the court below tried one of the defenses set up by appellant in his answer, and decided that issue against him, and entered a decree that the ante-nuptial contract is void, and then sent the cause to the master to try other issues. A case should not be tried by piecemeal, and all the issues should be tried at the same time, unless special reasons exist for a contrary course; and none appear here sufficient, in onr opinion, to justify that course. The evidence before the master on the reference as to the validity of this contract was not confined to that topic but naturally included all the relations of appellee and appellant.
+Again, no issue had been made up concerning the ante-nuptial contract. Appellee had filed an affidavit asserting that the first contract had been destroyed by mutual consent, and that the second was invalid; but issues in chancery cannot be made up by an affidavit. Nor would it have been proper chancery pleading for appellee to meet the allegations of the answer relative to the ante-nuptial contract by a special replication, as seems to be supposed in argument. That would be the course of pleading at law. But under the present rules of equity pleading, where an answer in equity sets up new matter which requires to be met by the complainant by pleading other facts, it must be done by an amendment to the bill of complaint. Story’s Eq. Pl., secs. 878, 884; Hall v. Fullerton, 69 Ill. 448; Walker v. Bay, 111 Ill. 315; Harding v. Durand, 138 Ill. 515; Kerfoot v. Billings, 160 Ill. 563, 571; Fitch v. Miller, 200 Ill. 170, 184. If, however, the new matter in the answer is to be questioned as insufficient in law, exceptions to such parts of the answer should be filed and the exceptions should be heard upon such matter of law. Issues had not been made up when this reference to the master was made, and it was premature.
+It is true that the alleged ante-nuptial contract contained a provision relieving appellant from temporary alimony and solicitor’s fees in any suit for separate maintenance, but appellee is the wife of appellant and has the right to question the validity of such a contract, and where, as here, she is without means and her husband has abundant means, we do not doubt the propriety of awarding her temporary alimony and solicitor’s fees while she is litigating the validity of the contract. “While the matters in controversy are being litigated, the wife will be presumed to be entitled to support until it is shown, by the result of the trial, that her claim is forfeited.” Newman v. Newman, 69 Ill. 167. Jenkins v. Jenkins, 91 Ill. 167. In Harding v. Harding 144 Ill. 588, it was held that it was no objection to an allowance of alimony pendente lite, in a suit for separate maintenance, that the husband denies what the wife alleges; that the purpose of the trial is to ascertain the truth in respect to the issues made by the bill and the answer, and that the purpose of the allowance is to enable the wife to present her cause properly. We therefore approve the allowance of the $175.
+We are of opinion that the court should not have made an allowance in advance of $25 per day for the future hearing before the master, and require it to be paid when his report was filed. This would tend to cause appellee’s solicitors unduly to protract the hearing before the master. A disposition to make the hearing lengthy is shown by the testimony of one of appellee’s solicitors that it will require six weeks to try this case before the master. The first ante-nuptial contract was discussed but a day or two before it was executed; it was executed the day beforecthe marriage; it was destroyed the next day after the marriage; the second contract was executed the second or third day after the marriage, and the parties separated a few days later. They lived together only a few days. The circumstances lie within a small space of time. The questions are not complicated. We see no reason why the cause should not be tried in a day or two. To impose upon appellant an expense of $25 per day for six weeks would be ah outrage upon him, unless he shall thus protract the hearing. Moreover, the effect of this order is to allow the master to fix the number of days necessarily occupied with the hearing and to require appellant to pay $25 for each such day, without submitting to the court the propriety of the time allowed. This power cannot be conferred upon the master. Boston v. Nichols, 47 Ill. 353; Wilhite v. Pearce, 47 Ill. 413; Cowan v. Kane, 211 Ill. 572.
+The order is affirmed as to the allowance of $175, and in all other respects it is reversed, and the cause is remanded. Each party will pay one-half the costs of this court.
+Affirmed in part, reversed in part and remanded.
