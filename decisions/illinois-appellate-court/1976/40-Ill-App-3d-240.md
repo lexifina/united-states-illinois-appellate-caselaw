@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "13129"
+decided: "1976-07-22"
+citations: ["40 Ill. App. 3d 240"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BESSIE M. REEH, Plaintiff-Appellee, v. NANCY SUE FASOLD et al., Defendants-Appellants.—(NANCY SUE FASOLD et al., Counterplaintiffs-Appellants, v. BESSIE M. REEH et al., Counterdefendants-Appellees.)"]
+source_url: "https://static.case.law/ill-app-3d/40/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2970838
+cites_cases: ["122 Ill. App. 2d 352", "259 N.E.2d 295", "28 L. Ed. 2d 324", "292 N.E.2d 44", "30 Ill. App. 3d 597", "334 N.E.2d 198", "401 U.S. 975", "9 Ill. App. 3d 168", "91 S. Ct. 1195"]
+---
+
+# Reeh v. Fasold
+
+## Majority (Mr. JUSTICE SIMKINS)
+
+Mr. JUSTICE SIMKINS
+delivered the opinion of the court:
+This cause of action arose out of a support contract signed by an elderly widow, Mrs. Reeh, and her daughter and son-in-law, Nancy and Jess Fasold, who lived with her on her farm. Under the terms of the contract Mrs. Reeh quitclaimed all her personal property to Nancy, retaining a life estate, and deeded all her farm property, retaining a life estate in that as well. In return, Nancy and her husband agreed:
+“3. * * * to furnish a home for [Mrs. Reeh] and take care of her the rest of her life regardless of the cost thereof.
+4. * 0 * that they will execute any note or notes, mortgage or mortgages necessary to raise any monies for the purpose of carrying out the above agreement and borrow any money necessary for nursing care, medical expenses or other expenses of [Mrs. Reeh] which might be needed by her.”
+The purpose of the contract was stated as follows:
+“5. The purpose of this agreement is to provide a life estate in all of [Mrs. Reeh’s] property for her and assure her of care and expenses for the rest of her life and to transfer the property which she owns subject to her life estate to her daughter, Nancy Fasold, without the cost and expense of administration of her estate.”
+Not long after the parties signed the contract and Mrs. Reeh executed the deed the relationship between Mrs. Reeh and Nancy began to deteriorate dramatically. Because Mrs. Reeh received adequate income from the rental of her farm property, the Fasolds were not called upon to perform on the contract. Eventually, Mrs. Reeh insisted that the Fasolds move out, and they did. Then she filed this suit alleging failure of consideration and fraud in the inducement. She sought to have the contract and deed declared void and to have the land partitioned to segregate 60 acres in which Nancy had already received a remainder interest through her father’s will. Nancy countersued for breach and also sought partition, alleging a remainder interest in the rest of the property by reason of the contract and deed with Mrs. Reeh. After hearing the case, the trial court found fraud and failure of consideration, voided the contract and deed, and entered a decree for partition in favor of Mrs. Reeh. The Fasolds appeal and we reverse.
+The first issue is whether the contract and deed are void for failure of consideration. The Fasolds argue that even though they had not yet performed and even though Nancy would have cared for her mother out of love and a sense of moral duty regardless of a formal document, the contract was still valid because it imposed a legal duty where there had been none before. We agree. Throughout the period dinring which this action arose an adult child has been under no legal obligation to support her parents. (Ill. Rev. Stat. 1971, ch. 23, par. 2 — 11.) Hence, Nancy’s good intentions are irrelevant. Until she signed the contract she was not legally bound to support her mother. She is now, and the legal detriment suffered is sufficient to support a contract. The fact that she had not yet performed on the contract is likewise irrelevant. She had a duty to do so if the need arose. In this sense, the contract was like an insurance contract in which one gives consideration for risk protection even though disability may never arise. We believe that the following dictum in Clow v. Chicago Title & Trust Co. (1972), 9 Ill. App. 3d 168, 292 N.E.2d 44, is appropriate:
+“The argument is advanced that no consideration was given for the assignment to the sons, because Mrs. Clow’s income was reduced in the transaction and she had no need for the security which the support agreement promised. However, it does not appear to us to have been a certainty in 1963 that the agreement had nothing to offer Mrs. Clow, for if expensive and prolonged medical care had become necessary, the agreement might clearly have worked out to her advantage.” (9 Ill. App. 3d 168, 172, 292 N.E.2d 44, 48.)
+We hold that the Fasolds’ assumption of the duty to care for Mrs. Reeh was adequate consideration to support the contract.
+The next issue is whether the Fasolds fraudulenty induced Mrs. Reeh to enter into the contract. The evidence indicates that the contract was a part of a plan formulated by Mr. Reeh and his estate planner prior to Mr. Reeh’s death. While the estate was still in probate, the estate planner brought the documents to the farm. Mrs. Reeh testified at one point that she thought they were simply papers she had to sign to facilitate administration of the estate. The estate planner was under the impression she knew of the support contract plan, for he thought he had discussed it with her, and he simply dropped the documents on the table and said “Here is your contract, read it.” His fear was not that Mrs. Reeh would not sign but that the Fasolds would not sign; and, indeed, they knew nothing of the contract and deed before they were brought to the house. They did sign the contract, however, but they did not tell Mrs. Reeh to sign it.
+Mrs. Reeh, on the other hand, testified she had never heard about the contract and that the estate planner did not explain it to her. She admitted she had read the contract, but said she did not understand it. On the other hand, she insisted adamantly that, had she had any questions, she would have asked them. Later, she testified that she remembered saying, in effect, that she knew the contract and deed conveyed the land to Nancy with a retained life estate.
+Fraud must be proved by clear and convincing evidence. (Turzynski v. Libert (1970), 122 Ill. App. 2d 352, 259 N.E.2d 295, cert. denied, 401 U.S. 975, 28 L. Ed. 2d 324, 91 S. Ct. 1195.) In this case no evidence points to any misrepresentations by the Fasolds which might have induced Mrs. Reeh to sign the contract, and, indeed, the evidence does show that Mrs. Reeh was aware of the contents of the contract. Under this state of facts, the trial court clearly erred in finding fraudulent inducement.
+On appeal, Mrs. Reeh also argues lack of mutual assent and constructive fraud. The constructive fraud argument is grounded on the fact that Nancy was Mr. Reeh’s executor, and hence a fiduciary, at the time the contract and deed were signed. These arguments, applied to the facts, have little merit. More importantly, however, Mrs. Reeh failed to plead them or attempt to prove them at trial. She cannot now change theories at the appellate level. Westlake v. Moffit (1975), 30 Ill. App. 3d 597, 334 N.E.2d 198.
+We reverse and remand for further proceedings consistent with the views herein expressed.
+Reversed and remanded.
+TRAPP, P. J., and CRAVEN, J., concur.
