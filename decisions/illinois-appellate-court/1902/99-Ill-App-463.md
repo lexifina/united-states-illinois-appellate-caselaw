@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+decided: "1902-01-16"
+citations: ["99 Ill. App. 463"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emanuel J. Petrue v. Wakem & McLaughlin."]
+source_url: "https://static.case.law/ill-app/99/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2604220
+cites_cases: ["10 Ill. App. 488", "138 Ill. 67", "25 Ill. 35", "35 Ill. 250", "48 Ill. App. 406", "70 Ill. App. 407", "73 Ill. 197"]
+---
+
+# Petrue v. Wakem
+
+## Majority (Mr. Justice Adams)
+
+Mr. Justice Adams
+delivered the opinion of the court.
+The check never having been indorsed by appellees, to whose order it was made payable, and it having been lost, and appellees having made diligent search for it, without being able to find it, all of which appears from the preceding statement, it was competent to prove its contents by secondary evidence. McMillan v. Bethold et al., 35 Ill. 250; O’Neil v. O’Neil, 123 Ib. 361.
+The contents of the check were admitted on the trial by appellant’s counsel, which admission, with the proof of nonindorsement, loss of the check, and inability to find it, on diligent search made, constituted a prima facie case for appellees. Appellant’s counsel contends that the Petrue American Importing Company is a de facto corporation, and that "appellees having done business with it as a corporation, are estopped to deny its corporate existence, and in support of this proposition cite Bushnell v. C. I. M. Co., 138 Ill. 67; Tarbell v. Page, 24 Ib. 46, and Walker Paint Co. v. Ruggles, 48 Ill. App. 406. In the last case it does not appear from the report that the corporate existence of the paint company was disputed. In each of the other cases relied on by appellant’s counsel, the only defect in the organization of the company was failure to have the certificate of complete organization recorded. These cases have no application to the present case, in which there is no evidence of even an application for a certificate of complete organization. No articles of incorporation, or proper evidence of subscriptions for stock, were produced on the trial. On the contrary, appellant testified that he thought the license to open subscription books sufficient.
+In Bushnell v. C. I. M. Co., supra, the court say:
+“ The necessary steps to perfect that organization were all taken as required by the statute, except that the final certificate was not recorded. It is shown by the bill that upon the issuing of that certificate its directors elected the proper officers and proceeded to the transaction of business as a corporation, and continued to act as such until the filing of this bill, a period of more than five years. That these facts establish a corporation defacto is settled by numerous decisions of this court,” citing numerous cases.
+No decision, so far as we are aware, goes to the length of holding that there may be a defacto corporation merely by taking out a license to open books for stock subscriptions. In Bigelow v. Gregory, 73 Ill. 197, the court held, that where individuals seek to form themselves into a corporation under a general law, it is only in pursuance of the provisions of the statute for that purpose that corporate existence can be acquired. Ib. 201. It was held in that case that the persons who undertook to form themselves into a corporation, but who did not comply with the statutory requirements, were liable as partners. The evidence shows that appellant did business under the assumed corporate name, and it is difficult to perceive how appellees could have transacted business with him in any name other than the business name which he had assumed, and was doing business in. That he was the company is very evident from his own testimony. The following questions were asked appellant and answers given :
+Q. “ Do you remember the capital stock of this so-called corporation \ ” A. “ Yes, sir.”
+Q. “ How much ? ” A. “ I think it was $50,000.”
+Q. “ Who put in $50,000 ?” A. “I put in the most, and two of them put in one share each.”
+Appellees’ counsel having admitted on the trial that the check was received in payment of their claim, it must be conceded that their remedy is on the check, and on this theory the cause was tried. Appellant’s counsel urge, in argument, the following propositions:
+1. That it was the duty of appellees to endeavor to collect the amount of the check from the bank.
+2. That the claim for which the check was given has been paid.
+3. That appellees were negligent in losing the check and therefore the loss of the amount thereof by reason of the bank’s failure, should be borne by them.
+4. That the finding should have been for appellant, on his plea of non-joint liability.
+The check was lost within a few hours of its receipt by appellees. That a lost check can not be presented for payment by the payee, is a self-evident proposition, and that the bank is not liable on a cheek until it is presented for payment, is settled law in this State. Munn v. Burch, 25 Ill. 35, 40; Niblack v. Park Nat. Bank, 169 Ib. 517,520-21; Gage Hotel Co. v. Union Nat. Bank, 171 Ib. 531; Greenebaum v. Am. T. & S. Bank, 70 Ill. App. 407.
+The Munn case, supra, is the leading case on the subject and in that case the court say:
+“ The universal custom shows us what the contract of alt the parties is. It shows us that the banker, when he receives the deposit, agrees with the depositor to pay it out on the presentation of his checks, in such sums as those checks may call for, and to the person presenting them, and with the whole world he agrees that whoever shall become the owner of such check shall, upon presentation, thereby become the owner and entitled to receive the amount called for by the check, provided the drawer shall, at that time, have that amount on deposit.”
+The views expressed in the language quoted have not been departed from, but, on the contrary, have been adhered to in subsequent decisions. In Greenebaum v. Am. T. & S. Bank, supra, this language is used :
+“ As between banker and depositor, the rights do accrue as of the time of the deposit. As between banker and transferee of the deposit, however, neither Munn v. Burch, nor any other authority cited, holds that any rights accrue until presentation of the check.”
+On the trial it was admitted by counsel for appellant that the check was given for the claim of appellees, and appellant, who, presumably, knows more about the facts than does his counsel, testified that he paid appellees’ bill with the check, and in no other way. This is a sufficient answer to the claim of payment. We cannot concur in the view that the loss of the amount of the check was caused by the loss of the check itself. Appellees promptly notified aopellant of the loss and requested another check, and, although in case of the loss of a check, payable to the order of the payees and not indorsed by them, as was the case under consideration, it is not necessary in a suit on the lost check, to indemnify the drawer (Edler v. Uchtmann, 10 Ill. App. 488, 496, and authorities cited),' the appellees agreed to give a bond of indemnity, nevertheless, appellant persistently refused to give another check, and intimated that he would not do so until the end of a year from the time the check was lost,-which would have been.after the failure of the bank. The giving the check was a solemn admission that the claim of appellees was due and payable, and had appellant given to appellees another check and notified the bank not to pay the lost one, as we think he should have done under the circumstances, he would have been amply protected, and would not have lost the amount of the check by the failure of the bank.
+We can hardly think appellant’s counsel serious in contending that the finding should have been for appellant on his plea of non-joint liability. After the dismissal as to the Petrue Company and the amendment of the declaration, which amendment was made upon the attorneys for appellees learning, from the examination of appellant, that there was no such incorporated company as the Petrue Importing Company, appellant was the sole defendant charged, and the plea of non-joint liability was no answer to the declaration.
+The judgment will be affirmed.
