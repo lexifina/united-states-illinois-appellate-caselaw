@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+decided: "1881-06-14"
+citations: ["8 Ill. App. 631"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cuthbert W. Laing v. Lavinia E. Day."]
+source_url: "https://static.case.law/ill-app/8/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4842713
+cites_cases: ["24 Ill. 628", "41 Ill. 279", "43 Ill. 52", "58 Ill. 417", "59 Ill. 518", "71 Ill. 307", "83 Ill. 22", "89 Ill. 590"]
+---
+
+# Laing v. Day
+
+## Majority (McAllister, P. J.)
+
+McAllister, P. J.
+There were changes in the parties to this suit, made after it was brought; but as the case stood at the time of the trial, it was an action of replevin in which Lavinia E. Day was the plaintiff, and Cuthbert W. Laing was the defendant. The matter in controversy was the right of property in a certain concert grand piano of the Knabe make, with the stool and cover. There was a plea putting in issue plaintiff’s right of property, and on that issue alone the case was tried by a jury, whose verdict found the property in plaintiff. Defendant asked for a new trial, and on its beino- overruled and judgment given on the verdict, he prosecutes this appeal.
+It appears from the evidence that said property was bought of Julius Bauer then, and still a dealer in pianos in Chicago, sometime in the year 1868; that at that time the plaintiff and her then husband, Isaac C. Day, were living together as bus-band and wife at No. 404 Michigan Av. Chicago, and to their said residence the property when purchased was taken. It also appears it was bought with the husband’s means; but the evidence for plaintiff tended to show that plaintiff acted alone in making the purchase of Ba ter, and that he gave to her a bill of sale of the property without any other person being known in the transaction.
+It appears that Isaac C. Day died sometime in 1872, leaving only two children of said marriage, the younger of whom Was Clara Irene Day, and the other designated in the evidence as Mrs. Marsh; that in 1874 Clara Irene intermarried with the defendant Laing, and in 1876 she died also, leaving a female child; that Laing was appointee, and acted as administrator of his deceased wife’s estate.
+The evidence on behalf of the defendant tended to prove that while said piano was in the possession of said Isaac C. Day and plaintiff, his wife, at their said residence, and before the marriage of said Clara Irene Day with defendant, the said Isaac made a gift of it to his said daughter Clara Irene on her eighteenth birthday, making such delivery of it to her as was practicable under the circumstances, and she accepting the gift, whereby the same became her property in her life-time.
+So it will be seen that the theory of the case on behalf of plaintiff was, that because of the purchase by her of the instrument and taking a bill of sale of it in her own name without her husband being known in the transaction, it thereby became so absolutely her own separate property that her husband in his life-time had no right of control or disposition in regard to it. "While on the part of the defendant the theory was that the property in the instrument was in the husband, Isaac C. Day, and that he made a complete gift of it to his said daughter in such manner as to amount to a valid and effectual gift i/nter vwos, vesting the legal title in such daughter as against the plaintiff.
+At the instance of plaintiff’s counsel the court gave to the jury the following instruction: “ The jury are instructed.that the real question at issue is the title to the piano, etc., mentioned in this suit. If therefore the jury believe from the evidence that Mrs. Day bought the piano from the witness Bauer by exchanging other pianos and paying the balance in money, and that no other person than herself was known in the transaction, and that she took the title to and possession of said piano from the witness Bauer, and that she never willingly parted with the title of said piano, then they must find for the plaintiff.”
+This instruction was, under the circumstances in evidence, clearly erroneous and misleading.
+The purchase referred to in the instruction was made in 1868, while plaintiff and her husband were living together in the city of Chicago as husband and wife, not with the wife’s own separate means derived from some person other than her husband, but with his means. At that time the rights of husband and wife, as respected property, were entirely as at common law, except as modified by the married woman’s act of 1861. By the common law all of the personal property acquired by the wife during coverture belonged absolutely to the husband. Reeves Dom. Rel. 3 Ed. 133; Cookson v. Toole, 59 Ill. 518; Mudge v. Bullock, 83 Ill. 22.
+The statute of 1861 so changed the common law that the married woman could, during coverture, take both real and personal property when derived from some person other than her husband, and hold it free from his interference or control. But since that statute the Supreme Court has repeatedly held that, in actions at law it was a presumption of the common law, that the husband was the owner of all personal property in the possession of the wife while they were living together, and not that she was the owner under the act of 1861. That to overcome such presumption she must affirmatively show that the property was her own within that statute. Farrell v. Patterson, 43 Ill. 52; Reeves v. Webster, 71 Ill. 307.
+The hypothesis of the instruction of the plaintiff having bought the property of Bauer, and of his having given her the title and possession without any person but herself being known in the transaction, is wholly insufficient to overcome the presumption and effect of the common law, in the absence of any other hypothesis tending to bring such acquisition of the property within either the letter or spirit of the act of 1861. For the error in giving that instruction the judgment of the court below must be reversed and the cause' remanded.
+Beversed and remanded.
