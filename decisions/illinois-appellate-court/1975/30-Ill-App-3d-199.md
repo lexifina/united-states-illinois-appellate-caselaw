@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "12792"
+decided: "1975-07-17"
+citations: ["30 Ill. App. 3d 199"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Al Cross, Jr., et al., Defendants-Appellants."]
+source_url: "https://static.case.law/ill-app-3d/30/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2622124
+cites_cases: ["21 Ill.App.3d 437", "223 N.E.2d 103", "298 N.E.2d 164", "315 N.E.2d 687", "36 Ill.2d 358", "54 Ill.2d 487"]
+---
+
+# People v. Cross
+
+## Majority (Mr. JUSTICE GREEN)
+
+Mr. JUSTICE GREEN
+delivered the opinion of the court:
+The defendants, Cross and Buss, were charged with the misdemeanor offense of attempted theft. A jury trial was held on June 15, 1972, with Associate Judge Thomas Burke presiding. The defendants were represented by private counsel. Their attorney had been a special assistant Attorney General for the State of Illinois for the purpose of handling inheritance tax matters since May of 1969 and was so employed at the time of defendants’ trial. The jury found both Cross and Buss guilty. After a sentencing hearing on November 20, 1972, a fine of $200 was imposed upon Cross, and a fine of $300 was imposed upon Buss. They were not sentenced to jail terms.
+The defendants filed a petition for post-conviction relief in which they claimed that they had been denied their constitutional right to the effective assistance of counsel due to a conflict of interest of their attorney. A hearing was held on this petition before Associate Judge Tom Grace because Judge Burke had been elevated to the position of circuit judge. The petition for post-conviction relief was denied, and the defendants filed their notice of appeal from that order on July 12, 1974.
+Relief under the Post-Conviction Hearing Act (Ill. Rev. Stat. 1971, ch. 38, par. 122 — 1 et seq.) recently has been held to be available to criminal defendants who are convicted of misdemeanors even though they are not sentenced to jail terms. (People v. Wan, 54 Ill.2d 487, 298 N.E.2d 164.) We have concluded that Wan is applicable to the instant case.
+The post-conviction hearing was presided over by Judge Grace, rather than Judge Burke, and the defendants made no objection to the assignment of their post-conviction hearing to Judge Grace. On appeal of the denial of their post-conviction petition, the defendants argue that the post-conviction hearing should have been held before Judge Burke, who had presided over the trial. The defendants have waived this issue. A fundamental principle of law requires a party to raise an objection in the lower court before an appellate court will consider such an objection. People v. Reed, 36 Ill.2d 358, 223 N.E.2d 103.
+The only remaining issue is whether the defendants were denied the effective assistance of counsel due to a conflict of interest of their attorney. Defendants’ trial counsel was serving as a special assistant Attorney General for the purpose of handling inheritance tax matters at the time of the criminal proceedings which led to the conviction and fine of the defendants. The defendants claim that they did not know of the status of their counsel as a member of the staff of the Attorney General’s office. They argue that their counsel was representing conflicting interests which denied them the effective assistance of counsel. On the other hand, the People contend that no actual prejudice resulted to the defendants. At the post-conviction hearing, the attorney testified that he had represented the defendant Cross for many years, that he had informed Cross that he was a special assistant Attorney General, that he had represented the defendants in certain matters in the nature of the early stages of a civil proceeding which developed into the criminal case involved here, that he was therefore fully informed of the facts of the criminal proceeding, and that he represented the defendants properly in the criminal case. The defendant Cross also testified at the post-conviction hearing. On cross-examination, he was unable to explain how his attorney could have been more effective in his representation of the defendants. As Cross said, “He must have done something wrong because we was convicted of the crime.”
+We do not have to determine whether the defendants suffered any actual prejudice in this case. As this court noted in People v. Fuller, 21 Ill.App.3d 437, 315 N.E.2d 687, a per se rule has been adopted in this State in criminal cases, when counsel has a conflict of interest stemming from a commitment to others. That is, an attorney’s commitment to others deprives his client of the effective assistance of counsel without showing of actual prejudice.
+At the time of the criminal proceedings involved here, the code of conduct for the members of the Attorney General’s office, including the defendants’ trial counsel, prohibited such staff members from representing any persons in any criminal case (“Code of Conduct For AH Members of the Staff of the Office of Attorney General State of Illinois,” sec. 5, pages 4-5). The reason for this regulation is obvious. By statute, the Attorney General is required to assist in the prosecution of any party accused of crime when in the Attorney General’s judgment the interests of the People of the State require it and to represent the People of the State before the supreme court in all cases in which the State or the People are interested. (Ill. Rev. Stat. 1971, ch. 14, par. 4.) The attorney’s representation of the defendants on the one hand and his affiliation with the Attorney General’s office on the other constituted a per se conflict of interest. We must conclude that the defendants did not waive their attorney’s conflict of interest, for the evidence is insufficient to show a full disclosure of the facts of their attorney’s conflict and to show express consent by the defendants to representation by that attorney.
+Accordingly, the judgment against the defendants is reversed, and their case is remanded to the trial court for a new trial.
+Reversed and remanded.
+TRAPP, P. J., and CRAVEN, J., concur.
