@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. Nos. 51,240 and 51,241"
+decided: "1966-11-02"
+citations: ["76 Ill. App. 2d 389"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Appellee, v. William O’Connell, Patrick McDonnell, Appellants."]
+source_url: "https://static.case.law/ill-app-2d/76/cases/0389-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2575975
+cites_cases: ["10 Ill2d 221", "11 NE2d 959", "139 NE2d 726", "14 Ill2d 126", "16 Ill2d 394", "18 Ill2d 400", "195 NE2d 694", "196 NE2d 691", "201 NE2d 425", "26 Ill2d 207", "291 Ill 40", "30 Ill2d 110", "30 Ill2d 375", "31 Ill2d 236", "347 Ill 148", "367 Ill 430", "405 Ill 577", "72 Ill 303", "83 NE2d 587"]
+---
+
+# People v. O'Connell
+
+## Majority (MR. JUSTICE MCCORMICK)
+
+MR. JUSTICE MCCORMICK
+delivered the opinion of the court.
+Charge : Indecent liberties with a child.
+Judgment: The defendants were jointly indicted by the grand jury of Cook County; the case was tried before the court without a jury, and the defendants were found guilty and sentenced to three to six years in the State Penitentiary.
+Point Raised on Appeal : The defendants were not proved guilty beyond a reasonable doubt.
+Evidence : From the record it appears that William O’Connell, 41 years of age, Patrick McDonnell, 24 years of age, and Mason Turner, 36 years of age, maintained an apartment at 1472 North Paulina Street, Chicago, Illinois. In the indictment the defendants were accused of committing indecent liberties on November 28, 1964, with Roger Toler, 13 years old.
+Roger Toler testified for the State, as did Duane Johnson, 12 years old, and Michael Johnson, 13 years old. The evidence educed at the trial was sordid. Roger Toler testified that Patrick McDonnell committed numerous indecent liberties on his person, including oral copulation. He further testified that William O’Connell committed none of the acts, but that “Bill [meaning William O’Connell] asked Don would I want to go into the bedroom with Pat. I said ‘Yes.’ ” Duane Johnson corroborated Roger Toler’s testimony with reference to the indecent liberties involving McDonnell. His testimony was not confined to a single instance. Michael Johnson also corroborated Roger’s testimony. All three boys testified that they had been in the apartment on various days; that they were served whisky, wine and beer; and that on one occasion O’Connell asked them if they wanted to stay overnight. Roger, Michael and Duane left to call their homes; Michael’s mother told him to get on home; Roger called his mother, but there was no answer, and he and Duane went back to the apartment. Roger stated that they were told “there was a guy there, ... to come back later.” After about fifteen minutes they again went to the apartment; William O’Connell answered the door, and told them to come back a little later, that the man was still there. They left, then went back about three, four or five times, when they were let in; the man had gone. This was about 9:30 or 10:00 p. m. There was testimony from the boys that on one occasion Duane Johnson got sick from the combination of drinks and vomited.
+Patrick McDonnell and Mason Turner testified on behalf of the defendants. McDonnell testified that he couldn’t tell anything about the boys coming to the apartment because he was cleaning the second floor for the landlord. The defendants lived on the first floor rear. McDonnell denied any of the acts testified to by the boys, but he did state that the three boys were in the apartment together on November 28, 1964, which is the date set out in the indictment. He also testified that he was told by William O’Connell that there were some friends, or boys in the apartment, and that when he went downstairs he wasn’t surprised to see three little boys, nor did he wonder what they were doing there. He admitted he saw the boys drinking beer and said “It wasn’t strange to me to see three boys drinking.” He did estimate that Duane was younger than Roger; he would say about 11 or 12. He did not think it strange that Duane should be in the apartment around 7:30 or 8:00 p. m., watching television after having been in the apartment all day, nor did he ask the boys at any time what they were doing.
+Mason Turner, the other tenant in the apartment, testified that he had seen Roger at the house approximately four times on different days, and that he had also seen Duane and Mike Johnson.
+The defendants’ motion for a new trial was denied and the court thereupon sentenced the defendants.
+Opinion :
+We do not disagree with the rule laid down in People v. Sheppard, 402 111 347, 83 NE2d 587, cited by the defendant in which case the court held:
+“. . . In criminal cases it is the duty of this court to review the evidence, and, if there is not sufficient credible evidence, if it is improbable or unsatisfactory, or not sufficient to remove all reasonable doubt of defendant’s guilt and create an abiding conviction that he is guilty, the conviction will be reversed.”
+In the instant case, the question as to whether any of the acts took place on the date charged in the indictment — November 28, 1964 — is immaterial, since it is not a fatal variance to fail to prove the exact date of the crime as alleged in the indictment. People v. Schmidt, 10 Ill2d 221, 139 NE2d 726; People v. Claussen, 367 Ill 430, 11 NE2d 959.
+The defendants argue that William O’Connell should not have been found guilty since there is no proof that he committed any act of indecent liberties upon the person of Roger Toler. There is no question that William O’Connell was present at the time the offense was committed. Roger has testified that William O’Connell suggested to another person present that Roger would like to go into the bedroom with McDonnell and that Roger assented; that he went into the bedroom and went to bed with McDonnell who committed indecent acts upon Roger’s person. O’Connell also asked that the boys stay overnight and he was present, aiding, abetting and agreeing with the conduct of Patrick McDonnell towards the boys. In People v. Touhy, 31 Ill2d 236, 201 NE2d 425, a case in which the defendant was arguing that the legislature had intended that unarmed accessories who aid and abet an armed robber may no longer be charged and tried as principals, the court said:
+“A ready answer to defendant’s contention is found in the report of the committee which drafted the 1961 Code, a source to which we may properly look in determining the legislative intent. (Moran v. Bowley, 347 Ill 148; Ernhart v. Elgin, Joliet and Eastern Railway Co., 405 Ill 577). In that report, which was titled ‘Tentative Final Draft of the Proposed Illinois Revised Criminal Code of 1961,’ it was commented at page 292 with reference to section 18-2: ‘The reference to confederates is eliminated as unnecessary. The principles of accountability stated in § 5-2 (c) of this Code are deemed to cover such accessoryship situations adequately.’ Section 5-2 (c), referred to, supplanted section 2 of division II of the prior law, (Ill Rev Stats 1959, chap 38, par 582,) and provides the following: ‘A person is legally accountable for the conduct of another when: ... (c) Either before or during the commission of an offense, and with the intent to promote or facilitate such commission, he solicits, aids, abets, agrees or attempts to aid, such person in the planning or commission of the offense.’ (Ill Rev Stats 1961, chap 38, par 5-2(c). Further, it is provided in section 5-1 of the new Code: ‘A person is responsible for conduct which is an element of an offense if the conduct is either that of the person himself, or that of another and he is legally accountable for such conduct as provided in Section 5-2, or both.’ Ill Rev Stats 1961, chap 38, par 5-1.
+“In the face of language so plain, and looking to the entire Code and each of its sections, as we must do to ascertain the legislative intent, (Scribner v. Sachs, 18 Ill2d 400; Huckaba v. Cox, 14 Ill2d 126,) we believe there has been no departure from the law relative to armed robbery and accessories as it existed prior to the Code, and that defendant, being legally accountable for the conduct of his armed companion, was properly charged and tried as a principal. The legal consequences of his accessorial acts sufficiently met the charge in the indictment and, this being so, the claim of variance will not ■ lie. Coates v. People, 72 Ill 303, 304.”
+In People v. Cole, 30 Ill2d 375, 196 NE2d 691, the court said:
+. . circumstances may show there is a common design to do an unlawful act to which all assent, and whatever is done in furtherance of the design is the act of all, making each person guilty of the crime. People v. Rybka, 16 Ill2d 394; People v. Marx, 291 Ill 40; People v. Washington, 26 Ill2d 207, 209.”
+Considering the evidence in the light of the law, it is sufficient to sustain the conviction of William O’Connell as a principal.
+Even the testimony of one credible witness alone is sufficient to convict, even though the testimony is contradicted by the accused. People v. Miller, 30 Ill2d 110, 195 NE2d 694.
+In the case before us the evidence was adequate to support beyond a reasonable doubt the finding of guilty against both defendants.
+Decision : The judgment of the Criminal Division of the Circuit Court is affirmed.
+Affirmed.
+DRUCKER, P. J. and ENGLISH, J., concur.
+Ill Rev Stats, 1965, ch 38, § 11-4. Indecent Liberties with a Child.]
+(a) Any person of the age of 17 years and upwards who performs or submits to any of the following acts with a child under the age of 16 commits indecent liberties with a child:
+(1) Any act of sexual intercourse; or
+(2) Any act of deviate sexual conduct; or
+(3) Any lewd fondling or touching of either the child or the person done or submitted to with the intent to arouse or to satisfy the sexual desires of either the child or the person or both.
+This section was in force at the time of the commission of the offense.
