@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1879-03"
+citations: ["3 Ill. App. 635"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Buchanan v. Gustav Goeing et al."]
+source_url: "https://static.case.law/ill-app/3/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5777607
+cites_cases: ["1 Denio 503", "12 B. Mon. 338", "12 Ill. 80", "19 Johns. 381", "19 Johns. 382", "20 Ill. 37", "20 N. J. 140", "26 Vt. 557", "26 Vt. 558", "3 Duer, 20", "3 Gilm. 455", "33 Ill. 473", "37 Ill. 341", "4 Harr. 288", "40 Ill. 506", "40 Ill. 522", "44 Ill. 142", "5 Den. 92", "51 Ill. 219", "51 Ill. 357", "64 Ill. 316", "67 Ill. 358", "67 Ill. 446", "69 Ill. 273", "69 Ill. 478", "7 Blackf. 76", "73 Ill. 565", "75 Ill. 167", "83 Ill. 390", "9 Ga. 302"]
+---
+
+# Buchanan v. Goeing
+
+## Majority (Pleasants, J.)
+
+Pleasants, J.
+This was an action of trespass guare elausumfregit and de bonis asportatis, brought by the defendants in error against the plaintiff in error.
+They obtained a verdict for $933.33, of which $133.33 was remitted, and the County Court, after overruling a motion for a new trial, rendered judgment thereon for $800 damages, and for costs.
+The material facts are, that plaintiffs below being in possession of a stock of pictures, picture frames, looking-glasses, etc., in a store on State street, and claiming to own the same by virtue of a’bill of sale from Joseph Keitz the former proprietor, of whom they had been employees, an execution in favor of the defendant, upon a judgment for $79, against said Keitz, recovered before a justice of the peace previous to the alleged sale, was duly issued and delivered to constable Worth, who by virtue, or under color thereof, levied upon the goods of the value of $1000, or more, and sold them as the property of said Keitz, for the aggregate sum of $450. ' No part of the proceeds was ever paid over to the plaintiffs, but the defendant received thereof from said constable the amount of his judgment and costs. Other creditors of Keitz had previously levied upon the goods, but plaintiffs had replevied them. Being told by Keitz that plaintiffs owned them, the defendant stayed all proceedings looking to the collection of his debt out of them, but being subsequently informed, also by Iieitz, that the sale to plaintiffs was only colorable, and that others of his creditors were levying upon them, he communicated these statements to his attorney and directed him to take such steps as he should think proper. While yet in the store, in charge of a custodian under defendant’s execution, one of the plaintiffs told him that the goods were theirs and proposed an arrangement for the speedy determination of t he question of ownership. Defendant then promised him to meet them at the office of his attorney on the next morning, but failed to appear, and about dark of the same day the constable removed all of the property from the store. Defendant had nothing to do personally with the suing out of the execution, the levy, or the sale, and gave no directions in reference thereto except to his attorney. What these were, if any beyond the general one above stated, or what his attorney did in the premises, does not appear, but the defendant on the trial offered to prove that he did not directly or indirectly authorize or approve of any levy upon or sale of more of said goods than was necessary to satisfy his judgment and costs, which offer the court refused.
+In this refusal, as well as in- overruling the motion for a new trial, we think the court erred.
+The defendant was responsible for the acts of the constable, if at all, only for the reason that he aided, directed or authorized them, or approved of them afterwardsas done in his name or interest; and if they were several only for such as he so aided, directed, authorized or approved. In executing the writ, or in proceeding under color of it, the constable was.acting as a public officer or in his own sole wrong, and not as the agent of the defendant, except so far as the latter, by some of the means mentioned, made him such. Grund v. Van Vleck, 69 Ill. 478; Becker v. Dupree, 75 Id. 167.
+The levy upon goods of strangers to make the amount of the execution, although it might have been under an honest mistake as to the ownership, was in itself a trespass, and the defendant became liable therefor by receiving that amount so made, which was an approval of that act.
+But since the goods were in parcels the excessiveness of the levy was a further and independent wrong, not necessarily or naturally growing out of the other. It would have been no less wrongful if the goods had been the property of Keitz. There is nothing in the record tending to show that the defendant ever authorized or approved of that. The mere receipt of the amount of his judgment, with notice'of the plaintiffs’ claim, but not of the excessiveness or extent of the levy was not a ratification or approval of such excessiveness. Coe v. Higdon, 1 Disney (Ohio) 394. And in the absence of proof there is no presumption of law that the defendant or his attorney directed, authorized or approved of an act of the constable which would have been unprofitable as well as unlawful upon their own assumption of the facts.
+We find nothing in the record to warrant an instruction on the subject of exemplary damages, or to support a verdict for more than the value of so much of the property as was reasonably necessary to make the amount of the defendant’s judgment against Keitz, including his costs, which appears to have been not over one-sixth of what was taken by the constable.
+For the error above indicated, the judgment of the county court is reversed and the cause remanded.
+Beversed and remanded.
