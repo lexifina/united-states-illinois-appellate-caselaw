@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 11,688"
+decided: "1905-01-23"
+citations: ["118 Ill. App. 36"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Loughlin v. United States School Furniture Company, et al."]
+source_url: "https://static.case.law/ill-app/118/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 874166
+cites_cases: ["13 Fed. 516", "134 U. S. 276", "143 Ill. 207", "146 Ill. 279", "15 Ill. App. 285", "157 Ill. 641", "16 Fed. 140", "166 Ill. 451", "166 Ill. 454", "171 Ill. 434", "175 Ill. 264", "47 Ill. App. 575", "50 Fed. Rep. 860", "55 Ill. 427", "62 Ill. App. 354", "78 Fed. 724", "84 Fed. Rep. 295", "92 Tenn. 47", "99 Fed. Rep. 168"]
+---
+
+# Loughlin v. United States School Furniture Co.
+
+## Majority (Mr. Presiding Justice Ball)
+
+Mr. Presiding Justice Ball
+delivered the opinion of the court.
+If the officers or stockholders of a corporation form another corporation and transfer the good will, business and assets of the old corporation to the new without paying the just debts of the old corporation, equity will follow such property into the new corporation and subject it to the payment of such debts the same as though no transfer had been made. And if any individual participating in such transfer has profited thereby, he will be held accountable to the extent of that profit. 5 Thompson on Corpn’s, ch. 148; Cook on Corpn’s, sec. 672; Beach on Private Corpn’s, sec. 797; Hibernia Ins. Co. v. St. & C. T. Co., 13 Fed. 516; Brum v. Ins. Co., 16 Fed. 140; Sidell v. M. P. Ry. Co., 78 Fed. 724; Chicago, etc. v. Third Nat’l Bk., 134 U. S. 276; Vance v. McNabb C. & C. Co., 92 Tenn. 47; Wheeler v. Pullman I. & S. Co., 143 Ill. 207.
+The general rule is that an order of court dismissing a bill as to one party is not a final order, and cannot be appealed from until the case is fully disposed of as to all other parties. Thompson v. Follansbee, 55 Ill. 427; Bucklen v. Chicago, 166 Ill. 451; Dreyer v. Goldy, 171 Ill. 434; Pain v. Kenney, 175 Ill. 264. But there is a well-recognized exception to this rule. Where, under the particular circumstances of the case, it would be a great hardship upon appellant, if not a denial of justice to him, to dismiss the appeal, and prima facie he is entitled to relief upon the merits, the court will refuse to order a dismissal, even though the judgment appealed from does not completely dispose of the case in which it was entered. Freeman on Judgments, ch. 1, sec. 35; P. D. & E. Ry. Co. v. Pixley, 15 Ill. App. 285; Crouch v. First Nat’l Bank, 47 Ill. App. 575; Dreyer v. Goldy, 62 Ill. App. 354; Bucklen v. Chicago, 166 Ill. 454.
+The bill in this case was brought to reach certain assets which once belonged to the United States School Furniture Company, but which had been taken into the possession of the American School Furniture Company before the suit was commenced. These assets were inequitably transferred to the latter company by the aid of Holbrook and Burk-hart. Appellant had recovered a judgment upon his claim against the former company, and had exhausted his remedy at law against it. He is not here asking any relief as-to the United States School Furniture Company other than discovery. The bill alleges that the assets sought to be recovered have passed out of its possession and control. To dismiss appellees o.ut of this case deprives appellant of any remedy. Under these circumstances we think the case stands clearly within the exception to the rule. Again, while the United States School Furniture Company is a proper party, it is not a necessary party to the bill. It can neither gain nor lose. It is a matter of indifference to it what the final judgment in this case may be. It has been stripped of its property, is not a going concern, but is a derelict. Appellant is not seeking to reinvest it with the assets of which it has been deprived. He is seeking to compel payment of his claim from appellees, who have been dismissed out of the case, and without whose presence he is without remedy. Such company not being a necessary party to this suit, it is a matter of indifference that the cause still pends as to it in the trial court. Quinn v. People, 146 Ill. 279; Eldred v. Am. Palace Car Co., 99 Fed. Rep. 168. Further, in all essential particulars this is a final decree. The material allegations of the bill plainly impress upon the assets taken over by the American School Furniture Company the duty of satisfying the claim of appellant. The essence of what is done by the decree, and not what it may be called, determines whether or not it is final. Potter v. Beal, 50 Fed. Rep. 860.
+It is urged that the matters averred in the bill bring the transaction within the statute governing the consolidation of corporations, and hence appellant has mistaken both the form of his remedy and the forum, having by statute a plain, adequate and complete remedy at law. The infirmity of this position is two-fold: first, the allegations of the bill, which, upon this appeal, must be taken to be true, show conclusively that the thing accomplished was not a consolidation, but was a succession; second, it is undisputed that the American School Furniture Company is a foreign corporation. In American Trust Co. v. M. & N. W. Ry." Co., 157 Ill. 641, it is decided that there is no statutory authority under which an Illinois corporation may legally consolidate with a foreign corporation, and that the legislative policy of this state is against the exercise of this power. See, also, Kavanagh v. Omaha L. Ass’n, 84 Fed. Rep. 295.
+We do not regard the further contentions of appellees as substantial.'
+The motion to dismiss this appeal is disposed of adversely to appellees by what has been here said.
+The judgment of the Superior Court is reversed and the cause is remanded.
+Reversed and remanded.
