@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-07-05"
+citations: ["46 Ill. App. 265"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William E. Hayward v. Don A. Burke, Sole Surviving Executor, etc."]
+source_url: "https://static.case.law/ill-app/46/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5145866
+---
+
+# Hayward v. Burke
+
+## Majority (Mr. Justice Pleasants.)
+
+Mr. Justice Pleasants.
+Beatty T. Burke, during his life and at the time of his death was a member of the firm of Burke, Dubois & Chesnut, bankers at Carlinville. He died July 30, 1876, leaving, a will, and in October following-letters testamentary were issued to appellee and others. His surviving partners continued the business in the same name until May 19, 1877, when they changed it, by a new agreement, to that of Dubois & Chesnut. On the 28th of April preceding, however, they had settled with the executors of their deceased partner, and paid over to them as his portion of the firm assets, the sum of $26,760.49. They carried on the business until January 14,1878, when they made an assignment for the benefit of their creditors, to John T. Rogers.
+The bill herein was filed to the August term, 1878, of the Circuit Court for Macoupin County by John M. and John Mayo Palmer as creditors of the original firm, on behalf of themselves and such others as should see fit to become parties complainant, to charge appellee as trustee of the assets of that firm, received by him as executor of the deceased partner, for the benefit of its creditors. On the 14th of September, 1878, appellant filed his petition to become a party complainant and was so made. ' The claims of the other complainants having been arranged by the parties, the bill was dismissed as to them, and the decree, on final hearing upon the pleadings and proofs, was- against the appellant here. In this case the question is one of pure law—whether upon the facts, which are all undisputed, his claim is valid as against the estate of Beatty T. Burke. Besides those already stated the facts are as follows :
+On the 11th of May, 1876, William Grimes deposited in the bank referred to the sum of $2,400, and received therefor a certificate, of which the following is a copy:
+“ $2,400. Banking House of Burke, Dubois & Chesnut.
+Carlinville, Ills, May 11th, 1876.
+William Grimes has deposited in this bank twenty-four hundred dollars, payable to self or order, with interest at the rate of six per cent per annum if left on deposit four months, interest to cease at maturity.
+A. McKim Dubois, Cashier,
+By J. T. Bogers.”
+Grimes heard of the death of Burke soon after it occurred. Notice of the dissolution of the firm by his death was given by publication in the newspapers of- the city of Carlinville in April, 1877. On the certificate of deposit were these indorsements:
+“ Interest paid to September 11, ’76, and extended four months from date.
+Interest paid to March 11, 1877, and extended to September 11, ’77.
+Interest paid to September 11, ’77, and extended to March 11, 1878.”
+Shortly before the last extension expired Grimes assigned the certificate to appellant “ without recourse.”
+The first payment and extension was made after the death of Burke and the last after the new firm was formed and doing business under the new name. Yet Mr. Grimes testified that he made no agreement with Dubois & Chesnut to extend the time of payment; that he never consented or intended to release the estate of Burke, nor understood .that he made a new loan. Nothing was said at the time, and we infer from his statement that no question arose in his mind, as to the legal effect of these transactions. But he certainly knew what was written and done respecting the money. He testified that about the time these indorsements were made he read them or some one else read thenvto him. He knew by them that Chesnut & Dubois understood he was to leave the money on deposit for the specific periods respectively therein stated, and to receive interest upon it; and he assented to that understanding by ^actually receiving such interest without calling for the principal. When that of September 11, 1811, was made, if not before, he knew that they were doing business solely on their own account and not as surviving partners of Burke.
+We are of opinion that each of these “ extensions ” thus assented to, was a new contract distinct and different from that evidenced by the certificate, creating a new loan to Chesnut & Dubois for a definite period instead of one that had been on call, and with an absolute liability for interest instead of one that was conditional and had reached its limit; and that by the first the claim under the certificate was fully satisfied and extinguished. This results, necessarily, from the provision therein that interest should cease at its maturity. The bearing of this fact upon the question of liability here involved is not considered in the argument for appellant, but we think it decisive, distinguishing the case here from those cited by counsel. Had that provision been omitted the liability of Burke’s estate for interest after the four months would have continued until the principal was paid or released, or the claim barred by some statute of limitation; for such would have been his own agreement. And then the intention of Grimes and of the surviving partners as to a release would have been open to inquiry, to be determined by their acts and dealings, and the retention of the original certificate by Grimes might have been regarded as decisive of the fact that they did not intend to release the estate or change the contract in any way. But the liability of Burke was limited by the certificate. His death left it unchanged and unchangeable by any act or intention of the surviving parties to it. There is no pretense that by his will or by any provision of copartnership agreement, his executors or the surviving^partners were authorized to carry on the partnership business. It is elementary law that the power of a surviving partner to bind the firm ceases immediately on its dissolution by the death of1 his copartner. He can not impose new obligations upon the firm, or vary the form or character of those already existing. 3 Kent’s Com. (side) p. 63. If, then, interest was paid and received after September 11, 1816, under contract, it could not have been under the certificate, but must have been under a new and distinct agreement between the surviving parties; and this was an appropriation of the principal by the creditor inconsistent with the supposition that it ivas still due as against the deceased. It can bear no other legal construction than that he received it from the old firm and loaned it anew to the survivors.
+Deoree affirmed.
