@@ -1,0 +1,62 @@
+---
+court: "Illinois Appellate Court"
+docket: "57844"
+decided: "1973-11-21"
+citations: ["15 Ill. App. 3d 934"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Jacquelyn Vincson, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/15/cases/0934-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2460303
+cites_cases: ["1 Ill.App.3d 988", "125 N.E.2d 615", "159 N.E. 807", "163 N.E. 373", "203 N.E.2d 605", "275 N.E.2d 210", "275 N.E.2d 381", "281 N.E.2d 451", "301 N.E.2d 300", "311 Ill. 392", "328 Ill. 446", "331 Ill. 581", "384 U.S. 436", "4 Ill.App.3d 539", "49 Ill.2d 504", "5 Ill.2d 251", "54 Ill.2d 552", "54 Ill.App.2d 73"]
+---
+
+# People v. Vincson
+
+## Majority (Mr. JUSTICE SULLIVAN)
+
+Mr. JUSTICE SULLIVAN
+delivered the opinion of the court:
+After a bench trial defendant was found guilty of voluntary manslaughter, in violation of section 9 — 2(a) (1) of Illinois’ Criminal Code (Ill. Rev. Stat. 1969, ch. 38, par. 9 — 2(a)(1)), and sentenced to a term of not less than three nor more than nine years.
+On appeal, defendant contends that: (1) the court reached a conclusion regarding defendant’s guilt during the State’s case, thereby denying her a fair and impartial trial; (2) the court erred in allowing the prosecution to introduce, on rebuttal, testimony that, if admissible, should have been offered in its case in chief; and (3) the trial court erred in denying her application for probation, and in imposing an excessive sentence.
+Since defendant does not argue on appeal that the State failed to prove her guilty beyond a reasonable doubt, the sufficiency of the evidence is not in issue and we will only briefly summarize the facts adduced at trial. The record discloses that during June of 1970, defendant began living with Dennis Marvel and Dennis’ mother, Mrs. Estelle Marvel, at 2214 East 69fh Street. Defendant and Dennis Marvel were not married and shortly thereafter he started seeing a former girlfriend, the deceased, Beatrice Wilson. On May 19, 1971, defendant had a child by Dennis Marvel. In August, 1971, Beatrice Wilson became pregnant as did defendant in September, 1971, each the result of association with Dennis Marvel, who then informed defendant that he was going to be responsible for both relationships and would maintain both families. A proposal by Dennis Marvel to defendant that Beatrice Wilson come live with them was rejected by defendant, following which, on December 3, 1971, defendant, driving her parent’s car, met with Beatrice Wilson to discuss the situation. Both were in the car when a scuffle occurred and defendant shot Beatrice Wilson and then pushed her out of the car. Subsequently, defendant was charged with two counts of murder in violation of Ill. Rev. Stat. 1969, ch. 38, pars. 9 — 1(a) (1) and 9 — 1(a)(2). It was stipulated at trial that if Dr. Jerome Kearns, a coroner’s pathologist, were called to testify, he would testify that the deceased was shot eight times and that the cause of death was a bullet wound of the abdomen and liver.
+OPINION
+Defendant’s first contention is that the trial judge reached a conclusive opinion of her guilt before hearing all the evidence thereby depriving her of a fair trial. During the recross examination of Investigator Mason, a State’s witness, who had questioned defendant regarding the death of Beatrice Wilson, the following colloquy occurred:
+“THE COURT: Pardon me. Would you like to clarify that?
+MR. PINCHAM [Defense Counsel]: I will get to it.
+THE COURT: I mean he told her, whatever you want to call her. That’s the way — that’s the turning part [sic] in this case as far as this Court is concerned. And if I am wrong, I want it cleared up now.
+MR. PINCHAM: Would you please read the last question?
+(The Reporter read the question from the record above.)
+THE COURT: Now, this was on your direct. I want it cleared up for my notes. If I am wrong, I don’t want to be wrong.
+I would like you to ask the officer did he say something similar to You know — ’ or in effect tell her, ‘Do you know Beatrice is dead?’ or something like that this morning. Because that’s what my notes show, because if that’s wrong it may have a bearing.”
+Defendant argues that the trial judge had reached a conclusion concerning her guilt when he made the remark “that’s the turning part [sic] in this case as far as this Court is concerned.” She refers us to People v. Johnson, 4 Ill.App.3d 539, 541, 281 N.E.2d 451, where it was stated:
+“An accused in a criminal proceeding is presumed innocent, and this presumption continues through all stages of a trial. [Citation.] The court in a bench trial has the duty of hearing, weighing, and evaluating the evidence; but no matter how strong a case is presented by the State, it is fundamental that the court should resolve disputed issues of fact only after hearing all of the evidence with an open mind.”
+In support of her contention she also relies on People v. Rongetti, 331 Ill. 581, 163 N.E. 373; People v. Smith, 54 Ill.App.2d 73, 203 N.E.2d 605; People v. Diaz, 1 Ill.App.3d 988, 275 N.E.2d 210; and People v. Johnson, 4 Ill.App.3d 539, 281 N.E.2d 451. In Rongetti, the court held that defendant did not have a fair trial because of the trial court’s (1) attitude in examining witnesses, (2) refusal to give defendant’s counsel an opportunity to state his objections, (3) manner in giving rulings adverse to defendant’s counsel, and (4) numerous errors in admitting testimony. In Smith, when defendant’s attorney sought to call another witness, the trial judge stated that he had heard a sufficient number of alibi witnesses. The appellate court found that the trial judge had abused his discretion because (1) there was nothing to indicate that the witness was being called to unduly prolong the trial and (2) the refusal to hear the witness was prejudicial to defendant. In Diaz, there were three findings of guilty by the trial judge before he had heard the evidence and before he had given the defendant’s counsel an opportunity to argue and the reviewing court found that the defendants thereby were denied a fair and impartial trial. In Johnson, the trial judge reached conclusions (1) as to the resolution of a disputed issue of fact and (2) as to defendant’s guilt before all the evidence was heard.
+We believe the cases relied on by defendant are inapposite. Contrary to the facts in those cases, we have a question here as to whether a remark of the trial judge evidenced a premature finding of guilt. The State maintains that the colloquy set forth above, containing the alleged prejudicial remark, was taken out of context, and that the complete interchange of comment with counsel discloses the trial judge was merely trying to make certain the witness had given proper Miranda warnings to defendant, Miranda v. Arizona, 384 U.S. 436, 16 L.Ed.2d 694, 86 S.Ct. 1602.
+We agree with the State’s position and note that immediately prior to the said colloquy, there was an exchange of statements as follows:
+“MR. PINCHAM: Didn’t you say this morning when you came back you advised her of the discrepancies and then you told her that she was under arrest for the murder of Beatrice Wilson and then you advised her of her warnings? That’s what you said this morning?
+THE COURT: I don’t think that’s the testimony, myself. I think what I got out of it, is something like this, and you clarify. Let me tell you what I think it was.
+MR. PINCHAM: All right.
+THE COURT: I think he said, You know that Beatrice is dead, don’t you?’ But you can ask him. That’s what I have. I can be just as mistaken as anybody else.
+The way I have it, he told her, you know — ’ (sic) or something like that.
+MR. PINCHAM: All right. AH right.
+MR. CORSENTINO [Assistant State’s Attorney]: May I have just the last question read?”
+It appears to us that the alleged prejudicial remark of the trial judge, when considered in the light of the entire record, was an attempt on his part to clarify his apparent misunderstanding that arose during the trial, namely, whether Miranda warnings were given at the proper time. There is no contention here that the court did not receive all of the evidence offered by defendant and we cannot agree with the contention of the defendant that the trial judge reached a conclusion of guilty prior to hearing all of the evidence. This is particularly apparent from his eventual finding that defendant was guilty of manslaughter rather than murder.
+Defendant’s second contention is that the trial court erred in allowing the prosecutor to introduce, on rebuttal, testimony that, if admissible, should have been offered in the case in chief. As rebuttal witnesses, the State called Diedra Dyson, who testified that the defendant had expressed hatred for the deceased, and Juanita Pates, who testified that she saw the defendant cleaning out the front passenger seat of an automobile near her place of residence at 2214 E. 69th Street. Defendant alleges that their rebuttal testimony was improper and refers us to People v. Crump, 5 Ill.2d 251, 125 N.E.2d 615, where the court stated at pages 265 and 266:
+“[A]s held in People v. Castree, 311 Ill. 392, the prosecution ought not, with' knowledge of important testimony at its command, close its case without introducing it and then, after the defendant has introduced his testimony, be permitted to open up its case anew and introduce evidence in chief which it could have produced at the proper time but withheld.”
+and to People v. Bell, 328 Ill. 446, 159 N.E. 807, where the court stated at page 451:
+“Rebutting evidence is that which is produced by a plaintiff to explain, repel, contradict or disprove the evidence given by the defendant [citation] and where the evidence offered in rebuttal is real rebuttal evidence, the fact that it might have been offered in chief does not preclude its admission in rebuttal.”
+The record discloses that the defendant testified (1) that she did not have hostile feelings toward the deceased and (2) that she did not wash out the front or rear seats of an automobile at 2214 East 69th Street. We find that the testimony of Dyson and Pates tended directly to contradict and rebut defendant’s testimony. Furthermore, being proper rebuttal evidence, the fact that this testimony might also have been offered in chief does not preclude its admission in rebuttal. People v. Bell, 328 Ill. 446, 159 N.E. 807.
+Finally, defendant contends that the trial court erroneously denied defendant’s application for probation and imposed an excessive sentence. In People v. Saiken, 49 Ill.2d 504, 514-515, 275 N.E.2d 381, the court stated:
+"The granting of probation was within the discretion of the trial court. Its determination is subject to review to the extent of ascertaining whether the trial court did, in fact, exercise discretion or whether it acted in an arbitrary manner.”
+In view of the violent nature of the crime committed, we do not believe that the trial court acted arbitrarily in denying defendant’s application for probation. In People ex rel. Ward v. Moran, 54 Ill.2d 552, 301 N.E.2d 300, the Illinois Supreme Court reviewed the authority of the appellate court to order probation after the trial court had sentenced defendant to a term of imprisonment. At page 556 it was stated:
+“After review of this court’s decisions and consideration of the statutory authority entrusted to the trial court, we hold that our Supreme Court Rule 615 was not intended to grant a court of review the authority to reduce a penitentiary sentence to probation.”
+Under the Unified Code of Corrections, voluntary manslaughter is classified as a Class 2 felony. Since the punishment imposed upon defendant, not less than three nor more than nine years, falls within the limits prescribed by the legislature for a Class 2 felony, we do not feel that the sentence is excessive. See Ill. Rev. Stat., 1972 Supp., eh. 38, pars. 1005 — 8—1(b)(3) and 1005 — 8—1(c) (3).
+For the reasons stated, the judgment is affirmed.
+Affirmed.
+DRUCKER, P. J., and LORENZ, J., concur.
+Section 9 — 2 of the Criminal Code provides:
+“(a) A person who kills an individual without lawful justification commits voluntary manslaughter if at the time of the killing he is acting under a sudden and intense passion resulting from serious provocation by:
+(1) The individual killed, * *
