@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-1962"
+decided: "1980-08-18"
+citations: ["87 Ill. App. 3d 791"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST NATIONAL BANK OF DES PLAINES, Trustee, et al., Plaintiffs-Appellees, v. THE CITY OF DES PLAINES, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/87/cases/0791-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3182139
+cites_cases: ["119 N.E.2d 747", "12 Ill. 2d 40", "145 N.E.2d 65", "182 N.E.2d 742", "24 Ill. 2d 612", "289 N.E.2d 614", "3 Ill. 2d 13", "53 Ill. 2d 39"]
+---
+
+# First National Bank v. City of Des Plaines
+
+## Majority (Mr. JUSTICE CAMPBELL)
+
+Mr. JUSTICE CAMPBELL
+delivered the opinion of the court:
+This is an appeal by the defendant, City of Des Plaines, from a finding by the circuit court of Cook County that a zoning ordinance of the City of Des Plaines is unconstitutional insofar as it restricts the use of the property owned by the plaintiffs First National Bank of Des Plaines, as trustee, and contract purchaser, Commonwealth Builders.
+The issue presented for review is whether the plaintiff has produced sufficient evidence to sustain a finding that the zoning requirement that plaintiffs’ proposed condominium apartment building have commercial uses on the first two floors was not reasonably related to the health, safety or welfare of the community.
+Following the Des Plaines city counsel’s denial of plaintiffs’ request to rezone the subject property, plaintiffs brought this action against the City of Des Plaines for declaratory judgment and other relief. After a bench trial the court granted plaintiffs the relief requested, from which the defendant, City of Des Plaines, has taken this appeal.
+An examination of the record reveals that plaintiffs’ complaint challenged the validity of the zoning ordinance as depriving plaintiffs of their property without due process of law, and as a taking of private property for public use without just compensation.
+Plaintiffs’ site in question is presently zoned “C-4 Central Business District” by the zoning ordinance of the City of Des Plaines, which would permit a variety of commercial uses.
+The plaintiffs’ request was to develop the subject site as a condominium apartment building consisting of 24 units located on four floors with ground level parking. The current C-4 zoning classification would require the first two floors as commercial uses.
+At the trial in the circuit court, a number of experts testified for both the plaintiffs and the defendant. From this testimony it appears the plaintiffs relied on the testimony of their experts, Rolfe C. Campbell and William McCann. Mr. Campbell, a planning and zoning expert, described the uses directly around the subject site as school, multiple family, church and library uses. He also indicated that the trend of development along Graceland Avenue has been for multiple family use, and the subject site would be better used as multiple-family residence than it would be for commercial purposes. In addition, he was of the opinion that if the subject site would be rezoned as requested by plaintiffs, there would be no adverse consequences to the surrounding property.
+Mr. William McCann testified for plaintiffs that he considered the overall character of the neighborhood, the compatibility of the proposed use and in his opinion the proposed use would be compatible with and have no deleterious effect on the surrounding property trends or values, and the intended use would stabilize the site.
+The City of Des Plaines claimed the ordinance was proper because it implemented an intent of the drafters to encourage the continuity of commercial uses in its downtown business district.
+An expert witness for the City of Des Plaines, Gerald Estes, testified that the subject site is within the central business district of Des Plaines, where there are a number of major new developments resulting from planning efforts and establishing a trend of development. These include the Civic Center complex, a major indoor shopping mall and office building complex, numerous other commercial and office type buildings and an expansion of parking facilities. Mr. Estes testified that Graceland Avenue is a convenient demarcation line for separating the business area from the residential area. He stated that the highest and best use for the subject property is for C-4 commercial, which is consistent with the existing pattern of zoning and the trend of development. In considering the highest and best use he took into account the existing pattern of land use and the property adjoining the subject site, the general central business district area, the pattern of zoning that has been established and maintained in the area, the need within the City of Des Plaines as a whole to maintain the integrity of the planning efforts that have taken place in the central business district so that the land uses reinforce one another. The witness stated that the proposed use of the plaintiffs would detract from the suitability of similar properties for business purposes and would diminish the tax base to the central business district and would change the pattern of interrelationships of land uses that presently exist.
+After hearing all of the evidence, admitting into evidence numerous exhibits and hearing arguments of counsel, the circuit court entered a declaratory judgment, as prayed for by the plaintiffs.
+Defendant urges as ground for reversal that the trial court’s judgment and findings as to the highest and best use of the property and the effect of the proposed use on the neighborhood and surrounding business district are not supported by the evidence and, therefore, the ordinance should have been sustained. Stated another way, defendant claims that there is a mere difference of opinion as to the reasonableness of the zoning ordinance, and, in such a situation, it cannot be deemed unconstitutional.
+It is well-established law in Illinois that it is primarily the province of the municipal body to determine the use and purpose to which property may be devoted, and it is neither the province nor the duty of the courts to interfere with the discretion of such bodies unless the legislative action is shown to be arbitrary, capricious or unrelated to the public health, safety, morals and general welfare. (Wechter v. Board of Appeals (1954), 3 Ill. 2d 13, 119 N.E.2d 747; La Salle National Bank v. County of Cook (1957), 12 Ill. 2d 40, 46, 145 N.E.2d 65.) In addition, a zoning ordinance is presumed valid, and this presumption may be overcome only by clear and convincing evidence that the zoning ordinance is, as to the person attacking the ordinance, arbitrary and unreasonable and without substantial relation to public health, safety, morals, or general welfare. Schultz v. Village of Lisle (1972), 53 Ill. 2d 39, 42, 289 N.E.2d 614.
+As indicated by the Illinois Supreme Court in La Salle National Bank, the reviewing court will consider six factors in determining the validity of a zoning ordinance:
+(1) the existing uses and zoning of nearby property;
+(2) the extent to which property values are diminished by the particular zoning restrictions;
+(3) the extent to which the destruction of property values of plaintiff promotes the health, safety, morals or general welfare of the public;
+(4) the relative gain to the public as compared to the hardship imposed upon the individual property owner;
+(5) the suitability of the subject property for the zoned purposes;
+(6) the length of time the property has been vacant as zoned considered in the context of land development in the area in the vicinity of the subject property.
+Much evidence was heard concerning general character of the neighborhood, highest and best uses, valuations and the change in trend of development of the city’s central business district. Each side produced expert witnesses to sustain its contentions.
+In examining the record as to the expert opinion evidence of the plaintiffs, it is apparent that plaintiffs’ chief expert, Rolfe Campbell, had recommended and sold the zoning plan in question to the city in 1967. In order to justify his change in opinion Mr. Campbell pointed out the new family development across the street and the Kinder development next door. However, the area across the street was zoned multiple family based on Mr. Campbell’s recommendation in 1967, and the record shows that when the zoning plan was being effectuated Mr. Campbell was aware of the Kinder building. Furthermore, it was admitted by plaintiffs’ expert, Mr. William McCann, that the trend of development was as zoned.
+When the zoning of the subject property is tested for reasonableness by the character of the neighborhood, the zoning classification of nearby properties, and the gain to the public as compared with the hardship imposed upon the individual property owner, the most that can be said is that a fairly debatable question is presented. Under these circumstances, the question of the rezoning of the premises should be determined by the city council and not by the courts. See Bredberg v. City of Wheaton (1962), 24 Ill. 2d 612, 625, 182 N.E.2d 742.
+For the above and foregoing reasons the judgment of the circuit court of Cook County is hereby reversed.
+Reversed.
+GOLDBERG, P. J., and O’CONNOR, J., concur.
