@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-10-31"
+citations: ["48 Ill. App. 466"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Coates v. Mernin."]
+source_url: "https://static.case.law/ill-app/48/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5131594
+---
+
+# Coates v. Mernin
+
+## Majority (by the Court.)
+
+Opinion
+by the Court.
+The appellee, in the Circuit Court, recovered a judgment against the appellant for the price of a boiler, which the appellee claimed he had sold and delivered to the appellant. The appellant denied that he had bought the boiler, and asserted that the appellee hauled'it to his premises when he was absent, and there left it. That it was not otherwise delivered, and that he did not accept it. The parties agree that they had a conversation concerning the purchase and sale of the boiler, at the water works office in Blooming-ton, but that a bargain was not there consummated. The appellee contends that he met the appellant at his (the appellant’s ) place of business the next day after the meeting at the water works office, and that the appellant offered to pay, and he consented to take, $200 for the boiler, delivered at appellant’s factory in Bloomington, and that he had the boiler delivered in pursuance of the contract. The appellant contended and testified that he was not in Bloomington on. the day after the talk at the office of the Water Works Company, but was in Galesburg, and that prior to his departure he directed his son, L. E. Coates, and a Mr. Stough, to tell the appellee that if he would clean the boiler thoroughly, subject it to a water test of 150 to 200 lbs., paint it and deliver it at his factory, he would accept it, and pay $200 for it. Appellee’s son, L. E. Coates, testified that he delivered his lather’s message to the appellant.
+The boiler was not subjected to a test by water, and whether or not the contract was conditional upon the making of such test was practically the contention between the parties.
+Upon this issue the only competent evidence in behalf of the appellee was his own testimony, which was met and directly contradicted by the testimony of the appellant, his son, L. E. Coates, and of M. F. Burkett. The latter testified that he was present and heard L. E. Coates tell the appellee that his father (the appellant) would take the boiler at $200, if it was cleaned out, given a water pressure test, painted and delivered, and that the appellee accepted the offer. The preponderance of evidence seems to us against the appellee.
+Uo attempt was made to impeach any of the witnesses, and we perceive no reason why such a preponderance of numbers should not have prevailed. The appellee was permitted to prove that L. E. Coates, the son, at a time when the appellant was not present, priced the boiler to a Mr. Washburn at $200, and practically offered to sell it for that sum, and said that it was a good boiler. This was, we think, error. Trhe, the son denied that he offered the boiler for sale or that he said it was a good boiler, but we can not know that this overcame the prejudicial effect of the incompetent testimony. The existing relationship of the- son may have operated to deprive his testimony of full weight as against that of a disinterested witness.
+The appellee was allowed, over the objection of the appellant, to introduce testimony tending to show, and for the purpose of showing, that the boiler was safe; that it had been used only about six years, during which time it had been washed once in each two weeks; that it was made of steel, and other testimony intended and having a tendency to show that it was a good, safe boiler, and probably worth the amount sought to be recovered for it.
+■ This proof was, we think, improper. If the appellant offered to buy it only on condition that it should be first subjected to a certain test, the appellee could not substitute for that test the opinion of witnesses that it would stand the test and was a good, safe boiler and worth the price asked for it. The tendency of such evidence was to divert the mind of the jury from the real issue between the parties and to induce them to find for the plaintiff, because the boiler appeared to be worth all the defendant was asked to pay for it. The value of the boiler, or whether it was safe or made of steel or iron, was not in controversy.
+The instructions given the jury on behalf of the appellee are jointly open to criticism. The 9th of such instructions tells the jury that it is incumbent on the appellant to establish, by a preponderance of evidence, the warranty claimed, and also a breach of such warranty, and that if the evidence is equally balanced as to either the warranty or the breach of it, the verdict must be for the appellant upon the question of warranty.
+This instruction practically assumes that the appellant admitted that he had purchased the boiler, but was defending upon the ground that the appellee had warranted it, and that the warranty had failed, while in fact the sole contention of the appellant was that he had not bought the boiler.
+Instructions Nos. 10 and 11 are equally objectionable. They deal with the law concerning false affirmations and fraudulent representations and instruct the jury that such representation can not avail the appellant as a defense unless they were made under circumstances calculated to deceive an ordinarily prudent person, and that to warrant the rescission of a contract such representations must be both false and fraudulent.
+The appellant was not attempting to rescind a contract because of fraudulent representations, but was vigorously denying that a contract had been consummated.
+These instructions were likely to mislead the jury, and moreover seemed to imply that the appellant had contracted for the boiler, and was seeking to avoid a judgment for the purchase price upon the ground that he had been induced to make the contract for it by false and fraudulent representations concerning it.
+We think the errors indicated are such as to demand the reversal of the judgment. It is therefore reversed and the cause remanded.
