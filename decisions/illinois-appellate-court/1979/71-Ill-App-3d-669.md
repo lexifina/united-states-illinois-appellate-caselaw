@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "78-367"
+decided: "1979-05-18"
+citations: ["71 Ill. App. 3d 669"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAZEL M. GRAZE, Adm’x of the Estate of Kenneth M. Graze, Deceased, Plaintiff-Appellant, v. PHILLIP E. LAWLESS, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/71/cases/0669-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5581821
+cites_cases: ["180 N.E.2d 691", "26 Ill. App. 3d 56", "313 N.E.2d 457", "324 N.E.2d 444", "33 Ill. App. 2d 180", "369 N.E.2d 1346", "54 Ill. App. 3d 719", "57 Ill. 2d 376"]
+---
+
+# Graze v. Lawless
+
+## Majority (Mr. JUSTICE STENGEL)
+
+Mr. JUSTICE STENGEL
+delivered the opinion of the court:
+This is a medical malpractice action brought by plaintiff as administrator of the estate of her husband, Kenneth Graze, against defendant, Dr. Phillip Lawless. The Circuit Court of Peoria County granted defendant’s motion for summary judgment, and we affirm.
+Decedent died at approximately 11 a.m. on February 21, 1975, as a result of a massive myocardial infarction, a heart attack. Decedent was found lying in a phone booth and was taken by ambulance to a hospital where he was pronounced dead on arrival. Earlier that same morning defendant had examined decedent at defendant’s office. Plaintiff’s complaint alleged that defendant was negligent in his examination and treatment of decedent at that time in failing to diagnose the pending myocardial infarction, failing to administer appropriate medication and failing to use all reasonable measures to have decedent admitted to a hospital coronary care unit.
+Defendant’s motion for summary judgment was supported by affidavits from defendant, his nurses, and a specialist in cardiology. In his affidavit defendant stated that he was making his hospital rounds at approximately 9:30 a.m. on February 21,1975, when he received a phone call from decedent, one of his patients, who was complaining of chest pains. Defendant offered to wait for decedent at the hospital, but decedent chose instead to meet defendant at his office, and he was the first patient seen by the defendant when he arrived at the office about 10 a.m. After performing a general physical examination and an electrocardiogram on decedent, defendant advised decedent that he was having a heart attack and should receive immediate attention at a hospital coronary care unit. Defendant called a hospital and made arrangements for decedent’s admission and wanted to call an ambulance to transport decedent to the hospital. However, decedent, who was not in severe distress, said he had to return the truck he was driving to his employer and that he would then get a ride to the hospital with Ms wife. Defendant advised decedent against that course of action and offered to call decedent’s employer to malee arrangements for the track, but decedent was adamant in Ms refusal to take the ambulance, and he left the office. Defendant was informed of decedent’s death shortly after 11 a.m. The affidavits of defendant’s nurses are consistent with that of defendant.
+In a second affidavit Dr. Donald McRaven, a local heart specialist, stated that after consulting with defendant and reviewing defendant’s affidavit, he could say “without reservation that the care extended to plaintiff, Kenneth E. Graze, by Dr. Phillip Lawless was in keeping with the highest standards of medical care in the Peoria community at the time and place described.” Dr. McRaven said decedent should have gone to the hospital by ambulance as requested by defendant, but that it would have been inappropriate and counterindicated for defendant to have administered any medication to decedent in light of the fact decedent was going to drive the truck.
+Plaintiff did not file counteraffidavits in opposition to the motion for summary judgment but instead filed the depositions of defendant and Dr. McRaven. These depositions were consistent in all material respects with the doctors’ affidavits.
+The general principles governing the granting or denying of a motion for summary judgment are well established.
+“A motion for summary judgment should be granted where there is no genuine issue as to any material fact. The court is to determine the existence or absence of a genuine issue as to any material fact from the affidavits, depositions, admissions, exhibits and pleadings in the case. [Citations.] The facts to be considered by the court are evidentiary facts. [Citation.] Even though a complaint and answer may purport to raise issues of material fact, if such issues are not further supported by evidentiary facts through affidavits or such, summary judgment is then appropriate. [Citation.] If the party moving for summary judgment supplies facts which, if not contradicted, would entitle such a party to a judgment as a matter of law, the opposing party cannot rely upon his complaint or answer alone to raise genuine issues of material fact.” Carruthers v. Christopher & Co. (1974), 57 Ill. 2d 376, 380, 313 N.E.2d 457, 459; Kwak v. St. Anthony De Padua Hospital (1st Dist. 1977), 54 Ill. App. 3d 719, 369 N.E.2d 1346.
+The affidavits presented by defendant in the instant case supplied facts sufficient to entitle defendant to judgment as a matter of law by indicating that defendant properly diagnosed decedent’s myocardial infarction, properly attempted to hospitalize decedent immediately in a coronary care unit and properly declined to give decedent any medication in light of decedent’s intent to drive the truck. If plaintiff had evidence of defendant’s negligence, it was incumbent upon her to file counteraffidavits showing her claim of negligence, and the trial court could not surmise or speculate in the absence of counteraffidavits. (Tuohey v. Yellow Cab Co. (1st Dist. 1962), 33 Ill. App. 2d 180, 180 N.E.2d 691.) The depositions offered by plaintiff in no way contradicted the facts averred in the affidavits, and thus no genuine issue of material fact was presented.
+Although plaintiff alleged in her complaint that defendant was negligent, it has been held:
+“[A] mere allegation in a complaint is not sufficient to overcome the specific contrary averments of an affidavit, and the mere discrepancy between the two is not sufficient to raise a genuine issue of fact. Where the affidavit states particular facts contrary to the allegations of the complaint, it will overcome the allegations of the complaint.” (Dakovitz v. Arrow Road Construction Co. (2d Dist. 1975), 26 Ill. App. 3d 56, 59, 324 N.E.2d 444, 447.)
+In the case at bar the mere allegations of negligence in the plaintiff’s complaint were overcome by contrary and uncontradicted facts in the affidavits supporting defendant’s motion for summary judgment. Defendant was entitled to judgment as a matter of law, and his motion for summary judgment was properly granted.
+The judgment of the Circuit Court of Peoria County is affirmed.
+Affirmed.
+STOUDER, P. J., and SCOTT, J., concur.
