@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 46,393"
+decided: "1956-02-21"
+citations: ["9 Ill. App. 2d 307"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leo P. Orchel, Appellant, v. John G. Wittbold, as Surviving Trustee Under Deed in Trust Dated September 29, 1926 and Recorded September 30, 1926 as Document No. 9419714, et al., Appellees."]
+source_url: "https://static.case.law/ill-app-2d/9/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5152315
+cites_cases: ["277 Ill. 26", "5 Ill.App. 2d 323"]
+---
+
+# Orchel v. Wittbold
+
+## Majority (JUDGE SCHWARTZ)
+
+JUDGE SCHWARTZ
+delivered the opinion of the court.
+This is an appeal from an order sustaining a motion to strike the complaint and dismissing the suit of plaintiff in which he seeks to invoke the powers of a court of equity to enforce what plaintiff claims is a tax lien on certain vacant property. The motion was made by the State’s Attorney of Cook County who was given leave to intervene.
+The complaint relates to five lots. Taxes on these lots for the year 1951 being unpaid they were offered at public auction on February 9, 1953, and no one offering to pay the amount due on the property or to bid therefor, the property was duly forfeited and remained delinquent until October 14, 1953, at which time plaintiff purchased the property and was given a certificate by the County Collector evidencing such purchase. The amount of the taxes in arrears was approximately $90. In addition to the foregoing taxes there were unpaid general taxes and special assessments of approximately $2550. It is alleged in the complaint that the total market value of the real estate described is not more than $2050 so that the real estate is presently encumbered in an amount exceeding its value. Plaintiff in his complaint offers to take the property in payment and discharge of his lien and seeks a strict foreclosure of the real estate described. Such a decree would give title to plaintiff clear of any liens for unpaid taxes and would not be subject to any right of redemption.
+The issue turns on construction of two sections of the tax law — Sections 728 and 753, Chapter 120, Illinois Revised Statutes 1953. Section 728 deals with regular public tax sales. Section 753 provides that:
+“. . . if any person shall desire to redeem or purchase any tract of land or lot forfeited to the State he shall apply to the county clerk, who shall issue his order to the county collector, directing him to receive from said person the total amount of all taxes, statutory costs, interest prior to forfeiture . . . and forfeiture interest . . .
+It was in accordance with this statutory directive that the County Clerk issued an order to the County Collector, directing him to receive from plaintiff the total amount of all taxes for the year 1951 on the lots which plaintiff was interested in purchasing. Plaintiff paid those amounts to the County Collector and did not pay any unpaid taxes that were not included in the order of the County Clerk; that is to say, he paid only the amount due because of the forfeiture for the year 1951. He received a certificate of purchase. Section 753 further provides as follows:
+“Property purchased under this section shall be subject to redemption, notice, etc., the same as if sold at regular public tax sale.”
+Plaintiff argues that because of the use of the word “etc.” in the Act he acquired all rights not specifically enumerated in Section 753 which he would have derived “at regular public tax sale”; that these rights are set forth in Section 728 and include the right to a lien. The State’s Attorney argues that the language quoted does not refer to sales under Section 728 or to the annual tax sale but refers to the redemption section, or Section 734 of Chapter 120. (That section gives no lien to a purchaser such as plaintiff here.) We think the position of the State’s Attorney in this respect is correct. To hold otherwise would be to give the abbreviation “etc.” a meaning beyond that of the words with which it is identified — “redemption, notice, etc.” If the legislature had such an intention it should have been expressed in specific language and not by the use of an abbreviation. That this was not the legislative intention may be derived from the fact that the language in Section 753 before quoted was in the statute prior to the time that lien upon purchase under Section 728 was provided for (Sec. 206 Revenue Act, Laws 1935). Plaintiff relies upon the broad language of Ziccarelli v. Stuckart, 277 Ill. 26 (1917). That case involved only the right of the property owner to redeem and was decided long before Section 728 contained any provision for a purchaser’s lien.
+Assuming that plaintiff acquired a lien, there still remains for consideration the question as to whether he has the right, in the absence of a statutory provision specifically providing for it, to foreclose such a lien under the general powers of a court of equity. Under Section 728 a purchaser at a regular public tax sale pays forthwith the amount charged on such tract or lot and has ten days within which to pay all taxes charged on the land remaining due and unpaid. If he fails to complete his purchase by paying all back taxes the purchase becomes void but the Collector does not refund the amount paid in cash at the time of the sale. Instead, that amount is treated as a payment and is distributed to the taxing bodies as other collections are distributed. However, a lien remains on the land in favor of the purchaser until paid with interest at 5%. As we have said, no provision is made in the tax laws for the enforcement of this lien, and plaintiff relies on the general powers of a court of equity to provide a remedy. That question was raised and decided adversely to the plaintiff by the Third Division of this court in the recent case of Romain v. Fink, 5 Ill.App. 2d 323. (Petition for leave to appeal denied November 15, 1954.) The reasons there given are applicable here and are in our opinion conclusive.
+Order affirmed.
+McCORMICK, P. J. and ROBSON, J., concur.
