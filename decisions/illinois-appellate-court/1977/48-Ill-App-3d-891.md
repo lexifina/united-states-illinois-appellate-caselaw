@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "13927"
+decided: "1977-05-23"
+citations: ["48 Ill. App. 3d 891"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. ARTHUR D. ANDERSON, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0891-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3371663
+cites_cases: ["350 N.E.2d 363", "362 N.E.2d 1037", "39 Ill. App. 3d 387", "66 Ill. 2d 412", "66 Ill. 412"]
+---
+
+# People v. Anderson
+
+## Majority (Mr. JUSTICE MILLS)
+
+Mr. JUSTICE MILLS
+delivered the opinion of the court:
+This is, in truth, a quite simple appeal.
+There is but one issue.
+Anderson was charged by information with burglary and criminal damage to property. He twice sought treatment under the Dangerous Drug Abuse Act, but because the probation officer refused to give his consent, the trial court denied the requests. Anderson then pled guilty to the charges, received 1-3 years in the penitentiary and then appealed, contending that the trial court erred in denying his requests for treatment because of the probation officer’s refusal to consent.
+Let us elaborate a bit: the probation officer, one Michael Hughes, testified to eight lengthy interviews with the defendant, but never asked him about drugs, never noticed that he had a problem; Hughes believed the defendant’s problem to be “an anti-social personality,” stated that it was possible that drug addiction could have contributed to his problem but that he, Hughes, was not aware of it; the probation officer stated at the first hearing that he would consent to Anderson being examined by Department of Mental Health personnel to determine whether or not the defendant was indeed a drug addict; thereafter, a hearing on reconsideration of defendant’s motion to be treated as an addict was conducted and it was the uncontradicted testimony of the Clinical Director of the Coles County Mental Health Association that Anderson had a severe drug addiction and should be treated under the Dangerous Drug Abuse Act; the probation officer, Hughes, after reviewing the report of the Coles County Mental Health Association, had renewed his prior position and again refused his consent to defendant’s being treated under the act.
+The trial court found that the language of the act required the specific consent of the probation officer, adding, on the record, that * * * whether he is acting capriciously and arbitrarily is immaterial. It is within the power of the legislature to grant to the probation officer the authority to make this decision.”
+We agree with the harried trial judge.
+The solitary reason here for the denial of treatment under the Act was the lack of consent by the probation officer. So, let us look at the Act. It is found at Ill. Rev. Stat. 1975, ch. 91/2, par. 120.8, and it reads as follows:
+“An addict charged with or convicted of a crime is eligible to elect treatment under the supervision of the Department instead of prosecution or probation, as the case may be, unless # * ° (e) the addict is on probation or parole and the appropriate parole or probation authority does not consent to that election * *
+Defendant, of course, urges that “appropriate 0 0 0 probation authority” implies the sentencing court itself. But the People contend that “a less tortuous construction of the statute” requires the consent of the probation authority having supervision of the defendant — i.e., the probation officer.
+The People are correct.
+The identical issue as presented in this case was grappled with by our sister court in People v. Phillips (1976), 39 Ill. App. 3d 387, 390, 350 N.E.2d 363, where it was concluded that the probation officer was not the “appropriate parole or probation authority” whose consent was required under the Act. The Supreme Court, however, reversed. (People v. Phillips (1977), 66 Ill. 2d 412, 362 N.E.2d 1037.) The salient holding was:
+“We are here concerned only with a situation where the defendant who has been charged with a crime, but not convicted, elects treatment under the Act instead of prosecution. We hold that in such a case the authority granted to the probation officer to deny treatment under the Act to persons charged with, but not convicted of, a criminal offense does not infringe upon the court’s constitutional right to impose sentence.” 66 Ill. 412, 415.
+The court went on to point out that the Act affords an option or alternative criminal justice procedure by allowing a defendant suffering from a drug problem to elude or avoid the normal machinery of criminal justice, a disposition on the merits and possible ultimate disposition on sentence. Where the alternative is elected, such treatment is not a consequence of guilt or sentence, but is an option out of the mainstream of mundane sentencing procedures. The consent of the probation officer must clearly be shown if the defendant is already on probation. Failure to do this restricts the court from placing him on drug treatment prior to conviction and in lieu of such conviction and resulting sentence. But the court clearly indicated that the probation officer’s consent is limited solely to that situation where the probationer may avoid conviction, and is not at all applicable where the matter proceeds to conviction and sentence. The court said:
+“The court may, however, without consent, proceed to the conviction stage and, if defendant is convicted, accomplish a similar result by imposing a sentence of probation with the condition, pursuant to section 5 — 6—3(b)(4) of the Unified Code of Corrections (Ill. Rev. Stat. 1975, ch. 38, par. 1005 — 6—3(b)(4)), that defendant obtain treatment for drug addiction. The required consent of the probation officer, then, does not have the effect of dictating the sentence or infringing upon the sentencing power of the court. The sentence imposed by the court, the consequence of defendant’s guilt, is that defendant will serve a term of probation, for which no consent by the probation officer is needed.” 66 Ill. 2d 412, 416-17.
+In conclusion, the court summarized as follows:
+“The required consent of the appropriate probation or parole authority in our act does not constitute a veto of the exercise of judicial authority. The participation of these officers is involved only in the determination of whether a defendant is eligible for consideration. If a defendant is not on probation or parole, naturally these officers are not involved, but if a defendant is on probation or parole and elects to take treatment under the plan it is necessary to have the cooperation of the probation or parole officer whose duty and responsibility it is to supervise the defendant. (See Ill. Rev. Stat. 1975, ch. 38, par. 204 — 4 (probation officer), and ch. 38, par. 1003 — 14—2 (supervising parole officer).) Without the assured cooperation of these officers the success of any treatment program would be seriously jeopardized. It is only after the eligibility requirements are satisfied that the court determines whether or not the defendant should be admitted to treatment under the Act.” 66 Ill. 2d 412, 416-17.
+Phillips is controlling and we adhere to its interpretation of the Dangerous Drug Abuse Act. In the case at bar, the trial court lent due capacity to the “probation officer” and — to our view — his most arbitrary, capricious and unreasonable refusal to consent. However, it is obvious from the record that the trial judge also felt bound at the time of sentencing on the plea of guilty by the probation officer’s refusal to consent, and did not anew consider drug treatment as a sentencing alternative after conviction. In light of Phillips it seems to us that fundamental fairness requires a new sentencing hearing.
+Therefore, the conviction is affirmed, the sentence is vacated and the cause is remanded with direction that a new sentencing hearing be conducted, thus permitting the trial court to reconsider its disposition under the guidance of Phillips.
+Affirmed in part; sentence vacated and remanded with directions.
+CRAVEN, P. J., and TRAPP, J., concur.
