@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1889-11-23"
+citations: ["32 Ill. App. 161"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Ohio & Mississippi Railway Company v. William H. Burrow."]
+source_url: "https://static.case.law/ill-app/32/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4978085
+cites_cases: ["18 Ill. 460", "23 Ill. App. 63", "40 Ill. 503", "43 Ill. 387", "79 Ill. 584"]
+---
+
+# Ohio & Mississippi Railway Co. v. Burrow
+
+## Majority (Conger, J.)
+
+Conger, J.
+This was an action brought by appellee against appellant for the recovery of damages occasioned by the servants of appellant ejecting appellee from appellant’s car at a place other than a station for non-payment of fare.
+The facts as shown by the record, are, that about 2 o’clock in the afternoon of February 2, 1888, appellee went upon a regular passenger train at Holiday to go to the next station, Cowden, a distance of three miles. The regular ticket fare between these stations was nine cents; the cash fare ten cents additional. According to the evidence and the special findings of the jury, the ticket office at Holiday was open for a reasonable time prior to the departure of the train, but appellee failed to provide himself with a ticket, but after the train had started tendered the nine cents for his fare, which was refused by the conductor, who demanded nineteen cents in accordance with the rules of the company. Appellee at first refused to pay more than nine cents, and then agreed to pay nineteen if the conductor would give him a receipt, which the conductor refusing to do, appellee refused to pay the fare, and he was ejected from the train by the conductor without violence, and in the language of the special finding of the jury, “ the conductor in ejecting plaintiff (appellee) from the train acted in a reasonable, prudent, careful and discreet manner.” The point where the appellee left the train was less than a fourth of a mile from the station at Holiday. Ho violence was used nor indignity offered to appellee by the servants of appellant. After leaving the train he followed it on foot to his home in Cowden, and evidence was offered and permitted to go to the jury tending to show that at the time appellee was unwell, had been ruptured, and that the walk home had made him worse, and that he remained so for some weeks. The jury found a verdict for §100, upon which judgment was rendered.
+The only question raised by appellant is as to the amount of damages allowed by the jury. The conductor had no legal right to eject him at the point where he did, and hence appellant is liable; but what should be the measure of damages? Vindictive damages are not asked, it being conceded by appellee’s counsel “that no such case was made as would raise such a question.” It follows, then, that only such actual damages as would be the natural and proximate result of the unlawful ejectment can be allowed. Counsel for appellant insists that the damages should be such only as would compensate appellee for returning to the station, while appellee’s counsel urge that appellee had a right to go home if he chose to walk instead of returning to the station. That he had the right to do so, no one would question; but we are inclined to think he should not hold appellant liable for any evil consequences that might result to himself. His walking that distance in the condition he was in, was calculated to aggravate liis disease. He was practically at the station of Holiday; five or ten minutes walk would have taken him there. Had the conductor backed his train to the station and then ejected appellee, the latter would have no reason to complain. We are inclined to think the evidence in reference to his walking home and its results were improperly admitted to the jury. Reference is made to the Latimer case, but there is a wide distinction between the circumstances of that case and this. There a little girl about six years old, with a heavy bundle, was put off the train and left alone on the track, frightened and crying, to get back to the depot across an open culvert, and a wild train expected in a few moments to pass the point. If appellee had been ejected such a distance from Holiday as to have made it a debatable question in his mind, acting as a reasonable and prudent person, whether it were better for his health and safety to return to Holiday or proceed to Cowden, he would probably have had a right to adopt either course^ and the bad results, if any, to his health, might with propriety be charged to his expulsion from the cars.
+For the error indicated the judgment of the Circuit Court will be reversed, and the cause remanded.
+Reversed and remanded.
