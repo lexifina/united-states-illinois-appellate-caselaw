@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-06-12"
+citations: ["19 Ill. App. 70"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Niagara Fire Insurance Co. v. Frank Drda."]
+source_url: "https://static.case.law/ill-app/19/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4899740
+cites_cases: ["69 Ill. 392", "70 Mo. 610", "90 Penn. St. 277"]
+---
+
+# Niagara Fire Insurance v. Drda
+
+## Majority (Pillsbuby, P. J.)
+
+Pillsbuby, P. J.
+The condition in the policy, that if the building should be or become vacant or unoccupied for the purpose indicated, as a dwelling house, the policy should become void unless the underwriters indorse their consent upon the contract, seems absolute, and not in anyway or manner dependent upon the diligence of the assured to keep the building occupied. It is a stipulation that the parties had a right to make, and no improper means being employed to induce the appellee to enter into it, the courts should'enforce it as made and should attach no qualifications thereto not contemplated by the parties. The underwriter did not desire to carry the risk except when the building was occupied as a dwelling house, and stipulated to that effect, which was agreed to by appellee. While it was vacant and unoccupied the risk was that of the appellee, unless he should obtain the consent of the company in writing, and if he could not do so he could obtain insurance upon it as vacant property. Without notifying the company and obtaining its consent to carry the risk, he can not claim exemption from the effect of the condition because he had used reasonable efforts to rent it to other tenants. The binding effect of this condition did not depend upon the fact that he had used his best endeavors to keep the building occupied, but whether he had kept it occupied. Nothing is shown from which it can be inferred that it was impossible for him to comply with the condition or get the consent of the company in ease his tenant removed. Under the ruling of the court the plaintiff would be bound to recover even if the building was in fact vacant and unoccupied, provided the appellee was not guilty of negligence in permitting it to so become and remain, whether it is so. continued for one day, a month or year. With the hardship that the condition may impose upon appellee in this case we have nothing to do; and although we may doubt the wisdom or propriety of parties paying their money for indemnity under such strict conditions, yet as a court we have no right or power to add to or take from their contract any conditions or qualifications they have seen proper voluntarily to omit or insert. The construction of the policy is for the court, and the question of fact presented by this record is whether the building was vacant and unoccupied for the purpose named in the contract at the time it was burned, and we do not desire to express any opinion upon the weight of the evidence at this time as, for the reason stated, the case must be again tried at the circuit. As bearing upon the question discussed, we refer to the Hartford Ins. Co. v. Webster, 69 Ill. 392; Cook v. Continental Ins. Co., 70 Mo. 610; McCure v. Watertown Ins. Co., 90 Penn. St. 277, and the recent case of Farmers Ins. Co. v. Wells, decided by the Supreme Court of Ohio, January 20, 1885, and not yet reported. The error urged, that the court refused to allow the appellant to prove the statements of the son of appellee as to the time the house was unoccupied, we consider not well taken, as it does not appear that he sustained that relation to the plaintiff which would render his admissions competent. The proofs of loss, which were never shown to the appellant, containing a statement of when the tenant left the premises and signed by the plaintiff, and delivered to the appellant upon the trial and offered in evidence, we think should be allowed to go to the jury. It is true the statement was never delivered to the appellant, but as it was designed to be delivered, and contained an admission of the plaintiff as to a material fact in the case, the jury should have been permitted to consider it in connection with the other evidence in the case.
+For the error indicated the judgment will he reversed and the cause remanded.
+Judgment reversed.
