@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+docket: "80-9"
+decided: "1980-09-04"
+citations: ["88 Ill. App. 3d 543"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KARIN M. L. WARREN, Plaintiff-Appellee, v. TRAVICE E. WARREN, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/88/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3171097
+cites_cases: ["114 Ariz. App. 579", "115 Ariz. App. 384", "289 N.E.2d 59", "341 Ill. App. 561", "386 N.E.2d 1175", "388 N.E.2d 1131", "402 N.E.2d 316", "404 N.E.2d 469", "409 Ill. 298", "562 P.2d 1077", "565 P.2d 890", "69 Ill. App. 3d 42", "70 Ill. App. 3d 609", "8 Ill. App. 3d 53", "81 Ill. App. 3d 600", "83 Ill. App. 3d 657", "94 N.E.2d 726", "99 N.E.2d 342"]
+---
+
+# Warren v. Warren
+
+## Majority (Mr. JUSTICE STENGEL)
+
+Mr. JUSTICE STENGEL
+delivered the opinion of the court:
+Travice Warren appeals from an order of the Circuit Court of Peoria County which required him to continue payment of his monthly military pension income to his former wife Karin Warren Wood.
+On April 6, 1976, the parties were divorced, and thereafter, on April 14, 1976, an amendment to the decree was entered which included provisions for division of property and other matters. At the time of the divorce the parties owned a home and an automobile. They were the parents of three minor children. Neither party worked, but the husband received a United States military retirement pension of $453.66 monthly. The order of the court dividing the parties’ property gave the wife the home, the car, all household goods, furniture and appliances, and also ordered the defendant to assign his pension to her, thereby paying her $453.66 per month “as part of the property settlement in lieu of alimony” as long as wife lives. He was also ordered to pay child-support and other items, none of which are of concern to this appeal. The order also stated that the court had heard testimony by witnesses, and included as a finding “that the parties hereto have entered into a mutual agreement, mutually compromising and settling their respective rights in and to the above described real estate and personal property, and alimony * *
+On December 31, 1977, Karin Warren remarried, and shortly thereafter her former husband filed a petition to modify the decree, asking that the payment of $453.66 per month be interpreted to be periodic alimony and that his obligation to pay be terminated as of the date of her remarriage. The petition was denied on December 7, 1979. Throughout the divorce proceedings both sides were represented by counsel.
+Part of the amendment to the decree of April 6, 1976, recites:
+“3. Defendant shall assign his United States Government pension to Plaintiff, and thereby pay to Plaintiff the sum of Four Hundred Fifty-Three and 66/100 Dollars ($453.66) per month as part of the property settlement in lieu of alimony, continuously from the entry of this Amendment to Decree, provided however that this assignment shall not include any increases in said pension, which increases shall inure to the benefit of Defendant, and provided further that Defendant shall be released from the obligation of payment as to any installment falling due subsequent to the death of Plaintiff.”
+Plaintiff’s contention that the assignment of defendant’s pension was made as part of a property settlement and was not alimony is without merit. The record discloses that plaintiff received the marital home, the automobile, all of the household goods, equipment, furniture and appliances, and all of her personal belongings consisting of jewelry and wearing apparel. The defendant in addition was ordered to pay $30 per week child support and all reasonable and necessary hospital, medical and dental care for the minor children. Further, he was required to pay all outstanding bills for necessary expenses incurred by the parties during their marriage, and all outstanding obligations to Master Charge and to Household Finance Corporation. All that defendant was awarded under the decree was such of his personal belongings then in his possession. In Walters v. Walters (1951), 341 Ill. App. 561, 574, 94 N.E.2d 726, affirmed (1951), 409 Ill. 298, 99 N.E.2d 342, the court stated:
+“It is not the label placed by decree upon payments which constitutes them either alimony or lump sum property settlements; it is the elements inherent in the case as a whole, the record of which the decree is a part, which determine to what category such payments belong.”
+In Walters, the court discussed the distinguishing characteristics of periodic alimony, now maintenance, as follows:
+“It is for an indefinite period of time and usually for an indefinite total sum. It is based upon the husband’s income and the needs of the wife determined from the standpoint of the manner in which they have been accustomed to live. It is modifiable after decree when the wife’s needs increase or decrease, or when the husband’s ability to pay increases or decreases. This is so because it takes the form of periodic allowances which do not vest until they become due. It usually terminates upon the death of the husband, although by agreement payments may be made a charge upon the husband’s estate after they become due. They are never a charge on a husband’s estate in advance of the due date because they are not, prior to that time, vested. Payments of alimony from husband to wife are not based upon any consideration moving from wife to husband, but are based upon the commonlaw duty of the husband to support his wife. ‘Alimony’ in this sense of the word, is modifiable.” (341 Ill. App. 561, 567-68, 94 N.E.2d 726, 729. Also, Pacione v. Pacione (1980), 81 Ill. App. 3d 600, 402 N.E.2d 316.)
+To conclude in the case at bar that the monthly pension check is not periodic alimony, when all that was left to the defendant was, in effect, a down payment on a free lunch, defies reason and logic. A court, in exercising its equitable powers, should look to substance and not to form.
+Plaintiff also claims the only provision for termination of pension payments were at her death and, in effect, the parties waived the right to terminate maintenance except as provided by the “mutual agreement” and thus waived application of section 510(b).
+Section 510(b) provides:
+“The obligation to pay future maintenance is terminated upon the death of either party, or the remarriage of the party receiving maintenance, ” ° Iff. Rev. Stat. 1977, ch. 40, par. 510(b).
+Although the decree of divorce and the amendment to decree were both filed prior to the effective date of the Marriage and Dissolution of Marriage Act, the new Act is applicable to the issue changed circumstances, because the evidence adduced at the hearing on the petition to modify occurred after the new law was in effect. See Pierce v. Pierce (1979), 69 Ill. App. 3d 42, 386 N.E.2d 1175.
+Section 510(b) was considered in In re Marriage of Bramson (1980), 83 Ill. App. 3d 657, 661, 404 N.E.2d 469, where the court said:
+“This provision is drawn in part from section 316(b) of the Uniform Marriage and Divorce Act, which reads:
+‘Unless otherwise agreed in writing or expressly provided in the decree, the obligation to pay future maintenance is terminated upon the death of either party or the remarriage of the party receiving maintenance.’ (Emphasis added.) (9A Uniform Laws Annotated 183 (1979).)
+The omission from the Illinois act of the preamble clause contained in the Uniform act indicates that the terminating events contained in section 510(b) are mandatory. Neither the parties pursuant to agreement nor the courts can avoid the statute’s directive. See Duvall v. Duvall (1972), 8 Ill. App. 3d 53, 289 N.E.2d 59 (by incorporating settlement agreement in the decree, the court does not divest itself of the power to modify); cf. Fawkes v. Fawkes (1977), 115 Ariz. App. 384, 565 P.2d 890 (wife’s fixed, nonmodifiable maintenance for one year ceased on her remarriage by operation of statute); Fye v. Zigoures (1977), 114 Ariz. App. 579, 562 P.2d 1077 (nonmodifiable maintenance award to wife terminated on her death notwithstanding parties’ agreement to the contrary).
+Accordingly, the provisions of the new Marriage and Dissolution of Marriage Act applies regardless of the settlement agreement.” (Emphasis added.)
+We concur with the reasoning in the recent case of In re Support of Halford (1979), 70 Ill. App. 3d 609, 612, 388 N.E.2d 1131, 1134:
+““ * * [T]hat it was the intention of our legislature to provide for the termination of an ex-spouse’s obligation to pay future maintenance whenever the spouse receiving the maintenance has entered into a husband-wife relationship with another, whether this be by legal or other means.”
+Furthermore, we believe that the new Marriage and Dissolution of Marriage Act provides for termination of future maintenance notwithstanding the parties’ agreement to the contrary.
+Consequently, the order of the Circuit Court of Peoria County is reversed and remanded for entry of an order modifying the decree consistent with the views expressed herein.
+Reversed and remanded.
+STOUDER and BARRY, JJ., concur.
