@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-07-18"
+citations: ["96 Ill. App. 125"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Anderson v. Florian C. Schmidt."]
+source_url: "https://static.case.law/ill-app/96/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 871146
+cites_cases: ["45 L. R. A. 800", "87 N. Y. 56", "9 Johns. 117"]
+---
+
+# Anderson v. Schmidt
+
+## Majority (Mr. Presiding Justice Windes)
+
+Mr. Presiding Justice Windes
+delivered the opinion of the court.
+Appellant brought his action against appellee for trespass in breaking into plaintiff’s store and seizing and carrying away plaintiff’s personal property, and in the first and second counts of the declaration, which consists of three counts, it is alleged that by means of the trespasses complained of plaintiff’s business was damaged and his credit and reputation injured. The plea was the general issue.' A trial before the court and a jury resulted in a verdict for the defendant, which was directed by the court at the close of the evidence, on which judgment was rendered, from which this appeal is taken.
+No question is raised upon the pleadings. It appears from the evidence that appellant, prior to the commission of the alleged trespass, was thp tenant of appellee, under a written lease of certain premises in Chicago, by the terms of which appellant was to pay, at the time in question, rent at the rate of $40 per month in advance, on the 1st of every month, less one-half the cost of lighting certain electric lights in front of the demised premises., Appellee’s agent presented a bill to appellant for the November, 1897, rent on the 4th of that month, which appellant refused to pay unless $6 was deducted therefrom for one-half the cost of said lighting, but appellee’s agent refused to allow more than $3 on account of the lighting. Appellant refused to pay the bill with that deduction, whereupon, without further notice, pursuant to the terms of the lease and a power of attorney therein containéd, appellee caused a confession of judgment to be entered in the Superior Court of Cook County for $57 and costs, including $20 attorney’s fees. On this judgment execution was issued on November 6, 1897, pursuant' to which the sheriff of Cook county went to appellant’s store, after having made demand on the 8th of November upon appellant to pay the judgment, and having waited until November 11th, and made a levy upon certain personal property which appears to have been of the value of about $500. No other entering of plaintiff’s store nor taking of his property is shown by the record, nor is it shown that appellee had anything further to do with the sheriff’s actions in this regard than causing to be placed in the hands of the latter the execution issued upon the judgment.
+On November 12, 1897, appellant, the defendant in the confession case, entered his motion, and the court thereupon stayed further proceedings upon the execution, and thereafter, on November 20,1897, the court set aside and vacated the judgment and the defendant was given leave to plead: On the issues thus made, appellee, the plaintiff in the confession case, on a trial before the court and a jury, recovered a verdict against the defendant, the appellant here, for $37, on which judgment was rendered on January 3, 1898. This judgment was thereafter paid. It appears from the return of the sheriff of the execution issued upon the judgment by confession, that after that judgment was set aside the sheriff returned to the appellant the property on which he had levied. It further appears from the plaintiff’s evidence that only $350 in value of the goods levied upon by the sheriff were returned to appellant, the total value testified to being $526 and some cents.
+Ho irregularity whatever in the proceeding to confess judgment, nor in the execution nor the proceedings of the sheriff thereunder, and no connection of the appellee with the alleged trespasses being shown, beyond the fact that he caused the judgment to be entered and the execution to'be placed in the sheriff’s hands, the judgment and execution being in full force at the time the levy was made, appellant has failed to establish any right of recovery against appellee, and therefore the action of the learned trial judge in directing a verdict for appellee was, in our opinion, correct. The fact that the judgment was thereafter vacated, does not create a liability. Bridges v. McAllister, 45 L. R. A. 800; Freeman v. Adams, 9 Johns. 117; 2 Freeman on Judgments, Sec. 482; Day v. Bach, 87 N. Y. 56.
+In the Adams case, supra, the court say:
+“ There is no law or justice that a party who sues out and delivers to the sheriff a valid process, should be liable for the irregularity of the sheriff in executing the process, unless it appears affirmatively that the sheriff acted under his orders when he committed the trespass.”
+In the section from Freeman, supra, the author says :
+“ A subsisting judgment, though afterward reversed, is a sufficient justification for all acts done by plaintiff in enforcing it, prior to the reversal.”
+This statement we believe to be supported by the adjudicated cases, understanding, as we do, that the author means by “ subsisting judgment,” one that is simply erroneous and not void.
+In the Day case, supra, the court quotes with approval the following language from an English case there cited, viz.: “ Where an execution is set aside on the ground of an erroneous judgment, the plaintiff, or his attorney, is no more liable to an action than the sheriff who executes the process is,” and held that where process was regularly issued in a case in which the court had jurisdiction, the party might justify what had been done under it after it had been set aside for error in the judgment of proceeding. (Citing numerous cases.)
+In the Bridges case, supra, which is quite thoroughly considered, the above quotation from Mr. Freeman is cited with approval, and the court, among other things, say: “ We have been referred to no case, and can find none, where an action for damages has been sustained upon the reversal of a judgment for acts done pursuant to it, as for a tort;” and held that there was no liability for acts of a party done in obedience to a judgment of a court which was afterward set aside for error.
+If the sheriff has failed to return any of the goods taken ■on the execution, the plaintiff must look to the sheriff for any wrong done him in that regard.
+The judgment of the Superior Court is therefore affirmed.
