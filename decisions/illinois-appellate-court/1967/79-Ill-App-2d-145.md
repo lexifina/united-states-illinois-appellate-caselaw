@@ -1,0 +1,59 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 10,799"
+decided: "1967-01-26"
+citations: ["79 Ill. App. 2d 145"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Euclid Engineering Corporation, an Ohio Corporation, Plaintiff-Appellant, v. Illinois Power Company, an Illinois Corporation, and Archie Kraakevik, Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-2d/79/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2564551
+cites_cases: ["176 NE2d 1", "188 NE2d 739", "202 NE2d 656", "214 Ill App 449", "31 Ill App2d 2", "39 Ill App2d 378", "53 Ill App2d 37"]
+---
+
+# Euclid Engineering Corp. v. Illinois Power Co.
+
+## Majority (CRAVEN, P. J.)
+
+CRAVEN, P. J.
+This appeal arises from a decision of the trial judge, sitting without a jury, that a contract did not exist for the sale of two diesel generators to Euclid Engineering Corporation by Illinois Power Company and from a further decision that no such contract was made by Archie Kraakevik, an agent and employee of the defendant power company.
+The plaintiff’s theory on appeal is that the correspondence between it and the Illinois Power Company constituted a valid and enforceable contract of sale between the parties under sec 2-204 of the Uniform Commercial Code (Ill Rev Stats 1963, c 26, § 2-204) and that such contract was not rendered void because the Illinois Power Company failed to obtain the approval of its bondholders in accordance with the Illinois Public Utilities Act. With respect to the defendant Kraakevik, plaintiff claimed that if the defendant power company was not liable under an otherwise enforceable contract because it was void under the Public Utilities Act, then Kraakevik is liable to the plaintiff for breach of his implied warranty of authority to contract.
+The appellees’ position is that there was no agreement for sale within the meaning of sec 2-204 of the Commercial Code (Ill Rev Stats 1963, c 26, § 2-204) and that even if such contract did exist, it was void under the provisions of sec 27 of the Public Utilities Act (Ill Rev Stats 1963, c 111%, § 27 (c)). Defendant Kraakevik denies that any circumstances existed under which he could be held personally liable to the plaintiff because plaintiff was chargeable with notice of the provision of the Public Utilities Act which required Commission approval for the sale of tangible personal property.
+A consideration of these issues requires a statement of the facts in some detail. The defendant Illinois Power Company, on May 14,1963, wrote a letter to the plaintiff corporation. This letter follows:
+“We are enclosing descriptive data on two diesel generator units recently retired in excellent condition at our Vandalia, Illinois power plant. This plant was used for a relatively short time as a peaking station until additional lines from our steam plants were extended to this load center. In recent years operation has been little more than weekly test runs. Note the low total operating hours.
+“There is a railroad spur within about fifty feet of the station and there should be no problems in transporting the equipment with a minimum of dismantling.
+“This equipment is offered for sale ‘where is and as is’ subject to prior disposal and subject to our acceptance of purchaser’s assurance that the units will be used outside of the Illinois area. If you are interested please submit your best offer in writing to reach us on or before May 31,1963.
+“If you wish to inspect the equipment simply let us know when you will arrive so that we can have one of our engineers at the site to assist you.”
+One month later, on June 14, 1963, there was a long-distance telephone conversation between the vice-president of the plaintiff corporation, George Kohn, and G. H. Wright of Illinois Power Company, followed by a letter from plaintiff to Illinois Power which in pertinent part was as follows:
+“Subject your prompt acceptance, we will pay the sum of $30,000.00 where is and as is, Vandalia, Illinois, the two 1000KW General Motors diesel engine generator units, with associated equipment, more fully described specifications attached your letter May 14,1963.
+“This offer is subject our inspection and approval.”
+A subsequent telephone conversation occurred on June 24, 1963, between J. W. Kohn, president of the plaintiff corporation and G. H. Wright of Illinois Power, and was followed by a letter from defendant Kraakevik to Kohn which stated:
+“Confirming telephone conversation this morning with our Mr. G. H. Wright, we accept your offer of thirty thousand dollars ($30,000.00), where is and as is, for the two 1,000 KW General Motors diesel engine generator units and associated equipment at our Vandalia, Illinois power plant, which you are buying for resale to a Montreal customer.
+“We understand your offer is subject to your inspection and approval of the equipment and such inspection will be made promptly, — within the next week.
+“Our acceptance is with the understanding you will handle removal and payment per the terms of our ‘short form’ contract which will be mailed within the next day or two.”
+Thereafter, on either July 1 or July 2, 1963, George Kohn met with Kraakevik and others at the power cornpany and went to Vandalia to inspect the diesel generators and equipment with a Mr. Gann from Illinois Power. Upon returning to Decatur from Vandalia, Kohn attempted to leave a check to pay for the equipment in the amount of $30,000 with Kraakevik, who refused to take it at that time. Later, on July 3, plaintiff sent a letter to the defendant containing a check for $30,000. This letter read as follows:
+“Dear Mr. Kraakevik:
+“Referring conferences in your office July 1 and 2 which confirmed acceptance of our offer the two 1000KW General Motors Model 567-B diesel engine generator units with associated equipment, located your Vandalia, Illinois plant, all in accordance with your communication May 14, 1963, with specifications attached and our proposal of June 14, 1963. All this equipment having been inspected by me with your Mr. O. L. Gann. In accordance your request, we are hereto attaching our check No. B-7717 in the amount of Thirty Thousand Dollars ($30,000.-00) in full payment of this machinery.
+“It is regrettable that our negotiations for the purchase of this equipment should result in controversy regarding our ultimate disposition for resale.
+“We, therefore, wish to clarify our position that although we are negotiating and intend to make disposition to a Canadian customer, we nevertheless want to be free making disposition within the United States, except the Illinois area, which you specified as restricted in your proposal May 14. We also are not in accord with other conditions imposed by you, namely:
+“a) Your acceptance of our purchase contingent upon permission from Illinois Power Commission;
+“b) Your acceptance of our purchase subject to release by your mortgage or bond holders;
+“c) Your acceptance our purchase subject to final approval of your Board of Directors.
+“The above conditions which you have emphasized very strongly are not part of our agreement and never previously mentioned.
+“We will furnish at our own expense liability insurance coverage and Illinois Workmen’s Compensation certificate.”
+Since plaintiff relies only on the correspondence between parties, the provisions of the short-form contract referred to therein and the substance of the conversations by telephone and at the July conferences are not pertinent to a determination of this appeal.
+The Commercial Code is entitled to a liberal construction. The provision relied upon by plaintiff still requires an agreement or a meeting of the minds between the negotiating parties. One of the tests provided by the statute is conduct by both parties which recognizes the existence of such a contract. The whole section states:
+“. . . (Sec) 2-204. Formation in General. (1) A contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract.
+“(2) An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.
+“(3) Even though one or more terms are left open a contract for sale does not fail for indefiniteness if the parties have intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.” Uniform Commercial Code (Ill Rev Stats 1963, c 26, § 2-204).
+The original letter to plaintiff of May 14, 1963, was not an offer but was an invitation for the plaintiff to make an offer. The letters of June 14, 1963, and June 24, 1963, standing alone, without further evidence, and without further disagreement between the parties, would have constituted a contract, but it is clear from the letter submitted by plaintiff on July 3, 1963, that the plaintiff recognized that during all of this period of time negotiations had never terminated. Fundamental to plaintiff’s undertaking to purchase the equipment offered for sale, was defendants’ acceptance of the terms under which plaintiff would meet defendants’ requirement that the defendants be assured that the units, if purchased, “will be used outside of the Illinois area.” Plaintiff’s letter of July 3 clearly indicates that it believed that this requirement was satisfied by its assurance to Illinois Power that such a sale would not be made. However, it was not up to the plaintiff to decide whether such assurance, standing alone, was evidence satisfactory to the defendant of an offer within the scope of defendant’s request for assurance that the equipment would not be used in the Illinois area subsequent to its sale. Defendant was free to accept or reject any proposal made by plaintiff designed to meet the requirement that the equipment, if sold, would be used elsewhere than in the Illinois area and it is manifest that defendant was never satisfied that plaintiff had given it sufficient assurance concerning to whom the equipment would be ultimately sold and where it would be placed for use, to allow the defendant to treat the offer as acceptable.
+The law which we deem applicable to the facts respecting the existence of a contract between Euclid Engineering Corporation and Illinois Power Company is well stated in Bailey v. Eater, 53 Ill App2d 37, 42 (202 NE2d 656, 659 (5th Dist 1964)):
+“The law is well settled that in order for a contract to come into being, there must be a meeting of minds of the parties to the contract. Maloney v. Crest Finance Co., 39 Ill App2d 378, 188 NE2d 739; Calo, Inc. v. AMF Pinspotters, Inc., 31 Ill App2d 2, 176 NE2d 1; Toto v. Durand & Kasper Co., 214 Ill App 449. We believe the rule to be well stated in ILP, Yol 12, Contracts, Section 31, as follows:
+“ ‘One of the essential elements for the formation of a contract, other than a contract implied in law or quasi contract, is a manifestation of assent by the parties to the terms thereof. It is essential that both parties assent to the same thing in the same sense and that their minds meet on the essential terms and conditions.’ ”
+The Uniform Commercial Code has not made any change in the basic law.
+Because we are unable to find agreement between the parties from their negotiations, we must affirm the finding of the trial court that no contract existed. Because of this finding we do not determine whether, if a contract had existed, the provisions of the Public Utilities Act, particularly sec 27 thereof (Ill Rev Stats 1963, c 111%, § 27(c)), would void the parties’ agreement. We also are not required to pass upon the alleged liability of the defendant Kraakevik.
+For the above and foregoing reasons, the judgment of the circuit court of Macon County is affirmed.
+Affirmed.
+SMITH and TRAPP, JJ., concur.
