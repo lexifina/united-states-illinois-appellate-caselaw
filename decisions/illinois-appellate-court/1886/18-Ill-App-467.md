@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-03-31"
+citations: ["18 Ill. App. 467"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. C. Klinesmith v. Carter H. Harrison, etc., et al."]
+source_url: "https://static.case.law/ill-app/18/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864990
+---
+
+# Klinesmith v. Harrison
+
+## Majority (Bailey, P. J.)
+
+Bailey, P. J.
+The object of the present bill, if we are to judge from the propositions discussed by counsel in their arguments, is to restrain the mayor and police officers of the city of Chicago from attempting to enforce against the complainant certain ordinances of the city prohibiting him from carrying on the business of an auctioneer without a license. The provisions of the ordinance prescribing the mode in which a license must be applied for, and the conditions upon which it will be granted, are set out in the bill, and it is alleged that the complainant has made his application in strict compliance with the requirements of the ordinance and has performed all the conditions therein prescribed, and has thereby become entitled as of right to a license, but that the city officers to whom the matter of issuing the license has been committed by the ordinance, have wrongfully and unjustly refused to issue it. It is then alleged that the city authorities have already arrested the complainant several times, and are threatening to arrest him and prevent him from prosecuting his business by closing up his store, and are threatening to crush the complainant out and compel him to cease doing business and leave the city, such acts on the part of the city authorities being malicious and without just cause.
+Whether a court of equity should interfere to enjoin the enforcement of a penal ordinance or not, it is very clear that the present bill is not so framed as to present that question for our decision. The ordinance, the enforcement of which is the subject-matter of complaint, is not set out, nor is its existence alleged. There is no averment of any ordinance prohibiting the carrying on of the business of an auctioneer without a license, or imposing any penalty for so doing. Nor is there any averment that any prosecution against the complainant for the breach of any ordinance has been instituted or threatened, or that any of the acts on the part of the police officers of the city alleged in the bill were committed under guise of an attempt to enforce a municipal ordinance. Nothing is shown from which it can be seen that the mayor and police officers are vested with any claim or color of legal authority to arrest the complainant or to interfere with him in the least in the prosecution of his business, whether he has a license or not. So far as appears, all the acts complained of and now sought to be restrained, are mere tortious and unlawful acts, and have not even the color of a lawful exercise of the police povrer.
+For grievances of this character the remedy at law seems to be clear, adequate and complete. Nothing is alleged, so far as we can see, which may not be fully and adequately compensated by damages recoverable in suits at law against the wrong-doers. Even if the wrongs complained of should result in the destruction of the complainant’s business and the loss of his stock in trade, we see no reason why he may not be fully compensated by damages to be estimated by a jury; and if such wrongs are malicious and committed under circumstances of aggravation, he may be entitled to recover damages even beyond mere compensation as a punishment to the wrong-doers. It should be noticed that the bill contains no allegation that any of the parties charged are insolvent and not able to respond to him in any amount of damages which he may be able to recover at law, nor do the facts alleged raise a reasonable probability that he will be driven to a multiplicity of suits to obtain adequate redress.
+But while the bill fails to show the existence of any municipal ordinance justifying his arrest or the interference with his business as charged, it also fails to- show that there is no such ordinance, and we can not say that it may not be within the legal competence of the city, under the power given it by statute to tax, license and regulate auctioneers, to pass ordinances under which the complainant might be arrested and prosecuted, even though it be conceded that he is entitled to a license as alleged in the bill. It was for him to show affirmatively that there was no valid ordinance justifyin y his arrest and prosecution in the manner complained of. In the absence of such showing we are justified in construing his pleading most strongly against him, to assume the existence of such ordinance.
+The bill, in any view we are able to take of it, is clearly insufficient, and it follows that the demurrer was properly sustained.
+The decree will be affirmed.
+Decree affirmed.
