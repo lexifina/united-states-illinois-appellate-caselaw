@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "56759"
+decided: "1973-06-21"
+citations: ["12 Ill. App. 3d 551"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Parnell Blissitt, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/12/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2850705
+cites_cases: ["214 N.E.2d 330", "229 N.E.2d 490", "237 N.E.2d 697", "254 N.E.2d 527", "37 Ill.2d 480", "40 Ill.2d 4", "405 Ill. 258", "409 Ill. 63", "44 Ill.2d 53", "66 Ill.App.2d 452", "90 N.E.2d 783", "97 N.E.2d 802"]
+---
+
+# People v. Blissitt
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court;
+Defendant was charged with the murder of GenneU Hill. After a jury trial, he was found guilty of that crime, and the court sentenced him to a term of 30 to 75 years. On appeal defendant contends that he was so prejudiced by the conduct of the prosecutor and the trial judge that he was deprived of a fair trial. Because of the nature of the argument, the facts may be summarized briefly.
+On January 11, 1971, at approximately 8:15 P.M., Miss Gennell Hill was shot and seriously wounded in her room at the S & S Hotel located in the City of Chicago. Miss Hill was an employee of the hotel. She was removed to a nearby hospital, where she died on the same evening.
+There were no eyewitnesses to the crime. However, prior to her death Miss Hill told two hotel employees and two police officers that defendant had shot her. In addition, one of the hotel employees testified that defendant told her that he had shot Miss Hill, asked her to call the police and then left the hotel. The police found the murder weapon in the mailbox outside defendant’s apartment.
+Defendant did not offer any witnesses. However, the State called defendant’s wife as one of its witnesses. On direct examination she testified that defendant was not home at the time of the shooting. Under cross-examination by defense counsel, she testified that before the police arrived, defendant told her that the victim had shot herself accidentally while playing with defendant’s gun. The witness also testified that prior to the shooting defendant had been living with Miss Hill.
+Defendant contends that he was prejudiced and denied a fair trial by the conduct of the prosecutor and the trial judge. Under this heading, he claims six specific errors: (1) the improper display of the prosecutor’s file to the jury; (2) improper cross-examination of a State witness by the prosecutor whereby testimony was elicited implicating defendant in a prior unrelated criminal act; (3) the introduction of hearsay evidence linking defendant with prior unrelated criminal acts; (4) improper introduction of the testimony of an assistant State’s Attorney; (5) the improper exclusion of medical evidence which supported the defense theory that the victim accidentally shot herself; and (6) certain improper comments of the prosecutor during closing argument.
+We consider initially defendant’s contention that the trial court erred in allowing into evidence the improper testimony of an assistant State’s Attorney.
+Michael Kress, an assistant State’s Attorney, was called as a witness by the prosecution. He testified that he was regularly assigned to Felony Court, and that on the evening in question he was on night call. When on night call, his duty was to review warrants and answer questions presented by police officers. He further testified that on this particular evening he received a telephone call from one of the police officers investigating the instant killing, and that the conversation was concerned with the facts of the offense. Kress further testified, over objections of defendant, that pursuant to his conversation with the police officer, he recommended that a charge of murder be placed against the defendant,
+The testimony of the prosecutor was improper and constituted error. It is well settled that it is improper for a trial prosecutor to offer to the jury his belief that a defendant is guilty of the crime charged. (People v. Provo, 409 Ill. 63, 97 N.E.2d 802; People v. Fuerback, 66 Ill.App.2d 452, 214 N.E.2d 330.) If it is prejudicial error for a prosecutor to express an opinion before the jury as to defendant’s guilt, in our judgment, it is even more improper and prejudicial for the State to offer a prosecutor’s testimony that he had discussed the facts of an occurrence with the police and had recommended that the charge of murder be placed against the defendant. The highly prejudicial effect of such testimony seems obvious.
+The State suggests, without citation of authority, that since defendant after his objection secured favorable testimony from the witness during cross-examination, he cannot now complain. On cross-examination defendant elicited the information from Kress that the police had informed him that there were no eyewitnesses to the shooting and that defendant had not confessed that he killed the victim. This attempt by the defense to. lessen the harmful effect of the prosecutor’s testimony in no way constituted any waiver of the original error. The trial court erred in allowing the testimony, and the error requires that the cause be remanded for a new trial.
+Defendant also contends that the prosecutor denied him a fair trial by improperly commenting on the failure of defendant to testify. During his rebuttal closing argument, the prosecutor stated as follows:
+"We submit that that act was a cowardly, dastardly act against the peace and dignity of the People of the State of Illinois. We submit to you, ladies and gentlemen, that the People have not only proved it beyond a reasonable doubt but all doubt and if you are in the jury room and you have any concern about whether the people have proved its case beyond a reasonable doubt you look to the witness stand and ask yourself who, if anyone, put the testimony on in respect to the case; who, if anyone, told you anything about what happened on January 11, 1971.” (Emphasis added.)
+A direct reference by the State in its argument concerning defendant’s failure to testify is prejudicial error. (People v. Cheney, 405 Ill. 258, 90 N.E.2d 783.) However, it is permissible for the prosecutor to comment on the uncontradicted nature of the State’s case. (People v. Mills, 40 Ill.2d 4, 237 N.E.2d 697.) The standard used to determine whether the closing argument is improper is whether the reference in closing argument was intended or calculated to direct the jury’s attention to the defendant’s neglect to exercise his right to testify. People v. Burton, 44 Ill.2d 53, 254 N.E.2d 527.
+Under the foregoing criteria, we find that the prosecutor’s statements in closing argument were improper. The State’s case was not uncontradicted since one of its own witnesses, defendant’s wife, testified that defendant stated that Miss Hill had shot herself accidentally. In view of this, it seems apparent that the purpose and the ultimate effect of the prosecutor’s statements were to call attention to the defendant’s failure to testify, accomplishing by inference what could not be done expressly. People v. Wollenberg, 37 Ill.2d 480, 229 N.E.2d 490.
+Since we do not believe defendant’s other claims of error will recur in a new trial, it is unnecessary for us to discuss those errors in this opinion.
+Accordingly, the judgment of the circuit court of Cook County is reversed, and the cause is remanded for a new trial.
+Judgment reversed and cause remanded.
+SCHWARTZ and McGLOON, JJ., concur.
