@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 25,917"
+decided: "1921-04-12"
+citations: ["221 Ill. App. 57"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BarNES, P. J., and Gridley, J., concur."]
+parties: ["Henry D. Watson and Herbert Woehling, Appellees, v. Lee Loader & Body Company, Appellant."]
+source_url: "https://static.case.law/ill-app/221/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8499241
+cites_cases: ["126 N. C. 523", "14 Mo. App. 108", "181 Ill. App. 364", "183 Ill. 185", "215 Ill. 244"]
+---
+
+# Watson v. Lee Loader & Body Co.
+
+## Majority (Mr. Justice Matchett)
+
+Mr. Justice Matchett
+delivered the opinion of the court.
+The plaintiffs in this case sued the defendant appellant for commissions amounting to $3,810, claimed to he due on account for selling five trailers and ten bodies to E. P. Vare of Philadelphia, Pennsylvania. The statement of claim also alleged that under a contract, partly oral and partly written, defendant promised to pay plaintiffs the discount or commission, amounting to 20 per cent and 5 per cent of the articles sold, and that they obtained from E. P. Vare an agreement for five trailers and ten bodies of defendant’s manufacture, that defendant accepted the order and the purchase price thereof,, amounting to $15,875, and that the discount or commission of plaintiffs therefore amounted to $3,810, none of which had been paid.
+In its affidavit of merits defendant stated “that defendant admits that plaintiffs (did sell two bodies and one trailer for it to E. H. Vare of Philadelphia, Pennsylvania, for which the defendant received the sum of $3,175, upon which it is justly indebted to plaintiffs for 20 per cent and 5 per cent, which equals $793.75, which sum defendant tenders plaintiffs in payment and satisfaction of all claims of plaintiffs against defendant, with costs of suit.” Apparently the defendant had incorrectly computed the amount admitted to. be due, which at 20 per cent and 5 per cent would amount to $762.
+March 6, 1919, the court entered an order reciting that defendant’s affidavit of defense admitted that it owed the plaintiffs $762 (the amount due computing correctly under the terms of the contract), that the affidavit was only to a portion of plaintiffs’ demand; and on plaintiffs’ motion the court entered judgment against defendant in favor of plaintiffs for $762 and ordered the suit to proceed as to the balance of plaintiffs’ demand in dispute.
+At the trial a stipulation was entered into upon the following offer of the defendant:
+“I am willing to withdraw my jury demand and submit the case to the court for hearing and to stipulate that unless what we have done, as shown by the record here, constitutes an accord and satisfaction between the parties, then you are entitled to recover the $3,810 sued for less $762, the amount of the judgment heretofore taken, as shown by the record.”
+Thereupon the defendant asked the court to hold as proposition of law:
+“That where a defendant is sued upon a disputed account and the defendant, by its affidavit of merits filed in said suit, tenders a sum less than that sued for by tbe plaintiff under a condition tbat if tbe same is accepted it shall be payment in full of tbe demand sued upon and tbe plaintiff then moves tbe court to enter judgment for tbe amount so tendered, and judgment is entered on said motion for tbe amount tendered, and tbe judgment for tbe amount tendered is satisfied by tbe defendant paying tbe amount of tbe judgment so entered to tbe clerk of tbe court in full satisfaction of tbe judgment so entered and tbe money so paid is taken out of court by plaintiff, tbat tbe same will amount to an accord and satisfaction.”
+Tbe court refused to bold this proposition of law and entered judgment for tbe balance of plaintiffs’ claim amounting to $3,048.
+It is argued tbat tbe court erred as a matter of law, it being tbe contention of appellant tbat where a plea of tender is accompanied by payment of money into court and the plea expressly states tbat tbe sum so tendered is in full payment of all demands, an acceptance of tbe amount tendered is a valid accord and satisfaction of tbe entire claim, citing Canton Union Coal Co. v. Farlin & Orendorff Co., 215 Ill. 244; Lapp v. Smith, 183 Ill. 185; 1 Corpus Juris 565, par. 94; Haeussler v. Duross, 14 Mo. App. 108; Cline v. Rudisill, 126 N. C. 523.
+Tbat such is tbe general rule of law is, we think, established by tbe cases cited. Tbe real question here, however, involves tbe construction of section 55, cb. 110, of tbe Practice Act (Hurd’s Eev. St. 1919, p. 2285, J. & A., p. 8592), which provides:
+“If tbe plaintiff in any suit upon a contract, express or implied, for tbe payment of money, shall file with his declaration an affidavit showing tbe nature of bis demand, and tbe amount due him from tbe defendant, after allowing to the defendant all bis just credits, deductions and set-offs, if any, be shall be entitled to judgment, as in case of default, unless tbe defendant, or bis agent or attorney, shall file with bis plea an affidavit, stating tbat be verily believes the defendant has a good defense to said suit upon the merits to the whole or a portion of the plaintiff’s demand, and specifying the nature of such defense, and if a portion specifying the amount (according to the best of his judgment and belief), * * *. If the affidavit of defense is to only a portion of the plaintiff’s demand, the plaintiff shall be entitled to a judgment for the balance of his demand and the suit shall thereafter proceed as to the portion of the plaintiff’s demand in dispute as if the suit had been brought therefor; but in such case the court may make such order as to the costs of the suit as may be equitable.”
+It is claimed by the appellees that this last provision of the statute renders the authorities cited inapplicable. The statute has been construed by this court in McKey v. Provus, 181 Ill. App. 364, and it is there held that the statute is a highly remedial one, intended to do away with the technical rule of the common law which permits only one judgment to be entered in a suit and allowing judgment to be entered for the amount admitted to be due and allowing the cause to proceed in the regular way to trial and judgment as to the disputed part of the demand sued on. It is to be noted that in this case the plaintiffs in moving for judgment for a part of their demand proceeded under this statute and not by the way of an acceptance of the tender made by defendant in its pleadings. This took away from the transaction its voluntary character which was necessary in order that the acceptance of judgment should constitute an agreement to the condition expressed in the offer. As a matter of fact the plaintiffs did not take judgment for the exact amount tendered by the defendant in its pleading, but on the contrary moved for and obtained judgment for the precise amount which the pleading admits was due. It was therefore immaterial whether the tender of the amount admitted to be due was on condition or not, the statute applied.
+We think the law as laid down in the cases cited by appellant is not applicable to the facts which appear in this record; that the court ruled correctly on the proposition of law submitted and that the judgment should be affirmed.
+Affirmed. '
+BarNES, P. J., and Gridley, J., concur.
