@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-09-08"
+citations: ["49 Ill. App. 307"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Titsworth v. Cook et al."]
+source_url: "https://static.case.law/ill-app/49/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5126374
+cites_cases: ["122 Ill. 526", "131 Ill. 298", "133 Ill. 198", "135 Ill. 485", "86 Ill. 313", "99 Ill. 366"]
+---
+
+# Titsworth v. Cook
+
+## Majority (Scofield, J.)
+
+Opinion of the Court,
+Scofield, J.
+C. D. Cook, for the use of J. G. Yaughn, sued Lettíe A. Titsworth, plaintiff in error, and August C. Klein, before J. B. Satterfield, a justice of the peace of Jefferson County. The summons was returnable on February 4,1884. Klein was not served, and plaintiff in error contends that she was not served with process. Heither of the defendants appearing on the return day of the summons, judgment was rendered against plaintiff in error for §59.05, and the cause was continued with scire facias, as to defendant Klein. On February 26, 1884, an execution was issued on the said judgment and delivered to C. C. Satterfield, a constable of the county, who, on April 5th following, returned the same unsatisfied. On April 18, 1889, more than five years thereafter, a transcript of this judgment was filed in the office of the clerk of the Circuit Court of Jefferson County, and on the same day the judgment was duly assigned to William S. Davis. On June 9, 1890, an execution was issued on the judgment and placed in the hands of the sheriff of the county, but before any levy had been made thereunder, plaintiff in error filed her bill in the Jefferson Circuit Court, to enjoin the levy of the execution, and to have the judgment on which it was issued set aside, and declared to be mull and void.
+Defendants in error answered the bill denying every allegation thereof.
+The hearing of the ease in the Circuit Court on exceptions to the report of the master in chancery, resulted in a decree dissolving the temporary injunction which had been granted by the master, and dismissing the bill for want of equity. Upon proper suggestion made and evidence heard, the damages of defendants in error were assessed at §20 on the dissolution-of the injunction.
+The judgment of the justice of the peace was rendered on what purported to be a promissory note signed by Klein and plaintiff in error. The latter alleged in her bill, and sought to prove, that she did not execute the note. She also alleged and sought to prove that she was not served with .summons, and had no notice of the suit or judgment till after the filing of the transcript in the circuit clerk’s office. We think she failed to establish either of these allegations by the evidence. But it is insisted that the judgment of the justice of the peace was barred by the statute of limitations before the transcript thereof was filed in the circuit clerk’s oifice, and that a court of equity should enjoin the levy of the execution in question, and prevent future complication by declaring the judgment itself to be null and void. A sufficient answer to this proposition is the fact that the plaintiff in error has not shown that she has property that could be seized upon execution, or subjected to the lien of a judgment. She alleges in her bill both ownership and possession of lot five in Williams’ survey of the city-of Mt. Yernon, in Jefferson County. She «does not aver in her bill that she owns any other property whatsoever. When we turn to the evidence we find the allegations of ownership and possession of the lot in question utterly unsupported by proof. During the course of her testimony, plaintiff in error used the words “my house” a few times, without giving the description or showing location thereof. She states that she has inherited a very little property from her father, hut does not state whether it is real or personal. When asked whether or not she has more property than she can hold under the exemption laws, she answers: “ I suppose I have. I do not know, though.”
+These indefinite answers are not sufficient to show that she owns any property subject to execution, and wholly fail to show ownership or possession of the particular lot described in the bill. Inasmuch as she can not make one case by her bill and another by her proofs, she is certainly entitled to no relief in the case presented by this record. Purdy v. Hall et al., 131 Ill. 298; Coale v. Moline Plow Co. et al., Id. 350; Read et al. v. Read et al., 135 Id. 482. If the bill is to be treated as a bill to remove a cloud from the title of plaintiff in error to lot five, above mentioned, she must allege and prove possession of the lot, unless the same is vacant and unoccupied. She has alleged possession but has not proved it. She has not even shown ownership in law or equity with right to the possession. She is entitled to no relief on this ground. Hardin v. Jones, 86 Ill. 313; Gage v. Abbott, 99 Id. 366; Gage v. Curtis et al., 122 Id. 526; Glos et al. v. Randolph, 133 Id. 197. We hold, also, that damages were properly allowed on the dissolution of the injunction.
+The decree of the Circuit Court is affirmed.
