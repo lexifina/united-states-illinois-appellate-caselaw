@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1885-01-06"
+citations: ["15 Ill. App. 619"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isaac Horner v. Rosa Horner."]
+source_url: "https://static.case.law/ill-app/15/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6044922
+---
+
+# Horner v. Horner
+
+## Majority (Bailey; J.)
+
+Bailey; J.
+This was a bill in chancery, brought by Bosa Horner against Isaac Horner and one Mauritz Joseph, praying for the surrender and cancellation of a certain promissory note executed by the complainant to said Isaac Horner, and a certain chattel mortgage given to secure the same, and for an injunction perpetually restraining the collection or negotiation of said note and mortgage, and also a general prayer for relief The bill alleges, in substance, that oil or about the 17th day of March, 1879, the complainant having the necessary capital for the purpose, determined to open a millinery store in the city of Chicago, and that upon the suggestion oí said Isaac Horner that his name would lend credit and commercial standing to the enterprise, associated his name with hers, and opened said store under the firm name of I. Horner & Co.; that said Isaac Horner, apprehending that he might become liable for the debts of the concern, demanded of the complainant security against such contingent liability, whereupon the complainant executed to him her promissory note for $500, dated March 17,1879, payable two years after date,with interest at the rate of ten per cent, per annum, and a chattel mortgage securing the same, upon certain household furniture of the complainant; that said business was carried on under said firm name for about five months, when, at the desire of said Isaac Horner, his name was withdrawn from the firm, and the customers and creditors of the firm notified thereof, since which time the complainant has carried-on the business in her own name; that the complainant bought and paid for all the goods purchased in the name of I. Horner & Co., and has paid the indebtedness of said firm in full, and canceled all of said Isaac Hornei,’s liabilities in connection with said firm; yet, that said Isaac Horner has made a pretended and fraudulent assignment of said note and mortgage to said Mauritz Joseph, who falsely and fraudulently claims to hold the same as a bona fide purchaser, and is about to foreclose said mortgage.
+The complainant afterward filed her supplemental bill making one Philip Lichtenstadt a party defendant and alleging that snbsecjnent to the filing of the original bill said Mauritz Joseph had fraudulently assigned said note to said Lichtenstadt, who had entered judgment thereon against the complainant in the Circuit Court of Cook county by confession for $625, and was about to sue out execution thereon, and praying for an injunction perpetually restraining the collection of said judgment.
+The defendants appeared and answered, and the cause afterward coining on to be heard on the pleadings and proofs, a decree was entered dismissing the supplemental bill and ordering that the complainant recover of said Isaac Horner the sum of $732.36 and costs, and that execution issue therefor.
+The decree recites that the sum awarded the complainant is for the money expended by her in satisfaction of the execution issued on said 'judgment. It may be doubted whether the complainant, as the pleadings now stand, can recover of Isaac Horner the amount of the judgment even if she were shown to have paid it. There is no averment of such payment in either the original or supplemental bill, and it is not pretended that at the time said bills were filed, any such payment had been made. But waiving that question, there seems to be an entire absence of proof in the record tending to show that any such payment has in fact been made. The certificate of evidence purports to contain all the evidence adduced at the hearing, and consequently whatever proof there may be in the record bearing on that question must be sought for in said certificate. We have examined said certificate with care, and fail to find a single syllable tending to show such payment. Counsel for the complainant in his brief claims that., the record shows the execution issued on said judgment marked paid in full, but he fails to point out the place, either in the abstract or record, where such evidence may be found, and has thus imposed upon us the needless labor of a fruitless search through a voluminous record to find evidence which, if it had any existence, he could have pointed out by a single brief reference.
+We think it clear that before the complainant can recover of the defendant the amount of said note or of the judgment recovered thereon, she must show that she has paid it.
+Various other questions are raised, most of them questioning the regularity of the proceedings in the court below; but as the error above pointed out disposes of the case, we do not deem it our duty to consider them.
+For the reason that the decree is not sustained by the evidence appearing in the record, the decree will be reversed and the cause remanded.
+Decree reversed.
