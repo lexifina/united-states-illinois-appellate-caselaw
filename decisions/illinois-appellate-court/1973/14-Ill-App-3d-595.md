@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "72-40"
+decided: "1973-10-04"
+citations: ["14 Ill. App. 3d 595"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. John W. Young III, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/14/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2685455
+cites_cases: ["125 Ill.App.2d 154", "22 Ill.2d 590", "32 Ill.2d 291", "37 Ill.2d 96", "45 Ill.2d 280", "5 Ill.2d 58", "50 Ill.2d 323"]
+---
+
+# People v. Young
+
+## Majority (Mr. JUSTICE. DIXON)
+
+Mr. JUSTICE. DIXON
+delivered the opinion of the court:
+In September, 1968, the defendant John W. Young III, entered a plea of guilty to the offense of theft of property worth more than $150. On March 21, 1969, the Circuit Court of Rock Island County granted defendant probation for a period of five years. Probation was subsequently revoked on September 29, 1969, and defendant was sentenced to a term of from 2 to 10 years. An appeal was taken and this court reversed the revocation and vacated the sentence (People v. Young, 125 Ill.App.2d 154). Thereafter, in 1972, defendant filed a pro se motion for leave to file notice of appeal. No objection was raised by the State’s Attorney. This court allowed the motion for late notice of appeal and also appointed counsel.
+The defendant’s contention on this appeal is that there should have been a transcript of the inquiries of the court and the answers of the accused. Supreme Court Rule 401 then, as now, required “* * # shall be taken and transcribed and filed in the case.” (36 Ill.2d R 401.) The requirement that the inquiries of the court and the answers of the accused shall be recited in the record has, as one of its purposes, obviously, provision for a form of procedure which will eliminate any doubt that there was compliance with the rule. (People v. Rivers, 22 Ill.2d 590; People v. Washington, 5 Ill.2d 58.) The procedure established by the rule is mandatory.
+The People concede this to be true but contend that the instant appeal should be dismissed as having been improvidently allowed.
+At the time defendant made his original plea of guilty Supreme Court Rule 605 provided,
+“In all cases in which the defendant is convicted of a felony the trial court shall, at the time of imposing sentence, advise the defendant of his right of appeal, of his right to request the clerk to prepare and file a notice of appeal, and of his right, if indigent, to be furnished, without cost to him, with a transcript of the proceedings at his trial and with counsel on appeal.”
+Committee Comments to Supreme Court Rule 605 then stated,
+“Rule 605 was amended on June 26, 1967 to make it applicable to cases in which the defendant pleads guilty * * * and to those in which he is placed on probation.”
+It is clear from the record that defendant was never advised of right to appeal pursuant to Rules 605 and 606.
+When his probation was revoked he was told, “you have a right to appeal this decision * * *. If you want to appeal the sentence get an attorney and tell the clerk of the court to file it for you.” (He was indigent at the time.) Never was he told of a right of appeal from the conviction. We quote from People v. Wilson, 50 Ill.2d 323, 326, “The question is whether the appellate court abused its discretion in denying the defendants permission to file late appeals pursuant to Rule 606(c). In People v. Kenney (1970), 45 Ill.2d 280, this court held that the appellate court abused its discretion in denying a defendant’s motion for leave to appeal under Rule 606(c) when the defendant was indigent and the record did not show that he had knowingly waived his right to appeal or that the court had advised him of the 30 day time limit for the filing of a notice of appeal.” Also see 53 Ill. Bar Journal 54 for a discussion of the Shockey cases which apparently started it all.
+Normally, a judgment on a previous appeal is res judicata of all questions which could have been previously raised except where to invoke the rule would be inconsistent with concepts of fundamental fairness. People v. Hamby, 32 Ill.2d 291; People v. Keagle, 37 Ill.2d 96, 101.
+The record shows that defendant had for five years his own business, National Press Sales, a seller of machine tools of foreign make. He was planning an open house for prospective customers and in January 1968 ordered a coffee dispenser which he personally picked up and set up in his office. A week later the sellers representative Robert Coyne came by to see that the dispenser was working properly. Near the end of February, the seller’s man came to collect. Defendant was short of funds and did not pay. A few days later, during the open house, on February 28, 1968, Coyne and two other creditors came to the meeting to press for payment and demanded the funds owed them. All three demanded checks before they would leave. Defendant gave each a post-dated check, the one in the instant case being for $169.12. Defendant having no funds in the bank told the men that he would have to negotiate a loan in order to pay. He was unable to pay and on September 11, 1968, he was charged by the information filed in the instant case with theft of the coffee pot on February 24, 1968.
+Assuming that the prior appeal was res judicata we believe that to invoke the rule in the instant case would be inconsistent with fundamental fairness.
+For the above reasons the judgment of the Circuit Court of Rock Island County is reversed and remanded.
+Reversed and remanded.
+ALLOY, P. J., and STOUDER, J., concur.
