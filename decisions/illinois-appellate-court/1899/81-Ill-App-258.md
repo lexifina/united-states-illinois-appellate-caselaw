@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-03-10"
+citations: ["81 Ill. App. 258"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Central Insurance Co. v. Birds Building and Loan Association."]
+source_url: "https://static.case.law/ill-app/81/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5208305
+cites_cases: ["140 Ill. 102", "30 L. R. A. 633", "39 L. R. A. 148", "5 Ill. App. 141", "83 Ill. 232", "97 Ill. 439"]
+---
+
+# American Central Insurance v. Birds Building & Loan Ass'n
+
+## Majority (Mr. Justice Bigelow)
+
+Mr. Justice Bigelow
+delivered the opinion of the court.
+The first assignment of error questions the correctness of the ruling of the court in sustaining plaintiff’s demurrer to defendant’s fourth plea. To hold that the court committed no error in sustaining the demurrer will be equivalent to holding that there are two policies in the one, each independent of the other for all purposes, since the amount due appellee on the mortgage to it was much less than the loss covered by the policy. This we understand is what counsel for appellee contend for, and in support of their contention cite Hartford Fire Ins. Co. v. Olcott, 97 Ill. 439. That case is not at all like this, as will be seen from the following paragraph of the policy, set out in the opinion of the court, viz.: “It is hereby agreed that this insurance, as to the interest of the said trustee or successors only therein, shall not be invalidated by any act or neglect of the mortgagor or owner of the property insured, nor by the occupation of the premises for purposes more hazardous than are permitted by this policy.” The two following paragraphs of the opinion, on page 452, which were copied from the policy, show that two separate contracts of insurance were contemplated and made in the policy, and that which shows the existence of two contracts in that case is entirely lacking in this case. Nor can we see anything in the case of Glover et al. v. Lee, 140 Ill. 102, also cited by appellant’s counsel, sustaining their contention.
+The fact that the loss was made payable to appellee as its interest might appear, did not prevent a breach of condition of the policy from making it void as to appellee. Insurance Co. v. Hamilton, use, etc., 30 L. R. A. 633; Hocking et al. v. Insurance Co., 39 L. R. A. 148. The court erred in sustaining the demurrer to the plea.
+The defendant offered to prove, under the general issue, that Benefiel, after the date of the policy and before the loss occurred, had mortgaged the property to other parties and that the mortgages were still unpaid; but the evidence was objected to by plaintiff, and the objection was sustained by the court, to which the defendant excepted. This evidence, had it been admitted, would have presented the same defense as set up in the plea, and would have made the ruling on the demurrer harmless error. It is a familiar rule that a party sued in assumpsit may, under the plea of general issue, introduce any evidence showing that he is not indebted to plaintiff. Western Assurance Co. v. Mason, 5 Ill. App. 141; Wilson et al. v. King, 83 Ill. 232. The court erred in excluding the offered evidence.
+Ho proofs of loss were made by the plaintiff, but it was averred in the declaration that defendant, by its agent, waived them. To establish a waiver, plaintiff called David R. Fish, who was the local agent of defendant to solicit risks at Birds, and proved by him that he issued the policy to Benefiel, and that he had no authority to do more than solicit business and issue policies, and had no power or authority to act for the insurance company in regard to the loss, either as to adjusting it or to change the conditions of the policy; that after the fire he went to see the premises on his own responsibility.
+The court then, against defendant’s objection, permitted the plaintiff to prove by Benefiel what Fish said about writing the company, and what it would do about sending an adjuster, and that he (Fish) did not think there would be any trouble about adjusting the loss, and that witness relied on what Fish told him in regard to both losses, as he had a policy on his stock of goods, which were also destroyed; that the conversations occurred within fifteen days after the loss. To the ruling of the court in admitting the testimony, defendant excepted. The object of this and other testimony of similar character, as is claimed by appellee’s counsel, was to show a waiver of proofs of loss on the part of the insurance company.
+What was said by Fish could not bind the company. The plaintiff itself had shown by Fish what his entire authority as agent of the company was, and that he could not speak for it and could not bind it further than as a solicitor of risks and in issuing policies. Besides, on the face of the policy, separated from other clauses, was printed in large letters, an entire clause, as follows: “No agent has power to waive amnj condition of this contractP
+The court erred in overruling defendant’s objection to the evidence.
+Objection was also made by the defendant to the testimony of the witness Wampler, who was a director of the plaintiff, and whose testimony was of the same character as that of Benefiel, but the objection was overruled and defendant excepted. The court erred in admitting it. All of the so-called evidence offered by plaintiff, for the purpose of showing defendant had waived proofs of loss, was objected to and exceptions saved, and the court erred in not excluding it from the jury.
+While there was no legal evidence on the part of plaintiff that the defendant had waived proofs of loss, there was an abundance of evidence on the part of the insurance company that it had not done so, and that, from the very beginning, immediately after the fire, it did not intend to do anything of the kind.
+Plaintiff itself proved that it had never attempted to make proofs of loss.
+Inasmuch as what has already been said fully disposes of the case, it is unnecessary to notice the other errors assigned as to the introduction by plaintiff of other evidence claimed to be improper, the giving and refusing of instructions, overruling defendant’s motion for a new trial, as well as its motion in arrest of judgment; but we are not to be understood as holding that the case has been tried on a correct theory of the law governing such a contract as is set out in the policy.
+The judgment is reversed.
+We find that no proofs of loss were ever made or furnished by appellee to appellant, as provided in the policy, and that appellant never waived the making of them.
+Mr. Justice Worthington : I concur in the conclusion of the court, but not in all of the reasons given for the conclusion.
