@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 66-146"
+decided: "1967-07-20"
+citations: ["85 Ill. App. 2d 394"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Aurora National Bank of Aurora, Illinois, a Corporation, Plaintiff-Appellant, v. Ed Fanning Chevrolet, Inc., a Delaware Corporation, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/85/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2552083
+cites_cases: ["166 NE2d 23", "19 Ill2d 66"]
+---
+
+# Aurora National Bank v. Ed Fanning Chevrolet, Inc.
+
+## Majority (MR. JUSTICE MORAN)
+
+MR. JUSTICE MORAN
+delivered the opinion of the court.
+On August 18, 1964, the plaintiff Bank agreed to lend one David Stanley money for the purchase of a Chevrolet automobile from the defendant’s automobile agency.
+The plaintiff prepared its draft payable to defendant agency and stamped on the front and back of the draft the notation that a security interest lien in the amount due was to be recorded on the title application in favor of the plaintiff Bank and forwarded to them. Stanley gave the draft to the defendant and drove off in his new car. The defendant agency prepared the title application and statement of origin and indicated in each that there was no lien. The application was not marked to be forwarded to the plaintiff Bank but instead Stanley’s address was given: The defendant agency endorsed the draft and received the proceeds. Stanley quickly fell into default on his obligation to plaintiff and neither Stanley nor the automobile can now be located.
+The plaintiff filed this action in the Circuit Court of Kane County alleging the facts hereinbefore set forth and concluding that the defendant had wrongfully converted the Bank money order for its own use without protecting the plaintiff’s interest by noting the lien on the application for title and statement of origin. Both parties filed Motions for Summary Judgment in the Trial Court. The Trial Court granted the Motion of the defendant and dismissed the case.
+Section 3-104 of Chapter 95% of the Illinois Revised Statutes for 1965 covers the subject of the application for a first certificate of title for a motor vehicle. Subsection (b) provides:
+“If the application refers to a vehicle purchased from a dealer, it shall contain the name and address of any lienholder holding a security interest created or reserved at the time of the sale and the date of his security agreement and be signed by the dealer as well as the owner, and the dealer shall promptly mail or deliver the application to the Secretary of State.”
+Despite this language the defendant urges us to accept the proposition that an automobile dealer has no duty to a lender to assure that his security interest will appear on a certificate of title. The clear language of the statute places two duties on the shoulders of the dealer. He must sign the application, which shall set forth the lien, and he must mail or deliver it to the Secretary of State. It would have been meaningless for the legislature to require the dealer to sign the application if they did not intend that the dealer see to it that the lien were correctly shown upon that application. The legislature is presumed to know the realities and among them is the fact that the dealer is sophisticated in these matters and far better able than the owner to see a correct description of the lien. In the case at bar the notations on the check were clear notice to the dealer of the existence of the lien, and under the statute aforesaid he had a duty to see to it that the lien was correctly set forth on the application for title.
+Defendant next urges us to accept the proposition that the plaintiff has not been damaged because Stanley would not make his payments without regard to the existence of the lien on the certificate of title, and the fact that the lien is not noted does not assist the plaintiff in collecting from Stanley. The fact that the lien was noted obviously would not put money into the hands of Stanley, but on the other hand a notation of the lien would prohibit Stanley from transferring title to the car and would protect the plaintiff, at least to the extent of the value of the car. This same issue was considered by the Supreme Court in the case of Westlake Finance Co. v. Oak Park Motors, 19 Ill2d 66, 166 NE2d 23 (1960), wherein the court said at page 71:
+“By delivering to Mrs. Evelyn Slaughter possession of the car and the certificate of title showing no existing lien thereon, defendant gave her an opportunity to perpetrate a fraud upon the plaintiff . . . Under such circumstances, defendant could reasonably have foreseen that plaintiff’s lien might be destroyed. Regardless of whether the misstatements were intentional or were the result of mere mistake or inadvertence liability must follow, under the familiar doctrine that where one of two innocent persons must suffer, he should bear the burden whose conduct induced the loss . . . The loss suffered by plaintiff can be directly traced to the wrongful conduct of the defendant in the premises.”
+It does not appear to us that the defendant is an innocent person. The plaintiff did all that it could do to protect itself. Defendant could have protected the plaintiff but did nothing, and as a result the plaintiff suffered a loss.
+The parties argue at length as to whether or not the notation on the check was a condition of payment. It seems to us that it doesn’t matter, because even if it was not a condition of payment it was certainly notice to the defendant that the plaintiff had a lien which the defendant is duty bound to protect under the statute aforesaid. We are not here dealing with parties who are inexperienced in the sale of automobiles on credit. All are presumed to know the law but this defendant has particular knowledge in the field.
+The transaction which gave rise to this litigation is very common in today’s market place. The defendant would have us say that a bank issuing its check is not protected without regard to any notation or endorsement on the check and that the dealer may reap the benefits without making any effort to protect his benefactor. Such a rule would make for fraud and chaos. Business could not be conducted if that were the law. The legislature has sensibly foreseen the realities of the market place and placed a duty upon the dealer who is after all the beneficiary of the system. We conclude, therefore, that the defendant should have protected the plaintiff and did not do so. This case is therefore reversed and remanded for further proceedings consistent with the views expressed herein.
+Reversed and remanded.
+DAVIS, P. J. and ABRAHAMSON, J., concur.
