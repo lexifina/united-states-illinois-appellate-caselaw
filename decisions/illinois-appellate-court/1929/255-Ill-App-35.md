@@ -1,0 +1,42 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 33,455"
+decided: "1929-11-06"
+citations: ["255 Ill. App. 35"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John C. Bowers and Arnold Schlachter, Appellants, v. Charles E. Hoffman, Appellee."]
+source_url: "https://static.case.law/ill-app/255/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5542110
+cites_cases: ["240 Ill. 391", "296 Ill. 549"]
+---
+
+# Bowers v. Hoffman
+
+## Majority (Mr. Justice Holdom)
+
+Mr. Justice Holdom
+delivered the opinion of the court.
+In the trial court upon a trial before a judge thereof without a jury, there was a finding for the defendant and a judgment of nil capiat, and plaintiffs bring the record to this court for review by appeal.
+The claim of plaintiffs is for a commission as real estate brokers for negotiating as they claimed the sale of certain real estate in Chicago. However, the nub of the controversy relates to a certain real estate fourth mortgage owned by one Mary A. Shay. Both the plaintiffs were real estate brokers, but not partners, in the real estate brokerage business.
+The contract in dispute between plaintiffs and defendant is in the following words, and is of date May 22, 1924:
+“For and in consideration of One ($1.00) Dollar, Arnold Schlachter and John C. Bowers agrees to buy the Fourth Mortgage on the Six apartment building located at 808-10 Edgecomb Place, .being in the amount of Eighty-three Hundred Seventy-five Dollars ($8375.00) for Fifty-eight Hundred Dollars ($5800), and Charles E. Hoffman agrees to sell above mortgage for above mentioned sum of fifty-eight hundred Dollars ($5800.00).
+(Accepted) Arnold Schlachter
+David C. Bowers
+(Accepted) Charles E. Hoffman”
+It is without dispute that the so.-called fourth mortgage recited in the foregoing writing, was in the possession of John C. Bowers, one of the plaintiffs for some time at and prior to the 20th day of May, 1924, and that the foregoing contract was in his possession at and before May 22, 1924, when he procured the defendant Hoffman to execute it.
+It may be conceded as matter of law, as contended by plaintiffs, that where a seller accepts a purchaser and enters into a valid contract of sale with him, the broker’s commission is earned whether the purchaser subsequently fails to perform his contract and make the payments agreed upon or not. Fox v. Ryan, 240 Ill. 391 sustains such contention. However, the facts in evidence do not tend to sustain that claim. We are of the opinion from a scrutiny of the evidence that no valid and binding contract was ever entered into be- - tween defendant and plaintiffs for the reasons hereinafter recited. While there were other writings between the parties the one recited controls the situation and the rights of the parties.
+It is in evidence that a contract was entered into between Mary A. Shay and the defendant Hoffman for the purchase of a six-apartment building at the north-: east corner of Ashland and Sunnyside Avenues, Chicago. It was under this contract that the fourth mortgage of Mary A. Shay was to be turned in as a part of the purchase price in conformity with the contract above recited between plaintiffs and defendant.
+About the 14th day of May, 1924, when Mrs. Shay signed the contract, she gave the note secured by the fourth mortgage above mentioned to the plaintiff Bowers; that on the 20th day of May 1924, there was a meeting between the plaintiff Bowers and Mrs. Shay, at which Mrs. Shay told Bowers she wanted the deal closed, she was going east; that he appeared to be impatient and took the fourth mortgage paper from his inside pocket and threw it on the desk and said to Mrs. Shay, “there is your paper, the deal is off. We have a fellow with cash to buy”; that thereafter Mrs. Shay left Chicago. On May 22, 1924, two days after the incident above referred to, the plaintiff Bowers procured the defendant Hoffman to sign the contract, which both plaintiffs had signed, dated May 22,1924, in which the plaintiffs agreed to buy the fourth mortgage, hereinabove referred to. At that time Mrs. Shay had left Chicago with the fourth mortgage papers. Bowers made no mention to defendant of the fact that he had returned the mortgage to Mrs. Shay, and that the deal was declared off, or that Mrs. Shay had left Chicago. Bowers at the time he procured the signature of Hoff7 " man to the contract knew it could not be carried out and that by his own act he had cancelled the obligation of Mrs. Shay. There is some dispute by Bowers, it is true, regarding what occurred on the 20th day of May, 1924, between him and Mrs. Shay, but we think there are environing circumstances which corroborate the occurrence testified to by Mrs. Shay. Bowers did not have the papers when Hoffman signed the contract and the carrying out of the contract was made impossible by the act of plaintiff Bowers in returning the mortgage papers to Mrs. Shay and declaring that the deal was off. This being a joint venture of the plaintiffs as brokers, the action of one bound both, It is patent that if Bowers had acquainted Hoffman with the true condition of affairs, he would never have signed the contract which he did on the 22nd day of May, 1924, two days after Bowers had surrendered the fourth mortgage papers to Mrs. Shay and called the deal off.
+The trial was before the court, and if the court believed the testimony of Mrs. Shay and disbelieved the testimony of Bowers, then the court was justified in making the finding in defendant’s favor.
+Bowers admitted on cross-examination that he had possession of the mortgage papers and that he returned them to Mrs. Shay. It is evident from the proofs that Hoffman’s signature to the contract was obtained by withholding from him the information that by Bowers’ own conduct the contract could not be carried out, as he had returned the papers to Mrs. Shay. This was such a fraud on Bowers’ part as to warrant Hoffman in repudiating the contract. It is a familiar axiom that fraud voids all contracts. There can be no doubt from the evidence of Mrs. Shay and the environing conditions that at the time the defendant Hoffman executed the contract Bowers had made it impossible of performance. He had agreed with Mrs. Shay to call the deal off and surrendered the papers then in his possession to her.
+The plaintiffs were the brokers of the defendant. The law requires that, as such, plaintiffs should act in the utmost good faith in their dealings with Hoffman. This they did not do.
+In Perry v. Engel, 296 Ill. 549, it is held that the relation of principal and agent is one of trust and confidence, and where such relation exists it must be faithfully acted upon and preserved from any intermixture of imposition, no matter how large or how small the commission paid may be or whether the agent is a mere volunteer at a nominal consideration. The duty imposed by law on plaintiffs as the agent of Hoffman in the transaction, they failed to observe, and thereby procured Hoffman’s execution of the contract by suppressing the truth as to the existing situation that the deal had been called off and that Mrs. Shay had her mortgage securities, that Bowers, one of the plaintiffs, had surrendered the same to her as hereinbefore recited.
+In their reply brief plaintiffs tell us that the learned trial judge, in rendering his decision, used the following language:
+“I will say in the first place the buyer and seller are not parties to this suit. It is a broker who is suing. It requires the highest faith on his part but if the question were a matter of rights between the parties it might be a different obligation. Mrs. Shay may have had to go through with the deal if she signed her name to a paper under seal, that would be one thing, but there is not any evidence in the record, in fact, there is evidence to the contrary that the broker made no move at all either to carry out the ordinary provisions of the contract, to give an abstract, or anything else. The deal went dead by the failure of the brokers to do their part.”
+If those remarks were a part of his decision,-we accord to them our approval
+In our opinion the judgment of nil capiat appealed from does justice between the parties. Consequently the judgment of the municipal court is affirmed.
+Affirmed.
+Wilson, P. J., and Ryner, J., concur.
