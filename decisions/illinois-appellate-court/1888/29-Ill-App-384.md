@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-11-23"
+citations: ["29 Ill. App. 384"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Broadwell v. David Sanderson."]
+source_url: "https://static.case.law/ill-app/29/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4972394
+cites_cases: ["20 Ill. 374", "29 Ill. 272", "68 Ill. 604", "76 Ill. 365", "91 Ill. 104"]
+---
+
+# Broadwell v. Sanderson
+
+## Majority (Wall, P. J.)
+
+Wall, P. J.
+This was an action of assumpsit upon a promissory note payable to appellee and signed by W. B. Broadwell and the appellant, W. II. Broadwell. The latter alone was sued. He pleaded, first, the general issue and several special pleas, setting up a want of consideration for his signature to the note. The ease was tried by jury and there was a verdict for plaintiff for the amount of 82,102.66#. On motion for a new trial the plaintiff remitted §1,000. The motion was overruled and judgment entered accordingly. The record is brought to this court and various errors are assigned, which will be noticed in the order as they appear in the brief.
+The defense rests upon the alleged want of consideration, it not being denied that the appellant signed the note.
+The principal maker was W. B. Broadwell, the son of appellant. He signed the note in California, where he resided, and where appellee then was, and handed it to appellee, and the contention of fact was whether it was then understood that it should be presented to appellant and signed by him as security.
+The consideration was the payment of the amount named by appellee to appellant for said W. B. Broadwell, who was then owing appellant; in other words, a loan to W. B. to be applied on his debt to W. H. Broadwell, the appellant.
+Appellant insisted that there was no such understanding as to his signing the note, but that he signed it after the money was paid, at the mere request of appellee and without any consideration. If the paper was signed by the principal and delivered to the payee as complete and executed, and was afterward signed by appellant, not as a part of the original transaction nor pursuant to the understanding upon which it was signed by the principal, and handed to appellee, there was no consideration for the signature of appellant and his defense was good. Harwood v. Kiersted, 20 Ill. 374; Randolph on Commercial Paper, Vol. 2, Sec. 920.
+This was the issue of fact submitted to the jury, and it is insisted by the appellant that the verdict is clearly against the weight of the evidence. If this is to be determined by the number of witnesses the position is well taken; but of course that is only one element for consideration, and it is by no means conclusive. Much more depends upon the manner and appearance of the witnesses and their general conduct while testifying, as well as the nature of the facts testified to. After carefully considering the evidence as it is abstracted we are not disposed to interfere with the judgment on this ground. In this connection may be noticed the objection that it was error to permit the appellee to testify to the circuinstances and the understanding with which the principal signed the note and gave it to appellee. The appellant opened the door for this by the testimony of the principal, W. B. Broadwell, lending to prove that there was no understanding^ that appellant was to sign as surety, and he can not be heard to object. But there is no ground for objection. Our statute, Sec. 9, Chap. 98, B. S., in providing for the defense of a want, or failure of consideration, has necessarily modified the rule of evidence against varying a written contract by parol, and, as has been said by the Supreme Court, the door is thrown wide open to disclose the whole truth about the consideration, and this is the only mode by which effect can be given to the statute. G. W. Ins. Co. v. Ries, 29 Ill. 272; Gage v. Lews, 68 Ill. 604; Mann v. Smyser, 76 Ill. 365.
+It is urged that it was error to give the following instruction, Bo. 3:
+“If a party sign a note as surety for another, in consideration that the principal shall receive the benefit thereof, such ■ consideration is a valid consideration in law, and the signer thereby becomes liable to the lender as the principal, and in this case it is immaterial how much, if any, benefit the defendant received for signing said note, provided he signed it in consideration.that his son, W. B. Broadwell, should receive credit for the amount of the same, and that his son by reason thereof did receive such credit.”
+In support of the objection, it is said the jury were misled by the instruction and probably understood that it was immaterial whether defendant received any consideration for signing the note provided his son got the benefit of the credit, ignoring the real issue, whether the note was in fact executed completely in California. We think it would not mislead the ordinary j nror. The proposition contained in the instruction is sound, and when read in connection with the other instructions for plaintiff and with those for defendant, which very strongly stated in several forms of expression the issue from the standpoint of the defendant, there is no reason to suppose that it had any improper effect on the jury.
+The following instruction is objected to as calculated to mislead the jury.
+7. “ The court instructs the jury for the plaintiff, that where a note is signed by two persons, both are equally liable, and either one or both may be sued thereon, and it makes no difference whether the note read, ‘I promise to pay,’ or ‘we promise to pay,’ or ‘we or either of us promise to pay.’ ”
+Here again is a correct legal proposition, which was suggested, no doubt, by the language of the note and perhaps by the comments made thereon during the trial.
+We can not presume the jury would understand it to mean, as counsel suppose, that if W. B. Broadwell was liable W. H, Broadwell was also. The jury must be given credit for more penetration and intelligence. It was not denied by any one that the former was liable, and the whole question was as to the liability of the latter, though his signature was admitted. The purport and evident object of the instruction was to advise the jury as to the legal meaning of a note signed by two and reading, “I promise to pay.” When the jury considered this in connection with all the other instructions they could not misunderstand it or be misled by it.
+It is objected, finally, that instruction Ho. 1 asked by defendant should have been given. We think all of it that was proper will be found in those which were given, and there is no occasion for complaint as to this; but the appellant can not be heard upon the point, because it is not assigned for error nor included in the motion for new trial. O. O., etc., Ry. Co. v. McMath, 91 Ill. 104.
+The judgment will be affirmed.
+Judgment affirmed,.
