@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1893-12-12"
+citations: ["49 Ill. App. 418"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Village of Gilberts v. Rabe."]
+source_url: "https://static.case.law/ill-app/49/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5126292
+cites_cases: ["117 Mass. 469", "130 Ill. 566", "17 Ill. 151", "18 Ill. 407", "23 Mich. 457", "39 Ill. App. 298", "40 Conn. 298", "41 Conn. 448", "45 Iowa, 87", "59 Ala. 371", "64 Ind. 319", "68 N. Y. 259", "89 Ill. 361"]
+---
+
+# Village of Gilberts v. Rabe
+
+## Majority (Cartwright, J".)
+
+Opinion op the Court,
+Cartwright, J".
+Appellee was prosecuted before a justice of the peace, by appellant, for the violation of its ordinance prohibiting the sale of intoxicating liquor without a license. Appellant was defeated before the justice, and an appeal was taken to the Circuit Court, where the case was tried by the court without a jury, and appellant was again defeated.
+The facts were agreed upon by stipulation in the Circuit Court, and the only question in the case was concerning an amendment by the village board of the record of its proceedings in the passage of the ordinance. The village board consisted of six members. A meeting of the board was held July 31, 1S90, and the record of that meeting, as originally made by a clerk pro tern., recited that all the members, except one, were present, and that the ordinance in question was passed, but it contained no recital of the manner of its passage. The ordinance was duly approved, and copies were posted. The defendant on three different occasions, between August 15, and December 2, 1890, sold intoxicating liquors contrary to the provisions of the ordinance. The prosecution was commenced December 23,1890, and afterward, during its pendency, before the trial in the Circuit Court, at a regular meeting of the same board at which all the members were present, it was, by unanimous vote, ordered that the record of the proceedings at the meeting of July 31, 1890, should be corrected so as to correspond with the facts, by inserting after the word “ passed,” where the passage of the ordinance was shown, the word “ unanimously,” and the record was amended accordingly. The record was in like manner amended so as to show that the member not present at the opening of the meeting, came in and took his seat before the passage of the ordinance. The amended record before the Circuit Court, showed that all the members of the board were present at the meeting when the ordinance was passed, and that its passage was by unanimous vote.
+That the village board.had the right to amend the record of its proceedings so as to correspond with the facts and make the truth appear by supplying the omitted facts, is settled beyond controversy. President and Trustees of Town of St. Charles v. O’Malley, 18 Ill. 407; Turley v. County of Logan, 17 Ill. 151; County of Adams v. City of Quincy, 130 Ill. 566.
+It is also the law that the record, as amended, showed that the ordinance was legally passed. Barr v. Village of Auburn, 89 Ill. 361.
+It is argued here that the judgment of the court was right, because no proof outside of the record of the board was offered to show that the amended record was true. A legislative body makes and controls its own record, and decides for itself when it contains a true history of its proceedings. The board decided that the record, as originally made, was deficient, and that the addition of omitted facts should be made so as to make it show the whole truth and correspond with the facts. The addition was made from the personal knowledge of the members of the board, and when made so as to give a true history of the passage of the ordinance, it is no more required or admitted of outside parol proof than any other record of the board.
+It is also contended, that, inasmuch as the record did not at the time the ordinance was violated, show that it had been passed by the affirmative vote of a majority of the hoard, the defendant acquired some sort of vested right to immunity, which could not be disturbed by the subsequent amendment, or that such subsequent amendment was ex postfaelo in its character and void as to him.
+The purpose of the requirement that the vote should be entered in the journal was to furnish evidence that the ordinance was passed as required by statute. Barr v. Village of Auburn, supra. The record as originally made recited that the ordinance was passed, and it was approved and published ' as an ordinance of the village. When defendant contemplated a violation of its provisions, ordinary prudence would require that he should ascertain whether it was in fact passed in the required mode. He is presumed to have known that the law authorized the board to amend its record by adding any omitted -fact, and he could acquire no vested right that the prosecution for his wrong doing should be governed by the record in its incomplete form. When he undertook to violate the ordinance, because he thought that the village would not be able to prove its passage, he took the risk of such proof being made, and had no right to insist that the proof should not be made.
+When the record was completed by adding the omitted fact that the vote on the passage of the ordinance was unanimous, the record had the same force and effect as though originally made as amended, and showed that the ordinance was legally passed July 31, 1890. County of Du Page v. Martin, 39 Ill. App. 298. It was in full force when it was violated by the defendant, and the completion of the record did not make that an offense which was not an offense when committed.
+The judgment will be reversed, and the cause remanded.
