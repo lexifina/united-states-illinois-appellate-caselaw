@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 46,605"
+decided: "1955-03-16"
+citations: ["5 Ill. App. 2d 323"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Syd Romain, Appellant, v. Edna Fink and Unknown Owners, Appellees."]
+source_url: "https://static.case.law/ill-app-2d/5/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5137241
+cites_cases: ["200 Ill. 527", "333 Ill. 158", "399 Ill. 151", "96 Ill. 481"]
+---
+
+# Romain v. Fink
+
+## Majority (MR. PRESIDING JUSTICE KILEY)
+
+MR. PRESIDING JUSTICE KILEY
+delivered the opinion of the court.
+This is a proceeding in equity, to foreclose a statutory lien arising under the provisions of section 247 of the Revenue.Act, Ill. Rev. Stats. 1953, ch. 120, § 728 [Jones Ill. Stats. Ann. 119.744]. The lien is asserted against certain vacant tax delinquent real estate situated in Cook county, Illinois. The state’s attorney of Cook county was allowed to intervene as amicus curiae and on his motion the cause was dismissed. Plaintiff has appealed.
+The facts are undisputed. Plaintiff bought the property at a tax sale for $3.28 being the amount of the county court judgment for unpaid 1952 taxes and interest. He did not pay the previously unpaid taxes within 10 days to obtain a certificate of purchase under section 247. The result was a statutory lien under that section for the amount paid plus 5 per cent interest. The accumulated delinquent taxes on the property were $101.69 and the market value approximately $75.
+The determinative question is whether the lien created “in favor of the purchaser” under section 247 of the Revenue Act can be foreclosed in equity in the absence of any statutory provision for foreclosure of the lien. No cases bearing directly on this question have been cited and it appears that this is a case of first impression.
+. Section 247 provides in part as follows:
+“. . . If a purchaser fails to complete his purchase' as herein provided, the purchase shall become void, and be of no effect, but the collector shall not refund the amount paid . . . Said amount shall be . . . distributed to the taxing bodies . . . The lien for taxes for such amount, however, shall remain on the land, in favor of the purchaser, his heirs or assigns, until paid with five per cent interest . . . No redemption shall be made without payment of this amount for the benefit of said purchaser, and no future sale of the land shall be made except subject to the lien of such purchaser.”
+Plaintiff points out that this section, added to the Revenue Act in 1935 and applicable only to counties over 500,000 population, is designed to procure revenue for the State and is an inducement to make tax money more readily available to the taxing bodies. He argues that the legislative intent would be frustrated unless the inducement of a foreclosure lien was held out to the purchaser who fails to get a certificate of purchase. This, he states, is especially true where the accumulated taxes exceed the value of the tax property.
+In this connection it is noted that a tax lien is generally defined as a statutory lien which exists in favor of a State or municipality. Black’s Law Dictionary (4th Ed. 1951). This general definition is in accord with Article IX, § 4, Illinois Constitution which provides that sales of property to collect delinquent taxes shall be made only by county officials. See also, Opinions of the Attorney General of Hlinois 1943, 244-5 which traces the history of the tax foreclosure suit in Illinois. It seems clear that application of the common legal meaning to the term “lien for taxes” as it is used here would preclude plaintiff from ,the right to foreclose since this right does not generally exist for the benefit of a private citizen.
+But plaintiff insists that there can be no right without a remedy under Article H, § 19, Illinois Constitution and that equity therefore will grant relief. Plaintiff is not without a remedy. Under section 247 the property cannot be redeemed unless he is paid. This provision can be applied by suitable action, if needed, and his right to be repaid is protected by rendering future sales subject to his lien. Neither Mammina v. Alexander Auto Service Co., 333 Ill. 158 nor West Chicago Park Com’rs v. Western Granite Co., 200 Ill. 527, cited by plaintiff, are helpful here. In both of these cases equity enforced a lien, but, the unique tax lien problem was not involved.
+The Supreme Court in People v. Biggins, 96 Ill. 481 held that equity would not assume jurisdiction to foreclose a tax lien, in a suit brought by the taxing authority, in the absence of clear statutory authority. Following the decision in the Biggins case the statute, there involved, was amended to provide for enforcement of the lien in equity. That suit was instituted by the proper officials but the rule denying equitable relief applies equally well to plaintiff here in the absence of statutory provision. The rationale of the Biggins case has persisted. Iii People v. Chambliss, 399 Ill. 151, a private person sought to obtain an accounting in equity of certain taxes alleged to be owing to the county. The Supreme Court denied relief relying in part on the reasoning in the Biggins case. The court pointed out that the suit amounted to an attempt to collect taxes by an individual and stated at page 158,
+“In our opinion there is no right in an individual taxpayer to bring a suit for the collection of taxes. . . .”
+In effect plaintiff in the instant case if allowed to foreclose would be collecting taxes, by substituting himself for the county and forcing the sale of land because of delinquent taxes. The Revenue Act provides for foreclosure of tax liens by the proper officials. Ill. Rev. Stats. 1953, ch. 120, § 697 [Jones Ill. Stats. Ann. 119.713]. Here it is true the language of section 247 protects the money expended by plaintiff but he has failed to complete his purchase and the statute voids the sale. The legislature could not have intended to void plaintiff’s purchase and preserve for him the right to foreclose on a void transaction. This is especially true where the right sought would virtually be an indirect collection of taxes by a private citizen which has been traditionally denied by the Illinois Constitution and decisions. People v. Chambliss, 399 Ill. 151. Plaintiff was on notice that his failure to complete his purchase would void the transaction. He was not misled and he will be reimbursed in the event of redemption or from the proceeds of an authorized sale. For the reasons given we hold that plaintiff’s lien under section 247 was not foreclosable in equity. The decree is therefore affirmed.
+Decree affirmed.
+LEWS and FEINBERG, JJ., concur.
