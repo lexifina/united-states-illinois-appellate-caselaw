@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-12-08"
+citations: ["20 Ill. App. 376"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anglo-American Packing and Provision Company v. John Baier."]
+source_url: "https://static.case.law/ill-app/20/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4906685
+cites_cases: ["12 Mich. 58", "21 Pick. 146", "23 Ark. 121", "26 Ala. 665", "3 Wis. 315", "4 Gray, 335"]
+---
+
+# Anglo-American Packing & Provision Co. v. Baier
+
+## Majority (McAllister, P. J.)
+
+McAllister, P. J.
+We are of opinion that the court erred in overruling the objection of defendant below to the question put to witness, Free, as to plaintiff’s habits as a worker. The counsel for the latter concedes in his argument that the answer of the witness was incompetent. But he contends that the error is unavailing, because there was no motion on behalf of defendant below to exclude the answer, and also because questions of the same import and character were put by plaintiff’s counsel to other witnesses without objection on the part of defendant, and substantially the same answers given. That, the counsel says, was a waiver of the exception taken to the question to Free, and the answer of the other witnesses being properly in, because not objected to, the defendant could not be prejudiced by the answer to the question put to Free.
+We do not regard the positions so taken as tenable.
+The question put to Free, in terms, called for a statement as to the-general habits of the plaintiff below, as a worker. It therefore called for incompetent, illegal evidence. And when the court deliberately, after discussion, as the record shows was the case here, decides that that species of evidence is competent and overrules the defendant’s objection to it, the latter, in order to make its exception available, was not required to move to have the answer excluded. All such rules of practice are based upon sound sense and considerations of convenience in the administration of justice. Gilmer v. City, etc., of Montgomery, 26 Ala. 665.
+The defendant below, having taken the opinion of the court as to the competency of that species of evidence when the question was put to Free, and preserved an exception to the ruling, was at liberty to rest upon that exception, and was under no necessity, in order to make it available, to renew the objection when the same species of evidence was offered by the same party a second or third time. George v. Morris, 23 Ark. 121.
+Mor did the failure to object when the same species of evidence was subsequently offered have any tendency to operate as a waiver of the exception preserved. Pfiel v. Kemper, 3 Wis. 315; Flanigan v. Lampman, 12 Mich. 58.
+We are also of opinion that the court erred in refusing to allow the questions set out in our statement of the case, and asked by defendant’s counsel on cross-examination of plaintiff’s witness, Englen, to be answered.
+Considering the nature and tendency of the evidence of that witness upon his direct examination, each of the questions asked and excluded on cross-examination was legitimate and proper. The plaintiff below was subject to the burden of proving tha1 there was no want of ordinary care and prudence ón his part to avoid the injury. Mot only that, but the theory of the defendant below, based upon the very circumstances attending the accident, was, that the latter was not the proximate result of defects in the machine or its appurtenances, but was occasioned by the plaintiff having used his hands to remove the meat, when the machine got clogged with it, without turning off the power and stopping its action. In short, that the injury was caused by his own carelessness.
+The witness testified to circumstances tending to show that, in the absence of every other, the tipping of the stool was the proximate cause. Mow, would it not have been competent, on cross-examination, to have drawn out of the witness the fact that the plaintiff, at the very time, was improperly using his hands to remove a clog without first turning off the power? Of that there can be no doubt. The facts sought to be drawn out by the questions put and excluded had the same tendency, and were, therefore, proper cross-examination. The last of those questions was this:
+“ Isn’t it a fact that Mr. Baier used to put his hands down in the funnel for the purpose of freeing the machine from the meat?”
+By that question the witness was called upon to speak as to a fact, not from hearsay or reputation, but from his own personal knowledge; and which might lead to the development of the truth, that the plaintiff was commonly careless and unskillful as a feeder of said machine. There is high authority for saying that upon the question whether plaintiff was in the exorcise of ordinary care and skill at the time, it is competent to prove, by persons having knowledge of the fact, that lie was commonly careless and unskillful in the particular matter in question. Adams v. Carlisle, 21 Pick. 146; Baldwin v. Western Railroad Co., 4 Gray, 335.
+Under the decisions in this State, the instruction of the court to the jury to disregard the evidence of Free as to plaintiff’s habits as a worker, can not he regarded as curing the error of admitting that evidence, especially since the court left to the jury that of the same species, called out from the other two witnesses, by questions the same as that to Free, which the court ruled to be proper.
+The record shows that the trial involved a sharp contest, upon the questions of negligence as respected both parties, and what was the proximate cause of the injury. There was no such clear preponderance of the evidence in favor of the. plaintiff below, as to justify this court in holding that the evidence improperly admitted, could not possibly have influenced the jury, or that any substantial error against, could not have prejudiced the defendant’s case. The damages are very large, and there are some other rulings and points presented by the record and urged as errors, which we not deem it necessary to discuss, but which, when considered in connection with the errors stated, go to satisfy us that, under the circumstances of this case as tried, the defendant below did not have a fair trial, and that the case should go before another jury. The judgment will therefore be reversed and the cause remanded for a new trial.
+Judgment reversed.
