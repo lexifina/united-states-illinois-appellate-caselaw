@@ -1,0 +1,25 @@
+---
+court: "Illinois Appellate Court"
+decided: "1883-03-27"
+citations: ["12 Ill. App. 594"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Gauler et al. v. Anna Wohlers."]
+source_url: "https://static.case.law/ill-app/12/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4859484
+cites_cases: ["1 Johns. Ch. 50", "10 Wall. 583", "11 How. 27", "11 Ill. 211", "11 Ill. 300", "13 Ill. 157", "14 Ill. 271", "17 Ill. 281", "18 Vt. 67", "18 Wend. 375", "19 Me. 244", "2 Johns. Ch. 228", "22 Me. 14", "3 Gilm. 518", "31 Ill. 336", "31 Ill. 525", "32 Ind. 309", "35 Ill. 568", "35 N. Y. 255", "4 Johns. Ch. 671", "42 Ill. 230", "45 N. H. 110", "48 Ill. 502", "52 Ill. 98", "6 Ired. Eq. 96", "6 Johns. Ch. 479", "63 Ill. 278", "64 Ill. 394", "65 Ill. 469", "66 N. Y. 331", "68 Ill. 215", "7 Tenn. 269", "78 Ill. 394", "79 Ill. 187", "8 N. H. 45", "80 Ill. 235", "80 Ill. 79", "9 Ala. 42", "95 Ill. 611"]
+---
+
+# Gauler v. Wohlers
+
+## Majority (McAllister, J.)
+
+McAllister, J.
+The cross-bill of Hageman and Gauler, praying that the judgments on which the creditor’s bills were based beset aside and vacated, was, in our judgment, wholly insufficient to justify any such decree, and the court below very properly sustained a demurrer to it. The chief defect in that bill was the want of any allegation, or statement of fact, or circumstance, showing that the complainants in the credit- or’s bills, or some of them, participated in the alleged fraudulent acts of Wohlers, the administrator, committed with the design of rendering Hageman and Gauler, his sureties, liable upon his bond. If the complainants in the creditor’s bills were none of them connected with the fraudulent acts of such administrator, and were injured thereby, then the sureties upon the administrators bond were liable for that injury irrespective of such administrator’s motives as regarded such sureties. And if such complainants were not, in fact injured thereby, that might have been shown in mitigation of the damages in the suits on the bond. There is no sufficient reason set forth in the cross-bill why such matters were not set up in the suits on the bond. Collusion between the parties in the orders and proceedings in the Probate Court to defraud the sureties, might have been pleaded in the suits against such sureties. Annett v. Terry, 35 N. Y. 255; Great Falls Manufacturing Co. v. Worster, 45 N. H. 110.
+But there is one objection to the decree below, which seems well taken. The answers admitted neither the amount due nor the returns nulla bona. The complainants were, therefore, required to prove them. Heacock v. Durand, 42 Ill. 230. It appeared by complainants’ own showing, that under two of the executions, the sheriff had levied upon a considerable amount of personal property as belonging to the defendants, and all that was shown in regard to it, was a statement in the sheriff’s return, that such property had been taken from him by the coroner by writs of replevin, and that by direction of the plaintiff’s attorney, lie returned the writs no part satistied. The sheriff does not say he demanded any property of defendants.
+Under these circumstances, the complainants should have shown, that without any fault of the sheriff, or the plaintiffs in the execution, or by some instrumentality of the defendants, the property so levied upon could not have been made available to the payment of the respective judgments in whole or in part. It is true, that there was no evidence, that the goods levied upon were of a value adequate to the satisfaction of the j udgments, but they necessarily affected the extent of the'relief to be granted, unless there were circumstances which showed them not to be available to any extent. Helm v. Hardin, 2 B. Monroe, 230. Besides the complainants were bound to show that their legal remedy had been legally exhausted.
+It was suggested by counsel for defendants in error, that the whole decree should not be reversed for this error, but only so much as related to the two judgments, on which such executions so levied, were issued. We can "not concur in that view, for the reason, that the rules governing such cases, require that when a decree subjects certain property to the satisfaction of a judgment, and orders a sale for that purpose, it must ascertain the precise amount for which the premises are liable, or it will be erroneous. Cohen v. Carroll, 5 Smedes & M. 545.
+In the case in hand, the court below found a gross sum, as the amount for which the premises’ in question wei’e liable, and for which they were ordered to be sold. In our view the court could not properly ascertain that sum, without first ascertaining that the goods levied upon, under the two executions above mentioned, were not available. That was not done. Tiie decree of the court below will, therefore, be reversed and the cause remanded.
+Reversed and remanded.
