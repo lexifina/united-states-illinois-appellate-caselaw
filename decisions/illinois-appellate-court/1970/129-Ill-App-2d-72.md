@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 69-109"
+decided: "1970-09-17"
+citations: ["129 Ill. App. 2d 72"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. Jack Eugene Lampson, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/129/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2742040
+cites_cases: ["104 Ill App2d 100", "192 NE 777", "243 NE2d 49", "358 Ill 52", "384 US 436"]
+---
+
+# People v. Lampson
+
+## Majority (STOUDER, J.)
+
+STOUDER, J.
+Defendant, Jack Eugene Lampson, has appealed from a judgment and sentence of the Circuit Court of Rock Island County entered on the verdict of a jury finding defendant guilty of burglary. About 4:15 a. m. on the morning of June 19, 1969, an automatic alarm connected to the Rock Island Police Department indicated that a break-in might have occurred at Gene-O’s Tavern located in Rock Island. Officer Hird was the first officer to arrive on the scene, and as he approached the rear of the building, he saw a man emerging therefrom. Hird stopped his car, gave chase, fired two shots at the fleeing man but lost him after the suspect had turned a corner. As Hird started chasing the suspect, he heard the sound of shattering glass and it was at this juncture that Officer Rice arrived on the scene.
+Rice approached the tavern and the street in front of the tavern. As he neared the tavern, the large front plate glass window of the tavern was shattered from the inside and a person emerged from the tavern through the hole in the broken window. The person was wearing a light green shirt and khaki trousers, and after emerging through the window, the suspect ran across the street. Rice stopped his car almost in front of the tavern and pursued the suspect. Rice fired five shots both as warning shots and in the direction of the fleeing suspect. After the suspect had rounded a corner, Rice lost track of him but was advised by some unidentified person that someone had run between the buildings into the backyard. Rice went into the backyard area, where after searching with his flashlight, the defendant was discovered in the bushes. He was ordered to come out and did so, at which time he was placed under arrest. He was wearing khaki pants, light green shirt and cotton gloves. Officer Hird, after losing the suspect he was chasing, came to the aid of Rice and they were both present at the time and place of defendant’s apprehension, which was about a block and a quarter from Gene-O’s Tavern.
+According to other police officers called to testify by defendant, another person, Leroy Drain, was arrested for the burglary at 4:30 a. m., the arrest taking place a short distance from the tavern. The details leading to the arrest of Drain were described by the officers, but it further appeared that the charges against Drain were dropped at the preliminary hearing.
+In seeking to reverse the judgment of the trial court, defendant has made several assignments of error principally relating to the admission of evidence. The first assignment of error relates to the testimony of officers Rice, Hird, Barker and Smiley.
+According to the testimony of Hird and Rice, after defendant was arrested he was handcuffed and “Miranda’d” (advised of his constitutional rights as required by Miranda v. Arizona, 384 US 436, 16 L Ed2d 694). The defendant indicated that he did not wish to make a statement and that he wanted to talk with a lawyer. As they were walking back toward Gene-O’s Tavern, Rice told defendant he was lucky he did not get shot. The defendant replied that he wished he had been, because he was no good.
+Later in the morning at about 8:45, defendant was brought to the Detective Bureau of the Rock Island Police Department and according to the testimony of Officers Barker and Smiley, defendant was again advised of his rights. Defendant again indicated he did not want to make a statement and that he wanted to talk to an attorney, naming one known to both officers. Defendant was not questioned, but neither was he returned to his cell nor were any arrangements made for his consultation with an attorney. Defendant remained in the Detective Bureau or area for 30 to 40 minutes and at some time during this period, he made an observation that if he committed the burglary then Drain did not, and if Drain committed the burglary, then he did not.
+Defendant argues that the above testimony violated his constitutional rights, as well as depriving him of a fundamentally fair trial. According to defendant, such testimony was prejudicially erroneous because the testimony advised the jury that the defendant had refused to make a statement and had asked for an attorney, neither of which facts could have any bearing on defendant’s guilt or innocence.
+It is our view that the trial court did commit prejudicial error in permitting the testimony referred to. In People v. Rothe, 358 Ill 52, 192 NE 777, the Court held that the admission of the testimony of a police officer was prejudicially erroneous when such testimony referred to the refusal of the defendant to make, a statement at the police station. Although such error was only one of several errors which resulted in reversal of the conviction in Rothe, we believe the reason for the rule in Rothe is even more important today. Rothe was decided prior to Miranda v. Arizona, supra, and at the time no advice to the defendant of his right to remain silent was required. Since such advice is now required in all cases of custodial interrogation, the defendant would, indeed, be afforded little protection if his exercise of an admitted right could then be turned into an inference of guilt. To do so would, in effect, be the same as permitting the State to comment on a defendant’s failure to testify in his own behalf, a practice condemned In People v. Chellew, 104 Ill App2d 100, 243 NE2d 49.
+For the foregoing reason, the judgment of the Circuit Court of Rock Island County is reversed and remanded with directions that defendant be granted a new trial.
+Reversed and remanded with directions.
+RYAN, P. J. and ALLOY, J., concur.
