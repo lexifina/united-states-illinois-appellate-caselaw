@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "83—2149"
+decided: "1984-06-29"
+citations: ["126 Ill. App. 3d 71"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IRVING R. ZIMMERMAN, d/b/a Irving Zimmerman Associates, Plaintiff-Appellant, v. 1660 CONDOMINIUM ASSOCIATION et al., Defendants-Ap-pellees (Jomeca, Inc., et al., Defendants; Louis Natenshon, Intervenor)."]
+source_url: "https://static.case.law/ill-app-3d/126/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3598246
+cites_cases: ["118 Ill. App. 3d 824", "387 N.E.2d 785", "393 N.E.2d 792", "400 N.E.2d 711", "449 N.E.2d 125", "455 N.E.2d 861", "69 Ill. App. 3d 972", "74 Ill. App. 3d 695", "74 Ill. App. 3d 698", "80 Ill. App. 3d 915", "96 Ill. 2d 150"]
+---
+
+# Zimmerman v. 1660 Condominium Ass'n
+
+## Majority (JUSTICE CAMPBELL)
+
+JUSTICE CAMPBELL
+delivered the opinion of the court:
+Plaintiff, Irving R. Zimmerman, doing business as Irving Zimmerman Associates, filed suit to foreclose a mechanics’ lien and for unjust enrichment against the defendants, 1660 Condominium Association (the Association), and the board of managers of the 1660 Condominium (the board). The trial court dismissed plaintiff’s suit for failure to name and individually serve each of the owners of the 429 condominium units. On appeal, plaintiff raised the issue whether a party pursuing a mechanics’ lien foreclosure action or an unjust enrichment action involving improvements made to the common elements of a multi-unit condominium may proceed by naming and serving only the condominium board of managers in their representative capacity on behalf of all unit owners. Defendants raise the issue whether plaintiff has waived his right to appeal by filing an amended complaint following dismissal of the complaint at issue.
+Plaintiff, a construction contractor, alleges that he expended labor and materials to improve the common areas of the condominium building at 1660 North LaSalle Drive in Chicago for use as a restaurant and that a balance of $14,000 remains due. Plaintiff performed the improvements pursuant to a contract with the lessees of the common area, Jomeca, Inc., Diane Carr and John Gabor. Jomeca, Carr and Gabor subsequently defaulted on the contract and the lease. Although they are defendants in this action, plaintiff states that he has been unable to serve process on them. Counts II and III of plaintiff’s complaint are directed against these defendants and were not dismissed by the trial court.
+Count I of plaintiff’s complaint alleges that the improvements were performed to the common areas of the condominium with the permission and express authorization of the lessor, the condominium association and/or the board of managers, and seeks to foreclose a mechanics’ lien against all units of the condominium. Count IV seeks to recover against the Association and the board and the defendant lessees for unjust enrichment. The Association and the board filed a motion to dismiss count I of the complaint because neither the board nor the Association are owners of the condominium and they may not be served as representatives of the unit owners. They also filed a motion to dismiss count IV for failure to name the necessary parties.
+On August 16, 1983, the trial court dismissed counts I and IV for failure to specifically name and serve each and every one of the 429 unit owners. On that same day the trial court also granted plaintiff’s motion for leave to file an amended complaint naming each unit owner and for appointment of a special process server to serve the complaint and summons on each owner. The amended complaint was filed on September 16, 1983, and plaintiff has represented that at least 70 owners were served as of December 1983. Plaintiff filed his notice of appeal from the dismissal of the original complaint on September 6,1983.
+Defendant argues that plaintiff has waived his right to appeal by filing an amended complaint under Foxcroft Townhome Owners Association v. Hoffman Rosner Corp. (1983), 96 Ill. 2d 150, 449 N.E.2d 125. Although defendant does not specifically raise the issue, we find that we lack jurisdiction to hear this appeal because no final and ap-pealable order was entered by the trial court.
+Jurisdiction of the appellate court to hear an appeal is confined to reviewing appeals from final judgments unless one of the exceptions for interlocutory orders specified by the Supreme Court Rule is applicable. (Johnson v. Northwestern Memorial Hospital (1979), 74 Ill. App. 3d 695, 393 N.E.2d 792.) The appealability of an order is determined by the substance as opposed to the form of the order and the trial court cannot confer jurisdiction upon the appellate court by stating that there is no just reason for delaying enforcement or appeal. Johnson v. Northwestern Memorial Hospital (1979), 74 Ill. App. 3d 698, 393 N.E.2d 792; Findley v. Posway (1983), 118 Ill. App. 3d 824, 455 N.E.2d 861.
+Generally, an order striking a complaint or granting a motion to dismiss is not appealable unless it shows that a plaintiff will not be allowed to plead over and the litigation between the parties is terminated. (Martin v. Marks (1980), 80 Ill. App. 3d 915, 400 N.E.2d 711.) An order dismissing a case followed by an order allowing the filing of an amended complaint is not a final appealable order. Hassett Storage Warehouse, Inc. v. Board of Election Commissioners (1979), 69 Ill. App. 3d 972, 387 N.E.2d 785.
+In the present case, on the same day the trial court dismissed plaintiff’s original complaint, it granted leave to file an amended complaint. Indeed, litigation pursuant to the amended complaint is proceeding in the trial court despite this appeal and any disposition this court may determine appropriate. Plaintiff has represented that the board and the Association were named and served on behalf of all unit owners and not in their own capacity. Accordingly, the dismissal of plaintiff’s original complaint is not a final order which terminates the litigation between the parties, and plaintiff’s appeal must be dismissed.
+Appeal dismissed.
+BUCKLEY, P.J., and GOLDBERG, J., concur.
