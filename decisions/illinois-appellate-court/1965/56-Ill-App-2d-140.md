@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 10,601"
+decided: "1965-03-11"
+citations: ["56 Ill. App. 2d 140"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["TRAPP and CRAVEN, JJ., concur."]
+parties: ["People of the State of Illinois, Plaintiff-Defendant in Error, v. Curtis Higginbotham and Barrett Ingram, Defendants. Curtis Higginbotham (Impleaded), Defendant-Plaintiff in Error."]
+source_url: "https://static.case.law/ill-app-2d/56/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5285450
+cites_cases: ["107 NE2d 614", "412 Ill 472"]
+---
+
+# People v. Higginbotham
+
+## Majority (SMITH, P. J.)
+
+SMITH, P. J.
+Defendants were jointly indicted, jointly tried, jointly represented, and jointly convicted of robbery, but only Higginbotham appeals. Though he made no motion to such effect, he contends that there should have been a severance, because his defense, vis a vis the other’s, was antagonistic. This happenstance, he says, shackled appointed counsel to such an extent that he was unable to adequately represent him. Separate trials were also in order, lie further argues, because the codefendant had an impeachable criminal record and acted in an unseemly manner during the course of the trial. He refers to various outbursts, as, “I ain’t never seen you, lady,” apropos of one of the victims. We will pass the point raised by the People that the lack of a motion forecloses consideration here, because we have to reach the substantive issue anyway, since a question of fair trial is involved.
+We begin with the general proposition that co-indictees should be tried together. People v. Lindsay, 412 Ill 472, 107 NE2d 614. Most propositions have exceptions and this one is no different. If codefendants do in fact have antagonistic defenses, such as each pointing a self-exonerating finger at the other, they obviously can’t be tried together, if we are to avoid the spectacle of the prosecution sitting back while defendants engage each other in combat. Too, separate trials are sometimes had where one has confessed and implicated the other. A cautionary instruction to give effect to the confession only as to the confessor may serve only to emphasize the very matter the jury is told to forget, as in the story, by Mark Twain, of the boy told to stand in a corner and not think of a white rabbit.
+This latter circumstance is not present, and the only question is whether their respective defenses were antagonistic. The two victims testified that both defendants robbed them. In defense, defendants both denied it, and neither said the other did. The co-defendant stated that he and the victims exchanged the amenities of the day—it happened to be January 1—while Higginbotham testified that he was out of earshot and didn’t know what codefendant was saying or doing. This is certainly not a “He did it, I didn’t” defense, rather a “I didn’t do it, and that’s all I know” defense from Higginbotham’s standpoint, and from codefendant’s, a “I didn’t do it, and he didn’t either” defense. So far as we can see, these defenses dovetail perfectly, or to borrow a musical analogy, the defenses are contrapuntal, not dissonant. We discern no conflict, and it is little wonder that counsel did not move for severance.
+Nor did his failure to make a closing argument indicate anything to the contrary, although to defendant it epitomized the “duality” of his position, in that, “such made it impossible for [him] to set forth in argument to the jury the evidence and inferences favoring Higginbotham without at the same time injuring the case of his other client, Ingram.” As we have already observed, there was no basis for counsel to believe he was being compromised, and we suspect that his waiver came about because he thought it would redound to his clients’ advantage. In doing so, he foreclosed the prosecution from having the last word, which can be a very good thing. The criminal bar calls this “Dropping the Pigeon,” and it is approved procedure, “if the initial closing argument has been a mere parrot-like recital of the evidence that has not harmed [the defense] in any way . . . .” 1953 Ill L For, 380, Richard B. Austin, The Trial of a Criminal Case. In this monograph, Judge Austin points out that prosecutors often “withhold the coup de grace” until closing argument when defense counsel’s “lips are forever silenced,” and suggests that circumstances may give occasion for doing precisely what counsel did here. We have read the opening argument of the People, it is very short and very matter of fact, and we can visualize what counsel must have been thinking about—that the worst was yet to come!
+If one could opt, he would eschew being tried with persons having criminal records or behavior problems. It -would pay to be circumspect iu tbis regard. Be tbat as it may, tbe fact tbat a codefendant is possessed of a criminal record, does not give rise to any exception to the rule of joint trials for joint defendants, nor does every untoward incident during tbe course of a trial of multiple defendants mean tbat proceedings must cease to begin all over again in tandem. If tbis were true, there would be no rule. Tbe bizarre behavior of tbe codefendant, even bis backing down later on, could not have prejudiced Higginbotham.
+Tbe case was a particularly strong one. One of tbe victims bad Higginbotham standing within a few feet of them saying, “Do what tbat fellow tells you, or I will shoot you.” If their version is true, there is no question but tbat defendants jointly robbed them and tbis is precisely tbe view tbe jury must have taken. Their verdict is not against the manifest weight of tbe evidence. Tbe judgment below is affirmed.
+Affirmed.
+TRAPP and CRAVEN, JJ., concur.
