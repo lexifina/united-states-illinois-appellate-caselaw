@@ -1,0 +1,47 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-333"
+decided: "1978-04-20"
+citations: ["59 Ill. App. 3d 963"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ESTATE OF GRACE C. COHAN, Deceased.—(CHARLES C. COHAN, Petitioner-Appellant, v. HELEN ARMIT et al., Respondents-Appellees.)"]
+source_url: "https://static.case.law/ill-app-3d/59/cases/0963-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3359650
+cites_cases: ["153 N.E.2d 115", "18 Ill. App. 2d 612", "199 N.E. 131", "25 N.E.2d 428", "303 Ill. App. 349", "324 N.E.2d 417", "357 N.E.2d 506", "362 Ill. 64", "400 Ill. 113", "60 Ill. 2d 141", "65 Ill. 2d 211", "79 N.E.2d 60", "9 Ill. 2d 556"]
+---
+
+# Cohan v. Armit
+
+## Majority (Mr. JUSTICE DIERINGER)
+
+Mr. JUSTICE DIERINGER
+delivered the opinion of the court:
+This is an appeal of an order issued by the circuit court of Cook County, in a citation proceeding commenced in the Probate Division. The court, sitting without a jury, directed a verdict against Charles C. Cohan (hereinafter called “petitioner”), who sought recovery of certain real and personal property transferred during the life of the decedent, Grace Cohan, to Helen Armit, the decedent’s daughter, and Edward Armit, the decedent’s grandson (hereinafter called “respondents”).
+The issues presented for review are whether the trial court’s finding no fiduciary relationship existed between the decedent and her daughter, Helen Armit, is contrary to the manifest weight of the evidence and whether the court’s finding the transfer of real estate by the decedent to her grandson, Edward Armit, was not induced by fraud, is contrary to the manifest weight of the evidence.
+Grace Cohan died on November 1, 1974, at the age of 101. She left surviving her a son, the petitioner, and Helen Armit, one of the respondents, her daughter.
+Helen Armit lived with the decedent, for all practical purposes, throughout her entire life. She was 69 years of age at the time of the court hearing. Helen’s husband died in 1968. Decedent and she were the only occupants of the decedent’s home at 538 Euclid Avenue, Oak Park, Illinois, from 1968 until her death. The Oak Park property was owned by decedent for more than 40 years prior to its transfer to Helen Armit. The relationship between Helen and the decedent was extremely close. Helen did the decedent’s shopping, laundry, cooked decedent’s meals, made decedent’s bank deposit withdrawals, purchases on decedent’s charge accounts, and wrote checks on decedent’s accounts, on which she was a joint owner. Helen was also a joint owner on two of decedent’s savings accounts: one account at the Suburban Trust in the amount of *9,425.94, and the second account at The First National Bank of Chicago in the amount of *20,965.58.
+In October of 1974, two weeks prior to the decedent’s death, Helen Armit employed William Mason, an attorney, for the purpose of transferring decedent’s home to her. The deed to Helen from the decedent was recorded one day prior to the decedent’s death. Helen Armit made all arrangements for the transfer of the property, which was without monetary consideration.
+Mr. Mason, who also represents the estate, testified he first met Helen Armit a few days before the deed to the Oak Park property was executed. She came to his office and requested the property be transferred to her. Mr. Mason was employed and paid for assisting in the transfer by Helen Armit.
+The petitioner testified he was the son of the decedent and lived about 1/2 miles from decedent’s home for 32 years prior to moving to Florida in 1974. He visited the decedent three to four times per month during the last 10 years of her life. His sister, Helen Armit, lived with the decedent all of her life except for the time she spent in college and two two-year periods after her marriage. Helen was always present when the petitioner visited his mother and communicated for the decedent. Petitioner saw the decedent in August of 1974 for the last time.
+Edward Armit, a respondent, testified the decedent owned the Fox River property since 1912, until the transfer to him in 1968, when she was 95 years of age. Edward initiated conversations with the decedent about its purchase, offering *8,000. After initiating these conversations, he hired a law firm in McHenry, Illinois, who drafted a contract and obtained a preliminary report on title. Edward stated his grandmother lowered the price of the property to *10, which he paid and for which he received a receipt. He further testified the decedent had no independent legal advice at the time of the transfer and he took the decedent to his lawyer’s office for the purpose of effecting the transfer of the property.
+After hearing the petitioner’s case, the court found the presumption of proper transactions, signified by the respective deeds, was not overcome by sufficient evidence of improprieties, and directed a verdict in favor of the respondents and against the petitioner.
+The petitioner claims a fiduciary relationship existed between the decedent and her daughter, and the daughter breached her fiduciary duties. The threshold question, of course, is whether a fiduciary relationship did exist.
+In Krieg v. Felgner (1948), 400 Ill. 113, 120-21, 79 N.E.2d 60, the court, speaking through Mr. Justice Simpson, stated:
+“Where the parent defers to, trusts in and yields to, the child, where there exists between them what in law is termed a fiduciary relation in which the parent is dominated by the child, and where * * ° an instrument conveying to him property of the parent as a gift or upon a grossly inadequate consideration, the presumption arises that the transfer was obtained through his undue influence # * « »
+In Thomas v. Kowalewski (1958), 18 Ill. App. 2d 612, 153 N.E.2d 115 (abstract), Mr. Justice Murphy, speaking for the court, held:
+“The relationship of parent and child did not itself establish a fiduciary relationship between Richard Kowalewski and his parents, Roman and Nellie. Moore v. Moore, 9 Ill. 2d 556, 560. It was the burden of plaintiff to prove a fiduciary relationship in which the dominant party took advantage of the other and abused the relationship, and to make that proof by evidence, clear, convincing, strong, unequivocal and unmistakable * * Thomas, slip op., at 6.
+We hold the presumption of undue influence in dealings between a parent and child does not arise unless there exists between them a domination of the parent by the child with regard to the business or investments of the parent.
+In the instant case, testimony was heard from an attorney (Mr. William Mason, who prepared the deed) who observed the decedent and conversed with her. In addition, documents concerning the transfers of property were admitted into evidence, and were examined and reviewed by the court.
+The trial court found Helen Armit functioned only in a ministerial household capacity, and did not exercise control of the business nor investments of the decedent. The evidence simply failed to establish Helen Armit exercised investment control over the decedent’s property.
+The trial court, therefore, correctly found no fiduciary relationship existed between the decedent and her daughter, Helen, and properly found for the respondent with regard to the petitioner’s allegations of her fiduciary duties, and breach thereof.
+The petitioner also suggests the transfer of realty by the decedent to her grandson, Edward Armit, for consideration of *10 was so inadequate as to constitute prima facia case of fraud and/or undue influence. However, mere inadequacy of price, in the absence of showing a fraud or unconscionable advantage taken ordinarily is insufficient to justify setting aside a contract. Page v. Keeves (1935), 362 Ill. 64, 199 N.E. 131.
+After a thorough review of the record, we find an absence of evidence of fraud or undue influence, as well as an absence of that quantum of evidence necessary to show a fiduciary relationship existed between the decedent and the grandson. The trial court properly found for respondent, Edward Armit, with regard to this issue.
+The petitioner additionally claims the trial court erred in refusing to order Helen Armit to turn over to the estate certain items of personalty, including silverware and candlesticks. A review of the record reveals, however, the silverware and candlesticks, in possession of Helen Armit, were not put in issue at the time of trial, and were first put in issue in petitioner’s motion for a new trial.
+An issue not presented or considered by the trial court cannot be raised on review. (Kravis v. Smith Marine, Inc. (1975), 60 Ill. 2d 141, 324 N.E.2d 417; Hamer v. Kirk (1976), 65 Ill. 2d 211, 357 N.E.2d 506.) The bringing of a fact to the attention of the trial court, even though uncontradicted, on a motion for a new trial does not present it so as to be considered on appeal. In order to save a question for review, the party seeking to raise it must have offered evidence thereon in the trial court. Bellomy v. Bruce (1940), 303 Ill. App. 349, 25 N.E.2d 428.
+Since the silverware and candlesticks were not put in issue by the petitioner at the time of trial, such issue is not properly before us and will not be considered.
+For the foregoing reasons the judgment of the circuit court of Cook County is hereby affirmed.
+Affirmed.
+JOHNSON, P. J., and ROMITI, J., concur.
