@@ -1,0 +1,22 @@
+---
+court: "Illinois Appellate Court"
+decided: "1900-12-18"
+citations: ["92 Ill. App. 523"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bernard L. Lee v. Earl P. Bodley, for use, etc., Mary E. Miller et al."]
+source_url: "https://static.case.law/ill-app/92/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5284944
+cites_cases: ["181 Ill. 582", "89 Ill. App. 217"]
+---
+
+# Lee v. Bodley
+
+## Majority (Mr. Justice Freeman)
+
+Mr. Justice Freeman
+delivered the opinion of the court.
+The only question requiring consideration in this case is whether the Circuit Court had jurisdiction to enter the judgment complained of. One Mary E. Miller brought an attachment suit against Earl P. Bodley before a justice of the peace and caused the writ to be served upon plaintiff in error as garnishee. Summons was also served upon said Bodley. Judgment was duly rendered by the justice in favor of the attaching creditor, and on the same day plaintiff in error, as garnishee, answered, denying that he was indebted to said judgment debtor, Earl P. Bodley. The answer being contested, the controversy with the garnishee was continued to a subsequent date, when the latter filed an amended answer, stating that he had $225 in his hands, which was claimed by defendant in error Eva B. Wi]ce, and also by one Lillian Bodley. At a later period, and after the expiration of the statutory time for an appeal by said Earl P. Bodley from the judgment against him, a judgment was rendered by the justice against the garnishee and in favor of the attaching creditor, Miller, for $200, and the claims of defendant in error Wilce and of Lillian Bodley, intervening claimants, were disallowed. The garnishee, now plaintiff in error here, appealed to the Circuit Court. Mo appeal was taken from the judgment of the justice by or in behalf of the attachment debtor, Earl P.-Bodley. Mo summons to him was issued nor was his appearance entered in the Circuit Court. That court entered judgment against the garnishee and in favor of the intervening • claimant, Wilce.
+We are of the opinion that the Circuit Court had no jurisdiction to enter the judgment, it appearing that the judgment debtor, Earl P. Bodley, was not in any way made a party to the proceeding. Bodley was a necessary party and should have been brought into the Circuit Court in the manner provided by statute. Scheldt v. Goldsmith, 89 Ill. App. 217 (219) and cases there cited. (R. S., Chap. 79, Sec. 178.) The case was entitled in the Circuit Court, “ Earl P. Bodley, for the use of Mary E. Miller, v. Bernard L. Lee,” and defendant in error Wilce and Lillian Bodley appeared there as interpleaders. But Earl P. Bodley was something more than a nominal plaintiff in the case. He was an interested party. The answer of the garnishee disclosed $225 in the latter’s hands in which presumably the said Earl P. Bodley had or claimed to have an interest. By the judgment against the garnishee as rendered by the justice in favor of Miller, the attaching creditor, the fund in the garnishee’s hands would have been applied to Bodley’s use in payment of the judgment against him, and if so applied, he would have no cause to complain, and no reason, perhaps, and no desire to prosecute an appeal. But by the judgment of the Circuit Court the fund in controversy'is taken ayvay from Bodley, and from his judgment creditor, and given to Wilce, a third party, yvithout that court acquiring jurisdiction over Bodley or giving him any chance to assert his claim. A judgment is in effect rendered against Bodley in his own name in a case to yvhich he is not made a party as the statute requires, and by a court yvhich has not obtained jurisdiction over him in any yvay. The garnishment proceeding was not a separate suit. The statute provides (R. S., Chap. 62, Sec. 10), “Mo final judgment shall be entered against a garnishee in any attachment proceeding until the plaintiff shall have recovered a judgment. against the defendant in such attachment.” The Circuit Court, like the justice, must acquire jurisdiction and enter judgment against the defendant in an attachment proceeding, before it can render final judgment against the garnishee. Iroquois Furnace Co. v. Wilkin Mfg., Co., 181 Ill. 582 (590). The proceeding upon appeal is de novo, and the Circuit Court can not do in that respect yvbat the justice could not. The judgment is reversed and the cause remanded.
