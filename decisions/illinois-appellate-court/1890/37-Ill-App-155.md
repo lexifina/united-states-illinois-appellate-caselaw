@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1890-06-30"
-citations: ["37 Ill. App. 155", "37 Ill. App. 153"]
+citations: ["37 Ill. App. 155"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Joseph Swetitsch v. Frederick Waskow and Caroline Waskow."]
 source_url: "https://static.case.law/ill-app/37/cases/0155-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 859962
-cites_cases: ["22 N. E. Rep. 511"]
 ---
 
 # Swetitsch v. Waskow
