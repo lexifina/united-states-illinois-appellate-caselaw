@@ -1,0 +1,36 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 66-114M"
+decided: "1967-03-29"
+citations: ["81 Ill. App. 2d 349"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVIS, P. J. and ABRAHAMSON, J., concur."]
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Rolan Norsworthy, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/81/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2541725
+cites_cases: ["11 Ill2d 420", "143 NE2d 28", "15 Ill2d 76", "153 NE2d 820", "366 Ill 39", "404 Ill 174", "7 NE2d 757", "88 NE2d 465"]
+---
+
+# People v. Norsworthy
+
+## Majority (MR. JUSTICE MORAN)
+
+MR. JUSTICE MORAN
+delivered the opinion of the court.
+Rolan Norsworthy, defendant, was charged with violating the provisions of section 121.02 of the Uniform Act Regulating Traffic on Highways (111 Rev Stats 1965, c 9514, § 218b) commonly referred to as the U.A.R.T. Trial, without a jury, was held in the Magistrate Division of the Circuit Court of Winnebago County. The defendant was found guilty and fined Ten Dollars plus Ten Dollars costs. It is from this judgment that the defendant appeals.
+There is no conflict in the evidence. The defendant, an employee truck driver of Charles Ind Company, while driving a six-wheel dump truck upon a State highway outside the corporate limits of the city of Rockford was arrested and charged with the offense in question. The vehicle, of the second division, had dual rear wheels and was used for hauling gravel. Attached to the truck were flap type splash guards; however, at the time of the arrest, the guards were “rolled up,” chained to the underside of the truck, and were not in a vertical position. The lowest portion of each guard was approximately four feet from the ground. At the time of the arrest the weather was clear, the pavement dry and there was no mud or water upon the highway.
+The pertinent parts of the statute involved are as follows:
+“It is unlawful for any person to operate any motor vehicle of the second division, except a truck tractor, to which this Section is applicable upon the highways of this State outside the corporate limits of a city, village or incorporated town unless such vehicle is equipped with rear fender splash guards of either the contour type or the flap type which comply with the specifications provided in this Section for the type of splash guards used on the vehicle, and which are so attached as to prevent the splashing of mud or water upon the windshield of other motor vehicles. (Emphasis added.)
+“When flap type splash guards are used, they shall be wide enough to cover the full tread width of the tire or tires being protected; shall be so installed that they extend from the underside of the vehicle in a vertical plane behind the rear wheels to within 12 inches of the ground, when the vehicle is loaded to maximum legal capacity; shall be so constructed and attached so that when the vehicle is in forward motion such splash guard will not deviate or move backward from the vertical plane by an angle of more than 30 degrees measured from the vertical plane and so that when the forward motion of the vehicle causes such splash guard to deviate from the vertical plane, the bottom of such flap type splash guard will not be more than 15 inches from the ground, when the vehicle is loaded to maximum legal capacity. Such flap type splash guard may be constructed of either a rigid or flexible material.” (Emphasis added.)
+The defendant argues that the legislative intent is clear and unambiguous and, therefore, this court need not resort to any aids of construction to properly interpret its provisions. He contends that a correct interpretation of the sections of the statute cited requires only that the vehicle be “equipped” with guards in readiness for inclement weather and that the guards themselves conform to size and construction in compliance with the statutory specifications.
+We agree with the defendant that the provisions of the statute in question are clear. It provides the “who,” “why,” and “how,” but it is silent as to the “when” unless interpreted as a whole and not by individual paragraphs. The “who” is all motor vehicles of the second division, except a truck tractor; the “why” is to prevent the splashing of mud or water upon the windshield of other motor vehicles, and the “how” is the italicized portion of paragraph (b) as quoted above.
+The crux of the problem resolves itself down to the “when.” The defendant interprets the “when” to mean only during inclement weather while the surface of the specified highway contains mud or water. The plaintiff, on the other hand, interprets the “when” to be at all times regardless of the condition of the specified highway. We agree with the plaintiff.
+Paragraph (b) of section 218b of the U.A.R.T., supra, states in detail as to “how” the splash guards are to be installed, and in so doing it answers the “when.” First, they are to be in a vertical plane behind the rear wheels. Second, they are to be within 12 inches of the ground when the vehicle is at a standstill and loaded to a maximum legal capacity or to be within 15 inches of the ground when the vehicle is in forward motion and loaded to a maximum legal capacity. Nowhere does the statute intimate that the specifications are to be complied with only “when” there is mud or water upon the highway. If the legislature had so intended, appropriate language to accomplish that purpose undoubtedly would have been incorporated in the statute. American Steel Foundries v. Gordon, 404 Ill 174, 188, 88 NE2d 465 (1949), Schoellkopf v. DeVry, 366 Ill 39, 49, 7 NE2d 757 (1937). The evidence in the case at bar shows that the guards were not in a vertical plane and were approximately four feet from the ground.
+The defendant has cited the cases of The People v. Warren, 11 Ill2d 420, 426, 143 NE2d 28 (1957) and Rudolph Exp. Co. v. Bibb, 15 Ill2d 76, 80, 153 NE2d 820 (1958), for the proposition that the intent of the legislature in enacting the section under consideration was to prevent the splashing of mud or water upon windshields of motor vehicles; therefore, since the evidence discloses that there was no mud or water upon the highway at the time of the arrest, there can be no violation of the statute. Again, we must disagree with defendant’s premise that under the circumstances, there could be no violation of the statute.
+We admit the purpose of the statute or the “why” of the statute is to prevent the splashing of mud or water as aforesaid; however, the Supreme Court in the Warren case and the Bibb case passed upon the validity of the statute and an amendment thereto, respectively. Our Supreme Court has not been requested to pass on the question before this court, namely, may splash guards be “rolled up” and chained to the underside of a vehicle of the second division and still comply with all of section 218b of the U.A.R.T., supra ?
+We are of the opinion that such question must be answered in the negative. Therefore, the judgment of the trial court must be affirmed.
+Judgment affirmed.
+DAVIS, P. J. and ABRAHAMSON, J., concur.
