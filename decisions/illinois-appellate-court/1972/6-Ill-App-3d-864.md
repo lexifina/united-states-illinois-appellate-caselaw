@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "55237"
+decided: "1972-07-25"
+citations: ["6 Ill. App. 3d 864"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frances S. Riley, Plaintiff-Appellant, v. Unknown Owners of 304 North Oak Park Avenue Building, Oak Park, Illinois, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/6/cases/0864-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2466741
+cites_cases: ["103 Ill.App.2d 449", "129 Ill.App.2d 146", "27 Ill.2d 609", "412 Ill. 285", "53 Ill.App.2d 364", "76 Ill.App.2d 334", "87 Ill.App.2d 452", "94 Ill.App.2d 394"]
+---
+
+# Riley v. Unknown Owners
+
+## Majority (Mr. JUSTICE SCHWARTZ)
+
+Mr. JUSTICE SCHWARTZ
+delivered the opinion of the court:
+Plaintiff brought this action to recover damages for personal injuries alleged to have been sustained in a fall down the stairs in the building in which she lived. Prior to trial the court, pursuant to defendants’ motion, dismissed plaintiff’s action for failure to answer supplemental interrogatories. Plaintiff then instituted a section 72 proceeding to set aside the dismissal. The court found against plaintiff who now appeals. She contends that the answers to the supplemental interrogatories had been filed one day prior to the entry of the order dismissing plaintiff’s' complaint. The facts follow.
+On March 1, 1967, plaintiff filed suit, as before stated. The complaint alleged negligence by the owner, the manager, and the janitor of the building. The janitor and the owner filed answers. There is no record of any answer being filed by the manager of the building. Plaintiff filed three amended complaints, all seeking to raise the ad damnum from $10,000 to $25,000 or $35,000, but all were stricken by the court. Plaintiff, however, had answered defendants’ first set of interrogatories and her deposition had been taken by defendants.
+On October 30, 1968, plaintiff’s attorneys were granted leave to withdraw, and on the following day defendants filed and personally served plaintiff supplemental interrogatories. On April 11, 1969, defendants obtained an order granting the plaintiff six days to file answers to these interrogatories, and on that same day Clarence Dunnigan entered his appearance as attorney for plaintiff.
+On April 23, 1969, plaintiff filed answers to the supplemental interrogatories in ihe Clerks’ Office of the First Municipal District of the Circuit Court of Cook County [downtown Chicago]. The following day, on defendants’ motion, with no representative of plaintiff being present, the court dismissed plaintiff’s complaint for failure to answer the supplemental interrogatories.
+Plaintiff’s present attorney, William Riley, instituted a section 72 proceeding on April 21, 1970, asking the court to vacate the dismissal order entered on April 24, 1969. The motion was based on the fact that plaintiff had filed the answers to the supplemental interrogatories the day before the order was entered dismissing the complaint for failure to answer. On May 8, 1970, the court denied the section 72 motion, and plaintiff brings this appeal. We proceed to a consideration of plaintiff’s contention that the trial court abused its discretion in denying plaintiff’s motion to vacate the dismissal order.
+Default, as provided for in subsections (v) and (vi) of Supreme Court Rule 219(c), should be entered only as a last resort when necessary to enforce a just demand, and it should be set aside when it will not cause a hardship upon the parties to go to trial on the merits. Gillespie v. Norfolk & Western Ry. Co., 103 Ill.App.2d 449; Libert v. Turzynski, 129 Ill.App.2d 146.
+Section 72 provides for relief from final orders, judgments and decrees which have been entered more than 30 days prior to the institution of the section 72 proceeding. The proceeding, however, must be brought within two years after the entry of the final order. It is addressed to the equitable powers of the court when the exercise of such power is necessary to prevent injustice. (Ellman v. DeRuiter, 412 Ill. 285; Elfman v. Evanston Bus Co., 27 Ill.2d 609.) Courts are not strictly bound by precedent in affording post judgment relief. Whether or not the litigants are entitled to relief under section 72 depends on all the circumstances attendant on the entry of the default judgment. Many different factual situations would justify or necessitate the vacation of a decree or a portion thereof. Park Ave. Lumber v. Nils A. Hofverberg, Inc., 76 Ill.App.2d 334.
+In the instant case the facts justify the vacation of the dismissal order. The complaint was dismissed for failure to answer supplemental interrogatories, but the answers were in fact filed the day before the order was entered, so there was no reason for dismissing plaintiff’s complaint. It must also be pointed out that the plaintiff had answered one set of interrogatories and her deposition was taken by defendants. Hence, defendant had proceeded quite far with discovery. The dismissal of a complaint is the harshest sanction available to a trial court for failure to comply with court rules. The infraction here was not of such magnitude as to warrant that imposition. When the court was advised that plaintiff had filed the answers to the supplemental interrogatories before the dismissal order was entered the court should have vacated the prior dismissal order, and the failure to do so was an abuse of the trial court’s discretion.
+Defendants assert that plaintiff did not exercise due diligence in presenting her petition to vacate the dismissal order. Two cases are cited: Panion v. Checker Taxi Co., 53 Ill.App.2d 364, and Mehlenbacker v. Elgin, Joliet & Eastern R.R. Co., 87 Ill.App.2d 452. These cases refer to the lack of diligence of a party in instituting a proceeding under section 72. The better application of the diligence rule is that the party bringing the proceeding must show diligence in defending or presenting the action before the default is entered, and that under the circumstances he acted reasonably, not negligently, when he failed to initially resist the judgment, default or dismissal order. (Johnson-Olson Floor Coverings v. Branthaver, 94 Ill.App.2d 394.) In the instant case the plaintiff, as before stated, had filed her answers to the supplemental interrogatories, and these were before the court at the time the case was dismissed.
+The judgment will be reversed and the cause remanded, to be placed upon the calendar at such time as the court shall determine.
+Reversed and remanded.
+STAMOS, P. J., and LEIGHTON, J., concur.
