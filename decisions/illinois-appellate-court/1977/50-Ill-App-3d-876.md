@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-181"
+decided: "1977-07-22"
+citations: ["50 Ill. App. 3d 876"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. EDDIE DOYLE, JR., Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/50/cases/0876-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5642523
+cites_cases: ["14 Ill. 2d 95", "150 N.E.2d 815", "20 L. Ed. 2d 1368", "208 N.E.2d 595", "211 N.E.2d 673", "229 N.E.2d 527", "25 Ill. App. 3d 900", "291 N.E.2d 161", "324 N.E.2d 1", "33 Ill. 2d 417", "37 Ill. 2d 553", "37 L. Ed. 2d 1004", "392 U.S. 910", "412 U.S. 951", "53 Ill. 2d 261", "60 Ill. App. 2d 339", "88 S. Ct. 2067", "93 S. Ct. 3017"]
+---
+
+# People v. Doyle
+
+## Majority (Mr. JUSTICE NASH)
+
+Mr. JUSTICE NASH
+delivered the opinion of the court:
+Defendant was charged with two counts of attempted murder and one count of aggravated battery. After a trial by jury he was convicted of one count of attempted murder and sentenced to 10 to 20 years imprisonment. His only contention on appeal is that the sentence imposed was excessive.
+The factual background of the charges against defendant is as follows: On October 12,1975, Officer Tench of the Waukegan Police Department answered a call concerning a family disturbance at defendant’s address. He was waiting down the street for a backup unit when a small boy told him there had been shots fired in the area of defendant’s residence. Tench proceeded without a backup and exited his squad car in front of the house with his shotgun. He observed a woman, defendant’s common-law wife, Ethel Flowers, and a child at the bottom of the steps leading to the front door of the residence. Defendant came down the steps and as Tench waUced around the squad car he was unable to see a gun in defendant’s right hand which he held at his side. Tench asked defendant several times to bring out his right hand; defendant said he was getting his waHet. Tench did not have a sheU in the chamber of his shotgun and it was pointed at the ground at all times. Defendant was in a direct line between Tench and Mrs. Flowers. Defendant stepped within the radius of the shotgun and as he did so he brought the gun in his right hand up towards Tench’s head. Tench grabbed the handgun with his left hand and defendant grabbed the shotgun with his left hand. Tench testified that he heard a click, later identified as the hammer hitting the firing pin, from the handgun four times while it was pointed directly at the back and side of his head as they struggled at close quarters for about 30 seconds. The gun did not fire. Sgt. Joiner arrived, observed defendant from 10 to 12 feet away squeezing the trigger of the handgun. Sgt. Joiner ordered defendant to drop the gun or he would shoot; he testified that defendant looked up, pointed the handgun at him and twice squeezed the trigger. Again the gun did not fire. Joiner tackled both men and defendant was subdued and handcuffed. Two spent sheUs and one live round were found in defendant’s handgun. Indentations were found on the shells, identified as firing pin impressions by a ballistics expert who also testified that the powder in the live shell was sticky aparently from water absorption but that the gun had no mechanical defects.
+Defendant’s witnesses, including his common-law wife and several friends, testified that he was extremely intoxicated at the time of the incident, having worked a 16-hour shift and drunk approximately two quarts of liquor. Mrs. Flowers testified they had had an argument in the home prior to the arrival of the police and the gun had gone off while they struggled for its control.
+A newspaper reporter who heard the police radio transmission and was parked in a lot across the street from defendant’s residence was caUed to testify by defendant and stated that defendant stumbled down the steps and was apparently drunk. He testified that Tench could not have seen the gun from his angle until it was pulled out and that defendant had the gun within 12 to 15 inches of Tench’s head. He stated defendant and Tench were already struggling on the ground when Sgt. Joiner arrived.
+Defendant testified in his own behalf that he remembered nothing whatsoever after leaving a laundromat parking lot at which he had been drinking with friends; his first recollection was waking up in jail the next day.
+In rebuttal the booking officer testified that defendant did not appear to be too intoxicated and was able to furnish all the necessary information for booking. Another officer who saw defendant at booking stated he appeared to be cognizant of his environment. A statement was taken the next day from defendant in which he said he would have shot the policeman if he had had to. Defendant denied making the statement and said he never read it when he signed it.
+Defendant’s only criminal record was an assault conviction in 1974 against Mrs. Flowers for which he was fined *15.
+The trial court in sentencing must take into consideration both the nature and circumstances of the offense and the history and character of the defendant. While the reviewing court does have authority to reduce a sentence,
+“ ° ° 0 such authority should be applied with considerable caution and circumspection, for the trial judge ordinarily has a superior opportunity in the course of the trial and the hearing in aggravation and mitigation to make a sound determination concerning the punishment to be imposed than do the appellate tribunals.” (People v. Taylor (1965), 33 Ill. 2d 417, 424, 211 N.E.2d 673, 677.)
+Where defendant contends that the sentence imposed is excessive, it should not be disturbed unless it clearly constitutes a great departure from the spirit and purpose of the law. People v. Smith (1958), 14 Ill. 2d 95, 97, 150 N.E.2d 815, 817.
+Defendant has cited cases in which sentences have been reduced, but the imposition of sentence is a matter of judicial discretion and should not be altered by a reviewing court absent a clear showing of an abuse of that discretion. (People v. Burbank (1972), 53 Ill. 2d 261, 275, 291 N.E.2d 161, 169, cert. denied (1973), 412 U.S. 951, 37 L. Ed. 2d 1004, 93 S. Ct. 3017; People v. Bonner (1967), 37 Ill. 2d 553, 563, 229 N.E.2d 527, 533, cert. denied (1968), 392 U.S. 910, 20 L. Ed. 2d 1368, 88 S. Ct. 2067.) This court will not alter a sentence even though we might have imposed a different one had we been in the position of the trial court absent a showing of such abuse. People v. Thurston (1975), 25 Ill. App. 3d 900, 906, 324 N.E.2d 1, 6; People v. Valentine (1965), 60 Ill. App. 2d 339, 356, 208 N.E.2d 595, 604.
+Considering the seriousness of the attempted murder of a police officer under these circumstances and the careful analysis of the evidence made by the trial court, we find no abuse of discretion in sentencing and affirm the judgment of the circuit court of Lake County.
+Judgment affirmed.
+RECHENMACHER, P. J., and ROYLE, J., concur.
