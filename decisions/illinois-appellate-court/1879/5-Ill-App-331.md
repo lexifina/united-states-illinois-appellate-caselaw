@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+decided: "1879-12-19"
+citations: ["5 Ill. App. 331"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William A. Rowe v. Harriet Rowe."]
+source_url: "https://static.case.law/ill-app/5/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4766070
+cites_cases: ["1 Gilm. 92", "1 Gilm. 99", "1 Scam. 569", "13 Ill. 610", "13 Wend. 71", "14 Vt. 311", "19 Ill. 349", "19 Ill. 351", "25 Me. 350", "27 Ill. 163", "27 Ill. 410", "31 Barb. 230", "4 Pick. 114", "41 Ill. 102", "44 Ill. 253", "44 Ill. 385", "5 N. H. 99", "50 Ill. 179", "56 Ill. 209", "57 Ill. 389", "63 Ill. 308", "69 Ill. 492", "75 Ill. 381", "76 Ill. 204", "79 Ill. 555", "8 Barb. 414", "80 Ill. 51", "80 Ill. 604", "86 Ill. 387", "86 Ill. 62", "87 Ill. 547"]
+---
+
+# Rowe v. Rowe
+
+## Majority (Pleasants, J.)
+
+Pleasants, J.
+The controlling facts in this case are uncontroverted.
+Appellee by her quit-claim deed of Oct. 1, 1873, expressed to be in consideration of ten dollars, conveyed to appellant all her interest in certain real estate therein described, to have and to hold the same “ upon trust to' receive 'the rents, issues and' profits of said premises, and on the first day of June, A. D. 1874, and each and every year thereafter during the term of. her natural life, to pay over to her, the said grantor, out of said rents, issues and profits,-the sum. of $112.50; and after her death to have and to hold the said premises unto himself, his heirs and assigns forever.”
+At the time of this conveyance he and his family were occupying the premises, and appellee,,his widowed mother, who had acquired her interest by devise from her husband, lived with them.
+On the 13th day of the same month the parties entered into an agreement under seal, of which the material provisions are as follows: “The said William A. Rowe is to provide his mother, the said Harriet Rowe, a home with him during the rest of her life, she paying him therefor the sum of $112.50 a year. * * * * This $112.50 is to be paid by giving said William A. Rowe each year a receipt for the $112.50, coming by trust in deed of date October 1st, 1873, from him to her.”
+In pursuance of this agreement she made her home with him until late in the fall of 1876, when she left in consequence of alleged ill-treatment by him and his wife. •
+In May, 1878, she brought her suit at law against him in the" Circuit Court for Marshall county for the annuity as accrued under the deed, including that which was due June 1,1877; and in September following filed her bill in equity, setting up the trust declared in said deed, alleging the failure on his part to make the annual payments for the years 1874 to 1878 inclusive, the pendency of. the action at law for the payments due for the years 1874 to 1877 inclusive, and that no action had been brought for the payment due June 1,1878, and praying that a new trustee be appointed, that an account be taken, and that the amount found due thereon be declared a lien in the nature of a mortgage upon the premises, and that the interest of the defendant therein be sold to satisfy the same.
+At the October term, 1878, of said court, she recovered judgment in the action at law upon a verdict for $62.78, being for the balance of the annuity accrued between the time of her leaving the defendant’s family and the first day of June, 1877, and at the same term, upon her bill, a decree was entered which provided that he pay the sum of $116.11, being the annuity due June 1, 1878, with interest; andón the first day of June, 1879, the further sum. of $112.50, and a like sum every year thereafter during her natural life, and for execution therefor as upon a judgment at law, and, upon a return of nulla Iona, for re-docketing the case and an order to to sell the premises.
+Then followed this suit, which is assumpsit to recover damages for the breach of the contract of October 13,1873 to provide her ahorne, in which at the January term, 1879, she recovered judgment upon a verdict for $1,054.40 damages, and for costs.
+Upon this record appellant assigns for error divers rulings of the Circuit Court, upon demurrers to pleas, in admitting evidence, and in giving and refusing instructions, which we deem it unnecessary to notice, since in our view the questions involved in them cannot again arise.
+"We are of opinion that under the general issue, upon the facts admitted, any verdict whatever for the plaintiff ought to have been set aside, for the reason that she had herself rescinded the contract sued on and all right of action upon it was gone.
+By accepting her deed appellant agreed to pay her for the interest conveyed the annuity therein mentioned; but by the subsequent agreement she appropriated that annuity in payment to him for the home he thereby agreed to furnish her, and so released him from the obligation to pay it to her as provided by the deed. In other words, his provision of the home was made a substitute for the payment of the annuity. Hence, in no event could she be entitled to both. If he refused or failed to perform the agreement she would have her right of action upon it to recover, as damages for the breach, the value of such a provision as it demanded, or she could treat it as rescinded and recover the consideration. She elected to sue him, not for damages for non-performance of his promise, but specifically for the annuity which he had retained as the consideration for it. Her right to recover this would be clearly incompatible with his under the agreement to provide her a home in lieu, of it, and could arise only upon the cancellation of that agreement. The assertion of that right, therefore, was in avoidance of the agreement and an election to rescind it. Jennings v. Gage, 13 Ill. 610.
+The bringing of a suit to recover the consideration, after a breach of the contract, is equivalent to an express disaffirmance of it. Herrington v. Hubbard, 1 Scam. 569; Bannister v. Read, 1 Gilm. 99; Smith v. Smith, 19 Ill. 351; Huey v. Grinnell, 50 Id. 179.
+' By the judgment in the first suit appellee has recovered the annuity then accrued, except so far as she had previously received its equivalent; and by the decree she has been fully reinstated in her right to it hereafter, under the deed, with additional security and means for its collection. If this judgment is allowed to stand she will recover also in damages the equivalent of that for which she was to relinquish it. The Circuit Court erred in overruling the motion to set the verdict aside. The judgment is therefore reversed and the cause remanded.
+Beversed and remanded.
