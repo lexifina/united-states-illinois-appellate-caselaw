@@ -1,0 +1,31 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 51,554"
+decided: "1968-06-13"
+citations: ["97 Ill. App. 2d 334"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. George James, Jr. Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/97/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2476977
+cites_cases: ["189 NE2d 270", "193 NE2d 449", "203 NE2d 875", "222 NE2d 110", "224 NE2d 849", "27 Ill2d 320", "29 Ill2d 82", "32 Ill2d 76", "37 Ill2d 117", "77 Ill App2d 46"]
+---
+
+# People v. James
+
+## Majority (MR. JUSTICE SCHWARTZ)
+
+MR. JUSTICE SCHWARTZ
+delivered the opinion of the court.
+George James, Jr., the defendant, and Sidell Corley were indicted on the charge of armed robbery. Prior to the trial the defendant James made a motion to suppress a written confession which he had signed. The court held a hearing on that issue, found that the confession was made voluntarily, and denied the motion. The confession was offered in evidence at the trial and was admitted over the defendant’s objection. Defendant was found guilty by a jury and sentenced to serve a term of 15 to 30 years in the State Penitentiary. On appeal he rests his case entirely on the charge of error in the admission in evidence of the confession. The facts follow.
+On April 8, 1964, a man brandishing a sawed-off shotgun robbed a grocery store at 10634 South Halsted Street, Chicago, Illinois, of approximately $300. On April 18, 1964, a police officer went to the defendant’s apartment and arrested Sidell Corley. The investigating officer found a loaded sawed-off shotgun in the apartment. Corley implicated the defendant in the robbery and the next day the defendant was arrested in his apartment and taken to the police station. At a police lineup he was identified as the robber by the owner of the grocery store and by a customer who was in the store at the time of the robbery. At 9:00 p. m. that day Herbert Portzen, a federal criminal investigator for the Treasury Department, was called into the case because defendant’s possession of a sawed-off shotgun may have violated the National Firearms Act, 74 Stat 149 (1960), 26 USC, §§ 5801-5862. Portzen obtained a signed statement in which the defendant confessed to purchasing the shotgun and using it in the commission of the robbery for which he and Corley were indicted. Corley signed a statement similar to the one signed by the defendant.
+At the hearing on the validity of the confession, Portzen testified that he questioned Corley for about an hour and a half and obtained his confession. Then at about 1:00 a. m., he began to question the defendant. He told defendant of his right to remain silent, warned him that any statement he gave might be used against him and asked if he had an attorney. Defendant stated that he did not have an attorney and that he would be willing to take an oath that he would tell the truth. Portzen then administered an oath to the defendant and began questioning him, writing defendant’s answers in narrative style. When he finished, he handed the statement to the defendant for his approval and he has stated that it appeared to him the defendant was reading it. Portzen read the entire statement to the defendant and then read it to him a second time, page by page, so that defendant could make changes. Defendant made one change and asked Portzen to make an addition to the statement, which was done. Defendant signed each page, initialled the change and signed his name and “Chicago, Illinois” at the end of the statement. On cross-examination Portzen testified that he usually asked suspects whether they could read and write English, but that in this case he had forgotten to do so.
+Defendant’s testimony at the hearing contradicted most of Portzen’s testimony. He admitted signing the statement but claimed he did not know it was a confession. He testified that he could not read, that Portzen had not administered an oath to him and had not read the statement to him and that Portzen had told him the statement he was signing was an admission that he knew Corley had used his automobile in a robbery. He stated that Portzen told him he could lose his car because it had been used in the robbery.
+Defendant contends that the motion to suppress his confession should have been sustained because he never knowingly confessed to participation in the robbery. He alleges that he signed a prewritten statement which was in fact Corley’s statement and not his own, and that he did so because Portzen had threatened that if he did not, he would lose his car. Defendant argues that this contention is supported by the fact that his statement and Corley’s were similar. He also argues that Portzen’s credibility is rendered questionable by his admission that he forgot to ask the defendant whether he could read or write the English language.
+The trial court heard extensive testimony at the hearing and after listening to arguments of counsel, denied the motion to suppress the confession. The decision of the trial court on the admissibility of the confession will not be disturbed unless manifestly against the weight of the evidence or unless the court has committed an abuse of its discretion. People v. Ackerson, 37 Ill2d 117, 224 NE2d 849; People v. Spencer, 27 Ill2d 320, 189 NE2d 270; People v. Lego, 32 Ill2d 76, 203 NE2d 875; People v. Wilson, 29 Ill2d 82, 193 NE2d 449. A reviewing court will not substitute its opinion for the opinion of the trial court on such issues unless the proof is so unsatisfactory as to justify a reasonable doubt. People v. Bernard, 77 Ill App2d 46, 222 NE2d 110.
+In the instant case there was ample evidence to show that the defendant’s confession was made knowingly and voluntarily. The testimony of the federal investigator was credible and that credibility was not shaken by his admission that he forgot to ask the defendant whether he was literate. Neither do we find it incredible that the defendant would give a statement similar to the one his accomplice had given.
+The trial court properly ruled on the admissibility of the confession.
+Judgment affirmed.
+DEMPSEY, P. J. and SULLIVAN, J., concur.
