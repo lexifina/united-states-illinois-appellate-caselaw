@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-10"
+decided: "1977-01-14"
+citations: ["45 Ill. App. 3d 181"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOIS BUZAN, Plaintiff-Appellant, v. HERBERT BUZAN, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/45/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2895454
+cites_cases: ["132 Ill. App. 2d 284", "133 Ill. App. 2d 8", "222 N.E.2d 540", "268 N.E.2d 218", "270 N.E.2d 160", "282 N.E.2d 451", "302 N.E.2d 293", "32 Ill. App. 3d 475", "335 N.E.2d 518", "34 Ill. App. 3d 792", "340 N.E.2d 304", "392 Ill. 387", "4 Ill. App. 3d 905", "55 Ill. 2d 221", "64 N.E.2d 734", "77 Ill. App. 2d 448"]
+---
+
+# Buzan v. Buzan
+
+## Majority (Mr. JUSTICE JONES)
+
+Mr. JUSTICE JONES
+delivered the opinion of the court:
+The plaintiff, Lois Buzan filed a suit for separate maintenance on grounds of desertion and the defendant, Herbert Buzan, counterclaimed for divorce on grounds of physical and mental cruelty. The plaintiff did not file any responsive pleadings to defendant’s counterclaim. After a bench trial at which both parties presented evidence the court prepared a decree which denied the wife separate maintenance and granted a divorce to the husband on grounds of mental cruelty. The decree found that the parties separated as a result of the fault of both and denied a decree of separate maintenance to the wife. The decree further recited that each party had been guilty of extreme and repeated mental cruelty toward the other but since the issue of the fault or improper conduct of the husband had not been “raised by the pleadings,” as required by section 8a of the Divorce Act (Ill. Rev. Stat. 1975, ch. 40, par. 9a), there was no proper basis on which to refuse a divorce to the husband. The wife appeals from this decree.
+The wife argues that the doctrine of recrimination bars the granting of a decree of divorce to the husband and that the issue of the counterplaintiff husband’s fault was raised in a manner sufficient to fulfill the requirements of section 8a of the Divorce Act by the averments of her original complaint for separate maintenance. She cites as authority for this proposition the recent decision of Griner v. Griner, (2nd Dist.), 34 Ill. App. 3d 792, 340 N.E.2d 304. In Griner, as here, the wife filed suit for separate maintenance and the husband counterclaimed for divorce. The wife filed an answer to the counterclaim but did not specifically plead recrimination as required by section 8a of the Divorce Act. The wife was granted separate maintenance on her complaint but the husband was denied a divorce on his counterclaim. The wife was found to have proved the allegations of her complaint but the husband had failed to prove the allegations of his counterclaim, namely, that he was a “good, affectionate and kind husband.” The court in Griner held, and properly so, that the wife’s answer to the husband’s counterclaim was sufficient to place his conduct in issue in determining whether he was entitled to the relief he sought. Thus, recrimination really did not enter the case. See Mogged v. Mogged, 55 Ill. 2d 221, 302 N.E.2d 293, for a discussion of the history and present status of the doctrine of recrimination.
+It is well settled that the fault or conduct of a spouse must be raised by the pleadings if such fault or conduct is to be relied upon as a bar to the granting of a divorce. (La Roche v. La Roche, 32 Ill. App. 3d 475, 477, 335 N.E.2d 518, 519.) The question presented by this case is whether the allegations of a complaint for separate maintenance may serve to raise the issue of fault when no responsive pleadings are filed in answer to a counterclaim for divorce. We will not say that the issue of fault may never be raised in this fashion. However, the allegations of the complaint for separate maintenance in the instant case are far too general to fulfill the requirements of section 8a. The complaint simply recites that “* * ° the defendant wilfully abandoned and deserted plaintiff without just cause or reason.” Generalized nonspecific pleadings of this type were held not sufficient to place in issue the fault or conduct of the opposing party in Del Rosario v. Del Rosario, 133 Ill. App. 2d 8, 270 N.E.2d 160, and Williams v. Williams, 4 Ill. App. 3d 905, 282 N.E.2d 451, and so it is here.
+The wife also argues that the court’s finding that the parties separated through the fault of both so as to bar her suit for separate maintenance is not supported by the evidence. The standard of conduct necessary in order to bar the relief of separate maintenance is either voluntary consent or conduct which materially contributes to the destruction of the marital relationship. (David v. David, 77 Ill. App. 2d 448, 222 N.E.2d 540; Glover v. Glover, 132 Ill. App. 2d 284, 268 N.E.2d 218.) No purpose would be served by a recital of the evidence in the case. Suffice it to say that the record is sufficient to justify a finding of conduct on the part of the wife, as well as the husband, which materially contributed to the destruction of the marital relationship between the parties.
+• 5 The plaintiff finally contends that the filing of the defense of recrimination as required by section 8a of the Act was waived when evidence of the defendant’s misconduct was presented without objection. We find this argument to be without merit.
+As a general rule parties may waive formal pleadings by the introduction of evidence or their conduct at trial. (Slezak v. Fleming, 392 Ill. 387, 64 N.E.2d 734.) However, that general rule is insufficient to override the requirement of the statute which makes it mandatory to plead the defense of recrimination if it is to be availed.
+For the foregoing reasons the judgment of the circuit court is affirmed.
+CARTER, P. J., and KARNS, J., concur.
