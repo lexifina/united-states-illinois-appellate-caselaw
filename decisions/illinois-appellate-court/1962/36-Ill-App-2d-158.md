@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 62-F-22"
+decided: "1962-05-18"
+citations: ["36 Ill. App. 2d 158"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daisy Kohlhaas, et al., Plaintiffs-Appellants, v. Sam Morse, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-2d/36/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5259680
+cites_cases: ["112 NE2d 712", "125 Ill App 258", "175 NE2d 287", "176 NE2d 659", "221 Ill App 6", "31 Ill App2d 266", "32 Ill App2d 55", "415 Ill 290", "81 Ill App 165"]
+---
+
+# Kohlhaas v. Morse
+
+## Majority (SCHEINEMAN, J.)
+
+SCHEINEMAN, J.
+The original plaintiff, Daisy Kohlhaas, claimed she was injured in an automobile accident on December 30, 1959. She filed this suit under the Dram Shop Act, Ch 43, Ill Rev Stats Sec 135, against defendant, Sam Morse, as a dram shop operator. Her suit was filed in apt time, and thereafter a motion was filed in the pending ease asking leave to file an amended supplemental complaint, and tendering such a complaint.
+The purpose was to add as an additional plaintiff, Delores L. Bingel, executrix of the Estate of Merle Bingel, deceased, allegedly involved in the same collision; also to add certain additional defendants, of whom those involved in this controversy are Olivia Manolakas, Nick Manolakas and Euby Seiber, hereafter referred to as “defendants.”
+This motion was filed on May 20, 1960, well within the limit of one year, but no order of allowance was obtained until May 9, 1961, being about a year later, and nearly 17 months after the collision. At that time the motion was allowed, but within 30 days thereafter this order was set aside and rescinded. The court also quashed the summons and service on the additional defendants above named which had occurred after the allowance of the motion and before it was vacated.
+A final judgment has been entered that plaintiffs take nothing from the three additional defendants above named, with a finding that there is no just reason to delay enforcement or appeal. From that judgment, this appeal has been perfected by both the original plaintiff and the added plaintiff. The question raised is whether the action of the court was proper.
+For plaintiffs it is contended that the suit is commenced when the complaint is filed, regardless of the time of service, and reference is made to the Practice Act, Ch 110, Ill Rev Stats, particularly to Section 13, on commencement of actions, Sections 23 and 24 on joinder of parties, and Sections 25 and 26 on adding parties, and also Section 46 on amendments. It is also contended that cases which appear to be adverse to plaintiffs’ arguments, are now obsolete, because of amendments to the Practice Act.
+The argument fails to consider the statute on amendments, Ch 7, Ill Rev Stats, Sec 8, which expressly prohibits the amendment of pleadings without order of court. This section has been in this form since 1874 without amendment, and has always been enforced. In Field v. Golconda, 81 Ill App 165, it was held an amendment filed without leave was properly stricken by the trial court.
+In Johnson v. Wright, 221 Ill App 6, it was held the. filing of an amended pleading without leave of court was void, and it was the duty of the Appellate Court to disregard it. In Carey-Lombard L. Co. v. Daugherty, 125 Ill App 258, it was held that vacating an order allowing an amendment leaves the pleadings as though no order had been entered, even though the amendment was filed. See also 30 ILP, Pleading, Sec 102.
+It is plainly apparent in the record before this court that there was ample opportunity to obtain leave of court to file the amendment and serve the additional parties before the statutory time limit had expired. Section 26 of the Practice Act above mentioned is specific: “New parties may be added ... by order of the court.” We conclude that, where there was sufficient time to obtain leave to add parties before the statute had run, and this was not done, the court is justified in denying the requested leave, under the circumstances in this case.
+As to the reference to Section 46 of the Practice Act, only subsection 4 refers to the question involved in this appeal, — bringing in a party not originally named, after the statutory time limit has expired.
+This provision has been carefully drawn to avoid destroying the time limitation. To bring in a party after the time limit, there are 5 requirements, among them are these: that the original suit was filed in time, and the party was in fact served with summons, although in the wrong capacity or as agent. The purpose of this provision is fully explained in the Smith-Hurd Annotations. The Historical Notes observe that the section “contains safeguards against the undermining of the statute of limitations.” With regard to an amendment adding a party after the statute had run, pursuant to Section 46(4), it has been said: “The primary basis for allowing such an amendment is knowledge of the suit through actual service on the person sought to he added or substituted or his partner or agent within the period of the statute of limitations, albeit he was served in the wrong capacity.” Silver v. Lee Shell Equipment Corp., 31 Ill App2d 266, 175 NE2d 287. (Citing Jenner and Tone, Pleadings, Parties and Trial Practice, 50 NUL Rev 612, 618-620, and other notes.) See also: Robinson v. Chicago Nat. Bank, 32 Ill App2d 55, 176 NE2d 659.
+There being no pretense that the three defendants sought to be added had ever been served in any capacity, Sec 46(4) has no application and plaintiffs cannot assert any right under it. Indeed, to hold otherwise would mean that anyone may be sued at any time regardless of the time limitation. If that were the law there would be no need for Section 46(4).
+We agree with plaintiffs that a suit is commenced when the complaint is filed even though service is not obtained until after the statutory period. However, when that became the law, it was observed that a plaintiff might file a complaint near the end of the statutory time limit, and then delay service of summons for an indefinite period, thereby virtually nullifying the time limit as any protection to a defendant against stale claims. To prevent this, the Hlinois Supreme Court adopted its Rule 4 which contains the following provision: “If the plaintiff fails to show reasonable diligence to obtain service, the action as a whole or as to any unserved defendant may be dismissed on the application of any defendant or on the court’s own motion.” Ch 110 Ill Rev Stats Sec 101.4.
+The unexplained failure to obtain service on a party until months after the statute had run could hardly be “reasonable diligence to obtain service,” and this also gave authority to the court to dismiss under the Supreme Court rule. Vukovich v. Custer, 415 Ill 290, 112 NE2d 712.
+This is not to he understood as requiring that service must be obtained within the time that suit must be filed. But where a substantial portion of needless delay occurs after the time to file suit has expired, we believe this to be a circumstance which may be given consideration in ruling upon a question of reasonable diligence. The purpose of the rule was to discourage such delays. Nichols Illinois Civil Practice, Sec 209.
+The rulings of the court were justified and the judgment is affirmed.
+Judgment affirmed.
+HOFFMAN, P. J. and CULBERTSON, J., concur.
