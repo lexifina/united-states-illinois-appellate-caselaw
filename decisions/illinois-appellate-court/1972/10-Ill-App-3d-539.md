@@ -1,0 +1,39 @@
+---
+court: "Illinois Appellate Court"
+docket: "53681"
+decided: "1972-12-13"
+citations: ["10 Ill. App. 3d 539"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patricia C. Albert, Plaintiff-Appellee, Cross-Appellant, v. Arthur F. Albert, Jr., Defendant-Appellant, Cross-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/10/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5398697
+cites_cases: ["13 Ill.App.2d 354", "132 Ill.App.2d 758", "270 N.E.2d 171", "30 Ill.2d 440"]
+---
+
+# Albert v. Albert
+
+## Majority (Mr. PRESIDING JUSTICE DIERINGER)
+
+Mr. PRESIDING JUSTICE DIERINGER
+delivered the opinion of the court:
+Arthur F. Albert, the defendant in a divorce action, appeals from an order entered September 16, 1968, in the Circuit Court of Cook County directing him to pay two-thirds of the plaintiff’s attorneys’ fees after tire court had entered a decree of divorce in her favor and found her holdings to be worth almost $200,000. The court also found his holdings to be worth about $300,000. He contends he should not pay any of her attorneys’ fees. Patricia Albert, the plaintiff, cross-appeals from the same order and contends the defendant should pay the entire amount.
+The issues on review are whether tire court abused its discretion in ordering the husband to pay two-thirds of his wife’s attorneys’ fees and whether tire defendant stipulated in the trial court that the fee asked for by her attorney was reasonable and fair; also, whether the husband should pay the entire fee.
+The parties were married on April 7, 1951, and are tire parents of one minor child. On May 29, 1967, the plaintiff filed her original complaint for divorce, alleging desertion by her husband more than three years before, even though they continued to live in the same house. On July 7, 1967, she filed an amended complaint under the Illinois Divorce Act, which had been newly amended to include mental cruelty as a ground of divorce. She filed her third amended complaint for divorce alleging mental cruelty on November 13, 1967.
+On April 19, 1968, the defendant filed a countercomplaint for divorce alleging his wife deserted him as of March 15, 1967, even though they continued to reside in the same house.
+On June IS, 1968, the decree for divorce in favor of Patricia Albert was entered, which approved a settlement between the parties giving the wife tire marital home and $500 per month for support of the minor child, but no alimony. On August 13, 1968, a hearing on fees was held, at which tire plaintiff’s attorney represented that a reasonable sum for his services was $17,500. Two other witnesses, both attorneys with experience in the divorce field, testified, and their estimates of a reasonable fee for the services rendered were $19,000 and $20,000 respectively.
+The defendant contends the plaintiff is not entitled to be awarded attorneys’ fees because the court found she had an estate of almost $200,000 and did not show an inability to pay. The plaintiff contends the defendant should pay all her attorneys’ fees because he is much better able to pay, he was found to be legally at fault, and he engaged in techniques of legal harassment which extended and complicated the litigation.
+The court found the plaintiff had an estate of almost $200,000, which included the value of the marital home, and the defendant had an estate of approximately $300,000. The court also found that $17,000 was a fair and reasonable fee and ordered the plaintiff pay one-third and the defendant two-thirds.
+We believe the significant circumstance of the case was not the relative ability of the parties to pay, each of whom had sufficient means, but rather the litigiousness of the defendant. The record shows he combined legal tactics, which delayed the proceedings, with a campaign of economic coercion.
+The defendant filed three motions to strike the plaintiff’s complaint and was successful on two. In each of the motions he alleged the parties were living together as man and wife under one roof, but later admitted in his discovery deposition that he had not had sexual intercourse with his wife “for some years” prior to 1968. Then he filed a countercomplaint for divorce alleging his wife deserted him while residing under the same roof with him, a complaint which he did not support with evidence, and be finally asked that it be dismissed.
+The countercomplaint also alleged the plaintiff-counter-defendant was an “unfit mother because of her uncontrollable temperament, bad habits, abusive manners, and general inability to care for” their nine year old child. The divorce decree indicated she was “in all respects a fit and proper person and to have sole care and custody of the minor child # # * »
+Additional evidence of the defendant’s bad faith is exemplified by his intentional reduction in income. In 1966 he had a salary of $25,000 and a gross income of $60,032, in 1967 he had a salary of $25,000 and a gross income of $36,819, and in 1968 he took a job with his father’s company at $175 per week. She is not employed.
+Even though the court found the wife’s estate was worth almost $200,000, that amount included the marital home value at $50,000. The remainder, which she inherited from her father, was not sufficient to generate an income to support her in the manner to which she was accustomed.
+Section 16 of tire Divorce Act (Ill. Rev. Stat., ch. 40, sec. 16), provides that granting fees to either party is in the discretion of the court, and it is fundamental that a judgment of the court will not be disturbed unless there was an abuse of discretion. Where there have been charges that excessive fees were allowed, courts have not failed to uphold the amounts if a party deliberately impedes the progress of the trial or files a complaint which is not abandoned until trial, thus necessitating extensive preparation by the opposing party. (Strom v. Strom (1957), 13 Ill.App.2d 354; Canady v. Canady (1964), 30 Ill.2d 440.) The case of Booth v. Booth (1971), 132 Ill.App.2d 758, 270 N.E.2d 171, involved the issue of whether the husband should pay for his former wife’s attorney on an appeal he initiated. This court noted his pattern of appealing every final order and held he was entitled to make whatever appeals he might think proper but was under an obligation to pay for the fees incurred by the opposing party.
+Similarly, we believe the defendant in the instant case may make use of whatever procedures are open to him under the law, but if there is a lack of good faith he is under an obligation to pay for the resulting litigation. The court found the defendant to be at fault and granted the divorce to his wife. His motions to strike contained the untrue allegation that the parties were living together as husband and wife, and his counterclaim for divorce was not pursued in good faith and contained untrue allegations concerning his wife’s fitness as a mother. He caused the extended litigation and, in view of the record in this case, it was an abuse of discretion for the trial court not to grant the plaintiff the full amount of her attorneys’ fees.
+The defendant also challenges the amount of fees allowed by the court and argues there was not a sufficient basis in the record for an award of $17,000. The record shows the defendant’s attorney stipulated in open court that $17,500 was a reasonable amount without stipulating as to who was supposed to pay it.
+For the reasons stated, the order allowing the plaintiff partial fees and costs is reversed and the cause is remanded with directions to aHow the plaintiff her fuU attorneys’ fees in the sum of $17,000 and the full costs in the amount of $416.45.
+Reversed and remanded with directions.
+BURMAN and ADESKO, JJ, concur.
