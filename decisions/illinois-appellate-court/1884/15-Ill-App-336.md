@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1884-08-20"
+citations: ["15 Ill. App. 336"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William J. Stewart v. The People, etc."]
+source_url: "https://static.case.law/ill-app/15/cases/000?-08.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6045135
+---
+
+# Stewart v. People
+
+## Majority (Pleasants, P. J.)
+
+Pleasants, P. J.
+Braidwood was duly organized as a city under the provisions of Chapter 24 of the Revised Statutes, and plaintiff in error duly elected and qualified as its marshal.
+On the 23d of June, 1883, he was arrested on complaint of Samuel Jacobs and taken before a justice of the peace of Will county, by whom he was fined $40 for an alleged assault and battery. On appeal by him and trial da novo in the circuit court the fine was reduced to $20, and he brings the record here for review upon a writ of error.
+The alleged assault grew out of his attempt, within the corporate limits, to execute civil process directed to him, as marshal, by a justice of the peace residing in the city. It is conceded that if he had authority to execute such process he was justified, and according to the certificate of the circuit judge and stipulation of counsel that is the only question upon the record.
+Section 73 of the act referred to, so far as affects this question, is as follows: “ The city council may, in its discretion, from time to time, by ordinance passed by a vote of two thirds of all the aldermen elected, provide for the election by the legal voters of the city, or the appointment by the mayor, with the approval of the city council, of a city collector, a city marshal * * * and such other officers as may by said council be deemed necessary or expedient. * * * The city marshal shall perform such duties as shall be prescribed by the city council for the preservation of the public peace, and the observance and enforcement of the ordinances and laws; he shall possess the power and authority of a constable at common law, and under the statutes of this State.”
+Section 75 prescribes the oath to be taken by the marshal which is, among other things, that he “will faithfully discharge the duties of the office”; and also the bond to be executed, “with security to be approved by the city council, * payable to the city * * * in such penal sum as may by resolution or ordinance be directed, conditioned for the faithful performance of the duties of the office and the payment of all moneys received by such officer, according to law and the ordinances of said city.”
+We apprehend that the following propositions are too clear to require argument, viz.: That the legislature has power to prescribe the qualifications, duties and powers of municipal officers, or to delegate that power in whole or part to the municipality; that noneare required, enjoined or conferred except those so prescribed; that it may confer the same or like powers upon officers of different municipalities, making the offices more or less similar and yet not the same; that it may designate the powers conferred upon a given officer as well by general description or by reference to know powers of other officers as by specific description; and that a constable has power and authority, under the statutes of this State, to execute civil process.
+In the light of these propositions we see no ground for doubt or construction. The question before us is not whether a city marshal is a constable, nor whether the oath and bond required of him as marshal furnish a guaranty and protection to all who may be concerned in the execution of "civil process equal to those furnished by the oath and bond required of a constable, nor whether thejr ought, in order to clothe him as them with power to execute it; but simply whether the law does clothe him as marshal with that power. As we have seen, it declares, first, that “he shall perform such duties as shall be prescribed by the city council for the * * * enforcement of the ordinances and laws.” Here the term “laws” seems to be used in contradistinction to ordinances, to signify something more and different; and perhaps under this clause the city council might prescribe the duty of executing civil process. Whether in this case it was or was not so prescribed we are not informed by the record. But without regard to what the council may have done or can do, it further declares-that “he shall possess the power and authority of a constable at common law, and under the statutes of this State.”
+It is of no avail to show that at common law a petty constable did not possess the power in question. Since a constable does possess it under the statutes of this State, it appears to us to be by this provision given to a marshal in language as plain as any we could employ to express it. And there the law leaves it, except that by another provision it includes marshals among other officers who are declared to be conservators of the peace and invested with certain specified powers, of which some are not possessed by constables as such. (§ 83.) But it nowhere limits the powers given and authorized to be given by § 73, nor requires of him any oath, bond or other qualification except those required of him as city marshal. There is no need of any other. He is not a constable. It is in the course of his duty as marshal that he exercises this power. His oath and bond bind him to the faithful performance of his duty in the exercise of it as of any other, and afford security therefor. Those of a constable do no more.
+The judgment of the circuit court is reversed.
+Judgment reversed.
