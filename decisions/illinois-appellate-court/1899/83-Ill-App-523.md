@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-06-22"
+citations: ["83 Ill. App. 523"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Simon L. Elzas v. Ada Elzas."]
+source_url: "https://static.case.law/ill-app/83/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5256146
+cites_cases: ["100 Ill. 576", "32 Miss. 89", "91 Ill. 167", "99 U. S. 80"]
+---
+
+# Elzas v. Elzas
+
+## Majority (Mr. Justice Sears)
+
+Mr. Justice Sears
+delivered the opinion of the court.
+It is objected by counsel for appellant that after the appeal had been perfected the Circuit Court had no further power to enter the order here in question. This contention is disposed of by the decision in Jenkins v. Jenkins, 91 Ill. 167. It does not appear that the amount allowed was an unreasonable one, and there is no cause for disturbing the order upon that ground. Jenkins v. Jenkins, supra; Foss v. Foss, 100 Ill. 576; 2 Bishop on Marriage, Divorce and Separation, Sec. 988.
+The other question presented, and the only one which is at all doubtful, is as to whether the statute which permits the entering of such orders for payment of solicitor’s fees, after appeal in divorce proceedings, is sufficiently broad to include this proceeding, which is upon a petition for leave to file a bill to review and reverse a decree of divorce.
+The question is not without difficulty. Whether a bill of review is to be considered as a part of and a continuation of the original suit in which the decree sought to be reviewed was entered, or as an original suit, is one upon which the authorities are not altogether clear. Some authors class a bill of review as an original suit in contradistinction to bills of revivor and supplemental bills. 2 Daniel’s Ch. Pl. & Pr. (5th Am. Ed.), 1576, note 3.
+Or as being “in the nature of” an original bill; and hold that it is not to be regarded as a continuation of the original suit. Story’s Eq. Pl. (9th Ed.), 388; Mitford & Tyler’s Pl. & Pr. in Eq. 129, 178.
+The only decision of any court which seems to have so held is Cole v. Miller, 32 Miss. 89.
+There are, however, authorities which treat the bill of review as being not an original suit, but as a proceeding supplementary to the suit in which the decree sought to be reviewed was entered. Cooper on Eq. Pl. (Tyler’s Ed.), 43; Barrow v. Hunter, 99 U. S. 80.
+In the former, the author, under the head of “ bills not original, which relate to some matter already litigated in the court by the same persons, and which are either an addition to, or a continuation of, an original suit,” includes “ bills of review to examine and reverse a decree made upon a former bill.”
+In the decision in the Barrow case, the Supreme Court of the United States, speaking of an action brought under the Louisiana Code to procure nullity of a former decree, said:
+“ The question presented with regard to the jurisdiction of the Circuit Court is whether the proceeding to procure nullity of the former judgment, in such a case as the, present, is or is not, in its nature, a separate suit, or whether it is a supplementary proceeding, so connected with the ' original suit as to form an incident to it, and substantially a continuation of it. If the proceeding is merely tantamount to the common law practice of moving to set aside a judgment for irregularity, or to a writ of error, or to a bill of review or an appeal, it would belong to the latter category, and the United States court could not properly entertain jurisdiction of the case. * * * It would seem apparent that the proceeding in the present case was one that affected the mere regularity of the original judgment. In the common law practice, it would have been a motion to set aside the judgment for irregularity on a writ of error comm nobis.”
+There are incidents to the bill of review which give it the character of an original proceeding, such as the necessity of new process and service upon the parties defendant; and there are also incidents which would more properly belong to a supplementary proceeding, such as the requirement (with some exceptions) of leave of the court which entered the original decree to file the bill; the limitation of right to file it to those who were parties to the original suit, or their privies; the necessity of bringing in as parties all parties to the original suit; the possibility of accomplishing through it a rehearing of the original cause, etc. Daniel’s Ch. Pl. & Pr. 1576, note 3; Story’s Eq. Pl., Sec. 409; Cooper on Eq. Pl., 89, et seq.; Gilbert’s Forum Romanum (Tyler’s Ed.), 182.
+While in some respects it may be, and has been regarded, technically considered, as in the nature of an original proceeding, and in other respects as in the nature of a supplementary proceeding, we have to inquire in this case whether it is to be held as so far ancillary to the original suit, i. e., the divorce suit, as to be included within the spirit and the terms of the statute. The provision of the statute is as follows:
+“ In all cases of divorce the court may require the husband to pay to the wife, or pay into court for her use during the pendency of the suit, such sum or sums of money as ma}r enable her to maintain or defend the suit; and in every suit for a divorce, the wife, when it is just and equitable, shall be entitled to alimony during the pendency of the suit. And in case of appeal or writ of error by the husband, the court in which the decree or order is rendered may grant and enforce the payment of such money for her defense, and such equitable alimony during the pendency of the appeal or writ of error as to such court shall seem reasonable and proper.”
+We are disposed to hold that this proceeding, which is an effort -to review and reverse a decree of divorce, is within the spirit and intent of the statute. It can scarcely be doubted that the intent of the general assembly was to provide by this statute for the necessities of the wife during any suit for the determination of the marriage relationship and to empower the court to compel the husband to furnish to the wife such sums as might be necessary to enable her to protect her rights in any such litigation. It would be inconsistent to suppose that it was intended to thus protect her interests and rights on the original trial and to leave her helpless "to protect them when attacked by a bill presented to the same court, the purpose of which was solely to reverse the decree of divorce rendered in the original suit. The language of the statute is broad; it being “ in all cases of .divorce” that the provision is made to apply. We hold, therefore, that this proceeding is “ a case of divorce,” within the spirit and terms of the statute, and that upon the appeal in such proceeding the court had power to enter the order for payment of solicitor’s fees.
+The order is affirmed.
