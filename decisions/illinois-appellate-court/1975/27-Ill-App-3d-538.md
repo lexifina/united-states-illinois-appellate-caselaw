@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "59215"
+decided: "1975-04-08"
+citations: ["27 Ill. App. 3d 538"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Phillips, Plaintiff-Appellant, v. The Illinois Department of Public Aid et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/27/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2868072
+---
+
+# Phillips v. Illinois Department of Public Aid
+
+## Majority (Mr. JUSTICE STAMOS)
+
+Mr. JUSTICE STAMOS
+delivered the opinion of the court:
+Plaintiff, Mary Phillips, appeals from a judgment of the circuit court of Cook County affirming an administrative decision of the Illinois Department of Public Aid (IDPA). The IDPA affirmed the prior determination of the Cook County Department of Public-Aid (County Department) which refused to grant a retroactive increase in plaintiff’s rental allowance for the months of February and January, 1972. On appeal, the dispositive issue is whether the decision denying a retroactive rental allowance increase was erroneous. The facts, in relevant part, follow.
+Plaintiff, Mary Phillips, has been a recipient of public assistance under the Illinois Aid to Disabled program since 1960. She and her daughter, Darlene Watkins, who is also a recipient of public assistance, share an apartment. Prior to February of 1972, the rent on this apartment was $85 per month. Each had received $42.50 per month from the County Department to cover her proportionate share of the rent. In the beginning of February, 1972, Mrs. Phillips advised her caseworker that she was moving to a new apartment, the rent for which was $125. The County Department approved the dwelling as not being substandard and on February 10, 1972, plaintiff’s caseworker approved the moving costs of $96. He told her, however, that he could not approve the rent increase from $85 to $125 “if Downtown won’t approve it.”
+The January rent due their former landlord was to be paid on January 29, 1972, and both Mrs. Phillips and her daughter had previously received their $42.50 January public aid rental allowance. However, since their new landlord required his $125 in advance, they moved without paying the January rent to their former landlord. Instead, they used the $85 rental funds received in January toward their new rent. The difference was made up by each utilizing $20 from her January food allowance. The $125 rent was paid to their new landlord on February 9, 1972. In the same month they received their February public assistance checks including the $85 allocated -for rent. Thus, after reimbursing themselves for the $40 food allowance which they had expended on the increased rent, they were left with $45 over their normal monthly grant. This $45, together with their regular $85 March public assistance rental funds, paid the $125 rent due in March.
+The caseworker for Mary Phillips testified that he had not recommended a retroactive increase in Mrs. Phillips’ rental allowance since “[s]he had the [unpaid January] rent in hand. This was the increase, enough to take care of February and March.”
+It is plaintiff’s position that the IDPA, in not providing for the retroactive rental allowance, erroneously applied the maximum shelter standard of section 12 — 4.11 of the Public Aid Code (Ill. Rev. Stat. 1973, ch. 23, par. 12 — 4.11). In our opinion, the contention wholly misapprehends the decision rendered by the IDPA. The only issue with which this appeal is concerned, is the denial of the requested retroactive increase in the rental allowance for the months of February and March, 1972. In this regard, the State argues that the decision was premised on a lack of need, rather than upon an application of the state-wide shelter maximum. The correctness of the State’s position is pointedly demonstrated by the written decision of the IDPA:
+“We have reviewed the facts and circumstances of this case, and it is our judgment that the county department’s action is "not providing increased rental allowance to appellant for the months of'February and March, 1972 was correct and should be upheld in view of the fact that appellant was not in need for the aforesaid months(Emphasis added.) (sic)
+In her reply brief, plaintiff takes the position that she was in need, as a matter of law, for the 2-month period in question. We disagree.
+The Illinois Public Aid Code authorizes financial aid and socíál welfare services for persons in need thereof. (Ill. Rev. Stat. 1973, ch. 23, par. 1 — 1.) The determination of need is set forth in section 3 — 1.2 (Ill. Rev. Stat. 1973, ch. 23, par. 3 — 1.2) which, inter alia, provides:
+"Income available to the person, when added to contributions in money, substance, or services from other sources, including contributions from legally responsible relatives must be insufficient to meet the persons basic maintenance needs as defined by standards established by the Illinois Department.”
+Similarly, in determining the amount of aid, section 3 — 5 (Ill. Rev. Stat. 1973, ch. 23, par. 3 — 5) provides:
+“The amount and nature of financial aid granted to or in behalf of aged, blind, or disabled persons shall be determined in accordance with the standards, rules and regulations of the Illinois Department. Due regard shall be given to the requirements and conditions existing in each case, and to the amount of property owned and the income, money contributions, and other support, and resources received or obtainable by the person, from whatever source. The aid shall be sufficient, when added to' all other income, money contributions and support, to provide the person with a livelihood compatible with health and well-being.”
+From an examination of these provisions, we fail to see how the denial of retroactive benefits deprived plaintiff of her basic maintenance needs. The record stands undisputed that plaintiff, by failing to pay her former landlord the January rent, had sufficient funds to provide herself with a livelihood' compatible with health and well-being. While it is true that plaintiff’s shelter needs increased in February and March, it is equally true that she had additional funds with which to meet her increased needs. That the additional funds came into being from plaintiff’s failure to pay her former landlord does not preclude a consideration of those funds in relation to the recipient’s needs, being, in our opinion, “[r]e-sources received or obtainable by the person, from whatever source.” Ill. Rev. Stat. 1973, ch. 23, par. 3 — 5.
+The only consequence presented by the denial of retroactive benefits 'is that plaintiff may be liable to her former landlord in the sum of $85. However, there is no evidence of whether the nonpayment was a justifiable withholding of rent. Consequently; the potential -liability of plaintiff to her former landlord is purely conjectural, and, in any event, provides no basis for reversal. For even assuming the establishment of liability, this is a matter which may subsequently be adjusted by the County Department.
+The judgment of the circuit court of Cook County is affirmed.
+Affirmed.
+DOWNING, P. J., and LEIGHTON, J., concur.
+The County Department also denied the requested approval for an exception to the state-wide maximum shelter allowance (see Ill. Rev. Stat. 1973, ch. 23, pars. 12 — 4.11, 12 — 14), effective April, 1972, prospectively. This determination was reversed by the IDPA and consequently, presents no reviewable issue.
+The record does not indicate the exact date.
