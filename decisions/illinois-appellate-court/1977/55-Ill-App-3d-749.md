@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-384"
+decided: "1977-12-27"
+citations: ["55 Ill. App. 3d 749"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re ESTATE OF GENERAL HOBSON MILLSAP, Deceased.—(WILLIAM JOHNSON, Petitioner for Letters Testamentary-Appellant, v. GERALDINE G. WAGY et al., Petitioners for Letters of Administration-Appellees.)"]
+source_url: "https://static.case.law/ill-app-3d/55/cases/0749-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3409469
+cites_cases: ["110 N.E.2d 194", "118 Ill. 576", "17 A.L.R. 2d 805", "262 Ill. 126", "291 N.E.2d 292", "298 Ill. 418", "3 A.L.R. 2d 949", "389 Ill. 484", "414 Ill. 54", "9 Ill. App. 3d 20", "951 Ill. 518"]
+---
+
+# Johnson v. Wagy
+
+## Majority (Mr. PRESIDING JUSTICE STENGEL)
+
+Mr. PRESIDING JUSTICE STENGEL
+delivered the opinion of the court:
+This appeal is brought from the Circuit Court of Will County. Mrs. Geraldine G. Wagy and Patricia Ruth Scott, daughters of decedent, General Hobson Millsap, filed a petition to have themselves appointed administrators of their deceased father’s estate asserting that their father had died intestate. William Johnson filed a petition to intervene asking to admit to probate what was alleged to be the last will of General Hobson Millsap. Both the daughters’ petition and Mr. Johnson’s petition were heard at the same time by the court without a jury. The trial court denied Mr. Johnson’s petition to admit the purported will to probate and granted the daughters’ petition for letters of administration and to have themselves appointed as co-administrators. The court also found that the original will was not presented for probate, and although the copy of said will was “executed, no evidence was produced which rebutted the presumption that the original will itself was revoked.” From the court’s order this appeal is brought.
+The decedent, who died on March 5, 1977, was a retired factory employee whose age at the time of death was in excess of 86 years; he left two daughters (Wagy and Scott), his wife dying some nine months before his death. The facts are not in dispute. The decedent lived next door to William and Alma Johnson and on November 26, 1976, General Hobson Millsap duly executed the typewritten original of the instrument alleged to be his last will. At the same time, and attested by the same witnesses, he also executed a carbon copy of the will.
+By this will, General Hobson Millsap devised and bequeathed all his property to William Johnson and his wife Alma Johnson. The evidence revealed that the original will was retained by the testator to be placed in his safety deposit box. Upon inventory of the deceased’s safety deposit box and a search of his home, no will of any kind was found. Apparently the executed carbon copy of said will was retained by Johnson. The issue is simply, did the proponent of the carbon copy will rebut the presumption that the lost will was destroyed animo revocandi? A similar issue was presented in In re Estate of Wise (5th Dist. 1972), 9 Ill. App. 3d 20, 291 N.E.2d 292, and they concluded that an order denying admission of a will to probate may not be reversed on appeal unless it is manifestly against the weight of the evidence.
+It is a rule of law of long standing that when a will is retained by the testator after execution and cannot be found, after his death, it will be presumed to have been destroyed by him animo revocandi. (In re Estate of Moos (1953), 414 Ill. 54, 110 N.E.2d 194.) The burden is thus on the one seeking to probate the will to show that it was unrevoked at the testator’s death.
+In In re Estate of Moos (1953), 414 Ill. 54, 57, 110 N.E.2d 194, the court said:
+“Where a last will and testament, after its execution, is retained by the testator and cannot be found upon his death, it is the well-settled rule of this and of the majority of jurisdictions that it will be presumed to have been destroyed by him animo revocandi. (In re Estate of Morgan, 389 Ill. 484; Holler v. Holler, 298 Ill. 418; Griffith v. Higinbotom, 262 Ill. 126; St. Marys Home v. Dodge, 951 Ill. 518; In re Page, 118 Ill. 576; 3 A.L.R. 2d 949.) The same cases establish that the presumption is subject to being rebutted by circumstances which tend to show a contrary conclusion, and that the burden is on one seeking to probate such a will to prove that it was unrevoked at the testator’s death.”
+This, of course, presents the issue of whether the carbon copy should be admitted and gives rise to the query of whether the proof offered by appellant is adequate to overcome the presumption of revocation by the testator.
+In this case we believe the holding by the trial court that the appellant did not rebut the presumption that the decedent destroyed the will animo revocandi was not against the manifest weight of the evidence. Frankly, we find a paucity of any rebuttal evidence.
+The presumption of revocation is subject to being refuted by circumstances showing a contrary conclusion, such as statements by the testator that he did not intend to revoke the will; or that other persons who had an adverse interest had possession or access to the testator’s will either before or after his death. Here, there is no such additional evidence inconsistent with the premise that the testator had revoked his will. The original will was left in the decedent’s custody on November 26,1976, the date it was alleged to be executed, and was never again seen in the 14 weeks which elapsed before his death. We believe the testimony of Herman Lochen, a close friend for over 40 years, that the testator told him at Christmas time, 1976, the Johnsons were trying to get his property, and that he wanted his children to have his property is most persuasive. This was a month after the purported will was executed. These circumstances shown by the evidence are certainly consistent with the thought that the testator changed his intentions relative to the disposition of his property and destroyed the will himself. When this evidence is contrasted to the almost total failure of appellant to offer any evidence to rebut the presumption of revocation, it leaves us with only one possible result.
+Appellant’s contention that a different rule of law should apply when a duly executed copy of a missing executed will is sought to be admitted is without merit. It is also well established that when a mutilated ribbon copy of a will is found in the possession of the testator at his death, or the ribbon copy is traced to the testator’s possession and cannot be found, as we find here, not only is the original copy revoked, but all duplicates of the original are presumed revoked as well. 79 Am. Jur. 2d Wills §611 (1975); Annot., 17 A.L.R. 2d 805, 814, §6 (1951).)
+In our judgment the order of the Circuit Court of Will County was right, and it will be affirmed.
+The other issues raised in the briefs will not be considered because our holding is dispositive of those matters.
+Order affirmed.
+BARRY and SCOTT, JJ., concur.
