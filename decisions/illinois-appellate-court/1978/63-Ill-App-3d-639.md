@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+docket: "14849"
+decided: "1978-09-01"
+citations: ["63 Ill. App. 3d 639"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARGARET STENSEL, Ex’r of the Estate of Vernell Stensel, Deceased, Plaintiff-Appellee, v. GLENN STENSEL, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/63/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3335840
+cites_cases: ["133 Ill. App. 2d 717", "271 N.E.2d 404", "291 N.E.2d 180", "8 Ill. App. 3d 789"]
+---
+
+# Stensel v. Stensel
+
+## Majority (Mr. JUSTICE WEBBER)
+
+Mr. JUSTICE WEBBER
+delivered the opinion of the court:
+This appeal concerns itself with the interpretation of certain related sections of the Uniform Commercial Code (Ill. Rev. Stat. 1973, ch. 26, pars. 9 — 501, 9 — 504, 9 — 505). We reverse.
+In May 1971, January 1972, and May 1972, defendant Glenn Stensel (herein Glenn) borrowed funds from the Farmer City State Bank of Farmer City, Illinois, for which he gave his promissory notes totalling about *35,000. The notes were co-signed by his father Vernell Stensel (herein Vernell). In addition, 16 mobile homes owned by Glenn and located near Bloomington were given as collateral.
+Glenn defaulted in payment on the notes, and in September 1973, Vernell took up Glenn’s notes by giving the bank his own note in payment. There is some indication in the record that the bank would not have made the loans to Glenn without the co-signing by Vernell. The mobile homes were sold in the latter part of 1973 at public auction. They brought *3,160. No notice of the sale was given to Glenn.
+Vernell died on December 18, 1975. In May 1977, plaintiff, Vernell’s widow and executor, brought this suit against Glenn seeking a deficiency judgment for *30,670.39. Following a bench trial in the circuit court of McLean County, plaintiff was awarded *28,184.39. This appeal ensued.
+Defendant makes two principal contentions: (1) The failure of Vernell to give him any notice of the sale bars any deficiency judgment, and (2) the sale without notice indicates an election by Vernell to retain the collateral in satisfaction of the obligation.
+Plaintiff contends that no notice was required because the collateral was in danger of destruction and threatened to decline speedily in value, and in any event, Glenn renounced his right to notice by sending certain written instructions to the bank and to Vernell.
+The pertinent provision of the Code relating to the secured party’s right to dispose of collateral is section 9 — 504(3) which reads as follows:
+“Disposition of the collateral may be by public or private proceedings and may be made by way of one or more contracts. Sale or other disposition may be as a unit or in parcels and at any time and place and on any terms but every aspect of the disposition including the method, manner, time, place and terms must be commercially reasonable. Unless collateral is perishable or threatens to decline speedily in value or is of a type customarily sold on a recognized market, reasonable notification of the time and place of any public sale or reasonable notification of the time after which any private sale or other intended disposition is to be made shall be sent by the secured party to the debtor, if he has not signed after default a statement renouncing or modifying his right to notification of sale. In the case of consumer goods no other notification need be sent. In other cases notification shall be sent to any other secured party from whom the secured party has received (before sending his notification to the debtor or before the debtor’s renunciation of his rights) written notice of a claim of an interest in the collateral. The secured party may buy at any public sale and if the collateral is of a type customarily sold in a recognized market or is of a type which is the subject of widely distributed standard price quotations he may buy at private sale.” (Emphasis added.) Ill. Rev. Stat. 1973, ch. 26, par. 9 — 504(3).
+We are not persuaded that a mobile home is collateral which “threatens to decline speedily in value.” The record shows that the mobile homes here had been condemned by the city of Bloomington as uninhabitable, so it is a fair inference that whatever decline there was in value had occurred some time prior to the sale. It is also significant that several months elapsed from the time Vemell paid off the bank until the time of sale. No one during this period appears to have been concerned with declining value. In our opinion, that application of this provision to chattel property would be a rarity. Its obvious intent was to apply to securities in a rapidly falling market, or any other item, such as gold bullion, which is subject to price fluctuations on a daily basis.
+It is admitted that Glenn received no notice of the sale, other than a passing reference in the record to the fact that someone not named mailed him a display advertisement from one of the local newspapers. Plaintiff makes much of some letters in the record from Glenn to the bank and to Vernell. The letter to Vemell reads in part:
+“I hereby give you power of attorney to sell or assigned [sic] all the mobile homes in Oakpark to whomever you wish.”
+A companion letter to the bank reads in part as follows:
+“I give the power of attorney to Farmer City State Bank to sell 060 any of the 13 mobile homes 0 0 0 which would be in the best interest of the bank and Vernell Stensel.”
+While the letters prima facie authorize a sale, nothing in either of them can be construed as a waiver of notice of the time and place of the sale. This is especially true in view of section 9 — 501(3) of the Code which reads, in part, as follows:
+“To the extent that they give rights to the debtor and impose duties on the secured party, the rules stated in the subsections referred to below may not be waived or varied except as provided with respect to compulsory disposition of collateral (subsection (3) of Section 9 — 504 and Section 9 — 505) and with respect to redemption of collateral (Section 9 — 506) but the parties may by agreement determine the standards by which the fulfillment of these rights and duties is to be measured if such standards are not manifestly unreasonable:
+# # #
+(b) subsection (3) of Section 9 — 504 000 which deal with disposition of collateral;
+(c) subsection (2) of Section 9 — 505 which deals with acceptance of collateral as discharge of obligation.” (Emphasis added.) Ill. Rev. Stat. 1973, ch. 26, par. 9 — 501 (3)(b), (c).
+We have already held that the disposition here was not one under compulsion and there is nothing in the record to indicate that the parties made any other agreement regarding these rights. Under the authority just set forth, Glenn could not legally waive his rights to notice and since he received none, the purported sale was void as to him.
+The same holds true for Glenn’s contention that Vemell retained the collateral in satisfaction of the obligation. This matter is dealt with in section 9 — 505(2) of the Code which reads as follows:
+“In any other case involving consumer goods or any other collateral a secured party in possession may, after default, propose to retain the collateral in satisfaction of the obligation. Written notice of such proposal shall be sent to the debtor if he has not signed after default a statement renouncing or modifying his rights under this subsection. In the case of consumer goods no other notice need be given. In other cases notice shall be sent to any other secured party from whom the secured party has received (before sending his notice to the debtor or before the debtor’s renunciation of his rights) written notice of a claim of an interest in the collateral. If the secured party receives objection in writing from a person entitled to receive notification within twenty-one days after the notice was sent, the secured party must dispose of the collateral under Section 9 — 504. In the absence of such written objection the secured party may retain the collateral in satisfaction of the debtor’s obligation.” (Emphasis added.) (Ill. Rev. Stat. 1973, ch. 26, par. 9 — 505(2).)
+Notice is required by the plain meaning of the section and none was given. Under section 9 — 501(3) quoted above, such notice could not be waived and no other agreement appears in the record. It follows that Vernell could not retain the collateral in discharge of the obligation.
+Since the sale was void as to Glenn, the remaining problem is whether a deficiency judgment could be obtained against him.
+The commentary to section 9 — 504 of the Code indicates that there is a divergence of authority in the United States on this subject. One line holds that any damages recoverable by the debtor must be. offset by any deficiency on the sale, but the burden shifts to the secured party to prove that he obtained a commercially reasonable sale, especially in the absence of notice to the debtor. Tauber v. Johnson (1972), 8 Ill. App. 3d 789, 291 N.E.2d 180, is an Illinois case supporting such a view.
+Another line of cases holds that a failure of the secured party to give notice of sale to the debtor absolutely bars any deficiency judgment. Morris Plan Co. v. Johnson (1971), 133 Ill. App. 2d 717, 271 N.E.2d 404, follows this doctrine.
+We are persuaded that the latter line of authority is the better reasoned. The deprivation of the ability to be present at the sale and guard one’s interests is serious and allows the secured party too free a hand in making disposition. In this sense, the lack of notice equates itself with a lack of due process, and, in the words of the Morris Plan court, “taints” the entire sale. We hold that a failure to give notice as required by the Code is a bar to the recovery of any deficiency judgment.
+For these reasons, the judgment of the circuit court of McLean County is reversed.
+Reversed.
+GREEN, P. J., and CRAVEN, J., concur.
