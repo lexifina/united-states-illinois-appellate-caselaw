@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1882-10-26"
+citations: ["11 Ill. App. 564"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benjamin F. Ayer et al. v. The Town of Lake."]
+source_url: "https://static.case.law/ill-app/11/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5778567
+cites_cases: ["22 Ill. 563", "36 Ill. 206", "40 Ill. 165", "42 Ill. 52", "57 Ill. 317", "57 Ill. 415", "61 Ill. 447", "61 Ill. 463", "62 Ill. 304", "65 Ill. 189", "79 Ill. 471", "83 Ill. 488", "84 Ill. 227"]
+---
+
+# Ayer v. Town of Lake
+
+## Majority (Wilson, J.)
+
+Wilson, J.
+The writ of error in this case is prosecuted to reverse the judgment of the County Court of Cook county, confirming a second assessment levied under an ordinance of the Town of Lake, to pay the cost of laying a water pipe in Fifty-first street from Halsted street to Ashland avenue. The ordinance is based upon the provisions of section 48, article IX of the act for the incorporation of cities and villages, and sets forth that “ the whole of the first assessment for said improvement not having been collected, nor canceled, nor set aside by the order of any court, and the amount of said first assessment which has been collected, being insufficient for the completion of said improvement, this second assessment is ordered to be made for the purpose of realizing from the delinquent property the amount of such deficiency in collection toward the payment for said improvement as is provided by section 48, article IX," etc.
+A petition was filed in the County Court of Cook county, for the appointment of commissioners, and an order was made by the court in January, 1882, appointing commissioners to make the assessment, authorized by said ordinance. During the same month an assessment was made by the commissioners, and returned into court, which was confirmed by the court by default, plaintiffs in error not appearing.
+The ordinance specifically declares that this second assessment is ordered to be made for the purpose of realizing from the delinquent property the amount of the deficiency in the collection toward the payment for the improvement; but it is nowhere stated in the ordinance, nor in the’petition for the appointment of commissioners, nor.does it anywhere appear how much of the first assessment had been paid, nor what the amount of the deficiency was, or that the property of the plaintiffs in error was delinquent. These were essential and indispensable elements to give the court jurisdiction to act under the 48th section, upon which the proceedings were based. That section provides that if from any cause any city or village shall fail to collect the whole, or any portion of any ■ special assessment which may be levied * * * for any public improvement, authorized to be made and paid for by special assessment, the city council may at any time, within live years after the confirmation of the original assessment, direct a new assessment to be made upon the delinquent property, for the amount of such deficiency, which assessment shall be made, as near as may be in the same manner as is prescribed for the first assessment. The section further provides for still other assessments, if necessary, to produce the . money required for the cost of the improvement, and contains a provision for crediting any payments made upon former assessments.
+It is contended by the counsel for the Town of Lake, that while the jurisdictional facts above referred to do not appear in the record, as the plaintiffs in error presented no bill of exceptions, a presumption arises that the county court heard all the evidence in reference to the first assessment and delinquency thereunder, which is as necessary to sustain the order of confirmation, and that it was incumbent on plaintiffs in error to introduce evidence as to what was done under the first proceeding, if they desired through that proceeding to attack the second assessment roll.
+The doctrine of presumptions has no application as to jurisdictional facts in a case like the present. It is purely a statutory proceeding, and the party seeking the assessment must show by the record that all the steps required by the statute have been complied with. Such a showing is an indispensably condition to the power of the court to act. The levy of a tax for improving the streets or laying down water pipes, under an ordinance, being'a statutory proceeding, the provisions of the law authorizing it m ust be strictly followed, or the whole is void. Workman v. City of Chicago, 61 Ill. 463, et passim. • Here, there being nothing either in the ordinance providing for the levy, or in the petition for the appointment of commissioners to make the assessment, showing the amount realized under the first proceeding, the amount of the deficiency, nor any statement as to the delinquency of the lands of the plaintiffs in error, no case was made under the provision of section 48, under which the proceeding purports to have been had. These were all affirmative facts, which should have been made to appear by the record, and their absence can not be helped by presumptions.
+The judgment of the court below is reversed, and the cause remanded.
+Reversed and remanded.
