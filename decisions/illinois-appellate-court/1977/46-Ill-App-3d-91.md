@@ -1,0 +1,41 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-89"
+decided: "1977-02-17"
+citations: ["46 Ill. App. 3d 91"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE VILLAGE OF CHERRY VALLEY, Plaintiff-Appellant, v. DAVID A. SCHUELKE, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/46/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2970308
+cites_cases: ["104 Ill. App. 2d 161", "12 Ill. App. 3d 684", "23 Ill. App. 3d 896", "25 Ill. App. 3d 187", "42 Ill. App. 3d 680", "47 Ill. 2d 183", "5 Ill. App. 3d 358", "59 Ill. 2d 409", "63 Ill. 2d 128", "64 Ill. 2d 286"]
+---
+
+# Village of Cherry Valley v. Schuelke
+
+## Majority (Mr. JUSTICE SEIDENFELD)
+
+Mr. JUSTICE SEIDENFELD
+delivered the opinion of the court:
+A policeman of the plaintiff village issued the defendant an Illinois citation and complaint charging him with reckless driving within the city limits. A violation of section 11 — 503 of the Illinois Vehicle Code (Ill. Rev. Stat. 1975, ch. 95½, par. 11 — 503) was noted on the complaint. Before the start of the bench trial the village attorney amended the complaint on its face to charge a violation of the reckless driving ordinance of the village, Local Ordinance 14 — 28. We were advised in oral argument that this was done with the consent of the State’s attorney because the village attorney could not prosecute the State charge. Defendant and his counsel made no objection to the amendment and participated in the further proceedings. See People v. Sirinsky, 47 Ill. 2d 183,186 (1970); People v. Vaden, 25 Ill. App. 3d 187, 189 (1974); People v. Chitwood, 42 Ill. App. 3d 680, 682 (1976).
+During the proceedings the trial judge on his own motion ruled that the reckless driving ordinance of the village violated the State statute dealing with the same offense and was therefore unconstitutional. He dismissed the complaint and the village appeals.
+The defendant has not filed a brief. However, we reach the merits pursuant to the guidelines expressed in First Capitol Mortgage Corp. v. Talandis Construction Corp, 63 Ill. 2d 128, 133 (1976).
+The reckless driving ordinance of the village is stated in the same terms used in the State statute except that the violation of the village ordinance may result in a maximum fíne of *500 while the maximum penalty provided in the State statute includes a jail sentence as a Class B misdemeanor. It is also conceded that the plaintiff village is not a home rule municipality.
+In denying the village’s motion to vacate the dismissal the trial judge expressed the views: (1) the village as a non-home mle unit was acting without a specific delegation of legislative authority in passing the ordinance and as a result the ordinance was void; (2) the legislature has preempted the field of traffic regulation; (3) enforcement of all traffic offenses is required to be uniform pursuant to the terms of section 11— 208.1 of the Illinois Vehicle Code (Ill. Rev. Stat. 1975, ch. 95%, par. 11— 208.1), and since the statute and the ordinance differ with respect to burden of proof and the potential for imprisonment they are not uniform; and (4) the police officer had no authority to arrest an individual for violating an ordinance because the village code did not specifically grant the power of arrest.
+It is unquestioned that the plaintiff as a non-home rule unit has only the powers granted by law. (Ill. Const. 1970, Art. VII, §7; Melbourne Corp. v. Chicago Hearing Board for Nursing Homes, 59 Ill. 2d 409, 414 (1974).) However, non-home rule cities and villages are specifically and expressly granted the authority to “adopt additional traffic regulations which are not in conflict with the provisions” of the Illinois Vehicle Code. (Ill. Rev. Stat. 1975, ch. 95%, par. 11 — 207.) In addition, the legislature has provided that “each municipality may regulate traffic * ° ” upon the streets, ” ° Ill. Rev. Stat. 1975, ch. 24, par. 11 — 80—20.
+We also conclude that the legislature has not preempted the field of traffic regulation. Section 11 — 208 of the Illinois Vehicle Code provides as pertinent:
+“(a) The provisions of this Chapter shall not be deemed to prevent local authorities with respect to streets and highways under their jurisdiction and within the reasonable exercise of the police power from:
+# * #
+[ajdopting such other traffic regulations as are specifically authorized by this Chapter.”
+We must also consider the effect of section 11 — 207 of the Illinois Vehicle Code which provides as pertinent:
+“ 0 ° ° this Chapter shall be applicable and uniform throughout this State and in all political subdivisions and municipalities therein, and no local authority shall enact or enforce any ordinance rule or regulation in conflict with the provisions of this Chapter unless expressly authorizedx herein. Local authorities may, however, adopt additional traffic regulations which are not in conflict with the provisions of this Chapter, * ”
+This court has previously interpreted the predecessor to section 11— 207, which contained essentially the same provisions (Ill. Rev. Stat. 1967, ch. 95½, par. 122). In City of Rockford v. Floyd, 104 Ill. App. 2d 161 (1968), we held that the legislature did not express the intention to preempt municipalities from regulating motor traffic and that municipalities are empowered to pass traffic laws not in conflict with State law. See also Perzovsky v. Chicago Transit Authority, 23 Ill. App. 3d 896, 905 (1974); Watson v. Chicago Transit Authority, 12 Ill. App. 3d 684, 689 (1973); City of Crystal Lake v. Nelson, 5 Ill. App. 3d 358 (1972).
+Local ordinances need not be identical to the State statute. The fact that an individual may be convicted by only a preponderance of the evidence under the municipal ordinance while he must be proved guilty beyond a reasonable doubt under the State law does not create conflict. The local ordinance may be less restrictive than the State law so long as the policy of both laws is the same. 104 Ill. App. 2d 161, 170.
+The supreme court in Village of Park Forest v. Walker, 64 Ill. 2d 286 (1976), while not specifically addressing the issue, tacitly approved an ordinance which prohibited driving a motor vehicle while under the influence of intoxicating liquor and which carried a *500 penalty. The statute involved in that case (Ill. Rev. Stat. 1975, ch. 95/2, par. 11 — 501) created a Class A misdemeanor, which is punishable by any term of less than a year (Ill. Rev. Stat. 1975, ch. 38, par. 1005 — 8—3(a)(1)). Since the municipality may impose a maximum of six months incarceration (Ill. Rev. Stat. 1975, ch. 24, par. 1 — 2—1.1), it would be impossible for it to exact an identical penalty for the offense.
+We conclude that the reckless driving ordinance of the Village of Cherry Valley was authorized by State statute, was not in conflict with the State statute and was constitutional.
+The conclusion of the trial judge that the police officer had no power to arrest the defendant for a violation of the municipal ordinance does not, in our view, afford a basis for affirming the judgment. We are sympathetic to the feeling of the trial judge in the particular circumstances of this case. He was concerned that the defendant was arrested by a local police officer, charged with the violation of the State statute governing motor vehicles and was required to post bond for his release rather than to appear on'a citation for violation of the village ordinance. However, the legislature has expressly given municipalities the power to authorize any person to make an arrest for either a municipal ordinance violation or for violation of any criminal law and further has specifically given that authority to municipal policeman. (Ill. Rev. Stat. 1975, ch. 24, par. 3 — 9—4.) It should be further noted that in this particular case the defendant made no objection at trial nor has he, as previously noted, appeared in this court.
+For the reasons we have stated the judgment of the trial court is reversed and the cause remanded for further proceedings consistent with this opinion.
+Reversed and remanded.
+RECHENMACHER, P. J., and GUILD, J., concur.
