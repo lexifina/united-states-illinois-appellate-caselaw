@@ -1,0 +1,34 @@
+---
+court: "Illinois Appellate Court"
+docket: "Term No. 53-O-16"
+decided: "1953-12-14"
+citations: ["1 Ill. App. 2d 99"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Floy Walton, Plaintiff-Appellee, v. Greenberg Mercantile Corporation, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/1/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5117528
+cites_cases: ["239 Ill. 414", "292 Ill. App. 104", "342 Ill. App. 60", "350 Ill. App. 541", "351 Ill. App. 11", "407 Ill. 121"]
+---
+
+# Walton v. Greenberg Mercantile Corp.
+
+## Majority (Mb. Justice Culbebtson)
+
+Mb. Justice Culbebtson
+delivered the opinion of the court.
+This is an appeal from a judgment of the circuit court of Franklin county in favor of Floy Walton, ap-pellee (hereinafter called plaintiff), as against Green-berg Mercantile Corporation, a corporation, appellant (hereinafter called defendant), on the verdict of a jury in the sum of $12,000 for personal injuries sustained by plaintiff. The action was predicated on injuries sustained when a pattern pamphlet rack in the store of the defendant fell and struck plaintiff on the heel. On appeal in this court the defendant contends that the court below should have directed a verdict on the basis of the contention that the record failed to show any proof that the falling of the pamphlet stand was proximately caused by any negligence of defendant specifically alleged in the complaint. There was also a contention that the trial court admitted improper evidence, gave erroneous instructions, and that the verdict was excessive and manifestly contrary to the weight of the evidence.
+The facts as disclosed by the record indicate that the plaintiff, a housewife, 41 years of age, went into a store in West Frankfort, Illinois, which was operated by defendant. She had gone down an aisle which was about five feet wide. As she stood at a point with her back to the pattern pamphlet stand it fell or in some manner was caused to fall against the heel of plaintiff, by reason of which her back was injured when she jerked and turned from her hips with the stand across her heel. The evidence in some phases of the case was conflicting, but there was evidence that the stand had fallen previously, and although the leg of the stand had been straightened, the cabinet was placed in such a position that it could be knocked over by customers using the aisle.
+A motion for a directed verdict or for a judgment notwithstanding the verdict raises the single question of whether there is in the record any evidence which, standing alone and taken with all the intendments most favorable to the party reciting the motion, tends to prove the material elements of the case (Lindroth v. Walgreen Co., 407 Ill. 121; Thomason v. Chicago Motor Coach Co., 292 Ill. App. 104; Palmer v. Loveless, 342 Ill. App. 60). On the facts in the record we find no basis for a contention that the motion for directed verdict or for judgment notwithstanding the verdict should have been allowed.
+On the question of erroneous instructions, however, we note from the record that an instruction was given by plaintiff which contained upwards of 900 words and occupied three and one-half pages of the abstract. This instruction recited each of the charges of negligence in the complaint and directs a verdict with reference to Count 1 and Count 2 of the complaint. No reference is made to contributory negligence in the answer of defendant, which set up a defense of contributory negligence, or, in the alternative, that the accident was caused by an independent negligent act of a third party not in the employ of the defendant and over whose acts defendant had no control and for whose acts defendant would not be liable. There was evidence in the record which, if believed by the jury, might have justified a conclusion that plaintiff had stated that another lady had pushed the stand over on her (Mooney v. City of Chicago, 239 Ill. 414, 422-423).
+An instruction of the type given in this case has been specifically condemned in the cases of Signa v. Alluri, 351 Ill. App. 11, and Pappas v. Peoples Gas, Light & Coke Co., 350 Ill. App. 541. As stated in the case of Signa v. Alluri (at pages 19-21),
+“The safe and proper rule, as set forth in a long line of cases ... is for the court to inform the jury in a clear and concise manner of the issues raised by the pleadings. This should be accomplished by a summary of the pleadings, succinctly stated, without repetition and without undue emphasis.
+“Judged by these principles we are of the opinion that instruction 13 in the instant case was prejudicially erroneous.
+“In the first place it was unduly prolix. It contained almost 800 words or about three printed pages of abstract, exclusive of the concluding portions, directory in the event the jury found defendants guilty of the acts charged in the complaint. . . . If it he held erroneous to send the complaint to the jury room, a fortiori it was error to announce to the jury its counterpart.
+“A more serious objection than mere length is that the instruction tends to emphasize plaintiff’s charges of liability by placing in the court’s mouth substantially the entire charge of the complaint. The frequent repetition of such allegations tends to endow them with unilateral significance. ... To hear a judge, the one man in the courtroom whose remarks are most respected and most dutifully attended, solemnly repeat with all the influence of his favored position, minute after minute and sentence after sentence, detailed charges of negligence carefully drawn by partisan attorneys to present one side of the case in its most appealing aspects, must tend to unduly influence a jury toward the side whose charges are so persistently and so effectively presented through such a powerful medium. . . . Moreover, on a charge of such repetitious length, even a most intelligent juror might well be confused to the point of uncertainty as to whether he was hearing the recital of accusations or a summary of evidence.”
+The giving of such instruction “D” was obviously erroneous, and requires a reversal and remandment of the cause for a new trial (Signa v. Alluri, supra; Pappas v. Peoples Gas, Light & Coke Co., supra). In addition to the objectionable features outlined above the instruction was defective in that it entirely omitted reference to affirmative defenses, on the basis of the precedent in the case of Mooney v. City of Chicago, supra.
+In view of our conclusion as to the necessity for a new trial it would unduly extend this opinion to discuss other matters raised on appeal. The judgment of the circuit court of Franklin county will, therefore, be reversed and the cause will he remanded for a new trial.
+Reversed and remanded.
+Scheineman, P. J. and Bardens, J., concur.
