@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-112"
+decided: "1972-05-23"
+citations: ["5 Ill. App. 3d 645"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herbert A. Riechmann, Plaintiff-Appellee, v. Edna M. Riechmann, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/5/cases/0645-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2529830
+cites_cases: ["139 N.E. 68", "155 Ill. 84", "160 N.E. 140", "187 Ill. 171", "308 Ill. 224", "328 Ill. 564", "39 N.E. 609", "58 N.E. 234"]
+---
+
+# Riechmann v. Riechmann
+
+## Majority (Mr. JUSTICE JONES)
+
+Mr. JUSTICE JONES
+delivered the opinion of the court:
+Upon what basis must a co-owner of farmlands who is in possession attorn to his co-owners for his use of the property? Total net receipts or reasonable rental value?
+Defendant appeals from a judgment of the trial court rendered in an action for an accounting. Plaintiff was a co-owner and in possession, and defendant was the other co-owner, of a farm. The order appealed permitted plaintiff to account for one-half of the reasonable rental value of the farm rather than one-half of the entire net proceeds from the farm. The court below found the reasonable rental value of the farm to be one-third of the net proceeds of the farming operations. The plaintiff was thus permitted to allocate unto himself two-thirds of the net proceeds of his farming operations as the reasonable rental value of the farm to the operator. We affirm.
+The facts are not in dispute. This action is ancillary to an action for divorce between the parties in which the plaintiff-husband was granted a divorce from the defendant-wife. Prior to the date of the divorce decree an order was entered in the circuit court which provided, in pertinent part:
+“6. Plaintiff [Mr. Riechmann] is ordered to maintain an accounting as respects income derived from his farm operations and as nearly as practicable is ordered to allocate such income between the two farms operated by Plaintiff, title to one of which is held in his individual name and title to the other being held in the join[t] names of the parties.”
+The subsequent decree of divorce found the parties owned the farm property in question as joint tenants and provided that if they were unable to agree upon a price for the wife’s share then it should be sold at public sale and the proceeds divided equally. The parties were unable to agree and the property was offered at a public sale on August 3, 1970, at which the defendant-wife was the purchaser. Between May 14, 1969, tire date of the divorce decree, and August 3, 1970, the plaintiff remained in possession and conducted farming operations. As provided in the order referred to, the plaintiff kept records of the receipts and disbursements resulting from his farming operations and presented them at the hearing on the account. There is no dispute concerning the amounts involved. The evidence is undisputed that the usual, customary and reasonable crop-share rental for farm lands in the community in which the land is located is two-thirds to the tenant and one-third to the landlord.
+The defendant concedes that the effect of the court order of March 24, 1969, was to place the plaintiff in possession to conduct farming operations and account for the proceeds. The court order is silent concerning the terms and conditions under which the plaintiff was to conduct the farming operation. Defendant contends the court was in error in its allocation, that since she did not consent or agree to plaintiff’s retention of a tenant’s share for his farming operations, she, as an owner of one-half of the farm should be entitled to one-half of all crops raised less one-half of the expense incurred in planting, cultivating and harvesting, such expense to include a reasonable amount for plaintiff’s labor and management.
+Defendant initially relies upon section 4(a) of the Joint Rights and Obligations Act (Ill. Rev. Stat., ch. 76, sec. 5). She argues that the court ignored the Act and applied the law of landlord and tenant. However, the statute does not apply until it is determined that a co-owner in real estate has taken proceeds or benefits in greater proportion than his ownership interest in the property, and the whole question here is whether or not the plaintiff, a co-owner, has in fact taken a greater proportion than his ownership interest. If such should be shown, then clearly the statute would be applicable.
+If the parties had leased the land to another upon a crop-share basis their proportion would have been one-third which they would have shared equally. If one tenant in common in possession should lease lands to another, he is hable to his co-tenants only for rents actually received; and if one tenant in common receives as rents more than his share of the profits of the common estate, then he must account to his co-owners for their aliquot portions. (Cheney v. Ricks, 187 Ill. 171, 58 N.E. 234.) It should also be considered that the plaintiff presumably could have leased other land upon a crop-share basis and devoted his time, effort, equipment and managerial skills to production of crops from such land and realized the full two-thirds proportion therefrom. Although the parties were subject to the equitable jurisdiction of the court the record is wholly silent as to any special equities that would require the plaintiff to farm the land in question upon any terms or conditions other than those which customarily apply to a landlord-tenant situation.
+Here, the plaintiff was not tortious in gaining possession, nor was he even an intruder or innocent converter. His possession was lawful. Under such circumstances, he should suffer no penalty nor be made to occupy any position inferior to that of a lawful tenant and he should be required to attorn for only the reasonable rental value of the land.
+This case is similar to Sharp v. Sharp, 328 Ill. 564, 160 N.E. 140. Plaintiff there was a co-owner of farmlands. She brought a bill for partition and an accounting for rents against other tenants in common who were in exclusive possession. The trial court granted partition but denied the accounting for rents. The Supreme Court affirmed the partition but reversed as to the accounting, holding that the plaintiff was entitled to an accounting based on the reasonable rental value of the land. Also see McParland v. Larkin, 155 Ill. 84, 39 N.E. 609; Cooper v. Martin, 308 Ill. 224, 139 N.E. 68; and Restatement of the Law, Restitution Section 157, comment d.
+Defendant places reliance on Cheney v. Ricks, supra. But the case does not support defendant since it is concerned with a situation where some co-owners who were in possession received crop rents from tenant farmers. Those in possession were held hable to account to their co-owners for their aliquot shares of net rentals received.
+For the foregoing reasons the judgment of the trial court will be affirmed.
+Judgment affirmed.
+G. MORAN, P. J., and EBERSPACHER, J„ concur.
