@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-10-12"
+citations: ["85 Ill. App. 66"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Martens v. The People, etc., ex rel."]
+source_url: "https://static.case.law/ill-app/85/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5267726
+cites_cases: ["109 Ill. 621", "138 Ill. 401", "159 Ill. 399", "162 Ill. 534", "53 Ill. App. 305", "88 Ill. 537"]
+---
+
+# Martens v. People
+
+## Majority (Presiding Justice Crabtree)
+
+Presiding Justice Crabtree
+delivered the opinion of the court.
+The State’s attorney for Bock Island county filed a motion in the Circuit Court for leave to file an information against appellant in the nature of a quo warranto, stating that appellant claimed, and was attempting to exercise, the right to keep a dram-shop under a license issued to him by the mayor of the city of Moline on November 4, 1898, contrary to the ordinances of said city and the . statute in such case made and provided. That no petition, as required by the ordinances of the city, accompanied the application for a' license, and that no sufficient bond was filed by appellant, as provided by law. The motion was supported by affidavits; the leave was granted and the information filed.
+It appears from the allegations of the information that at the time the license was issued to appellant by the mayor of the city of Moline, there was an ordinance in force in said city to the effect that in any block where no saloon then existed, no license should be issued to keep a saloon in said block without a petition signed by two-thirds of the freeholders in such block praying that such a license be issued. It further appeared that when said license was issued, no saloon then existed in block Eo. 2, in South Moline, one of the additions to the city of Moline, where the license issued to appellant purported to authorize him to keep a saloon, and that no saloon had ever existed or been opened in said block. It is further averred that no application in writing was made to the mayor, as provided by the ordinances of said city, nór was any petition presented signed by two-thirds of the freeholders in said block, praying for the issue of such license as provided by the ordinances of the city above mentioned. And it was further averred that the bond filed by the appellant was not in compliance with the ordinances of said city in that behalf, in that it was not signed by two good and sufficient securities who were at that date freeholders in Eock Island county. Appellant entered his motion to vacate the leave to file this information, supported by affidavits wherein it was sought to show that the information was filed—not to subserve the public interests, but to gratify personal spite and prejudice, and for private and personal ends. On a hearing of this motion it was denied, and this action of the court is assigned for error.
+The granting of leave to file an> information in the nature of a quo warranto, is a matter of sound discretion in the court or judge to whom the application is made. The People ex rel. v. The North Chicago Railway Co., 88 Ill. 537.
+Although not incorporated in a bill of exceptions, and therefore not properly before us, we have examined the affidavits filed in support of the motion to vacate the leave, as well as those filed with the application for leave, and we can not say the court abused its discretion in denying the motion.
+After the motion to vacate was overruled, appellant filed a general demurrer to the information, which was overruled by the court and he was ruled to plead. 1 This he declined to do, and by refusing to plead further he must be held as electing to abide by his demurrer. Thereupon the court entered against'appellant a judgment of ouster and a fine of $250 and he appealed to this court.
+As ground of reversal he insists quo warranto was not a proper remedy to test the validity of his license: We think this contention must be decided against him under the authority of Swarth et al. v. The People ex rel., 109 Ill. 621, and Matthews v. The People ex rel., 159 Ill. 399.
+In the case first cited it was held by a majority of the Supreme Court that quo' warranto -is the proper remedy to test the validity of a license to keep a dram-shop.
+In the last mentioned case, which was similar to the one at bar, the question does not appear to have been raised, and the case was decided upon other grounds; but in the face of the majority decision above referred to, we do not feel at liberty to regard the question as open to further discussion qn our part.
+We think the city council of the city of Moline had full power to prescribe the terms upon which a license to keep a dram-shop in certain specified portions of the city might be obtained, and that the ordinance in question was not unreasonable. (The People ex rel. v. Creiger, 138 Ill. 401; Swift v. The People, 162 Ill. 534.)
+If the ordinance was valid, then before appellant could lawfully obtain a license he must have presented a petition signed by two-thirds of the freeholders "of the block in which he sought to carry on the business of keeping a saloon. This, according to the allegations of the information, which are admitted by the demurrer to be true, he did not do; the license was therefore illegally issued and consequently void.
+We deem it unnecessary to discuss the questions raised by the information as to the sufficiency of the bond. It is enough on that point to say that the demurrer admitted the allegations as to its insufficiency.
+As to the amount of the fine imposed we must assume that the court acted justly upon the evidence before it. It appears from the record that the court heard evidence upon that question, but it has not been preserved and presented in a bill of exceptions, and hence it is not before us. We are therefore not in a position to say the fine was not warranted by the evidence. On behalf of appellee it is urged that this court is without jurisdiction of the appeal in this case, for the reason that a franchise is involved, it being argued that a license is a franchise. In the People ex rel. v. Matthews, 53 Ill. App. 305, we held that a license to keep a dram-shop was not a franchise. We see no reason for changing the opinion then announced, and the arguments then used need not be again repeated. For the reasons given, the judgment will be affirmed.
