@@ -1,0 +1,56 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 11,620"
+decided: "1962-09-28"
+citations: ["37 Ill. App. 2d 159"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CROW and WRIGHT, JJ., concur."]
+parties: ["Alvina Last, Plaintiff-Appellee, v. Board of Education of Community Unit School District #321, Winnebago and Stephenson Counties, Illinois, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/37/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5257455
+cites_cases: ["130 NE2d 5", "153 NE2d 417", "171 NE2d 37", "19 Ill App2d 204", "21 Ill2d 104", "7 Ill App2d 477"]
+---
+
+# Last v. Board of Education of Community Unit School District #321
+
+## Majority (SPIVEY, P. J.)
+
+SPIVEY, P. J.
+This appeal is from an order of the Circuit Court of Winnebago County entered November 30,1961, reversing a decision of the Board of Education of Community Unit School District No. 321 of Winnebago and Stephenson Counties dismissing Alvina Last.
+Alvina Last completed her formal education in 1934, having earned sixty and one-half credit hours at Iowa State Teachers College. Except for two years, she taught school continuously since 1934, the last twenty-six years in the Pecatonica community. Most of her employment was in rural schools. Since 1934 she had not pursued any further formal education.
+In 1958 the Board made a differentiation in salary scale dependent upon the earning of additional educational credits. At the time her 1958-59 contract was delivered to her it was pointed out that she was not receiving an increase in salary in that she had not earned additional credits. Having earned no additional credits the following year, she was not given a raise for the 1959-60 school year.
+The Board adopted a base salary increase on February 23, 1960. Teachers having less than a bachelor’s degree were required to earn additional semester credits to qualify. All of the teachers were notified of this on February 25,1960.
+Again all of the teachers were notified on March 24, 1960, that the Board had adopted a resolution on March 22, 1960, to the effect that all teachers having less than a bachelor’s degree who have earned less than six additional semester hours since July 1, 1956, and by March 1, 1960, would be dismissed at the end of the 1960-61 school year.
+Alvina Last entered into her 1960-61 school year agreement on April 12, 1960, which agreement was by its terms made subject to the rules and regulations of the Board and the provisions of the School Code of the State of Illinois. Paragraph five of this agreement provided, “Said teacher must earn 6 additional semester hours of acceptable college credits by March 31, 1961, or contract will not be renewed for 1961-62.”
+In June 1960, she enrolled in two correspondence courses at Western Michigan University, one in geography and one in arithmetic. At the time of her dismissal hearing before the Board on May 24, 1961, she had completed sixteen of the eighteen lessons in geography and one of the eighteen lessons in arithmetic. Mrs. Last was the only teacher in the district who failed to earn the required six additional credits by March 1961.
+Mrs. Last’s explanation for her failure to comply with the Board’s regulation and her contract was the absence of the geography teacher in August and the arithmetic teacher during the Summer. She further stated she had trouble with her eyes especially at night when they became blurry. She also said she slipped and fell on wet cement injuring her hip.
+She consulted an oculist in the fall of 1960 after she resumed her studies in geography who stated there was nothing wrong with her eyes, that she needed a rest and that she should apply cold packs to her eyes four times a day for twenty minutes. She resumed her studies in arithmetic in December 1960. Her eye and hip injury in no way interfered with her teaching only bothering her when doing night work. During the summer months she worked on her farm raising chickens and during the fall and winter helped with the chores and took care of the eggs.
+The Board on March 29, 1961, notified Mrs. Last of her dismissal assigning the following reasons, (1) Disregard of the warnings given her in 1958-59 and 1959-60 about her failure to add any additional credits, (2) Failure to heed the notice of March 22, 1960 of the Board’s action requiring the earning of six additional credit hours, and (3) Failure to comply with the terms of her contract to earn additional credits.
+Mrs. Last requested a hearing which was afforded her on May 24,1961. Following the hearing the Board dismissed the plaintiff pursuant to the notice of dismissal served on March 29,1961.
+The order of dismissal was reviewed by the Circuit Court of Winnebago County pursuant to the provisions of the Administrative Review Act. That court remanded the cause to the Board for further evidence and review. The Board pursuant to the Circuit Court’s mandate held a further hearing on October 12, 1961. The only pertinent evidence adduced at this hearing was that Alvina Last completed the two courses with a grade of “B”, the geography course in June 1961 and the arithmetic course on July 2,1961.
+The Board, following the October hearing again ordered plaintiff’s dismissal. Upon further hearing in the Circuit Court the Board’s order was wholly reversed on the ground that plaintiff’s dismissal was an unreasonable exercise of the Board’s powers, violated the plaintiff’s rights of tenure under the Teachers Tenure Act (Ill Rev Stats, c 122, §§ 24-1 through 8), and the decision was against the manifest weight of the evidence.
+The question here presented is whether a school board may require a teacher under the Teachers Tenure Act to comply with a rule requiring professional growth as a condition to continued tenure or whether such a rule is an arbitrary and unreasonable rule in that respect.
+Section 22-5 of the School Code, Chap 122, Sect 22-5, Ill Rev Stats provides, “School boards may require teachers in their employ to furnish from time to time evidence of physical fitness and continued professional growth.”
+Section 21-15 of the School Code, Chap 122, Sect 21-15, Ill Rev Stats, in defining professional growth, inter alia, includes additional credits earned in recognized teacher-training institutions.
+In Richards v. Board of Education, 21 Ill2d 104, 171 NE2d 37, wherein the constitutionality of Section 22-5 of the School Code as it applied to a teacher’s salary program was considered, it was said,
+“Although the school law is composed of many different articles and sections, they are in pari materia and combine to form one complete law, all of which must be read to arrive at the legislative intent. (Citing cases.) Here, the definition of professional growth set forth in section 21-15, being a part of the Code and general in nature, forestalled the necessity of the legislature repeating itself in section 22-5 and establishes sufficient standards to overcome any constitutional objection.”
+In that same case the court recognized that professional growth was a proper basis for continuing a teacher in employment. While that question was not directly there involved the same sound reasoning is available in the instant case.
+Worthy of note is the incorporation of Section 22-5 without material changes in the teachers tenure article by the General Assembly of 1961.
+Physical fitness and continued professional growth could have no other logical application to a teacher other than a teacher’s right to continued employment.
+Irrespective of legislative fiat we conclude that Boards of Education may require continued professional growth of its teachers as a condition of continued tenure so long as the requirement is reasonable in the light of the object to be obtained.
+In our judgment a reasonable requirement that a teacher having less than a bachelor’s degree participate in a program of professional growth is neither arbitrary nor unreasonable. Educational requirements for teaching positions have steadily increased over the years. Further training to keep abreast with modern and advanced methods is indicated.
+Many changes and revisions in the Illinois School Code have been forthcoming over the years, all with the ultimate objective in mind of bettering the educational facilities of the children of this State.
+Boards of Education are the proper tribunals to determine whether a teacher should be dismissed for cause and upon administrative review their findings and conclusions are considered prima facie true and correct. Courts will not set aside their decisions unless they are without substantial foundation or are against the manifest weight of the evidence. Jepsen v. Board of Education, 19 Ill App2d 204, 153 NE2d 417.
+In Meredith v. Board of Education, 7 Ill App2d 477, 130 NE2d 5, it was succinctly said, “The best interest of the schools of the district is the guiding star of the board of education and for courts to interfere with the exercise of the powers of the board in that respect is unwarranted assumption of authority and can only he justified in case where the board has acted maliciously, capriciously and arbitrarily.”
+Alvina Last was not treated in a malicious, capricious or arbitrary manner. Since 1934 she had made no effort toward professional growth by earning additional credits in a recognized teacher-training institution. She was satisfied to remain in the same channel even after it was suggested to her in 1958 that the Board felt she should earn additional credits. All of the other teachers had or did comply with the Board’s rule.
+She excuses herself for having not fulfilled her contract, in which she was granted an additional month to complete the work beyond the Board’s rule, by evidence of incapacity. No where does the record disclose the fact of her alleged incapacity was transmitted to the Board. During the entire period she attended to her duties as a school teacher and her chores at home on the farm.
+At the time of the hearing on May 24, 1961, almost two months after she should have completed her courses, she had only completed one of eighteen lessons in arithmetic and sixteen of eighteen lessons in geography. Ample evidence of a conclusion that the Board’s time limitation was not unreasonable is the fact that by July 2, 1961, she was able to complete seventeen lessons in arithmetic and two in geography with a “B” grade average.
+To expect the Board to wait beyond the normal time for hiring teachers, to determine if Mrs. Last would complete and pass her courses before hiring another teacher, is most unreasonable in itself.
+The Board was the trier of the facts, judges of the credibility of the witness and the tribunal to draw all legitimate inferences and conclusions from the evidence.
+We conclude Mrs. Last’s dismissal was for cause and that the Board of Education did not act in a malicious, capricious and arbitrary manner.
+The judgment of the Circuit Court of Winnebago County is reversed and the final administrative order of the defendant Board of Education is affirmed.
+Reversed.
+CROW and WRIGHT, JJ., concur.
