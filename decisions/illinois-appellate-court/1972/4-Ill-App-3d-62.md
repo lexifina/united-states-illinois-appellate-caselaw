@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "71-79"
+decided: "1972-01-19"
+citations: ["4 Ill. App. 3d 62"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Appellee, v. Charles McDonald, Appellant."]
+source_url: "https://static.case.law/ill-app-3d/4/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2918695
+cites_cases: ["1 Ill.App.3d 395", "137 N.E.2d 386", "190 N.E.2d 289", "194 N.E.2d 245", "229 N.E.2d 325", "241 N.E.2d 594", "27 Ill.2d 493", "274 N.E.2d 483", "29 Ill.2d 480", "85 Ill.App.2d 274", "9 Ill.2d 198"]
+---
+
+# People v. McDonald
+
+## Majority (Mr. JUSTICE GUILD)
+
+Mr. JUSTICE GUILD
+delivered the opinion of the court:
+The defendant here was charged in a three count indictment: Count I Attempt Murder, Count II Attempt Murder, and Count III Burglary. Count I was nolle prossed and the defendant was tried before jury which found him not guilty of Attempt Murder, but guilty of Burglary. He was sentenced to 20-35 years in the state penitentiary. Two grounds for reversal of the conviction are urged in this appeal. Defendant claims the trial court erred in refusing to discharge him because he was not brought to trial within 120 days under the provisions of Ill. Rev. Stat. 1969, ch. 38, par. 103 — 5, and further contends that the filing of a bill of particulars with relation to the burglary improperly “broadened” the indictment.
+We shall consider the 120-day rule question first. The defendant was arrested on December 14, 1969, and held in custody continuously until trial commenced on April 14, 1970, the 121st day. On January 22, 1970, the defendant had moved to dismiss Counts I and II of the indictment. On February 24, 1970, the defendant had moved to dismiss Count III. The Supreme Court in People v. Hamby (1963), 27 Ill.2d 493, 190 N.E.2d 289, has expressly held that “motions to test the validity of the indictments were correctly charged to the defendant.” (See also People v. De Stefano (1967), 85 Ill.App.2d 274, 229 N.E.2d 325, and People v. Walker (1968), 100 App.2d 282, 241 N.E.2d 594.) On February 24, 1970, the defendant filed a further motion to suppress identification. We have recently held in People v. Schoenek (1971), 1 Ill.App.3d 395, 274 N.E.2d 483, that a motion by defendant to suppress does in fact toll the running of the 120-day statute. Accordingly, we find that the defendant by his motions has tolled the statute in question and his contention in this regard is without merit.
+On the night of December 4th, 1969, Eleanore Bailey, the complaining witness, retired to her bedroom in her home in Lombard. Sometime after midnight an intruder grabbed her across the mouth as she was lying in bed, straddled her body, and pushed her face down into the pillow tying her hands behind her back. She felt a sharp object in her back. The intruder threatened to kill her and stated: “All I want is your money.” He then asked her where her nylons were for the purpose of gagging her, and as he was attempting to remove them from the dresser drawer, he turned on the light and she was able to see him. She broke away from him, running down the hall. He pursued her, jumped on her, and in the process cut her on the leg and on the hand. As she was screaming, the intruder fled.
+The complaining witness identified the defendant in open court as the man who had attacked her in her bed room. No question has been raised in this appeal as to the identification of the defendant by the complaining witness.
+The instant indictment states that the defendant unlawfully entered the premises with intent to commit a felony. The bill of particulars stated that the felony was “theft”.
+Defendant contends that the trial court committed reversible error in permitting the State’s written bill of particulars to be filed. At the time defendant moved to dismiss Count III of the indictment he was orally advised that this count contemplated “attempt murder” as the felony under this burglary count. Subsequently the State filed its bill of particulars in which the felony was described as “theft.” Interestingly defendant contends in substance that all thefts are not felonies, and therefore, a theft of less than $150 were intended, it would be a. misdemeanor rather than a felony, and the burglary charge would fail. As the Supreme Court said in People v. Dogoda (1956), 9 Ill.2d 198, 137 N.E.2d 386 “This argument, basically ejusdem, generis is not persuasive.” The courts of this state have repeatedly held that it is not necessary to prove that anything was taken. The gist of the offense of burglary is not the amount involved but is the unlawful entry of the premises of another with intent to commit a felony or theft within. Paraphrasing what the Supreme Court stated in People v. Peck (1963), 29 Ill.2d 480, at 484, 194 N.E.2d 245, we believe that one who unlawfully enters a building to commit theft is not concerned with the niceties of value of what he could find to steal. Counsel’s argument in this regard is without merit. It seems to us obvious that the legislature contemplated and laid to rest just such an argument as this when they included intent to commit a “theft” as an alternative to intent to commit a felony as an element of the offense of burglary. As the court said in People v. Peck, supra, at 484:
+“What the statute is concerned with is a generalized intent to commit a theft or felony within the building unlawfully entered. The indictment in this case charges the offense in the language of the statute and the statute describes the offense with sufficient clarity * * °. To require the allegation of a more particularized intent would be unrealistic * * *. Because the primary concern in a burglary indictment is with the unlawful entry, the intended felony or theft need not be described with the same specificity that might be required in an indictment for larceny, or for the felony itself.”
+No contention is made in this appeal that the evidence against the accused was other than clear and convincing. In fact, it indicates he entered armed with a knife which he used in an attempt to commit aimed robbery, also a felony. We do not believe he was mislead in preparation of his defense, or prejudiced by the answer to demand for bill of particulars.
+Therefore we find no reason to disturb the verdict of the jury and judgment in the'trial court.
+Judgment affirmed.
+MORAN, P. J., and ABRAHAMSON, J., concur.
