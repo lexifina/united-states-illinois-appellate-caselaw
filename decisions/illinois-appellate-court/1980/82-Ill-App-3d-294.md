@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-196"
+decided: "1980-03-13"
+citations: ["82 Ill. App. 3d 294"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re MARRIAGE OF MARGARITA BAUER, Petitioner-Appellee, and CHARLES F. BAUER, Respondent-Appellee. — (KORI BAUER, a Minor, by Arthur M. Berman, her Guardian ad Litem, now known as Representative, Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/82/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3223882
+cites_cases: ["104 N.E.2d 769", "127 N.E.2d 673", "228 Ill. App. 273", "335 Ill. App. 637", "343 Ill. App. 649", "344 U.S. 824", "411 Ill. 618", "6 Ill. App. 2d 310", "73 S. Ct. 24", "82 N.E.2d 671", "97 L. Ed. 642"]
+---
+
+# In re Marriage of Bauer
+
+## Majority (Mr. JUSTICE ROMITI)
+
+Mr. JUSTICE ROMITI
+delivered the opinion of the court:
+The sole issue in this case is whether when both parties to a divorce action move to have the case dismissed, the court can refuse to dismiss the action, place the case on the dormant calendar and order psychiatric testing. The trial court held that it could not and dismissed the action. We affirm.
+The wife in the action originally filed a petition for dissolution of marriage in December 1977. It appears from the evidence that this was the third divorce action instituted by the wife since the early part of 1976. The couple had one child, a daughter Kori, born in 1967. In her petition for dissolution of the marriage the wife asked for custody of Kori. The court upon filing of the petition appointed an attorney for the child. It also empowered the attorney to retain a psychiatrist to examine both the parties and the minor child, and to make a report to the attorney for the child and the attorneys for .the parties. On September 7, 1978, the court entered a judgment for dissolution of marriage, instanter, but reserved jurisdiction for provisions regarding maintenance, support and custody. The order also provided that the parents and Kori should undergo psychological testing.
+On October 3, 1978, within the 30-day period in which a trial court retains jurisdiction of a case after final judgment (Ill. Rev. Stat. 1977, ch. 110, par. 50(5)), the wife moved for vacation of the judgment for dissolution of marriage and dismissal of the suit; her husband joined in the motion and filed an affidavit to the effect that the parties had been reconciled. The attorney for Kori, while not objecting to the vacation of the judgment, objected to dismissal of the action and asked that the case be placed on the dormant calendar to allow the court to see that the parties, and more particularly Kori, receive psychiatric or psychological help.
+The psychiatric report dated September 18,1978, and filed in the trial court indicated that both parents, but particularly the father, had psychiatric problems. The doctor further noted that both parents do not feel they need psychiatric care because both believe they do not have a significant problem “which makes the situation extremely dangerous in terms of Kori’s future.” He recommended that Kori be removed from her current environment and her custody given to her mother although the father should have limited visiting privileges if the circumstances are clearly delineated.
+As to Kori, the doctor stated that she has apparently been able to cope with her surroundings so that her overt emotional health does not show the degree of psychopathology one might expect by observing her parents’ behavior.
+The trial court ruled that it had no alternative but was required both to vacate the judgment and dismiss the action since both parties sought it. It did make Kori a party to the action so that her attorney could appeal for her.
+It is well established in Illinois that the parties to a divorce action have a right to have it dismissed even after judgment if the parties seek dismissal within the 30-day period in which the trial court retains jurisdiction. As stated in Gonzalez v. Gonzalez (1955), 6 Ill. App. 2d 310, 315, 127 N.E.2d 673, 675:
+“The courts have uniformly encouraged the dismissal of divorce actions. The controlling reasons for so doing are clearly stated in Borin v. Borin (Abst.), 343 Ill. App. 649, as follows: ‘A plaintiff may wish to dismiss her divorce suit in the hope of a reconciliation or because she wishes to avoid the finality of a decree breaking family ties, or for a multitude of reasons, emotional or rational, which affect the conduct of litigants in cases of this character. In any event, the courts of Illinois have persistently held that when such a motion is made, it should be allowed.’ ”
+And as stated in Labanauskas v. Labanauskas (1923), 228 Ill. App. 273, 276; Watson v. Watson (1948), 335 Ill. App. 637, 641, 82 N.E.2d 671, 673: “Public policy forbids that parties to a divorce suit should be kept in a state of hostile litigation when both are seeking to have it dismissed. It was unquestionably error for the court not to vacate the decree and dismiss the bill when requested. There is no justification in practice for keeping a suit alive to require the payment of alimony or solicitor’s fees for which no order had been entered prior to a motion to dismiss the bill.” Likewise, it would have been improper for the trial court here to refuse to vacate the decree and dismiss the bill simply so it could order psychiatric counseling, particularly in light of the fact that no grave need for such testing was shown and the decision of parents as to how best to take care of their children is generally controlling except in extreme instances. (59 Am. Jur. 2d Parent and Child §15 (1971).) We are not by affirming the trial court’s action depriving the court of jurisdiction to act if evidence of a grave situation is shown. The responsibility of government in its character as parens patriae to care for infants within its jurisdiction and to protect them from neglect, abuse and fraud is codified in the Juvenile Court Act (Ill. Rev. Stat. 1977, ch. 37, par. 701 — 1 et seq.), which permits the State to interfere when parents fail to exercise the care of children that the circumstances justly demand, whether this failure is wilful or unintentional. People ex rel. Wallace v. Labrenz (1952), 411 Ill. 618, 104 N.E.2d 769, cert. denied (1952), 344 U.S. 824, 97 L. Ed. 642, 73 S. Ct. 24.
+Judgment affirmed.
+JIGANTI and JOHNSON, JJ., concur.
