@@ -1,0 +1,46 @@
+---
+court: "Illinois Appellate Court"
+docket: "57450"
+decided: "1974-01-25"
+citations: ["17 Ill. App. 3d 386"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Universal Underwriters Insurance Company, Plaintiff-Appellee, v. Farmers Insurance Exchange, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/17/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2515486
+cites_cases: ["190 N.E.2d 121", "232 N.E.2d 205", "40 Ill.App.2d 463", "89 Ill.App.2d 25"]
+---
+
+# Universal Underwriters Insurance v. Farmers Insurance Exchange
+
+## Majority (Mr. JUSTICE DRUCKER)
+
+Mr. JUSTICE DRUCKER
+delivered the opinion of the court:
+This is an appeal from a summary judgment in favor of plaintiff, awarding it damages in the amount of $10,163.36 and costs. Defendant contends the motion for summary judgment was improperly granted because: (1) the allegations of fact contained in the affidavits, depositions and pleadings submitted to the court below “indicate that the judgment was contrary to law, or, at least, that there was a material factual dispute * * #” and (2) the record was devoid of probative evidence concerning damages.
+The underlying facts, elicited from the pleadings and various depositions and affidavits filed below, are as follows:
+On November 12, 1964, Nino Lovato, the named insured on a liability policy issued by defendant, and the owner of a Pontiac automobile, brought his car to Tony Piet Motor Sales, Inc. (hereinafter Piet Motors), in order to have it repaired. After speaking with Lovato concerning these repairs, the service advisor employed by Piet Motors executed a repair order with the following instructions, “Left door lock does not work nec to -R-R cylinder & repair. Emgy brake handle off from assy Drill & tap holes in handle & install set screw Notch hole in handle stem.” A copy of this repair order was placed on the windshield of the Lovato Pontiac, and the car was delivered to the work stall of Daniel Flowers, a mechanic employed by Piet Motors. Flowers and Piet Motors are^insured by plaintiff. Pursuant to the instructions on the repair order, Flowers proceeded to repair the door lock and the emergency brake handle. Neither he nor his supervisor, the service shop foreman, had spoken with Lovato concerning this work.
+In November 1964 it was the policy of Piet Motors to road test most cars brought to it for repairs. The customers of Piet Motors were not informed of this road testing policy nor was permission obtained before their cars were so tested. There were no signs in the shop area to inform customers that their cars might be road tested. Following the general practice, Flowers road tested the Lovato automobile after he had completed the repairs. He did this to insure that “everything was tight” and there were no rattles. As he drove out of the garage, Flowers was able to determine that his repair work was adequate. He continued, however, to road test the car to determine if any other repairs were needed. Mechanics at Piet Motors received a commission based upon the total cost of the repair work they did. While road testing the car, over one-half mile from Piet Motors sendee facilities, Flowers was involved in an accident with an auto driven by one Armando Fonte.
+The above circumstances led to the initiation of litigation on behalf of Fonte against Flowers, the driver of the car, Lovato, the owner of the car, and Piet Motors, the employer of Flowers. Plaintiff, after having unsuccessfully tendered defense of Flowers and Piet Motors to defendant, represented those two parties in the Fonte suit. Lovato was represented by defendant. By summary judgment Lovato was dismissed from the suit and thereafter the action was concluded by a negotiated settlement between Fonte and the remaining two defendants. In reaching the compromise settlement, plaintiff claims it incurred expenses of $10,163.36. Included in this total was $960 in office overhead expenses. Plaintiff instituted the instant action against defendant to recover the $10,163.36 alleging that defendant provided primary insurance coverage under the omnibus clause of its policy. Defendant in its answer claimed that (1) the car was being used in the automobile business at the time of the accident and thus was not covered due to the “automobile business” exclusion clause of its policy, and (2) Flowers was not a permissive user of the Lovato auto at the time and thus not included in the coverage clause of the policy. Plaintiff moved for summary judgment and it was granted, the court holding that as a matter of law defendant’s “automobile business” exclusion was inapplicable and that Flowers had permission to drive the Lovato automobile. Through its denial of defendant’s motion to vacate the summary judgment order the court further specifically held that adequate proof had been submitted on the issue of damages.
+OPINION
+Defendant asserts that disposition of plaintiff’s claim by summary judgment was improper. The purpose of a summary judgment procedure is to determine whether genuine issues of material fact exist and, if not, then to summarily dispose of those cases on issues of law. (Ill. Rev. Stat. 1969, ch. 110, par. 57; Tau Delta Phi, Tau Eta Chapter, Building Association v. Gutierrez, 89 Ill.App.2d 25, 232 N.E.2d 205.) Here defendant claims that as a matter of law the Lovato car was excluded from coverage because of its use in the automobffe business, or in the alternative that material issues of fact exist as to whether (1) the car was being used in the automobile business at the time of the accident and whether (2) Flowers was a permissive user of Lovato’s car.
+Defendant is correct in asserting that the summary judgment must be reversed because the court below erroneously found that the automobile business exclusion to the omnibus clause of the poficy it issued to Lovato was not applicable. This exclusion declares that the omnibus clause will not provide coverage if the car is used in the automobile business, the term “automobile business” being defined as “the business of selling, repairing, servicing, storing or parking automobües, their parts or equipment.” Since it is undisputed that Piet Motors was engaged in the automobile business, it must then be determined whether Flowers’ road testing of the Lovato auto rendered the exclusion inoperative.
+In Walker v. State Farm Mutual Auto Insurance Co., 40 Ill.App.2d 463, 190 N.E.2d 121, tire precise formulation of the automobile business exclusion found in the policy issued by defendant was discussed. There the owner of a service station used his father’s car to pick up spare parts to be kept in stock and whffe so engaged was involved in an accident. Since this use was for the benefit of the driver’s automobffe business, the exclusion clause of the father's insurance policy was held to be applicable.
+Plaintiff has cited numerous cases, mostly from other jurisdictions, but after careful study we conclude that each of them is distinguishable from the case now before us. In the instant case Flowers continued to road test the Lovato auto generally despite the fact that upon driving out of the garage he had already determined that the requested repairs had been successfuUy completed. He explained that he wanted to “see if there was any additional work that needed to be performed on the car.” This was in accordance with the standard practice at Piet Motors. “They feel it is a good thing for business and it generates business.” Flowers’ commission was based on the amount of repair work performed. Thus it is clear to us as matters of both fact and law that at the time of the accident the Lovato auto was being used in the automobile business and the exclusion from coverage is applicable.
+Due to our finding with regard to the applicability of the automobile business exclusion to the omnibus coverage clause found in defendant’s policy, we need not discuss plaintiff’s contention that Flowers was not a permissive user of the Lovato auto.
+The judgment entered below is reversed and the cause is remanded for further proceedings not inconsistent with this opinion.
+Reversed and remanded with directions.
+SULLIVAN, P. J., and ENGLISH, J., concur.
+The policy of insurance issued by defendant provides in pertinent part:
+“Part I: Coverages A and B—
+# * #
+Definition of “Named Insured” and “Insured” under Part I
+(1) If the insured named in Item 1 of the Declarations is an individual, the term “named insured” includes his spouse if a resident of the same household;
+(2) the unqualified word “insured” includes (a) with respect to any automobile as hereinafter defined, the named insured and his relatives, (b) with respect to the described automobile, any other person or organization legally responsible for its use, provided the actual use of the automobile is by the named insured.or with his permission, * * *.
+a a a
+(4) Automobile Business. Automobile business means the business of selling, repairing, servicing, storing, or parking automobiles, their parts or equipment.
+Exclusions Under Part I This Policy Does Not Apply Under Part I:
+a a a
+4. ness, While the described automobile is being used in the automobile busi-e a a ”
