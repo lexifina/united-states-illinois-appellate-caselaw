@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "55904"
+decided: "1973-04-24"
+citations: ["11 Ill. App. 3d 706"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald G. Reid, Plaintiff-Appellant, v. NX Corporation f/k/a Nuveen Corporation et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/11/cases/0706-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2927195
+cites_cases: ["29 Ill.App.2d 131", "89 Ill.App.2d 94"]
+---
+
+# Reid v. NX Corp.
+
+## Majority (Mr. JUSTICE SCHWARTZ)
+
+Mr. JUSTICE SCHWARTZ
+delivered the opinion of the court:
+This action was brought to rescind the purchase of certain shares of stock acquired by plaintiff from the defendant corporation. Plaintiff bases his claim on provisions of Ill. Rev. Stat. 1967, ch. 121½, pars. 137.1-137.19. The Act, known as The Illinois Security Law of 1953, provides for a rescission of the sale of certain securities where such sale is not registered with the Secretary of State. However, certain types of securities and certain transactions are exempt (pars. 137.3 and 137.4). The trial court found that the transaction complained of in this case was exempt, that the plaintiff was a “dealer” and therefore not entitled to the remedy invoked. From that order plaintiff appeals. The facts follow.
+In July 1968, plaintiff was president of Ashwell & Company [Ashwell] whose business was dealing in commercial paper and other short-term negotiable instruments. Discussions were initiated between plaintiff and defendant Frank Wendt, who was president of defendant John Nuveen & Co. [Nuveen]. These discussions involved the prospective acquisition of Ashwell’s assets by Nuveen and the employment of plaintiff by Nuveen. An agreement was entered into whereby Nuveen would purchase certain assets of Ashwell’s and plaintiff would be employed as vice-president of Nuveen in charge of commercial paper. His annual salar)7 was set at $43,000.
+On September 23, 1968, plaintiff purchased 650 shares of Nuveen stock for the sum of $27,452.10. He contends that representations were made to him that the purchase of this stock was necessary to meet certain requirements of the New York Stock Exchange. Defendant contends that plaintiff was under no compulsion to purchase the stock and that he did so only to enhance his status in the industry by qualifying himself for allied membership on the New York Exchange. An examination of the Exchange requirements as set forth in the record reveals that before allied membership on the Exchange could have been obtained the applicant was required to own at least one-fourth of one per cent of the voting stock of the corporate member. The stock purchased by plaintiff fulfilled this requirement.
+On January 31, 1969, plaintiff purchased an additional 150 shares of Nuveen common stock. His employment at Nuveen continued until the summer of 1969 when, due to financial reverses, the company was forced to make certain economy moves, including cutting back on the number of high-salaried employees. Plaintiff was one of the officers discharged. He testified that he then learned the market value of his stock had fallen below $5.00 per share. Since ownership of stock was limited to Nuveen employees, plaintiff was limited as to the number of prospective purchasers for his shares. However, he found a qualified buyer who bought the original 650 shares on December 24, 1969, for $650. The plaintiff took a deduction on his 1969 income tax return for the loss sustained in the transaction. He made no attempt to dispose of the 150 shares subsequently acquired.
+Plaintiff testified that more than five months later [June 1970] he learned from his attorney that he might be entitled to a rescission of his purchase of the stock because Nuveen had not registered the sale with the Secretary of State. No longer owning the 650 shares, he contacted the purchaser, negotiated a repurchase price, and instituted this action after obtain'ng the stock. He appeals from a judgment for defendant, arguing that the trial court erred in failing to order a rescission pursuant to Ill. Rev. Stat. 1967, ch. 121 ¥2, par. 137.13, with provides that a failure to file notice of the sale of securities with the Secretary of State enables the purchaser to resend the sale within six months after learn'ng of the violation.
+That Act seeks to protect innocent investors from unscrupulous promoters by requiring registration with the Secretary of State. (Levine v. Unruh„ 89 Ill.App.2d 94.) Additionally, the Act shields the buying publ'c from irrespons;ble or incompetent persons who might be disposing of secur'ties. (Stein v. Twilight Motel, Inc., 29 Ill.App.2d 131.) Subsection C of section 4 of the Act provides that the registration requirements do not apply when the purchaser is himself a dealer. The reason is that it is assumed dealers are capable of protecting themselves and do not require the protection afforded by the Act. See Young, Exemptions from Registration under the Illinois Security Law of 1953, U. Ill. L. Forum 205 (1961).
+In section 2.7 of the Act, a dealer is defined as “any person, 909 who engages in this State, either for all or part of his time, directly or indirectly, as agent, broker or principal, in the business of offering, selling, buying and selling, or otherwise dealing or trading in securities issued by another person.” (Emphasis added.) It is our conclusion that plaintiff was a dealer within the meaning of the Act. Moreover, as evidence that the purpose of the Act has not been frustrated, the record indicates that plaintiff, previous to the initiation of this action, had filed with the Secretary of State a statement of occupation and experience in which he stated that he was familiar with the various provisions of the Securities Act of 1953. That being tire case, both the letter and the spirit of the law were complied with, and the trial court properly found that a rescission was not justified.
+Judgment affirmed.
+LEIGHTON and HAYES, JJ., concur.
