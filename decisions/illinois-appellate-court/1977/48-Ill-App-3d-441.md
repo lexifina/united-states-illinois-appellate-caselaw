@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+docket: "76-35"
+decided: "1977-04-27"
+citations: ["48 Ill. App. 3d 441"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re JIMMIE SCOTT, a Minor.—(THE PEOPLE OF THE STATE OF ILLINOIS, Petitioner-Appellee, v. JIMMIE SCOTT, Respondent-Appellant.)"]
+source_url: "https://static.case.law/ill-app-3d/48/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3371751
+cites_cases: ["237 N.E.2d 453", "253 N.E.2d 353", "359 N.E.2d 848", "39 Ill. 2d 568", "43 Ill. 2d 375", "45 Ill. App. 3d 301"]
+---
+
+# People v. Scott
+
+## Majority (Mr. JUSTICE McNAMARA)
+
+Mr. JUSTICE McNAMARA
+delivered the opinion of the court:
+The respondent appeals from an order of the juvenile division of the circuit court of Cook County adjudging him to be delinquent and committing him to the Department of Corrections. On J anuary 11,1975, a petition had been filed charging him with the robbery and felony murder of Josephine Constantino.
+On appeal respondent contends that he was not proved guilty of the offenses beyond a reasonable doubt; that the State failed to establish the corpus delicti of the offenses in that, apart from his statements, there was no evidence establishing the commission of the crimes; that there was no specific adjudication of wardship; and that the absence of proof that respondent was under 17. years of age and the “flagrant misstatements” of the evidence by the prosecutor entitle him to a new hearing.
+The testimony adduced at the adjudicatory hearing is as follows. Investigator Charles Dulay of the Chicago Police Department testified that on January 10, 1975, he arrested the respondent at 1228 West Taylor Street in Chicago. After respondent was advised of his rights, Dulay questioned him about purse snatchings in the area of Lytle and Westgate and the death of Josephine Constantino. According to Dulay, respondent stated that he had taken a purse from an old white woman. When she refused to release the purse, a struggle ensued during which the woman fell to the ground. Respondent told Dulay that he took the purse and hid behind a car where he emptied it. Respondent placed the purse on the ground beside the woman and fled. Respondent told Dulay that he subsequently informed his friends Anthony and Calvin Davis and Bernard Brown of the incident.
+Dulay further testified that respondent directed the officers to the area of Lytle and Westgate and pointed out the precise area where the woman had been walking. He showed them where the struggle took place and where he ran. Respondent told Dulay that he took *16 from the woman’s purse, and that he was wearing a blue fur trimmed parka, blue jeans and tennis shoes.
+Investigator Dulay testified that he determined that the date of the offense was December 11,1974. On January 9,1975, Dulay spent the day investigating the crime. He was given the names of Anthony and Calvin Davis by Bernard Brown while the latter was at the station on a shoplifting charge. Dulay then obtained written, signed statements from the Davises. According to Dulay, the respondent denied having committed the offenses until Dulay told him that the Davises had stated that respondent “had in fact done this.”
+An assistant State’s Attorney testified that he had been called to the police station at approximately midnight on January 11,1975, in reference to the robbery and death of Josephine Constantino. The prosecutor was informed that the police had a suspect in custody. The prosecutor testified that the respondent addressed himself to the approximate time and date of the incident. Respondent told him: “I robbed the old lady.”
+Officer William O’Neal of the Chicago Police Department testified that he was present during the assistant State’s Attorney’s conversation with the respondent. He heard respondent say that on December 11,1974, he took the woman’s purse after knocking her down. According to O’Neal respondent at first denied the charges, then admitted them, and again denied them.
+Bernard Brown testified that on January 10,1975, he had related certain things that respondent had told him. Brown testified that one day while walking home from school respondent told him that he needed some help to get out of “murder trouble” concerning a white lady. Respondent told Brown that he had hit the lady with his fist so she would release the purse.
+Calvin Davis testified that on December 11, 1974 respondent told him about the purse snatching. Two days later respondent told him that the lady had died. Respondent said to Davis, “I hit her, she fell down.”
+Doctor Eupil Choi, the coroner’s pathologist, testified that he examined the body of Josephine Constantino on December 14, 1974. She was 80 years old. In his examination, the doctor found hemorrhages on the surface of the scalp and on the left and right side of the brain. The cause of death had been cranial injury which could have been caused by the deceased falling and striking her head on the sidewalk. According to Dr. Choi, such an injury could have resulted from direct trauma or the subject could have fallen down.
+The parties entered into a stipulation that on December 11, 1974, two police officers took Josephine Constantino to Mother Cabrini Hospital. On December 12,1974, two officers removed her body from the hospital to the morgue.
+Mrs. Moreno, the deceased’s niece, testified that she saw her aunt on December 11, and that she was in the hospital with her aunt when she died on December 12, 1974. John Moreno, the deceased’s nephew, testified that he identified her body at the morgue on December 14,1974.
+In his argument opposing respondent’s motion for a directed finding of no delinquency at the close of the State’s case, the prosecutor made the following statement:
+“Your Honor will recall that on cross-examination by Defense Counsel, Investigator Dulay testified that he talked to Mr. and Mrs. Marino [sic] That they observed the young man wearing clothing which later was described to be worn by the young man as the offender.
+The record clearly corroborates this. They observed the young man approach and snatch the purse. That I clearly recall. That, in and of itself is corroborative evidence and refuted Defense Counsel’s claims.”
+After that statement, over the prosecutor’s objection, respondent’s counsel was permitted to respond. He pointed out that the officer’s testimony on direct examination to which the prosecutor referred had been objected to as being hearsay and was ordered stricken. The court denied respondent’s motion for a directed finding of no delinquency, and respondent’s counsel offered no evidence and rested.
+During subsequent closing argument, the prosecutor made the following statement:
+“Defense further claims that there is no proof as to whether the —, rather, when the injury occurred.
+The record is replete with that. It establishes the date. It establishes that by the niece of the deceased, that she saw the deceased walking down the street, going to the store.
+Mrs. Marino [sic] is the name, I believe. Saw her early in the morning. How it occurred? We have testimony about it. That Mr. and Mrs. Marino [sic] noticed — observed the commission of the offense. They observed the fall.
+This evidence appears in the record. Through the testimony of Investigator Dulay. And this was brought out again on cross-examination by Defense Counsel.”
+We hold that the prosecutor’s misstatements of the evidence were patently erroneous, and thus entitle the minor respondent to a new hearing. In making the above statements, the prosecutor grossly misstated the facts. As respondent’s counsel noted, any description of the assailant given to the police by the Morenos and sought to be introduced into evidence through the testimony of the police officer had been properly objected to and stricken as hearsay.
+The trial judge made no comment after the prosecutor’s first misstatement, but denied the motion for a directed finding. Such action could indicate some reliance by the court upon the prosecutor’s assertion that the Morenos did in fact corroborate the respondent’s description.
+The prosecutor compounded his earlier misstatements by fabricating additional facts in closing argument in order to bolster the case presented by the State. His version of the facts in evidence was not only replete with error, but he incorrectly accused respondents counsel of bringing out that testimony. The prosecutor stated that the Morenos had been eyewitnesses to the offense and had identified respondent as the perpetrator. The Morenos merely had been life and death witnesses.
+Although it is presumed that a judge as trier of fact considers only competent and proper evidence and argument in reaching a decision (People v. Pelegri (1968), 39 Ill. 2d 568, 237 N.E.2d 453), highly prejudicial and unsupported statements can warrant a new trial. (People v. Nuccio (1969), 43 Ill. 2d 375, 253 N.E.2d 353.) We believe that to be particularly true when the case involves a juvenile respondent and where the misrepresentations are as gross as in the present case. Since the misstatements which the prosecutor attributed to the State’s witnesses could have contributed significantly to the finding of delinquency, respondent must be afforded a new hearing free from the highly prejudicial errors which occurred in this one. We therefore shall not comment on the sufficiency of the evidence. See People v. Fair (1977), 45 Ill. App. 3d 301, 359 N.E.2d 848.
+In view of our holding, we deem it unnecessary to consider the claimed assignments of error regarding the proof of juvenile’s age or the absence of an adjudication of wardship. Neither are likely to recur in a subsequent adjudicatory hearing.
+For the reasons stated, the order of the circuit court of Cook County adjudging the respondent to be delinquent is reversed and the cause is remanded for further proceedings consistent with the holding of this opinion.
+Reversed and remanded.
+SIMON, P. J., and McGILLICUDDY, J., concur.
