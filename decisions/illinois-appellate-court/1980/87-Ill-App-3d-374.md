@@ -1,0 +1,80 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-1450, 78-302 cons."
+decided: "1980-08-07"
+citations: ["87 Ill. App. 3d 374"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MELVIN VANDYGRIFF, Plaintiff, v. COMMONWEALTH EDISON CO., Defendant and Third-Party Plaintiff-Appellant.—(GUST K. NEWBERG CONSTRUCTION CO., Third-Party Defendant-Appellee.)—WILLIAM KJELLESVIK, Plaintiff, v. COMMONWEALTH EDISON CO., Defendant and Third-Party Plaintiff-Appellant.—(GUST K. NEWBERG CONSTRUCTION CO., Third-Party Defendant-Appellee.)."]
+source_url: "https://static.case.law/ill-app-3d/87/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3179673
+cites_cases: ["131 N.E.2d 100", "133 Ill. App. 2d 655", "15 Ill. 2d 272", "154 N.E.2d 683", "241 N.E.2d 439", "273 N.E.2d 505", "323 F. Supp. 931", "369 N.E.2d 525", "401 N.E.2d 1032", "41 Ill. 2d 32", "511 F.2d 96", "54 Ill. App. 3d 317", "7 Ill. 2d 393", "81 Ill. App. 3d 776"]
+---
+
+# Vandygriff v. Commonwealth Edison Co.
+
+## Majority (Mr. JUSTICE JOHNSON)
+
+Mr. JUSTICE JOHNSON
+delivered the opinion of the court:
+These cases arose out of two accidents on the same construction site where Commonwealth Edison Co. (Edison) was the owner and Gust K. Newberg Construction Co. (Newberg) was the general contractor. Edison, defendant and third-party plaintiff, initiated third-party actions against Newberg, third-party defendant, which employed the two plaintiffs, based on common law indemnity. Newberg moved for summary judgment on the third-party actions and the motions were granted. Edison appeals from the orders. The appeals have been consolidated on the basis that they involve the same issues.
+The issues presented for review are (1) whether Edison can sue Newberg for common law indemnity and (2) whether Edison is precluded from bringing suit against Newberg since Harbor Insurance Co. insured both Edison and Newberg under separate policies.
+On June 9, 1973, Edison and Newberg entered into a contract wherein Newberg, as general contractor, agreed to construct certain buildings and tunnels on property owned by Edison in Grundy County, Illinois, known as “Collins Station.”
+The contract was prepared by Edison and contained an indemnity agreement requiring Newberg to indemnify Edison for any liability incurred by Edison for personal injury caused by or connected with the work to be done by Newberg. The contract contained a further provision whereby Edison, at its option, could require Newberg to purchase a liability insurance policy covering Edison against bodily injury claims arising from the work of Newberg, its subcontractors or employees. Edison subsequently made such a request and Newberg purchased insurance from Harbor Insurance Co. (Harbor) under which Edison was the named insured. The effective policy dates extended from February 1, 1972, until canceled.
+During construction of the “Collins Station,” William Kjellesvik suffered personal injuries on November 11, 1973, and Melvin Vandy griff suffered personal injuries on June 25,1975. Both men were employed by Newberg at the time they were injured, and they both brought personal injury actions against Edison under the Illinois Structural Work Act.
+Harbor engaged counsel to defend Edison in both cases. Both personal injury cases were settled. In addition to defending Edison against the Kjellesvik and Vandygriff claims, the attorneys representing Edison filed third-party actions against Newberg based on common law indemnity.
+Newberg filed an answer to the third-party complaint in both cases. The answer contained affirmative defenses challenging Edison’s right to pursue the indemnity claim in light of the provisions of the contract, the intent of the parties, and Newberg’s compliance with the contract by purchasing the Harbor policy for Edison.
+Newberg moved for summary judgments on the third-party complaints and its motions were granted. Edison appeals, and we affirm the trial court.
+The first issue for review is whether Edison has a right to bring suit against Newberg on a common-law indemnity theory. Edison contends that it has a right to seek common law indemnity from Newberg, and the purchase of the liability insurance policy for Edison pursuant to Newberg’s contractual obligation does not relieve Newberg of its liability to indemnify Edison. Newberg asserts that Edison was fully protected and indemnified by the insurance Newberg purchased and there is no right to a second indemnity from Newberg personally.
+The contract between Newberg and Edison contained the following provision regarding insurance.
+“11. Insurance Against Liability for Bodily Injuries and Damage to Property. The Contractor shall provide and maintain in such amounts and in such companies as shall be acceptable to the Owner:
+(a) Workmen’s compensation insurance in the name of the Contractor * *
+(b) Contractor’s public liability insurance in the name of the Contractor against claims for injuries to or death of persons and damage to property arising directly or indirectly from operations under the contract, whether such injuries, death or damage result from any act or neglect of the Contractor, any subcontractor, or any other person directly or indirectly employed by either or any of them;
+(c) When requested by the Owner, owner’s contingent liability insurance in the name of the Owner and such other corporations or persons as the Owner may direct, against claims of the nature specified in (b) above; and
+(d) Such other insurance as, in the opinion of the Owner, the nature of the work and the circumstances may require.”
+This provision regarding Newberg’s obligation to obtain insurance followed a clause in the contract relating to the obligation of Newberg to indemnify Edison. The indemnification clause was subsequently declared void. (Ill. Rev. Stat. 1975, ch. 29, par. 61.) Accordingly, the contract entered into by both parties must be carefully scrutinized.
+In Martindell v. Lake Shore National Bank (1958), 15 Ill. 2d 272, 154 N.E.2d 683, the court held that a contract is to be construed as a whole, and the primary object of the construction of a contract is to give full effect to the intention of the parties. Generally, the intention of the parties is to be determined from the final agreement they execute. See Illinois Valley Asphalt, Inc. v. La Salle National Bank (1977), 54 Ill. App. 3d 317, 369 N.E.2d 525.
+It appears from our reading of the contract that the parties contemplated the insurance requested in clause 11(c) would be used to indemnify against bodily injury claims arising from Newberg’s work. The first reference to that possibility is in that clause where it states the owner may request contingent liability insurance in the name of the owner to provide protection against claims as stated in 11(b), ” “ injuries to or death of persons * * * arising directly or indirectly from operations under the contract, * * *.”
+In Cerny-Pickas & Co. v. C. R. John Co. (1955), 7 Ill. 2d 393, 131 N.E.2d 100, a similar problem had arisen in the area of leases. The lease provided for fire coverage, and both the lessor and its insurer, as subrogee, sought recovery against the lessee for loss due to fire damage. The supreme court stated:
+“From the lease as a whole we conclude that the lessee was not to be liable for loss by fire regardless of the cause of the fire, and that the parties intended that the lessor should look solely to insurance as compensation for damage caused by any kind of fire.” (7 Ill. 2d 393, 398.)
+The court also stated, at page 398:
+“The parties contemplated that the risk of loss by fire should be insured against and we see no reason to suppose that they did not contemplate the customary insurance policy which covers both accidental and negligent fires.”
+Similarly, in Stein v. Yarnall-Todd Chevrolet, Inc. (1968), 41 Ill. 2d 32, 40, 241 N.E.2d 439, 443, the court held as it had in Cerny-Pickas: “Viewing the lease as a whole, we judge that the parties manifested a pervading intention that the lessee was not to be liable for damage * * * ”
+In General Cigar Co. v. Lancaster Leaf Tobacco Co. (D. Md. 1971), 323 F. Supp. 931, the subrogated insurers of the owner of tobacco brought actions against the company which arranged for purchasing and storage of tobacco and the owners and operators of the warehouse, in which tobacco was stored, when it burned. The court held that when parties to a business transaction mutually agree that insurance will be provided as part of the bargain, then that agreement must be interpreted as providing mutual exculpation to the bargaining parties. The parties are deemed to have agreed to look solely to the insurance in the event of loss and not impose liability on the part of the other party.
+An additional factor which lends support to Newberg’s argument is the deposition testimony of two representatives of Edison. Joseph Sibley, Jr., stated:
+“Q. All right. Now, Section 11 of Exhibit C in Part C says, quote, ‘When requested by the owner, owner’s contingent liability insurance in the name of the owner ° * “,’ unquote.
+Do you remember when this particular provision was first incorporated in Exhibit C?
+A. More than fifteen years ago.
+Q. And was there a period where owner’s contingent liability insurance was not required?
+A. Yes.
+Q. Do you remember when Commonwealth Edison Company began to request owner’s contingent liability insurance?
+A. Approximately 1971.
+Q. And what was the reason for that?
+A. The amendment to the—
+Q. Maybe I can help.
+A. Strike it.
+Q. Was the reason for Commonwealth Edison Company requiring owner’s contingent liability insurance beginning in about 1971 because of the statute passed by the Illinois legislature which attempted to void certain hold-harmless agreements?
+A. That was the reason.
+Q. In other words, Commonwealth Edison Company wanted to be protected by the owner’s contingent liability insurance in case the hold-harmless in Section 10 of Exhibit C was held void?
+A. No, it could be for more than one reason. That was one reason.
+Another was that we wanted always the protection of the indemnity provision as a basic responsibility of the contractor.”
+Gerhard W. Seyring’s testimony was substantially the same as that of Mr. Sibley. From their testimony it appears Edison intended that the insurance purchased in its name by Newberg was to replace the void indemnity provision.
+We conclude that, viewing the contract as a whole and the testimony, the parties manifested the intention that the insurance provided by Newberg on behalf of Edison was to protect against any personal liability to Newberg. Therefore, Edison was indemnified by contract and can not now seek recovery under common law indemnity.
+Edison contends that although Harbor insured both Edison and Newberg under separate policies it is not precluded from bringing this suit against Newberg. We cannot agree with Edison’s position on this issue. Newberg is correct when it stated that Harbor sold it the policy to protect the interests of Newberg as well as Edison.
+Both parties cite United States Steel Corp. v. Hartford Accident & Indemnity Co. (7th Cir. 1975), 511 F.2d 96, but for different reasons. In the Hartford case, Hartford insured contractors, owners and architects. Thereafter, an employee of a subcontractor was injured and filed suit against the general contractor. Hartford took over the general contractor’s defense, and its attorneys filed a three-count indemnity action against the subcontractor based on express indemnity, active/passive liability and implied liability. Thereafter, the subcontractor tendered its defense to Hartford and Hartford refused. Hartford then dismissed the express indemnity count. The court held that Hartford could not escape its policy obligations by manipulating the pleadings in a lawsuit for its own benefit.
+Here, the facts are similar to the Hartford case, and the same rationale must apply. Harbor issued a policy to cover bodily injury claims arising from the Newberg construction job. When two parties were injured, it agreed to defend Edison against the personal injury suits. Now, Edison, represented by Harbor’s attorneys, has attempted to recover the funds it must pay to the injured parties. Edison alleges that Newberg was not covered under a contractual theory of indemnity and must indemnify under a common law theory.
+In our view, Harbor is attempting to do what Hartford did previously. Harbor is the party that must pay the claims as the insurer of Edison, whose premiums were paid by Newberg. Now, Harbor, through Edison, under a common law theory, is attempting to shift the entire loss back to Newberg.
+As Edison stated in its brief, Harbor’s insurance policy with Edison gave it a right to subrogation; therefore, if Harbor paid money on behalf of Edison, it is entitled “to initiate an action against another party, on behalf of Edison, to recover those losses.” Under that theory, Newberg would receive nothing for its policy except an obligation to pay for the entire loss. As stated in United States Steel Corp. v. Hartford Accident & Indemnity Co. (7th Cir. 1975), 511 F.2d 96, 101:
+“Hartford owed each of its insureds a duty of fair dealing. Whether the relationship be labeled fiduciary or not, the insurer is bound not to put its own interest ahead of the protection it has promised its insureds.”
+Harbor, as Edison’s and Newberg’s insurer, does not have a right to collect any funds from Newberg.
+Edison cites Rome v. Commonwealth Edison Co. (1980), 81 Ill. App. 3d 776, 401 N.E.2d 1032, which decided the same issue we are presented with here. In Rome, Commonwealth Edison appealed from an order dismissing its third-party complaint for indemnity against Walsh Construction Company. This court reversed the trial court’s decision. The insurance provisions in Rome were the same as those involved in the instant case. The court held that there was nothing in the contract which stated the obtaining of insurance pursuant to clause 11(c) would satisfy an obligation on Walsh’s part to indemnify Edison.
+We are not persuaded by the court’s reasoning in the Rome case. The Rome court states:
+“[T]he obligation to obtain insurance was contractual and there was nothing in the contract to indicate that the parties intended the mere obtaining of insurance to relieve Walsh of all liability to indemnify Edison.” Rome, 81 Ill. App. 3d 776, 783.
+However, it appears from our reading of the contract that the additional insurance was for the protection of Newberg from any further liability. The insurance was purchased for Edison, with Edison’s name on the policy, with the premiums paid for by Newberg. We cannot believe Newberg intended the insurance for any purpose other than to protect itself from just such a suit as this.
+Rome cites Daly v. W. E. O’Neil Construction Co. (1971), 133 Ill. App. 2d 655, 273 N.E.2d 505, to support its position. In Daly, the trial court had adjudicated that Bethlehem Steel Corporation owed an indemnity to the city of Chicago based upon a theory of active/passive negligence. The case on appeal was the fourth-party action by Bethlehem against the city. The appellate court found no evidence that the parties had intended the insurance policy to be the owner’s primary means of indemnification.
+In this case, Edison’s representatives testified that the provision to purchase insurance 11(c) was intended to and did take the place of the invalidated contractual indemnity provisions. The Rome court held that from the pleadings alone it could not determine whether the purchase of insurance by the contractor was intended to be the primary means of indemnity. We do not have that situation in the instant case. Here, the trial court ruled on motions for summary judgment after the pleadings showed the intent of the parties.
+Based on the foregoing, we affirm the decision of the circuit court of Cook County.
+Affirmed.
+LINN, P. J., and ROMITI, J., concur.
