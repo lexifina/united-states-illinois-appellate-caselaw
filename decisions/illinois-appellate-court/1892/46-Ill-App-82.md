@@ -1,0 +1,26 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-04-11"
+citations: ["46 Ill. App. 82"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. H. Berry v. H. H. Krone, Executor, etc."]
+source_url: "https://static.case.law/ill-app/46/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5147585
+cites_cases: ["36 Ill. App. 310"]
+---
+
+# Berry v. Krone
+
+## Majority (Mr. Justice Wall.)
+
+Mr. Justice Wall.
+This was a proceeding by scire facias to make the plaintiff in error party to a judgment against one Uriah Hutchings. The original action was assumpsit upon a promissory note for $275, dated October 25, 1878, payable to Henry Krone, now deceased, one year after date, and signed by Hutchings & Berry. The summons was returned served on Hutchings but no return was made as to Berry. Hutchings failed to appear; his default was entered, and the amount due on the note having been ascertained by computation, on a reference to the clerk judgment was duly entered. It is objected now, as it was below, that because on the original summons no return of non est vmenbus was made as to Berry, this writ of sci. fa. was improperly issued. The statute, Sec. 10, Chap. 110, which provides for the issuance of a writ of scire facias in such cases, does not require that the sheriff shall expressly state in his return that the defendant not served was not found. It provides merely that when the summons is served on one or more but not on all the defendants, the plaintiff may take judgment against those served; and may at any time afterward have summons in the nature of a scire facias against the defendant not served, etc. It is enough if he was not served. Sec. 9, which refers to an alias summons, requires a return of not found, but this section does not so provide. It authorizes the issuance of the writ when the defendant was not served with the original. This objection was properly overruled by the Circuit Court.
+The main question in the case, however, arises upon the pleadings with reference to the statute of limitations. It appears that when the note ivas given the makers and the payee resided in this State. The payee until his death, and his executor since, have always resided in this State, as has the said Hutchings. The said Berry resided in this State until some four years after the maturity of the note, when he went to the State of Nebraska,where he resided continuously and for more than five years, until just before he was served with said scire facias after his return to this State. Excluding the time he was in Nebraska, the period of ten years had not elapsed since the note fell due. By the statute of Nebraska the action would have been barred in five years. He insisted that by virtue of his residence in Nebraska and by force of the law of that State, the action being barred there, it was barred here. This contention involves a construction of sections 18 and 20 of the limitation laws of this State which are as follows:
+“ 18. If, when the cause of action accrues against a person, he is oiit of the State, the action may be commenced within the times herein limited, after his coming into or return to the State; and if after the cause of action accrues, he departs from and resides out of the State, the time of his absence is no part of the time limited for the commencement of the action. But the foregoing provisions of this section shall not apply to any case, when, at the time the cause of the action accrued or shall accrue, neither the party against or in favor of whom the same accrued or shall accrue, were or are residents of this State.”
+“ 20. When a cause of action has arisen in a State or Territory out of this State, or in a foreign country, and by the laws thereof an action thereon can not be maintained by reason of the lapse of time, an action thereon shall not be maintained in this State.”
+As all the parties, payee and makers, were residents of this State when the note was made and until after it fell due, the right of action was clearly saved by Sec. 18. By that section it is expressly provided that if, after the cause of action accrues, the debtor departs from and resides out of the State, the time of his absence is no part of the time limited for the commencement of the action. It will be seen that by the second paragraph of Sec. 18, it is provided that the preceding provisions are not to apply to any case where neither debtor nor creditor resides in the State, when the cause of action accrues. Sec. 20 then applies to the cases not covered by Sec. 18; that is, to cases where both debtor and creditor are non-residents when the cause of action accrues. It can not be supposed that the legislature intended by Sec. 20 to nullify and sweep away the provision contained in Sec. 18, and yet this is what has been done unless Sec. 20 is construed to apply only to those cases which are, by the latter clause of Sec. IS, carved out and excepted from its operation. Story v. Thompson, 36 Ill. App. 310.
+We are of opinion the Circuit Court properly held that the action was not barred by the residence of the defendant in ¡Nebraska, as stated. The judgment will be affirmed.
+Judgment affirmed.
