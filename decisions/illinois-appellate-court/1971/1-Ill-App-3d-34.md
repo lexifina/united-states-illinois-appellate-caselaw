@@ -1,0 +1,51 @@
+---
+court: "Illinois Appellate Court"
+docket: "11363"
+decided: "1971-08-03"
+citations: ["1 Ill. App. 3d 34"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Illinois National Insurance Co., Plaintiff-Counterdefendant-Appellee, v. Curtis L. Trainer, Sr., et al., Defendants.—(William Robinson et al., Defendants-Counterplaintiffs-Appellants.)"]
+source_url: "https://static.case.law/ill-app-3d/1/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5315097
+cites_cases: ["106 Ill.App.2d 210", "192 N.E.2d 855", "231 N.E.2d 112", "245 N.E.2d 655", "28 Ill.2d 601", "326 F.2d 748", "87 Ill.App.2d 432"]
+---
+
+# Illinois National Insurance v. Trainer
+
+## Majority (Mr. JUSTICE WEBBER)
+
+Mr. JUSTICE WEBBER
+delivered the opinion of the court:
+This appeal comes to us from a declaratory judgment entered by the circuit court of Sangamon County supporting the contention of the plaintiff-counterdefendant, Illinois National Insurance Co., and against the contentions of Curtis L. Trainer, Sr., Curtis L. Trainer, Jr., Annie Trainer, defendants, and William Robinson and Monroe Denbow, defendants-counterplaintiffs. We affirm.
+For the sake of brevity the parties will be referred to in this opinion as here indicated: Illinois National Insurance Co. — “Illinois”; Curtis L. Trainer, Sr. — "Senior”; Curtis L. Trainer, Jr. — “Junior”; Annie Trainer— Annie.
+At issue is an insurance policy issued by Illinois to Senior. Counter-plaintiffs Robinson and Denbow maintain that it can be construed to afford coverage to Junior who was involved in a collision with them. Illinois maintains that the policy is plain on its face, needs no construction and there is no coverage. No questions are raised on the pleadings.
+All construction cases, whether of will, deed, insurance policy or other instrument, are of little precedental value and therefore we shall attempt to skeletonize the facts and we shall make no attempt to distinguish the many cases cited on both sides in their respective briefs. It is ancient legal wisdom that no construction case has a brother.
+On and prior to March 23, 1962, Senior owned two automobiles, each covered by separate policies issued to him by Illinois. A 1960 Oldsmobile and its policy are not in question here. A 1958 Chevrolet and its policy and a 1958 Corvette and its relationship to the Chevrolet generate the controversy.
+This policy, effective from January 31, 1962, to January 31, 1963, defined as the “named insured” Senior; also included by definition was Annie as a spouse resident in the same household; Junior was an “insured” as any person using the automobile with the permission of the named insured and also as a resident of the named insured’s household with or without permission. The Chevrolet was regularly operated by all members of the household.
+The policy defined “automobile” covered to be:
+(a) the 1958 Chevrolet
+(b) an automobile, ownership of which is acquired by the named insured during the policy period, provided:
+(1) it replaces the 1958 Chevrolet; or,
+(2) any automobile owned by the named insured as of the date of acquisition, provided the named insured notified Illinois within 30 days of such acquisition.
+(c) a temporary substitute automobile, defined as an automobile not owned by the named insured while temporarily used as a substitute for the 1958 Chevrolet when withdrawn from normal use because of breakdown, repair, servicing, loss or destruction.
+On March 23, 1962, Annie purchased a wrecked 1958 Corvette in Missouri, received a bill of sale in her name and an assignment of Missouri title in her name, towed the wreck to her home and placed it in the garage where Junior commenced to rebuild it. The general con-census appeared to be that after Junior had restored it, it would be sold to obtain money for his college education. The purchase price was furnished by Annie from her separate earnings as a school teacher.
+By June 1, 1962, the Corvette had apparently been sufficiently restored to be operable, because on that night Junior, without the knowledge of his parents, transferred the Chevrolet’s Illinois license plates to the Corvette and drove it on the highway during which period the collision occurred. Robinson and Denbow were injured and filed suit in the Circuit Court of St. Clair County; that suit is still pending and awaiting the outcome of the instant case.
+After the accident, Annie reported it and applied for State of Illinois title, State of Illinois license plates and insurance for the Corvette. Illinois (the plaintiff-counterdefendant) advised that it would not insure Corvettes and the insurance was placed with another company.
+Shortly prior to the accident there had been some conversation within the bosom of the family about disposing of the Chevrolet because of a malfunction in the braking system, and shortly after the accident it was placed on a sales lot for sale on a commission basis and was sold some two or three months later.
+The defendants and counterplaintiffs claim that the Corvette was, within the meaning of the policy, either (a) a temporary substitute vehicle, or (b) a replacement vehicle, or (c) a newly acquired additional vehicle. The trial court found in the negative as to all these contentions and declared there was no coverage under the policy and that Illinois had no duty to defend.
+Defendants and counterplaintiffs urge upon us the doctrine that the language of an insurance policy should be liberally construed in favor of the insured. However, this is nothing more than a self-fulfilling prophecy because the doctrine is a rule of construction and such rules are never used unless some ambiguity can be found. Defendants-counter-plaintiffs apply extremely circular reasoning: they would first have us use the rule to create ambiguity and next use it to resolve such purported ambiguity in their favor. We hold that there is no ambiguity and no necessity for construction and therefore the law as found in Reiner v. St. Paul Fire & Marine Insurance Company, 106 Ill.App.2d 210; 245 N.E.2d 655, at 657 applies:
+“The rule of construction put forth by the plaintiff, that the language of an insurance contract should be liberally' construed in favor of the insured, applies in cases of doubt and ambiguity. However, where there is no ambiguity in the language used, as in the present case, it is the duty of the courts to construe and enforce agreements in accordance with their terms and not to make new contracts for the parties."
+We turn now briefly to the contentions made by the defendant-counter-plaintiffs.
+THEORY I: that the Corvette was a temporary substitute vehicle. This theory is exploded by the very terms of the policy itself which defined such a vehicle as “an automobile not owned by the named insured.” The policy further defines named insured, inter aha, as “* * * if such insured is an individual, his spouse if a resident of the same household.” It was stipulated and admitted that Annie was the spouse of Senior and resided in his household. Therefore Annie was a named insured and there can be no doubt she was the owner of the Corvette; she paid the purchase price from her separate funds; she received the bill of sale and Missouri title in her name; after the accident the Illinois title was issued in her name. To say that anyone else owned the Corvette would do violence to common sense.
+THEORY II: that the Corvette was a replacement vehicle. Again, the terms of the policy itself dispose of this argument. The policy requires that a replacement vehicle be reported to the company within 30 days of acquisition. Defendants-counterplaintiffs make the contention that the Corvette was not “acquired” until some time about the middle of May, 1962, when it became operable and therefore the report made in early June afforded compliance. In pursuance of this theory the Corvette was called an “object” in the record. In our view this strange circumlocution affords no help. It is reminiscent of Lewis Carroll’s Through the Looking Glass: “When I use a word it means just what I choose it to mean; neither more nor less.”
+Every tangible thing in creation is an “object” insofar as the English language is concerned and to call an item an “object” does not change its essential characteristics. The “object” purchased in Missouri and towed to Illinois by Annie was neither a surrey, a Sherman tank nor a bobsled, although it partook of certain characteristics of all three. It was a passenger automobile and no use of a collective noun, however ingenious, can change that.
+The Corvette was “acquired” on March 23, 1962, as an automobile and no coverage was afforded as a replacement vehicle since Illinois did not know of its existence until more than 30 days had expired.
+The trial court made a finding that the car was being operated in violation of the law, i.e., without registration of title or license. The policy here in question provides that there is, for purposes of insurance, no requirement that the car be registered or licensed or even have the status of registration by application for license theretofore made. Such a reading of the policy discloses a consistent use by Illinois of the provision that notice for purposes of coverage relates to the date of acquisition rather than as of any date the insured may seek to determine unilaterally. In this connection see Nationwide Insurance Company v. Ervin, 87 Ill.App.2d 432; 231 N.E.2d 112.
+THEORY III: that the Corvette was a newly acquired additional vehicle. The same arguments as apply to Theory II apply here. The policy required notification of the Company within 30 days.
+In summary, the defendants-counterplaintiffs had the burden of proof to establish coverage (Cf., Wolverine Insurance Company v. Eldridge, 326 F.2d 748; Hays v. Country Mutual Insurance Company, 28 Ill.2d 601, 192 N.E.2d 855.) Their theories are imaginative but distort and do violence to the clear language of the policy. They have failed to carry their burden of proof.
+The judgment of the circuit court of Sangamon County is affirmed.
+Judgment affirmed.
+TRAPP, P.J. and CRAVEN, J., concur.
