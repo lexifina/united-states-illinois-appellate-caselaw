@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "75-455"
+decided: "1976-08-18"
+citations: ["41 Ill. App. 3d 273"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. STEVEN A. RYANT, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/41/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2489759
+cites_cases: ["13 Ill. App. 3d 317", "20 Ill. App. 3d 1029", "21 Ill. App. 3d 1086", "237 N.E.2d 517", "256 N.E.2d 791", "28 Ill. App. 3d 1090", "29 Ill. App. 3d 12", "300 N.E.2d 46", "314 N.E.2d 641", "316 N.E.2d 183", "32 Ill. App. 3d 676", "329 N.E.2d 890", "330 N.E.2d 147", "336 N.E.2d 65", "40 Ill. 2d 76", "407 U.S. 25", "45 Ill. 2d 63"]
+---
+
+# People v. Ryant
+
+## Majority (Mr. JUSTICE JONES)
+
+Mr. JUSTICE JONES
+delivered the opinion of the court:
+The defendant, Steven A. Ryant, pleaded guilty to charges of criminal damage to property, aggravated assault, the operation of a motor vehicle without a valid registration, and disorderly conduct. He appeals sentences of concurrent terms of 364 days each for the offenses of criminal damage to property and the operation of a motor vehicle without a valid registration, and 30 days each for the offenses of disorderly conduct and aggravated assault.
+Initially we note that the defendant did not file a motion to withdraw his plea of guilty and vacate the judgment in the trial court within 30 days of the imposition of sentence as required by Supreme Court Rule 604(d) (58 Ill. 2d R. 604(d)). We do not consider that defendant has waived the errors complained of by failing to comply with Rule 604(d), in view of the fact that the trial court failed to comply with Supreme Court Rule 605(b) (58 Ill. 2d R. 605(b)), and defendant being without counsel had no way of knowing that a timely motion needed to be filed in the trial court in order for the proceedings to be reviewed.
+The defendant was charged with the above named offenses through the use of the Illinois Uniform Citation and Complaint form provided for by Illinois Supreme Court Rule 552. (Ill. Rev. Stat. 1973, ch. 110A, par. 552.) The complaint in each instance identified the charged offense by name and cited the statutory section which the defendant was accused of violating. Defendant attacks the complaints as insufficient and void for failure to state the nature and elements of the charged offense as required by section 111 — 3(a)(3) of the Code of Criminal Procedure of 1963 (Ill. Rev. Stat. 1973, ch. 38, par. 111 — 3(a)(3)). In support of his contention defendant cites the recent Third District decision of People v. Walker, 20 Ill. App. 3d 1029, 314 N.E.2d 641.
+Walker dealt with a similar situation in which the offense of reckless driving was charged on a Uniform Citation and Complaint form by stating the offense by name and citing the pertinent statutory section. The court in Walker held that failure to specifically set forth the acts constituting the offense rendered the complaint void.
+We note, however, that the Walker court made no mention of the 1968 decision of our supreme court in People v. Tammen, 40 Ill. 2d 76, 237 N.E.2d 517. Tammen presented precisely the question which we are asked to decide in the instant appeal: Is a charge filed by use of an Illinois Uniform Citation and Complaint form void for failure to state the nature and elements of the offense? In the ordinary use of the Uniform Citation and Complaint the offense is simply identified by name and citation of the statutory section which defendant is accused of violating. Our supreme court held in Tammen that a charge made in such a manner was not defective. The court reasoned that:
+“Inasmuch as the Uniform Traffic Ticket is only used for misdemeanors, is written by an arresting officer rather than a State’s Attorney and is generally written at the time the offense is committed, we believe that naming the offense and citing it is sufficient and will generally be understood by the person charged. Under section 111 — 6 (Ill. Rev. Stat. 1967, chap. 38, par. 111 — 6) the accused may request a bill of particulars which will enable him ‘to prepare his defense.’ We hold that a conviction based on a Uniform Traffic Ticket naming an offense and citing the statutory provision, where there is no objection to the sufficiency of the ticket or request for a bill of particulars, will not be set aside for failure to comply with section 111 — 33(3).” (40 Ill. 2d at 78-79, 237 N.E.2d at 518-519.)
+In view of Tammen we decline to follow Walker and find the instant complaints legally sufficient.
+Nevertheless, the defendant’s convictions are set aside and this cause is remanded with directions that defendant be permitted to plead anew. Since Argersinger v. Hamlin, 407 U.S. 25, 32 L. Ed. 2d 530, 92 S. Ct. 2006, no person may be imprisoned for any offense, including misdemeanors, as here, unless represented by counsel or unless counsel has been knowingly and intelligently waived. (People v. Kerner, 32 Ill. App. 3d 676, 336 N.E.2d 65; People v. Schultz, 21 Ill. App. 3d 1086, 316 N.E.2d 183.) The instant defendant was not represented by counsel at any stage of the proceedings, and a knowing and intelligent waiver of counsel is not shown by the record.
+The record shows that the defendant was admonished of his right to counsel before the trial court accepted each of the four guilty pleas in this manner: “You have the right to have yourself represented by an attorney.” The court did not, however, inform him of his right to appointed counsel if he were indigent. Before a plea of guilty can be accepted a defendant must be personally advised in open court not only of his right to counsel but also of his right to appointed counsel if he is indigent. Supreme Court Rule 401(a)(3); Ill. Rev. Stat. 1973, ch. 110A, par. 401(a)(3) (1973); People v. Kerner; People v. Melvin, 28 Ill. App. 3d 1090, 329 N.E.2d 890; People v. Slaten, 13 Ill. App. 3d 317, 300 N.E.2d 46.
+We also note that the trial court did not ask the defendant if he wished to waive counsel. A finding of waiver will not be made unless the record shows that the trial judge specifically offered and the accused knowingly and understanding^ rejected the representation of appointed counsel. People v. Hessenauer, 45 Ill. 2d 63, 256 N.E.2d 791; People v. Burke, 29 Ill. App. 3d 12, 330 N.E.2d 147.
+For the foregoing reasons, the defendant’s convictions are set aside and this cause is remanded with directions that defendant be permitted to withdraw his plea of guilty and plead anew.
+KARNS, P. J., and EBERSPACHER, J., concur.
