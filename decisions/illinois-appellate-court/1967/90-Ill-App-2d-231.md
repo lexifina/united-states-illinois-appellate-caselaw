@@ -1,0 +1,30 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 67-60"
+decided: "1967-12-20"
+citations: ["90 Ill. App. 2d 231"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of Illinois, Plaintiff-Appellee, v. Edward Charles Curtis, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/90/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2897767
+cites_cases: ["179 NE2d 635", "194 NE2d 193", "23 Ill2d 546", "29 Ill2d 384"]
+---
+
+# People v. Curtis
+
+## Majority (STOUDER, P. J.)
+
+STOUDER, P. J.
+Edward Curtis, Defendant-Appellant, was found guilty of burglary by a jury. This is an appeal from the judgment and sentence of the Circuit Court of Rock Island County.
+Defendant’s first assignment of error is that the trial court erred in overruling his motion for a directed verdict at the close of the People’s evidence. Defendant argues that the evidence of identification was insufficient. After the motion for directed verdict was overruled Defendant presented evidence of an alibi including his own testimony and that of a corroborating witness. On the authority of People v. Washington, 23 Ill2d 546, 179 NE2d 635, and People v. Slaughter, 29 Ill2d 384, 194 NE2d 193, we believe Defendant, by electing to present evidence in his own behalf, waived any possible error in the ruling of the court on the motion for directed verdict. Section 115-4(k), chapter 38, Ill Rev Stats 1965, although enacted after the Washington and Slaughter cases, supra, does not purport to make any change in the law as theretofore existing and offers no support for Defendant’s contention that the principles of Washington and Slaughter, supra, should be overturned.
+Defendant next argues that the court erred in failing to grant his motion for the separation of witnesses. It appears from the record that Defendant requested the court to enter an order prohibiting the witnesses who had testified from communicating with witnesses who had not yet testified, asserting that the credibility of the witnesses could be tested only in the absence of such communication. While the trial court refused to enter a formal order to this effect it does appear that counsel was ordered to control the witnesses. We believe that the directions of the court were sufficient to protect the rights of the Defendant. Furthermore the record fails to show that in fact such direction was violated by communication by or among the witnesses or that if any communication took place the rights of the Defendant were prejudiced thereby.
+Defendant next argues that the court erred in the giving of an instruction relating to the possession of burglary tools. Each party is entitled to have the jury instructed on his theory of the case. Defendant based his defense on that of alibi. No claim is made that the jury was improperly instructed on this defense and we do not believe that the instruction in question was prejudicial to the assertion of such defense.
+Lastly, Defendant argues that the evidence fails to establish his guilt beyond a reasonable doubt. Several police officers testified Defendant was discovered and apprehended in a burglarized dry cleaning store. Forcible entry had been made into the premises and according to the officers, Defendant was discovered hiding under a rack of suits with burglary tools at his side. Defendant directs our attention to inconsistencies in the testimony of the officers such as differences in estimates of distance from the safe to the point where the Defendant was allegedly discovered and differences in the location of the burglary tools. Such inconsistencies are matters affecting the credibility of the witnesses and are properly weighed and considered by the jury. However such inconsistencies do not establish that the testimony of any particular witness or the testimony of the witnesses viewed as a whole is inherently improbable.
+The principal area in which Defendant argues the evidence fails to support his guilt, is that relating to Defendant’s alibi. According to Defendant, his alibi was unimpeached and hence his conviction cannot be permitted to stand. Defendant testified the burglary took place at 2:30 a. m. At 3 a. m. he was in a restaurant a considerable distance from the scene of the offense. Defendant’s presence in the restaurant at 3 a. m. was corroborated by a waitress. Defendant asserts that he was arrested about 4:30 a. m. while walking along the street a short distance from the burglarized store. According to the police officers they were called to the scene about 4:30 a. m. and discovered and arrested Defendant in the burglarized premises. Defendant’s alibi thus depends on whether the burglary occurred at 2:30 a. m. as he contends or at 4:30 a. m. as shown by the testimony of the officers.
+Defendant’s contention that the burglary occurred at 2:30 a. m. is based on the testimony of Blosser, who testified for the People. Blosser’s residence was located about 30 feet south of the cleaning establishment and such establishment was visible from the witness’ bedroom. He testified that he had been sleeping, that he awoke and in looking out his bedroom window he observed a person coming out of the dry cleaning store. The witness called the police and shortly thereafter the police arrived. According to the witness he thought it was about 2:30 a. m., but he admitted that he had not looked at a clock and had no way of confirming the actual time. On this state of the evidence we believe that the jury could have concluded that Blosser was honestly mistaken as to the time of the events to which he testified and accordingly Defendant’s presence elsewhere at 3 a. m. did not constitute an alibi. This being the case we believe the verdict of the jury is amply supported by the evidence.
+For the foregoing reasons the judgment of the Circuit Court of Rock Island County is affirmed.
+Judgment affirmed.
+ALLOY, P. J. and HOFFMAN, J., concur.
