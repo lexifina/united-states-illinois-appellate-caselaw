@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 51,145"
+decided: "1967-04-11"
+citations: ["82 Ill. App. 2d 299"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LYONS, P. J. and BRYANT, J., concur."]
+parties: ["People of the State of Illinois, Plaintiff-Appellee, v. William Babitsch, Defendant-Appellant."]
+source_url: "https://static.case.law/ill-app-2d/82/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2559371
+cites_cases: ["12 Ill2d 360", "136 NE 505", "146 NE2d 32", "150 NE 263", "162 NE2d 413", "17 Ill2d 486", "197 NE2d 436", "219 NE2d 701", "226 NE2d 413", "30 Ill2d 359", "304 Ill 23", "319 Ill 359", "73 Ill App2d 61", "82 Ill App2d 304"]
+---
+
+# People v. Babitsch
+
+## Majority (MR. JUSTICE BURKE)
+
+MR. JUSTICE BURKE
+delivered the opinion of the court.
+William Babitsch was indicted and tried with Eugene Miller for the crime of abortion. Both men were found guilty by a jury and sentenced to five to ten years in the penitentiary. William Babitsch appeals. Eugene Miller prosecutes a separate appeal.
+The facts are fully set out in People v. Miller, 82 Ill App2d 304, 226 NE2d 413.
+William Babitsch maintains on this appeal that the arresting police officer was permitted to implicate him in the abortion by means of improper testimony; that evidence of unrelated crimes in which defendant was allegedly involved was allowed to go to the jury; that the trial court improperly allowed into evidence medical instruments seized from codefendant Miller’s automobile; that the trial court erred in allowing inflammatory testimony with respect to outcries made by the complaining witness after the alleged abortion; that the trial court improperly allowed conversations into evidence against defendant which took place prior to the time defendant entered the alleged conspiracy to commit the abortion; and that defendant was deprived of certain of his constitutional rights.
+Defendant initially maintains that in view of the fact his motion for a severance was denied by the trial court and the fact the trial court assured him statements made by Miller incriminating Babitsch would be inadmissible, it was error for the trial court to have allowed the arresting police officer to testify that Miller told the officer Babitsch had committed the abortion. However, the jury was admonished to disregard all testimony given by the officer relating to what Miller told him concerning Babitsch. Furthermore, no objection was made to the testimony at the time it was given.
+While defendant contends that no degree of admonition to the jury could have cured the prejudice allegedly created by this evidence, we feel that the testimony was not prejudicial to defendant since the jury was admonished by the court to disregard it and since there was ample competent evidence upon which defendant could have been found guilty. The cases cited by defendant in support of this position are distinguishable. In People v. Clark, 17 Ill2d 486, 162 NE2d 413, the court stated that confessions or admissions made by an accomplice outside the presence of a defendant are inadmissible against the latter and that it was error to deny defendant’s motion for a severance. In People v. Smuk, 12 Ill2d 360, 146 NE2d 32, the trial court allowed testimony by a witness concerning what was told to him by a codefendant outside the presence of the defendant. On review, the Supreme Court stated this evidence should not have been allowed to go to the jury and reversed the conviction. In the case at bar, however, the matter testified to by the arresting police officer, that Miller told him Babitsch had performed the abortion, was stricken by the trial court and the jury admonished to disregard it, and was not objected to at the time it was offered. See People v. Swift, 319 Ill 359, 150 NE 263. Furthermore, there was ample and sufficient evidence apart from the testimony of the police officer in this regard for the jury to have found the defendant guilty of the abortion.
+Defendant further maintains that the officer’s testimony allegedly relating to his investigation of Miller on robbery charges prejudiced Babitsch in the eyes of the jury by implying that Babitsch was involved in the robberies. The record is devoid of any evidence through which the jury could have inferred that Babitsch was involved in the officer’s investigation of Miller.
+Defendant contends that the medical instruments found in Miller’s automobile were improperly admitted into evidence. This contention has been disposed of in People v. Miller, 82 Ill App2d 304, 226 NE2d 413. With respect to the argument that the instruments, having been seized from Miller’s possession, were inadmissible against Babitsch, the testimony of the State’s witnesses clearly established the existence of a conspiracy between Miller and Babitsch and it is well settled that evidence taken from one conspirator is admissible against his coconspirator. People v. Lloyd, 304 Ill 23, 96-97, 136 NE 505.
+Defendant’s argument regarding Miss Watkins’ testimony concerning Miss Grossman’s outcries after the abortion has also been dealt with in People v. Miller, 82 Ill App2d 304, 226 NE2d 413. The case of People v. Bernette, 30 Ill2d 359, 371-372, 197 NE2d 436, cited by Babitsch is not in point for the reason that the evidence there could have had no purpose other than to inflame the jury against the defendant. As the court there pointed out, it had “no relevance to guilt or innocence.”
+The conversations admitted into evidence which occurred before Babitsch entered the conspiracy were not improperly admitted against him as he maintains. None of the testimony in this regard in any way involved Babitsch.
+Babitsch further maintains that a statement made by him to the arresting officer when the officer asked him if he performed an abortion upon Miss Grossman constituted a confession and was not admissible against him for the reason that the State failed to inform him of the existence of the statement at the time he made his pretrial demand for such matters. However, the statement, to the effect that Babitsch asked what he would receive in return for answering the officer’s question, was stricken by the trial court and the jury specifically instructed to disregard it on the precise ground of which defendant complains here.
+Defendant contends that the trial court improperly limited his cross-examination concerning the fetus allegedly discharged by Miss Grossman after the abortion and that the trial court improperly allowed leading questions by the prosecution. The record in no way supports the first contention; it appears the defense counsel did not attempt to pursue the matter on cross-examination. As to the later claim, the allowance of leading questions is within the sound discretion of the trial court and the record reveals no abuse of this discretion. People v. Neyland, 73 Ill App2d 61, 219 NE2d 701.
+Defendant also maintains that he was denied his constitutional right to be confronted by his accuser, in that the arresting officer, rather than Miller, testified to what Miller stated concerning Babitsch. As has been stated above, all statements made by Miller to the officer concerning Babitsch were stricken by the trial court and the jury instructed to disregard them.
+Defendant finally maintains that the sentence of five to ten years in the State penitentiary is excessive. This matter was raised and answered in People v. Miller, 82 Ill App2d 304, 226 NE2d 413.
+For these reasons the judgment is affirmed.
+Judgment affirmed.
+LYONS, P. J. and BRYANT, J., concur.
