@@ -1,0 +1,37 @@
+---
+court: "Illinois Appellate Court"
+decided: "1888-12-08"
+citations: ["28 Ill. App. 119"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Langworthy et al. v. Ida Golden."]
+source_url: "https://static.case.law/ill-app/28/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4965010
+cites_cases: ["1 Gil. 378", "16 How. 10", "24 Ill. 583", "38 Ill. 128", "4 Allen, 392", "4 Gray, 207", "41 N. H. 391", "42 Ill. 261", "48 Pa. St. 121", "52 Ill. 166", "71 Ill. 528", "8 Ill. App. 22", "90 Ill. 302", "92 Ill. 385", "95 Ill. 45", "95 Ill. 65"]
+---
+
+# Langworthy v. Golden
+
+## Majority (Lacey, P. J.)
+
+Lacey, P. J.
+This was a bill in equity filed by the appellee to enforce the payment of a specific legacy claimed to be due her under and by virtue of the will of her grandfather, Wm. Hunter, Sr. It is sought to establish a lien to the amount of the bequest on a certain eighty-acre tract of land owned by Wm. Hunter, Sr., in his lifetime, and of which he died seized.
+Erastus B. Hunter, now deceased, was the father of appellee and the residuary legatee and devisee in the will of his father.
+Frank Langworthy and J. T. Corbin are the present holders of the legal title to the land through mesne conveyances from said Erastus, the former having acquired title to one forty-acre tract, through conveyances prior to the latter to the other forty-acre tract. Joseph Boolier and Jacob II. Warfield are the mortgagees of said land from the said Langworthy and Corbin, respectively, and are made parties herein.
+The third and last clauses of the will of the said Wm. Hunter, Sr., is the one under which the appellee claims the right to establish her lien and said last clause reads as follows: “ I give and bequeath to my beloved wife, Margaret, all the balance of my estate, both real and personal, during her natural life (including the §100 bequeathed to my granddaughter, which is to be paid out of the estate when she arrives at the above mentioned age), and at the death of my wife the property, then both real and persona], to my son, Erastus B., and I constitute and appoint my son, the said Erastus B., and my neighbor, John W. Bush, executors of this my last will and' testament, hereby revoking and canceling all other and former wills heretofore made by me.”
+The third and preceding clause of the will gave to appellee §100 to be paid to her when she arrived at the age of eighteen.
+The bill and proof shows that there was no personal property left of any considerable amount, and that, while the will was probated, no letters of executorship ever issued and only §20 of the legacy was ever paid to appellee. It also appears that some eleven or twelve years had elapsed since the appellee came of age before the filing of the bill herein.
+The court below found the amount of appellee’s legacy of §100 and accrued■ interest thereon from ¡November 5, 1875, less §20 which it found was paid to her, and decreed a lien on said land, and decreed a sale of the whole of the tract or so much thereof as would be sufficient to satisfy said legacy.
+That this legacy was a lien on the real estate of the said testator we can have no doubt. The words “ I give and bequeath to my beloved wife all the balance of my estate, both real and personal, during her natural life, including the §100 above bequeathed to my granddaughter, which is to be paid out of the estate when she arrives at the above mentioned age,” clearly imply that the testator meant that only the residuum should go to the life tenant and then to the residuary legatee after the widow’s death, and that the §100 should be paid out of the entire estate, the real estate as well as the personal estate.
+The words granting the life estate to testator’s wife, “ including the §100,” etc., only mean that she was to have the life interest in the estate, including the §100, to the time áppellee became of the age of eighteen years. Then it was to be paid out of the estate.
+If the life tenant failed to pay it, the residuary legatee should do so out of the estate, and in case both failed, the land should be liolden. See construction of similar will in Gardner v. Gardner, 3 Mason, 178. We do not understand that the appellee’s claim is barred by virtue of the 15th and 16th sections of Chap. 83 of the B. S., nor by analogy to said statute. The statute of limitations does not apply to a legacy. Angelí on Limitations, Secs. 90 and 168; 2 Perry on Trusts Sec. 828; Whiting v. Whiting, 4 Gray, 207; and the appellee was not, under the circumstances, guilty of laches. Gibbons v. Hoag, 95 Ill. 45.
+We do not find from the evidence that any poi'tion of the land remained in Frances B. Hunter, as is claimed by appellant; hence the point raised by appellant’s counsel that such portion should be first sold, need not be considered. There is no description anywhere shown by which such supposed portion can be identified. Langworthy’s deed from Frances B. Hunter, who held the title to the entire eighty acres at the time, calls for forty acres off the south end of the said tract, and Corbin’s deed, executed by her afterward, calls for the H. E. J- of the FT. E. of same section, being the north part of -the same eighty-acre tract.
+Presumably the Langworthy forty was the entire half of the eighty, there being no proof to the contrary, and the other description includes all in the governmental division, be the same more or less.
+The appellant also makes the point that as between Lang-worthy and Corbin the land of the latter should be first sold, being in the inverse order of alienation — thus insisting on the rule applicable to mortgages where different parcels have been successively conveyed by the mortgagor. Under the state of the evidence it will not be necessary to inquire whether the rule would be applicable here. There appears no evidence in the record that Corbin had actual notice of the sale and conveyance of any portion of the land to Langworthy at the time of his purchase. And the existence of Langworthy’s deed of record would not be constructive notice of the latter's title.
+In order that the record of a deed should be constructive notice of its existence, it should lie in the apparent chain of title of the land purchased by the grantee. The deed from Mrs. Hunter to Langworthy is collateral to the chain of title to Corbin’s forty-acre tract. It was not in the chain of his title, and it was not necessary to examine it in order to verify the title to the tract he proposed to'pnrchase.
+Under the circumstances Corbin had no notice that Langwortliy had acquired title to the south half of the eighty. As to this rule of law, we quote Iglehart v. Crane, 42 Ill. 261; Carbine v. Pringle, 90 Ill. 302; Wait et al. v. Smith, 92 Ill. 385; Irish v. Sharp, 89 Ill.261; Rodgers v. Cavanaugh, 24 Ill. 583; Dexter v. Harris, 2 Mason, 531; Manly v. Pettee, 38 Ill. 128.
+Notice to Corbin of the deed to Langworthy was necessary even if the lien had been a mortgage, in order to make the rule applicable. Lock v. Fulford, 52 Ill. 166.
+We are satisfied with the finding of the court below that the money had not been paid. We think there was no sufficient proof of payment of the legacy, except as to the $20 allowed by the court. Seeing no error in the record the decree of the Circuit Court is affirmed.
+Decree affirmed.
