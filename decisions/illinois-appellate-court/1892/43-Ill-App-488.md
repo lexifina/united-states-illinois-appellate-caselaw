@@ -1,0 +1,28 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-01-14"
+citations: ["43 Ill. App. 488"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Phillemon L. Austin v. Margaret Austin et al., for use, etc."]
+source_url: "https://static.case.law/ill-app/43/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5054765
+cites_cases: ["10 Pet. 449", "106 Ill. 36", "59 Ill. 261", "60 Ill. 78"]
+---
+
+# Austin v. Austin
+
+## Majority (Watebman, P. J.)
+
+Watebman, P. J.
+More than eighteen months after the entry of a judgment against him and the beginning of garnishee proceedings based thereon, but immediately after an order had been made dismissing the intervening petition of Edwin H. Brown, appellant appeared as an intervener and claimed that the McGuire note and mortgage, the proceeds of which was then the subject of the controversy, had been assigned to him by the said Margaret Austin “ at the date prior to the said supposed and alleged assignment to the said interpellant, Edwin H. Brown, to wit, on or about February 1, A. D. 1888;” said Phillemon L. Austin also in his intervening claim asserted that the Superior Court had no jurisdiction of the subject-matter of the suit because the Superior Court had no jurisdiction .of the defendants in the judgment upon which the garnishee proceedings are based. The intervenor then proceeds as follows:
+“Wherefore this interpellant says there is no record of any such judgment.”
+Appellant upon the hearing did not introduce any-evidence to sustain his claim. The garnisheeing creditor, Barnes, introduced the record of the judgment against appellant and Margaret Austin, and thereupon appellant moved to dismiss the action for want of jurisdiction of the court, which motion was denied.
+The warrant of attorney under- which this judgment was confessed, authorized an entry of the appearance of the defendants at any time after the making of the power, and further authorized a confession of judgment for such amount as might appear to be due and unpaid. What did appear to be due and unpaid? If we look alone at the note, nothing was due, as it bears date December 7, 1887, is payable four months after date, and judgment was entered thereon on the 16th day of February, 1888; but the judgment was entered by leave of court, in term time; and it is therefore in the absence of anything appearing to the contrary, to he presumed that it was duly made to appear to the court that the sum for which judgment was entered was then dne. This presumption finds support in the fact that upon this note1 for §800, judgment was entered for only §259.39. ' It was perfectly competent for the makers of this note at any time after its execution to have agreed with its holder that it should become due in one or two months from its date. Where a court of superior general jurisdiction has proceeded to adjudicate and to decree in a matter before it, all reasonable intendments will be indulged in favor of its jurisdiction. Osgood v. Blackmore, 59 Ill. 261-266; Martin v. Judd, 60 Ill. 78-83; Thomas v. Mueller, 106 Ill. 36-44; Black on Judgment, Sec. 270; Voorhes v. Jackson, 10 Pet. 449.
+In the case of Osgood v. Blackmore, supra, speaking of a judgment by confession, the court, after enunciating the principle above set forth, say:
+“ This being the presumption, then, the court being of general and superior jurisdiction, and being in session when this judgment was rendered, we must presume that the court first heard evidence that the requisite notice was given to render the note due and payable before the judgment was rendered.”
+The judgment against the Austins was not void and can not be collaterally attacked. It is quite true, as is said by appellant, that the order of judgment made by the court in the garnishee proceeding is unique, but so were the circumstances under which the order was made. The. only thing in the order which affected appellant was that which rejected and denied the claim by him set up. There being no evidence to sustain his claim, that portion was certainly proper; that portion of the order being sustained, it is quite immaterial to him what judgment the court gave as to the disposition of funds to which he has no light. The fund may never be brought within the jurisdiction of the court, and so Barnes may never get what the court has said shall be paid to him when the fund again comes within its control; why, however, should appellant object to the fact that there is an uncertainty about Barnes obtaining what the court has found belongs to him, Barnes? The order was, we think, proper under the statute, which authorizes the court to make all orders in regard .to the sujjject-matter of the proceeding which may be m cessary or equitable between the parties. Appellant having been rightfully found to have no claim to the fund, is in no position to insist that the judgment against him and Margaret Austin is void.
+Appellant did not and does not set up that the amount of said judgment was not then and is not now justly owing by him to said Barnes; how, then, is he injured by the appropriation- of property belonging to his co-defendant to the payment of this just debt ? Appellant made no pretense of establishing that he had any right to or interest in this property; it does not appear to have ever been in his custody or control; he has not been ordered to do anything; and the effect of all of which he complains is that the property of his co-defendant has, by a judgment from which she does not appeal, been taken to pay his, appellant’s, honest debt.
+Judyrnent affirmed.
