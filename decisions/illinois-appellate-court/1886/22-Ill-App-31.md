@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1886-12-11"
+citations: ["22 Ill. App. 31"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Chapman, Sr., Imp’d Andrew J. Combs v. John A. Stuckey, Sheriff."]
+source_url: "https://static.case.law/ill-app/22/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4917064
+cites_cases: ["127 Mass. 599", "25 Ill. 289", "93 U. S. 163"]
+---
+
+# Chapman v. Stuckey
+
+## Majority (Weloh, J.)
+
+Weloh, J.
+This was a suit brought by the appellee against the appellant and Andrew J. Combs upon a bond executed by Andrew J. Combs as principal and the appellant as security, to the appellee. The bond was given under Sec. 15 of the Attachment Act. On the 11th day of January, 1884, Mary Lanfear filed her affidavit for a writ of attachment against Andrew J. Combs, in which she stated that he was indebted to her on account of services performed in the sum of §400, no other indebtedness being stated. A writ of attachment was issued and j}laced in the hands of the appellee, Sheriff of Knox County. On the 12th day of January he levied said writ of attachment upon horses, cattle and other property of said Combs. On the 19 th day of January the bond in this suit was executed and the property levied on was released. The declaration of Mary Lanfear, filed in said attachment suit, con-tamed the common counts in assumpsit, and on the back of her declaration set out an account for work and labor, §400. Also other items of indebtedness not embraced in her original affidavit for attachment. February 13th leave was asked and given her by the court to amend her affidavit in attachment so a,s to contain the other items of indebtedness indorsed on her declaration that were not included in her original affidavit. ° The affidavit was so amended. The trial of that suit resulted in .a verdict and judgment for Mary Lanfear against Andrew J. Combs for the sum of §125.60 and costs of suit.
+The appellant filed four pleas to the declaration in this case-issue taken on 1st and 3d. Demurrer to 2d and 4th. Demurrer sustained. Trial and judgment for the amount of the judgment in the attachment case, from which judgment this appeal is taken.
+The real and only question which we are called to pass on is, did the court err in sustaining the demurrer to the 2d and 4th pleas? These pleas set forth the cause of action in' the* attachment suit as originally set forth in the affidavit therefor, ‘ and upon which the writ issued, and avers that the said judgment in said declaration mentioned, was not rendered on and for the same cause of action for which said attachment suit was begun and was pending at the time of the execution of the said bond. It is insisted by counsel for appellant that the liability of the appellant on the bond was limited to the cause of action'for which said attachment was begun and was pending at the time of the execution of the bond. We are referred to the rulings of the court in Massachusetts, 7th Gray, 542, 127 Mass. 599, and to Waples on Attachment, as sustaining this view. In some of the States attachment proceedings are held strioti juris. Whether this is the rule in Massachusetts we are not advised. In this State this rule does not apply.
+Amendments are freely allowed as in other cases. Secs. 26 and 28, Attachment Act. The amendment in this case was made by leave of the court, which under Sec. 23 of Practice Act “ is conclusive evidence of the identity of the action.” When appellant signed this bond it must be presumed he did so with full knowledge of the law as to amendments in attachment proceedings. And when an amendment was made by leave of court, it was “ conclusive as to the identity of the action.” He must be considered to have agreed to be liable to pay any judgment that might be rendered in said action. In Elmer v. Richards, 25 Ill. 289, 292, it was said: “ It appears to be in same action * * * and the court had jurisdiction of the subject-matter. This is conclusive in a collateral proceeding.” In Marengo v. Edwards, 1 E. D. Smith, 414, it was claimed that the judgment included illegal charges and the court said: “It is too late to object to the amount of the recovery on the original judgment. The remedy was an appeal from the original judgment and not on the trial upon the bond.” In Tilton v. Colfield, 93 U. S. 163, it was said: “ Both in the English and American courts amendments have been allowed in well considered cases, for the purpose of introducing into the suit an independent cause of action.” In case at bar it is not necessary to invoke the doctrine announced in this case. Ita lex seripta est. “ The adjudication in the attachment suit is conclusive evidence of the identity of the action.” The demurrer was properly sustained.
+Judgment affirmed.
