@@ -1,0 +1,33 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 47,569"
+decided: "1958-12-31"
+citations: ["20 Ill. App. 2d 201"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LEWE, P. J. and MUEPHY, J., concur."]
+parties: ["Earnshaw D. Usher, Plaintiff-Appellant, v. Mrs. Ernestine S. McGowan, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/20/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5196091
+cites_cases: ["169 A. L. R. 772", "169 A. L. R. 775", "183 Ill. App. 147", "191 Ill. App. 594", "197 Ill. 349", "208 Ill. App. 263", "243 Ill. App. 629", "245 Ill. App. 600", "299 Ill. App. 625", "307 Ill. App. 504", "369 Ill. 578", "408 Ill. 61", "7 Ill.App.2d 204"]
+---
+
+# Usher v. McGowan
+
+## Majority (JUSTICE KILEY)
+
+JUSTICE KILEY
+delivered the opinion of the court.
+This is an action to recover the balance of the sum defendant promised to pay plaintiff for services rendered in the sale of real property. Judgment on the pleadings was entered in defendant’s favor. Plaintiff has appealed.
+The motion for judgment admitted the essential facts: plaintiff assisted defendant in selling real estate; he was promised one third of the commission received by defendant for his services; and defendant was paid the full commission, paid plaintiff a part of the sum due him, but refused to pay the balance.
+The court decided that plaintiff was not a licensed broker under a City of Chicago ordinance and was not entitled to recover. The question here is whether this decision was right.
+Chapter 113, section 22 of the Municipal Code of Chicago defines a real estate broker as “any person” who, for a commission or other compensation based on the amount of the transaction, buys, sells, leases, exchanges, solicits or negotiates concerning, real property, “or acts through the medium of another licensed broker for any of the purposes aforesaid.” Chapter 113, section 27 provides that “any person” who engages in the business of real estate broker shall be amenable to the ordinance, even though he is employed by a licensed real estate broker. The penalty for violation of this ordinance is a fine of not less than $25 and not more than $200 for each day of violation (ch. 113, sec. 30). Chapter 113, section 29 provides: “No person shall pay any commission or other compensation to any person for negotiating contracts of real estate other than to real estate brokers licensed under this chapter.” We think ch. 113, sec. 29 is determinative of the question before us.
+In order to avoid the application of sec. 29 plaintiff argues that he is suing, not to recover a broker’s commission, but to enforce a promise to pay made by the defendant. In support of his argument he cites Borowsky v. Gilbert, 299 Ill. App. 625, wherein the court allowed plaintiff to recover from a real estate broker, as per an agreement, for aiding in procuring a certain lease. As authority for its decision the court cited the following Appellate Court cases: Simon v. Bollei, 243 Ill. App. 629; Gross v. Strauss, 208 Ill. App. 263; Gibons v. Williams, Monicer & Co., 191 Ill. App. 594; Marcinkevich v. Wilson, 183 Ill. App. 147; and Jarusz v. Namon, 245 Ill. App. 600. However, in the Borowsky case no ordinance similar to ch. 113, sec. 29 was presented in the trial court nor in the briefs on appeal nor was mentioned in the court’s opinion.
+The Supreme Court of Illinois has held that a contract entered into by one acting as a broker without a license, contrary to a statute, is void and unenforceable, Douthart v. Congdon, 197 Ill. 349, and Frankel v. Allied Mills, Inc., 369 Ill. 578. These cases concerned brokers seeking recovery from the owner and not a third person attempting to recover from the broker, as here. A later Appellate case, Bicek v. Royal, 307 Ill. App. 504, involved a third person suing an insurance broker and the court held that an ordinance similar to ch. 113, sec. 29, denying recovery “of commission or other compensation,” precluded the third party from recovering. This decision was made against the plaintiff’s argument that only a promise to pay, not a broker’s commission, was involved. Justice McSurely, who wrote the opinion in Borowsky v. Gilbert, where ch. 113, sec. 29, was not mentioned, concurred in the Bicek holding. The fact that the Bicek case involved an insurance broker does not render that decision inapplicable because the wording of the ordinance precluding recovery of the compensation there is virtually identical with ch. 113, sec. 29. We are pursuaded that the Bicek case is the authoritative precedent.
+In addition to the fine against a person acting as a broker without a license, provided for by ch. 113, sec. 27, there is the further provision in section 29 against paying “commission or other compensation” to any such person. Thus the intention of the city council was not only to regulate the business by imposing a fine but to effectually render contracts like the instant one unenforceable. The penalty provision is not exclusive and the rule in Grody v. Scalone, 408 Ill. 61, does not apply. The same is true of First National Bank of Millstadt v. Freant, 7 Ill.App.2d 204, where a fine only is imposed under an ordinance “not purporting to do anything hnt secure revenue.” Such an ordinance does not invalidate a brokerage contract made in violation of it, 169 A. L. R. 772, 773. But where the ordinance expressly provides that no compensation can be recovered by one acting as a broker without a license “It goes almost without saying that under such an act a broker is without right to recover compensation for his services performed while he was unlicensed,” 169 A. L. R. 775.
+Appellant also cites Grody v. Scalone, 408 Ill. 61, for the proposition that to deny plaintiff the agreed upon compensation would amount to unjust enrichment, and therefore he should be awarded the specified sum. However, that case concerned the Assumed Names Act under which a penalty was provided as the sole result of violation and in which there was no legislative intention to avoid the transaction. But, as noted, ch. 113, sec. 29 provides for the prohibition of payment to the unlicensed person in addition to the fine penalty. Defendant made and broke a promise but we are not to decide upon unjust enrichment here. Plaintiff was presumed to know the law when he entered into this unenforceable contract and thus cannot be heard to complain now.
+The decision of the court below was correct and the judgment is affirmed.
+Affirmed.
+LEWE, P. J. and MUEPHY, J., concur.
