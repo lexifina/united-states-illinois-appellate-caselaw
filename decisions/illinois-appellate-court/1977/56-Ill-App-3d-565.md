@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "77-70 through 77-73, 77-75, 77-76 cons."
+decided: "1977-12-12"
+citations: ["56 Ill. App. 3d 565"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v. LENORA CONNER et al., Defendants-Appellees."]
+source_url: "https://static.case.law/ill-app-3d/56/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3413585
+cites_cases: ["18 Ill. App. 3d 817", "237 N.E.2d 193", "310 N.E.2d 755", "370 N.E.2d 1067", "374 U.S. 23", "69 Ill. 2d 154", "94 Ill. App. 2d 421"]
+---
+
+# People v. Conner
+
+## Majority (Mr. JUSTICE McGLOON)
+
+Mr. JUSTICE McGLOON
+delivered the opinion of the court:
+Defendants Leon and Lenora Conner were each charged with possession of heroin in violation of section 402 of the Illinois Controlled Substances Act (Ill. Rev. Stat. 1975, ch. 56½, par. 1402). Lenora was additionally charged with several other minor offenses not relevant on appeal. At the preliminary hearing, defendants made a single motion to suppress the evidence. The motion was granted because in executing the search warrant, the police officers failed to knock on any door or announce their presence and purpose.
+The State now appeals from the ruling pursuant to Supreme Court Rule 604(a). On appeal, the State argues that the probability of heroin on the premises, coupled with the surrounding circumstances, created an exigency that obviated the requirement that the police officers announce their presence and purpose.
+We affirm.
+The facts are not disputed. On August 11, 1976, Officer Ernest Cain secured a search warrant commanding the search of Lenora Conner, also known as “Mama Conner,” and the premises at 3648 South Martin Luther King Drive, Chicago, Illinois. To be seized were a quantity of heroin and narcotic paraphernalia.
+Probable cause for the issuance of the warrant was based on information given by a reliable informant who purportedly observed a quantity of heroin on the premises and purchased a portion of it from Lenora Conner. The informant further stated that the heroin was stored in a washroom on the first floor.
+At the hearing on the motion to suppress, Officer Cain testified that on August 12, 1977, at 7 a.m., he and 14 other police officers went to 3648 Martin Luther King Drive pursuant to the search warrant. He arrived at the scene on a Chicago Fire Department snorkel truck and entered the premises through a second floor window. Shortly thereafter, the arrests were made.
+It is undisputed that when Officer Cain entered the premises, he did not knock, nor did he announce that he was a police officer in possession of a warrant to search the premises. At the hearing on the motion to suppress, Officer Cain explained that the fortress-like qualities of the premises necessitated executing the warrant in an unorthodox manner.
+The house at 3648 South Martin Luther King Drive is a three-story, brick building with a basement. Officer Cain testified that the basement door is made of steel and equipped with a burglar gate and collapsible bars. The front door is made of solid wood and is also backed with burglar bars. The doors at the rear of the first, second and third floors are each equipped with burglar bars. Further, burglar bars are affixed to both the inside and outside of all windows. Officer Cain also stated that approximately 10 large dogs occupy the backyard and that other dogs occupy the basement.
+In the last year and a half, police officers attempted to execute search warrants on the premises on six different occasions. On one of these occasions, entrance through the front door was impossible.
+Consequently, at the hearing on the motion to suppress, the State argued that police officers may use all necessary and reasonable force to execute a search warrant and that the execution in this case was necessary and reasonable in light of the unusual facts. The trial court rejected this argument and ruled that the method of execution employed in this case would have been proper only if the police officers had knocked first on the door and then given notice by means of amplifier or loud speaker. The court reasoned that only if this procedure failed to produce any response from within, would the officers be justified in breaking through a window to gain entry.
+From the order granting defendants’ motion to suppress, the State appeals. The State argues that the police were justified in making an unannounced, forcible entry because easily disposable heroin was on the premises and the police were aware of preparations both to deter execution of the search warrant and to quickly dispose of the evidence.
+We disagree. While the execution of the search warrant showed great ingenuity, it failed to satisfy constitutional requisites. Section 108 — 8 of the Code of Criminal Procedure of 1963 (Ill. Rev. Stat. 1975, ch. 38, par. 108 — 8) states that
+“All necessary and reasonable force may be used to effect an entry into any building or property or part thereof to execute a search warrant.”
+This statute has been construed “to prohibit forced entries to execute search warrants without a prior announcement of authority and purpose, unless at the time of entry there exist circumstances which excuse compliance with this requirement.” People v. Stephens (1974), 18 Ill. App. 3d 817, 821, 310 N.E.2d 755, 758.
+The State argues, however, that the presence of easily disposable narcotics, coupled with the fortress-like qualities of the building and the fact that numerous search warrants had been executed on the premises before, created an exigent circumstance. We disagree. In Stephens, the court specifically held that the belief that the defendant was in possession of a narcotic that might be readily destroyed was not a sufficient exigent circumstance justifying an unannounced, forcible entry. (18 Ill. App. 3d 817, 823, 310 N.E.2d 755, 760.) Furthermore, the fact that defendant instituted elaborate security measures and the fact that numerous search warrants were executed in the past, failed to make the situation any more “exigent.” Every citizen has a constitutional right to make his home secure against intruders. This is especially true in the instant case where the premises are located in a high crime area. The fact that numerous search warrants were executed in the past is also irrelevant.
+The State relies on People v. Hartfield (1968), 94 Ill. App. 2d 421, 237 N.E.2d 193, for the proposition that an announcement of authority and purpose is not constitutionally required in a narcotics case. We disagree. In People v. Wolgemuth (1977), 69 Ill. 2d 154, 370 N.E.2d 1067, the supreme court recently held that while the failure of police officers to announce their authority and purpose does not per se violate the Constitution, it may influence whether subsequent entry to arrest or search is constitutionally reasonable. Consequently, where such entry is not constitutionally reasonable, evidence so obtained will be inadmissible at trial. Furthermore, the State misinterprets Hartfield. Hartfield was addressing itself to a situation where exigent circumstances exist. This conclusion is readily drawn from the court’s reliance on Ker v. California (1963), 374 U.S. 23, 10 L. Ed. 2d 726, 83 S. Ct. 1623, where “Ker’s furtive conduct in eluding them [the police] shortly before the arrest was ground for the belief that he might well have been expecting the police.” (374 U.S. 23, 40, 10 L. Ed. 2d 726, 742, 83 S. Ct. 1623, 1633.) We therefore conclude that the exigent circumstances anticipated in Ker and Hartfield are simply not present in the instant case inasmuch as there is no evidence to indicate that defendants were expecting the police at the time of the breakin.
+For the foregoing reasons, the order of the trial court granting defendants’ motion to suppress is affirmed.
+Order affirmed.
+GOLDBERG, P. J. and O’CONNOR, J., concur.
