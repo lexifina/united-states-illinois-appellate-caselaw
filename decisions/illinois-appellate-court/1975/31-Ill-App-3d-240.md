@@ -1,0 +1,40 @@
+---
+court: "Illinois Appellate Court"
+docket: "60784"
+decided: "1975-07-25"
+citations: ["31 Ill. App. 3d 240"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elaine Katz, Plaintiff-Appellant, v. Diabetes Association of Greater Chicago, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/31/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2708939
+cites_cases: ["105 N.E.2d 727", "117 Ill.App.2d 237", "128 Ill.App.2d 205", "13 Ill.App.3d 448", "16 Ill.App.3d 582", "215 N.E.2d 1", "233 N.E.2d 85", "234 N.E.2d 378", "254 N.E.2d 144", "262 N.E.2d 735", "300 N.E.2d 279", "306 N.E.2d 473", "412 Ill. 151", "68 Ill.App.2d 29", "89 Ill.App.2d 383", "90 Ill.App.2d 196"]
+---
+
+# Katz v. Diabetes Ass'n
+
+## Majority (Mr. JUSTICE DRUCKER)
+
+Mr. JUSTICE DRUCKER
+delivered the opinion of, the court:
+Plaintiff appeals from the dismissal for failure to state a cause of action in her complaint. She contends that the complaint set out a claim which, if proven, would entitle her to relief, and therefore the trial court abused its discretion by granting defendant’s motion to dismiss.
+This action arises out of a contract dated March 1, 1972, under which plaintiff was retained by defendant to develop public information and education programs. Paragraph 3 of the agreement provided in pertinent part that the “initial period of the association created hereunder shall be for a period of one (1) year, and EPIC shall be compensated at the rate of Seven Hundred and Fifty Dollars ($750.00) per month.” Paragraph 6 provided “that either party hereto shall have the right to cancel this Agreement upon ninety (90) days prior written notice to the other.” Paragraph 8 provided that the “[ajgreement contains the entire understanding between the parties, and there are no extrinsic agreements between them outside the four corners hereof.”
+On May 15, 1973, defendant informed plaintiff that it had decided to extend the contract to July 1, 1973. She was further informed that at that “time a decision [would] be made as to further contract renewal.” On June 3, 1973, plaintiff sent a letter to defendant acknowledging the extension of the contract to July 1 and stating her belief that the 90-day notice requirement of paragraph 6 remained in effect. On June 18, 1973, in a written communication, defendant informed plaintiff that the contract was to be terminated as of July 1. Plaintiff thereafter billed defendant in the amount of $2625, $375 for the period June 1 to June 18 and $2250 for the period covered by the 90-day notice provision.
+Defendant tendered a check of $750 in payment for the month of June 1973, claiming that this was “full payment of all sums owing to [her] by this Association.” Plaintiff neither endorsed nor deposited this check. Rather, she initiated the instant suit alleging that defendant failed to give her 90 days’ notice of termination as required by the contract and requesting relief in the amount of $2625.
+Pursuant to section 45 of the Civil Practice Act (Ill. Rev. Stat. 1973, ch. 110, par. 45) defendant moved for dismissal “for the reason that the Complaint fails to state a claim upon which relief can be granted.” Specifically it was argued that:
+“[T]he 90 day cancellation provision in paragraph six (6) of the Complaint is not applicable to the automatic termination of the contract at the end of the initial one (1) year period, or to its termination at the end of the extended period, July 1,1973. Rather, it is defendant’s position that the ninety (90) day provision is applicable only in the event that either party had wished to terminate the contract prior to the end of the contract term, or prior to the end of the contract term as extended.”
+Plaintiff in opposition to the motion argued that “the contract was of a continuous nature” and therefore, “the only method of termination which either party could unilaterally avail themselves of was pursuant to Paragraph 6, Page 2, of the basic Agreement (the 90-day notice provision).”
+Defendant, in response to this argument, asserted that “® * * plaintiff was informed on March 26, which was within the month that the contract expired, that the contract would be extended to July 1, 1973 in order that a new director for the Diabetes Association could determine' whether they wished to continue the relationship.”
+During the course of the hearing on the motion the trial judge inquired of counsel for plaintiff whether he wanted the terms of the written instrument varied by parol evidence. Counsel responded, in part, “No, I don’t. We don’t think there is any ambiguity * *
+Opinion
+Plaintiff contends that her complaint sets out a claim which, if proved, would entitle her to the relief she has sought. - '
+“There is nothing in the liberal pleading doctrine that requires a defendant to go to trial on a complaint- that does not allege facts sufficient for a cause of action.” (Consolidated Construction Co. v. Great Lakes Plumbing & Heating Co., 90 Ill.App.2d 196, 203, 234 N.E.2d 378, citing Deasey v. City of Chicago, 412 Ill. 151, 105 N.E.2d 727.) In the instant case plaintiff’s complaint was grounded on a written contract and consequently, pursuant to section 36 of tire Civil Practice Act (Ill. Rev. Stat. 1973, ch. 110, par. 36) this instrument was appended to it as an exhibit. Where such an exhibit “is relied upon as a basis for recovery and there exists a discrepancy between the allegations of the complaint and the substance of the exhibit, the latter controls and will be accepted as the factual basis of the complaint.” (Goldberg v. Valve Corporation of America, 89 Ill.App.2d 383, 390-391, 233 N.E.2d 85; see also Sharkey v. Snow, 13 Ill.App.3d 448, 300 N.E.2d 279.) Hence, to resolve the dispute before us we must look to the contract rather than to the averments in the complaint relating to the 90-day notice provision.
+In construing the contract we are governed by the parol evidence rule which provides that if the parties to an instrument .intend that it alone is to constitute the agreement between them, or if the instrument itself is complete, terms not included in the instrument may not be shown for purposes of changing the contract. (Jannes v. Microwave Communications, Inc., 16 Ill.App.3d 582, 306 N.E.2d 473.) Where the language of the contract is clear and unambiguous, extrinsic facts surrounding the making of the contract are not to be considered. (See Patent Scaffolding Co., Inc. v. Standard Oil Co., 68 Ill.App.2d 29, 215 N.E.2d 1; Bowler v. Metropolitan Sanitary District, 117 Ill.App.2d 237, 254 N.E.2d 144.) The mere fact that the parties “take divergent views of the contract language does not create an ambiguity.” National Wrecking Co. v. City of Chicago, 128 Ill.App.2d 205, 208-09, 262 N.E.2d 735.
+In the instant case the parties explicitly provided that the written agreement contained the entire understanding between them. Plaintiff conceded that there was no ambiguity in the agreement. Thus, no extrinsic evidence need be considered in construing the instrument in question. Upon examining it we believe it clear that it was the intent of the parties that the contract terminate at the end of the “initial one year period.” It follows then that, as the court below ruled, neither party was required to give 90 days’ notice unless it wished to terminate the contract prior to March 1, 1973, the automatic expiration date of the agreement.
+Accordingly we affirm the judgment entered below dismissing the complaint.
+Affirmed.
+LORENZ and SULLIVAN, JJ., concur.
+Section 36 of the Civil Practice Act (Ill. Rev. Stat. 1973, ch. 110, par. 36) provides in pertinent part:
+"If a claim or defense is founded upon a written instrument, a copy thereof, or of so much of the same as is relevant, must be attached to the pleading as an exhibit or recited therein. * * * In either case the exhibit constitutes a part of the pleading for all purposes.”
