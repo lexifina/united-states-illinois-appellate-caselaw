@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1889-04-17"
-citations: ["33 Ill. App. 20", "33 Ill. App. 19"]
+citations: ["33 Ill. App. 20"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["George S. Poppers v. Mary J. Meager."]
 source_url: "https://static.case.law/ill-app/33/cases/0020-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4987783
-cites_cases: ["10 Ill. App. 498", "114 Ill. 232", "125 Ill. 64", "15 Ill. 353", "3 Gilm. 227", "32 Ill. 38", "33 Ill. 276", "42 Ill. 500", "48 Ill. 408", "54 Ill. 215", "64 Ill. 434", "73 Ill. 473", "74 Ill. 437", "76 Ill. 115", "91 Ill. 571", "97 Ill. 147"]
+cites_cases: ["10 Ill. App. 498", "114 Ill. 232", "54 Ill. 215"]
 ---
 
 # Poppers v. Meager
