@@ -1,0 +1,35 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 65-134"
+decided: "1966-04-22"
+citations: ["69 Ill. App. 2d 264"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MORAN, P. J. and ABRAHAMSON, J., concur."]
+parties: ["Elizabeth W. Brandel, Plaintiff-Appellant, v. John M. Brandel, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-2d/69/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2592513
+cites_cases: ["100 NE2d 502", "124 NE2d 52", "153 NE 654", "186 NE2d 390", "207 NE2d 130", "323 Ill 113", "344 Ill App 157", "38 Ill App 2d 38", "395 Ill 154", "4 Ill App2d 314", "59 Ill App2d 222", "69 NE2d 835"]
+---
+
+# Brandel v. Brandel
+
+## Majority (MR. JUSTICE DAVIS)
+
+MR. JUSTICE DAVIS
+delivered the opinion of the court.
+This is an appeal by petitioner, Elizabeth W. Brandel, from an order denying her petition for the enforcement of certain provisions of the divorce decree entered July 11, 1963, wherein she obtained a divorce from the respondent, John M. Brandel.
+The decree specifically incorporated an agreement, previously entered into by the parties, which settled all matters relating to alimony and property rights. The portion of the agreement and decree over which this dispute arose, deals with the insurance policies which the respondent held on his life, and states:
+“All policies of insurance on ‘John’s life, totaling $46,000.00 in face value, shall be retained by ‘John,’ who shall pay the premiums thereon, shall keep them unencumbered, and shall maintain ‘Elizabeth’ as irrevocable beneficiary thereunder; provided, however, that when Drew reaches age twenty-one (21), ownership of $20,000.00 of this insurance will be transferred to ‘Elizabeth.’ ”
+The petitioner was not made the irrevocable beneficiary in the insurance policies, and she filed a petition asking that the respondent show cause, if any he has, why he should not be held in contempt of court for failure to comply with the terms of the decree in this respect; praying that an order be entered directing the respondent to execute appropriate change of beneficiary forms; and seeking an award of attorneys’ fees.
+The respondent answered contending that the quoted portion of the agreement and decree meant that the insurance policies were to remain unencumbered, with plaintiff designated as irrevocable beneficiary until their daughter, Drew, reached the age of 21 years (which has already occurred), at which time he was to transfer ownership of $20,000 of the policies to the petitioner as security for alimony payments; and that he would then retain the balance of the insurance free from any control by the petitioner. The trial court adopted this construction and denied the relief sought by petitioner.
+When an agreement of the parties with respect to alimony and property rights is adopted by the court and incorporated into the final decree, the agreement becomes merged in the decree, and the rights of the parties thereafter rest upon the decree. However, the incorporation of the settlement agreement into the decree by agreement of the parties, does not affect the power of the court to alter that provision of the decree when a change of circumstances warrants a modification. Maginnis v. Maginnis, 323 Ill 113, 118, 119, 153 NE 654 (1926).
+In interpreting the provisions of a divorce decree entered under such circumstances and where the specific items constituting the quid pro quo for the agreement are recited therein, as in the case at bar, it is the intention of the parties as expressed in the agreement that the court seeks to ascertain. In re Estate of Kuchenbecker, 4 Ill App2d 314, 318, 124 NE2d 52 (1st Dist 1955). The normal rules applicable to the construction of contracts apply to this situation.
+In the case at bar, the petitioner seeks to enforce the provisions of the decree. The respondent did not file a counterclaim seeking a modification of the decree due to a change in circumstances since the date of its entry, but rather, he contends that the negotiations between the parties at the time they were seeking to achieve the property settlement agreement, which was finally reached and incorporated into the decree, support his interpretation of the agreement and decree. Without passing on the propriety of this contention, we recur to the most basic rule recognized in construing written instruments, namely: that the object of construction is to ascertain the intention of the parties, and if the instrument itself is unambiguous, it then affords the only criterion of this intention and no question of construction arises. Ambarann Corp. v. Old Ben Coal Corp., 395 Ill 154, 164, 69 NE2d 835 (1946); Illinois State Toll Highway Commission v. M. J. Boyle & Co., 38 Ill App 2d 38, 51, 52, 186 NE2d 390 (1st Dist 1962).
+The agreement and decree state in abundantly clear language that the respondent was to keep in force and unencumbered, all of the insurance policies on his life, totalling $46,000; that he was to pay the premiums thereon, and maintain the petitioner as “irrevocable beneficiary thereunder.” Such provisions are without ambiguity. They state that the petitioner was to be designated as the “irrevocable” beneficiary in the policies, which means that the respondent could not revoke the beneficiary designation. There was no time limitation in connection with this beneficiary designation. The agreement and decree neither state, nor suggest, that the provision as to insurance was intended as security for the payment of alimony as respondent contends. The remainder of the provisions relating to the life insurance, additionally require that the ownership of $20,000 of this insurance be transferred to the petitioner upon the daughter, Drew, attaining the age of 21 years. There are no provisions — either expressed or implied — that thereafter the balance of the insurance is no longer to be maintained with the petitioner as irrevocable beneficiary. In fact, the agreement is otherwise. Consequently, no question of construction arises.
+The trial court did not allow the petitioner attorneys’ fees. The matter of allowance of attorneys’ fees to one seeking to enforce a divorce decree, rests in the sound discretion of the court. Roback v. Roback, 59 Ill App2d 222, 231, 207 NE2d 130 (2nd Dist 1965); Shuff v. Fulte, 344 Ill App 157, 165, 166, 100 NE2d 502 (3rd Dist 1951); 16 ILP, Divorce, Sec 172. It is probable that the trial court did not allow fees to the petitioner because it was of the opinion that she was not correct in her assertion that respondent had not complied with the provisions of the divorce decree. We assume that under the facts in this case and under the law herein pronounced, the trial court, on remand, will exercise its discretion by allowing petitioner attorneys’ fees and expenses incurred in enforcing the divorce decree.
+The order of the trial court is reversed and remanded with directions to grant the relief sought in the petition filed herein.
+Reversed and remanded.
+MORAN, P. J. and ABRAHAMSON, J., concur.
