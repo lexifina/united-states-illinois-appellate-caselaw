@@ -1,0 +1,50 @@
+---
+court: "Illinois Appellate Court"
+decided: "1892-12-02"
+citations: ["48 Ill. App. 554"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lloyd et al. v. Kelly."]
+source_url: "https://static.case.law/ill-app/48/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5132730
+cites_cases: ["129 Ill. 132", "13 Brad. 474", "15 Brad. 164", "20 Ill. App. 353", "24 Ill. App. 475", "26 N. W. Rep. 781", "27 Ill. App. 440", "30 Ill. App. 120", "33 Ill. App. 127", "36 Ill. App. 397", "43 Iowa, 563", "46 Wis. 407", "76 Ill. 241", "77 Ill. 119", "77 Ill. 593"]
+---
+
+# Lloyd v. Kelly
+
+## Majority (by the Court.)
+
+Opinion
+by the Court.
+Appellee recovered a judgment against appellants in the sum of five hundred dollars for damages sustained to her means of support by reason of the intoxication of her husband, caused in whole or in part by liquors sold to him by the appellants, as was alleged.
+It is assigned as error that the court refused the challenge of appellants to jurors Downs and Davis. Appellants’ abstract fails to set out the answers of these jurors, but in the abstract furnished by the appellee, the answers are given, and they disclose no ground for peremptory challenge.
+It is urged that the court erred in allowing appellee to testify what was her habit in respect to drinking.
+This statement of hers was unnecessary, at the time it was made, but it was probably in anticipation of a branch of the defense that the habits of her husband were induced by her own in that respect. It was certainly proper for her to state the fact after this defense was developed, and that the statement was made in advance, did no harm.
+Equally untenable is the objection that the court permitted her to testify that her husband wished to bring' liquor to the house, and. drink it there, and that she objected, for it tended to show that she was not disposed to encourage him in the use of liquor, and thus meet a point in the defense which has been persistently insisted upon all through the case.
+It is urged the court erred in refusing to permit proof that appellee had not íequired the town marshal to notify the saloon men not to sell to her husband.
+She was not bound to give such notice as a condition of recovery, and since there was no proof of such notice it was presumable no notice ivas given.
+The mere fact that by the ordinances, the marshal was required to post the names of those persons whose Avives Arould so notify him, did not impose any legal duty in this respect upon the appellee, and if any inference of waiit of good faith could be drawn from an omission to give such notice it could as Avell be drawn from the omission on her part to prove that she did give it. We regard it as unimportant.
+It is also urged the court refused to alloAv the witness Morrison to state what the husband told him when he handed him an order, given by appellee, alloAving the said Morrison to furnish liquor to her husband.
+The defendant Morrison was dismissed from the case, and, of course, has not appealed. He only could have complained of the ruling on this point, not 'the remaining defendants, to whom the order Avas not applicable, but we think there was no error in this respect.
+The husband’s declaration Avas not binding upon her under the circumstances, and Avas properly excluded.
+It is urged further that the court refused to submit certain special interrogatories to the jury, and modified another.
+The refused interrogatories called for answers which Avould not have been decisive of any question of fact, but at most Avould have been evidentiary only in their effect.
+The interrogatories did not call for ultimate facts upon which, the rights of the parties were dependent, but rather for probative facts which might more or less tend tosettle the ultimate facts. In short, they called for statements of the evidence. They were not such interrogatories as the statute contemplates, and were properly refused. Chicago & N. W. R. R. Co. v. Dunleavy, 129 Ill. 132; T. H. & I. R. R. Co. v. Voelker, Ib. 540.
+The modification of the fifth was proper, for thereby the jury were required to answer whether the supposed permission to sell was a voluntary act on the part of the plaintiff. The objection that the court did not require the jury to state under which count of the declaration they found for plaintiff, if at all, is fully met by the fact that by the first interrogatory the jury was required to answer whether the plaintiff was injured in her person, and by the second, whether she was injured in her property, or means of support, or either.
+The second was answered affirmatively, though without specifying whether the injury was to the property or means of support, or both, but no objection was taken to the answer thus made. Had a more definite answer been deemed important, it might have been obtained by sending the jury back to their room for that purpose. This objection must be overruled.
+It is. assigned as error that the court improperly instructed the jury for the plaintiff. The first instruction so given announced in substance that if the defendants sold liquor to the husband, which caused his intoxication, in whole or in part, and that thereby the plaintiff was injured in her means of support, she had a cause of action, and it was properly given.
+The second was as to the effect of certain alleged acts of the plaintiff in going with her husband to places where liquors were dispensed, and drinking in his presence, advising the jury that such acts, if proved would not bar the action, and were to be considered only in mitigation of damages, which, as we understand, is the rule of law as laid down in Hackett v. Smelsley, 77 Ill. 119.
+The third properly advised the jury that no order, permit or consent given by the plaintiff, that liquor might be sold her husband, would bar the action as to such sales, unless voluntarily given.
+There was evidence tending to show that the order given to defendant Morrison, who ivas dismissed from the case on the trial, and the alleged acts of plaintiff in giving encouragement to her husband’s disposition to drink, were involuntary, and were induced by the coercive conduct of the husband under circumstances that rendered her incapable of successful resistance. This instruction was properly given.
+The court refused certain instructions asked by defendants and error is assigned in regard thereto.
+The first of these was to the effect that if the plaintiff encouraged and permitted her husband to drink liquors at her home, and at saloons and other places, whereby he became intoxicated, and the damages complained of were the result of such intoxication, the jury should find for defendants. The second was intended to cover the same proposition in different terms, and the third, in still different phrase, was intended for the same purpose. Without attempting to determine whether the acts herein referred to could be properly regarded in bar, or only in mitigation under the rule as laid down in Hackett v. Smelsley, supra, and without discussing the evidence to ascertain how much there was in it to predicate these instructions upon, we feel clear that all there is in them which the defendants could properly insist upon, is contained in the third and fifth, which were given and which were sufficiently favorable and liberal, ho error prejudicial to appellants can therefore be found in this action of the court.
+The fourth refused seems to have but little support in the evidence. The point thereof was, by way of argument rather than of direct statement, that if the husband had ceased to support the wife, she lost nothing by the defendants’ act in selling him the liquor- which continued him in his evil course.
+In other words, if he had become a drunkard and from that cause ceased to support her, she could not complain if the defendants kept him in the same condition, and prevented him from resuming his normal condition, and thereby prolonged the loss entailed upon her by bad habits which their act assisted to maintain and strengthen. We are constrained to disagree with this position, and to hold that the defendants would, in a legal aspect, be just as responsible for continuing the loss as for causing it in the first place, though the damages might not be the same in both cases.
+The wife is entitled to support from her husband, and may complain whenever his capacity or inclination to support her is substantially impaired or diminished. Although he may have previously contracted the habit which so deprived her of her legal due, yet if the supply of liquor were discontinued he would presumably be restored to his normal condition and capacity, at least to some appreciable extent, and whatever prevented such restoration would amount to a loss of support. The view suggested by the instruction is narrow and unreasonable, as we think, and was properly disregarded by the trial court.
+The sixth refused referred only to the alleged order given to the defendant Morrison, and the matter therein set up could not be availed of by the other defendants. As the case was dismissed as to Morrison, the court very properly refused the instruction. It had no place in the case and could have served only to mislead the jury.
+The fifth instruction was properly modified by the substitution of the word voluntarily, as qualifying the supposed authority to sell.
+On the merits of the case there seems to-be no good reason for interfering with the judgment.
+Applying the strict rule of liability imposed by our statute to the testimony, it is quite apparent the jury had ample warrant for the conclusion reached. The amount allowed is clearly within the proof, and there is no occasion to suppose the jury were actuated by passion or prejudice.
+The plaintiff suffered grievously by reason of her husband’s inebriation. If the defendants contributed thereto they can not complain, under the law as it is written in the Dramshop Act, that the damages assessed are too high. The judgment must be affirmed.
