@@ -1,0 +1,32 @@
+---
+court: "Illinois Appellate Court"
+docket: "Gen. No. 46,467"
+decided: "1955-05-17"
+citations: ["6 Ill. App. 2d 271"]
+reporter: "ill-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Russell E. Smith, and Ednah M. Jaffray, as Executors of Last Will and Testament of David S. Jaffray, Deceased, Appellants, v. John B. Carlson, and Ingrid T. Carlson, Appellees."]
+source_url: "https://static.case.law/ill-app-2d/6/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5141150
+cites_cases: ["133 Ill. 183", "183 Okla. 214", "215 Ala. 682", "330 Ill. App. 498", "350 Ill. App. 26", "381 Ill. 486", "4 Ill.App.2d 452", "54 Pac. 234", "81 P.2d 318", "84 Wis. 235", "94 N. M. 316"]
+---
+
+# Smith v. Carlson
+
+## Majority (MB. JUSTICE SCHWABTZ)
+
+MB. JUSTICE SCHWABTZ
+delivered the opinion of the court.
+Plaintiffs appeal from an order dismissing a scire facias proceeding. On January 20, 1934, David S. Jaffray, now deceased, recovered a judgment for $1,404.48. He died November 4, 1953. On January 15; 1954, his executors filed an affidavit for revival of the judgment by scire facias. The writ was issued on that date but was not served. An alias writ was issued January 29, 1954, and was duly served. On February 4, 1954, defendants filed a motion to dismiss the proceedings on the ground that an order of revival could not be entered after expiration of the life of the judgment on January 20, 1954. Upon a hearing the trial court dismissed the cause.
+To understand the issue in this case it is necessary to consider the statutes limiting actions on judgments. A judgment when rendered becomes a lien on real estate. If execution is not issued within one year, the judgment is said to “lose its vigor” and ceases to be a lien. However, execution may be had at any time within seven years and then the judgment again becomes a lien from the time execution is delivered to the sheriff. (Ill. Rev. Stat. 1953, ch. 77, sec. 1, par. 1 [Jones Ill. Stats. Ann. 107.151].) After seven years the judgment becomes “dormant” and no execution may issue until and unless the judgment is revived by scire facias. (Ill. Rev. Stat. 1953, ch. 77, sec. 6, par. 6 [Jones Ill. Stats. Ann. 107.156].) A judgment may be revived by scire facias or a civil action may be brought thereon within twenty years after the date of judgment. (Ill. Rev. Stat. 1953, ch. 83, sec. 24b [Jones Ill. Stats. Ann. 107.284(2)].)
+It is to be observed that there are three types of limitations on judgments — first, a limitation on their vigor as a lien; second, a limitation on the period in which execution may issue; and, third, a twenty-year limitation which definitely terminates the life of a judgment. The specific remedy for restoring a dormant judgment so that execution may issue is a scire facias proceeding. In such a proceeding an affidavit is filed in the same cause in which the judgment was rendered. While the statute provides for filing of the affidavit as a separate action, scire facias is not a proceeding distinct from the original action, but is a continuation of that proceeding. It is a writ or process in the original suit for the purpose of securing the right to issue execution upon a judgment that has become dormant prior to the expiration of its legal life. Tucker v. Gramer, 4 Ill.App.2d 452; Industrial Nat. Bank of Chicago v. Shalin, 330 Ill. App. 498; Smith v. Stevens, 133 Ill. 183; Bank of Edwardsville v. Raffaelle, 381 Ill. 486; Ingraham v. Champion, 84 Wis. 235; Mobile Drug Co. v. McCullough, 215 Ala. 682; Mower v. Kip, 6 Paige N. Y. 88; Bartlett Mortgage Co. v. Morrison, 183 Okla. 214, 81 P.2d 318; Brown & Manzanares Co. v. Chavez, 94 N. M. 316, 54 Pac. 234.
+While nothing can be done to restore the life of a judgment which has run its twenty-year course, the filing of an action of debt on a judgment tolls the statute of limitations and a new judgment may be obtained even after the twenty-year period. Thus we may add another somatic term to the curious phrases in which a judgment is described in legal lore and say that even in the last agony of death, it has the power to reproduce. It is only by a suit in debt and not by scire facias that this generative power may be exercised. Scire facias is a remedy only for the renewal of vigor to an old judgment so as to enable the issuance of execution thereon (cases, supra).
+It is urged by plaintiffs that the statute referred to (Ill. Rev. Stat. 1953, ch. 83, sec. 24b) indicates an intention to abolish the distinction between proceedings by way of scire facias and a suit in debt insofar as it permits “revival” within twenty years, and therefore the commencement of a scire facias proceeding should toll the statute of limitations. It appears to us that the law still maintains the distinction. The statute, eliminating those portions which are not relevant to this issue, reads as follows:
+“Judgments . . . may be revived by scire facias . . . within twenty years . . . after the date of such judgment and not after; . . .” Ill. Rev. Stat. 1953, ch. 83, sec. 24b.
+In other words, the actual revival of a judgment must be accomplished within twenty years.
+The cases heretofore cited show that the courts adhere to the distinction between the two proceedings. It is true, as plaintiffs argue, that after the filing of a proceeding in scire facias, circumstances over which a plaintiff has no control might delay the entry of a judgment of revivor beyond the twenty-year period. But scire facias is a simple proceeding and such delays are not at all likely to occur. If, under extraordinary circumstances, a plaintiff should be faced with such a prospect, he can easily protect himself by filing a suit in debt any time before the expiration of the twenty-year period.
+Counsel for plaintiffs rely upon Williams v. Fredenhagen, 350 Ill. App. 26. In that case the plaintiff sought to- amend an affidavit and writ of scire facias six months after the twenty-year statute of limitations had expired. The court permitted her to do so. While it may have been a useless act to have allowed the amendment when the proceeding had perhaps become moot, nevertheless it is not a precedent for the question under consideration here. It decides only that the amendment should have been allowed by the court below. No question such as is involved in the instant case was raised.
+Judgment affirmed.
+McCORMICK, P. J. and ROBSON, J., concur.
