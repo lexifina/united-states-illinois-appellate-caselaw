@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "79-1510, 79-1809 cons."
+decided: "1981-02-17"
+citations: ["93 Ill. App. 3d 699"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GOLDBERG, P. J., and O’CONNOR, J„ concur."]
+parties: ["In re MARRIAGE OF EARLEAN WALDEN, Petitioner-Appellee, and SALATHIEL WALDEN, Respondent-Appellant."]
+source_url: "https://static.case.law/ill-app-3d/93/cases/0699-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3131297
+cites_cases: ["117 Fed. 448", "125 N.E.2d 453", "173 N.E.2d 417", "173 N.E.2d 418", "21 Ill. 2d 407", "32 Ill. App. 3d 467", "334 N.E.2d 737", "345 N.E.2d 493", "357 N.E.2d 477", "5 Ill.2d 222", "63 Ill. 2d 128", "65 Ill.2d 206"]
+---
+
+# In re Marriage of Walden
+
+## Majority (Mr. JUSTICE McGLOON)
+
+Mr. JUSTICE McGLOON
+delivered the opinion of the court:
+Respondent Salathiel Walden was found guilty of wilful contempt and sentenced to 30 days in Cook County Jail. Respondent appeals arguing that he was erroneously adjudged in contempt.
+We reverse.
+Petitioner Earlean Walden filed an action against respondent, Salathiel Walden, seeking a dissolution of marriage. After a preliminary hearing on August 23, 1979, the trial court verbally granted the following relief. Petitioner was granted temporary custody of the children and awarded temporary, exclusive possession of the marital residence. Respondent was required to surrender possession of the domicile by the following Sunday at 6 p.m. Petitioner was also awarded possession of a Lincoln automobile and ordered to make future payments on the car loan. The parties jointly owned the Dutchess Castle Lounge. Petitioner was permitted to operate the business until respondent secured a liquor license in his own name. The trial court also prohibited the parties from striking, beating, or molesting each other.
+On August 24, 1979, the trial court entered a written order. In addition to the aforementioned matters addressed verbally by the court, the order required that respondent turn over the liquor license to petitioner if the same was, in fact, in his possession.
+On September 10, 1979, petitioner filed a motion for rule to show cause alleging that respondent failed to surrender possession of the marital domicile at the time ordered and did not comply with the order until September 6, 1979. She further alleged that respondent refused to surrender the liquor license until August 29, 1979, in spite of the court’s order that he do so forthwith. Also cited as contemptuous conduct were respondent’s delivery of the Lincoln to Lakeside Bank which financed the vehicle, respondent’s failure to surrender keys to the cocktail lounge, and the beating of petitioner by respondent in violation of the restraining order entered by the court.
+After a hearing on September 12,1979, the trial court found respondent in contempt of court for failure to comply with the August 24 order. The court found that respondent wilfully failed and refused to turn over to petitioner the automobile and the liquor license and keys to the lounge and that the respondent beat petitioner. Respondent was sentenced to 30 days in Cook County Jail.
+On September 18, 1979, respondent appealed the findings of contempt (case No. 79-1510). On October 25, 1979, petitioner appealed the trial court’s order regarding the operation of the lounge (case No. 79-1809). These appeals were consolidated by this court. However, petitioner’s attorney withdrew from the case on December 5, 1980, and stated in his petition that petitioner would not pursue her appeal. As of this date, petitioner’s new attorney has filed neither an appearance nor a brief. We therefore address only the issue raised by respondent in case No. 79-1510.
+In Marcisz v. Marcisz (1976), 65 Ill.2d 206, 208-09, 357 N.E.2d 477, 479, the court, quoting from People ex rel. Chicago Bar Association v. Barasch (1961), 21 Ill. 2d 407, 173 N.E.2d 417, defined and distinguished civil and criminal contempt as follows:
+“Contempt proceedings, while usually called civil or criminal, are, strictly speaking, neither. They may best be characterized as sui generis, and may partake of the characteristics of both. [Citations.] Proceedings in the nature of criminal contempt have been defined as those directed to preservation of the dignity and authority of the court, while it has been said that civil contempts are those prosecuted to enforce the rights of private parties and to compel obedience to orders or decrees for the benefit of opposing parties. [Citations.] These principles, while seemingly plain and adequate, are most difficult to apply. The line of demarcation in many instances is indistinct and even imperceptible. [Citations.] A further guide may be found in the purpose of punishment. Imprisonment for criminal contempt is inflicted as a punishment for that which has been done, whereas imprisonment for civil contempt is usually coercive and, as was said in the case of In re Nevitt, (8th Cir.) 117 Fed. 448, ‘he [the contemnor] carries the key of his prison in his own pocket.’ 21 Ill.2d 407, 409-10,173 N.E.2d 418.”
+Upon reviewing the petition for rule to show cause and the trial court’s order, we find that the contempt proceedings were criminal in nature. Petitioner did not seek to coerce respondent’s compliance with the order. In fact, she admitted that respondent gave her the liquor license on August 29, 1979. Furthermore, petitioner alleged that respondent voluntarily delivered the Lincoln to Lakeside Bank which financed the vehicle and that the bank did not repossess the car or request that it be brought to the bank. Petitioner does not seek possession of the vehicle and merely alleged that respondent acted in wilful and contumacious disregard of the court’s order. The contempt charges based on a violation of the restraining order are also criminal in nature. (See People v. Marcisz (1975), 32 Ill. App. 3d 467, 334 N.E.2d 737, rev’d in part on other grounds (1976), 65 Ill.2d 206, 357 N.E.2d 477 (criminal contempt consists of doing that which has been prohibited).) Additionally, the trial court sentenced respondent to 30 days in jail. Under no circumstances could respondent purge himself of contempt.
+In Marcisz, the supreme and appellate court held that a party against whom a criminal contempt proceeding is brought is entitled to certain constitutional protections, among which is the privilege against self-incrimination. Here, respondent was called to testify under section 60 of the Civil Practice Act (Ill. Rev. Stat. 1979, ch. 110, par. 60). His right not to incriminate himself was thereby violated.
+We further note that respondent was not required by either the verbal or written order to surrender the keys. The existence of an order is a prerequisite for a finding of contempt for failure to obey an order. (People v. Wilcox (1955), 5 Ill.2d 222, 125 N.E.2d 453.) Therefore respondent cannot be charged with or found guilty of contempt for failure to give petitioner his keys.
+In case No. 79-1510, we reverse the trial court’s finding of contempt based on respondent’s failure to comply with the August 24, 1979, order. We dismiss the appeal in No. 79-1809 for want of prosecution pursuant to First Capitol Mortgage Corp. v. Talandis Construction Corp. (1976), 63 Ill. 2d 128, 345 N.E.2d 493, which provides that we may, in our discretion, dismiss an appeal for appellant’s failure to file a brief.
+For the foregoing reasons, we reverse the judgment in No. 79-1510 and dismiss the appeal in No. 79-1809.
+No. 79-1510 reversed; No. 79-1809 dismissed.
+GOLDBERG, P. J., and O’CONNOR, J„ concur.
