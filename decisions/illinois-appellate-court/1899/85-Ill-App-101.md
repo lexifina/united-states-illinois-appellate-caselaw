@@ -1,0 +1,29 @@
+---
+court: "Illinois Appellate Court"
+decided: "1899-10-12"
+citations: ["85 Ill. App. 101"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Valentine Ulrich v. Sarah Cress et al."]
+source_url: "https://static.case.law/ill-app/85/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5263668
+---
+
+# Ulrich v. Cress
+
+## Majority (Mr. Presiding Justice Crabtree)
+
+Mr. Presiding Justice Crabtree
+delivered the opinion of the court.
+This was a bill in equity exhibited by appellant against Sarah Cress, Nellie C. Birge, May 0. Campbell and Robert O. Campbell, and also against Charles E. Ulrich, administrator of the estate of John P. Cress, deceased.
+After the bill was filed Sarah Cress died intestate, and later, May C. Campbell - died intestate, leaving Ralph Campbell her only child and sole devisee, who has been made a party to this suit. Nellie C. Birge and May C. Campbell were daughters of said John P. Cress and Sarah Cress.
+The object of the bill was to subject certain real estate, described in the bill, the title to which was in May C. Campbell and Nellie C. Birge, to the payment of a judgment recovered by appellant on February 20, 1883, against said John P. Cress and Sarah Cress, his wife, in the Circuit Court of Peoria County, for the sum of $1,466.10. John P. Cress died on November 30, 1887. On December 5, 1895, the judgment in question was revived against Sarah Cress, and on December 14, 1895, an execution thereon was issued against her, which was returned “ no property found.”
+On January 20, 1896, administration on the estate of John P. Cress, deceased, was granted to Charles E. Ulrich, and the judgment above mentioned, being presented as a claim against the John P. Cress estate, was allowed March 25, 1896, for the sum of $2,816.62.
+It is alleged in the bill that the real estate described therein, and which it sought to subject to the payment of the judgment above mentioned, was purchased with the proceeds of other real estate formerly owned by John P. Cress and Sarah Cress, and that the Conveyances therefor were made to, and the title vested in, Nellie C. Birge and May C. Campbell, daughters of John P. and Sarah Cress, without consideration and in fraud of creditors, and prayed that it be subjected to the payment of appellant’s judgment.
+In the view we take of the case we have not deemed it necessary to give the details of the bill, and have therefore only stated enough to show its scope and purpose.
+Answers were filed by the various defendants, including May G. Campbell, who was then living, and the cause, being at issue, was referred to the master in chancery to take and report proofs and his findings thereon. Considerable evidence was taken before the master, who reported the same to the court with his findings thereon. The master found, and so reported to the court, that the evidence was insufficient to establish the charges of fraud contained in the bill, in reference to the conveyances of the real estate in question, and that the proofs were not sufficient to entitle the complainant to the relief prayed.
+The cause was heard in the Circuit Court on exceptions to the master’s report; the court overruled the exceptions and entered a decree dismissing the bill for want of equity, and the complainant prosecutes this appeal.
+We think the decree was right. The evidence satisfies us that the findings of the master were justified, and that the court did not err in dismissing the bill. It would serve no useful purpose to discuss the evidence in detail, and we shall not attempt it, further than to say that a portion of the funds for the purchase of the property in controversy, or a part of such property, came from Mrs. Bolender, who paid $2,400 in cash on the foreclosure of a mortgage on the property owned by John B. Cress and Sarah Cress, and had the title conveyed to herself, and, as we understand the evidence, it was the proceeds of this property which went into the purchase of the real estate in question. The evidence fails to satisfy us that this was not a fair price for the property, nor that she was other than a bona fide purchaser. Having become the owner of this earlier property, apparently in good faith, she had the right to do .with it as she pleased, and if she allowed the proceeds of it, when sold, to be invested in other real estate for the benefit of her granddaughters, N ellie C. Birge and May C. Campbell, the creditors of John P. and Sarah Cress had no cause of complaint.
+But we are further of the opinion that the defense of laches, which was interposed by appellees, was sufficient to warrant the dismissal of the bill. No reason appears, ■either from the allegations of the bill or from the evidence, why complainant should have waited some thirteen years, with a knowledge of the facts, or, at any rate, with a means of knowledge, without sooner taking steps to enforce his alleged rights against this property, if the conveyances were fraudulent, and without consideration, as he now claims. The principal judgment debtor, as we have seen, died on November 30, 1887, and no steps were taken to have administration granted on his estate until January 20, 1896, a period of more than nine years. The judgment was rendered February 20, 1883, being thirteen years prior to the filing of the bill in this suit—Mrs. Cress and May C. Campbell having died since the bill was filed. Mrs. Bolender has becomé an old lady, and facts, material to the issues involved herein, may have faded from her mind, which, years ago, perhaps, she could have clearly explained. We think this is a proper case for the application of the maxim that “ the laws assist those who are vigilant, not those who sleep upon their rights.” The decree is affirmed.
