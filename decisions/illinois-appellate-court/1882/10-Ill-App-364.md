@@ -1,7 +1,7 @@
 ---
 court: "Illinois Appellate Court"
 decided: "1882-04-14"
-citations: ["10 Ill. App. 364", "10 Ill. App. 355"]
+citations: ["10 Ill. App. 364"]
 reporter: "ill-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["The People, use, etc. v. John R. Shannon et al."]
 source_url: "https://static.case.law/ill-app/10/cases/0364-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 852648
-cites_cases: ["1 Gil. 525", "76 Ill. 383", "77 Ill. 52", "78 Ill. 192", "78 Ill. 394", "80 Ill. 233", "85 Ill. 205", "94 Ill. 30"]
+cites_cases: ["1 Gil. 525", "76 Ill. 383", "77 Ill. 52", "85 Ill. 205"]
 ---
 
 # People v. Shannon
