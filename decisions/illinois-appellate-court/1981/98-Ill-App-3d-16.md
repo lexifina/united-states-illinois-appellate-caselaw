@@ -1,0 +1,38 @@
+---
+court: "Illinois Appellate Court"
+docket: "80-345"
+decided: "1981-07-08"
+citations: ["98 Ill. App. 3d 16"]
+reporter: "ill-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["RIZZI, P. J., and McNAMARA, J., concur."]
+parties: ["SOCIETY OF ST. FRANCIS, Plaintiff-Appellant, v. HAROLD S. DULMAN, Indiv. and d/b/a Manheim Animal Hospital, Defendant-Appellee."]
+source_url: "https://static.case.law/ill-app-3d/98/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8498750
+cites_cases: ["187 N.E.2d 722", "27 Ill. 2d 93", "371 N.E.2d 634", "378 N.E.2d 1276", "382 N.E.2d 111", "406 N.E.2d 82", "422 N.E.2d 860", "62 Ill. App. 3d 233", "65 Ill. App. 3d 440", "69 Ill. 2d 320", "84 Ill. App. 3d 1095", "97 Ill. App. 3d 334"]
+---
+
+# Society of St. Francis v. Dulman
+
+## Majority (Miss JUSTICE McGILLICUDDY)
+
+Miss JUSTICE McGILLICUDDY
+delivered the opinion of the court:
+The Society of St. Francis, the plaintiff, is a not-for-profit corporation which operates an animal shelter and clinic. The plaintiff filed a four-count complaint against Harold S. Dulman, the defendant, the operator of Manheim Animal Hospital, concerning the defendant’s alleged mistreatment of animals.
+Count IV of the complaint was brought on the plaintiff’s behalf and on behalf of all unknown persons who took their animals and pets to Manheim Animal Hospital for rabies innoculations and vaccinations (hereafter vaccinations) during the period of March 1, 1975 to January 1, 1979. The plaintiff asserts that although the defendant accepted compensation for these services, he either failed to give the vaccinations or failed to administer them in accord with the laws of the State of Illinois. The plaintiff seeks an accounting of the amounts paid to the defendant for said services and a pro rata distribution among members of the class.
+The defendant filed a motion to dismiss asserting that the allegations in the complaint were insufficient to establish the prerequisites for maintaining a class action. The trial court dismissed count IV of the second amended complaint on January 7, 1980. The sole issue in this appeal is whether count IV contains sufficient facts to support the maintenance of a class action.
+For the purposes of ruling on a motion to dismiss for failure to state a cause of action, all well-pleaded facts must be taken as true. Acorn Auto Driving School, Inc. v. Board of Education (1963), 27 Ill. 2d 93, 187 N.E.2d 722; Chicago Principals Association v. Board of Education (1980), 84 Ill. App. 3d 1095, 406 N.E.2d 82.
+In order to maintain a class action the court must find the following prerequisites: (1) the class is so numerous that joinder of all members is impracticable; (2) there are questions of fact or law common to the class which predominate over any questions affecting only individual members; (3) the representative party will fairly and adequately protect the interest of the class, and (4) the class action is an appropriate method for the fair and efficient adjudication of the controversy. (Ill. Rev. Stat. 1979, ch. 110, par. 57.2.) The trial court did not specify which of these prerequisites were not satisfied in the plaintiff’s complaint.
+We believe that the plaintiff has satisfied the first requirement, that the joinder of all members of the class is impracticable. The plaintiff has alleged that the class consists of all persons who brought animals to the defendant for vaccinations during the four-year period. To require multiple separate claims would be both expensive and an imposition on the litigants as well as the courts. See Steinberg v. Chicago Medical School (1977), 69 Ill. 2d 320, 371 N.E.2d 634.
+Regarding the second prerequisite, in order to determine whether a common question of fact or law predominates over other questions affecting only individual members, we must determine whether the successful adjudication of the plaintiff’s claim will establish a right to recovery in other class members. (Goetz v. Village of Hoffman Estates (1978), 62 Ill. App. 3d 233, 378 N.E.2d 1276.) The plaintiff has ásserted in its complaint that the defendant did not administer vaccinations in accord with State law and seeks a refund of the monies it has paid the defendant for said vaccinations. If the plaintiff is successful in proving this claim, other class members will also be entitled to a refund. The fact that the class members’ claims for refunds may be in varying amounts which must be determined separately does not necessarily mean that the common question does not predominate. Saldana v. American Mutual Corporation (1981), 97 Ill. App. 3d 334, 422 N.E.2d 860.
+The defendant asserts that our decision in Goetz v. Village of Hoffman Estates supports the dismissal of count IV of the complaint. In Goetz three owners of residences in a Hoffman Estates subdivision brought a class action suit against the general contractor, the electrical subcontractor, the village and its inspector for the alleged improper wiring of their homes. The plaintiffs also asserted that in the future other homeowners in the subdivision would encounter similar problems and asserted that all the homes should be rewired. This court held that the trial court correctly dismissed the class action because the case involved separate, and by no means identical, transactions. We pointed out that the fact that the named plaintiffs might prove that the defendants were negligent or guilty of intentional misconduct in the selecting, installing and inspecting of the wiring in their homes would not establish that the wiring in the other subdivision homes was defective.
+We believe that Goetz is distinguishable. In Goetz proof that the wiring in the plaintiffs’ homes was installed improperly would not establish that the wiring in the other homes was defective.
+However, in the instant case the plaintiff has alleged that the defendant did not administer the vaccinations in accordance with the law. If the plaintiff is able to prove this allegation, it will have established this fact concerning all vaccinations administered during the four-year period. For this reason, we believe that the second prerequisite has been satisfied.
+In its complaint the plaintiff asserted that because it is a not-for-profit corporation engaged in charitable work and seeking the humane treatment of animals, it will fairly and adequately protect the interest of the class. We agree. The interests of the plaintiff and the absentee class members are identical and there is no evidence that this is a collusive or friendly action. Representation by the plaintiff will, afford due process protection to other members of the class. Steinberg v. Chicago Medical School; Spirek v. State Farm Mutual Automobile Insurance Co. (1978), 65 Ill. App. 3d 440, 382 N.E.2d 111.
+Finally, we conclude that a class action is an appropriate method for the fair and efficient adjudication of the controversy. Due to the numerous members of the class and the existence of a common question of fact, a class action will serve the economies of time, effort and expense and prevent possible inconsistent results. Spirek v. State Farm Mutual Automobile Insurance Co.
+Because the plaintiff’s second amended complaint contains sufficient allegations regarding the maintenance of a class action, the trial court erred in dismissing the complaint.
+For this reason, the judgment of the Circuit Court of Cook County is hereby reversed and this matter is remanded for further proceedings consistent with the views expressed herein.
+Reversed and remanded.
+RIZZI, P. J., and McNAMARA, J., concur.
