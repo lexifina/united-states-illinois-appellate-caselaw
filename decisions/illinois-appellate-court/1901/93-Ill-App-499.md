@@ -1,0 +1,24 @@
+---
+court: "Illinois Appellate Court"
+decided: "1901-02-13"
+citations: ["93 Ill. App. 499"]
+reporter: "ill-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["School Directors, etc., v. C. H. Birch."]
+source_url: "https://static.case.law/ill-app/93/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5287691
+---
+
+# School Directors v. Birch
+
+## Majority (Mr. Justice Dibell)
+
+Mr. Justice Dibell
+delivered the opinion of the court.
+The school directors of district number one, in township sixteen, range two west, in Eoolc Island county, hired C. II. Birch to teach school in their district nine months at thirty-five dollars per month. He taught four months, and was paid in full therefor. The directors then discharged him for negligence in the performance of his duties, the particular negligence, for which they had repeatedly admonished him, and tivice requested his resignation, being tardiness at school. After the expiration of the term for which he had been hired, he brought this suit to recover wages therefor. The balance remaining due to him, if he was entitled to recover at the agreed-rate for the full time covered by his employment, was one hundred and seventy-five dollars. The justice of the peace before whom the suit was begun gave judgment for Birch for two hundred dollars, defendants not appearing there. On appeal to the Circuit Court, a jury gave Birch a verdict for one hundred and seventy-five dollars, which the court set aside. At a second trial in the Circuit Court, plaintiff recovered another verdict for one hundred and seventy-five dollars. Defendants moved for a new trial, which was denied, and judgment was rendered on the verdict, and this is an appeal from that judgment. - -
+The judgment must necessarily be reversed, for Birch earned between sixty and eighty-five dollars at other employment after he was discharged, and during the remainder of the term, which should in any event be deducted from the salary, if plaintiff was entitled to recover.
+We are further of the opinion that Birch has no cause of action. The overwhelming preponderance of the evidence is that during the four months Birch taught, he was late at school two or three days each week. The regular hour for school to convene was nine o’clock in the morning. The teacher had the key, so that the scholars could not get into the school house till he arrived. It was the fall and winter season, when the weather was often cold or stormy, and the children, were kept out in the rain or cold until the teacher came. On two or three days of each week, he arrived at the school house at 9:15, 9:20 or 9:30 a. m. The directors repeatedly exposulated with him, but without effect. Part of the time Birch boarded four miles distant, for his own convenience in attending a singing school four nights in the week at a distant village; but after he ceased attending this singing school, and boarded much nearer his school, he was still tardy. Hot only was his tardiness injurious to the children, in compelling them to stay out doors in bad weather, but it tended to cause the parents to send their children late, to avoid their standing out waiting for the teacher. All this was calculated to greatly injure the efficiency of the school, and to prevent the pupils receiving the benefit they were properly entitled to have from their attendance at school. The teacher also largely surrendered the instruction of the younger scholars to the older ones, and was derelict in his duty in other respects, which it is not necessary that we should discuss. The evidence offered by Birch is but slightly contradictory to that offered by the directors, except his own testimony. He testifies that he was late but three times in the four months he taught, but the proof preponderates very greatly against him. The third clause of section 27 of article 5 of the school law gives the school directors the power to dismiss a teacher for various specified causes, including negligence. This record makes it very clear that Birch was repeatedly and persistently negligent in the discharge of his duties, and that he wholly disregarded the efforts of the directors to induce him to give proper attention to his school. We must presume that at this third trial all the evidence bearing upon the issues was produced, and upon that evidence we are of opinion a verdict for Birch in any sum can not stand. The judgment of the court below will therefore be reversed.
+Finding of facts to be incorporated in the judgment:
+We find that Birch was guilty of negligence in the conduct of his school, and was properly discharged by the school directors, and has been paid for all the time he actually served as teacher, and is not entitled to recover any salary as wages for the time covered by his contract after he was discharged.
